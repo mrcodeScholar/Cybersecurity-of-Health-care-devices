@@ -1,0 +1,165 @@
+--- Page 11 ---
+Tender for Dialysis Reprocessing unit                                                                                   Admn/Tender/83/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Dialysis 
+Reprocessin
+g unit 
+Dialyzer Reprocessing System  
+ 
+Fully automated/ computerized dialyzer reprocessing system.  
+ 
+High standardization in cleaning, volume measuring, leak testing 
+and chemical disinfecting.  
+ 
+No external dilution / minimize chemical contact. 
+ 
+Separated mixing and volume tanks to minimize cross 
+contamination.  
+ 
+Automatically shut down after system disinfecting.  
+ 
+Simultaneously and independently re-process one dialyzer at the 
+time.  
+Dialyzer Reprocessing 
+ 
+Reprocessing process: Automatic cleaning, Volume measuring, 
+Leak testing and chemical filling.  
+ 
+Should be able to process all types and brands of dialyzers.  
+ 
+Volume measuring range = 25-300ml.  
+ 
+Volume measuring accuracy + 5%. 
+ 
+Leak test method, low limit setting should be specified. 
+ Electricity Requirement  
+ 
+100-240 VAC, 50-60 Hz. 
+ 
+Temperature 10-35 degree. 
+ 
+Humidity 10-80%.  
+Water Requirement  
+ 
+RO or DI water in accordance with AAMI standard for 
+haemodialysis.  
+ 
+Input pressure 25-30 psi.  
+ 
+Flow rate 1.5-6.0 liters/minute.  
+ 
+Water consumption 27 liters/ dialyzer.  
+Display 
+ 
+LCD, backlight with auto shut off.  
+ 
+Data display, reprocessing data.  
+ 
+Failure Message Status.  
+Chemical Requirement  
+ 
+MDT PLUS 4 Cold sterilant or any other commercial peracetic acid 
+conc.3.5 - 4.5%.  
+ 
+Quantity consumed to be specified for dialyzers. Safety Alarms, 
+Audible & Visible Alarms.  
+Other requirement  
+ 
+Loose connector.  
+ 
+Dialyzer volume priming failure.  
+ 
+Leak test failure.  
+ 
+Empty Solution.  
+ 
+Self-test and disinfection interlock.  
+ 
+Priming volume lower than limit. 
+ 
+Incoming water pressure failure.  
+02 
+
+
+--- Page 12 ---
+Tender for Dialysis Reprocessing unit                                                                                   Admn/Tender/83/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-II 
+ 
+TECHNICAL BID 
+ 
+Name of Firm/Contractor/Supplier 
+  
+ 
+Complete Address &  
+Telephone No. 
+ 
+  
+ 
+Name of Proprietor/Partner/Managing 
+Director/Director. 
+ 
+ 
+ 
+Date & Time: Reprocessing Time  
+ 
+ 10-13 minutes / dialyzer.  
+ 
+Data management system.  
+ 
+Sterilant volume indicator cartridge. 
+ 
+Machine demonstration has to be done in the AIIMS, Jodhpur. 
+Time and date of demonstration will be as per department decision. 
+US FDA/European CE approved. 
+
+

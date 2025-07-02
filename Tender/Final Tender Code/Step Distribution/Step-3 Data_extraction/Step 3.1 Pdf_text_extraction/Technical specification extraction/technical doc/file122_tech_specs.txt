@@ -1,0 +1,64 @@
+--- Page 11 ---
+Tender for DEXA Scanner                                                                                                   Admn/Tender/14/2018-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page11 
+ 
+Annexure-I 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+DEXA Scanner 
+Scanning method: Wide angle Fan Beam  
+1. X-ray Source: Constant Potential Source/ Switched Pulse Dual 
+Energy  
+2. Detector System: Multi Element / Direct Digital Detectors 
+(minimum 64)- solid state with fast pulse counting technology  
+3. Scan Time: : A/P Spine <1= 30 sec , femur<= 30 sec  
+4. Scanning Method- Fan Beam  
+5. Calibration: Automatic calibration Technique for test Programme 
+& quality control  
+6. BMD Precision : Better Than 1%  
+7. Patient Position : Cross Hair Laser Light  
+8. Scan region - 190cmx60cms or more for total body  
+9. Patient Weight Limits: 150 Kgs minimum  
+10. Computer System:  
+a) Workable with most Advanced configuration  
+b) Hard Disk Minimum - 500GB  
+c) RAM • Minimum 4GB  
+d) CD /DVD drive  
+e) Monitor: At least 17" Color monitor  
+f) Printers: Laser Printer  
+11 Software required for the following:  
+a) Total Body with Body Composition  
+b) Comparison to previous Scan  
+c) Lateral spine BMD  
+d) AP Spine  
+e) Vertebral Assessment ( AP & Lateral Views)  
+f) Fore Arm  
+g) Dual Femur  
+h) Orthopedic Hip Analysis  
+i) Visceral Fat Analysis  
+j) Pediatric software (Spine & Total Body for age group 5-19)  
+k) DICOM Compatibility I. Composer m. infant whole body 
+analysis o) Phantom for calibration  
+12. Sample size- 1*1.5 mm or less  
+13. Online UPS: 2KVA with 30 mins Backup  
+14. AERB Type approval: Type approval shall be provided for the 
+model quoted  
+15. 20 tonne Air Conditioning or equivalent cooling to be provided by 
+vendor. 
+16.1. 5 years or more warranty and servicing  
+16.2. training of technician 
+16.3. The machine should not be interrupted from functioning due to 
+technical reasons covered under warranty. Furthermore, the time 
+duration of interruption should not be >5% of total time in a year when 
+machine is being serviced or repaired.  
+16.4 consumables to be quoted and price fixed for 5 years. 
+01 
+
+

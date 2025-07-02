@@ -1,0 +1,71 @@
+--- Page 10 ---
+Tender for Fully Automated Gel Documentation System                                                Admn/Tender/208/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Fully 
+Automated 
+Gel 
+Documentatio
+n System 
+1. Sensitive, multimode image capture and analysis via an intuitive 
+touch screen interface and advanced software for analyzing 
+Chemiluminescent western blots, Stained Nucleic acid Gels, Stained 
+protein gels and Chemiluminescent Nucleic Acid Blots.  
+2. System should automatically take a corresponding visible white 
+image with every chemiluminescent image exposure and should allow 
+overlay alignment with pre-stained MW markers.  
+3. The complete capability to replace a Dark Room.  
+4. The Exposure time should be from 10 milliseconds to 99 minutes.  
+5. Should have high resolution camera with 4 mega pixel or 
+more/greater resolution, 16-bit CCD Camera, motorized fixed lens 
+50mm, ƒ/0.95  
+6. At least 4 position motorized filter wheel; 1 blank for 
+Chemiluminescence and 3 for filters.  
+7. Illumination source should be 306nm trans UV and LED epiwhite. 
+Should have large 10.4 inch touch screen display with an integrated 
+computer with >200GB hard drive. To operate the touchscreen 
+interface, a stylus should be provided along with the system.  
+8. At least 5 user licenses included with the instrument.  
+9. The System should create Dark and Biased Master files to 
+compensate for the noise coming from the CCD Camera during Image 
+Acquisition.  
+10. The capability to automatically capture a series of images using 
+preset or user defined exposure times.  
+11. Innovative molecular weight overlay feature where colorimetric 
+molecular weight marker can be overlaid onto a chemiluminescent 
+image for molecular weight determination without compromising the 
+underlying chemiluminescent densitometry data.  
+12. The Software should be able to calculate sample purity 
+automatically based on band and lane intensity and should be able to 
+calculate the Relative and Absolute quantity of the unknown proteins 
+samples.  
+13. Should be an open platform to accept standard image file types 
+(i.e., TIFF, JPEG, PNG, GIF, BMP files).  
+14. The Software should be able to edit the Images and Text 
+Annotation option should also be there.  
+15. The Software should perform Lane Profile Densitometry (Lane 
+and Band Identification) and it should also analyze Molecular Weight; 
+determine the Rf and Molecular Weight of protein or Nucleic Acid 
+Bands using Installed or Custom MW Markers  
+16. At least 3 USB & 1 Network Port should be included in the 
+System and the system should get directly connected to the printer.  
+17. System should be upgradable and there should be flexibility to add 
+filters.  
+18. Electrical specification: 220 volts, 50Hz. single phase A.C.  
+19. After Sale, Service should be available promptly.  
+20. Should be CE or FDA or BIS approved product 
+01 
+
+

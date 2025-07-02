@@ -1,0 +1,598 @@
+--- Page 45 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/ANAT/183/GTE/A 
+ 
+45
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+               Technical Specification for Imaging & Analysis for Cytogenetics- Fully Motorised System  
+                                                            Digital Slide Scanner (Metaphase Finder System) 
+System Requirements – 
+Technical/Description: 
+MICROSCOPE: 
+Optical System: 
+ 
+ High quality optics with latest Infinity Colour Corrected System (UIS2 series)/Apochromatically corrected 
+fluorescence beam path for high Brightness, High contrast, flatness correction and color correction.  
+ 
+All optics coated with anti-reflection / anti-fungal treatment. 
+Microscope Stand:   
+ 
+Rigid and sturdy Microscope stand with in-built motorized Z-drive USING any focus for better stability 
+with TFT/LCD Touch Screen Control monitor. 
+ 
+This controller should control motorized parts like Fluorescence turret,  Objective Nose Piece, Motorised 
+Condenser. 
+ 
+Built-in motorized Z-focus with step size of at least 10  nm or better.  
+ 
+All the Motorised Parts of the Microscope should be controlled by the Touch Panel Controller/TFT and also 
+through the software.  
+NosePiece:  
+ 
+Seven or more position Motorized objective nosepiece. 
+Observation tube:  
+ Wide Field Trinocular observation tube with three way light path selection (100:0/80:20/0:100)/ (100:0/0:100)  for 
+simultaneous observation and imaging having. F.NO. 22mm or better. 
+ 10X eyepieces with F.N. 22 or higher 
+Mechanical Stage: 
+ 
+XY Motorized scanning stage with adapter for  >7 slides at a time or better with at least 12 adjacent fields per 
+second, scan speed of less than a minute per slide  
+ 
+
+
+--- Page 46 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/ANAT/183/GTE/A 
+ 
+46
+ 
+ 
+Condenser:  
+ 
+Motorized condenser for all microscopy techniques with 8-position turret for optical elements, with 
+motorized polarizer in/out. Motorized in/out top lens. 
+Illumination:   
+ 
+High color reproductivity with LED light or 100 W halogen source with suitable green filter for karyotyping 
+with an average life of at least 20000 hours.  
+Objectives:  
+ 
+ Plan Semi Apochromat 4X/0.13 or 5X/0.16 
+ Plan Semi Apochromat 10X/0.3  
+ Plan Extended  Apochromat 40X/0.95 or semi apochromat 40X/0.75 
+ Plan Extended  Apochromat 60XOI/1.42  or plan apochromat 63X/1.4– Oil Immersion Objective.  
+ Plan Extended  Apochromat 100XO/1.45 or 100X/1.4 – Oil Immersion Objective.  
+ 
+ 
+Fluorescence Attachment & Reflected Light Fluorescence:  
+ 
+Motorised Eight or more position fluorescence/ FISH Filter turret with eqquipted with latest technology. 
+ 
+130 watts Mercury/Metal Halide or 100 W mercury Fluorescence light source with approx.2000 hrs.  
+ 
+Built in Intensity attenuator and high performance Light guide to avoid high heat transmission to sample. 
+Immersion Oil: 
+ 
+Automatic oil dispenser. Any good quality immersion oil should be applicable. 
+FILTERS:  
+ 
+Single bandpass DAPI filter (Ex: 350/30, Em: 460/50). 
+ 
+Single bandpass Green filter (Ex: 495/25, Em: 537/29). 
+ 
+Single bandpass Orange filter (Ex: 546/22, Em: 590/33). 
+ 
+Single bandpass Aqua filter (Ex: 436/20, Em: 480/30). 
+ 
+Dual bandpass filter (Green/ Orange). 
+ 
+Triple bandpass filter (DAPI/Green/ Orange). 
+ 
+Note - Single filter should be replacable if required. (There should be one empty position for 
+brightfield and karyotyping imaging) 
+CAMERA: 
+ 
+ 
+Monochrome 
+ 
+Resolution: 5-12MP . 12 adjacent fields per second, scan speed of less than a minute per slide  
+ 
+Resolution (HxV) – 2448px X 2048px. 
+ 
+Sensor Type: CMOS. 
+ 
+Frame Rate: 30fps. 
+ 
+Pixel bit depth: 12-bit . 
+ 
+Pixel Size (HxV): 3.45µm X 3.45µm. 
+
+
+--- Page 47 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/ANAT/183/GTE/A 
+ 
+47
+ 
+ 
+ 
+Shutter: Global shutter. 
+ 
+Interface: USB 3.0. 
+OIL DISPENSER: 5 
+ 
+Automated oil dispensing following x10 scan prior to high resolution capture of selected metaphases. 
+ 
+Automated oil drop sensing by optical sensor to achieve accurate oil amount and optimum oil spread. 
+DATABASE: 
+Data Management: 
+ 
+Single database for all applications. 
+ 
+Modern paperless laboratory design management software. 
+ 
+View full-case summary status from the database management station. 
+ 
+Workflow oriented database user interface, includes all the information about the patient demographics, 
+images, results, etc. 
+ 
+Microsoft SQL server based database for maximum security and scalability. 
+ 
+All images stored should be of conventional formal: jpg or tiff. 
+ 
+The database should manage all patient / sample demographics as well as images for all sample types 
+analyzed.   
+ 
+Better control on flow and data protection by temporal lock of data as needed. 
+ 
+Ability to assign levels of security for user access. 
+ 
+Ability to assign advanced roles & permissions management. 
+ 
+User notification of the next “To Do” item according to roles & permissions. 
+ 
+Case attachments – ability to scan patient info, document, images and incorporate into case view. 
+ 
+Combined gallery view of all image types capture for a case, giving the user the ability to choose multiple 
+images side by side viewing. 
+ 
+Search mechanism by any case or slide field or combination of any fields even when archived. 
+ 
+The ability to meet or exceed tdhe HIPAA compliant security standards for protecting data information. 
+ 
+Audit trails and logging is required for case/image status modification. 
+ 
+Audit  data  must  be  viewable  through  the  user  interface  by  an administrator with appropriate 
+security permissions. 
+ 
+Automated data maintenance. 
+
+
+--- Page 48 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/ANAT/183/GTE/A 
+ 
+48
+ 
+ 
+ 
+Automatic archiving of completed cases and based on user defined rules. 
+ 
+Single click retrieval of archived cases. 
+ 
+Single database can support multi-site installations  without the need to transfer data between 
+workstations. 
+LIS Connectivity: 
+ 
+System should have open interface for LIS, implemented worldwide with various LIS systems. 
+ 
+Ability to import/export patient demographic data from/to hospital LIS system. 
+ 
+Automatic Import of patient information and test protocol from LIS. 
+ 
+Automatic export of results, images and reports to LIS. 
+Report Generation: 
+ 
+Digital Chromosome overlap report. 
+ 
+Case Report summarizing karyotype of all cells aberrations for immediate view of clones and common 
+aberration. 
+ 
+Ability to perform special reports to include chromosomes from multiple cases, normal and aberrant 
+ideograms and annotations. 
+ 
+Ability to create a report hiding the sex chromosomes (for pre-natal tests). 
+ 
+Obtain statistics across any subset of cases according to desired parameters. 
+ 
+Ability to create, view and save customizable summary reports for case statistics per sample type, period 
+of interest (day/week/month/quarter) and more, for CAP Guidance compliant reporting. 
+ 
+Ability to create, view and save customizable turnaround time reports per sample type, period of interest 
+(day/week/month/quarter) and compare performance year on year to make data driven decisions. 
+ 
+Summarize case results - normal, abnormal, failed - and review per specimen type .  
+ 
+Ability to create, view and save customizable slides statistics reports. 
+ 
+Ability to create, view and save customizable staff productivity reports per sample type, period of interest 
+(day/week/month/quarter) and more. 
+KARYOTYPING: 
+Automated Scanning for Metaphase Detection:  
+ 
+Fully automated, walk-away operation for 8-9 slides and 12 adjacent fields per second, scan speed of less 
+than a minute per slide.  
+ 
+The system must operate unattended through the entire process for both low and high magnification 
+scanning and capture. 
+ 
+One click definition of common slide-tests. 
+ 
+One click definition of panel-test spreading over multiple slides. 
+ 
+Rapid automated scan for the detection of cover-slip and identification of amniotic fluid colonies. 
+(prenatal samples). 
+ 
+Rapid automated scan for the detection of cover-slip and identification of amniotic fluid colonies. (prenatal 
+samples) with in a minute  per slide.  
+
+
+--- Page 49 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/ANAT/183/GTE/A 
+ 
+49
+ 
+ 
+ 
+Scanning and metaphase detection of the following staining types: G-band, Q-band, R-band and DAPI 
+stained metaphases. 
+ 
+Automated exposure adjustment for optimal image quality and metaphase detection. 
+ 
+Full slide coverage, scanning of slide edge to edge. 
+ 
+Machine learning algorithms for optimal metaphase detection. 
+ 
+Automated metaphase grading during scan. 
+ 
+Highly graded metaphases to be selected automatically for automated high magnification image 
+acquisition. 
+ 
+During slide scanning, allow user to interactively select desired metaphases for high magnification image 
+acquisition. 
+ 
+Real-time scanning progress indicator - displays gallery of captured metaphases. 
+ 
+Real-time scanning progress indicator - displays position of scanning on mini slide viewer. 
+ 
+Automated relocation to selected metaphases, using 63x/100x oil immersion objective,  following detection 
+using 5x/10x magnification with no user intervention. 
+ 
+Automated metaphase centering algorithm of high magnification capture. 
+ 
+Ability to fuse floater chromosomes  to the metaphase within the scanning application. 
+ 
+Side by side display of low and high magnification metaphase images to ensure all chromosomes are 
+included within the high magnification image. 
+ 
+Automated exposure and focusing of metaphase with best focus layer selection to ensure crisp and sharp 
+metaphases images. 
+ 
+Option for user to select the metaphases to be later automatically captured in 63x/100x (e.g.:  Bone 
+Marrow samples. 
+ 
+Automated metaphase finder and high magnification capture  of FISH metaphases, including all FISH 
+colors wih optional Z-stack. 
+Chromosome Analysis and Karyotyping:  
+ 
+Ability for multiple users to perform analysis on individual images within the same case simultaneously, 
+for faster analysis of an urgent case. 
+ 
+Import and analyze metaphase images captured by third party system in standard image formats. 
+ 
+Highly accurate Artificial Intelligence (AI)/ Deep Neural Network (DNN) enhanced flexible karyotyping (or 
+chromosomal assignment), available for all common human samples and banding patterns AI/DNN based whole 
+metaphase separation, including overlapping, touching and clusters chromosomes. Interactive/Automatic 
+metaphase quality detection for automated metaphase separation. 
+ 
+Automatic threshold to separate between background and chromosomes. 
+ 
+Single click access to customizable set of reference websites from the karyotyping application. 
+ 
+Ablility to handle G-,R-,Q- banding, polyploid cells and markers. 
+ 
+Drag and Drop Chromosomes in karyotype: The entire chromosome should be seen (with all its gray 
+values) while dragged into Karyotype (not just the contour), in order to enable comparing bands even 
+before released in a new location. 
+ 
+
+
+--- Page 50 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/ANAT/183/GTE/A 
+ 
+50
+ 
+ 
+ 
+Expand or shrink specific chromosome boundaries by keyboard short key. 
+ 
+Ability to perform chromosome segmentation operations within a single tool without additional key 
+board strokes or mouse clicks to switch to a different tool function, with more than 10 different 
+operations. 
+ 
+Join objects into one chromosome. 
+ 
+Separation of complex chromosome clusters using brush tool. 
+ 
+All contour editing and segmentation operations, including addition of missing telomere regions, can be 
+done within the karyotype window. 
+ 
+Automatic separation of touching chromosomes without user interaction. 
+ 
+Enhancement tools (sharpening, contrast, staining etc.) are available using sliders in all analysis steps. 
+ 
+Automatic counting of chromosomes with minimal adjustment to complete full chromosome count. 
+ 
+Incorporate the sex chromosomes within the count tool for a display of both the model number and sex. 
+ 
+User can perform indexing on the metaphase image with the ability to associate a “?” or text with a 
+chromosome for visual awareness within the image with automatic display in ISCN format within the 
+results. 
+ 
+Keyboard short keys for indexing. 
+ 
+Mark and count the overlapped chromosomes automatically 
+ 
+User can track and mark the chromosomes overlapping p/q arms. 
+ 
+Free text annotation, and markups, with different colors and shapes can be added to metaphase, 
+karyogram  images and ideograms. 
+ 
+Ability to localise Marker Chromosomes in Karyotype view. 
+ 
+System can automatically present a single karyotype of multiple patients (like family members) with all 
+chromosomes included side by side for each class. 
+ 
+Karyotype arrangement is adjusted automatically based on content of chromosomes, even if chromosome 
+size is larger than standard size of the group or 10 or more chromosome are in the same class. 
+ 
+Drag  to re-classify chromosomes from one class to the other. 
+ 
+ Ability to perform a Chromosome Compare by allowing user to simultaneous review (side by side) 
+chromosomes from either all Karyotyped cells of the case and from selected Karyotyped cells of the case. 
+Minimal need to show chromosomes from 20 cells simultaneously. 
+ 
+Ability to perform a Multi-Case Chromosome Compare by allowing user to simultaneous review (side by 
+side) chromosomes from multiple related cases within a single view. Minimal need to show 2 to 6 cases 
+side by side simultaneously. 
+ 
+Ability to define a karyotype with all chromosomes of multiple family members. 
+ 
+Ablility to prepare the customised ideograms. 
+ 
+Support ISCN formats for 300, 400, 550, 700 and 850 -band levels of resolution. 
+ 
+Automatic ISCN - embedded abnormality text. 
+
+
+--- Page 51 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/ANAT/183/GTE/A 
+ 
+51
+ 
+ 
+ 
+Automatic measurement of band resolution. 
+ 
+Metaphase to karyotype with single click to ensure faster turnaround time.-Batch processing mode- 
+software should be able to convert multiple metaphases to karyotypes with single click. 
+Interactive/Automated AI/DNN based removal of non-chromosomal objects, background reduction, 
+whole metaphase separation, including overlapping, touching and clustered chromosomes, metaphase 
+quality detection for automated metaphase separation 
+FLUORESCENCE IN-SITU HYBRIDIZATION (FISH):  
+Automated FISH Scanning & Image Acquisition:  
+ 
+Fully automated, walk-away operation for 7-9 slides and  speed less than 1 min per slide. 
+ 
+Automatic control over the microscope components, filters turret, objective turret, Z axis and shutter. 
+ 
+Fully automated scanning protocol  for cell suspension and tissue samples. 
+ 
+Ablility to scan slide by descending order of cell density, defined co-ordinates or user-defined area. It  
+should come with basic scanning patterns like Spiral & line by line. 
+ 
+Simultaneous Metaphase & Interphase detection in a single scan, with ability to classify metaphases and 
+interphases in separate cell galleries. 
+ 
+Fully automated, user independent scanning protocol for tissue samples that includes: 
+1. 4x /5Xscan of entire slide in DAPI with background uniformity correction,  
+2. Auto detect of tissue followed by, 
+3. Auto scan of tissue in high magnification with all colors and 3D focal planes. 
+ 
+Interactive scan mode which enables the user to define the desired fields of view followed by automated 
+scanning and image acquisition. 
+ 
+System notifies the user of expected number of cells during the Interactive definition of FOV (fields of 
+view). 
+ 
+Built-in safe guards for coordinates that are overlapping or outside of the defined tumor regions during 
+the Interactive definition of FOV. 
+ 
+User can define scanning stop condition based on number of cells found, FOV captured, time limit. 
+ 
+System can scan multiple regions on slide with different probe for each of the regions. 
+ 
+System can perform Z-stacking based on user defined number of layers and distance between layers. 
+ 
+Automated exposure adjustment for optimal image quality and cells/tissue detection. 
+ 
+Ability to reset Scan for specific regions of unsuccessful scans. 
+ 
+Ability to scan newly added tumor regions without the need to rescan the original tumor regions. 
+Automated FISH  Analysis & Review :  
+ 
+Compatible for Suspension and FFPE samples on same system. 
+ 
+Software should support automated imaging and analysis of all probe companies. 
+ 
+Single click image acquisition with automatic switch of filters.  
+ 
+Ability to see all color layers of a cell side by side. 
+
+
+--- Page 52 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/ANAT/183/GTE/A 
+ 
+52
+ 
+ 
+ 
+Automatic cells detection based on cell morphology, size, shape, intensity. 
+ 
+Automatic cells classification based on pre-defined signal pattern. 
+ 
+User can select, add, delete cells from the captured field of view. 
+ 
+Algorithm for the detection and classification of multi-fusion FISH probes, including triple- and quad-
+color fusions. 
+ 
+Ability to define new FISH probes/kits without the need for vendor support. 
+ 
+On-screen review of automatically detected and classified cells, both through cells gallery and on the 
+images/captured field of view. 
+ 
+Single multi-tool with multiple cell editing functions, free hand cell contour drawing, editing cell 
+boundaries, deletion and more. 
+ 
+Sensitivity control panel allowing the user to adjust the level of sensitivity of each signal layer and 
+improve the cells classification. 
+ 
+Ability for user to change Image Enhancement settings of one image and if required apply to all 
+cells/frames in the gallery. 
+ 
+User can review cells by seeing each of their Z-layers separately, simultaneously for any subset of the 
+colors in 3D Mode. 
+ 
+Ability to scroll between all signal layers of a cell. 
+ 
+Multiple view modules within the software GUI: large FOV image, multi-color panel, zoom view. 
+ 
+Color coded on-screen cells review: each cell contour is colored according the signal pattern defined class 
+color. 
+ 
+Automatic detection of unexpected aberrations: Identifying aberrant cells having signal patterns that 
+were not defined by user. Automatic allocation of a new class if such cells amount reaches pre-defined 
+percentage. 
+ 
+Ability to reclassify any cell to one of 15 cell-classes in a single key press. 
+ 
+Ability for user to adjust cell and signal detection parameters for reanalysis of cells from all originally 
+analyzed frames. 
+ 
+Review bin allowing the user to mark questionable cells for later supervisor review. 
+ 
+Blinded review: multiple users can review the cells of the same slide separately without revealing the 
+analysis results of each user. Statisitics is gathered digitally but cannot be seen by the next reviewer, for 
+true double blinded process. 
+ 
+Ability to provide quantitative graphical data from FISH scanning, including cell area, signals intensity and 
+SNR. This should be used in evaluating probes and wet lab quality control. 
+ 
+Ability to change classification of entire group of cells simultaneously. 
+ 
+Original Image display – Ability to display the original images in addition to the enhanced color image. 
+ 
+External keypad for manual FISH review, allows shortkeys for switching filters in either filter wheel or 
+filter cube and can be enabled also when acquisition applications are closed. 
+ 
+Should facilitates quick scoring and support double blinded reading. 
+ 
+Can toggle back and forth quickly through the individual signal colors and also using the 3D mode. 
+QUALITY/STANDARDS: 
+
+
+--- Page 53 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/ANAT/183/GTE/A 
+ 
+53
+ 
+ 
+ 
+Certified for Microscope. 
+ 
+FDA clearance for Microscope. 
+ 
+CE Marked for Karyotyping Imaging and Analysis. 
+ 
+FDA clearance for Karyotyping Imaging and Analysis. 
+ 
+CE Marked for FISH Imaging and Analysis. 
+ 
+FDA clearance for FISH Imaging and Analysis. 
+ 
+FDA clearance for FISH algorithms like Cep XY, Her2/Neu, Urovision and ALK. 
+ 
+Free software upgrade should be provided  during the warranty periode. 
+COMPUTER: 
+ 
+ 
+OS Windows 10 Professional 64 Bit ENG. 
+ 
+Processor Intel I core i9  (3.6GHz, 8MB, 4C). 
+ 
+RAM 32GB  2400MHz DDR4 Non-ECC and 10 gGB graphic card 
+ 
+Hard drive 500 GB 7200 RPM. 
+ 
+Storage 2TB 7200 RPM.  
+MONITOR: 
+ 
+ 
+Widescreen 2560 x 1440 resolution. 
+ 
+Aspect ratio 16:9. 
+ 
+25” Monitor or higher. 
+PRINTER:   
+ 
+Laser Printer. 
+ 
+Compatible with Windows 10. 
+ 
+Print Quality-Black: 1200 X 1200 dpi. 
+ 
+Print Quality- Color- 1200 X 600 dpi. 
+UPS: 
+ 
+3 KVA USB with atleast 30 minutes backup. 
+ 
+Mandatory training to be provided by technician at vendor expenses 
+ 
+System should be installed as early as possible 
+ 
+On site service to be provided. 
+ 
+Single filter should be replacable. 
+ 
+Any necessary requirement in terms of labortary space should be conveyed in advance. 
+ 
+The probes to be used in FISH should be universally accepted. 
+ 
+Mandatory demo to substantiate the above tendor specification. 
+ 
+ 
+ 
+
+

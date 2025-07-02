@@ -1,0 +1,139 @@
+--- Page 10 ---
+Tender for ICU multipara monitor with central monitoring system, transport monitor/ module and HL7 
+Admn/Tender/67/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+Required Quanitity-36 
+1. Monitor should be completely modular with min 19” color capacitive LCD TFT display and 
+Navigation through touch screen and knob both should be present. 
+2. Monitor should display   ECG, SPO2, NIBP, Resp. 2 Temp,  4 IBP,& Sidestream/Microstream  
+EtCO2  as standard feature 
+3. Monitor should have Transport monitor cum module facility for monitor of ECG , SPO2, 
+NIBP, 4 IBP , 2X Temp with each monitor  
+4. Monitor should be upgradable with Cardiac output, PiCCO, BIS, NMT, AGM, EEGX4, 
+ScVO2, & RM through External plug and play module. The monitor should be able to display 
+at least 5 of these parameters simultaneously. Price should be quoted of each module separately 
+5. Monitor should have capability of simultaneously monitoring of Min 12 channel of waveform. 
+6. Monitor should be IT enabled for access to charting system. (HL7 compliant) 
+7. Parameter description should be as below  
+A. ECG  
+- 
+ECG: 3/5lead ECG;12-lead ECG data can be measured by standard lead placement 
+- 
+HR:15-350/min or broader,±1% or ±1 
+- 
+pacer detector: sync with the pacing signal 
+- 
+ST analysis , QT analysis and arrhythmia analysis 
+B. Spo2 
+- Should be supplied with masimo SET technology with respective sensors. 
+- Should display digital value and plethysmography 
+C. NIBP  
+ 
+ 
+- By oscillometric principal of measurement with step wise deflation 
+ 
+ 
+- Suitable for adult, pediatric, neonatal patients. 
+ 
+ 
+- Should display systolic, diastolic, mean pressure in large easy to read display. 
+ 
+ 
+- Should have manual/stat mode or automatic mode  
+- Adjustable time intervals from 2-240 Minutes and adjustable alarm limits. 
+D. IBPs – simultaneous monitoring of 4 IBP’s should be standard –  
+- 
+Range: max to 400 mmHg. 
+E. Temperature – two temperature one core and second skin simultaneous monitoring 
+- 
+Range Max to 50 deg C 
+F. EtCO2 – should be through Microstream/Sidestream method  
+8. Monitor should have non-volatile graphic and tabular trending of all monitored parameters as 
+standard for minimum 120 hrs. 
+9. Monitor should have facility to record of 48 ECG full disclosure  
+10. Monitor should be ready for interface with select model of equipment like anesthesia machine, 
+ventilators, Syringe pump of reputed companies displaying ventilation parameters, trend, 
+waveforms & loops. 
+11. Monitor should have battery back up for 120 min  
+12. System should have facility of Remote viewing of data of each monitor on Mobile / Laptop/ 
+Desktop without using any special server.  
+13. Monitor should have US FDA or European CE approved.  Certificate must be enclosed  
+14. Six Central Stations: 
+a. 22 inch touch screen display 
+b. Minimum 16 beds view to be provided in each station 
+c. UPS with 15min backup 
+d. Dual display option (based on number of monitors to be connected) 
+e. Networking cost to be included 
+15. Scope of supply :  
+a. 5 Lead ECG Cable – 2 no with Each Monitor. Please quote the rate of 10 lead cable 
+also.  
+
+
+--- Page 11 ---
+Tender for ICU multipara monitor with central monitoring system, transport monitor/ module and HL7 
+Admn/Tender/67/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+b. Adult spo2 sensor with intermittent cable – 02 no with each  
+c. Pead Spo2 sensor with intermittent cable – 01 no with each  
+d. Adult & Pead  NIBP cuff  
+- 05 no with each  
+e. Skin & Rectal Temp probe – 01 no each  
+f. EtCO2 Water trap  – 10 no with each  
+g. Sample Line – 10 no with each  
+h. IBP Intermittent cable – 02 no with each  
+i. IBP Disposable transducer – 10 no with each   
+j. Wall Mount – 01 no with each  
+ 
+16.  ICU Critical Care Charting Software Solution for ICU Beds 
+System should have Critical Care Charting facility. It should be supplied with all hardware, 
+software and networking cabling etc. which includes follows: 
+a. Server with Dual 3GHZ Processor and 128 GB RAM and 8TB storage should be 
+Quoted. 
+b. Respective Vmware License, Windows Server License and MS SQL License should be 
+Quoted. 
+c. All in One Touch enabled Laptop with Trolley for every 4 ICU Beds: Intel Core i5 
+Processor 8GB RAM and 120 GB Storage with WIFI and Windows Operating system 
+d. Charting Software with following modules should be quoted:  
+i. Medication Module,  
+ii. Drug Ordering Module,  
+iii. ICU Post Protocols, ICU General Protocols, MICU, SICU Protocols 
+iv. Fluid summary charts 
+v. Medication summary charts 
+vi. Vitals charts 
+vii. Labs data charts  
+viii. Nursing Summary,  
+ix. Data Completeness module 
+x. Patient List 
+e. Networking for each ICU Beds (2 Lan Ports at each ICU Bed) 
+f. Integration cables should be included for the Ventilator, Syringe Pump and Patient 
+Monitor for the respective ICU Beds. 
+g. HL7 Module for the HIS/LIS Integration should be Quoted. 
+h. WIFI Access Point to be provided in each ICU for WIFI Connectivity. 
+17. Scope of Supply of Hardware: 
+a. Server: 1 Number  
+b. Laptop with Trolleys: 14 Number 
+c. Connection BOX: 44 Numbers 
+d. WIFI AP: 6 Numbers 
+e. Switch: 4 Numbers 
+f. Unit Price of Each item software and Hardware to be Quoted Separately. 
+18. All components should be quote from the same manufacturer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

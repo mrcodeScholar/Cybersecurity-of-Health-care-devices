@@ -1,0 +1,136 @@
+--- Page 11 ---
+Tender for Body Composition Analyzer                                                                          Admn/Tender/81/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Body 
+Composition 
+Analyzer 
+Technical: 
+• Should be Multi-frequency segmental body composition 
+analyser. Employs latest bioimpedance spectroscopy technique 
+covering the entire beta-dispersion information. 
+• Raw data Impedance, Phase angle, Resistance, Reactance, 
+Capacitance. 
+• Calibrated for Children, Adults, Older population, Normal, Lean, 
+Obese patients. 
+• Calibrated for different ethnicity. 
+• Large colour display. 
+• Bluetooth. 
+• Certified medical isolated USB. 
+• Stores 1000 patients’ results. 
+ 
+Direct Assessment in any configuration: 
+• Single assessment. 
+• Continues monitoring. 
+• Real time monitoring. 
+• Segmental direct monitoring. 
+• Abdominal direct monitoring. 
+• Pre – defined testing monitoring. 
+• 2 Segment assessment. 
+• 5 Segment assessments. 
+• 3 Segment assessments. 
+• Star Assessment. 
+ 
+Different Parameters in Following Category: 
+• Dry weight for renal patient. 
+• Body cell mass (BCM). 
+• Glomerular filtration rate (GFR) using plasma Creatinine. 
+• Fluid status (ECW/ICW and interstitial – fluid extravascular etc.) 
+• Body composition. 
+• Nutritional status. 
+• Mineral. 
+• Protein. 
+• Creatinine clearance. 
+• Malnutrition screening. 
+ Abdominal composition. 
+• Visceral, subcutaneous fat. 
+• Visceral, subcutaneous fat Depth. 
+• Metabolic syndrome risk. 
+• One side full body assessment. 
+• Both right/left full body assessment. 
+• Both right/left full body differences. 
+ Multi-segmental muscle volume, muscle mass, for upper and 
+lower alarms, torso, upper and lower legs assessment. 
+• Multi – segmental ECW and ICW for upper and lower arms, 
+torso, upper and lower legs assessment. 
+• Upper arms cross sectional area of muscle, fat and bone. 
+• Upper and lower arms, torso, upper and lower legs Multi – 
+Segmental assessment. 
+• Z score. 
+• Vector analysis. 
+01 
+
+
+--- Page 12 ---
+Tender for Body Composition Analyzer                                                                          Admn/Tender/81/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Statistical analysis. 
+• Complete with software. 
+ 
+Other Conditions 
+• Equipment should be easy to use and the Interactive console 
+shall guide the user through the personal data input and 
+measurement process without specialist assistance. 
+• Battery Backup of 4-5days with level indicator. 
+• Easy Maintenance & cleaning- System test must be performed 
+with the text box supplied, display test must be performed once a 
+month. 
+• Provide reference ranges based on a healthy population that 
+allows identification of patients needing special attention. 
+• Should have a client identity feature allows continuous 
+measurement data be collected for each client effortlessly. The 
+feature also allows large anonymous data sets to be collected for 
+Research studies. 
+• Should be US FDA/European CE certified. 
+ Any Fault should be attended within 24 hours and unit should be 
+made functional within 72 hours. 
+ Machine should have been supplied in major government 
+institutions. 
+
+

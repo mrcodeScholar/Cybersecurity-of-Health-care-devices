@@ -1,0 +1,62 @@
+--- Page 44 ---
+ 
+ 
+SECTION –XIII 
+ 
+ALL INDIA INSTITUTE OF MEDICAL SCIENCES 
+ANSARI NAGAR: NEW DELHI: 110 029 
+F. No. 21-05/LM/AKM/2015-16 
+ 
+Name of the Item: SPECIFICATIONS FOR PLATELET AGGREGOMETER 
+1. Platelet Aggregometer working on the principle of Platelet Rich plasma (Optical 
+turbidimetric)/ Whole blood (Impedance)  
+2. Should have minimum two channels with optical aggregation – Aggregation in PRP, with 
+sample volume: 250l or less. Impedance aggregation – Aggregation in whole blood 
+preferably with a sample volume of 500l. 
+3. Should gave adjustable stirrer speed between 400 to 1000 RPM in 100-RPM steps with 
+“stirrer stopped” position, and error detection to prevent operation, if not within  10 
+RPM 
+4. Should have LCD display, one per channel, for display of : (a) Heater block – 
+temperature in °C  (b) Stirring speed in RPM (c) Operating mode ( Optical or Impedance)  
+(d) Warning message  
+5. Computerized data analysis with appropriate system software with CD-Writer for 
+convenient storage and retrieval of data, colour monitor and colour inkjet printer should 
+be included. Software package (Windows XP, or the applicable one) should be included. 
+6. System should include an internal computer interface and comprehensive software for 
+measuring upto two samples for simultaneous aggregation 
+7. Software on-board should provide for real time display of two channels of aggregation, 
+Computation of amplitude, slope, log time and area under the curve, Storage of reagent 
+data for tracking test value, demography details, for later recall 
+8. Should be FDA and CE approved 
+
+
+--- Page 45 ---
+9. System should be quoted complete with appropriate stabiliser or UPS with one hour 
+battery backup. 
+10. The recommended maintenance kit, for trouble free operation and maintenance of the 
+system for a minimum period of five years should be quoted. 
+11. The consumables including reagents should be available for supply in local currency and 
+preferably within 48 hours after ordering. 
+12. The after sales service should be available preferably within 24 hours and with trained 
+service personnel based in Delhi only. The bidder has to produce a certificate assuring 
+that they have an application specialist based in Delhi & who will be attending any test 
+related problem within reasonable time to ensure zero down time. 
+13. Warranty for 5 years & CMC price for next 5 years, which should include cost of labour 
+spares, entire equipment.  
+14. The Firm should provide price for all the reagents and consumables required for next 5 
+years. 
+ 
+15. Evaluation of Tender: The tender will be evaluated on the basis of cost of the equipment 
+along with the price of the reagents panel (for ADP, arachidonic acid, epinephrine, 
+collagen and ristocetin) and other consumables, if necessary for 100 tests. 
+ 
+Specifications are broad based and generalised and does not suit any particular firm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

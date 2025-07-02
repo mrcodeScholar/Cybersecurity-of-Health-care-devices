@@ -1,0 +1,74 @@
+--- Page 11 ---
+Tender for Rotarod (6 Compartments )-computerized                                                    Admn/Tender/15/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Rotarod                
+(6 Compartments) 
+computerized  
+Description of Function  
+1.1 The "Rota-Rod" treadmill technique has proved to be of great 
+value in research involving screening of drugs which are 
+potentially active on motor coordination  
+2 Operational Requirements  
+2.1 Microprocessor / microcontroller treadmill is required for rat 
+and mice  
+2.2 Technical Specifications  
+2.3 Rota-Rod treadmill should consist of a computer-controlled 
+stepper motor-driven drum with constant speed or accelerating 
+speed modes of operation or Variable speed via belt / gear  
+2.4 Provision of recording 6 animals simultaneously in six test 
+zones with independent trip counter.  
+2.5 Plexi-Glass front panels for viewing during test.  
+2.6 Adjustable test length(at least upto 900 sec, start speed (0-30 
+variation of +/- 3 RPM),top end speed( Max speed 30 RPM),ramp 
+speed, Forward and reverse rotation mode  
+2.7 PC connectivity as well as suitable PC of Latest configuration 
+should be supplied.  
+2.8 Printer connectivity as well as Printer should be supplied.  
+2.9 Should have a digital display shows all test results for each 
+animal position The results should include Stopping RPM, length 
+of test and distance travelled.  
+1. 2.1 Should be able to determine neuro-pixicity, muscle tone, 
+balance and motor co-ordination in rats and mice.  
+3 Standards, Safety and Training  
+3.1 Should be CE / BIS approved product  
+3.2 Calibration/Acceptance test certificate from the factory 
+required.  
+3.3 Manufacturer/Supplier should have ISO certification for 
+quality standards.  
+4 Documentation  
+4.1 User/Service Manual in English  
+4.2 Compliance Report to be submitted in a tabulated and point 
+wise manner clearly mentioning the page/ para number of original 
+catalogue/data sheet. Any point, if not substantiated with 
+authenticated catalogue/manual, will not be considered.  
+5 Bidders are encouraged to arrange for demonstration of their 
+equipment if not able to comply with all specification 
+requirement.  
+01 
+
+

@@ -1,0 +1,120 @@
+--- Page 10 ---
+   
+Supply, Installation and Commissioning of Equipment required for Department of General Surgery 
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+Technical Specification of Body composition analyser (for bariatric patients): 
+Key specification  
+1. Bioelectrical Impedance Analysis (BIA) 
+2. Measurement Items 
+3. Impedance(Z) 15 Impedance measurements by using 3 different frequencies(5kHz, 50kHz, 
+250kHz) at each 5 segments of the body 
+4. (Right Arm, Left Arm, Trunk, Right Leg, Left Leg) 
+5. Electrode Method Tetrapolar 8-Point Tactile Electrode System 
+6. Measurement Method Direct Segmental Multi-frequency Bioelectrical Impedance Analysis 
+Method, DSM-BIA method 
+7. Body Composition Calculation Method No use of Empirical Estimation 
+8. Outputs For Adult Total Body Water, Protein, Mineral, Body Fat Mass, Soft Lean Mass, Fat 
+Free Mass, Weight, Skeletal Muscle Mass(SMM), 
+9. BMI, Percent Body Fat, Waist-Hip Ratio(WHR), Nutritional Evaluation(Protein, Mineral, Fat), 
+Weight Management 
+10. (Weight, SMM, Fat), Obesity Diagnosis(BMI, PBF, WHR), Weight Control(Weight Control, 
+Fat Control, Muscle Control), 
+11. Segmental Lean, Segmental Fat, Exercise Planner, Fitness Score, Basal Metabolic Rate(BMR), 
+Impedance at Each 
+12. Segment & Frequency 
+13. For Child Height, Body Water, Protein, Mineral, Body Fat, Weight, Skeletal Muscle Mass, 
+Body Shape Graph, Growth Chart(Height, 
+14. Weight), Target Weight, Weight Control, Muscle Control, Fat Control, BMI, Percent Body Fat, 
+Child Obesity Degree, 
+15. Basal Metabolic Rate(BMR), Growth Score, Impedance at Each Segment & Frequency 
+Feature Specification  
+1. Logo Display Possible to input name of the user’s place, address and contact number 
+2. Type of Results Sheet Basic: Body composition results sheet for adult(Printed Paper/Blank 
+Paper) 
+3. Body composition results sheet for child(Printed Paper/Blank Paper) 
+4. Option: Thermal results sheet(when using thermal printer) 
+5. Sound Voice guide for instructions 
+6. Measurement Screen Results of measurement and the process of measurement will be 
+displayed on Color LCD 
+7. Data Storage Possible to save the results when ID is entered(Up to 100,000 measurements) 
+8. User’s Interface Easy to control using Touch LCD 
+9. Use of USB Storage Device Possible to backup and transfer data to USB storage 
+device(compatible with Excel and Lookin’Body software) 
+10. Should use the USB storage device provided by BIOSPACE 
+11. Data Back-Up Possible to backup data through USB storage device and to restore the data to 
+the In Body 
+12. Printer Connection USB port. 
+ 
+Other Specification  
+1. Applied Rating Current 250μA 
+2. Power Consumption 50VA 
+3. Adapter Power Input AC100~240V, 50/60Hz, 1.2A 
+4. Power Output DC 12V, 3.4A 
+5. Display Type 800 × 480 Touch Color LCD 
+6. External Interface RS-232C 1EA, USB Slave 1EA, USB Host 1EA 
+7. Compatible Printer Laser/Inkjet PCL 3 or above and SPL(Printer recommended by 
+BIOSPACE) 
+
+
+--- Page 11 ---
+   
+Supply, Installation and Commissioning of Equipment required for Department of General Surgery 
+AIIMS-Jodhpur 
+Page 11 
+ 
+8. Thermal Printer(Optional) 
+9. Dimensions 460 (W) × 677 (L) × 1020 (H): mm 
+10. 18.1 (W) × 26.7 (L) × 40.2 (H): inch 
+11. Machine Weight 20kg(44lbs) 
+12. Measurement Duration 45sec. 
+13. Operation Environment 10 ~ 40℃(50 ~ 104℉), 30 ~ 75%RH, 70 ~ 106kPa 
+14. Storage Environment -10 ~ 70℃(14 ~ 158℉), 10 ~ 80%RH, 50 ~ 106kPa(No 
+condensation) 
+15. Weight Range 10 ~ 250kg(22 ~ 551lbs) 
+16. Height Range 95 ~ 220cm(3ft. 1.4in. ~ 7ft. 2.6in.) 
+Age Range 3 ~ 99 years 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

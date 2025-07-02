@@ -1,0 +1,593 @@
+--- Page 6 ---
+ 
+Tender for Administration Software                                                              Tender No. -Admn/Tender/72/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 6 
+ 
+Annexure-I 
+Technical Specification 
+Administration 
+Director/VC 
+Deputy Director/Joint Directors 
+Administrative Officer/Administrator 
+Chief Proctor/ Proctor 
+Registrar 
+Financial Adviser 
+Account Officers 
+Legal Cell/Court Cases 
+Medical Superintendent 
+PRO/Protocol 
+Head of Departments 
+Civil works 
+Engineering 
+Electrical 
+Maintenance 
+Stores 
+Custodial Janitorial Staff 
+Security 
+Proposals 
+General Administration 
+Human Resources 
+Recruitment 
+Sales 
+Academic Calendar 
+Attendance 
+Conferences and Symposia 
+Duty Assignment 
+Fees and Fines 
+File Tracker 
+Hostel Allocation 
+Identity Cards 
+Leave Calendar 
+Library 
+Leave Travel Concession 
+Parking 
+Recruitment 
+Salary and Payroll 
+Taxation 
+NPS, PF, GST etc. 
+Space Allocation 
+ 
+The Administration module should integrate seamlessly with existing software modules in the 
+institution and draw information from them where necessary. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 7 ---
+ 
+Tender for Administration Software                                                              Tender No. -Admn/Tender/72/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 7 
+ 
+Administration 
+Director/VC 
+1. It should have provision for login of Institutional Director 
+2. It should have provision for display of all reports on Directors panel 
+3. It should have provision for display of file tracker on directors panel 
+4. It should have provision for approval of leaves 
+5. It should have provision for approval of LTC 
+6. It should have provision for approval of conference attendance 
+7. It should have provision for approval of conferences and symposia  
+8. It should have the provision for recording biometric attendance. 
+ 
+Deputy Director/Joint Directors 
+1. It should have provision for login of Joint Director/ Deputy Director Administration 
+2. It should have provision for display of all reports on Deputy Directors panel 
+3. It should have provision for display of file tracker on Deputy directors panel 
+4. It should have provision for approval of leaves 
+5. It should have provision for approval of LTC 
+6. It should have provision for approval of conference attendance 
+7. It should have provision for approval of conferences and symposia  
+8. It should have provision for making the academic calendar for the institution. 
+9. It should provision for displaying the academic calendar to the staff of the institution. 
+ 
+Administrative Officer/Administrator 
+1. It should have provision for login of Administrative Officer panel 
+2. It should have provision for display of all reports on Administrative Officer panel 
+3. It should have provision for display of file tracker on Administrative Officer panel 
+4. It should have provision for approval of leaves 
+5. It should have provision for approval of LTC 
+6. It should have provision for approval of conference attendance 
+7. It should have provision for approval of conferences and symposia  
+8. It should have provision for making the academic calendar for the institution. 
+9. It should provision for displaying the academic calendar to the staff of the institution. 
+ 
+Chief Proctor/ Proctor 
+1. It should have provision for issue of bar coded id cards 
+2. It should have provision for application of fines on the student record 
+3. It should have provision for internal messaging to higher authority 
+4. It should have provision for issue of notices by proctor 
+5. It should have provision for suspension of student whereby their attendance is abrogated 
+ 
+Registrar 
+1. It should have provision for approval of leaves 
+2. It should have provision for online receipt of correspondence and assigning bar coded file number 
+3. It should have provision for seeing employee leave records 
+4. It should have provision for seeing employee files 
+5. It should have provision for creating new employee records 
+6. It should have provision for differentiating permanent from contractual employees. 
+ 
+Financial Adviser 
+1. It should have provision for entry of institution incomes and all expenditures. 
+2. It should have provision for creation of various budget heads of income and expenditure 
+3. It should have provision for fund allocation to virtual bank 
+4. It should have provision for fund allocation to budget heads 
+5. It should have provision for monitoring institution expenditure 
+6. It should have provision for creating a balance sheet 
+7. It should have provision for monitoring cash intake from institutional services 
+8. It should have provision for entering payments. 
+
+
+--- Page 8 ---
+ 
+Tender for Administration Software                                                              Tender No. -Admn/Tender/72/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 8 
+ 
+Account Officers 
+1. It should have provision for monitoring cash intake from various counters 
+2. It should have provision for monitoring cash intake from user charges 
+3. It should have provision for monitoring cash intake from sale counters 
+4. It should have provision for monitoring cash intake from investigation services 
+5. It should have provision for monitoring cash deductions from advance deposits 
+6. It should have provision for advance deposits 
+7. It should have provision for refunds and their monitoring 
+8. It should have provision for free category employees and VIP’s. 
+9. It should have provision for preparation of accounts (vouchers, ledgers etc.)  
+10. It should have provision of preparation and comparison of actuals versus budgets online. 
+ 
+Legal Cell/Court Cases 
+1. It should have provision for creating file records of legal proceedings 
+2. It should have provision for recording status of legal proceedings 
+3. It should have provision for recording counsel remunerations 
+4. It should have provision for enrollment of counsel 
+5. It should have provision for uploading of pdf documents 
+6. It should have provision for listing of pending and closed proceedings 
+7. It should have provision for digital signature of documents 
+ 
+Medical Superintendent 
+1. It should have provision for creation of employee health cards 
+2. It should have provision for uploading of employee health documents 
+3. It should have provision for approval of employee health cards 
+4. It should have provision for assignment of DMS stores 
+5. It should have provision for online prescription of medicines 
+6. It should have provision for online issue of medicines 
+ 
+PRO/Protocol 
+1. It should have provision for identification of BPL patients 
+2. It should have provision for document upload of BPL and free category patients 
+3. It should have provision for document verification of BPL and free category patients 
+4. It should have provision for searching for patient on any bed in the hospital 
+5. It should have provision for bed display of entire hospital 
+6. It should have provision for bed occupation and vacancy statistics 
+7. It should have provision for managing VIP patients 
+ 
+Head of Departments 
+1. It should have provision for showing on bed list of entire department. 
+2. It should have provision for showing Operation lists of entire department 
+3. It should have provision for showing bed occupancy and vacancy statistics 
+4. It should have provision for showing number of operations performed in the department in a 
+specified date range 
+5. It should have provision for approving different categories of leaves online. 
+6. It should have provision for issue of departmental notices 
+7. It should have provision for Seeing details of employees and nursing staff 
+8. It should have provision for scheduling academic activity of the department 
+9. It should have the provision for deputing of teachers for institution academic activity 
+10. It should have the provision for biometric attendance 
+ 
+Civil works 
+1. It should have provision for creation of civil project proposals 
+2. It should have provision for budget allocation for civil project proposals 
+3. It should have provision for monitoring of civil project proposals 
+4. It should have provision for generation of progress reports 
+5. It should have provision for generation of fund receipt and expenditure reports. 
+
+
+--- Page 9 ---
+ 
+Tender for Administration Software                                                              Tender No. -Admn/Tender/72/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 9 
+ 
+Engineering 
+1. It should have provision for maintenance of civil engineering stores 
+2. It should have provision for allocation of civil works tasks 
+3. It should have provision for monitoring of civil works tasks 
+4. It should have provision for generating civil work progress report 
+5. It should have provision for displaying status of civil work tasks 
+6. It should have provision for sending civil work request 
+7. It should have provision for tracking civil work files 
+8. It should have provision for indicating completion and payment of civil works 
+ 
+Electrical 
+1. It should have provision for generating electrical work request 
+2. It should have provision for approval of electrical work request  
+3. It should have provision for monitoring progress of electrical work 
+4. It should have provision for generating progress report of electrical work 
+5. It should have provision for maintenance of electrical store 
+ 
+Custodial Janitorial Staff 
+1. It should have provision for keeping record of custodial/janitorial staff 
+2. It should have provision for creation of staff categories 
+3. It should have provision for attendance of custodial and janitorial staff 
+4. It should have provision for approving leaves of the custodial and janitorial staff 
+5. It should have provision for posting of custodial and janitorial staff 
+6. It should have provision for work replacement of custodial and janitorial staff 
+ 
+Security 
+1. It should have provision for generating security requirements  
+2. It should have provision for posting security personnel 
+3. It should have provision for differentiating security services in house and outsourced  
+4. It should have provision for posting security personnel 
+5. It should have provision for security personnel attendance 
+6. It should have provision for recording of security lapses 
+7. It should have provision for filing incident report 
+ 
+Proposals 
+1. It should have provision for generating proposals 
+2. It should have provision for keeping track of proposals 
+3. It should have provision for displaying status of proposals 
+4. It should have provision for indicating completed and pending proposals list 
+5. It should have provision for follow up of proposals 
+ 
+General Administration 
+1. It should provide for addition of Faculty, Student, Employees, Nursing and Paramedical Staff to 
+the Hospital Rolls 
+2. It should provide for the addition of Students and Trainees to the College 
+3. It should provide for the addition of investigations to the services 
+4. It should provide for the addition of Wards, Beds and Buildings  
+5. It should provide for the addition of Departments, Equipment, consumables, drugs, disposables to 
+the purchase module of the hospital 
+6. It should provide for the addition of New peripheral clinics and hospitals which are governed from 
+the same parent institution 
+7. It should provide for the addition of OPD schedules, on call days, theatre and non-operative OR 
+services. 
+8. It should provide for the addition of ICU beds, ICU schedules and on calls 
+9. It should provide for reporting of Departments. 
+10. It should provide for reporting of Wards, beds, ICU’s, theatres and Labs 
+
+
+--- Page 10 ---
+ 
+Tender for Administration Software                                                              Tender No. -Admn/Tender/72/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 10 
+ 
+11. It should provide for reporting of Bed Allocations and numbering 
+12. It should provide for reporting of OPD schedules, OPD attendance within date specified period. 
+13. It should provide for reporting of inpatient admissions and bed occupancy over date specified 
+periods with graphical representation. 
+14. It should provide for reporting of OPD registrations over a date specified period with graphical 
+representation 
+15. It should provide for reporting of Cash flow with graphical representation 
+16. It should provide for reporting of OPD schedules 
+17. It should provide for reporting of Investigations performed in various departments 
+18. It should provide for reporting of all the equipment in the hospital 
+19. It should provide for reporting of Surgical and non-surgical procedures 
+20. It should provide for reporting of all medical, non-medical and para medical users 
+21. It should provide for reporting of Biomedical waste generation and disposal 
+22. It should provide for reporting of Student strength in various courses. 
+23. It should provide reporting of examinations held in various courses 
+24. It should provide for reporting of Medical and non-medical stores, their intake and consumption 
+within the institution 
+25. It should provide for reporting of Patient user charges 
+26. It should provide for reporting of free, below poverty line and special category patients 
+27. It should provide for reporting of blood bank functioning, intake and disbursal of blood and blood 
+products. 
+28. It should provide for reporting of consumption of imaging materials like radiology films, 
+ultrasound paper etc. 
+29. It should provide for reporting of Hospital admissions, bed occupancy statistics 
+30. It should provide for reporting of disease specific numbers and statistics 
+31. It should provide for reporting of mortality, medico legal and adverse outcome statistics. 
+32. It should provide for generation of printed reports of any hospital information with date specified 
+periods at any time.  
+ 
+Human Resources 
+1. It should have provision for creation of employee categories 
+2. It should have provision for employee types - permanent, adhoc etc. 
+3. It should have the provision for creating separate employees 
+4. It should have provision for monitoring counter work done by various employees 
+5. It should have provision for deciding employee wages 
+6. It should have provision for setting employee allowances 
+7. It should have provision for setting and approving employee leaves 
+8. It should have provision for monitoring of employee work 
+ 
+Academic Calendar 
+1. It should have provision for making academic calendar for undergraduate students 
+2. It should have provision for making academic calendar for post graduate students 
+3. It should have provision for editing academic calendar 
+4. It should have provision for incorporating all academic activities like lectures, clinics, 
+demonstrations, tutorials, labs, dissection hall activity etc. in the calendar 
+5. It should have provision for opening each added event by clicking the link 
+6. It should have provision for adding the name of the teacher / instructor who is to conduct the 
+particular teaching session 
+ 
+Attendance 
+1. It should have provision for recording attendance of students, residents, employees, and faculty by 
+scanning of bar coded id card 
+2. It should have provision for display of attendance sheet by clicking the academic event for which 
+the attendance is being taken 
+3. It should have provision for tabulating the attendance of students and trainees 
+
+
+--- Page 11 ---
+ 
+Tender for Administration Software                                                              Tender No. -Admn/Tender/72/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 11 
+ 
+4. It should have provision for setting acute off level for low attendance in different academic 
+activities 
+5. It should have provision for signaling low attendance of a batch of students 
+6. It should have provision for condoning some attendance shortage by authorized person 
+7. It should have provision for display of examination eligibility on basis of attendance 
+ 
+Accommodation 
+10. It should have provision for recording of different categories of accommodation in the institution. 
+11. It should have provision for allocation of accommodation 
+12. It should have provision for display of accommodation occupation 
+13. It should have provision for recording of accommodation related income and expenditure 
+14. It should have provision for realizing accommodation related bills 
+15. It should have provision for recording guest house accommodation as well 
+16. It should have provision for guest house reservation requests. 
+17. It should have provision for guest house reservation calendar 
+18. It should have provision for recording of guest house reservation charges  
+19. It should have provision for guest house reservation bills and printing. 
+20. It should have provision for guest house reservation cancellation 
+ 
+Conferences and Symposia 
+1. It should have provision for making an annual conference calendar for the institution 
+2. It should have provision for adding details of the conference such as subject, venue, dates, 
+organizing committee, registration etc. 
+3. It should have provision for application for conference funds form the institution 
+4. It should have provision for tabulation of funds received for conferences and symposia 
+ 
+Duty Assignment 
+1. It should have provision for duty assignment for leave period 
+2. It should have provision for making OPD tickets in the name of the person looking after the work 
+3. It should have provision for emergency work by the person looking after the work 
+4. It should have provision for different category of leaves 
+ 
+Fees and Fines 
+1. It should have provision for setting the various fees and fines in the institution 
+2. It should have provision for realizing fees and fines from students and trainees 
+3. It should have provision for maintaining accounts of fees and fines realized  
+4. It should have provision for generating notices 
+ 
+File Tracker 
+1. It should have provision for generating a file/ letter number at the office which originates the file. 
+2. It should have provision for generating a bar coded label for the file/ letter 
+3. It should have provision for creating an origin electronic record related to the file/ letter 
+4. It should have provision for filling in the letter title and purpose and remarks at the originating 
+electronic record. 
+5. It should have provision for scanning of the bar code at each point of receipt and dispatch of the 
+file/ letter 
+6. It should have provision for writing of remarks at all offices dealing with the letter. 
+7. It should have provision for uploading of scanned copies of noting to the electronic record. 
+8. It should have provision for closure of the electronic record when the file is closed 
+9. It should have provision for generating date range reports of the letters received and dispatched 
+10. It should have provision for recording the office of origin, date of dispatch, date of receipt, 
+reference number, received from/ generated by and remarks 
+11. It should have provision for intra system e mails and sms regarding sent files. 
+ 
+Hostel Allocation 
+1. It should have provision for keeping electronic record of all hostel rooms 
+
+
+--- Page 12 ---
+ 
+Tender for Administration Software                                                              Tender No. -Admn/Tender/72/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 12 
+ 
+2. It should have provision for displaying vacant and occupied rooms separately 
+3. It should have provision for allocation of rooms by Chief Proctor 
+4. It should have provision for recording details of students/ trainees to whom rooms are allocated 
+5. It should have provision for removing students from hostel rooms by competent authority 
+6. It should have provision for recording the facilities present in the rooms 
+7. It should have provision for realizing of room charges according to the duration of allocation 
+ 
+Identity Cards 
+1. It should have provision for generation of bar coded identity cards for all category of students, 
+trainees and employees without the use of a separate software. 
+2. It should have provision for color coding of identity cards 
+3. It should have provision for recording of faculty information on identity cards. 
+4. It should have provision for taking attendance of students and trainees using the identity cards 
+5. It should have provision for change of identity cards with promotion of faculty 
+6. It should have provision for incorporating the Aadhar number in the identity card 
+ 
+Leave Calendar 
+1. It should have provision for setting the gazette holidays of the year 
+2. It should have provision for setting the different types of leaves available in the year 
+3. It should have provision for assigning duty to person who is looking after the work 
+4. It should have provision for It should automatically generate OPD ticket for person looking after 
+work 
+ 
+Leave Travel Concession 
+1. It should have provision for sending leave travel concession request. 
+2. It should have provision for It should have provision for approval of LTC request 
+ 
+Parking 
+1. It should have provision for generating parking stickers for faculty 
+2. It should have provision for designating parking spaces 
+3. It should have provision for including parking sites  
+ 
+Question Bank 
+6. It should have provision for online question bank 
+7. It should have provision for enrolling examiners in question bank 
+8. It should have provision for online uploading of questions from offsite locations 
+9. It should have provision for editing and validating questions 
+10. It should have provision for generating question papers in sets with answer keys 
+ 
+Recruitment 
+1. It should have provision for online recruitment for different posts 
+2. It should have provision for providing online recruitment forms 
+3. It should have provision for accepting or rejecting forms 
+4. It should have provision for searching candidates 
+5. It should have provision for exporting a precise list with selected forms 
+6. It should have provision for checking of eligibility by candidates 
+7. It should have provision for generating admit cards 
+8. It should have provision for displaying result 
+ 
+Salary and Payroll 
+1. It should have provision for setting salaries of all categories of employees 
+2. It should have provision for setting the allowances for all categories of employees 
+3. It should have provision for generating salary bill in the required format 
+4. It should have provision for generating salary reports of different categories of employees  
+5. It should have provision for modification of the salary and allowances. 
+6. It should have provision as per leave rules of Central Government and vacations department. 
+7. It should have online provision of leave records. 
+8. It should have provision of GPF/ CPF/ NPS and others. 
+
+
+--- Page 13 ---
+ 
+Tender for Administration Software                                                              Tender No. -Admn/Tender/72/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 13 
+ 
+9. It should have provision for auto calculation of income tax.  
+10. It should have complete payroll management system. 
+ 
+10.1. 
+Salary Pay Bill. 
+Salary head 
+Deduction 
+Basic Salary 
+Income Tax deduction 
+AGP 
+NPS 
+NPA 
+License fees  
+D.A. 
+Water charges 
+HRA 
+Any other deductions 
+T.A. 
+ 
+Any Other Allowances 
+ 
+ 
+a) Pay Bill Attachments. 
+ Tax Deduction Performa. 
+b) DA Arrear – bill. 
+c) NPS Detail. 
+d) NPS Deduction. 
+e) GPF Contribution. 
+f) CPF & Other Deduction (Loan Advance). 
+g) CGHIS Deduction. 
+h) CGHIS Statement. 
+i) Other Arrear –bill. 
+j) Arrear Pay bill Schedules. 
+k) Multi Months Pay in One Bill. 
+l) Expenditure Statement 
+m) Annual Salary Statements. 
+n) Salary Slip. 
+o) LPC (Last Pay Certificate). 
+p) Pay Drawn Statement. 
+q) Income Tax Returns (TDS) Details. 
+r) Form 16A. 
+s) NPS/GPF Statement. 
+t) Salary Bank Transfer Voucher. 
+u) Annual Increments. 
+v) Employee’s Record. 
+w) Leave Account. 
+x) Staff Statement (With Photo). 
+y) Partial Pay (Half Pay/ Without Pay Leave). 
+z) Pay Bill for contractual employees. 
+aa) Leave Encashment Date/V.No. From IFMS Bill Tracking Report. 
+bb) Customized reports in Excel. 
+cc) Bill/Reports convert to Excel file. 
+dd) Data Backup Option. 
+ee) Easy to Add/Modify Employees details. 
+ff) Easy to Modify Allowances Settings. 
+ 
+Space Allocation 
+1. It should have provision for recording faculty space in the various buildings 
+2. It should have provision for allocation of space in the various buildings of the institution 
+3. It should have provision for addition of space as new buildings are constructed 
+ 
+Sales 
+1. It should have provision for allowing sales from hospital drug counters 
+2. It should have provision for recording the sales proceeds  
+3. It should have provision for allowing refunds 
+
+
+--- Page 14 ---
+ 
+Tender for Administration Software                                                              Tender No. -Admn/Tender/72/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 14 
+ 
+4. It should have provision for allowing returns of sold goods 
+5. It should have provision for deducting indent from central store 
+6. It should have provision for catering to more than one sales counter in the institution 
+ 
+Utilities 
+1. It should have provision for allowing registration of various utilities of the institution 
+2. It should have provision for recording time based usage 
+3. It should have provision for recording utility bills with document upload 
+4. It should have provision for recording bill payments 
+5. It should have provision for getting account of utility expenditure 
+6. It should have provision for utility budgeting. 
+7. It should have provision for sending bulk text messages/ e-mails. 
+8. It should have the provision for the applicant to see his/ her leave request status. 
+9. It should have provision to generate sms/ text message when request is sent for approval to the 
+concerned person.  
+ 
+ 
+Administrative Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        AIIMS, Jodhpur 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

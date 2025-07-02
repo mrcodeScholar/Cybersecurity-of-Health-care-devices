@@ -1,0 +1,243 @@
+--- Page 10 ---
+Tender for Portable Transcranial Doppler Machine                                                                      
+Admn/Tender/30-3/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+Transcranial 
+Doppler 
+Machine 
+  
+S.No.                                  Specifications 
+1.  
+Two channel Transcranial Doppler capable of Intracranial; 
+extra cranial and peripheral use. 
+2.  
+Should be supplied with 2 MHz PW probes ( 2 Nos.) for 
+bilateral Intracranial Monitoring with probe holder for 
+probes ( 2 Nos. ) 
+3.  
+Should be supplied with 4 MHz probe (2 No) for extra 
+cranial monitoring 
+4.  
+Should be supplied with 8 MHz probe (1 No) for peripheral 
+monitoring. 
+5.  
+Probe holder should have mechanism for increasing 
+pressure of probes during the study. 
+6.  
+Should have color M-mode feature with ability to readjust 
+minimum 64 gates, preferably up to 128 gates digitally per 
+probe. 
+7.  
+Frequency range: Pulsed wave: 2-12 KHz for 2 MHz probe; 
+Continuous Wave: 3-12 KHz. 
+8.  
+Should have multi-gating with at least 64 gates, preferably 
+up to 250 gates 
+9.  
+Should have multi-frequency operation 
+10.  
+Should have automatic emboli detection and analysis with 
+real time histogram of HITS Energy distribution 
+11.  
+Should have user-definable defaults for individual blood 
+vessels. 
+12.  
+Should have automatic selection of optimal depth and blood 
+vessels default parameters based on blood flow detection in 
+M-mode. 
+13.  
+Should have summary screen which displays all studies 
+performed on a patient on a single screen 
+14.  
+Should have long term monitoring with trending of selected 
+parameters 
+15.  
+Should be supplied with probe holder made of Medical 
+grade plastic for long term monitoring or monitoring under 
+CT/MRI. 
+16.  
+Should have manual control of gain 
+17.  
+Should have user-definable alarms 
+18.  
+Should have FFT size adjustable from 64 points to 512 
+points 
+19.  
+Should have ability to change spectrum display size from 
+2.5 sec to 30 sec. 
+20.  
+Should have ability to rotate spectrum screen in off-line 
+mode up to 5 screens. 
+21.  
+Should be able to display Pulsed wave parameters like Peak 
+Velocity, Mean Velocity, Diastolic Velocity, Pulsatility 
+index, Resistivity index, Heart rate and rise time. 
+22.  
+There should be provision of 2 vertical and 2 horizontal 
+cursors for measuring the values manually. 
+23.  
+Should be able to display up to 8 spectrums with color M-
+mode feature at the same time. 
+24.  
+Should have advance remote control operation . 
+25.  
+Should have soft wave for emboli detection, VMR , CO2 . 
+01 
+
+
+--- Page 11 ---
+Tender for Portable Transcranial Doppler Machine                                                                      
+Admn/Tender/30-3/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+26.  
+Should have software feature to differentiate emboli form 
+artefacts. 
+27.  
+Should have dedicated protocols for specialty tests 
+including protocols for sickle cell anemia and vasospasm 
+with configurable thresholds for automatic interpretation. 
+Each specialty test protocol should have a dedicated print 
+layout with a separate configuration. 
+28.  
+Should have 8 analog inputs and at least 4 analog output to 
+interface analog signal from ET co2 or other analog device 
+to and from this system. 
+29.  
+Should have separate pre-defined protocol for vasomotor 
+reactivity to calculate the VMR index. 
+30.  
+Should have facility of storing the wave forms of complete 
+spectrum with audio digitally and replaying with audio the 
+complete study as described. 
+31.  
+Should have ability to modify depth in offline then replay 
+the new depth with spectrum. 
+32.  
+Should be compact, portable with storage, processing and 
+option to transfer data externally into other storage devices. 
+33.  
+Should have password protection to protect from accidental 
+change. 
+34.  
+The data can be exported of any display in either Excel or 
+BMP format. 
+35.  
+Should be able to generate report with option of transferring 
+all wave forms into report. 
+36.  
+Should have facility of printing the desired data/display. 
+37.  
+Essential accessories to be provided 
+38.  
+Free Installation should be done by qualified personnel only 
+along with adequate hands on training. 
+39.  
+Only latest model should be quoted and year of introduction 
+should be mentioned. 
+40.  
+Should have an option of upgrading to imaging Doppler for 
+carotid studies with carotid Doppler with linear probe 5-12 
+MHz. Bidder must quote the prices along with their bids 
+which will remain valid for next 24 months for upgrade, if 
+desired by our hospital. 
+41.  
+Should be USFDA approved or CE approved certificate 
+should be attached. 
+42.  
+Warranty for five year from principle manufacturer 
+43.  
+Free AMC for subsequent 5 years with cost of spare from 
+principle manufacturer. 
+44.  
+Commitment to provide spares and accessories for the 
+entire period (5 yrs. CMC+ 5 yrs. AMC). 
+45.  
+List of consumable and spare parts along with price list 
+with validity of 5 years to be provided. 
+46.  
+Compliance certificate along with variability, if any, should 
+be provided. 
+47.  
+Single unit with below mentioned as minimum 
+configuration: 13 inch or more HD Touchscreen, x360 
+Convertible, Intel core i7 Processor / Quad core processor, 
+8 GB Memory / 256 GB SSD, 1 TB Hard Disk, Licensed 
+Windows 10" , mini keyboard , optical, mouse , colour laser 
+jet print UPS of suitable rating, trolley for unit 
+
+
+--- Page 12 ---
+Tender for Portable Transcranial Doppler Machine                                                                      
+Admn/Tender/30-3/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+48.  
+“List of installation in India during last 5 years with contact 
+details from all vendors for the similar brand and model of 
+equipment as quoted in tender to verify the past 
+performance”. 
+ 
+
+

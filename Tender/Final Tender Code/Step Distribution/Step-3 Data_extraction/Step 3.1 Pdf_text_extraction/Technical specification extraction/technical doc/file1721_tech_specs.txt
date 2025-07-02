@@ -1,0 +1,258 @@
+--- Page 47 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/Multimode Microplate Reader and Fluorometer 
+ 
+Page 44 of 64 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Multimode Microplate Reader 
+and Fluorometer  
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+ 
+SPECIFICATIONS FOR INSTRUMENTATION FOR NEWBORN SCREENING ON 
+DRIED BLOOD SPOTS/ Multimode Microplate Reader and Fluorometer  
+ 
+ 
+1. Instrument should be capable of carrying out Newborn screening from dried blood 
+spot sample. 
+2. The system should be capable of carrying out the following assays in Newborn 
+screening -G6PD, TSH.T4, IRT, PKU, BIOTINDASE, GALT, TOTAL GALACTOSE & 
+17α-OHP. All assays should be also certified- USFDA/ CE IVD  
+3. The system should work on the principle of time Resolved Fluorometry (TRF) 
+which is accepted globally and is proven, and time tested. 
+ 4. The system must be validated and published on population and at least 3 studies 
+should be supplied for the same.  
+5. The Fluorometer instrument should be supplied with all needed accessories like 
+Automated 
+dried 
+blood 
+spot 
+puncher 
+with 
+workstation(software), 
+Plate 
+shaker(220/240V), washer- disk remover, Plate dispense, Dispense unit, Microplate 
+Incubator Shaker, Platewash; Automatic strips washer, Aneuploidy Risk assessment 
+software, SGE with pre-installed workstation [SOFTWARE] for NBS result 
+Interpretation & data-management required for NBS.  
+6. The system must have at least 3 installations in government institutions of India 
+and provide user list with contact details of the quoted instrument. 
+
+
+--- Page 48 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/Multimode Microplate Reader and Fluorometer 
+ 
+Page 45 of 64 
+ 
+7. Newborn Screening Software should be IVD-certified. 8 Software should provide 
+facility to enter and track patient and contact information, create and maintain rules 
+related to the creation and content of patient reports and statistical information of 
+monitor the performance of the program. 
+9. Software should allow user to enter additional information about a patient, 
+specimen, determination or a case. This information must be viewed, entered and 
+modified if required in various places throughout the application. 
+10. System should have barcode reader for plates and regents, both. 
+11 System should be capable of multipoint calibration with facilities to store the 
+calibration curves and recalibration. 
+12. The system should be supplied with informatics solution to automate the full 
+work-flow of NBS lab-data entry to report generation. 
+13. System should have the capability to do maternal fetal markers for aneuploidy 
+screening additionally 
+14. Supplier must supply all the required accessory instrument for Prenatal 
+screening (if any additional required). 
+15. The supplier should have the FMF-approved Risk Calculation Software for 
+chromosomal aneuploidy screening 
+16. The system should be USFDA/CE-IVD/EU Certified. 
+17. The system should have easy to perform and maintain Quality control options 
+ 18. The reagents to be supplied should have the essential certification and 
+certificates. 
+19. The reagent kits must contain all the required materials to perform the tests, 
+including the Quality Control materials. 
+20. The system must have informatics system, wherein complete information about 
+Kits, events (log files), Patient-results and Quality-controls could be stored for users 
+to view, as and when required. 
+21. System must have the capability to perform all the Prenatal Screening markers-
+free hCGß , PAPP-A, uE3, AFP, PIGF.  
+22. Should provide onsite training till the technical personal familiarizes with the 
+instrument. 
+ 
+ 
+ 
+ 
+• 
+Technical compliance report should be submitted in following format: 
+
+
+--- Page 49 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/Multimode Microplate Reader and Fluorometer 
+ 
+Page 46 of 64 
+ 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation 
+if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. 
+Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the 
+TE document for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) Warranty period will be 5 years 
+from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & 
+handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty 
+period by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) 
+basis. 
+c) All software updates should be provided free of cost during Warranty 
+period. 
+2. 
+After Sales Service:  
+After 
+sales 
+service 
+center 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service 
+should be provided directly by Tenderer/Indian Agent. Undertaking by the 
+Principals that the spares for the equipment shall be available for at least 10 
+years from the date of supply. 
+3. 
+Training:  
+4. 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ 
+Indian Agents (if they have the requisite know-how) for operation and 
+maintenance of the equipment to the satisfaction of the consignee. The same 
+will be in line with the training modalities as specified in general technical 
+specification. 
+5. 
+Annual Comprehensive Maintenance Contract (CMC) of subject equipment 
+with Site Modification Work: 
+a) 
+The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ 
+service /operational manual of the manufacturer, labour and spares, after 
+satisfactory completion of Warranty period may be quoted for next 5 years on 
+yearly basis for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) and Site Modification Work (if any). The 
+supplier shall visit each consignee site as recommended in the manufacturer’s 
+technical/ service /operational manual, but at least twice in six months (i.e. 4 
+preventive maintenance/ year) apart from all breakdown visits, during the 
+CMC period 
+b) 
+The cost of CMC may be quoted along with taxes applicable on the date of 
+Tender Opening. The taxes to be paid extra, to be specifically stated. In the 
+absence of any such stipulation the price will be taken inclusive of such taxes 
+and no claim for the same will be entertained later. 
+c) 
+Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) 
+The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of DD/ Direct 
+Transfer to the AIIMS Account for 2.5% of the cost of the equipment  valid till 
+
+
+--- Page 50 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/Multimode Microplate Reader and Fluorometer 
+ 
+Page 47 of 64 
+ 
+2 months after expiry of entire CMC period. 
+e) 
+There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) 
+X 365 (days) basis, with penalty, to extend CMC period by double the 
+downtime period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee’s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) 
+All software updates should be provided free of cost during CMC. 
+h) 
+Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of 
+the DD/Direct Transfer in the AIIMS Account for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+ 
+Note 1:  
+Tenderer’s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The 
+tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it’s tender is liable to be ignored. 
+Note 2:  
+General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked for 
+and should make sure that Electrical Safety Analyzer / Tester for Medical equipment 
+to periodically check the electrical safety aspects as per BIS Safety Standards IS-
+13540 which is also equivalent to IEC electrical safety standard IEC- 60601 is a part 
+of the equipment s. If the Electrical Safety Analyzer/Tester is not available they 
+should provide a commitment to get the equipment checked for electrical safety 
+compliance with Electronic Regional Test Labs / Electronics Test and Development 
+Centres across the country on every preventive maintenance call. 
+Note 3:  
+Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management 
+information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical 
+training for personnel involved in the use and handling of the equipment on site at 
+the institute immediately after its installation. The company shall be required to train 
+the institute personnel onsite as and when required. 
+All software updates should be provided free of cost during warranty period and CMC 
+period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,245 @@
+--- Page 10 ---
+Tender for Digital X-ray (flat panel Radiography unit with two Flat panel detectors) 
+Admn/Tender/31/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+Tender Specifications for digital flat panel Radiography unit with two Flat panel detectors 
+Offered model should be state of the art with features equivalent to the latest model launched in latest 
+release in RSNA. 
+The Unit should be completely integrated system (integrated X-ray generator and image acquisition 
+control console). Out of Generator/Tube/Detector, at least two (if not three) must be manufactured by the 
+quoting vendor themselves. It should have following specifications: 
+1. Generator 
+1000 mA unit with microprocessor controlled high frequency X-ray generator with power output of 80 
+KW or more 
+·           The exposure range should be 40-150KV 
+·           The minimum exposure time should be 2msec or less. 
+n   Automatic exposure control function is an essential requirement. 
+2. X-Ray Tube 
+Should be ceiling suspended 
+Tube should have at least 2 focal spot 
+·           Small focal spot should be 0.6 or less and large focal spot should be 1.3 or less 
+·           Tube loading should be at least 30 KW for small and at least 80 KW for large focus. 
+·           Should have motorized movement of ceiling suspended tube. 
+Should have electromagnetic locks with collision protection sensor. 
+·           Field size programming should be possible. 
+·           Anode heat storage capacity should be 300 KHU or more 
+n   X ray tube and collimator section should have automated image shuttering and cropping facility in 
+collimator. 
+·           All the movements of the overhead tube suspension (3D column stand) and the chest stand 
+(vertical detector) should be fully motorized. It should be possible to override it manually. 
+n   There should be auto positioning of the overhead tube suspension against both the vertical detector 
+and the table detector. This should be possible through selected protocol from both the console as well 
+as from wall stand control. 
+• Tube tracking should be there in all axes 
+·      Overhead tube suspension (3D column stand) should also have a screen with display of important 
+parameters and controls. 
+n   Tube rotation: Vertical axis +/- 135 degrees, Horizontal  axis +125/-125 degrees or better. Pelase 
+specify rotation of your offered model. 
+·       Should have motorized copper filter to avoid unwanted radiation 
+3. Horizontal Bucky Table 
+    • Motor driven, adjustable height floating table top of carbon fibre or equivalent material. 
+·           Compact bucky table with integrated built-in / wireless digital flat panel detector. 
+·            Foot switches for adjusting height, longitudinal/side to side movements, locking. 
+·          Detector movement should be synchronized with movement of the X-Ray tube. 
+·           Tube movement should be synchronized with the table so that the SID is maintained automatically 
+·             Removable grid for SID of 100cms for horizontal table applications 
+·            Automatic exposure control should be available 
+4. Vertical Bucky (Wall stand) 
+Motorized, counter balanced adjustable height vertical Bucky with integrated built-in digital flat panel 
+detector. 
+Should be possible to tilt the Vertical detector system (-15° to + 90°) 
+·                      Should be able to travel vertically from 15 inches to 60 inches above floor level 
+·                      Detector movement should be synchronized with movement of the X-Ray tube in all 
+planes.  
+·                       Removable grid for SID of 180cms for vertical bucky applications 
+Automatic exposure control should be available 
+
+
+--- Page 11 ---
+Tender for Digital X-ray (flat panel Radiography unit with two Flat panel detectors) 
+Admn/Tender/31/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+5. Detector System 
+Detector material should be made of amorphous silicon with CSi scintillator 
+·        Two Digital flat panel detector systems with detector integrated into the wall stand and 
+integrated/wireless for Bucky table. (total of 2 separate detectors) 
+Detector specification 
+Minimum size of detector should be 41cms X 41 cms or more for integrated detector. Please provide size 
+of wireless detector for Buck table if offered. 
+(Vendor should also offer any other smaller size detector for pediatric patients as an option. Please quote 
+its price separately in the price bid.) 
+·             Image matrix size 2k x 2k pixels or more. 
+·             Pixels size should be 200p.m or less 
+Image resolution should be 2.5 1ps/mm or more 
+·             DOE of detector system should be 65% or more at 0.05 lps/mm or more 
+·                      Tube assembly movement to be automatically synchronized with both the horizontal and 
+vertical detectors movement 
+6. Operating (acquisition) Station 
+Should have high resolution TFT/LCD monitors of minimum 19" size or more (fully flat) with minimum 
+1024x1024 or more display matrix and antireflective front screen. 
+·       Image acquisition matrix should be minimum of 2k x 2K 
+System should have auto protocol select 
+Operating console should have facility for patient identity entry, viewing and processing images, 
+documentation. 
+Preview image should be ready in 5 sec or less 
+·       Ortho Stitching should be available in vertical stand as well as on the table. The stitching should be 
+automated. Stitching should be possible on main system.There should be in built measurement scale. 
+7. Image Viewing, Post —Processing and reporting Station and Documentation 
+An Independent Workstation with all post processing and printing facility should be quoted with storage 
+capability of 10,000 or more images with ability to review and report X Rays independent of main 
+console. 
+ High speed intel Xeon processor based (Z400 workstation) CPU (3.0 GHz or higher processing 
+speed) with post processing capability 
+ 16 GB RAM or more 
+ Should have its independent memory and hard disk of atleast 1TB 
+ Should have a high resolution medical grade LCD colour monitor of 19” or more. 
+Should have independent monitor of high resolution TFT/LCD monitor of 19" or more. 
+·       Image display matrix should be of high resolution, minimum of 1.5 K x 1.5 K 
+·       Post acquisition image processing, viewing, reprocessing, hard copy documentation and onward 
+transmission should be possible. 
+·       Image processing functions like rotate, mirroring, zoom, move, and windowing filter should be 
+possible. 
+·      There should be facility for measurements. 
+·       Should be connected to a Dry chemistry Camera of 500 DPI or more for documentation. The camera 
+should accept all size films upto 14"x17" size (three film size trays should be active). 
+·       Multiformat printing should be possible with user selectable options. 
+·       It should be possible to create alphabetical, date wise and exam based, work list 
+·  Work list should be auto refreshing 
+8. Image Storage and Transmission 
+·      Acquisition system should have hard disc storage capacity should be of 4000 or more images and 
+Additional post processing Workstation should have storage capacity of 10,000 images or more 
+·      The systems should support storage of images on compact discs and DVD 
+The system should be DICOM 3.0 (or higher version) ready (like send, receive, print, record on 
+CD/DVD, acknowledge etc.) for connectivity to any network, computer/PC etc. in DICOM format. 
+
+
+--- Page 12 ---
+Tender for Digital X-ray (flat panel Radiography unit with two Flat panel detectors) 
+Admn/Tender/31/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+Integration and networking should be possible with any other existing/future networking including other 
+modalities, HIS and RIS and PACS. Vendor will connect it to existing RIS PACS network without extra 
+cost for existing and future networking. 
+9. Accessories 
+Dry chemistry Camera of 500 DPI or more 
+UPS (of 3 KVA) for the computer with 30 minutes backup 
+·    Lead glass of size 100x 150 cm or more for console room. 
+Vendor to install wireless mike system for calling patients who are waiting outside 
+·      Ten light weight 'zero lead' aprons of 0.5mm lead equivalence with thyroid shield collar. 
+·     A 120 KV or better stabilizer for the DR system 
+10.    Upgrading requirement: 
+A free comprehensive software update/ upgrade (compatible with the offered platform) guarantee for 10 
+years after installation. 
+11.    Furniture : 
+·    Cupboard for storage-  Three 
+· Godrej swivel chairs with arm rest —Ten  
+·  Film viewing panel for X ray films 3 in 1 of 14"X17" size — Four (LED type Maxx or equivalent) 
+·  Table with storage space— Three 
+· Examination stool - two 
+·  Footstep for patient: two 
+· Gonadal shields for boys and girls of all age groups — Two set each 
+·  Stand for lead aprons and Gonadal shields 
+·   Emergency light - one 
+·Wall fans— two 
+11. Warranty/After Sale Service 
+Five-year comprehensive on-site warranty of entire system (Spares and labor) including X-ray tube and 
+all accessories and civil, electrical and air conditioning works. This will be followed by 5 years 
+comprehensive CMC. Vendor will maintain the room during entire duration of Warranty and CMC and 
+will paint it on alternate years. 
+ 95% uptime guarantee should be given. In case down time exceeds 5%, penalty in the form of extended 
+warranty, double the number of days for which the equipment goes out of service, will be applied. 
+13. Installation and Turnkey 
+·           All site approval, layout approval and registration of equipment from AERB shall be done by 
+Radiology Department AIIMS Jodhpur under assistance of supplier. 
+·           All turnkey work proposed by the selected firm will require approval of HOD of department of 
+Radiology, AIIMS Jodhpur and competent authorities including engineering section, of the institute 
+before implementation. 
+ A complete site preparation plan will be required to be submitted as a turnkey project. The vendor will 
+be eligible to inspect the proposed site. 
+ The cost of alteration and preparation in a specified built in area on turnkey basis which will include 
+civil, electrical and air conditioning and maintenance of air conditioning is to be borne by the firm. 
+Requirement of power and air conditioning must be clearly specified. The room should be adequately 
+air-conditioned and that should be discussed with engineering department of the AIIMS. 
+Turnkey work: 
+Ceiling work – Metal powder coated false ceiling to be considered.  
+Doors – the doors associated with the examination room to be lead lined laminated wooden doors with 
+hard wood frames, rest all other door would be laminated wooden damage to the wall due to stretchers. 
+Brick wall partition between radiography room and console with lead glass. 
+ 
+Electrical: All general lighting in the area will be carried out by LED light by using copper wring 
+and PVC conduits. The lights will be of Philips, Syska or equivalent. The switches will be of Crabtree, 
+Havells or equivalent. Earthling for DR system UPS etc to be provided by vendor.  
+·           A state of the art fire fighting system with alarm and smoke detectors to be installed and connected 
+to nearest fire panel of hospital. Fire extinguishers 3 nos 2kg ABC type to be provided. 
+
+
+--- Page 13 ---
+Tender for Digital X-ray (flat panel Radiography unit with two Flat panel detectors) 
+Admn/Tender/31/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+Lead lining of the walls and doors, as required. 
+·           Changing area with lead lined walls / partition. This needs to be clarified and approved by HOD. 
+·           Vendor will maintain the room and paint it on alternate years till the end of CMC period. 
+14. Essential Certification 
+·           Radiation safety certificate — offered model must have a valid AERB NOC / Type approved 
+certificate at the time of submission of tender. 
+·           Quality certificate: Entire unit must be USA FDA/ European CE approved. 
+15. Important instructions to supplier 
+All tenders should be in two bids. The technical and price bid should be provided in two separate 
+envelopes. 
+·     Please submit copy of supply order of offered model, if sold anywhere else in India or abroad.  
+·                       In the price bid, please give breakdown of cost of each third party / local items separately 
+for easy comparison 
+ All the information in the tender document must be supported by product data sheets (original copy). 
+All information asked must be provided under heading given above. Incomplete and haphazard 
+information will not be accepted. 
+Please provide names and addresses of other installations in India & abroad, if any. 
+The supplier must ensure the availability of expert service and maintenance. Uninterrupted availability 
+of spare parts and repair of next ten years must be assured. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 7 
+
+

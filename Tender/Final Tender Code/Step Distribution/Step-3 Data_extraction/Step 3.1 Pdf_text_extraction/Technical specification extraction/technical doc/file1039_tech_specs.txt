@@ -1,0 +1,818 @@
+--- Page 45 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+45
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION – VII   
+ Specification for CI Speech Processoor for Cochlear Implant  
+GENERAL TECHNICAL SPECIFICATIONS COCHLEAR IMPLANT BASIC MODEL WITH BTE 
+SPEECH PROCESSOR    
+S.No. 
+SPECIFICATIONS REQUIRED 
+  
+CI Specifications - Basic model with Behind-The-Ear (BTE) Speech Processor 
+  
+Features of implant 
+1 
+Small compact implant with hermetically sealed Titanium housing with Silicone cover. 
+2 
+Multi-channel, multi-electrode. 
+3 
+Should have provision to choose electrode arrays of different lengths/types for individual patient needs 
+at no added cost. 
+4 
+Should be MRI compatible at 1.5 Tesla without removal of magnet. Should be compatible as per USA 
+standards. 
+5 
+Should have both intra-operative and post-operative electrode integrity testing facility. 
+6 
+Should be compatible with current and all future technologies in speech processor and if company is no 
+longer manufacturing the present speech processor then it should be upgraded to higher model free of 
+cost if within the warranty period. 
+  
+Features of Speech Processor  
+7 
+Behind-The-Ear (BTE) . 
+8 
+Should be moisture resistant.  
+9 
+Should have latest, internationally recognized sound coding strategies. 
+10 
+Should have adequate memory for storing multiple settings. 
+11 
+Should have wide input dynamic range (minimum 75dB), dual microphone with automatic adaptive 
+directionality feature for better understanding of speech in noise. 
+12 
+Should be Assistive Listening Devices compatible. 
+13 
+Should have remote control.  
+14 
+Should be telephone compatible, with integrated Telecoil option. 
+15 
+Should have option of rechargeable battery system and Zinc Air batteries. Both the options should be 
+provided. 
+  
+Acessories and consumables 
+16 
+Should be quoted with the following minimum set of accessories and consumables : 
+A 
+Coil - 1 No. 
+B 
+Rechargeable batteries - 03 sets of batteries with Charger - 1 No. 
+C 
+Clip to hold the processor in place - 01 no. 
+D 
+Provision to hinge the processor at different body levels 
+E 
+Electronic de-humidifier - 1 no. 
+F 
+Device to check the speech processor functioning - 1 no. 
+G 
+Coil-Cables - 2 Nos. 
+H 
+Interchangeable magnets of varying strengths - 2 nos. 
+I 
+Remote control - 1 no. 
+
+
+--- Page 46 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+46
+ 
+ 
+J 
+Battery frames, as applicable for rechargeable and non-rechargeable Zinc Air batteries - 1 no. each 
+  
+Miscellaneous 
+17 
+Should provide latest clinical hardware and software for intra-op testing and post-op mapping. 
+18 
+Should provide related surgical, audiological and rehabilitation training. 
+19 
+The whole system i.e. internal implant and the speech processor should be US-FDA approved. 
+  
+Warranty 
+20 
+Should elaborate the inclusions and exclusions of warranty. 
+21 
+Accessories, services and repairs should be available for at least 10 years. 
+22 
+Should have 10 years warranty for Internal Cochlear Implant, 3 years warranty for Speech Processor, 
+coil, battery frames, remote control, 02 years warranty for electronic dehumidifier, 01 year warranty for 
+rechargeable batteries and charger. 
+Note : Point by point technical specifications compliance chart to be submitted along with supporting 
+documents. 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS COCHLEAR IMPLANT BASIC MODEL WITH 
+SINGLE UNIT SPEECH PROCESSOR    
+S.No
+. 
+SPECIFICATIONS REQUIRED 
+  
+CI Specifications - Basic model with Single Unit Speech Processor 
+  
+Features of implant 
+1 
+Small compact implant with hermetically sealed Titanium housing with Silicone cover. 
+2 
+Multi-channel, multi-electrode.  
+3 
+Should have provision to choose electrode arrays of different lengths/types for individual patient needs 
+at no added cost. 
+4 
+Should be MRI compatible at 1.5 Tesla without removal of magnet. Should be compatible as per USA 
+standards. 
+5 
+Should have both intra-operative and post-operative electrode integrity testing facility. 
+6 
+Should be compatible with current and all future technologies in speech processor and if company is no 
+longer manufacturing the present speech processor then it should be upgraded to higher model free of 
+cost if within the warranty period. 
+  
+Features of Speech Processor 
+7 
+Off-The-Ear Single Unit Speech Processor.  
+8 
+Should be moisture resistant.  
+9 
+Should have latest, internationally recognized sound coding strategies. 
+10 
+Should have adequate memory for storing multiple settings. 
+11 
+Should have wide input dynamic range (minimum 75dB) with automatic features for better 
+understanding of speech in noise. 
+12 
+Should be Assistive Listening Devices compatible. 
+13 
+Should have remote control.  
+14 
+Should be telephone compatible, with integrated Telecoil option. 
+
+
+--- Page 47 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+47
+ 
+ 
+15 
+Should have integrated rechargeable battery with minimum 03 years battery life expectancy. 
+  
+Acessories and consumables 
+16 
+Should be quoted with the following minimum set of accessories and consumables : 
+A 
+Clip to hold the processor in place - 01 no. 
+B 
+Device to check the speech processor functioning - 1 no. 
+C 
+Interchangeable magnets of varying strengths - 2 nos. 
+D 
+Should have integrated rechargeable battery with minimum 03 years battery life expectancy. 
+E 
+Charger - 1 no. 
+F 
+Remote control - 1 no. 
+  
+Miscellaneous 
+17 
+Should provide latest clinical hardware and software for intra-op testing and post-op mapping. 
+18 
+Should provide related surgical, audiological and rehabilitation training. 
+19 
+The whole system i.e. internal implant and speech processor should be US-FDA approved. 
+  
+Warranty 
+20 
+Should elaborate the inclusions and exclusions of warranty 
+21 
+Accessories, services and repairs should be available for at least 10 years 
+22 
+Should have 10 years warranty for Internal Cochlear Implant, 3 years warranty for Speech Processor, 
+remote control, 01 year warranty for charger. 
+Note : Point by point technical specifications compliance chart to be submitted along with supporting 
+documents. 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS COCHLEAR IMPLANT ADVANCED MODEL WITH BTE 
+SPEECH PROCESSOR    
+S.No. 
+SPECIFICATIONS REQUIRED 
+  
+CI Specifications - Advanced model with Behind-The-Ear (BTE) Speech Processor 
+1 
+The implant & speech processor quoted here should be different & advanced from the one quoted 
+in the basic model 
+  
+Features of implant 
+2 
+Small compact implant, hermetically sealed Titanium housing with Silicone cover.  
+3 
+Multi-channel, multi-electrode. 
+4 
+Should have provision to choose electrode arrays of different lengths/types for individual patient 
+needs at no added cost. 
+5 
+Should be MRI compatible at 3.0 Tesla without removal of magnet. Should be compatible as per 
+USA standards. 
+6 
+Should have both intra-operative and post-operative electrode integrity testing facility. 
+7 
+Should be compatible with current and all future technologies in speech processor and if company 
+is no longer manufacturing the present speech processor then it should be upgraded to higher 
+model free of cost if within the warranty period. 
+  
+Features of Speech Processor 
+
+
+--- Page 48 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+48
+ 
+ 
+8 
+Behind-The-Ear (BTE) Speech Processor, relatively smaller.  
+9 
+Should be moisture/water resistant. Should have minimum IP54 rating. 
+10 
+Should have latest, internationally recognized sound coding strategies. 
+11 
+Should have adequate memory for storing multiple settings, minimum 4. 
+12 
+Should have wide input dynamic range (minimum 75dB) with automatic features for better 
+understanding of speech in noise. Dual microphones with automatic adaptive directionality 
+required. 
+13 
+Should be Assistive Listening Devices compatible. 
+14 
+Should have remote control. 
+15 
+Should be telephone compatible, with integrated Telecoil.  
+16 
+Should have option of rechargeable battery system and Zinc air batteries. Both the options to be 
+provided. 
+17 
+Should be compatible for wireless connectivity with external devices. 
+  
+Acessories and consumables 
+18 
+Should be quoted with the following minimum set of accessories and consumables : 
+A 
+Coil - 1 No. 
+B 
+Rechargeable batteries - 03 sets of batteries with Charger - 1 No. 
+C 
+Clip to hold the processor in place - 01 no. 
+D 
+Provision to hinge the processor at different body levels 
+E 
+Electronic de-humidifier - 1 no. 
+F 
+Device to check the speech processor functioning - 1 no. 
+G 
+Coil-Cables - 2 Nos. 
+H 
+Interchangeable magnets of varying strengths - 2 nos. 
+I 
+Remote control - 1 no. 
+J 
+Battery frames, as applicable for rechargeable and non-rechargeable Zinc Air batteries - 1 no. 
+each 
+  
+Miscellaneous 
+19 
+Should provide latest clinical hardware and software for intra-op testing and post-op mapping. 
+20 
+Should provide realted surgical, audiological and rehabilitation training. 
+21 
+The whole system i.e. internal implant and speech processor should be US-FDA approved. 
+  
+Warranty 
+22 
+Should elaborate the inclusions and exclusions of warranty. 
+23 
+Accessories, services and repairs should be available for at least 10 years. 
+24 
+Should have 10 years warranty for Internal Cochlear Implant, 3 years warranty for Speech 
+Processor, coil, battery frames, remote control, 02 years warranty for electronic dehumidifier, 01 
+year warranty for rechargeable batteries and charger. 
+Note : Point by point technical specifications compliance chart to be submitted along with supporting 
+documents. 
+ 
+ 
+ 
+ 
+
+
+--- Page 49 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+49
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS COCHLEAR IMPLANT ADVANCED MODEL WITH 
+SINGLE UNIT SPEECH PROCESSOR    
+S.No. 
+SPECIFICATIONS REQUIRED 
+  
+CI Specifications - Advanced model with Single Unit Speech Processor 
+1 
+The implant & speech processor quoted here should be different & advanced from the one quoted 
+in the basic model 
+  
+Features of implant 
+2 
+Small compact implant, hermetically sealed Titanium housing with Silicone cover.  
+3 
+Multi-channel, multi-electrode. 
+4 
+Should have provision to choose electrode arrays of different lengths/types for individual patient 
+needs at no added cost. 
+5 
+Should be MRI compatible at 3.0 Tesla without removal of magnet. Should be compatible as per 
+USA standards. 
+6 
+Should have both intra-operative and post-operative electrode integrity testing facility. 
+7 
+Should be compatible with current and all future technologies in speech processor and if company 
+is no longer manufacturing the present speech processor then it should be upgraded to higher 
+model free of cost if within the warranty period. 
+  
+Features of Speech Processor 
+8 
+Off-The-Ear Single Unit Speech Processor, relatively smaller  
+9 
+Should be moisture/water resistant. Should have minimum IP54 rating. 
+10 
+Should have latest, internationally recognized sound coding strategies. 
+11 
+Should have adequate memory for storing multiple settings, minimum 4. 
+12 
+Should have wide input dynamic range (minimum 75dB) with automatic features for better 
+understanding of speech in noise. Dual microphones with automatic adaptive directionality 
+required. 
+13 
+Should be Assistive Listening Devices compatible. 
+14 
+Should have remote control. 
+15 
+Should be telephone compatible, with integrated Telecoil.  
+16 
+Should have integrated rechargeable battery with minimum 03 years battery life expectancy. 
+17 
+Should be compatible for wireless connectivity with external devices. 
+  
+Acessories and consumables 
+18 
+Should be quoted with the following minimum set of accessories and consumables : 
+A 
+Clip to hold the processor in place - 01 no. 
+B 
+Device to check the speech processor functioning - 1 no. 
+C 
+Interchangeable magnets of varying strengths - 2 nos. 
+D 
+Should have integrated rechargeable battery with minimum 03 years battery life expectancy. 
+E 
+Charger - 1 no. 
+F 
+Remote control - 1 no. 
+  
+Miscellaneous 
+
+
+--- Page 50 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+50
+ 
+ 
+19 
+Should provide latest clinical hardware and software for intra-op testing and post-op mapping. 
+20 
+Should provide related surgical, audiological and rehabilitation training. 
+21 
+The whole system i.e. internal implant and speech processor should be US-FDA approved. 
+  
+Warranty 
+22 
+Should elaborate the inclusions and exclusions of warranty. 
+23 
+Accessories, services and repairs should be available for at least 10 years. 
+24 
+Should have 10 years warranty for Internal Cochlear Implant, 3 years warranty for Speech 
+Processor, remote control, 01 year warranty for charger. 
+Note : Point by point technical specifications compliance chart to be submitted along with supporting 
+documents. 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS OF BONE CONDUCTION IMPLANT SYSTEM 
+S.No. 
+Technical Specifications 
+Parameters 
+Specifications required 
+1 
+Device 
+Active Bone Conduction device, completely transcutaneous 
+2 
+Implant material 
+Titanium 
+3 
+Implant MRI 
+compatibility 
+1.5 Tesla without removal of magnet 
+4 
+Age criteria 
+5 years old or above 
+5 
+Indications 
+For conductive, mixed Hearing Loss, Single Sided deafness 
+6 
+Audio Processor 
+Single unit processor  
+7 
+Better understanding 
+of speech in noise 
+Features for better understanding of speech in noise 
+8 
+Signal Processing 
+16 independent compression channels (minimum) 
+9 
+Frequency range 
+250-8000 Hz 
+10 
+Power source 
+Powered by type 675 zinc air cells 
+11 
+External components 
+Robust and long lasting. Should be moisture resistant. 
+12 
+Processor with remote 
+control 
+Audio Processor remote control 
+13 
+Enhanced features 
+up to 5 different programs 
+14 
+Wireless connectivity 
+For connectivity with external devices such as mobile phones. 
+15 
+Warranty 
+Implant : 5 Years from the date of surgery 
+Audio processor : 2 years from the date of switch-on excluding 
+consumables. 
+16 
+Approval/certifications US FDA approved. 
+Note : Technical specifications compliance chart to be submitted along with supporting documents. 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS OF BONE CONDUCTION HEARING AID SYSTEM 
+S.No 
+Technical 
+Specifications 
+Parameters 
+Specifications required 
+1 
+Device 
+Non-surgical solution ; Bone Conduction Hearing Aid System 
+
+
+--- Page 51 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+51
+ 
+ 
+2 
+Placement device  
+Single point attachment 
+3 
+Age criteria 
+Any age 
+4 
+Indications 
+For conductive hearing loss, Single Sided deafness 
+5 
+Audio Processor 
+Single unit processor  
+6 
+Better understanding 
+of speech in noise 
+Features for better understanding of speech in noise 
+7 
+Signal Processing 
+8 independent compression channels (minimum) 
+8 
+Frequency range 
+250-8000 Hz 
+9 
+Power source 
+Powered by type 13 zinc air cells 
+10 
+External components 
+Robust and long lasting. Should be moisture resistant 
+11 
+Volume control & 
+program button 
+Volume control & program button 
+12 
+Connectivity 
+For connectivity with external devices such as mobile phones. 
+13 
+Warranty 
+2 years from the date of fitting excluding consumables 
+14 
+Approval/certifications US FDA approved. 
+Note : Technical specifications compliance chart to be submitted along with supporting documents. 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS OF MIDDLE EAR IMPLANT SYSTEM 
+S.No 
+Technical 
+Specifications 
+Parameters 
+Specifications required  
+1 
+Implant Casing 
+Titanium 
+2 
+Placement device in 
+middle ear 
+Single point attachment 
+3 
+Indications 
+For conductive hearing loss, mixed hearing loss, SNHL 
+4 
+Audio Processor 
+Single unit processor can be worn discreetly 
+5 
+Microphone 
+Directional and Omni directional microphone option 
+6 
+Signal Processing 
+8 AGC channels, 16 frequency bands (minimum) 
+7 
+Frequency range 
+250-8000 Hz 
+8 
+Gain 
+36-54dB 
+9 
+Power source 
+Powered by 675 zinc air cells 
+10 
+External components 
+Robust and long lasting. Should be sweat/spl resistant 
+11 
+Speech Coding 
+Strategy 
+Proven and internationally accepted speech coding strategy 
+12 
+Enhanced features 
+Three different programs, Directional microphone, Wind noise 
+reduction, Sound Smoothing, Speech and Noise management 
+13 
+Warranty 
+Implant : 5 Years from the date of surgery 
+  
+  
+External components : 2 years from the date of switch-on excluding 
+consumables 
+16 
+Approval/certification
+s 
+US FDA approved. 
+Note : Technical specifications compliance chart to be submitted along with supporting documents. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 52 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+52
+ 
+ 
+               AUDITORY BRAINSTEM IMPLANT (ABI) GENERAL TECHNICAL SPECIFICATIONS 
+ 
+ 
+S.No 
+Technical Specifications  
+1 
+IMPLANT 
+a 
+ Small, thin implant with hermetically sealed Titanium housing 
+b 
+Electrode Array  
+  
+(i) Multiple Channels and  Electrodes  
+  
+(ii)Auditory Brainstem Implant (ABI) Electrode 
+c 
+Implant manget should be diametric 
+d 
+Provision to test implant /electrode integrity both intra-operative and post-operative  
+2 
+AUDIO PROCESSOR 
+  
+(a) Behind the Ear (BTE) design  
+  
+(b) Features for better understanding of speech in noise such as adaptive directionality 
+  
+(c) Should be resistant to non condensing moisture - IP54 rating or above 
+  
+(d)Should have proven speech coding strategy  
+  
+(e)Should have provision to store multiple settings 
+  
+(f)Should have advanced Automatic Sound Management to adapt automatically to different 
+challenging environments.  
+  
+(g) Should have frequency range of up to 8500 Hz 
+  
+(h)Should be compatible with FM and other such Assistive Listening Devices (ALDs) 
+  
+(i)Should be compatible for telephone use 
+  
+(j) Options of rechargeable battery system and Zinc Air disposable batteries 
+3 
+Accessories 
+  
+Standard set of accessories to be provided. It should include user remote control and electronic 
+dehumidifier. List to be provided. 
+4 
+Warranty 
+  
+(a)10 Years from the date of surgery on internal implant 
+  
+(b)3 Years from the date of switch-on on audio processor unit 
+  
+(c)3 Years from the date of switch-on on Coil, battery frames, remote control 
+  
+(d) 1 Year from the date of switch-on on rechargeable battery and charger 
+  
+(e)Warranty list to be provided. 
+Note : Technical specifications compliance chart to be submitted along with supporting documents. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 53 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+53
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Comprehensive Warranty as per Conditions of Contract of the TE document for 
+complete equipment (including Batteries for UPS, other vacuumatic parts 
+wherever applicable) Warranty period will be as per technical specification from 
+the date of installation, commissioning and Site Modification Work from the date 
+of satisfactory installation, commissioning, trial run & handing over of equipment 
+to Hospital/Institution/Medical College. 
+b) 98% up time Warranty of complete equipment with extension of Warranty period 
+by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After 
+sales 
+service 
+centre 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service should 
+be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date of 
+supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian 
+Agents (if they have the requisite know-how) for operation and maintenance of the 
+equipment to the satisfaction of the consignee. The same will be in line with the 
+training modalities as specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ service 
+/operational manual of the manufacturer, labour and spares, after satisfactory 
+completion of Warranty period may be quoted for next 5 years on yearly basis for 
+complete equipment (including Batteries for UPS, other vacuumatic parts 
+wherever applicable) and Site Modification Work (if any). The supplier shall visit 
+each consignee site as recommended in the manufacturer‟ s technical/ service 
+/operational manual, but at least twice in six months (i.e. 4 preventive 
+maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of 
+any such stipulation the price will be taken inclusive of such taxes and no claim 
+for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank guarantee 
+for 3% of the cost of the CMC as per Section XV valid till 2 months after expiry of 
+entire CMC period. 
+e) There will be 98% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 
+365 (days) basis, with penalty, to extend CMC period by double the downtime 
+period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee‟ s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the 
+Bank Guarantee for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 54 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/Cochlear/23/GTE/RC 
+ 
+54
+ 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to 
+be installed, in consultation with HOD of Hospital/Institution/Medical College concerned. 
+Site Modification Work details of each Hospital/Institution/Medical College are given at the 
+end of Technical Specification. The Tenderer to quote prices indicating break-up of prices of 
+the Machine and Site Modification Work of each Hospital/Institution/Medical College. The 
+Site Modification Work costs to be quoted in Indian Rupee will be added for Ranking 
+Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation 
+the price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer‟ s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it‟ s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard 
+IEC- 60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is 
+not available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard 
+interface interoperability conditions for networked equipment in hospital 
+management information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period 
+
+

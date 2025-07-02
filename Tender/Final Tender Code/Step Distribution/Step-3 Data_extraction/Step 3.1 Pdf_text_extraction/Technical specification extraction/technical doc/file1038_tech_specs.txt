@@ -1,0 +1,354 @@
+--- Page 42 ---
+ 
+ 
+GTE No.: AIIMS/ R/CS/DENT/CBCT/GTE/2023/02 
+ 
+Page 39 of 74 
+ 
+ 
+Annexure-I 
+Technical Specifications of 
+Cone Beam Computed Tomography Machine (CBCT)with Cephalostat 
+The CBCT machine with a Cephalostat should be capable of capturing high-quality 3D images of the 
+patient's skull and jaw in a single scan. The machine should also be user-friendly and easy to operate 
+by the medical staff. 
+ 
+1. Imaging System: 
+ 
+1.1. 
+Should have 3D cone beam computed tomography (CBCT) system. 
+1.2. 
+The unit should have automatic selection of radiological parameters as per patient             
+requirements. 
+1.3. 
+It should be capable 3D volumetric imaging in axial, coronal and sagittal planes.  
+1.4. 
+The unit should have automatic selection of radiological parameters as per patient 
+requirement. 
+1.5. 
+It should have push button / touch screen operating controls with graphic user interface. 
+1.6. 
+The remote operating control should preferably be mounted outside X- ray room. 
+1.7. 
+It should have Emergency stop button. 
+1.8. 
+CBCT Machine and all accessories should confirm to National and International 
+standards. 
+1.9. 
+CBCT machine should be AERB certified and registered. 
+1.10. The unit should have a gantry with 3 joint technology that should enable complicated 
+movements and versatile imaging geometries. 
+1.11. System should work on Amorphous Silicon with Flat Panel Technology 
+1.12. Field of view (FOV): The FOV volume size should be at least 30x20 cm with a single 
+scan (without stitching) and should have at least 30x30 cm with stitching, smallest 
+FOV should be available from 3x3 cm or smaller.  
+1.13. Users should be able to freely adjust the size and location of the FOV easily. 
+1.14. The Voxel Size Should Be 75 To 600 µM. 
+1.15. Grayscale 14-bit or more 
+1.16. It should have the possibility to measure 3D volume.  
+1.17. It should have free volume size selections. 
+1.18. It should have image acquisition angle 200/360° 
+1.19. It should metal artifact removal technique. 
+1.20. It should have noise removal filter.  
+1.21. Should have the following Programs.  
+i. 
+3D programs like teeth, jaw, face, skull 
+ii. 
+Panoramic 2D program 
+iii. 
+2D Tomographic/Sectional Views 
+iv. 
+2D lateral and frontal TMJ program 
+v. 
+3D nose diagnosis program 
+vi. 
+3D sinus program  
+
+
+--- Page 43 ---
+ 
+ 
+GTE No.: AIIMS/ R/CS/DENT/CBCT/GTE/2023/02 
+ 
+Page 40 of 74 
+ 
+vii. Middle ears programs  
+viii. Temporal bones programs 
+ix. 
+Vertebrae program  
+x. 
+Airway study program  
+xi. 
+One shot Cephalometric imaging         
+xii. It should be able to scan models, impressions, and plaster casts.  
+1.22. Scan time: Maximum Scan time of less than 40 seconds. 
+1.23. Reconstruction time: Reconstruction time of not more than 60 seconds. 
+ 
+2. X-ray unit 
+ 
+1.1. 
+High-frequency generator with constant potential  
+1.2. 
+The anode voltage should be 60-120kv for better clarity. 
+1.3. 
+The anode current should be 1-16 mA. 
+1.4. 
+The focal spot size should be 0.5x0.5mm or less. 
+1.5. 
+The unit should have low dose technique for exposure. 
+1.6. 
+Automatic exposure control (AEC) 
+1.7. 
+Automatic dose optimization (ADO) 
+ 
+3. Patient Positioning: 
+ 
+3.1. 
+The unit should have feature of face scanning, patient positioning should be done 
+directly from the CBCT unit’s control panel utilizing integrated cameras and a live 
+patient view.  
+3.2. 
+The Unit Should Have Movement Correction Algorithm  
+3.3. 
+Motorized patient table with height adjustment 
+3.4. 
+Laser alignment system for accurate positioning with Chin rest and forehead support 
+for stable head position and Bite block for consistent bite registration 
+3.5. 
+It should have occipital support for better stability without compromising patient 
+comfort. 
+3.6. 
+It should have patient positioning face to face with live video patient positioning 
+system, the unit’s sensor should have atleast four built-in cameras and LED light strips 
+for capturing highly detailed 3D photographs. Then these should combine with the 
+patient’s CBCT image to enrich both treatment planning and patient communication. 
+3.7. 
+Wheelchair compatible: should be possible both in sitting and standing mode. 
+4. Cephalostat. 
+ 
+4.1. 
+Should have a dedicated cephalostat. 
+4.2. 
+Motorized movement for precise positioning. 
+ 
+5. Image  
+ 
+5.1. 
+It should have possibility to export and import 3D images in STL and DICOM format. 
+5.2. 
+Possibility to super impose 3D images before and after the treatment for comparison.  
+5.3. 
+It should have 2D panoramic generated from 3D volume. 
+ 
+
+
+--- Page 44 ---
+ 
+ 
+GTE No.: AIIMS/ R/CS/DENT/CBCT/GTE/2023/02 
+ 
+Page 41 of 74 
+ 
+6. Software  
+ 
+6.1. 
+Should provide with licensed software which is latest and upgraded free of cost during 
+the warranty and AMC/CMC period. 
+6.2. 
+Should install necessary software in all the computers (20 Computers) in the 
+department through LAN, so that the images can be accessed chairside.  
+6.3. 
+It should compatibility with Mac and Windows operating system 
+6.4. 
+The post processing features in the software should include.  
+6.5. 
+Modules required.  
+6.5.1. 
+CMF Modules  
+i. 3D reconstruction 
+ii. Mirroring and Craniofacial Surgical Planning. 
+iii. CMF Surgery planning  
+iv. Orthodontic / orthognathic treatment planning  
+v. Dynamic measurements of the volumes  
+vi. Creating Intermediate and Final Splints in orthognathic surgery which can 
+be exported top STL file for printing the splint. 
+6.5.2. 
+Dental Smile designing Module. 
+6.5.3. 
+3D implantology Module  
+i. Implant planning software compatible with popular implant planning 
+models 
+ii. Nerve canal and other anatomical structure (root canals, periodontal bone) 
+estimation 
+6.5.4. 
+Cross sectional slices (multiplanar) 
+6.5.5. 
+Threshold selection 
+6.5.6. 
+Segmentation and 3D modelling 
+6.5.7. 
+Panoramic view mapping 
+6.5.8. 
+TMJ analysis 
+6.5.9. 
+Airway assessment 
+6.5.10. 
+Magnification, 
+6.5.11. 
+Density (HU)calculations 
+6.5.12. 
+Labeling 
+6.5.13. 
+Multi-color tone selection facility for better image visualization 3D clipping 
+(cropping facility) 
+6.5.14. 
+High contrast mode for hard tissue (bone, enamel dentin) display Measurement tools 
+(linear and angular) 
+6.5.15. 
+True size reconstruction for jaw, cranium, or any small volume as desired by 
+operator at later time 
+6.5.16. 
+Facility for simultaneous display of PAN, CEPH and cross-sectional images  
+6.5.17. 
+Upgradable for integration with third party CAD CAM system.  
+6.5.18. 
+Dental PACS 
+ 
+7. Computer hardware of high specifications compatible with machine for image processing, 
+archiving, and printing 
+ 
+7.1. 
+CD/DVD drive 
+
+
+--- Page 45 ---
+ 
+ 
+GTE No.: AIIMS/ R/CS/DENT/CBCT/GTE/2023/02 
+ 
+Page 42 of 74 
+ 
+7.2. 
+Processor: Compatible with machine software Intel Core i7 and above 
+7.3. 
+Operating system: Compatible with the machine and genuine licensed latest software. 
+7.4. 
+RAM: 16GB and above 
+7.5. 
+Graphics card: Dedicated 16 GB and above. 
+7.6. 
+USB ports.: 3 and above 
+7.7. 
+Hard disk capacity of at least 4 TB 
+7.8. 
+Medical grade flat screen monitor with high resolution (27inches or above) 
+7.9. 
+The display matrix should be at least 1920 x 1200. 
+7.10. 
+DICOM facility to send, store, print, receive, Query /Retrieve, 
+7.11. 
+MWM, MPPS etc. should be standard. 
+7.12. 
+Should be supplied with One Colour Laser Jet printer.  
+i. Should have print scan and copy facility.  
+ii. Should have a dpi 600 or above. 
+iii. Should have Wi Fi connectivity.  
+iv. Colour Cartridge should be supplied for at least three years. 
+v. HP, Canon or equivalent  
+7.13. 
+One DICOM Printer compatible with Unit to be supplied with the Unit.  
+i. Should be with Dry view Printing Technology  
+ii. Should be compatible for different image size (8x10, 6x12, 14x17 etc.)  
+iii. Should have True laser technology (Photo thermographic)  
+iv. Should have Greater than 600 laser pixel per inch.  
+v. Should be able to integrate with Hospital PACS  
+vi. AGFA, Care stream, Fuji or Equivalent  
+ 
+7.14. 
+Should be supplied with a Server as per the requirement of the supplied equipment.  
+7.15. 
+Furniture: 
+i. High Quality wooden/SS Furniture and two comfortable Chairs as per location 
+for workstation and DICOM Printer. Two SS almirah’s for record keeping and 
+storage purpose. 
+ 
+8. Installation  
+ 
+8.1. 
+The installation site id in the department of Dentistry AIIMS Raipur. 
+8.2. 
+The equipment needs to be installed as per the AERB requirements. 
+8.3. 
+Any alterations and additional requirements to fulfill AERB Norms at the installation 
+site needs to be carried out by the vendor.  
+8.4. 
+Periodic renewal of AERB documentations / Quality Certifications during the warrant 
+and AMC/CMC period. 
+ 
+9. UPS 
+ 
+9.1. 
+Online UPS for the whole equipment and the accessories and workstation to support 
+atleast 30 minutes backup. 
+ 
+10. Certification  
+ 
+10.1. 
+Product should be CE European/USFDA/BIS approved. 
+ 
+11. Warranty  
+
+
+--- Page 46 ---
+ 
+ 
+GTE No.: AIIMS/ R/CS/DENT/CBCT/GTE/2023/02 
+ 
+Page 43 of 74 
+ 
+ 
+11.1. 
+5 years onsite warranty  
+11.2. 
+48 hours downtime  
+ 
+12. Service and Maintenance  
+ 
+12.1.1. Mandatory 6 monthly periodic maintenance of the whole equipment and installation 
+during the warranty period and CMC/AMC. 
+ 
+13. Training. 
+ 
+13.1. Mandatory training to the whole department initially and every 6 months for new joining for 
+next five years. 
+ 
+ 
+ 
+Warranty and Certification: 
+1. Warranty:  5 years warranty without any exclusion from the date of installation for both 
+equipment, accessories, and stabilizer/UPS with battery +5 years comprehensive maintenance 
+contract without any exclusion for both equipment, accessories and stabilizer/UPS (if supplied) 
+with battery. The cost of warranty and CMC will be included in the total cost of financial 
+comparison. Original literature of equipment should be submitted. During the Warranty & CMC 
+period, the supplier / firm must provide Annual calibration with minimum 04 (four) preventive 
+maintenance as well as routine services. After sales services must be provided at AIIMS, Raipur 
+(at installation site). In situations requiring service or repair of the unit outside AIIMS, Raipur 
+and commissioning, the expenditure on the account of this will have to be borne by the supplier. 
+2. User’s list should be provided with a satisfactory report for the last three years from three users 
+with contact details. 
+3. BIS / ISO / European CE / USFDA certification specific for the product should be submitted. 
+Terms and Conditions: 
+4. Uptime Guarantee and Downtime penalty Clause: 
+The firm will ensure uptime of 345 days in a year during warranty period & CMC period 
+for both equipment and stabilizer (if supplied). Whenever there is breakdown, the firm will carry 
+out the repair within 48 hours of receipt of such information (either by telephone or by any other 
+means). If there is delay beyond 48 hours, then the firm will be penalized at the rate of 1% of 
+the product cost per day. This financial penalty can be waived off only on recommendation of 
+the user dept. If the reasons for delay are genuine the same are recorded & endorsed by the 
+concerned dept. If the down time is exceeded in a year from 20 days then the warranty shall 
+stand extended by double the no. of days the machine was out of order. 
+ 
+5. The firm should provide the details of after sales and service and application backup. 
+6. Demonstration and onsite training of staff by the application experts is mandatory. 
+
+

@@ -1,0 +1,93 @@
+--- Page 25 ---
+AIIMS, Rishikesh 
+Page 25 
+24/Neonatology/Infra Red Spectroscopy/691/2023- Rish (Admn) 
+ 
+ 
+ 
+Specification of Near infra-red spectroscopy (NIRS) system  
+ 
+1. 
+Near infra-red spectroscopy system is a monitor to measure cerebral/somatic oximetry  
+2. 
+NIRS technology is used to detect changes in regional blood oxygen saturation (rSO2) in the brain and 
+skeletal muscles (somatic) tissue of the body. 
+3. 
+The equipment should be non-invasive and can be used safely in neonates 
+4. 
+Monitors must have provision of 4 channels capable of monitoring two tissue sites concentrations 
+simultaneously. 
+5. 
+Monitor should measure regional oxygen saturations in the range of rSO2 15-95. Values must be updated 
+at regular intervals typically every 5 seconds or less. 
+6. 
+Must comply with biomedical safety standards of the USFDA or European CE. 
+7. 
+System should meet all international regulatory standards like EN 60601-1 
+8. 
+Should be user friendly with pre-calibration and ready to use in 30 seconds 
+9. 
+Sensors self-calibration automatically by system 
+10. 
+Should be able to perform automatic self-test. 
+11. 
+Monitor should be applicable to neonatal patients in any clinical setting where the brain and body are at 
+risk of reduced-flow or no-flow ischemic states. 
+12. 
+Accuracy for reading must be within ± 5 rSO2 unit of actual. Repeatability must be ± 1-2 rSO2 units. 
+13. 
+Power requirement: 100-240 VAC, 50/60 Hz, 1.0A – 0.5A with connects for external AC mains and 
+battery backup of approximately 20 minutes 
+14. 
+Trend memory of 24 hours at 2 samples per minute with maximum of 28 cases saved 
+15. 
+Digital out-put RS232 communications& USB 2.0 flash memory 
+16. 
+Battery backup at least 12VDC; approximately 20 minutes. 
+17. 
+Should have USB Port USB 2.0 Flash Memory  
+18. 
+Should be provided with appropriate accessories and sensors.  
+19. 
+Weight of equipment should not be more than 5 kg. 
+20. 
+It should have ANALYTICAL TOOL which has data storage memory of 28 cases or more. 
+21. 
+Should be supplied with 50 suitable neonatal sensors. 
+22. 
+General requirement for Electrical safety of Medical Equipment.  
+ 
+General specifications: 
+1. 
+Memory of all set and measured parameters for at least 120 hours.  
+2. 
+Ability to transfer data to portable media/computer. If any software or cables are required for this, they should 
+be provided.  
+3. 
+Comprehensive warranty & CMC for at least 5 years from date of installation with at least 3-monthly 
+visits for routine checking and whenever called for troubleshooting. 
+4. 
+Consumables should be provided as per CMC for 5 years.  
+5. 
+List of consumables should be quoted with individual prices separately and rates should be frozen for a 
+period of next 5 years beyond warranty/CMC. 
+6. 
+Should have spare part & service available for another 5 years after completion of CMC.  
+7. 
+Onsite physical demonstration/training of the equipment to all the end users with all the requested facilities will be mandatory 
+8. 
+Documentation  
+a. 
+User/Technical/Maintenance manuals to be supplied in English  
+b. 
+Certificate of calibration and inspection from factory 
+9. 
+General requirement for Electrical safety of Medical Equipment  
+10. 
+Should have local service facility with response time of less than 24 hrs 
+11. 
+The service provider should have the necessary equipment’s recommended by the manufacturer to carry 
+out preventive maintenance test as per guidelines provided in the service/maintenance manual 
+12.    “MAKE IN INDIA” Product will be preferred 
+
+

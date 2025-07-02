@@ -1,0 +1,461 @@
+--- Page 11 ---
+Tender for CRRT Machine                                                                                                    Admn/Tender/85/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+CRRT 
+Machine 
+1 Description of function 
+ 
+1.1 
+CRRT is indicated in any patient who meets criteria for 
+Haemodialysis therapy but cannot tolerate intermittent dialysis 
+due to hemodynamic instability. CRRT is better tolerated by 
+hemodynamically unstable patients 
+because fluid volume, electrolytes and pH are adjusted slowly 
+and steadily overa 24 hour period rather than a 3– 4 hour 
+period. 
+2 The system shall be capable of providing the following therapies:-  
+ 
+2.1 Slow Continuous Ultrafiltration (SCUF)    
+ 
+2.2 Continuous Venovenous Hemofiltration (CVVH)    
+ 
+2.3 High-volume Continuous Venovenous Hemofiltration (HV-
+CVVH)    
+ 
+2.4 Continuous Venovenous Hemodiafiltration (CVVHDF)    
+ 
+2.5 Continuous Venovenous Hemodialysis (CVVHD)    
+ 
+2.6 Membrane Plasma Separation (MPS)    
+ 
+2.7 Hemoperfusion (HP) 
+3 The system should contain four pumps to control the flow rates of 
+Blood, Filtrate, Substituate and Dialysate.    
+4 
+The system should contain integrated syringe pump incorporated in 
+the extracorporeal blood circuit to permit continuous heparinization 
+of the blood.    
+5 The system should contain two integrated ceramic heaters to prevent 
+loss of patient body heat after prolonged treatment. 
+6 
+The system should contain four precision and stable scales for the 
+monitoring of the volumes of the total filtrate, Substituate and 
+dialysis. Each scale Maximum loading capacity: 12 kg. 
+7 The system should avoid ECG interference 
+8 The system should be allowing the customer to select post or pre 
+dilution on CVVH & HV-CVVH therapies. 
+9 Graphical User Interface 
+ 
+9.1 Keyboard function keys are provided. 
+ 
+9.2 An enlarged and high resolution colour 
+screen for dialysis data display:- 
+ 
+ 
+9.2.1. High resolution LCD colour display. 
+ 
+ 
+9.2.2. Its brightness is adjustable 
+adaptively to the illumination of the 
+environment. 
+ 
+9.3 
+The keyboard function keys and LCD 
+color display can provide an immediate 
+overview of the machine status for 
+treatment supervision.  A number of 
+treatment parameters can be shown upon 
+different pop-up menus:- 
+ 
+ 
+9.3.1. Cumulative graphical display of 
+treatment data and physiological trends 
+including Pressure graphics.    
+ 
+ 
+9.3.2. There are 6 selectable programming 
+masks for major treatment and 
+maintenance settings: 
+ 
+ 
+               9.3.2.1. Treatment modes Menu. 
+01 
+
+
+--- Page 12 ---
+Tender for CRRT Machine                                                                                                    Admn/Tender/85/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+ 
+ 
+               9.3.2.2. Preparation Menu. 
+ 
+ 
+              9.3.2.3. Treatment parameter 
+Menu.   
+ 
+ 
+              9.3.2.4. Treatment Menu    
+ 
+ 
+              9.3.2.5. End of treatment Menu.    
+ 
+ 
+              9.3.2.6. System parameters Menu.    
+ 
+ 
+9.3.3 Informative and context related 
+operator guidance,  warning messages and 
+alarm reports. 
+1
+0 
+The system must be user friendly. The system must with the 
+following features. 
+ 
+10 On-screen user guidance with step-by-step screen instructions.    
+ 
+10  Integrated help function. 
+ 
+10 
+Auto-priming of the filter, extracorporeal blood and fluids are 
+highly preferred so that therapy performing by non-specialized 
+nursing staff is possible.    
+ 
+10 Flexible disposable with cassette system and filter.    
+1
+1  Safety Features  
+ 
+11 
+High Degree of protection against electric shock.  
+The equipment shall have a ceramic heater system that the 
+Degree of protection against electric shock: Type CF (which is 
+safe for cardiac application).    
+ 
+11 
+Startup test for every treatment. The equipment shall perform a 
+self-test before every treatment to ensure all components are 
+working properly.     
+ 
+11 
+Battery Backup: The equipment shall be able to operate and 
+monitor the extracorporeal circuit without interruption for at 
+least 15 minutes battery backup in case of AC power failure.     
+ 
+11 
+Self-test during treatment: The equipment shall perform a self-
+test during treatment automatically in a fix period not less than 
+one hour to ensure all the components are working properly. 
+Performance Requirements 
+1 Blood Circuit 
+ 
+1.1 Vascular Access Double Needle or dual-lumen catheter 
+ 
+1.2 Blood Pump 
+ 
+ 
+1.2.1. Flow rate range:  10 – 500 ml/min for normal mode.  
+(MPS and HP: 10 – 300 ml/min) (Pediatric: 10-100 ml/min) in 
+10ml/min increment.      
+ 
+ 
+1.2.2. Control Accuracy:  ± 10%    
+ 
+ 
+1.2.3. It shall be easy and safe to thread with blood line 
+diameter 6.1 mm (optional also 3.1 mm). 
+ 
+ 
+1.2.4. Automatic set up and priming is preferred. 
+ 
+ 
+1.2.5. An emergency hand crank shall be provided for 
+returning blood to patient when electrical power is lost.  
+Direction of rotation shall be limited or visually indicated. 
+ 
+1.3  Substituate Pump 
+ 
+ 
+1.3.1. Delivery range:  600 – 9600 ml/hr. in 50ml/hr. 
+increment.      
+ 
+ 
+1.3.2. Accuracy: ± 10%    
+ 
+1.4 Dialysate Flow Rate 
+
+
+--- Page 13 ---
+Tender for CRRT Machine                                                                                                    Admn/Tender/85/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 13 
+ 
+ 
+ 
+1.4.1. Delivery range:  600 – 4200 ml/hr. in 50ml/hr. 
+increment.    
+ 
+ 
+1.4.2. Accuracy: ± 10%   
+ 
+1.5 Ultrafiltration Rate 
+ 
+ 
+1.5.1. Delivery range:  0 – 1800 ml/hr. in 10ml/hr. increment.    
+ 
+ 
+1.5.2. Accuracy: ± 10%    
+ 
+1.6 Anticoagulant Flow Rate (Heparin Pump) 
+ 
+ 
+1.6.1. Infusion rate:  0 - 10 ml/hr in 0.1 ml/hr increment. 
+ 
+ 
+1.6.2. Accuracy:  ± 5% 
+ 
+ 
+1.6.3. Positive and negative extracorporeal circuit pressure 
+shall not affect the infusion rate.    
+ 
+ 
+1.6.4. Bolus injected: 0.1 to 5 ml in increment of 0.1 ml (the 
+maximum bolus amount to be injection is preset to 5 ml. This 
+parameter can be set to smaller volumes in the System 
+parameters screen). 
+ 
+1.7 Pressure Monitoring and Alarms 
+ 
+ 
+1.7.1. Arterial pressure monitoring:  
+·         Range:  -280 to +300 mmHg.  
+·         Accuracy:  ± 10 mmHg.    
+ 
+ 
+1.7.2. Arterial pressure alarm:  
+·         Alarm window width: 20 to 200 mmHg, 
+size and position adjustable around actual pressure.   
+·         Alarm Limit can spread and be reset 
+automatically on adjustment of blood Flow. 
+ 
+ 
+1.7.3. Venous pressure monitoring  
+·         Range:  -80 to +500 mmHg.    
+·         Accuracy:  ± 10 mmHg.    
+ 
+ 
+1.7.4. Venous pressure alarm.  
+·         Alarm window width: 20 to 200 mmHg, 
+size and position adjustable around actual pressure.    
+·         Alarm Limit can spread and be reset 
+automatically on adjustment of blood flow. 
+ 
+ 
+1.7.5. Transmembrane pressure monitoring.  
+·         Range:  - 60 to +520 mmHg.    
+·         Accuracy:  ± 10 mmHg.    
+ 
+ 
+1.7.6. Transmembrane  pressure alarm:  
+·         Alarm window width: 20 to 200 mmHg, 
+size and position adjustable around actual pressure.    
+·         In MPS the upper alarm limited to 100 
+mmHg M) 
+ 
+ 
+1.7.7. Pressure before filter monitoring: Measuring Range: 0 to 
++750 mmHg. 
+ 
+ 
+1.8. Air Detection.  
+·         Alarm shall be activated for air bubbles and 
+micro-bubbles over the entire blood flow range.    
+·         On detection of excessive air on the venous 
+line, the blood pump shall be stopped and the venous return 
+line shall be clamped at a point below the air detector.    
+·         Ultrasonic air sensor shall be used for 
+preventing being affected by ambient light.   
+
+
+--- Page 14 ---
+Tender for CRRT Machine                                                                                                    Admn/Tender/85/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 14 
+ 
+ 
+ 
+1.9. Substituate solution and dialysate temperature control and 
+alarm limit of ceramic Heater:  
+·         Control range:  Off, 35.0 to 39.0 °C in 0.5 
+°C increment.    
+·         Alarm limit: 33.5 °C to 40 °C 
+ 
+ 
+1.10. Blood Leak Detection.  
+·         Alarm shall be activated for response 
+threshold smaller than or equal 0.5 ml blood loss per minute at 
+a hematocrit of 32.    
+·         The response threshold is related to the 
+maximum filtrate flow. The initiation of a blood leak alarm 
+also depends on the ultrafiltration rate and the size of the 
+membrane rupture in the filter. 
+2 Fluid Balancing and Information Display 
+ 
+2.1 
+The system must be an automatic fluid balancing system that 
+controls and monitors patient weight loss, total filtrate volume, 
+substituate solution and dialysate volume.    
+ 
+2.2 
+All the above mention volumes, filter life, anticoagulation 
+volume should be continuously shown and updated in a 
+display screen in orderly fashion for ease of recording and 
+patient safety.    
+ 
+2.3 When fluid bags are replaced, the system should automatically 
+account for the new bag weights. 
+ 
+2.4 Automated self-test for scales hourly shall be provided 
+ensuring safety.    
+ 
+2.5 Machine will prompt the acknowledge message to end user on 
+last 5 minutes when the substituate bag tend to empty.    
+3 Treatment Parameter Display 
+The equipment shall digitally display the parameters:- 
+ 
+3.1 3.1. Arterial pressure.    
+ 
+3.2 Venous pressure.    
+ 
+3.3 TMP. 
+ 
+3.4 Substituate flow rate.    
+ 
+3.5 Blood flow rate.    
+ 
+3.6 Dialysate flow rate.    
+ 
+3.7 Ultrafiltration rate.    
+ 
+3.8 UF goal.    
+ 
+3.9 Temperature. 
+ 
+3.1 Continuous anticoagulation rate.    
+ 
+3.1 Anticoagulation by bolus.    
+ 
+3.1 Alarm information in text format.    
+4 Alarm System 
+ 
+4.1 Both visual and audible alarms are required. 
+ 
+4.2 Instructions giving on the display for responding abnormal 
+condition should be provided. 
+5 The equipment offered shall operate at a mains supply of 220V 
+±6%, 50 Hz ±2%, single phase A.C. 
+6 
+Battery Backup: The equipment shall be able to operate and monitor 
+the extracorporeal circuit without interruption for at least 15 min. in 
+case of AC power failure by backup battery.     
+7 Accessories 
+
+
+--- Page 15 ---
+Tender for CRRT Machine                                                                                                    Admn/Tender/85/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.1 The offer shall be completed with all necessary accessories 
+which are essential for the normal operation of the equipment. 
+ 
+7.2 The successful tender shall be keep reasonable stock level for 
+normal necessary consumable items.   
+ 
+7.3 
+Should be supplied with 100 Nos of essential accessories such 
+as blood line set, haemofilters and ultrafiltrate bags at no extra 
+cost. 
+ 
+7.4 
+All media and consumables for setting up and standardization 
+should be provided free of cost in addition to the items 
+supplied in 7.3. 
+8 Operation Training: The successful tender shall be providing the 
+operation program to end user.    
+9 Installation: The successful tenderer shall be responsible for the 
+installation of the equipment.   
+1
+0 Should have an RS 232 Port for Data transfer and interface. 
+Standards, Safety and Training 
+1 Should be US FDA/European CE certified. 
+2 
+Shall comply with IEC 60601-2-16 SAFETY requirements of 
+medical electric equipment part 2- particular requirements for the 
+safety of Haemodialysis equipment. 
+3 Comprehensive training for lab staff and support services till 
+familiarity with the system. 
+4 
+Should have local service facility .The service provider should have 
+the necessary equipments recommended by the manufacturer to 
+carry out preventive maintenance test as per guidelines provided in 
+the service/maintenance manual. 
+Documentation 
+1 User/Technical/Maintenance manuals to be supplied in English. 
+2 Certificate of calibration and inspection. 
+3 
+ List of Equipment’s available for providing calibration and routine 
+Preventive Maintenance Support as per manufacturer documentation 
+in service/technical manual. 
+4  List of important spare parts and accessories with their part number 
+and costing. 
+5 Log book with instructions for daily, weekly, monthly and quarterly 
+maintenance checklist. 
+6 The job description of the hospital technician and company service 
+engineer should be clearly spelt out. 
+ 
+
+

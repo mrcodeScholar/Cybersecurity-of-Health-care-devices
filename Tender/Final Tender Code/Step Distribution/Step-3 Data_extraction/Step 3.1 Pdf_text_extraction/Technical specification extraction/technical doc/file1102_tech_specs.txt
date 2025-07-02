@@ -1,0 +1,84 @@
+--- Page 10 ---
+Tender for Digital Dental Radiography (Radiovisiography)                                       Admn/Tender/69/2016-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty. 
+1 
+Tender for 
+Digital Dental 
+Radiography 
+(Radiovisiogr
+aphy) 
+Digital acquisition and storage of Intra oral radiographs 
+ 
+1. Size Adult active area 20 x 30 mm or more  
+2. Sensor thickness of approx. 7 mm. 
+ 
+3. Based on CMOS technology.  
+4. Sensor to directly connect to USB Port without any interface with 
+approx. 3 metre cable length. 
+5. Round / Tapered edges and Maximum reach inside the mouth. 
+ 
+6. Sensor Active Area should be 600 mm2 or above 
+ 
+7. True Resolution should be more than 22 lp/mm.  
+8. The sensor should be water and dust resistant as per IP Code.  
+9. Imaging Software Features: 
+a. Multiple exposure feature for faster and easier exposure. 
+ 
+b. Automatic acquisition and save mode. 
+ 
+c. Sharpening / Cleaning / Improving Single click enhancement 
+Features for under/ over-exposed images. Localized enhance 
+feature  
+ 
+d. Support for multiple database archive. 
+ 
+e. Patient search by date or other search criteria viz. name etc.  
+f. Updated system diagnostic utilities.  
+g. Easy transfers by email directly 
+ 
+h. Should provide all licensed Software related with the RVG  
+i. Should have feature of automatic report templates in pdf 
+format. 
+ 
+10. Supplied with 20 inch LED panel screen with latest processor with 4GB 
+RAM, 1 TB HDD with Bluetooth technology keyboard and other 
+accessories.  
+ 
+Should have European CE/ US FDA certification.  
+01 
+
+

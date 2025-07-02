@@ -1,0 +1,69 @@
+--- Page 10 ---
+Tender for Real Time Quantitative PCR system                                                                 Admn/Tender/211/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Real Time 
+Quantitative 
+PCR system 
+1. Capable of performing both real time PCR and end point analysis  
+2. Peltier-based system.  
+3. 96-well block (both for Fast and standard Emulation Mode)  
+4. Supported volume range: 10μl to 30 μL  
+5. Filters(wide band) - Five-excitation filters, five-emission filters.  
+6. Detection : CCD camera.  
+7. Block ramp rate (at peak): ≥50 C  
+8. Temperature Range: 4°C-99°C  
+9. Factory calibrated for handling dyes such as SYBR Green, FAM, 
+VIC, JOE, NED, TAMRA, ROX, Texas Red, Cy3, Cy5.  
+10. Additional Dyes Available: Calibration for new dyes within the 
+wavelength range should be possible by following the custom dye 
+calibration procedure in the User’s Manual without purchase of 
+additional filter sets.  
+11. Capable of performing relative and absolute quantitation, Melting 
+curve analysis (at high resolution), multiplex-PCR, SNP analysis, 
+dissociation curve analysis, pathogen detection and plus/minus assays 
+etc.  
+12. Data collection:  
+Standard- Collect data for all 5 filters for all wells regardless of plate 
+setup. Plate setup may be altered after run completes.  
+13. Expert: Collect data for selected individual filter or group of filters 
+for all wells regardless of plate. Plate setup may be altered after run 
+completes.  
+14. Details of data acquisition during run for all dyes should be 
+provided and ensured Temperature accuracy: Maximum (+/-0.5°C of 
+set point/display temperature, measured at 3 minutes after clock start).  
+15. Run time: ~30 min (fast mode-expert), <2 hrs (standard & 
+emulation mode) for 40 cycles).  
+16. The software should be inclusive of Multi-componenting 
+Algorithm designed to provide precise deconvolution of multiple dye 
+signals in each well to ensure minimal crosstalk when using multiple 
+fluorophores for multiplex assays.  
+17. Dedicated licensed full version software for primer and probe 
+design with comprehensive assay design and development guidelines 
+for quantitative and qualitative real-time assays should be provided to 
+enable designing of custom oligo assays.  
+18. The IQ, OQ and PQ of the instrument should be performed at the 
+time of installation.  
+20. Electrical specification: 220 volts, 50Hz. single phase A.C.  
+21. After Sale, Service should be available promptly.  
+22. Should be CE or FDA or BIS approved product 
+03 
+
+

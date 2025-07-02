@@ -1,0 +1,270 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/EEG-ERP/045/PHY/18/OT 
+Page 17 of 20 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR 
+ 
+EEG - Amplifier 64 Channels  
+ 
+Input Noise < 0.5µV   
+ 
+24 bit ADC  
+ 
+Common mode input Impedance :  > 1GOhms  
+• Sampling Rate: up to 20000 Hz per channel using Wi-fi/ Optic fiber 
+connectivity 
+• Built in impedance check & built in square wave calibration.  
+• Digital Filters  
+ 
+Research grade software with Online and Offline Digital filters & Notch filters      
+FIR/IIR/smoothening/notch 
+ 
+Import/Export of standard EEG Data including EDF/ASCII ; – Analysis for 
+features like  Re-Referencing, Re-Sampling, Epoching, Power Spectrum 
+Analysis, Coherence Analysis, marking annotations, change of sensitivity, 
+printing of Epoch of interest  etc. 
+ 
+Multiuse Amplifier: EEG/ERP/PSG/NFB should be enabled using the same 
+hardware.  
+ 
+System should have facility for measuring the values for a specific segment of 
+recording by Zooming. 
+ 
+Software should allow to prune the EEG data. 
+ 
+System may have facility of comparing any segment of EEG with the current 
+EEG by copying 
+ 
+Waveforms freeze facility with simultaneous background recording desirable. 
+ 
+High quality USB Camera upgradable to higher quality. 
+ 
+Should have programmable Automatic LED Photic stimulator (preferably USB 
+based), Stimulation rate 0.5 to 60 Hz, Modes Automatic, Manual and Single 
+ 
+System 
+offered 
+should 
+be 
+upgradable 
+to 
+higher 
+configurations 
+(channel/analysis) and full-fledged Polysomnography system  
+ 
+Application of electrodes could be gel /paste/saline/hydro-gel based & time of 
+application  to be short 
+ 
+Gel/saline & Head cap, junction/ control box & gold/cup electrodes to be 
+supplied as standard     accessories 
+ 
+Ability to call MATLAB / SciLab API directly from system & interface to 
+Labstream. Export       to MatLab plug-ins such as EEGLab, Fieldtrip, EDF+ & 
+SIMPLE Binary formats.  
+ 
+Export Graph and Data output to Image/ASCII/Spreadsheet   
+ 
+Should have LAN connectivity. View real time EEG data across the LAN 
+network.   
+ 
+Integrated EEG time locked Movement Sensor from Arm and Leg band is 
+desirable   
+ 
+Easy exporting to any storage device for reviewing in any PC.   
+ 
+Should have inbuilt provision for complex multivariate data analysis without 
+any requirement for third party analysis software 
+ 
+Interface with LORETA / sLORETA, etc. for Source Localization   
+ 
+2D/3D Head Maps for Amplitude and frequency mapping  
+ 
+Ability to Re-Montage to different Reference Arrangements (user configurable 
+Montages), e.g., Bipolar, Average reference, Current Source Density 
+
+
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/EEG-ERP/045/PHY/18/OT 
+Page 18 of 20 
+ 
+ 
+Reports - Customized report generation.   
+ 
+Customizable patient database with built in scheduler.   
+ 
+Patient database management software with powerful search facility. 
+ 
+Warranty for 3 years and AMC for 3 years after warranty period. 
+   
+ERP SPECIFICATIONS 
+ 
+Keyboard Averaging Combinations for differential response patterns in ERP Analysis  
+ 
+V.E.P. and A.E.P.  (visual and auditory) Stimulus Program with wide selection of 
+stimulus paradigms- AEP/VEP.  ERP Module for stimulus presentation.  
+ 
+Cognitive Potentials with enabled P300, N400, Mismatch Negativity, VEP, PREP 
+Potentials, Go-No Go tasks, etc.   
+ 
+Creation and presentation of image/audio/tone/alphanumeric and textual stimuli. 
+Display and Editing of all Event Markers.  
+ 
+Offline time-locking and pairing with user selected marker and events. 
+ 
+Stimulus Delivery Chart Window & Stimulus to Response Link should be present.    
+ 
+Should be able to integrate with third party stimulus presentation software 
+ 
+GENERAL REQUIREMENTS 
+ 
+Should have standard Indian certification (eg.ISO-9001 etc.), optionally higher 
+regulatory certificates (CE/USFDA) 
+ 
+All standard accessories / PC/ monitor and consumables should be supplied 
+including on/offsite training  
+ 
+Training of faculty – in house 
+ 
+Demonstration to be provided for the item before decision making  
+ 
+Minimum warranty for 3 years and thereafter AMC. 
+ 
+Minimum Required Computer Specifications 
+ 
+PC & monitor for video stimulus, recording & analysis. At least 24” Monitor, i5 
+processor  (latest configuration); 16GB  or above RAM; laser colour printer 
+ 
+ 
+ 
+ 
+Instructions for Online Bid Submission: 
+The bidders are required to submit soft copies of their bids electronically on the CPP Portal, 
+using valid Digital Signature Certificates. The instructions given below are meant to assist the 
+bidders in registering on the CPP Portal, prepare their bids in accordance with the 
+requirements and submitting their bids online on the CPP Portal.  
+More information useful for submitting online bids on the CPP Portal may be obtained at: 
+https://eprocure.gov.in/eprocure/app. 
+REGISTRATION 
+1) Bidders are required to enrol on the e-Procurement module of the Central Public 
+Procurement Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on the link 
+“Online bidder Enrolment” on the CPP Portal which is free of charge. 
+2) As part of the enrolment process, the bidders will be required to choose a unique 
+username and assign a password for their accounts.  
+3) Bidders are advised to register their valid email address and mobile numbers as part of 
+the registration process. These would be used for any communication from the CPP 
+Portal.  
+4) Upon enrolment, the bidders will be required to register their valid Digital Signature 
+Certificate  (Class II or Class III Certificates with signing key usage) issued by any 
+Certifying Authority recognized by CCA India (e.g. Sify / nCode / eMudhra etc.), with 
+their profile. 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/EEG-ERP/045/PHY/18/OT 
+Page 19 of 20 
+ 
+5) Only one valid DSC should be registered by a bidder. Please note that the bidders are 
+responsible to ensure that they do not lend their DSC’s to others which may lead to 
+misuse. 
+6) Bidder then logs in to the site through the secured log-in by entering their user ID / 
+password and the password of the DSC / e-Token. 
+SEARCHING FOR TENDER DOCUMENTS  
+1)  There are various search options built in the CPP Portal, to facilitate bidders to search 
+active tenders by several parameters. These parameters could include Tender ID, 
+Organization Name, Location, Date, Value, etc. There is also an option of advanced search 
+for tenders, wherein the bidders may combine a number of search parameters such as 
+Organization Name, Form of Contract, Location, Date, Other keywords etc. to search for a 
+tender published on the CPP Portal.  
+ 
+2) Once the bidders have selected the tenders they are interested in, they may download the 
+required documents / tender schedules. These tenders can be moved to the respective ‘My 
+Tenders’ folder. This would enable the CPP Portal to intimate the bidders through SMS / 
+e-mail in case there is any corrigendum issued to the tender document.  
+ 
+3) The bidder should make a note of the unique Tender ID assigned to each tender, in case 
+they want to obtain any clarification / help from the Helpdesk.  
+PREPARATION OF BIDS 
+1) Bidder should take into account any corrigendum published on the tender document 
+before submitting their bids.  
+2) Please go through the tender advertisement and the tender document carefully to 
+understand the documents required to be submitted as part of the bid.  
+3) Number of covers in which the bid documents have to be submitted, the number of 
+documents - including the names and content of each of the document that need to be 
+submitted. Any deviations from these may lead to rejection of the bid.  
+4) Bidder, in advance, should get ready the bid documents to be submitted as indicated in 
+the tender document / schedule and generally, they can be in PDF / XLS / RAR / 
+DWF/JPG formats. Bid documents may be scanned with 100 dpi with black and white 
+option which helps in reducing size of the scanned document.    
+To avoid the time and effort required in uploading the same set of standard documents 
+which are required to be submitted as a part of every bid, a provision of uploading such 
+standard documents (e.g. PAN card copy, annual reports, auditor certificates etc.) has 
+been provided to the bidders. Bidders can use “My Space” or ‘’Other Important 
+Documents’’ area available to them to upload such documents. These documents may be 
+directly submitted from the “My Space” area while submitting a bid, and need not be 
+uploaded again and again. This will lead to a reduction in the time required for bid 
+submission process. 
+SUBMISSION OF BIDS 
+1) Bidder should log into the site well in advance for bid submission so that they can upload 
+the bid in time i.e. on or before the bid submission time. Bidder will be responsible for 
+any delay due to other issues. 
+2) The bidder has to digitally sign and upload the required bid documents one by one as 
+indicated in the tender document. 
+3) Bidder has to select the payment option as “offline” to pay the tender fee / EMD as 
+applicable and enter details of the instrument.  
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/EEG-ERP/045/PHY/18/OT 
+Page 20 of 20 
+ 
+4) Bidder should prepare the EMD as per the instructions specified in the tender document. 
+The original should be posted/couriered/given in person to the concerned official, latest 
+by the last date of bid submission or as specified in the tender documents. The details of 
+the DD/any other accepted instrument, physically sent, should tally with the details 
+available in the scanned copy and the data entered during bid submission time. 
+Otherwise the uploaded bid will be rejected. 
+5) Bidders are requested to note that they should necessarily submit their financial bids in 
+the format provided and no other format is acceptable. If the price bid has been given as a 
+standard BoQ format with the tender document, then the same is to be downloaded and 
+to be filled by all the bidders. Bidders are required to download the BoQ file, open it and 
+complete the white coloured (unprotected) cells with their respective financial quotes and 
+other details (such as name of the bidder). No other cells should be changed. Once the 
+details have been completed, the bidder should save it and submit it online, without 
+changing the filename. If the BoQ file is found to be modified by the bidder, the bid will be 
+rejected.  
+6) The server time (which is displayed on the bidders’ dashboard) will be considered as the 
+standard time for referencing the deadlines for submission of the bids by the bidders, 
+opening of bids etc. The bidders should follow this time during bid submission. 
+7) The documents being submitted by the bidders would be encrypted using PKI encryption 
+all techniques to ensure the secrecy of the data. The data entered cannot be viewed by 
+unauthorized persons until the time of bid opening. The confidentiality of the bids is 
+maintained using the secured Socket Layer 128 bit encryption technology. Data storage 
+encryption of sensitive fields is done. Any bid document that is uploaded to the server is 
+subjected to symmetric encryption using a system generated symmetric key.                                 
+8)  Further this key is subjected to asymmetric encryption using buyers/bid opener’s public 
+keys. Overall, the uploaded tender documents become readable only after the tender 
+opening by the authorized bid openers. 
+9) The uploaded tender documents become readable only after the tender opening by the 
+authorized bid openers. 
+10) Upon the successful and timely submission of bids (i.e. after Clicking “Freeze Bid 
+Submission” in the portal), the portal will give a successful bid submission message & a 
+bid summary will be displayed with the bid no. and the date & time of submission of the 
+bid with all other relevant details.  
+11) The bid summary has to be printed and kept as an acknowledgement of the submission 
+of the bid. This acknowledgement may be used as an entry pass for any bid opening 
+meetings. 
+ 
+ASSISTANCE TO BIDDERS  
+1) Any queries relating to the tender document and the terms and conditions contained 
+therein should be addressed to the Tender Inviting Authority for a tender or the relevant 
+contact person indicated in the tender.  
+2) Any queries relating to the process of online bid submission or queries relating to CPP 
+Portal in general may be directed to the 24x7 CPP Portal Helpdesk number 0120-
+4200462, 0120-4001002.  
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,192 @@
+--- Page 45 ---
+47 
+ 
+SECTION – VII 
+TECHNICAL SPECIFICATION AND GENERAL POINTS 
+ 
+ 
+ 
+Specifications for “CTVS High End ICU Monitor with integrated automated charging System . 02no. 
+ 
+ 
+1. Modular OT/ICU monitoring system for Adult, Pediatric and Neonatal applications with facility of freely 
+exchangeable modules. Should be user friendly be full touch screen operation. 
+2. Each main bedside monitor must be supplied with transport module having an inbuilt full touch display of a 
+minimum of 5 inches that can be used for transfer of connected parameters (ECG, SpO2, NIBP, three IBP, temp & 
+EtCO2) on patient without disconnecting cables/accessories to another bedside monitor. The transport module should 
+have its own battery backup of at least 5 hours. The transport monitor should be light weight and shock proof for 
+drops upto a height of 3 feet from ground. 
+3. It should be capable of monitoring ECG, Three invasive blood pressures, non-invasive blood pressure, oxygen 
+saturation (SpO2), perfusion index, dual temperature, end-tidal carbon dioxide (mainstream for both intubated and 
+non-intubated patients) and continuous cardiac output (minimally invasive/non-invasive method) and BIS. 
+4. Should display latest trend graph of at least 30 minutes on main screen along with real- time waveform and numerical 
+values. 
+5. The color of each individual curve should be freely selectable. 
+6. Trend data and full disclosure of waveforms should be 72hours or more. 
+7. The monitor should have facility to enlarge numeric display for distance viewing with multiple layouts of screen. 
+8. Monitors should have facility to store and display last 72 hours or more. 
+9. Should have a facility to deactivate all the alarms if necessary. 
+10. It should have facility to display real time data and alarms of other bedside monitors. 
+11. The monitor should have 18-20 inch color TFT/LCD display. 
+12. The monitor should have display of 15 or more curves at a given time. The operator should be able to freeze the 
+waveform at will. 
+13. Main monitor must be supplied with high quality UPS/inbuilt battery system for providing uninterrupted power 
+backup for 30 min at least. 
+14. Should be upgradeable to NMT and EEG. 
+ 
+ECG monitoring essential specification: 
+ 
+1. Available leads: I, II, III, V, aVR, aVL, aVF, with facility for recording 5/6 lead ECG. 
+2. Should display at least two or more selected leads at a time. 
+3. Accuracy of + 2 beat/min. 
+4. Should efficiently filter out the ESU disturbances and defibrillation protection. 
+5. Should have ST segment analysis with ST map review for each ECG lead. 
+6. Should have arrhythmia monitoring facility for up to 25 arrhythmias types. It should store and display the number of 
+arrhythmias occurred in last 72 hours with ECG segment. 
+7. Should have user selectable alarms. 
+ 
+Pulse Oximeter (SpO2): 
+ 
+1. Should provide a digital value of the arterial oxygen saturation as well as diagnostic plethysmography pulse 
+waveform, perfusion index display. 
+2. Measurement range 0% to 100% +/-2% (80-100%) accuracy. 
+3. User selectable upper and lower alarm limits. 
+4. Should have to work well in low perfusion and motion artifacts. 
+5. Should provide the clinical data/reports in support for the accuracy of SPO2 in low perfusion. 
+ 
+EtCO2 monitoring  
+1. Should use infrared absorption technique. 
+2. Mode: Mainstream 
+3. Should be able to use on both intubated and non-intubated patients. 
+4. Range EtCO2: 0-99 mm Hg. 
+
+
+--- Page 46 ---
+48 
+ 
+5. Accuracy: + 2 mmHg at normal readings. 
+6. Should have an apnea alarm. 
+ 
+Respiration: 
+ 
+1. Range 0-150 breaths/min 
+2. Accuracy: + 2 breaths/min 
+3. Should have an apnea alarm. 
+4. Display sweep speeds 6.25, 12.5 and 25 mm/sec, measured by the same ECG lead. 
+ 
+Invasive pressure monitoring: 
+ 
+1. Should have the ability to measure and display minimum three or more invasive pressure value with waveforms 
+simultaneously. 
+2. Should have facility to measure and display pulse pressure variation from arterial pressure waveform. 
+3. User selectable upper and lower alarm limits. 
+4. Measuring range: 0 to 300 mm Hg. 
+5. Accuracy: +1 mmHg 
+ 
+Non-Invasive blood pressure (NIBP) monitoring: 
+ 
+1. Measurement method: - Linear Inflation 
+2. Range: 0-280 mm Hg for adults and 0-200 pediatric. 
+3. Manual, auto and time limited with user selectable automatic time intervals, stat mode. It should provide over pressure 
+protection. 
+4. Accuracy: ± 3 mmHg 
+ 
+Continuous Cardiac Output monitoring  
+1. Should have technology to measure noninvasive as well as invasive continuous cardiac output monitoring. 
+2. Should provide CO, CI, SV, SVI, SVR & SVRI if CVP is measured simultaneously.  
+3. It should have facility of measuring these parameters via all of the following, with dedicated transducers if need be: 
+a. Without use of invasive arterial line 
+b. With use of invasive arterial line 
+c. With use of pulmonary artery catheter using thermodilution method 
+4.  If any special disposables like catheters, sensors or transducers required which is unique for monitoring CO and other 
+derived parameters, 10 number of the same should be supplied with each CO module supplied at the time of 
+installation. 
+ 
+ 
+  
+BIS Module – 1 No; With adult, child electrodes -2nos with each module 
+ 
+Others: 
+ 
+1. Monitoring system should be upgradeable to Integrated automated charting system of proven track record in India, so   
+that   complete   ICU   equipment’s data such as syringe pumps, ventilators, monitors etc. can be integrated for 
+various usage at one point.  
+2. Monitor should be HL7 complaint and able to connect to hospital information system. 
+3. Monitor should be IT enabled for single point access to web-based applications (like Cath Lab, X- ray, DICOM, HIS. 
+Should give direct access to Web-based applications. 
+4. Monitor should support transfer of patient data with use of USB stick. 
+5. The unit should be US FDA approved or European CE approved product or BIS approved product. 
+6. All essential accessories required should be supplied for standard function working. 
+7. Each monitor to be supplied with following accessories. 
+a. ECG-5 lead set cable – 01 No. 
+b. ECG extension trunk cord – 01 No. 
+c. SpO2 probe: 
+i. 
+For adult finger – 2 No. 
+ii. 
+For neonatal finger- 2 No 
+
+
+--- Page 47 ---
+49 
+ 
+d. NIBP cuff: Adult size – 1No., pediatric – 1 No. Neonatal- 1 No 
+e. SpO2 interface cable and NIBP hose pipe – 01 each. 
+f. 
+Temperatures probes – Skin – 02 No.; Nasal/Rectal-2 No 
+g. EtCO2 module – Mainstream Sensor with adult /pediatrics disposable airway adapter 5 no. 
+Face mask for checking EtCO2 in adult/pediatric-2  
+h. Should provide at least 3 reusable interface cable for IBP monitoring and at least 10 Nos. disposable 
+transducers. 
+i. 
+Cardiac output –01 set of complete accessories for invasive monitoring with each monitor system; disposable 
+sensor/catheter 10 nos. should be supplied with each module. 
+j. 
+One set of Accessory for Noninvasive continuous cardiac output with 2 monitors 
+k. BIS– 01 set of accessories with each module 
+l. 
+Wall mount – 1number 
+m. UPS 
+ 
+ 
+Note: - 
+1. Prices should be quoted with 5-year warranty and further 5-year CMC must be quoted. 
+2. Price of consumables and accessories to be frozen for a minimum of 10 years and must be uploaded in separate PDF 
+while bidding. Same shall be considered for L1 evaluation. 
+3. The bidder must ensure availability of all consumables (in current or upgraded form) for a period of minimum 10 years. 
+4. Demonstration of equipment may be requested at AIIMS Raebareli, Raebareli as part of technical evaluation. 
+5. Bidder must provide a brochure of their equipment along with the bid, with a table showing whether they comply with all 
+technical specifications. 
+6. The bidder must submit an affidavit that they are not debarred by the Ministry of Commerce, Ministry of Health & 
+Family Welfare or any other relevant Department. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

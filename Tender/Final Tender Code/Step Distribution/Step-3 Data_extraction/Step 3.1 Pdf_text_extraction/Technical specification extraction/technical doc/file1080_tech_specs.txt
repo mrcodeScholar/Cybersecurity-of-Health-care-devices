@@ -1,0 +1,236 @@
+--- Page 41 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/Bio/03-460/GTE 
+Page 41 of 65 
+ 
+SECTION – VII TECHNICAL  SPECIFICATIONS 
+Technical specification for Supply and installation of Multimode Microplate Reader 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against  manufacturing defect  
+2. All instruments should be corrosion resistant, autoclavable, BIS approved. 
+3. Manufacturer should be ISO Certified. 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly marking the 
+Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the firms. 
+6. L-1 will be decided on total value only. 
+7. All firms should have supplied the quoted instruments to the reputed central government hospitals 
+like AIIMS, PGI, etc. and should submit a certificate of satisfactory working from the concerned 
+government hospital. 
+TECHNICAL SPECIFICATIONS FOR “MULTIMODE MICROPLATE READER” 
+1. Multimode Microplate Reader should have capabilities to detect UV-VIS Absorbance, 
+Fluorescence, FRET, Time Resolved-Fluorescence, TR-FRET, Fluorescence Polarization, 
+Luminescence, with flexible monochromator-based optics along with filter based optic module for 
+high sensitivity experiments. 
+2. It should be able to perform endpoints, kinetic, spectral scans and well-area scanning in all 
+detection modes. Top and Bottom reading. 
+3. Should be able to use 6- to 384-well plates as well as micro-volume plates to measure up to 16 
+nos. 2 µL microspots. Micro-volume plate to measure 2 µL sample should be provided with the 
+system.  
+4. Temperature range - Ambient +40C to 45°C with facility to prevent condensation in lidded plates. 
+5. It should have linear, orbital and double orbital shaking facility with variable speed and duration 
+6. The detection methodology should be both Monochromators for flexibility and filters based for 
+higher sensitivity. For monochromators, the wavelength selection should be through double 
+grating monochromator. The system should allow to switch between monochromator to filter 
+optics through control software. 
+7. Monochromator optics should have its independent light source (Xenon Lamp) and PMT detector 
+for Fluorescence 
+8. Filter optics should have it independent light source (Xenon Lamp) and PMT detector for 
+Fluorescence. 
+9. Should have automated focal height adjustment 
+10. Light source - Xenon flash Lamp 
+11. For absorbance mode: 
+a. Light Source: Xenon Flash Lamp 
+b. Wavelength range: 230 - 999 nm with 1 nm increments  
+c. Dynamic range 0 - 4.0 OD (Resolution- 0.0001 OD)   
+d. With path-length correction 
+12. For Fluorescence mode: 
+e. Light Source: Xenon Flash Lamp 
+f. Wavelength range: 250 - 700 nm  
+g. Dynamic range : 7 decades 
+
+
+--- Page 42 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/Bio/03-460/GTE 
+Page 42 of 65 
+ 
+h. Sensitivity: Monochromator 
+                   Top: Fluorescein 2.5 pM (0.25 fmol/well 384-well plate) or lower 
+                   Bottom: Fluorescein 4.0 pM (0.4 fmol/well 384-well plate) or lower 
+i. Filters: Fluorescein 0.25 pM (0.025 fmol/well, 384-well plate) 
+j. Detector: 2 PMT detector. One independent PMT detector for Monochromator optics and 
+one independent PMT detector for Filter optics 
+13. For Time-Resolved Fluorescence mode: 
+a. Light Source: Xenon Flash Lamp 
+b. Wavelength range: 200 - 700 nm  
+c. Sensitivity: Monochromator : Europium 1200 fM (120 amol/well, 384-well plate) 
+                   Filters: Europium 40 fM (4 amol/well, 384-well plate) 
+d. Detector: PMT 
+14. For Fluorescence Polarization mode: (OPTIONAL – requires FP filters) 
+a. Light Source: Xenon Flash Lamp 
+b. Wavelength range: 280 - 700 nm  
+c. Sensitivity: 1.2 mP standard deviation at 1 nm fluorescein 
+d. Detector: PMT 
+15. For Luminescence mode: 
+a. Wavelength range: 300 - 700 nm  
+b. Dynamic range 6 decades or more 
+c. Sensitivity:  Monochromator: 20 amol ATP (flash) 
+                    Filters: 10 amol ATP (flash), 100 amol (glow) 
+16. Reading speed should be not more than 12 sec for 96 wells and not more than 24 secs for 384 well 
+plates 
+17. Instrument control software, advanced data analysis software should be provided with instrument. 
+The software should be multi-user license. 
+18. The vendor should complete the installation, demonstration at the user site and should provide all 
+the technical brochures and manuals. 
+19. Computer with latest configuration should be provided 
+20. Suitable UPS to be provided with a backup of 30 mins 
+21. Warranty 5 years & CMC for 5 years 
+22. Should provide previous PO copies related to installations at various INI. 
+23. Demonstration should be given during the technical evaluation.  
+ 
+ 
+   
+ Technical compliance report should be submitted in following format: 
+ 
+Sr. 
+No. 
+Item Description as 
+per Tender 
+Complied 
+Yes/No 
+Item Description 
+offered by Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 43 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/Bio/03-460/GTE 
+Page 43 of 65 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE document 
+for complete equipment (including Batteries for UPS, other vacuumatic parts wherever 
+applicable) Warranty period will be 5 years from the date of installation, commissioning 
+and 
+Site 
+Modification 
+Work 
+from 
+the 
+date 
+of 
+satisfactory 
+installation, 
+commissioning, trial run & handing over of equipment to Hospital/Institution/Medical 
+College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period by 
+double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical 
+College on 24 (hrs) X 7 (days) X 365 (days) basis. Complaints should be attended properly, 
+maximum within 8 hrs. The service should be provided directly by Tenderer/Indian Agent. 
+Undertaking by the Principals that the spares for the equipment shall be available for at least 
+10 years from the date of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents 
+(if 
+they have the requisite know-how) for operation and maintenance of the equipment to the 
+satisfaction of the consignee. The same will be in line with the training modalities as 
+specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes preventive 
+maintenance including testing & calibration as per technical/ service /operational manual 
+of the manufacturer, labour and spares, after satisfactory completion of Warranty period 
+may be quoted for next 5 years on yearly basis for complete equipment 
+(including Batteries 
+for UPS, other vacuumatic parts wherever applicable) and Site Modification Work (if any). 
+The supplier shall visit each consignee site as recommended 
+in the manufacturer’s technical/ 
+service /operational manual, but at least twice in six months (i.e. 4 preventive maintenance/ 
+year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of any 
+such 
+stipulation the price will be taken inclusive of such taxes and no claim for the same 
+will be 
+entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be taken at Net 
+Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory completion of 
+said period, duly certified by end user on receipt of bank guarantee for 5% of the cost of the 
+CMC contract as per Section XV valid till 2 months after expiry of entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 365 
+(days) basis, with penalty, to extend CMC period by double the downtime period. 
+f) During CMC period, the supplier is required to visit at each consignee’s site at least twice 
+in 6 months (i.e. 4 preventive maintenance/ year) apart from all breakdown visits, 
+commencing from the date of the successful completion of warranty period for preventive 
+maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the Bank 
+Guarantee for Annual CMC. 
+i) The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 44 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/Bio/03-460/GTE 
+Page 44 of 65 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to be 
+installed, in consultation with HOD of Hospital/Institution/Medical College concerned. Site 
+Modification Work details of each Hospital/Institution/Medical College are given at the end 
+of Technical Specification. The Tenderer to quote prices indicating break-up of prices of the 
+Machine and Site Modification Work of each Hospital/Institution/Medical College. The Site 
+Modification Work costs to be quoted in Indian Rupee will be added for Ranking Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation the 
+price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer’s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it‟s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard IEC- 
+60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is not 
+available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management 
+information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period 
+ 
+ 
+
+

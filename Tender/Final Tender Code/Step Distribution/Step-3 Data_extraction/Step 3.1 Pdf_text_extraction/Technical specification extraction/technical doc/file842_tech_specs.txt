@@ -1,0 +1,135 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Anat/62/19/OT/A 
+ 
+Page 19 of 24 
+ 
+ANNEXURE-I 
+Technical specifications for Stereomicroscope 
+20.5:1 motorized zoom with 7.8x-160x magnification range (1x objective, 10x eyepieces) 
+and built-in digital display. 
+Fusion Optics - combines high resolution and depth of field together for ideal optical 3-D 
+impression. 
+Resolution up to 525 lp/mm (1x objective, 10x eyepieces), maximum resolution up to 
+1050 lp/mm (2x objective, 10x eyepieces). 
+Motorized and coded functions: zoom and iris diaphragm coded functions: objective 
+nosepiece Motorization and coding allows fast reproducibility and consistency in 
+experimental procedures and permits calibrated measurement at all zoom levels. 
+Fully apochromatic corrected optics allow high contrast, natural color images without 
+color fringes or chromatic aberrations. 
+The modular system offers complete flexibility and upgradability, integrated digital 
+display, Motorized iris diaphragm, Controlling of motorized functions via software or 
+external controller unit. 
+Eyepiece 10x/23B, adjustable, 2nd gen, dioptre adjustable, wide field eyepiece for 
+spectacle wearers, designed for using graticules, with exchangeable soft eyecups. 
+Inclined binocular tube 45°, M-Series, Interpupillary distance 52-76 mm. 
+Objective Plan 1x M-series, Working distance 60 mm, Connection thread M65, 66 mm 
+external diameter for ring light illumination or accessories. Objective Plan 0.5x M-series, 
+Working distance 139 mm, Connection thread M65, 66 mm external diameter for ring 
+light illumination or accessories. 
+Motor Focus drive long 620mm M-series, Suitable for all incident and transmitted light 
+bases, Max. load 15 kg, USB interface and 3 CAN connectors to interface accessories 
+e.g. LED5000 illumination series, Controlling of motorized focus via optional foot switch 
+10447398, Handwheel 10450298 or Smart Touch Control 10450052. 
+Smart Touch TM control unit for high-end stereo Microscopes, To control functions of 
+motorized instruments like zoom, iris diaphragm, fluorescence filter turret, shutter, 
+Fluorescence Intensity Manager FIM, motor focus, focus speed (corresponding to 
+magnification), IsoPro XY stage, Memory functions, store and recall of settings, Visualize 
+current setting of encoded instruments. 
+TL4000 BFDF Transmitted Light Base with bight field and circular dark field Offers 
+continuously adjustable changeover between bright field and dark field, Enables a wide 
+range of illumination variations, Illuminated object field diameter 40 mm, Slide On TM 
+design enables the standard stage to be replaced with the IsoPro series cross stage and 
+vice versa, Anti Shock feet, Demands external LED or halogen light source, Fiber light 
+guide and standard stage 10450562 optional available. 
+ 
+ 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Anat/62/19/OT/A 
+ 
+Page 20 of 24 
+ 
+ 
+Manual IsoPro 6x4" XY stage (9.6 x 14.7 inch) (24.4 x 37.4 cm), Travel range of 6x4 inch 
+(15.24 x 10.16 cm), Max weight 0.5 kg, Includes a transparent glass stage plate (170 x 
+220 mm), Microscope slide holder 10447392, Petri dish holder 10447392 and holder 
+with interface for further accessories (120 mm diameter 10447276, 110 x 160 mm 
+10447275) available. 
+Standard Adapter between column and transmitted light base, For M series 
+stereomicroscopes non-fluorescence, For Z series macroscopes. 
+Microscope Camera with Software, Digital color camera with CMOS sensor, can be 
+mounted directly between the dovetails of M-series microscopes. Possible to operate only 
+with an HDMI monitor and without PC (requires the stand-alone kit 12730528 and 
+HDMI monitor), High definition live image 1920x1080p, 30fps, JPG images with max.10 
+Mpixels, MP4 movie clips with max. 2 Mpixels, Camera control via computer (PC mode) 
+or via remote control, RC2/RC3 (HD mode), Capture of JPGs or MP4s directly to SD 
+card, USB2 connection, compatible with PCs and notebooks, Camera kit includes 
+IC90E, USB2 cable 1.8m Typ A-B, CD with Software LAS X 3.0 and higher (Windows 7, 
+Windows 10), LAS 4.9 and higher (Windows 7, Windows 8 / 8.1) LAS Acquire 3.3 and 
+higher (MAC OS X) LAS EZ 3.3 and higher (Windows 7, Windows 8 / 8.1, Windows 10), 
+optional accessoir: Footswitch 12 730 229, optional accessoir: Stand-alone Kit 12 730 
+528 with HDMI Cabel Typ A-A 2.5m, ethernet cable, Remote Control RC3, external Power 
+supply with plugs for EU, US, GB & CN, 1 SD Card. 
+LED5000 RL-80/40 ring light, 2. Generation, for 80 mm objectives, 40 Hi-Power LEDs, 
+ca. 5600K color temperature, selectable segments, working distance 50-80 mm, CAN 
+bus connection, incl. 0.7 m CAN cable. 
+Diffuser for LED5000 RL-80/40 ring light - version 2, to reduce gloss marks. Spotlight 
+illumination, 2-arm Gooseneck with 500mm length, with 2 Hi-Power LEDs, ca. 5600K 
+color temperature, 2x CAN bus connection, incl. 0.7 m CAN cable. 
+Adapter for accessories with inner diameter of 80 mm (LED5000 RL und HDI) to fit on 
+66 mm objectives. 
+Clamp for combi light guides on focus drive for highend M-series, also for adaptation of 
+LED5000 SLI. 
+Cold Light Source KL2500 LED, Fiber optic, 5600 K - Optional Halogen Filter 31258307, 
+Filter holder, Equivalent to 250 Watt source, Universal power supply - cord.  
+Light guide, TL bases, coax & NV-ill - 1m, Flexible light guide for KL 1500 LCD / KL 
+2500 LCD, fits to TL Bases, coaxial and near vertical illumination. Length: 1000 mm 
+Active diameter: 8mm. 
+Power cable, 2 m with EURO plug (Schuko). 
+LAS Hardware USB Dongle. LAS Montage Multifocal, Simplified operations by 
+automatically adjusting step size and the number of images to microscope 
+magnification, aperture and camera resolution, Wide range of powerful Extended depth 
+of field algorithms to cope with the majority of situations, Produces a depth map for use 
+with LAS 3D Viewer and the sophisticated 3D analysis tool Map, Create a Stereo Pair, 
+Anaglyph and Colour Relief images to further enhance visualisation and increase 
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/Anat/62/19/OT/A 
+ 
+Page 21 of 24 
+ 
+understanding, Montage provides the same easy to use extended depth of field, 
+acquisition capabilities as Multifocal but extends the processing capabilities to cope with 
+a wide variety of different situations. Montage also provides editing capabilities to further 
+enhance the final extended depth of field image. In addition Montage produces a depth 
+map which is used by LAS 3D viewer to create 3D images as well as the comprehensive 
+3D measurement and analysis tool Map. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,225 @@
+--- Page 25 ---
+85 
+AIIMS Rishikesh Tender Enquiry No. 24/Pulmo/Bronchoscopy/729/2024-RISH (ADMN) 
+ 
+88179/2023/226 
+ 
+ 
+BRONCHOSCOPY and EBUS SIMULATOR SPECIFICATIONS 
+ 
+The system should be fully computerized and interactive. 
+ 
+Should have PC with latest Intel i7 and Virtual Reality simulation processor with remote access. 
+ 
+Should have a Stainless steel support [130-186] cm L / [57-87] cm Width / [135-180] cm Height 
+ 
+Should have at 27” Flat LCD touch screen with a movable arm. 
+ 
+Should have designated cyberscopy navigation tasks to improve eye hand coordination and navigational 
+skills. 
+ 
+Should have a 3D map for the ease of users to learn and understand the anatomy better. 
+ 
+Should offer a choice of aids enhancing 3D and anatomical perception such as external 3D Map. 
+ 
+Should support the trainees’ performance with real time guidance, comments and patient safety alerts. 
+ 
+The performance assessment should be most advanced with benchmark setting depending on the user 
+level. 
+ 
+Should incorporate electric tools such as electrocautery probe. 
+ 
+The system should have Web based Simulator Curricula Management System, providing the optimal 
+solution for managing simulation based training and education needs : 
+o Should facilitate performing the administrative tasks of running a training course or workshop. 
+o Should offer extensive library of courses including a library of ready-to-use simulator based 
+courses and a platform to design new ones. 
+o Should have ready to use designed Curricula. 
+o Should have a facility to access, assign, evaluate and administer the data of users remotely. 
+ 
+Bronchoscopy Basic Characteristics 
+ 
+ 
+The system should be equipped with a reliable high end technological Haptic (force feedback) to 
+provide realistic sensation that mimic the look and feel of an actual procedure. 
+ 
+Should have a mannequin with Nose and mouth for performing diagnostic and therapeutic 
+bronchoscopy. 
+ 
+Should have original OEM bronchoscope adapted to simulation purposes, to provide realistic feel and 
+maneuverability. 
+ 
+Should have one master tool device, one 10cc syringe and one EBUS TBNA needle (adapted) 
+ 
+Should simulate the full spectrum of the Bronchoscopic Procedure: 
+o Patient management with moderate sedation and topical anesthesia 
+o Ongoing patient monitoring 
+o Solving complications such as hypoxia, respiratory depression, dangerous levels of BP 
+and HR 
+• 
+All virtual patient cases should offer an unrestricted clinical environment for inspecting, analyzing, 
+diagnosing and treating accordingly. 
+• 
+Should provide real life patient environment with: 
+Reactive vital signs, 
+True to life physiological responses like cough, Altering consciousness and 
+Complications 
+• 
+Should have designated tasks to support structured self-learning of sampling methods with immediate 
+performance feedback. 
+• 
+Should have designated tasks to improve eye hand coordination and navigational skills. 
+• 
+Advanced modules should offer choice between moderate sedation by the trainee to preexisting general 
+anesthesia. 
+
+
+--- Page 26 ---
+86 
+AIIMS Rishikesh Tender Enquiry No. 24/Pulmo/Bronchoscopy/729/2024-RISH (ADMN) 
+ 
+88179/2023/226 
+ 
+ 
+• 
+Should offer a choice of didactic aids enhancing 3D and anatomical perception such as anatomy 
+compass, external 3D Map, anatomy atlas and anatomical labels for bronchial segments and lymph 
+nodes. 
+• 
+System should support the trainees’ performance with real time guidance including efficiency, 
+comments and patient safety alerts. 
+• 
+The performance assessment should be most advanced and include biopsy results per sampled location 
+or lymph node, for advanced Modules. 
+• 
+Should incorporate electric tools such as electrocautery probe and APC probe. 
+• 
+Should offer the following Bronchoscopic tools and methods for the trainee to use at his clinical 
+discretion: 
+o Diagnostic Bronchoscopy, all clinical cases should offer: Topical anesthesia and BAL using an 
+actual syringe, cytology brushes, biopsy forceps, and conventional TBNA needles with actual 
+syringe to apply suction. 
+o Essential EBUS, all clinical cases should offer: Topical anesthesia using an actual syringe, 
+EBUS-TBNA needle with actual syringe to apply suction. 
+o Emergency Bronchoscopy, different cases should offer: basket, balloon, grasping forceps, V- 
+shape forceps, electrocautery probe, APC probe, iced saline, epinephrine and mucomist 
+endobronchially using an actual syringe 
+• 
+Should offer a structured curriculum and certification for essential Bronchoscopic skills and Diagnostic 
+Bronchoscopy. 
+ 
+TAINTING MODULES AND VIRTUAL PATIENT CASES 
+ 
+The system should have the following modules and virtual patient cases: 
+ 
+ 
+Essential Bronchoscopy Module Offering skill and procedural tasks: 
+o Bronchoscope control and maneuvering 
+o Anatomic navigation 
+o Anatomical recognition of bronchial segments 
+o Anatomical recognition of lymph node stations 
+o Step-by-step procedural performance of forceps biopsy, brushing and conventional 
+TBNA 
+ 
+Diagnostic Bronchoscopy Module with: 
+ 
+Biopsy result per the area sampled
+ 
+Cases with malignant endobronchial findings
+ 
+Pediatric inflammation case
+ 
+Adult inflammation case
+ 
+Sarcoidosis case
+ 
+Aspergillus case
+ 
+Emergency Bronchoscopy Module with: 
+ 
+Endobronchial bleeding in main airways
+ 
+Peripheral endobronchial bleeding following biopsy
+ 
+Foreign body aspiration – pediatric
+ 
+Foreign body aspiration – adult
+ 
+ 
+Therapeutic aspiration - mucus filled airways 
+ 
+
+
+--- Page 27 ---
+87 
+AIIMS Rishikesh Tender Enquiry No. 24/Pulmo/Bronchoscopy/ ………/2023-RISH (ADMN) 
+88179/2023/226 
+ 
+ 
+ 
+ 
+Essential EBUS Module with: 
+ 
+A step-by-step procedural task for complete EBUS-TBNA performance 
+ 
+Tasks to learn and identify the different lymph node stations on the ultrasound view 
+ 
+Radial peripheral EBUS basic training 
+ 
+Cases with multiple lymph nodes, all of which can be sampled by the trainee 
+ 
+Pathological finding results per the sampled lymph nodes 
+ 
+A case with different pathological findings for different lymph nodes 
+ 
+Malignant lymph nodes 
+ 
+Benign lymph nodes 
+ 
+ 
+The system should come with 5 years warranty and the company should quote 5 years of CMC price 
+ 
+The company should have the option to buy back the machine after warranty and CMC period 
+is over. 
+ 
+The system should have over-the-cloud upgradation of software. 
+ 
+The system should be BIS/ISO / UPSFDA/EUROPEAN CE or Equivalent. 
+ 
+The price of accessories should be quoted in the financial bid and should be valid for 10 years 
+ 
+List of accessories as follows:- 
+1. Scopes 
+2. Monitor 
+3. CPU 
+4. Keyword 
+5. Mouse 
+6. Robotic sensor 
+7. Footswitch 
+8. Manikin body 
+9. Ebus needle 
+10. Bronch tool 
+11. Tool holder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

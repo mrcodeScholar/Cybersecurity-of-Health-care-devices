@@ -1,0 +1,182 @@
+--- Page 10 ---
+Tender for IOL Master for the Dept. of Ophthalmology                                
+        Admn/Tender/256/2017-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+ 
+01. 
+ 
+IOL Master  
+ 
+ 
+ 
+1 
+MEASUREMENT RANGE 
+  
+ 
+Axial length 
+14 – 38 mm 
+ 
+Corneal radii 
+5 – 11 mm 
+ 
+Anterior chamber depth 
+0.7 – 8 mm 
+ 
+Lens thickness 
+1 – 10 mm (phakic 
+eye) 
+ 0.13 – 2.5 mm 
+(pseudophakic eye) 
+ 
+Central corneal thickness 
+0.2 – 1.2 mm 
+ 
+White-to-white 
+8 – 16 mm 
+2 
+DISPLAY SCALING 
+  
+ 
+Axial length 
+0.01 mm 
+ 
+Corneal radii 
+0.01 mm 
+ 
+Anterior chamber depth 
+0.01 mm 
+ 
+Lens thickness 
+0.01 mm 
+ 
+Central corneal thickness 
+1 μm 
+ 
+White-to-white 
+0.1 mm 
+ 
+SD of repeatability 
+  
+ 
+Axial length 
+9 μm 
+ 
+Corneal radii 
+0.07 D 
+ 
+Cylinder 
+> 0.75 D axis 4.5° 
+ 
+Anterior chamber depth 
+10 μm 
+ 
+Lens thickness 
+19 μm 
+ 
+Central corneal thickness 
+2 μm 
+ 
+IOL calculation formulas 
+Haigis Suite 
+[includes Haigis, 
+Haigis-L (for eyes 
+following 
+myopic/hyperopic 
+LASIK/PRK/LAS
+EK, Haigis-T (for 
+toric IOL power)], 
+Hoffer Q, Holladay 
+2, SRK/T. 
+ 
+Interfaces 
+·  Data interface 
+for electronic 
+medical record 
+(EMR) / patient 
+management 
+systems (PMS) 
+·  Data export to 
+USB storage media 
+·   Ethernet port for 
+network 
+connection and 
+01 
+
+
+--- Page 11 ---
+Tender for IOL Master for the Dept. of Ophthalmology                                
+        Admn/Tender/256/2017-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+network printer 
+ 
+Line voltage 
+100 – 240 V ± 10 
+% (self-sensing) 
+ 
+Line frequency 
+50 – 60 Hz 
+ 
+Power consumption 
+Max. 150 VA 
+ 
+ USFDA or European CE approval needed. 
+
+

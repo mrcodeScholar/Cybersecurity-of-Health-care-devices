@@ -1,0 +1,151 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Pul-Med/18/012/OT 
+ 
+ 
+ 
+Page 19 of 23 
+ 
+Annexure - I 
+TECHNICAL SPECIFICATION 
+“NIV/BI – LEVEL VENTILATOR (BIPAP MACHINE) ” 
+         FOR DEPARTMENT OF PULMONARY MEDICINE 
+ 
+ 
+1. Non Invasive Ventilator having invasive application capabilities for Adult and 
+Paediatricusage (above 15 Kgs). 
+ 
+2. It should be a light & compact device combining unique latest NIV features with 
+simplicity in use. 
+ 
+3. Modes of Ventilation: S/T (Spontaneous/Timed), PAC (Pressure Assisted Control), 
+CPAP(Continuous Positive Airway Pressure), S(Spontaneous), T (Timed), Volume 
+Assured Pressure Support (to ensure Alveolar ventilation). 
+ 
+4. Should incorporate latest algorithms for leak compensation and synchronization. 
+Both should work together to provide control and flexibility to improve 
+ventilation, comfort and sleep; better disease management, increased patient 
+comfort and therapy acceptance (patient’s breathing ‘in sync’ with their device. 
+ 
+5. It should have colour screen for real-time monitoring to provide essential 
+information including simultaneously viewed flow and pressure curves, the Ti-bar 
+graph to fine-tune ventilation, and SpO2 and FiO2 monitoring. 
+ 
+6. The machine should have a choice of disease-specific preset values Defaults (for 
+obstructive, restrictive, normal lung mechanics and obesity hypoventilation) 
+based on commonly used clinical values to help the users for optimising settings  
+ 
+7. Should have built in internal battery for minimum 2 hours of back up time. 
+ 
+8. Should include user adjustable alarms and essential non-adjustable, fixed 
+alarms for patient safety  
+ 
+9. Should have oxygen inlet port to accept higher flow up to 30 L/min of oxygen to 
+achieve a highFiO2 with built in FiO2 monitoring  
+ 
+10. Data download capability – The usage and summary data for up to 365 treatment 
+sessions and seven days of high resolution, breath-by-breath data (including 
+SpO2 and FiO2) should be  stored in the device; data can be downloaded via USB 
+or cable, using a data management PC application. 
+ 
+11. It should also provide patient reminders, such as filter and mask replacements. 
+ 
+12. The NIV should comply with following technical specifications  
+Pressure range 
+:  
+IPAP: 2–40 cm H2O&EPAP: 2–25 cm H2O 
+Ti-Control setting  : 
+Ti Max 0.1–4 sec&Ti Min 0.1–Ti Max 
+Respiratory Rate : 
+5–60 bpm 
+Rise Time 
+ 
+: 
+Min. 150–900 m.sec (approx.) 
+Trigger and Cycle : 
+Min. 5 sensitivity settings. 
+Adjustable alarms : 
+High Leak, Low Minute Ventilation, High Pressure, 
+ 
+Low Pressure, Low / High Respiratory Rate, Apnea,
+ 
+Low / High FiO2, Low SpO2,Non-vented mask 
+Standard fixed alarms:     Circuit disconnected, overpressure, Blocked tube, 
+internal battery empty. 
+ 
+ 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Pul-Med/18/012/OT 
+ 
+ 
+ 
+Page 20 of 23 
+ 
+ 
+Weight  
+ 
+: 
+Less than 3 Kgs. 
+Air filters 
+ 
+: 
+Electrostatic fibre mesh. 
+Air outlets  
+: 
+Compatible with ISO 5356–1:2004 
+Power supply 
+:         AC 100–240V 50–60Hz, Device DC Input: -  24 V / 3A 
+ 
+13. It should meet IEC 60601–1 Classification, Class II (double insulation), type BF 
+Continuous operation. 
+ 
+14. Should be BIS/ISO/CE/ FDA certified. 
+ 
+15. Should be supplied with autoclavable patient circuit, Oxygen connector,  
+Reusable / Autoclavable full face mask  (small & medium) 3 each, tubing – 2,  
+Fio2 & Spo2 monitoring accessories.   
+ 
+16. Company has to provide training to all the staff, as & when required. 
+ 
+17. Three (03) Year Onsite unconditional warranties with Three (03) year CMC after 
+the period of warranty.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,69 @@
+--- Page 11 ---
+Tender for Portable WBC Analyzer                                                                                  Admn/Tender/27/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+WBC 
+Analyzer 
+Finger prick testing WBC Analyzer 
+1. The system is required to analyse differential leucocyte count at 
+bedside. 
+2. The system should preferably be based on hemolyzation of red cells 
+and colour staining of white cells in the microcuvette. Several images 
+should be taken of stained white cells and the number of cells are 
+counted in the analyzer. 
+3. It should be supplied with microcuvette to be made of polystyrene 
+plastic and contain the following reagents: cuvette (Methylene Blue, 
+Saponin, Surfonyl 465, Triton X-100).  
+4. The system should provide total WBC count and 5 part differential (in 
+absolute & %) -                                                       Neutrophils, 
+Lymphocytes, Monocytes, Basophils and Eosinophils 
+5. It should provide reading at least in range of 0.3 – 30.0x10/L 
+6. It should be US FDA/ European CE certified. 
+7. The process time should be < 5 minutes 
+8. The system should have an inherent memory of at least 500 results. 
+9. The system should be able to give results from finger puncture i.e. 
+capillary whole blood 10µL. 
+10. The system should be supplied along with barcode scanner, key board, 
+printer 
+11. The system should be factory calibrated. No calibration needed for 
+routine use. The supplier should perform quarterly calibration, to 
+maintain accuracy of the system. 
+12. It should have provision to be battery operated 
+13. Manufacturer should have ISO 9001:2008 certification 
+14. Analyzer should comply with IVD Medical Device Directive 98/79/EC 
+ 
+ 01 
+
+

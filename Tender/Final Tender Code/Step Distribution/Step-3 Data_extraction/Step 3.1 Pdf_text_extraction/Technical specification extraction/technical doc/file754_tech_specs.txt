@@ -1,0 +1,141 @@
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/T&E/19/006/OT 
+ 
+ 
+Page 17 of 20 
+ 
+ANNEXURE-I 
+Technical Specification 
+Sl. No. 
+Item Descriptions 
+1 
+Technical specification for Portable Color Doppler Ultrasound Unit: 
+ 
+A state of art fully digital, compact Color Doppler Ultrasound machine is required with following 
+ 
+1. 
+Unit should be able to give very high image quality with advance technologies like 
+compound imaging for better contrast resolution, tissue differentiation and edge detection, 
+equivalent to high end cart based systems. Please specify the technology. 
+2. 
+Unit should be compact, durable & less than 5 kg in weight. 
+3. 
+Imaging modes of Real time 2D, Color Doppler, Power Doppler, Pulsed wave Doppler, 
+Continuous wave Doppler must be available. 
+4. 
+System should have both online (Read) as well as offline(Write) zoom facility 
+5. 
+System must have fast start up to scanning in less than 30 seconds from off condition, for use 
+in critical care environment and emergency field situations. 
+6. 
+System should support transducer technologies like phased array, convex, linear & TEE 
+format. 
+7. 
+The system should have a broadband architecture with an operating frequency of at least 1 to 
+15 MHz 
+8. 
+Cine memory should be available on all operating modes. 
+9. 
+The system shall process a dynamic range that is at least 165db. The system must display at 
+a maximum depth of 35 cm. 
+10. The system must have dedicated calculation packages for cardiac, Vascular & Ob/Gyn 
+measurements. 
+11. The offered unit must have Flat LCD/ TFT monitor of at least 12 inches with Anti glare 
+coating and flicker free image. 
+12. Alphanumeric soft keys backlit and splash resistant keypad with easy access scans controls, 
+facility to sanitize the system keyboard to avoid cross contamination. 
+13. The system must have the ability to function by AC/DC or battery power with the same 
+degree of functionality, the battery life (run time) shall be al least 2 (Two) hours, this need to 
+demonstrate. 
+14. The system must have archive capability for storage & retrieval of images and clips. It 
+should have atleast 2 USB slots, which allow for direct sharing of images (JPEG) and clips 
+(AVI) to a PC. 
+15. Unit & transducers must be rugged, resistant to breakage & damage on fall/hit so as to 
+withstand busy & field situations. 
+16. The system must have in-built memory of at least 16 GB for storing Patient data & studies. 
+17. The system shall support the all DICOM functionality, Storage, Print, and Work List, also 
+ready to connect to PACS. 
+18.  System should have both European CE and US FDA quality certification. 
+ 
+Transducers & other accessories to be supplied as standard: 
+ 
+1. 
+2-5 MHz (±1 MHz) multi-frequency broadband Curved array transducer for Adult 
+abdominal, applications 
+2. 
+6-13 MHz (±1 MHz) multi-frequency, broadband linear array transducer for vascular, 
+venous, small parts, musculoskeletal, Lung, nerve imaging with less than 40mm size. 
+3. 
+1-5 MHz (±1 MHz) multi-frequency broadband Phased array transducer for abdominal, 
+Cardiac, Lung & OB applications. 
+4. 
+Neonatal and paediatric transducer 
+5. 
+A trolley must be available to store and/or transport the system. 
+6. 
+Triple Transducer Connector with electronic switching facility to toggle between 
+transducers. 
+7. 
+B/W Thermal printer 
+ 
+ 
+
+
+--- Page 18 ---
+NIT No. : AIIMS/R/CS/T&E/19/006/OT 
+ 
+ 
+Page 18 of 20 
+ 
+ 
+Optional Transducers/Software/Items: 
+ 
+1. 
+6-12 (+/-1) MHz multi-frequency, broadband, 25 mm linear array transducer for vascular, 
+musculoskeletal, nerve and superficial imaging. 
+2. 
+6-15 (+/-1) MHz broadband Linear array, 50 mm (+/-5 mm) transducer for superficial, small 
+parts and musculoskeletal applications. 
+3. 
+High Frequency ‘Hockey Shape’ Linear transducer 6-12 (+/-1) MHz for nerve blocks, 
+vascular access, Vascular Imaging. 
+4. 
+Up gradation with Needle visualization software should be possible which can dynamically 
+optimize the image to give the best possible view of the needle in real time. 
+ 
+ 
+ 
+Instructions for Online Bid Submission: 
+The bidders are required to submit soft copies of their bids electronically on the CPP Portal, using 
+valid Digital Signature Certificates. The instructions given below are meant to assist the bidders in 
+registering on the CPP Portal, prepare their bids in accordance with the requirements and submitting 
+their bids online on the CPP Portal.  
+More information useful for submitting online bids on the CPP Portal may be obtained at: 
+https://eprocure.gov.in/eprocure/app. 
+REGISTRATION 
+1) Bidders are required to enroll on the e-Procurement module of the Central Public Procurement 
+Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on the link “Online bidder 
+Enrollment” on the CPP Portal which is free of charge. 
+2) As part of the enrolment process, the bidders will be required to choose a unique username and 
+assign a password for their accounts.  
+3) Bidders are advised to register their valid email address and mobile numbers as part of the 
+registration process. These would be used for any communication from the CPP Portal.  
+4) Upon enrolment, the bidders will be required to register their valid Digital Signature Certificate  
+(Class II or Class III Certificates with signing key usage) issued by any Certifying Authority 
+recognized by CCA India (e.g. Sify /  nCode / eMudhra etc.), with their profile. 
+5) Only one valid DSC should be registered by a bidder. Please note that the bidders are responsible 
+to ensure that they do not lend their DSC’s to others which may lead to misuse. 
+6) Bidder then logs in to the site through the secured log-in by entering their user ID / password 
+and the password of the DSC / e-Token. 
+SEARCHING FOR TENDER DOCUMENTS  
+1) There are various search options built in the CPP Portal, to facilitate bidders to search active 
+tenders by several parameters. These parameters could include Tender ID, Organization Name, 
+Location, Date, Value, etc. There is also an option of advanced search for tenders, wherein the 
+bidders may combine a number of search parameters such as Organization Name, Form of 
+Contract, Location, Date, Other keywords etc. to search for a tender published on the CPP Portal.  
+2) Once the bidders have selected the tenders they are interested in, they may download the 
+required documents / tender schedules. These tenders can be moved to the respective ‘My 
+Tenders’ folder. This would enable the CPP Portal to intimate the bidders through SMS / e-mail 
+in case there is any corrigendum issued to the tender document.  
+
+

@@ -1,0 +1,121 @@
+--- Page 16 ---
+NIT No. : AIIMS/R/CS/MRD/19/32/RC 
+ 
+16 | P a g e  
+ 
+ 
+ 
+ANNEXURE-I 
+ 
+TECHNICAL SPECIFICATION OF DIGITIZATION & SCANNING OF MEDICAL RECORDS 
+DOCUMENTS (Tentative Qty. 30 Lakh Pages) 
+1. Receiving of discharge case sheets from Medical Record Department 
+2. Arranging and page numbering to be done as per order of assembling of MRD 
+3. Scanning of Records & image enhancement & storing image, storing in DVD/Hard Drive 
+disc of MRD & Server room. 
+4. The temporary storage during the scanning will be the responsibility of the firm. The 
+scanned data to be provided in DVD/Hard Drive. 
+5. The record should be scanned and returned to MRD within 24 hours. The paper work for 
+receipt and issue of records to be printed/ provided by outsource agency and returning 
+back the case sheet in original in Assembled/ Stapled order to MRD. 
+6. The scanning will be done in MRD only, But the hardware / Software/ Maintenance/ 
+Manpower will be provided by the outsourcing agency. Only the office will be changed 
+extra space as per tariff.  
+7. Software for retrieval of Medical records by various parameters viz. Admission No. i.e. 
+MRD No., Demographic profile, ICD-10 code Nos., date/month/year, etc. of scanned 
+documents for searching these parameters either keyword or using a software link. A 
+separate software for retrieval of diagnostic data should be provided with various 
+parameters viz. retrieval of data disease wise, sex wise, age wise, unit wise, geographical 
+wise, etc. 
+8. The software should be installed at hospital server for easy retrieval. 
+9. Software for MRD functions i.e. file issue, reports & follow up of records with various 
+departments as and when any other required, training of MRD staff to work on software. 
+10. Coding and diagnostic indexing of documents, as per ICD-10 coding book of WHO, to be 
+done by man power of outsource agency in the software at MRD/ Server room of this 
+hospital. 
+11. The key if any for all the above software i.e. scanning & MRD Functions should be given 
+to server room of this hospital for any repair/alteration/corrections/additions, as & when 
+required. 
+12. The rate quoted should be applicable for further one years. After obtaining successful 
+completion certificate by the Officer in charge of MRD every year. 
+13. The scanning should be done in the PDF/any latest format. 
+14. Initially the contract will be awarded for the period of one year extendable till 1 years 
+based on performance & after getting successful completion certification from the CMO in 
+charge of MRD every year. 
+15. Record ID: auto generated unique ID irrespective of case sheet no. 
+16. Record Type i.e. IPD case sheet, OPD Case sheet, emergency case sheet, post mortem 
+report, discharge summary, death/ birth certificate etc. 
+17. Hardcopy Record storage: Rack detail with location. 
+18. Hardcopy Record Storage: Shelf detail with location. 
+19. Case sheet owning department unit/ ward. 
+20. Contact of case sheet that no. of reports, no progress notes pages, no of x-ray etc. 
+
+
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/MRD/19/32/RC 
+ 
+17 | P a g e  
+ 
+21. Manual Record Status i.e. available, Not traceable, destroyed etc. 
+22. Need to map with specific keywords. Keyword can be mapped with Operation name, 
+diagnostic, Findings. This can be used for research purpose searching. 
+23. Access type of case sheet i.e. Restricted, Normal, Confidential etc. 
+1. Scope of Work 
+AIIMS, RAIPUR is looking for only turnkey solution providers having Document 
+Management Systems experience and must have undertaken and executed project 
+involving digitization of Hard/Print  Copies, integrating  with born-digital  contents and 
+providing post digitization Digital  Solution  like retrieval of images/records  and to 
+capture  and integrate new arrival  of digital records. 
+The activities involved shall be 
+ 
+Scanning/quality enhancement/cropping of existing Record/digitization: 
+ 
+ 
+The documents/pages of different sizes (A4/A3 etc.) are required to be transformed 
+/ converted into digital format (both images and/or pdf) and archived with proper  
+indexing  for easy retrieval. 
+ 
+This digitization is a time bound initiative to be accomplished with in a period of 1 
+year. 
+ 
+The documents have to be digitized within the premises of AIIMS, RAIPUR and no 
+physical document or digitized material shall be allowed to leave the premises at any 
+point of time. 
+ 
+The original document is fragile and likely to be lost in the near future, extremely 
+valuable documents  where re digitization is problematic, requires high quality 
+prints 1:1 - we need as perfect copy as possible -> usually 600 dpi or better 1200 
+dpi, with lighting and colour calibration (ICC profile), lossless compression 
+ 
+ 
+Development of application software for – Document Management System: 
+ 
+ 
+The vendor should have to develop, test, implement and provide a web based 
+application software to be run on intra-net / multi user/ multi-distributed 
+environment with proper security provisions and audit trail for storage and retrieval 
+of records on keys as specified by the MRD. 
+ 
+The software should also be able to capture and integrate new arrival of digital 
+/non-digital (after scanning) records. 
+ 
+Sufficient number of copies (five – one original and four photocopies) of software 
+documentation & user manuals shall have to be provided. 
+ 
+The training of MRD Staff AIIMS, RAIPUR – for six months for one group consisting 
+of up to 20 persons shall be given. 
+ 
+2. Eligibility Criteria (Please provide documentary proof for following with technical bid) 
+ 
+a) Tender is open to all firms/companies in India, engaged in providing Digitization and 
+Digital Archiving Solution. 
+b) The vendor should be registered with Directorate of Service taxes need only apply 
+and the vendor should submit the details of registration of their firm/company, 
+income GST registration & copy of PAN Card, GST. 
+c) The vendor should have been certified ISO 9001:2008 or any other Certificate for 
+quality Management. 
+d) The vendor should have developed similar web/LAN - GUI based application 
+software on intra-net /multi user/ multi-distributed for any of the Government 
+Departments / Autonomous Bodies / Examining bodies/ Corporate bodies. 
+
+

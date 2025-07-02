@@ -1,0 +1,90 @@
+--- Page 11 ---
+  Tender for Trinocular Microscope with Display System                                         Admn/Tender/62/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Trinocular 
+Microscope 
+with Display 
+System 
+1. 
+Optical system -Infinity corrected system 
+2. 
+Focus -Vertical stage movement 25mm or more per course 
+stroke Vertical stage movement 1 micron or less per fine 
+stroke 
+3. 
+Illumination-Lamp House for LED with connecting cable 
+having life span of 20,000 hrs or more. 
+4. 
+Revolving nosepiece-Reversed Sextuple revolving nosepiece. 
+Should be upgradeable to DIC in future. 
+5. 
+Objectives- 
+Plan Achromat 2X or 2.5x N.A 0.06 Plan Achromat 4X 
+N.A 0.10 
+Plan Achromat 10X N.A 0.25 
+Plan Achromat 40X N.A 0.65 (spring) 
+Plan Achromat 100X N.A 1.25 (Spring, oil) 
+6. 
+Observation tube -Wide field three way Trinocular Eyepiece 
+Tube with 10X eyepiece of minimum 22mm F.O.V 
+7. 
+Stage-Ceramic coated surface mechanical stage with right-
+hand low drive control with left hand for two specimens 
+8. 
+Condenser-Swing out condenser usable form 2X-100X) 
+9. 
+Camera & Software-Digital cooled CCD Camera 5MP, with 
+10bit digitization, 2048x1500. Exposure time 1.6 ms to 
+17.8min in lus increments with Fire wire port. Software to 
+capture and image processing. 
+10. 
+Computer System-i5 processor,4GB RAM,500GB HDD, 
+DVR R/W,TFT 20". 
+11. 
+Additional features-The system should be upgradeable to 
+Fluorescence attachment with multicolour 5 or more Filters 
+positions on a turret at a time. 
+12. 
+Product specification-Camera and microscope should be 
+manufactured by the same manufacturer. 
+13. 
+Additional display-The equipment should be supplied with a 
+55 inch LED monitor, in addition to TFT screen and the 
+monitor should be wall mounted by the vendor during 
+installation. Viewer should have the option of choosing 
+between display on TFT screen or LED monitor. 
+14. 
+Provision to connect LCD/LED Projector should be available 
+alongwith software if required for the same. 
+15. 
+Performance certificate -Vendor should furnish satisfactory 
+performance certificate of the model quoted from an 
+institution of National Importance. 
+16. 
+Product demonstration -There should be provision for 
+demonstration before final approval of equipment. 
+17. 
+Regulatory body approval -The equipment should be USA-
+FDA/European-CE approved, necessary approval certificates 
+should be attached with quotation.  
+ 
+01 
+
+

@@ -1,0 +1,742 @@
+--- Page 21 ---
+Rate Contract for Supply of Pacemakers and High Voltage Devices                                     Admn/RC/37/2017-AIIMS.JDH 
+ 
+A I I M S  –  J o d h p u r                                                              21 | P a g e  
+ 
+Chapter – V 
+Technical Bid 
+ 
+List of Pacemakers and High Voltage Devices 
+S. No 
+Item Name with Specification 
+1. 
+VVI  
+ 
+US FDA approved pacemaker with lead & accessories. 
+ 
+All single Chamber modes and basic multi-programmable parameters with preferably autosensing and auto-
+capture/output management facilities. 
+ 
+Must have Ventricular Capture Management. 
+ 
+Monitor the integrity of lead and switch polarity in case of issue 
+ 
+The Size of lead should be 7F or less. 
+ 
+The Lead must be steroid eluting and should be both bipolar and unipolar configuration. 
+ 
+Must have both active and passive fixation endocardial leads available. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+2. 
+VVIR  
+ 
+US FDA approved pacemaker with lead & accessories. 
+ 
+All single Chamber modes and basic multi-programmable parameters with preferably autosensing and auto-
+capture/output management facilities. 
+ 
+Must have Ventricular Capture Management. 
+ 
+Monitor the integrity of lead and switch polarity in case of issue 
+ 
+The Size of lead should be 7F or less. 
+ 
+The Lead must be steroid eluting and should be both bipolar and unipolar configuration. 
+ 
+Must have both active and passive fixation endocardial leads available. 
+ 
+Must have rate response which allows rate profile optimization. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+3. 
+VVIR (Pediatric)  
+ 
+US FDA approved pacemaker with lead & accessories. 
+ 
+All single chamber modes and with pediatric Base rate upto 160bpm and parameters, must be smallest size 
+designated for pediatrics patient, weight should be less than 14gm,  
+ 
+ 
+Must have Ventricular Capture Management. 
+ 
+The Size of lead should be 7F or less. 
+ 
+The Lead must be steroid eluting and should be both bipolar and unipolar configuration. 
+ 
+Must have both active and passive fixation endocardial leads available. 
+ 
+Must have rate response which allows rate profile optimization. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available 
+4. 
+VVIR (MRI Conditional) 
+ 
+US FDA approved MRI conditional pacemaker with lead & accessories 
+ 
+Should allow full body at least 1.5 T MRI scan preferably without any restriction zone. 
+ 
+Must have Ventricular Capture Management 
+ 
+Monitor the integrity of lead and switch polarity in case of issue 
+
+
+--- Page 22 ---
+Rate Contract for Supply of Pacemakers and High Voltage Devices                                     Admn/RC/37/2017-AIIMS.JDH 
+ 
+A I I M S  –  J o d h p u r                                                              22 | P a g e  
+ 
+ 
+The Size of lead should be 7F or less. 
+ 
+The Lead must be steroid eluting and should be both bipolar and unipolar configuration. 
+ 
+Must have both active and passive fixation endocardial leads available. 
+ 
+Must have rate response which allows rate profile optimization. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+5. 
+DDD  
+ 
+US FDA approved pacemaker with lead & accessories 
+ 
+All pacing modes and basic pacing programmable parameters including hysteresis with preferably 
+autosensing and autocapture/output management facilities. 
+ 
+Must have Ventricular and Atrial Capture Management. 
+ 
+Must minimize ventricular pacing by optimizing AV delay automatically. 
+ 
+Monitor the integrity of lead and switch polarity in case of issue. 
+ 
+The Size of lead should be 7F or less. 
+ 
+The Lead must be steroid eluting and should be both bipolar and unipolar configuration. 
+ 
+Must have both active and passive fixation endocardial leads available. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+6. 
+DDDR  
+ 
+US FDA approved pacemaker with lead & accessories 
+ 
+All pacing modes and basic pacing programmable parameters including hysteresis with preferably 
+autosensing and autocapture/output management facilities. 
+ 
+Must have Ventricular and Atrial Capture Management. 
+ 
+Must minimize ventricular pacing by optimizing AV delay automatically. 
+ 
+Must have rate response which allows rate profile optimization. 
+ 
+Monitor the integrity of lead and switch polarity in case of issue. 
+ 
+The Size of lead should be 7F or less. 
+ 
+The Lead must be steroid eluting and should be both bipolar and unipolar configuration. 
+ 
+Must have both active and passive fixation endocardial leads available. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+7. 
+DDDR PACEMAKER (MRI CONDITIONAL) 
+ 
+US FDA approved pacemaker with lead & accessories. 
+ 
+Should allow full body at least 1.5T MRI scan preferably without any restriction zone.  
+ 
+Mode based Physiological Pacing Algorithm to promote intrinsic conduction. 
+ 
+Patient symptomatic relief by regularizing Ventricular rhythm during AF. 
+ 
+Monitor the integrity of lead and switch polarity in case of issue. 
+ 
+The Size of lead should be 7F or less. 
+ 
+The Lead must be steroid eluting and should be both bipolar and unipolar configuration. 
+ 
+Must have both active and passive fixation endocardial leads available. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+8. 
+DDDR ( WITH AT/AF MANAGEMENT) 
+ 
+US FDA approved pacemaker. 
+ 
+With all lead & accessories with syncope management & AF prevention. 
+
+
+--- Page 23 ---
+Rate Contract for Supply of Pacemakers and High Voltage Devices                                     Admn/RC/37/2017-AIIMS.JDH 
+ 
+A I I M S  –  J o d h p u r                                                              23 | P a g e  
+ 
+ 
+Should allow full body at least 1.5T MRI scan preferably without any restriction zone.  
+ 
+Evaluate threshold of atrial & ventricular lead to adjust atrial & ventricular output on daily basis. 
+ 
+Automatically adjust sensitivity to maintain adequate sensing margins. 
+ 
+Dual zone rate response, one for normal response and other for response during exercise. 
+ 
+Mode based Physiological Pacing Algorithm to promote intrinsic conduction. 
+ 
+Atrial intervention for AF Prevention by constantly overdriving Atrium. 
+ 
+Rate drop response for syncope management with ability to detect both drop rate and drop size. 
+ 
+ATP therapies to terminate high rate atrial tachyarrhythmia episodes. 
+ 
+The Size of lead should be 7F or less. 
+ 
+The Lead must be steroid eluting and should be both bipolar and unipolar configuration. 
+ 
+Must have both active and passive fixation endocardial leads available. 
+ 
+Must have rate response which allows rate profile optimization. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+9. 
+VDD/VDDR  
+ 
+US FDA approved with lead & accessories 
+ 
+All VDD and single Chamber modes and basic pacing programmable parameters with following special 
+features. 
+ 
+Must have Ventricular Capture Management. 
+ 
+Monitor the integrity of lead and switch polarity in case of issue 
+ 
+The Size of lead should be 9F or less. 
+ 
+The Lead must be steroid eluting and should be both bipolar and unipolar configuration. 
+ 
+Must have both active and passive fixation endocardial leads available. 
+ 
+Must have rate response which allows rate profile optimization. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+10. 
+IMPLANTABLE LOOP RECORDER 
+ 
+US FDA approved 
+ 
+MRI compatible with 1.5 &/or 3.0 T system 
+ 
+At least 2 years of longevity 
+ 
+Ability to record AT/AF burden 
+ 
+Ability to record Brady-/Tachy- episodes 
+ 
+Patient triggered ECG storage. 
+11. 
+IMPLANTABLE LOOP RECORDER < 1.5 cc 
+ 
+US FDA approved 
+ 
+MRI compatible with 1.5 &/or 3.0 T system 
+ 
+Volume < 1.5 cc 
+ 
+Mass < 3.0 grams 
+ 
+At least 2 years of longevity 
+ 
+Ability to record AT/AF burden 
+ 
+Ability to record Brady-/Tachyarrhythmia episodes. 
+ 
+Patient triggered ECG storage. 
+12. 
+LEADLESS PACEMAKER  
+ 
+US FDA approved 
+ 
+Volume < 0.9 cc 
+ 
+Weight of pacemaker < 2.0 grams 
+ 
+Atraumatic fixation of pacemaker to minimize perforation risk. 
+ 
+MRI conditional in 1.5 or 3.0 T environment. 
+
+
+--- Page 24 ---
+Rate Contract for Supply of Pacemakers and High Voltage Devices                                     Admn/RC/37/2017-AIIMS.JDH 
+ 
+A I I M S  –  J o d h p u r                                                              24 | P a g e  
+ 
+ 
+Automatically adjust sensitivity to maintain adequate sensing margins. 
+ 
+Must have ventricular capture management. 
+13. 
+AICD  
+ 
+US FDA approved AICD single chamber with all leads & accessories. 
+ 
+RV lead must be 8F or less 
+ 
+All basic programmable parameters with preferably autosensing and auto capture/output management 
+facilities. 
+ 
+Must have morphological based SVT discrimination. 
+ 
+Must monitor the lead integrity and notify in case of a suspected failure 
+ 
+Must have Shock Reduction or Shock Guard or any other similar technology. 
+ 
+Must have remote patient management capability. 
+ 
+Lead should be steroid eluting. 
+ 
+Should have both active and passive fixation leads. 
+ 
+Standard International Warranty 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+14. 
+AICD (ADVANCED) 
+ 
+US FDA approved AICD single chamber with all leads & accessories 
+ 
+Defibrillator with wireless telemetry without requirement of additional equipment 
+ 
+Should be able to deliver at least 35J energy 
+ 
+Ability to withhold shock in cases of RV noise  
+ 
+Should Have programmable polarity of leads 
+ 
+Should have capture management in RV 
+ 
+Should audibly alert the patient in case of RV Noise & Lead failure, and extend NID 
+ 
+Should monitor the fluid build-up status in a heart failure patient and audible alert the patient in case its 
+critical 
+ 
+Should have ATP during charge in VF mode, with an option to make it ATP before charge. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+15. 
+AICD ( WITH AT/AF DIAGNOSIS) 
+ 
+US FDA approved MRI conditional AICD single chamber with all leads & accessories 
+ 
+Defibrillator with wireless telemetry without requirement of additional equipment 
+ 
+Should be 1.5T &/or 3T Full Body MRI Conditional preferably without restriction zone 
+ 
+Should have a declared longevity of at least 10 years 
+ 
+Should be able to deliver at least 35J energy 
+ 
+Should have capture management in RV 
+ 
+Ability to withhold shock in cases of RV noise or T-Wave oversensing. 
+ 
+Capable of AF diagnosis without additional lead. 
+ 
+Should audibly alert the patient in case of RV Noise & Lead failure, and extend NID 
+ 
+Should monitor the fluid build-up status in a heart failure patient, and audible alert the patient in case its 
+critical 
+ 
+Should have ATP during charge in VF mode, with an option to make it ATP before charge 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+16. 
+AICD (MRI CONDITIONAL) 
+
+
+--- Page 25 ---
+Rate Contract for Supply of Pacemakers and High Voltage Devices                                     Admn/RC/37/2017-AIIMS.JDH 
+ 
+A I I M S  –  J o d h p u r                                                              25 | P a g e  
+ 
+ 
+US FDA approved single chamber AICD with all leads & accessories 
+ 
+Defibrillator with wireless telemetry without requirement of additional equipment 
+ 
+Charge time <12sec throughout the life. 
+ 
+Should be 1.5T &/or 3T full body MRI conditional preferably without any restriction zone. 
+ 
+Programmable RV pace and sense vectors. 
+ 
+Algorithm for reduction of shock in cases of RV noise. 
+ 
+Algorithm for reduction of shock in cases oversensing of T-Wave 
+ 
+Programmable energy for each shock independently  
+ 
+Shock vector independently programmable for each shock  
+ 
+ATP during charging and ATP before charging. 
+ 
+Should allow morphology discrimination programmable. 
+ 
+Complete capture Management 
+ 
+Wireless Remote monitoring capable with full data transmission  
+ 
+Should monitor the fluid build-up status in a heart failure patient, and audible alert the patient in case it’s 
+critical. 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+17. 
+AICD DUAL CHAMBER  
+ 
+US FDA approved dual chamber AICD with all leads & accessories 
+ 
+Must have shock reduction technology 
+ 
+All basic programmable parameters with preferably autosensing and auto capture/output management 
+facilities. 
+ 
+Must monitor the lead integrity and notify in case of a suspected failure 
+ 
+RV lead must be 9F or less 
+ 
+Must have all SVT discrimination in VF zone. 
+ 
+Must have morphological based SVT discrimination. 
+ 
+Must have remote patient management capability 
+ 
+Lead should be steroid eluting 
+ 
+Should have both active and passive fixation leads 
+ 
+Standard International Warranty 
+ 
+Company must provide at least one programmer exclusively to the department of cardiology AIIMS Jodhpur. 
+ 
+Company must provide its trained technical person for each implantation and for follow up programming 
+whenever required. 
+ 
+Company must quote only the latest model of devices commercially available. 
+18. 
+AICD DUAL CHAMBER (MRI CONDITIONAL) 
+ 
+US FDA approved dual chamber AICD with all leads & accessories 
+ 
+Defibrillator with wireless telemetry without requirement of additional equipment 
+ 
+Should be at least 1.5T full Body MRI Conditional preferably without any restriction zone. 
+ 
+Should have a declared longevity of at least 8 years 
+ 
+Should be able to minimize RV pacing 
+ 
+Should be able to deliver at least 35J energy 
+ 
+Should have capture management in RA and RV 
+ 
+Ability to withhold shock in cases of RV noise  
+ 
+Ability to withhold shock in cases of T-Wave oversensing 
+ 
+Should have algorithms to manage and treat Atrial arrhythmias 
+ 
+Should have Rate Drop Response to counter Neurocardiogenic Syncope 
+ 
+Should audibly alert the patient in case of RV Noise & Lead failure. 
+ 
+Should monitor the fluid build-up status in a heart failure patient, and audible alert the patient in case its 
+critical 
+
+
+--- Page 26 ---
+Rate Contract for Supply of Pacemakers and High Voltage Devices                                     Admn/RC/37/2017-AIIMS.JDH 
+ 
+A I I M S  –  J o d h p u r                                                              26 | P a g e  
+ 
+ 
+Should have ATP during charge in VF mode, with an option to make it ATP before charge 
+19. 
+CRT-P 
+ 
+US FDA approved biventricular pacemaker with atrial, RV and LV leads and all accessories 
+ 
+Must have separate programmable RV, LV lead amplitude, pulse width and VV delay. 
+ 
+The size of RA, RV & LV leads should be 7F or less 
+ 
+The leads should be steroid eluting and should be bipolar and unipolar configuration 
+ 
+Should have both active and passive fixation RA & RV endocardial leads. 
+ 
+Should have facility for active fixation of LV lead in CS with both screwing and/or deployable lobes with anchor 
+mechanism. 
+ 
+Should have facility for epicardial LV lead implantation. 
+ 
+Monitor the integrity of lead and switch polarity in case of issue 
+ 
+Must have RA, RV and LV Capture Management. 
+ 
+Must have remote patient management capability. 
+ 
+Standard International Warranty 
+20. 
+CRT-P (ADVANCED) 
+ 
+US FDA approved biventricular pacemaker with atrial, RV and LV leads and all accessories 
+ 
+Ability to program 'RV Syncronized LV Only' Pacing mode 
+ 
+Should have in-clinic Optimization capability 
+ 
+Should have Ventricular Sense Response 
+ 
+Should have Ventricular Safety Pacing in order to ensure 100% CRT Therapy 
+ 
+Should have capture management in RA, RV and LV 
+ 
+Should monitor the fluid build-up status in a heart failure patient, and audible alert the patient in case its 
+critical 
+21. 
+CRT-D 
+ 
+US FDA approved biventricular pacemaker with atrial, RV and LV leads and all accessories 
+ 
+Wireless Telemetry 
+ 
+Should be able to deliver 35J energy 
+ 
+Should have capture management in LV 
+ 
+Ability to withhold shock in cases of RV noise  
+ 
+Ability to withhold shock in cases of T-Wave oversensing 
+ 
+Should have algorithms to manage and treat Atrial arrhythmias 
+ 
+Should have Rate Drop Response to counter Neurocardiogenic Syncope 
+ 
+Should audibly alert the patient in case of RV Noise & Lead failure. 
+ 
+Should have ATP during charge in VF mode, with an option to make it ATP before charge 
+22 
+CRT-D (ADVANCED) 
+ 
+US FDA approved biventricular pacemaker with atrial, RV and LV leads and all accessories 
+ 
+Wireless Telemetry 
+ 
+Should have in-clinic Optimization capability 
+ 
+Compatible with Quadripolar Lead Options 
+ 
+Ability to automatically select the best pacing vector  
+ 
+Should be able to minimize RV pacing 
+ 
+Should be able to deliver at least 35J energy 
+ 
+Should have capture management in RA, RV and LV 
+ 
+Ability to withhold shock in cases of RV noise  
+ 
+Ability to withhold shock in cases of T-Wave oversensing 
+ 
+Should have algorithms to manage and treat Atrial arrhythmias 
+ 
+Should have Rate Drop Response to counter Neurocardiogenic Syncope 
+ 
+Should monitor the fluid build-up status in a heart failure patient, and audible alert the patient in case its 
+critical 
+ 
+Should audibly alert the patient in case of RV Noise & Lead failure. 
+ 
+Should have ATP during charge in VF mode, with an option to make it ATP before charge 
+
+
+--- Page 27 ---
+Rate Contract for Supply of Pacemakers and High Voltage Devices                                     Admn/RC/37/2017-AIIMS.JDH 
+ 
+A I I M S  –  J o d h p u r                                                              27 | P a g e  
+ 
+23. 
+CRT-D  (MRI CONDITIONAL) 
+ 
+US FDA approved biventricular pacemaker with atrial, RV and LV leads and all accessories. 
+ 
+Wireless Telemetry 
+ 
+Should be 1.5T or 3T Full Body MRI Conditional. 
+ 
+Should have in-clinic Optimization capability 
+ 
+Compatible with Quadripolar Lead Options 
+ 
+Ability to automatically select the best pacing vector. 
+ 
+Should be able to minimize RV pacing 
+ 
+Should be able to deliver at least 35J energy 
+ 
+Should have capture management in RA, RV and LV 
+ 
+Ability to withhold shock in cases of RV noise  
+ 
+Ability to withhold shock in cases of T-Wave oversensing 
+ 
+Should have algorithms to manage and treat Atrial arrhythmias 
+ 
+Should have Rate Drop Response to counter Neurocardiogenic Syncope 
+ 
+Should audibly alert the patient in case of RV Noise & Lead failure. 
+ 
+Should monitor the fluid build-up status in a heart failure patient, and audible alert the patient in case its 
+critical 
+ 
+Should have ATP during charge in VF mode, with an option to make it ATP before charge 
+24. 
+CRT-D (WITH ONLY LV PACING OPTION) 
+ 
+US FDA approved biventricular pacemaker with atrial, RV and LV leads and all accessories. 
+ 
+Wireless Telemetry 
+ 
+Ability to program 'RV synchronized LV Only' Pacing mode 
+ 
+Should have in-clinic Optimization capability 
+ 
+Compatible with Quadripolar Lead Options 
+ 
+Ability to Automatically select the best Pacing Vector through Vector Express 
+ 
+Should be able to minimize RV pacing 
+ 
+Should be able to deliver 35J energy 
+ 
+Should have capture management in RA, RV and LV 
+ 
+Ability to withhold shock in cases of RV noise  
+ 
+Ability to withhold shock in cases of T-Wave oversensing 
+ 
+Should have algorithms to manage and treat Atrial arrhythmias 
+ 
+Should have Rate Drop Response to counter Neurocardiogenic Syncope 
+ 
+Should audibly alert the patient in case of RV Noise & Lead failure. 
+ 
+Should monitor the fluid build-up status in a heart failure patient, and audible alert the patient in case its 
+critical 
+ 
+Should have ATP during charge in VF mode, with an option to make it ATP before charge 
+25. 
+CRT-D (WITH ONLY LV PACING OPTION; MRI CONDITIONAL) 
+ 
+US FDA approved biventricular pacemaker with atrial, RV and LV leads and all accessories. 
+ 
+Wireless Telemetry 
+ 
+Should be 1.5T or 3T full Body MRI Conditional without exclusion zone 
+ 
+Ability to program 'RV Syncronized LV Only' Pacing mode 
+ 
+Should have in-clinic Optimization capability 
+ 
+Compatible with Quadripolar Lead Options 
+ 
+Ability to Automatically select the best Pacing Vector through Vector Express 
+ 
+Should be able to minimize RV pacing 
+ 
+Should be able to deliver 35J energy 
+ 
+Should have capture management in RA, RV and LV 
+ 
+Ability to withhold shock in cases of RV noise  
+ 
+Ability to withhold shock in cases of T-Wave oversensing 
+ 
+Should have algorithms to manage and treat Atrial arrhythmias 
+ 
+Should have Rate Drop Response to counter Neurocardiogenic Syncope 
+
+
+--- Page 28 ---
+Rate Contract for Supply of Pacemakers and High Voltage Devices                                     Admn/RC/37/2017-AIIMS.JDH 
+ 
+A I I M S  –  J o d h p u r                                                              28 | P a g e  
+ 
+ 
+Should audibly alert the patient in case of RV Noise & Lead failure. 
+ 
+Should monitor the fluid build-up status in a heart failure patient, and audible alert the patient in case its 
+critical 
+ 
+Should have ATP during charge in VF mode, with an option to make it ATP before charge 
+ 
+
+

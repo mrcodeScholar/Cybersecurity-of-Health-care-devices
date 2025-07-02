@@ -1,0 +1,179 @@
+--- Page 17 ---
+Tender Enquiry No.  AIIMS/R/CS/OBGY/2017/2681/OT 
+ 
+Page 17 of 23 
+6. 
+Distribution Board  
+1 no. 
+7. 
+Scrub Sink  
+1 no. 
+ 
+The bidder should provide. 
+1. Installation of laminar flow and all others.  
+2. All cable trenches and railings wherever required 
+3. All electrical accessories like cable wire, electrical outlets, switches, etc. should be fire 
+proof, of reputed make, and certified for electrical safety 
+4. Bidder has to provide hatch box, storage shelves, surgical scrub basin and other service 
+areas as mentioned in the bid 
+5. Installation and commissioning of all equipment including laminar flow, door etc. 
+mentioned in tender  
+6. Any other necessary work required for satisfactory working of the OT and not 
+mentioned. 
+7. The Bidder shall have the technical service facility i.e. either a service franchisee or 
+their own service centre within 50 k.m. of the hospital. 
+8. The bidder should clearly mention the make, model and other details of each and 
+every item in the tender bid. 
+Technical Description    
+1. Laminar Flow Air Ceiling 
+ OT shall have Plan Air Ceiling in OR. The Plan Air ceiling shall be constructed out of 1.6 mm 
+thick extruded aluminum sheet of size 2400x2400 mm having eight Nos. of HEPA filters with spot 
+efficiency of 99.99% 0.3 micron. Having diffuser made out of SS for the plan air ceiling to give a 
+“LAMINAR FLOW” of filtered air.. It shall also provide a shadow less lighting system with control on. 
+All HEPA filters shall be factory tested and certified in accordance with DIN 1946 and DIN 4799. All 
+ceiling shall include integral lighting and composite air / light diffuser.  Air shall be diffused into the 
+theater uniformly over the total area. The laminar flow ceiling should also have illumination across its 
+total area. 
+The Laminar air flow system should comprise of thick extruded aluminum profiler frame and 
+sealed gasket. The HEPA filters installed   in the plenum should be suitable for laminar air flow and 
+clean room. The HEPA filters should meet the following specification. 
+1. Should have a low pressure drop which should not exceed 60 pa. 
+2. Should retain germs and dust particles with 99.99% efficiency 
+3. Should provide air cleanliness as defied in the federal standard 209 E  
+4. Should have epoxy painted micro drawn protective grid. 
+5. Should have continues thermoplastic chord separators.  
+6. should have polyurethane sealant 
+7. Should have one piece Polyurethane Gasket. 
+8. Should have MPPS Average efficiency >99.95% 
+9. Should have 3 micron DOP efficiency >99.99%  
+10. Should have Maximum Operating Temp. 600c and Maximum RH: 40-60% 
+The Holding Structure, Filter Frame and Top Plenum should be made of 304 so and should be 
+factory assembled.  
+
+
+--- Page 18 ---
+Tender Enquiry No.  AIIMS/R/CS/OBGY/2017/2681/OT 
+ 
+Page 18 of 23 
+  
+ 
+ 
+ 
+ 
+ 
+                                                                              
+ 
+ 
+ 
+2.  Pressure Dampers: 
+  Installation of laminar should include Fabrication, Supplying installation of pressure relief damper 
+statically and dynamically balanced made out of mm thick stainless steel of grade 304 of minimum 
+size 300 mm x 300 mm with minimum three adjustable stainless steel blades complete as required. , 
+Including – Ducting from AHU up to laminar and return Air ducts Material (22 Gage  Aluminum Sheet, 
+Nitrile rubber pad Insulation ) 
+i)  Operation Room shall be supplied with multi bladed damper unit specifically designed 
+to control room air pressures and protection the Doors shall be provided within the modular 
+panel. 
+ii) Each stabilizer shall comprise of a matching slip over rear flange coated in white 
+Polyester to RAL-9010 and exterior grille. 
+iii) The pressure dampers shall contain four grade 304 SS Blades which pivot upon sealed 
+for life bearing assemblies. 
+3. 
+Door and Frames: Hermetically Hinged Doors as per attached technical description ( one 
+door for patient entrance and one for doctor in OT) 
+To maintain sterility and correct air pressure in the room, all doors into and out shall be of sliding, 
+hermetically sealing type.  Track system and door blade guide system: Track made of a patented 
+anodized aluminum profile, size 90 x 110 mm. Length 2130mm, 1200mm dimensions. This rubber 
+gasket is exchangeable. The door blade is 60 mm. thick and on both sides flush finished with hygienic 
+hard plastic laminate.  The built up of door: Anodized aluminum surrounding, 4-sided, blind fixed. 
+Door core made of CFC-free Polyurethane or EPS, thickness 48 mm. As top layer on both sides is hard 
+plastic laminate of size 6mm. The total door blade thickness is 60 mm flush on both sides.  Frame 
+profile: It shall be sliding door, standard delivered with an anodized aluminum angle profile. This 
+aluminum profile is 3-sided and blind fixed to a finished wall opening. The door blade gasket shall 
+seal the opening to this aluminum profile.  Lock in the door blade: lock for a automatic operated 
+door. There shall be electro mechanical lock mounted on the track and on both sides a key-switch on 
+the finished wall with Euro norm cylinder and 3 keys. Automation with 2 sensors foot operation and 
+hand sensors (magic switch):  
+Control: Microprocessor-controlled and regulated electromechanical sliding door drive.  
+Power supply: 1*230 Vac +15% / -20% or 1*110Vac +30% / -20%.  
+Frequency: 50 / 60 Hz and power Consumption -Minimal: 18 W and Maximal: 450 W.  
+Drive: 3 phase AC motor and Nominal  
+Motor power: 90W.  
+Maximal Motor power: 225 W.  
+Motor regulator: Microprocessor controlled motor driver.  
+Max. door weight : 250 Kg and Max. door width: 3500 mm.  
+
+
+--- Page 19 ---
+Tender Enquiry No.  AIIMS/R/CS/OBGY/2017/2681/OT 
+ 
+Page 19 of 23 
+Slow speed (V slow): 20 - 120 mm. / sec. and Starting speed (V start) :20-220 mm. / sec.  
+Opening speed (V open) :V slow - 800 mm. / sec. and Closing speed (V close). V slow - 500 mm. / sec. 
+Pedestrian opening: 10% - 90% of the available door opening. 
+4. Surgeon Control Panel: 
+Control panel shall have all the controls within the theatre will be located on a 
+membrane type control panel mounted in the theatre wall. The panel shall incorporate all the 
+necessary controls for the correct operation and monitoring of the equipment and services 
+within the operating theatre. The time-elapsed digital clock and real time digital clocks shall have 
+high brightness characters.  Medical gas alarm shall indicate High and Low gas pressure for each 
+gas service present in the operating theatre and shall have an audible buzzer with mute facility. 
+The medical gas alarms shall be connected to local pressure switches located downstream of the 
+last isolation valves. Each control panel will be of 6 tiles and will have display for Time elapse 
+clock, Standard Clock, Temperature and Humidity, Clean room luminaries, Telephone, Medical 
+Gas Alarms. 
+ 4.    Distribution Board 
+Electrical Distribution Board shall have all high voltage equipment shall be installed in a 
+separate enclosure. The remote cabinet shall house the operating lamp transformers, mains 
+failure relays, electrical distribution equipment and circuit protection equipment for all circuits 
+within the operating theatre. All internal wiring shall terminate in connectors with screw and 
+clamp spring connections of the Clip-on type mounted, on a DIN rail. Individual fuses or 
+miniature circuit breakers shall protect all internal circuits. 
+5. View Window 
+Two no. of view window of specified size has to be provided with each operation theatre,  
+ Double insulated fixed glazing with not less than 5mm thick toughened glass with 12 
+mm air gap. Window frame is powdered coated Aluminum of approved shape flush Mounted 
+with wall paneling.  
+6. Surgical trolley 
+Equipment cart, with 4 antistatic dual wheels, with locking wheels, 3 shelves, mains 
+switch in the trolley, 1 drawer unit with lock, integrated cable conduits in the vertical beams, 1 
+set of non-sliding stands for units, double rear panel with integrated electrical sub distributors 
+with 12 sockets, holder for power supplies, potential earth connectors and cable winding on the 
+outside, 2 scope holders, 2 equipment rails sidewise. Approximate dimensions of Equipment 
+trolley: 530 x 1455 x 645 mm (w x h x d), shelf: 430 x 480 mm (w x d), castor diameter: at least 
+125 mm. 
+7. 
+Scrub Sink. 
+Surgical Scrub Sink 2 Bay with sensor operated should have following specification. 
+
+
+--- Page 20 ---
+Tender Enquiry No.  AIIMS/R/CS/OBGY/2017/2681/OT 
+ 
+Page 20 of 23 
+1. They size of scrub sink should have 1300-1400mmL  x 1300-1400mm W x 450-500mm deep  
+2. It should be made up of 16-gauge stainless steel 304-quality material. 
+3. It should have removable plexi glass splash screen divider bay panel’s slandered. 
+4. It should have adjustable thermostatic mixing valve for hot & cold water. 
+5. It should be available in two bay sizes. 
+6. It should have automatic timer system with provision for foot operated system. 
+7. It should have touch free electronic sensor. 
+8. It should have digital timer controllers.  
+9. It should have radius chamber. 
+10. It should be provide with two nos stainless stolen bracket hanger to hold the antiseptic solution. 
+11. The unit should be duly felled and polished to mat finish. All the corners should be made round, 
+all the welding should be argon arc process. 
+12. To should be quoted with five year warranty. 
+13. It should be CE & ISO certified. 
+8. Hatch Box 
+ The Hatch should be provided in each operation theatre to remove waste materials 
+from the operation theatre to dirty Linen area just adjacent to Operation Theatre. Each Hatch 
+should be equipped with two doors and the door should be opened one at a time. The Hatch 
+should be designed in such a way that only one door should be opened at one time. The UV light 
+should be so installed that it is kept on while both the doors are closed, this UV light has to be 
+automatically turned off in case of opening of either of the doors. There shall be indicators on 
+both side of OT so that door open/close status can be monitored from both ends. 
+ 
+ 
+
+

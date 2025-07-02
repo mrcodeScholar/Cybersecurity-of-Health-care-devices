@@ -1,0 +1,73 @@
+--- Page 10 ---
+Tender for Platelet Aggregometer 
+                                                                           Admn/Tender/122/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Platelet 
+Aggregomet
+er  
+1. The equipment must have atleast eight channel operation for running 
+both test control and patient samples concurrently.  
+2. Run different agonist concentrations at the same time.  
+3. Create multi-point standard curves in one run.  
+4. Should have additional eight channels separately for stirring and 
+incubation  
+5. Data analysis with user selected points and functions on active or 
+archived curves.  
+6. Direct data export to prism® 4 or equivalent for biostatistical, 
+graphing, curve fitting spreadsheet and presentation software program 
+or laboratory information system  
+7. Multiple test modes Routine platelet aggregation (agonist induced) 
+Ristocetin cofactor assay (3 or 4 point standard curves) Special platelet 
+aggregation (hit, dose response curves, sticky platelet procedure and 
+leukocyte aggregation)  
+8. Electronic pipettor with memory  
+9. Sample volume for analysis should be to be less, preferably 225[11 or 
+less  
+10. Preprogrammed volumes for routine tests User selectable volumes 
+for special tests  
+11' Stir 0 to 1200rpm  
+12. Touch screen operation for instrument status and control with on 
+screen keyboard, help function and operation manual  
+13. Test procedure templates Preprogrammed routine aggregation 
+procedures Templates for user defined protocols Special platelet 
+aggregation templates  
+14. Walk-away operation Test complete alarm and auto stop feature 
+Convenient on screen electronic timers 
+ 
+01 
+
+

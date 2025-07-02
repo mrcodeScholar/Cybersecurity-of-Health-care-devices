@@ -1,0 +1,77 @@
+--- Page 10 ---
+Tender for Laparoscopic Simulator                               
+ 
+ 
+      Admn/Tender/78/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty. 
+01. 
+Laparoscopi
+c Simulator 
+1. The system should be fully computerised and interactive. 
+2. PC and simulation processor 
+3. 22" flat touch screen 
+4. Foot switch for electrosurgical coagulation 
+5. High performance force feedback  
+6. Five (5) degrees of freedom 
+    
+7. High performance and precision 
+8. Original adapted instrument handles (graspers) 
+9. Interchangeable suturing handles with suturing module 
+10. The system should be able to provide comprehensive training in the 
+field of laparoscopic surgery. 
+11. The system should feature built in tools for training group and 
+individual trainee. 
+12. The system should have all parameters to evaluate trainee. 
+13. A web based simulator curricula management system, providing the 
+optimal solution for managing training, reporting and education 
+14. The system should have the following modules : 
+a) Basic eye hand co-ordination skills 
+b) Basic Laparoscopic Skills 
+c) Tissue grasping, dissection and coagulation skills 
+d) Basic and advanced suturing skills 
+e) Trainee evaluation module 
+15. The system should enable trainee to provide full simulation of the 
+following procedures : 
+a) Lap Cholecystectomy 
+b) Lap Incisional Hernia 
+c) Lap Full Gastric Bypass 
+d) Lap Sigmoidectomy 
+e) Lap Gyn – salpingostomy, oophrectomy etc. 
+f) Lap Nephrectomy 
+g) Lap Hysterectomy 
+h) Lap Appendectomy 
+16. The system should have options of selecting various hand instruments. 
+17. The system should have energy sources like harmonic and diathermy. 
+18. The system processing unit should be latest generation. 
+19. The system should be CE certified. 
+20. 3D anatomical maps should be available on certain modules. 
+21. Short video of real-life procedures for better understanding of the 
+trainee. 
+22. Custom building of training modules for learners of all levels. 
+23. Viewing and exporting of performances reports facilitates learning, 
+analysis of training effect, showing the learning curve, research and 
+future certification. 
+24. Technical Skills Reporting and Assessment : 
+a) Time and economy of movements. 
+b) Safety and electrosurgical dissection. 
+c) Procedural errors. 
+d) Procedure specific checklist items relating to knowledge of 
+procedures, handling of instruments and many more. 
+01 
+
+

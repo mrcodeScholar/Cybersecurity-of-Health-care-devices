@@ -1,0 +1,392 @@
+--- Page 48 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Metaphase finder system with fluorescence  
+Page 45 of 67 
+ 
+A list of Consignee is given in Section XIX. The goods mentioned at Part-I in this 
+section are intended to be supplied to the following hospitals/medical institutes. 
+However, order may be placed for any hospital/institute across India. 
+ 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Metaphase finder system with 
+fluorescence with compatible accessories 
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+TECHNICAL SPECIFICATIONS for “Metaphase finder system with fluorescence” 
+ 
+ 
+Metaphase finder system with fluorescence should include 1. Upright 
+Fluorescence Microscope, 2. Cytogenetic Imaging Workstation Camera, 3. 
+Karyotyping software, 4. Fluorescent In-situ hybridisation software,            
+5. Report / Archiving Software, 6. Digital Workstation 
+1.0  
+Upright Fluorescence Microscope 
+1.1 
+Should be supplied with upright stand and should have transmitted light 
+path with infinite optical system. 
+1.2 
+The microscope should offer a coaxial z-drive with coarse and fine focus. 
+Fine focus knob on left and fine focus disk on right. The focus range 
+should be 24 mm to quickly find the specimen focus. Microscope should 
+include an adjustable focus stop. The coarse focus provides movements 
+of 4mm/rotation, the fine focus comes with 400µm/rotation and with a 
+graduation in micrometers (4µm). 
+1.3 
+The microscope shall provide an automatic mechanical shutter in the 
+transmitted light path when fluorescence observation is used.  
+1.4 
+Microscope should have integrated light manager and an ECO Mode with 
+6 Position encoded nosepiece 
+1.5 
+The reflector turret shall be manual, revolving (sliding), with 6 or above 
+encoded positions 
+1.6 
+Light source: 100 W halogen lamp -  illumination for Transmitted light 
+
+
+--- Page 49 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Metaphase finder system with fluorescence  
+Page 46 of 67 
+ 
+applications.   
+1.7 
+Objectives for Bright field and Fluorescence of magnifications: 4 
+objectives 
+5x (N.A:0.16), 10x (N.A:0.25), 40x (N.A: 0.75), 60/63x oil immersion (N.A: 
+1.25). 
+1.8 
+Should have binocular phototube with reversed image with 100%-
+0%/0%-100% splitting possibility between camera port and eyepieces. 
+The inclination angle should be 30° at a field number of 23mm. 
+1.9 
+Fluorescence illumination with 100 W mercury lamp house with self-
+adjusting 
+lamp. 
+Fluorescence 
+beam 
+path 
+should 
+be 
+fully 
+apochromatically corrected for high contrast fluorescence illumination.  
+1.10 
+Fluorescence Filters for DAPI, GREEN, RED/ORANGE, Triple band 
+DAPI/FITC/TRITC and Aqua should be included  
+2.0 
+Cytogenetic Imaging Workstation Camera 
+2 .1 
+CCD Monochrome Camera :  
+Minimum resolution 1280x1024, 12 bit, pixel depth of 6.45µ x 6.45 µm 
+and exposure time between 20 µs and 300 s with global shutter, at least 
+15 frames per second should be quoted.  
+3.0 
+Karyotyping software 
+3.1 
+The software should be highly accurate Artificial Intelligence / Deep 
+Neural 
+Network 
+enhanced 
+flexible 
+karyotyping 
+(or 
+chromosomal 
+assignment), available for all common human samples and banding 
+patterns.  
+3.2 
+Should have Interactive/Automatic metaphase quality detection for 
+automated metaphase separation.  
+3.3 
+The software should convert Metaphase to karyotype with single click in 
+a second to ensure faster turnaround time. 
+3.4 
+Should have batch processing mode- software should be able to convert 
+multiple metaphases to karyotypes with single click.  
+3.5 
+Should have precise Artificial Intelligence / Deep Neural Network assisted 
+chromosomal orientation algorithm for all chromosome sizes.  
+3.6 
+Should have user defined automated and assisted complete workflows 
+such as Interactive/Automated Artificial Intelligence / Deep Neural 
+Network based removal of non-chromosomal objects and background 
+reduction. Interactive/Automated Artificial Intelligence / Deep Neural 
+Network based whole metaphase separation, including overlapping, 
+touching and clustered chromosomes. Interactive/Automatic metaphase 
+quality detection for automated metaphase separation.  
+3.7 
+Should have efficient interactive tools for manual correction of automated 
+results, interactive and automated karyotyping of human and other 
+species. 
+3.8 
+Should provide additional analysis interface within the same license 
+key/dongle to ensure faster turnaround time.  
+3.9 
+Should have Unlimited UNDO and log operations to overcome human 
+errors with time and date record of every processing steps.  
+3.10 
+The software should be able to perform one click separation of overlapped 
+chromosomes. Interactive 
+and automated 
+Real time background 
+correction and Chromosome separation. Keyboard shortcut keys for 
+several functions like Chromosome separation (in case of over lapping 
+chromosomes), image enhancement, background correction and contrast 
+enhancement.  
+3.11 
+Chromosome arm ratio should be identifiable to define P and Q arms.  
+3. 12 
+The software should be able to perform interactive and automatic 
+Classification based on built-in classifiers for G-, Q- and R-banding. 
+Ideograms according to ISCN standard for 400, 550, and 850 bands. 
+
+
+--- Page 50 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Metaphase finder system with fluorescence  
+Page 47 of 67 
+ 
+Additional captures to encompass all chromosomes of widely spread 
+metaphases in one karyotype, Up to 26 images can be incorporated into 1 
+to have one complete Karyogram in case of polyploids 
+4.0 
+Fluorescent In-situ hybridisation software 
+4.1 
+Should have extended focus image generation to have a very clear 
+Fluorescence signal against clear dark background.  
+4.2 
+Should have user defined automatic processing functions significantly 
+simplify the image enhancement immediately after the capture.  
+4.3 
+Should have Interactive and automatic integration time control for each 
+color channel. Automatic and interactive background correction and 
+thresholding for each color channel.  
+4.4 
+Should have Mask (exclude/include) function, Transient and permanent 
+zoom, Presentation of individual colors, false colors, and gray levels, 
+Annotation capabilities and Measurement functions.  
+4.5 
+Should have Provision to capture color images using RGB filters for 
+stained samples/slides like H&E, Special Stains, IHC etc 
+5.0 
+Report / Archiving Software 
+5.1 
+Should be a dedicated software for report   generation, analysis,   
+archiving and classifying with Institute logo or other related images. 
+5.2 
+Should perform scheduled backup and give notification if data is not 
+getting saved.  
+5.3 
+Should have user defined report generation with graphic interface.  
+Provision in software to extract statistical information of cases/reports 
+like cases per year, results per year and samples per year.  
+6.0 
+Digital Workstation computer  
+6.1 
+Intel Core i7-10700 (8-Cores, up to 4.8GHz, 16MB, 16T, 65W) or higher  
+6.2 
+16 GB (2x8) RAM DDR4 or higher  
+6.3 
+Graphics card - NVIDIA GeForce RTX 3080 (10GB DP/HDMI)  
+6.4 
+Monitor 20” TFT or higher with 1920x1080 resolution  
+6.5 
+256GB PCIe NVMe (M.2 Class 40) SSD, Hard disk 4TB (3.5 inch 7200rpm 
+SATA) with 1000W chassis  
+6.6 
+Original Window 10 Pro 64 bit  
+6.7 
+16X Max DVD +/- RW with Dual Layer Write Capabilities  
+6.8 
+Multifunction colour laser printer compatible with Window 10 
+6.9 
+3 KVA online UPS with at least 30 minutes backup for the whole system   
+7.0 
+General Conditions  
+7.1 
+Bids should be accompanied by full technical specification of the 
+model/make offered. Price quoted should be inclusive of Comprehensive 
+Warranty (Including all Spares, Accessories and Labor) for 05 years from 
+the date of installation. Also, the bidders are requested to submit their 
+price quote for subsequent 05 years Comprehensive Maintenance 
+Contract (Including All Spares, Accessories and Labor).  
+7.2 
+Bidders should clearly indicate the make and model number of the 
+offered item. The make and model should be verifiable from the 
+manufacture’s official website. (Mandatory: include URL for the quoted 
+instrument in the tender document) 
+7.3 
+The bidder should provide a list and full contact details of Government 
+institutes who are users of the quoted model.  
+7.4 
+The bidder should clearly specify the availability, locations and address of 
+after sales service for the quoted item.  
+7.5 
+Operational onsite training must be provided for the faculty members 
+and technical staffs free of cost 
+7.6 
+Bidders should provide manufacturer’s authorization certificate for the 
+quoted instrument  
+7.7 
+Should be FDA or CE or BIS approved product 
+
+
+--- Page 51 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Metaphase finder system with fluorescence  
+Page 48 of 67 
+ 
+• 
+Technical compliance report should be submitted in following format: 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation 
+if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. 
+Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the 
+TE document for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) Warranty period will be 5 years 
+from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & 
+handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty 
+period by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) 
+basis. 
+c) All software updates should be provided free of cost during Warranty 
+period. 
+2. 
+After Sales Service:  
+After sales service center should have trained personnel to troubleshoot 
+complaints arising from the equipment. Service center should be available 
+nearly the city of Hospital/Institutions/Medical College. Complaints should be 
+attended properly, maximum within 48 hrs. The service should be provided 
+directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date 
+of supply. 
+3. 
+Training:  
+4. 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ 
+Indian Agents (if they have the requisite know-how) for operation and 
+maintenance of the equipment to the satisfaction of the consignee. The same 
+will be in line with the training modalities as specified in general technical 
+specification. 
+5. 
+Annual Comprehensive Maintenance Contract (CMC) of subject equipment 
+with Site Modification Work: 
+a) 
+The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ 
+service /operational manual of the manufacturer, labour and spares, after 
+satisfactory completion of Warranty period may be quoted for next 5 years on 
+yearly basis for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) and Site Modification Work (if any). The 
+supplier shall visit each consignee site as recommended in the manufacturer’s 
+technical/ service /operational manual, but at least twice in six months (i.e. 4 
+preventive maintenance/ year) apart from all breakdown visits, during the 
+CMC period 
+b) 
+The cost of CMC may be quoted along with taxes applicable on the date of 
+Tender Opening. The taxes to be paid extra, to be specifically stated. In the 
+absence of any such stipulation the price will be taken inclusive of such taxes 
+and no claim for the same will be entertained later. 
+c) 
+Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+
+
+--- Page 52 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Metaphase finder system with fluorescence  
+Page 49 of 67 
+ 
+d) 
+The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank 
+guarantee for 2.5% of the cost of the equipment as per Section XV valid till 2 
+months after expiry of entire CMC period. 
+e) 
+There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) 
+X 365 (days) basis, with penalty, to extend CMC period by double the 
+downtime period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee’s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) 
+All software updates should be provided free of cost during CMC. 
+h) 
+Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of 
+the Bank Guarantee for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+ 
+Note 1:  
+Tenderer’s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The 
+tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it’s tender is liable to be ignored. 
+Note 2:  
+General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked for 
+and should make sure that Electrical Safety Analyzer / Tester for Medical equipment 
+to periodically check the electrical safety aspects as per BIS Safety Standards IS-
+13540 which is also equivalent to IEC electrical safety standard IEC- 60601 is a part 
+of the equipment s. If the Electrical Safety Analyzer/Tester is not available they 
+should provide a commitment to get the equipment checked for electrical safety 
+compliance with Electronic Regional Test Labs / Electronics Test and Development 
+Centres across the country on every preventive maintenance call. 
+Note 3:  
+Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management 
+information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical 
+training for personnel involved in the use and handling of the equipment on site at 
+the institute immediately after its installation. The company shall be required to train 
+the institute personnel onsite as and when required. 
+All software updates should be provided free of cost during warranty period and CMC 
+period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

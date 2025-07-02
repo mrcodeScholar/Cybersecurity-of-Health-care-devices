@@ -1,0 +1,320 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/RDG/18/19/B/OT 
+ 
+Page 18 of 26 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR 
+Technical Specifications for a Very High end Ultrasound machine  
+With Real time Shear Wave Elastography on a buy back basis (One units) 
+ 
+The system should be state of the art with full digital technology and should be for Abdominal, 
+Renal, Pelvic, Genitourinary, Breast (2D and 3D), Vascular, Obstetrics, Thyroid, and MSK 
+Imaging Applications.  The specific minimum requirements for this equipment are as follows: 
+S.No. 
+Tender Specification 
+Compliance 
+Yes/No 
+1 
+The system should be capable of high-resolution 2D, 3D, M, PW, 
+Color flow, Power & Directional Power Doppler, Pulse Wave 
+Doppler and Panoramic imaging mode.  
+ 
+2 
+It should have contrast imaging and real time shear wave 
+elastography modes. 
+ 
+3 
+The system should have 60000 or more digital processing 
+channels. 
+ 
+4 
+Transducers should be of  broadband technology. 
+ 
+5 
+The system should have a dynamic range of 180 dB or more.  
+ 
+6 
+System should offer Imaging depth of 30cms or more. 
+ 
+7 
+The system should have a frame rate on receive of over 5000 
+frames per second or more. 
+ 
+8 
+The system should have advanced color Doppler facility to position 
+at least three spectrograms (online or offline) on a single image 
+within the same cardiac cycle to simplify the workflow and reduce 
+the examination time for Vascular application. 
+ 
+9 
+System should have Panoramic Imaging with at least 60cm of 
+scanning length. It should have skin line scaling markers, curved 
+distance measurement tool and Zoom, Pan, Rotate & Trim facility 
+to trim panoramic images from start or end of the panoramic 
+capture. 
+ 
+10 
+System should have integrated ACR BIRADS Lexicon available 
+during the current study and BIRADS results, images and 
+measurements should be fully integrated into the report worksheet 
+for Breast Clinical Application. System should also have Print 
+ready Liver, Obstetric and Vascular worksheets. 
+ 
+11 
+Machine should be capable of real time Compound imaging 
+technology on linear, curved and mechanical volume probes for 
+improved visualization. The compound imaging should have at 
+least 9 beam steered lines of sight. 
+ 
+12 
+The system should have Basic Imaging Optimization controls like 
+Tissue Harmonic Imaging, High Definition / General / Frame Rate 
+optimization Control, Penetration / General / Resolution 
+optimization control, Trapezoidal Imaging and Sector Size Control. 
+ 
+13 
+System should have both manual and Auto Doppler Trace facility 
+on live and frozen images to improve the vascular workflow 
+quantification of Doppler parameters. 
+ 
+14 
+System must be offered with  High Definition Speckle Reduction 
+Imaging  
+ 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/RDG/18/19/B/OT 
+ 
+Page 19 of 26 
+ 
+15 
+The system should have the ‘Speed of Sound Correction' feature. 
+Specify number of such sound correction speeds to adapt to tissue 
+type. This feature should be available both in linear and convex 
+transducers. 
+ 
+16 
+The machine should support intima media thickness (IMT) 
+quantification with automatic or user assisted tracing of intima-
+media complex.  
+ 
+17 
+System should also offer Pulse Wave velocity measurement to 
+measure the stiffness of the arterial walls or arteriosclerosis. 
+ 
+18 
+System should have High definition and PAN / zoom facility. 
+ 
+19 
+System should be able to support at least four electronic 
+transducers with universal ports with simple electronic selection 
+method for interchanging transducers. Additional parking ports 
+would be preferable. 
+ 
+20 
+System should have one touch optimization for 2D & Doppler 
+Modes. 
+ 
+21 
+System should have Cine loop facility, both frame by frame and in 
+cine mode, with a memory for at least 3 minutes in 2D, color and 
+Elastography modes.  The system should also be able to review 
+and at least 20 seconds of Doppler and M mode data. 
+ 
+22 
+The system should have facility of direct storage and retrieval of 
+B/W and color images in both frozen and cine loops in the inbuilt 
+hard disk drive. In- built hard disk storage for images should be 
+for more than 10000 images. 
+ 
+23 
+System should have state of the art technology to enhance the 
+needle shaft and tip for biopsy procedures. It should also predict 
+the needle path on B Mode without attaching any needle brackets 
+for more precise free hand biopsies. 
+ 
+24 
+System should have Ultra Sensitive imaging Doppler mode that 
+increases by a factor of atleast 3 the sensitivity and the spatial 
+resolutionof conventional Doppler mode especially on slow flows 
+Up to 160 images per second with Post processing controls to 
+enable the visualisation of microvascular flow in both Real time 
+and HD modes. 
+ 
+ 
+25 
+System should have real time simultaneous imaging mode that 
+combines three modes - B-Mode, SWE and microvascular Color 
+flow imaging modes - to visualize anatomy, tissue stiffness and 
+blood flow simultaneously to improve the workflow. 
+ 
+26 
+The system should have advanced color Doppler facility to position 
+at least three spectrograms (online or offline) on a single image 
+within the same cardiac cycle with ultrahigh framerates (around 
+200 frames/sec in Doppler mode) to simplify the workflow and 
+reduce the examination time for Vascular application with both 
+convex and linear transducers.  
+ 
+27 
+System should have the capability to be upgradable to FUSION 
+Imaging, Needle guidance and Volume Navigation with ability to 
+fuse Shearwave Elastograpghy and color imaging data with the 
+ 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/RDG/18/19/B/OT 
+ 
+Page 20 of 26 
+ 
+dataset of second modality during FUSION Imaging. 
+28 
+The real time shear wave elastography mode should be capable of 
+performing; 
+a. Real time Shear Wave tissue elastography imaging with 
+convex, linear, 3D, microconvex and endocavitary 
+transducers.  
+b. The elastography should be Real-time, Fully automatic; 
+requiring no manual / automatic compression with 
+reproducible results for Liver, Breast, Thyroid, Prostate, 
+Gyn, Renal and MSK applications. 
+c. System should be able to generate a color coded 
+elastogram with a reference Adjustable Numerical 
+elasticity scale for each application.  
+d. System should be able to display simultaneously both 
+color coded elastogram and corresponding B-Mode image 
+in real time for performing elastography guided 
+biopsies/FNAC. 
+e. There should be User adjustable elasticity-box size with a 
+Display Depth: 0 - 12 cms. (Maximum SWE depth with 
+convex probe is 12cm which is the highest in the 
+industry) 
+f. Elastography Quantification should be available with 
+pixel accurate absolute or discreet Elasticity values on all 
+transducers. (Elastography can be performed with 
+absolute numbers without any need for distance or area 
+ratio calculation unlike strain elastography) 
+g. Elastography quantification tool (Ellipse and trace) 
+should be able to provide Mean, Max & Min elasticity 
+values of the tissues in both m/s and kPA (KiloPascal) on 
+all transducers. 
+h. System should have integrated report worksheet for Liver 
+elasticity assessment. 
+ 
+29 
+Fully optimized Contrast Imaging mode should be available with 
+simultaneous acquisition of B-mode and Contrast images in real-
+time in full screen or Side-by-side display. 
+a. 
+On-screen Contrast timer should be available allowing 
+up to 5 minutes of streamed prospective  cine capture 
+b.  Independent control of contrast color maps, TGC 
+curves, and Dynamic Range 
+c. Flash micro bubble destruction mode should be 
+available 
+d. User adjustable number of frames, Micro-vascular 
+Imaging, and persistence imaging should be available to 
+assess slow micro-vessel perfusion. 
+ 
+30 
+A high resolution, fully articulation non-interlaced flicker free, 
+anti-glare, flat panel display monitor of 21 inches or more. 
+(LCD/LED) 
+ 
+31 
+System should have facility to transfer data from the hard disk on 
+to a removable media (CD /DVD/USB).  
+ 
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/RDG/18/19/B/OT 
+ 
+Page 21 of 26 
+ 
+32 
+The system should be DICOM 3.0 (or higher version) ready (like 
+send, receive, print, record on CD/DVD, acknowledge etc.) for 
+connectivity to any network, PC/computer etc. in DICOM format. 
+Vendor will connect the machine to existing PACS and to local 
+other laser cameras without additional cost. 
+ 
+33 
+DICOM structured reporting for Obstetrics should be available 
+ 
+34 
+The system should have advanced Query Retrieve capabilities to 
+Query full native data from the PACS, and display Retrieved 
+images side- by-side with real-time ultrasound on system's 
+monitor. 
+ 
+35 
+The system should have CD-DVD and USB archival (DICOM and 
+PC format) 
+ 
+36 
+Both the machine and the real time shear wave elestography 
+should be USA FDA certified/approved. 
+ 
+ 
+Transducers: Following transducers should be offered with the 
+system: 
+1. Curved array 1 - 5 MHz. 
+2. Linear array 4 - 15 MHz. 
+3. Endocavitary probe 3 - 12 MHz with FOV of 135 or above 
+4. Microconvex Probe 3-12 MHz. 
+ 
+ 
+Optional Transducers : Please quote prices separately 
+1. 
+Linear 3D volume probe  5-16 MHz. 
+2. Endocavitary 3D Volume probe 12 – 3MHz 
+3. Linear array 15 – 4MHz 
+4. Linear Hockey Stick  Probe 6-20 MHz 
+ 
+ 
+ 
+ 
+ 
+ 
+Accessories: 
+a. On-line UPS with capacity for an hourbackup to support 
+all functions of the equipment i.e.Performing Ultrasound 
+procedure, exposure on to films or copy on a CD. 
+b.CVT/Servo Voltage stabilizer ? do we need it….Its not 
+required as UPS is already there but since it was 
+mentioned in earlier tender floated by AIIMS so I didn’t 
+change the accessories. Take it with surge buster 
+c. Black and white Laser printer       ? For what....This can 
+also be deleted if not required. 
+d.A Dry chemistry camera of 500 DPI or more with two active 
+trays. 
+e. Essential furniture -  Two patient couch with mattress, 5 
+revolving chairswith metal body  not the plastic onefrom 
+reputed make like Godrej,2 Tablesmade of hard wood, 
+Steel Almirah from Godrej or alike ( provide the specs), foot 
+step, pillows,  
+f. 
+Offline 
+solution 
+for 
+quantification 
+of 
+perfusion 
+parameters like Contrast Wash-in & wash-out curves etc. 
+ 
+ 
+Upgrading requirements  
+A free, comprehensive software upgrade (compatible with the 
+existing platform) guarantee for 10 years (after installation) of the 
+ultrasound unit must be provided. 
+ 
+ 
+Guarantee/Warranty 
+1. Five years comprehensive onsite warranty of entire system 
+ 
+
+

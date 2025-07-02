@@ -1,0 +1,244 @@
+--- Page 10 ---
+Tender for 8 channels Digital EMG, NCV and EP system 
+Admn/Tender/06/2019-AIIMS.GKP 
+AIIMS, Gorakhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+Specifications of 8 channels Digital 8 channels Digital EMG, NCV and EP system 
+  
+The System hardware should consist of- 
+ 
+System should be 8 channels EMG, NCV & EP system with individual touch proof & DIN connectors. 
+ 
+System should be European CE with 4 digit notified body Or USFDA approved and meet international 
+safety standards like IEC and Class IIb. 
+ 
+The amplifier should have USB powered and enabling the amplifier to be connected to any PC/Laptop 
+and transfer data through same USB. 
+ 
+There must be 1 trigger IN/OUT socket to connect stimulators of third-party firms. 
+ 
+The system should be supplied with Headphone for AEP, LED Goggle & 17” Pattern simulator for 
+VEP  
+ 
+The system should have wireless/wired control panel for easy operation.  
+ 
+The equipment shall incorporate features like full optical isolation and confirm to international 
+standards with certification authorities. 
+ 
+ (EMG) 8 Channels specification: 
+ 
+Common mode input impedance > 200 Mohms 
+ 
+Sampling Rate – 40-KHz - 160KHz 
+ 
+A/D convertor - 16 bits 
+ 
+High pass Filter from 0.02 Hz to 3 KHz 
+ 
+Low pass Filter from 10 Hz – 10 KHz 
+ 
+CMRR > 100 dB 
+ 
+Noise Level(RMS) < 0.5 µV 
+ 
+Notch filter ; 50Hz, 60 Hz on or off 
+ 
+Electric stimulus duration should be 0.05 to 5 mS, Electric stimulus amplitude should be  1 to 100 mA 
+and Electric stimulus frequency: 0.1 to 100 Hz in Repetitive stimulation . 
+ 
+EMG/NCV/EP Software should have:- 
+ 
+Motor NCV with automatic marking 
+ 
+Sensory NCV with automatic marking 
+ 
+Motor and Sensory inching 
+ 
+Tremor analysis 
+ 
+Motor conduction collision and sensory conduction collision should be included. 
+ 
+F wave with split screen display with automatic marking of F responses showing the Max F, Min F and 
+F block values. 
+ 
+H Reflex ,Blink Reflex, Sacral Reflex, Bulbocavernous Reflex, T Reflex, Galvanic Skin Response 
+ 
+Repetitive Stimulation 
+ 
+Insertional /Spontaneous EMG recording for unlimited duration on hard disk for 10 minutes buffer 
+storage. 
+ 
+Quantitative EMG test features must be included. 
+ 
+EMG replay of stored EMG data from hard disk with audio  
+ 
+Multiple Motor unit Analysis 
+ 
+Single Motor unit Analysis. 
+ 
+Jitter analysis for single fiber and stimulated single fibre test must be included. 
+ 
+Incremental MUNE 
+
+
+--- Page 11 ---
+Tender for 8 channels Digital EMG, NCV and EP system 
+Admn/Tender/06/2019-AIIMS.GKP 
+AIIMS, Gorakhpur 
+Page 11 
+ 
+ 
+MUNE (MUP Decomposition) 
+ 
+Macro EMG 
+ 
+Short-, middle- and long-latency auditory EP 
+ 
+Short- and long-latency somatosensory EP 
+ 
+Auditory stimulation with clicks and tones. 
+ 
+Visual evoked potentials: Pattern reversal, appearance, disappearance VEP (with Fully, quarterly & 
+half-quarterly), Flash VEP, Goggle VEP 
+ 
+Should have MRCP, P300,CNV,MMN 
+ 
+Upgraded to ERG (Electroretinography) studies. Machine should also have all ERG tests: 
+     Cone ERG, Rod ERG, Multifocal ERG, Focal ERG, Flicker ERG. 
+             Should provide accessories like:  
+i. 
+Mini Ganzfeld stimulator: 1 (no) 
+ii. 
+ERG hook electrodes: 10 (no) 
+iii. 
+ERG loop electrodes: 10 (no) 
+iv. 
+ERG Pen light stimulator: 1 set 
+v. 
+High resolution Pattern Stimulator: 1 (no) 
+ 
+Automatic rapid report generation with unlimited user templates  
+ 
+Facility of comparing patient data with normative data & to flag abnormal values automatically. 
+ 
+Report generation to be customizable and in MS word format. 
+ 
+Must be operating on Windows 7, Windows 8 Or Windows 10. 
+ 
+Should have Microsoft SQL-server, MDB, and My’s-sql-server database software. 
+ 
+Facility of including the waveform & numerical data as per user requirement in patient report. 
+ 
+Provision for hard copy output of recordings on a laser printer of 600 dpi resolution. 
+ 
+Dedicated control panel can function via Bluetooth or USB interface. 
+ 
+Possibility to connect a Magnetic stimulator and able to perform the research test protocols like 
+CMCT, Triple stimulation, Silent period, IHI etc. 
+Set of EMG electrodes to be supplied along with system:- 
+ 
+Surface electrode – 2 pair. 
+ 
+Stimulating bar electrode with replaceable steel and felt stimulation pads – 1 no. 
+ 
+Ring electrode – 2 pair. 
+ 
+Ground electrode with cable (paediatric)  
+ 
+Ground electrode with cable (adult)  
+ 
+Disposable concentric needle electrode – 25 pcs. 
+ 
+Adapter for needle electrode connection – 1 no. 
+ 
+Disposable surface electrode (set of 100 pcs.) 
+ 
+Adapter for disposable electrodes connection with Alligator clip (20 cm) – 2 pcs 
+ 
+Gold plated cup electrode – 10 pcs.  
+ 
+Jumper Electrode (Pup-jack linker) – 4 pcs.  
+ 
+Set of stimulators to be supplied along with system:- 
+ 
+Electrical Handheld stimulator 
+ 
+Visual stimulator (LED goggles) 
+ 
+17” TFT monitor for VEP.  
+ 
+Auditory stimulator (headphones). 
+ 
+ 
+
+
+--- Page 12 ---
+Tender for 8 channels Digital EMG, NCV and EP system 
+Admn/Tender/06/2019-AIIMS.GKP 
+AIIMS, Gorakhpur 
+Page 12 
+ 
+The system should be supplied with:  
+ 
+(Branded Desktop) Intel Core i5 processor with 4GB RAM, network card, multimedia speakers, 
+mouse, keyboard, minimum 500GB hard disk for storing 
+ 
+Laser Printer (B/W) 
+ 
+Movable Trolley 
+ 
+Operating Manuals and user manual 
+Safety and Electromagnetic Compatibility:- 
+ 
+System should be European CE with 4 digit notified body Or USFDA approved and meet international 
+safety standards like IEC and Class IIb. 
+ 
+Electromagnetic compatibility (EMC) is provided by IEC 60601-1-2:2007 requirements 
+      Fulfillment. 
+ 
+The digital system is intended for operation in electromagnetic environment. As for safety, the digital 
+system satisfies IEC 60601-1:1988 + A1:1991 + A2:1995, IEC 60601-1-1:2000 and IEC 60601-2-
+40:1998 requirements.  
+ 
+The electronic unit is supplied by regulated power supply through USB interface, it has double isolation 
+and BF type work parts according to IEC 60601-1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,158 @@
+--- Page 11 ---
+  Tender for Fluorescent Microscope                                                                                   Admn/Tender/58/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Fluorescent 
+Microscope 
+Optical system 
+Infinity corrected system 
+Focus 
+Vertical stage movement 25mm per coarse 
+stroke 
+  
+Vertical stage movement 1micron per fine 
+stroke 
+  
+Stage rotation of 270 degrees  
+Illuminator 
+Built-in-Koehler 
+illumination 
+for 
+transmitted light 
+  
+12V100W halogen bulb (pre-centered) 
+Light  
+  
+Intensity adjustment centrally located so 
+both hand  
+  
+Can be used to increase and decrease light  
+  
+New Eco Switch for Energy saving switch 
+off the  
+  
+Light when user moves away from the 
+microscope  
+  
+Light intensity LED indicator 
+  
+Light preset switch for photography 
+  
+Built-in filters ( Blue Filter , ND6, ND25 
+filters) 
+Revolving 
+nosepiece 
+Removable 
+Interchangeable 
+reversed 
+Septuple (Seven Position) Nosepiece.   
+Objectives 
+Plan 
+Apochromat 
+1X/1.25X, 
+Plan 
+Achromat 2X, 4X 
+                                                 
+Plan Fluorite 10X, 20X 40X, 60X& Plan 
+Apo 100XO N.A 1.40 
+Observation tube 
+Wide field Trinocular head with Field No. 
+22mm. with three ways light path selection 
+with possibility of 100% light to Eye and 
+Camera.  
+Stage 
+Ceramic-coated coaxial stage with right 
+hand low drive Control. 
+Condenser 
+Swing out condenser (applicable for all 
+objectives) 
+  
+Fluorescence Attachment   
+Fluorescence with Eight/Ten position built in Filter Cube Turret.  
+120/130W metal Halide/Mercury Light illuminator with 2000hrs 
+life time. 
+Filters should be DAPI/Hoechst, FITC/GFP, TRITC/Rhodamine 
+& Texas Red dyes.  
+  
+ 
+ 
+01 
+
+
+--- Page 12 ---
+  Tender for Fluorescent Microscope                                                                                   Admn/Tender/58/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Camera: 
+Digital Cooled Colour camera with 16/17 mega pixel resolution 
+by pixel shift technology the camera should have 2 megapixel 
+CCD Chip 14 bit Digital output resolution for each colour R,G,B. 
+User defined Spot metering 30%, 1% and 0.1 % for Auto 
+Fluorescence Exposure Setting, 15 FPS per second Real Time 
+Display and 3-CCD mode for perfect color reproduction. 
+Exposure time 23us to 60s.  
+Imaging System 
+Image analysis Software for counting & 
+Measurements, 
+Time 
+lapse, 
+Z 
+stack, 
+Multichannel Fluorescence Capture, it 
+should be capable of Controlling the 
+camera and Microscope. 
+Branded 
+Pentium i5 Chipset with 4 GB RAM, 500 
+GB HDD,DVD R/Wr with Graphic card 
+and High Resolution 20”, TFT Monitor 
+with Key Board and Mouse. 
+ 
+
+

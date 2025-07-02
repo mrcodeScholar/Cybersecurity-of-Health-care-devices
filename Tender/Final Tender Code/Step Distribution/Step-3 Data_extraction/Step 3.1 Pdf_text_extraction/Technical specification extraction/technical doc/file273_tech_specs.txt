@@ -1,0 +1,66 @@
+--- Page 15 ---
+ 
+Page 15 
+ 
+ 
+ 
+ 
+ 
+ 
+Specification of Radiofrequency Ablator: 
+1. 
+Ablation based on low temperature Bl-Polar Radio frequency technology. Should not have 
+any need for the secondary patient grounding pad. 
+2. 
+The RF probe should have Multi Electrode Technology that will allow a uniform production 
+of plasma. 
+3. 
+The output voltage settings should be controlled by regulation on the generator from setting 
+1-10. 
+4. 
+The generator should have a feature of Automatic scope saver, i.e. when the probe comes too 
+close to endoscope the controller pauses radiofrequency output and resumes radiofrequency output 
+when the probe is returned to safe distance. 
+5. 
+The generator should have facility to use a foot control or a wireless footswitch for 
+convenience and ease of use. There should also be hand control for multiple functions on the probes. 
+6.         System should have intuitive touchscreen control 
+7.        There should be facility to adjust coblation and coagulation with diferent settings 
+8         There should be a facility in the generator to monitor inside temp in the joint while using the 
+probes 
+9.       The generator should also have the facility to use a finger switch controlled probes 
+10.     The RF generator should be able to take a wide range of probes for Tendon and fascia 
+treatments also. 
+11.    Thermal Penetration should not be more than 150 Micron. 
+12.    The probes should not auto-disable after certain hours of use or after single use. They should 
+withstand power interruptions 
+13.    Consumables: 20 probes 3.5 mm, 90 degrees. 
+14.    Two years rate contract for the compatible consumables should be provided at the tinme of 
+tender 
+15.    Warranty 5 years should be included in the price, % years CMC should be provided. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

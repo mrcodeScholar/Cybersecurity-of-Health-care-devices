@@ -1,0 +1,115 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Neuro/18/307/OT 
+ 
+Page 17 of 21 
+ 
+ANNEXURE-I 
+Specification for Neuro – Ventilator for Adult Pediatric and Neonatal Patients 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against manufacturing defect and 5 years CMC. 
+2. All equipment’s should be BIS/European CE certified & USFDA approved. 
+3. Manufacturer should be ISO certified 
+4. All the firms are required to submit their catalogue along with tender/ quotation 
+clearly marking the Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together 
+from a single vendor. Demonstration of the instruments may be taken from all the 
+firms. 
+6. L-1 will be decided on total value only  
+7. All firms should have supplied the quoted instruments to the reputed central 
+government hospital like AIIMS/ PGI /NIMHANS, and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+Specifications for Neuro – Ventilator for Adult Pediatric and Neonatal Patients 
+1. Should be a microprocessor controlled ventilator with 12’’colour TFT touch screen 
+integrated graphics and easy to use rotary knob operation providing support to 
+Adult, pediatric and infant/neonatal patient range. 
+2. It should be able to display either 4 waveforms or 2 loops simultaneously. 
+3. Should have Air supply through integrated ultra-quiet turbine or external 
+compressor of the same manufacturer. 
+4. It should have facility to measure Mainstream Volumetric EtCO2& should display 
+waveforms & numerical value on the same screen. 
+5. Ventilator modes: Assist/Control Mandatory Ventilation (A/C);SIMV; CPAP; 
+Pressure Support Ventilation(PSV);APRV, BuoPAP/BiPAP/BiPhasic; ,Combination 
+/Dual modes like PRVC/APV or VAPS/ auto mode/ auto flow; Apnea Back, up and 
+any other mode for safe ventilations offering both volume guarantee &lung 
+protective strategies like volume limit etc. 
+6. It should have advance modes like NAVA / ASV / PAV / Smartcare 
+7. It should have enhanced Invasive as well as Non-Invasive Ventilation (NIV/NPPV) 
+modes with facility of effective 80% leak compensation. 
+8. Ventilator should have the facility for the lung recruitment and to calculate the LIP 
+and UIP for evaluating the best PEEP for the difficult to ventilate patients. 
+9. Ventilator should have the facility of High Oxygen Therapy. 
+10. Controls: Tidal volume minimum 2ml to 2000 ml in Volume control Mode or better. 
+11. Respiratory rates 4to150 BPM or better. 
+12. Peak flow setting from 0to240l/min or better. 
+13. Trigger sensitivity:- Flow1to20 l/min 
+14. PEEP: 0to35cm H2O or better. 
+15. FiO2:21 to100%. 
+16. I:E ratio1:9 to4:1(DuoPAP/BiPAP/BiPhasic1:599to149:1) 
+17. Inspiratory time(TI)1to12s 
+18. Pressure control 3to60 cm H2O, added to PEEP/CPAP. 
+19. Pressure support 0to60cm H2O,added to PEEP/CPAP 
+20. Pressure ramp 0to2000ms 
+21. Expiratory trigger sensitivity(ETS)5to80% of Inspiratory peak  flow 
+
+
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Neuro/18/307/OT 
+ 
+Page 18 of 21 
+ 
+22. Should have facility of Manual breath, O2  enrichment,  standby, screen-lock,  
+apnea backup  ventilation, Inspiratory hold, screen-shot, suctioning tool, dimmable 
+screen, configurable QuickStart -Settings, start-up over body height and IBW 
+23. Facility to permanently deactivate the O2 alarm, if the O2 cell is depleted or 
+defective. 
+24. Should have integrated nebuliser synchronized with Inspiratory cycle. 
+25. Alarms: low/high  Minute Volume, Low/ high Pressure, Low/high tidal volume,  
+low/high Rate, Apnea time, low/high oxygen, Oxygen concentration, disconnection, 
+loss of PEEP, exhalation obstruction, flow sensor, power supply, batteries, gas 
+supply 
+26. Display: Should have Real-time visualization of the lungs with representations of 
+tidal volume, lung compliance, resistance, and patient activity. 
+27. It should have battery backup of more than 3 hrs for whole unit. 
+28. Should have Visual representation of ventilator dependency, grouped into 
+oxygenation, CO2 elimination, and patient activity. 
+29. Should have Graphic display of target and actual parameters for tidal volume, 
+frequency, pressure, and minute ventilation. 
+30. Should have BIS / (USFDA & European CE) 
+31. Servo control Humidifier which should be BIS / (USFDA & European CE) and 
+should be supplied along with the unit 
+32. Imported Trolleys with ventilator should be provided from the same company. 
+33. It  should  be supplied with accessories: 
+34. Reusable expiratory Valve   
+ 
+ 
+ 
+                   - 2no. 
+35. Disposable patient circuit Adult/pediatric  
+ 
+ 
+        - 50no. 
+36. Nebulizer Kit  
+ 
+ 
+ 
+ 
+ 
+                   - 20 no. 
+37. Disposable patient circuit with humidifier chamber for neonatal       - 20 no. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

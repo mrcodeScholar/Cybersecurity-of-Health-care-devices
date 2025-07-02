@@ -1,0 +1,68 @@
+--- Page 11 ---
+Tender for Portable ABG Analyzer                                                                                  Admn/Tender/32/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+ABG 
+Analyzer 
+1. The system is required to analyse blood gases in arterial and venous 
+blood at bedside. 
+2. It should provide the readings of pH, pO2, pCO2, TCO2, HCO3, base 
+excess, sodium, potassium and haematocrit. 
+3. The system should be able to report the values accurately in the range – 
+pH (6.5-8.0), pO2 (40-400 mmHg), pCO2 (10-100 mmHg), TCO2 (5-50 
+mmol/L), HCO3 (5-70 mmol/L), base excess (-25 - +25 mmol/L), 
+sodium (110-170 mmol/L), potassium (2-8mmol/L) and haematocrit 
+(20-60%). 
+4. The process time should be < 5 minutes 
+5. The system should preferably have facility for wireless transfer of 
+reports to the hospital information system. 
+6. The system should be supplied along with inbuilt printer. 
+7. The system should be factory calibrated. The supplier should perform 
+quarterly calibration, to maintain accuracy of the system. 
+8. It should have provision to be battery operated. 
+9. It should be US FDA/ European CE certified. 
+10. It should function at temperature range 15oC to 50oC. 
+11. Manufacturer should have ISO 9001:2008 certification. 
+12. Analyzer should comply with IVD Medical Device Directive 98/79/EC. 
+ 01 
+
+

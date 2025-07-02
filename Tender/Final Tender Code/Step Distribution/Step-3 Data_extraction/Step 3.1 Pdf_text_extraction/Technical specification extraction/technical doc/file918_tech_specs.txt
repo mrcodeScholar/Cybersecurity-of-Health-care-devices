@@ -1,0 +1,70 @@
+--- Page 10 ---
+Tender for Feeding Pump                                                                                                   Admn/Tender/61/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Feeding 
+Pump  
+FLOW RATE CHANCE :1-100mVh (1 ml/h increments) 100-600mVh 
+(5mVh increments) 
+FLOW RATE ACCURACY :  ± 7% at 50ml/h 
+FEEDING VOLUME: 1-100ml/h (1 ml/h increments) lOO-500ml/h (5mllh 
+increments) 
+FEEDING MODE: Continuous 
+PRIMING: Automatic & manual priming availability 
+COUNTER: Preferably cumulative feeding volume Counters from 0.00lL to 
+99.999L 
+DATA EVENT LOG: 
+Feeding history 24-72hrs 
+NIGHT MODE: To decrease brightness of Screen & the power LED 
+KEYPAD LOCK: Possibility to lock the keypad to prevent  Unintentional 
+key press 
+INTENDED PSE: For external feeding use only compatible to hospital 
+conventional feed 
+INFORMATION: Target volume almost reached, battery almost Discharge, 
+start reminder, technical information 
+ALARMS: 
+Target volume reached, door open, wrong set 
+installation, downstream occlusion, occlusion, 
+Empty bag/air in line empty battery, technical 
+Information 
+PUMPING MECHANISM: Linear peristaltic pumping system 
+DISPLAY : LCD with good visibility 
+BATTERY: Full battery charging time: 5-6 hrs. Battery life minimum of 12 
+hrs. once fully charged 
+FLUSH: Programmable flushing capabilities 
+FREE FLOW PROTECTION: Preventing the risk of free flow when door is 
+opened When the set is disengaged to ensure the 
+patient Safety and an adequate delivery of 
+nutrition 
+SET LENGTH: Adjustable anti free flow clamp positioning 
+25 
+
+

@@ -1,0 +1,221 @@
+--- Page 17 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/269(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 17 
+ 
+ 
+Upon the successful and timely submission of bids (i.e. after Clicking “Freeze Bid Submission” in the 
+portal), the portal will give a successful bid submission message & a bid Tender No. : ............................. 
+will be displayed with the bid no. and the date & time of submission of the bid with all other relevant details. 
+ 
+ 
+The bid summary has to be printed and kept as an acknowledgement of the submission of the bid. This 
+acknowledgement may be used as an entry pass for any bid opening meetings. 
+ 
+ASSISTANCE TO BIDDERS 
+ 
+ 
+Any queries relating to the tender document and the terms and conditions contained therein should be 
+addressed to the Tender Inviting Authority for a tender or the relevant contact person indicated in the tender. 
+ 
+ 
+Any queries relating to the process of online bid submission or queries relating to CPP Portal in general may 
+be directed to the 24x7 CPP Portal Helpdesk number 0120-4200462, 0120- 4001002. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C Arm Specifications 
+ 
+A   Quantity 
+ 
+2 (two ) in number. 
+ 
+ 
+
+
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/269(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+B 
+X-RAY GENERATOR 
+ 
+  
+Frequency : 40 KHz or better 
+  
+Power output : 2 KW or more 
+  
+KV range : 40-110 KV or better 
+  
+mA in radiography : 20mA or more 
+  
+mA in fluoroscopy : 0.1 to 4 mA or more in normal fluoroscopy and 12 mA or more in High Level Fluro 
+  
+Should have facility for continuous fluoroscopy and Pulse fluoroscopy ( Pulse rate upto 8 pulse per second ) 
+  
+Should have Digital Spot for high quality single image, 16 mA or more 
+  
+Housing heat capacity of minimum 700 KHU and cooling rate of more than 12,000 HU/min 
+  
+ 
+C 
+X-Ray tube Head 
+  
+Must have anode heat capacity of min 70,000 HU & cooling rate of min 35,000 HU/Min  
+  
+Should have dual focal spots 
+  
+Collimation : motorized iris and motorized rotating blades 
+  
+Tube assembly filtration of 3.0 mm Al or higher 
+  
+ 
+D 
+C-Arm mechanism and control panel ( digital work station) 
+  
+Locks for stabilization at desired position 
+  
+It should have the following range of movements: 
+  
+        Motorized vertical movements more than 400mm 
+  
+        Horizontal travel: 200mm or more 
+  
+        Orbital movement: (-) 30 deg. To (+) 90 Deg. (120 Deg. Or more) 
+  
+        Swing / panning movement : +/- 12 degrees or more  
+  
+Source image distance : 950 mm or more 
+  
+Depth of c-arm : 650 mm or more 
+  
+ 
+E 
+Control panel (Digital work station) 
+  
+It should have the following facilities : 
+  
+System should have capabilty of Pulse Fluoroscopy option to reduce to radiation exposure with 1,2,4,8 pulse  
+per second,which should be easily user selectable 
+  
+Fluoroscopy and Radiography exposure on switching 
+  
+Image rotation from control panel 
+  
+Image intensification, mode selection (normal and zoom) 
+  
+Automatic brightness stabilizer 
+  
+Auto dose rate control 
+  
+Collimation for radiography 
+  
+ 
+F 
+Integrated image processing, recording and memory system : 
+a 
+Image intensifier tube 
+  
+Input diameter 9" with Triple field (9/6/4) 
+  
+Minimum central resolution ( at monitor ): 2.0 lp/mm or better at 9" FOV 
+b 
+CCD camera 
+  
+CCD camera with 1kx1k resolution for high resolution image acquisition 
+c 
+Integrated image processing, memory and recording system should have 
+  
+Medical Grade Monitors (Two Nos.) 
+  
+Min 18 inch or more , black and white, flicker free, high resolution (1280x1024 pixels or better), medical  
+grade flat screen TFT, automatic and manual control of brightness and contrast, mounted on mobile trolley  
+with locking device 
+  
+ 
+G 
+Digital image processor 
+  
+Provision to record multiple images on CD,DVD & USB with embedded DICOM viewer. 
+  
+Image processing at 1K * 1K Matrix 
+  
+Contrast enhancement, edge enhancement, zoom facility 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/269(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+  
+Recursive filter for detecting motion 
+  
+Last image hold 
+  
+Image rotation, vertical and horizontal reversal 
+  
+Medical imaging software's with ability to store 70,000 images or more in hard disk 
+  
+DICOM option 
+  
+ 
+H 
+Additional features 
+  
+The equipment should work on a Power supply of 220-240 Volts, 50-60 Hz, and 15 amp. 
+  
+Built in UPS to protect & save patient data.  
+  
+ 
+I 
+Regulatrory / Safety Requirement 
+  
+Equipment should have AERB Type Approval Certificate for radiation safety 
+  
+Equipment should have CE for full product with notified body indentification number and USFDA certificate 
+ 
+ 
+  Instruments should be supplied with 5 year warranty& CMC 
+ 
+
+

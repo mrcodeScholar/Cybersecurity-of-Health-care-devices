@@ -1,0 +1,82 @@
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Bio/19/03-279/OT/B   
+ 
+Page 20 of 21 
+ 
+ANNEXURE-I 
+Detailed Technical Specification for “Bench Top pH/ISE Meter for Fluoride Estimation” 
+for Department of Biochemistry at AIIMS Raipur. 
+Sl. 
+No. 
+Item description 
+Qty. 
+req. 
+1 
+Benchtop Meter with pH/ISE module with Fluoride Probe and estimation kit, Electrode 
+Stand, Universal Power Adapter, PC cable and Literature CD: 
+i. 
+pH: Range:   -2.000 to 20.000, Resolution:   0.001, Relative Accuracy:   ± 0.002 
+ii. ISE: Range:   0 to 19999, Resolution:   Up to 4 significant digits. Relative Accuracy: 
+±0.2mV or ±0.05% of reading whichever is greater. Units: ppm,  M, mg/L, %, ppb, none. 
+Adjustable ISO points: yes.  
+iii. Incremental Techniques: Single known addition & subtraction, double known addition 
+&Subtraction, single analyte addition & subtraction.  
+iv. Advanced Features: Displays electrode type, temperature compensation.  
+v. ISE Feature: ISE Benefits such as auto-blank, timed end point, linear point to point, 
+non-linear selectable auto-blank, low-concentration range stability, ISE ID and 
+Incremental techniques. 
+vi. Calibration Point: Up to 6 points 
+vii. Data Logging: holds up to 2000 data points with time and date stamp. 
+viii. Rating: IP54-rated housing.,  
+ix. Temperature Range : -5 to 105°C 
+x. Module: A variety of modules that can be placed in any of the four channels. Meter 
+can automatically recognize module changes. 
+xi. Stirrer: Automatic stirrer probe probation directly controlled by the main meter unit. 
+xii. The Meter should be bench top model which can analyze pH/Fluoride and other Ions 
+Concentration. 
+xiii. Warranty: Meter should have replacement warranty of 3 years and Fluoride probes 
+should have replacement warranty of 1 year. 
+xiv. Certifications: CE or FDA or ISO. 
+xv. Supply should include: Main meter with pH/ISE; Ion plus sure flow combination epoxy 
+body fluoride ion selective electrode with 60 ml sample filling solution (Range – 0.02 
+ppm to saturated), Electrode arm ,holder and Universal power adapter. 1ppm, 2 ppm, 10 
+ppm Fluoride standard with TISAB II each 475 ml. TISAB II 1 gallon. Fluoride electrode 
+filling solution, 5x60ml pack 
+01 
+Set. 
+2 
+ Fluoride Ion—plus sure flow combination epoxy body electrode with BNC water proof 
+connecter along with 60ml sample filling solution  
+01  
+set 
+3 
+ Optimum result A reference filling solution, 5x60ml (bottle)/pack 
+01 
+Pack 
+4 
+ Fluoride 1ppm standard with TISAB II, 475ml (bottle)/pack 
+01 
+Pack 
+5 
+ Fluoride 2ppm standard with TISAB II, 475ml (bottle)/pack  
+01 
+Pack 
+6 
+ Fluoride 10ppm standard with TISAB II, 475ml (bottle)/pack 
+01 
+Pack 
+7 
+ TISAB II with CDTA, 1 gallon (3.8Liter)  (bottle)/pack 
+01 
+Pack 
+ 
+Note: The supplier must provide PO and customer satisfactory certificate from Government hospital/ 
+reputed private hospital / organizations in India. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

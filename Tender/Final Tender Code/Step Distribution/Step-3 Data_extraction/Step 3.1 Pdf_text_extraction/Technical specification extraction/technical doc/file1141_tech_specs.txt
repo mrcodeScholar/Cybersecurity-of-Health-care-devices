@@ -1,0 +1,385 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /365/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+A high performance Digital Radiology state of the art system manufactured by a reputed brand 
+or manufacturer capable of both erect and supine radiological examinations. The unit should be 
+completely integrated with the following specifications. 
+1. X-RAY TUBE: 
+I. 
+The overcouch X-Ray Tube should be rotating anode high speed (approx. 9000 rpm) 
+compatible with the generator and must have dual focus. 
+II. 
+Focal spots of the following sizes: 
+a. Large Focus: 1.3 mm or less. 
+b. Small Focus: 0.6 mm or less. 
+III. 
+Please mention tube loading for small focus and large focus, should be at least 30KW 
+or more for small focus and at least 80KW for large focus. 
+IV. 
+Tube with Anode heat storage capacity of 400kHU or more and heat dissipation rate of 
+2000HU/s or more. 
+V. 
+Tube protection against overload. 
+VI. 
+Target diameter should be 100mm or more. 
+VII. 
+Target angle should be at least 12 degrees. 
+VIII. 
+A high speed rotor accelerator (starter). 
+IX. 
+Tube rotation of +/- 1800 in vertical axis and +/- 1200 in horizontal axis. 
+X. 
+Voltage to match maximum peak voltage of generator output (150KV). 
+XI. 
+Should have provision of electromagnetic locks with collision protection sensors. 
+XII. 
+The facility to measure the radiation should be available. 
+XIII. 
+Intercom system should be available to communicate with patients from the console 
+room. 
+2. X-RAY GENERATOR: 
+I. 
+X-ray generator should be of microprocessor controlled high frequency (mention the 
+frequency) type with latest technology having constant output with ripple factor of less 
+than 3%. 
+II. 
+Minimum power output of 80 KW or more at 1000 ma. 
+III. 
+Exposure kV range 40 kV - 150 kV with accuracy of ±5%. 
+IV. 
+It should have automatic exposure control (AEC) device. It should be possible to 
+override AEC if required. 
+V. 
+Automatic exposure control with minimum exposure time, should be 1 ms or less. 
+VI. 
+It should have one touch digital display of KVP and mAs with minimum three kinds of 
+patient body size. 
+VII. 
+It should have overloading protection and indicator system with safety interlock to 
+prevent X ray exposure. 
+ 
+3. X-RAY TABLE WITH DETECTOR: 
+I. 
+Free floating Carbon fiber or equivalent table top table with low attenuation, scratch 
+resistant surface. 
+II. 
+Table should support patient weight of 200 kg or more. 
+III. 
+Anti-collision control system. 
+IV. 
+Auto-tracking capability without mechanical link. 
+V. 
+Integrated bucky unit for flat panel digital radiography. 
+ 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /365/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+4. COLLIMATOR: 
+I. 
+Rectangular in shape with external dimensions of not less than 400x400mm and 
+rotation of exposure field. 
+II. 
+Manual as well as motorized, should be controllable by organ programming 
+III. 
+Full field light guide being multileaf type with light on indicator, average illumination 
+intensity not less than 160Lx and automatic turn off function, rotation of +/- 45 degree 
+or more. 
+IV. 
+Inherent filtration of at least 1.5mm Al equivalent and added filtration should be 
+available. 
+V. 
+Full field light localizer: 
+ 
+5. CEILING SUSPENSION: 
+I. 
+Ceiling suspended 3D Column stand with facility of automatic positioning and 
+synchronization/auto tracking with vertical position of table and vertical bucky. 
+II. 
+Movement in all direction should be easily possible. 
+III. 
+It should have auto-tracking and auto-positions functions. 
+IV. 
+Monitoring of all the position data on color touch screen for system control (kV, mAs, 
+SID, tube angle, column angle). 
+V. 
+SID (Source to Image Distance) in vertical positions 150 cm or more, in horizontal 
+position 180 cm or more. 
+VI. 
+It should have facility to display FFD/ SID. 
+ 
+6. POWER SUPPLY:  
+I. 
+Power input to be 220-240VAC, 50Hz, fitted with Indian plug.  
+II. 
+Resettable overcurrent breaker shall be fitted for protection.  
+III. 
+Spike protector of appropriate rating should be provided. 
+IV. 
+Suitable UPS back up must be provided for at least 30 minutes backup for the whole 
+system. UPS of suitable rating should be conforming to IS-302. 
+ 
+7. DIGITAL DETECTOR: 
+I. 
+The detector should be a flat panel detector of latest direct digital technology / amorphous 
+silicon with Cesium Iodide Scintillator. 
+II. 
+The minimum size of the detector should be 40 x 35 cm. 
+III. 
+Should have a spatial resolution of 3-line pair / millimeter or better 
+IV. 
+Detector Quantum Efficiency (DQE) should be 60% or more @ Zero lines pairs. 
+V. 
+The active matrix size should be 2.8k x 2.8k or more. 
+VI. 
+Pixel size should be 200 micron or less. 
+VII. 
+Should have a minimum image depth of 14 bit. 
+VIII. 
+Should allow centred/ decentred collimation. 
+ 
+8. DISPLAY SYSTEM: 
+I. 
+Medical grade monochrome monitors of at least 19” should be provided in the examination 
+and console rooms with resolution of 1 mega pixel or more in treatment room. Two 
+monitors in console room and two in treatment room, to be provided 
+II. 
+Image horizontal and vertical reversal and rotation shall be possible on both 
+monitors from the examination room. 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /365/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+III. 
+Post-acquisition image processing, viewing, reprocessing, hard copy documentation and 
+onward transmission should be possible while doing radiography. 
+ 
+ 
+9. PROCESSING STATION & PROCESSING SERVER, IMAGE STORAGE AND 
+TRANSMISSION 
+I. 
+The digital processing workstation should be based on the latest high speed processors 
+of at least 64 bit and at least 16GB RAM.  
+II. 
+It should have the possibility of acquiring the image from the detector system. Should have 
+preview time 5 seconds or better 
+III. 
+It should have image storage of 2 TB or more. 
+IV. 
+The server and /or processing workstation must be DMWL (DICOM   modality worklist) 
+compliant   to   access patient and study data from HIS or RIS. 
+V. 
+The system should have DICOM 3 (or newer) ready interface and networking 
+capability with RIS/HIS/PACS. 
+VI. 
+Multimodality work list table shall be enabled. 
+VII. 
+Post processing function must be available 
+VIII. 
+Should be supplied with fully automated image stitching on table & vertical bucky. 
+Necessary hardware & software to be provided by the vendor. 
+IX. 
+The   server   must   provide   full   amount   of   post processing    features    viz.    
+geometric    corrections, window level algorithms, annotation like markers, predefined   
+text, drawing   lines   and   geometrical shapes, multi-scale image processing, measuring 
+distance and angles, shuttering, histograms, zoom, grey scale reversal, edge 
+enhancement, noise reduction, indication of gray scale saturation level, latitude 
+reduction etc. 
+X. 
+It should facilitate full-fledged DICOM printing and should be able to print multiple 
+formats of patient study. 
+XI. 
+Should be able to send DICOM images to DICOM workstation or PACS without loss of 
+information. 
+XII. 
+Should be equipped with DICOM CD writer for transferring image 
+XIII. 
+Should be able to store image on external device viz. CD/ DVD or pen drive etc. 
+XIV. 
+The system should have a facility to indicate over / under   exposure   in   the   preview   
+screen.    
+XV. 
+The system should have fast and direct access to all series, single images in both 
+examination and console room. 
+XVI. 
+System should have on line dosimeter to display the actual radiation dose in 
+Radiography. 
+XVII. 
+The software must have dedicated paediatric and mammography image processing. 
+XVIII. 
+Should be possible to control X-ray tube and detector movements from the 
+console room and examination room. 
+XIX. 
+Should have provision to take X-ray with external cassette.  
+XX. 
+Additional   specialty   software   /hardware   if   any should be quoted separately as 
+optional. 
+ 
+
+
+--- Page 21 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /365/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+10. VERTICAL DETECTOR STAND: 
+I. 
+Motorized, counter balanced adjustable height vertical detector stand. 
+II. 
+Detector movement should be synchronized (auto-tracking) with horizontal, vertical and 
+oblique positions with suitable movements for all skeletal body including spine and 
+chest. 
+III. 
+Should be supplied with grids suitable for horizontal and vertical imaging. 
+IV. 
+Bucky should have a grid ratio 10:1 or more.  
+V. 
+Grid removal function for paediatric patients. 
+VI. 
+It should have automatic exposure control with at least 3 fields. 
+VII. 
+The detector should be capable of rotating on its axis across +90 to -15 degrees. 
+ 
+11. ACCESSORIES: 
+I. One Dry Chemistry, Multiport, multiple films (14”x17”, 11”X 14” and 8”X 10”) camera with 
+resolution of 500 DPI or more, DICOM ready and online. At least three size film trays 
+should be active. The vendor should connect this camera with other existing cameras in 
+department. 
+II. DICOM Software with fast speed DVD Combo (Reader and Writer separately). 
+III. One suitable UPS along with batteries of appropriate rating to give 30min. back up to 
+operate the complete system including X-Ray machine. 
+IV. Stabilizer of appropriate capacity for the entire system. 
+V. Minimum necessary furniture like chairs, table etc. 
+VI. Fire extinguisher system to be connected to central system by vendor. 
+VII. 
+Removable patient foot rest, shoulder supports, patient hand grips, patient fixing belts and 
+compression device. 
+VIII. Two light weight zero lead aprons of 0.5 mm lead equivalence, AERB approved. 
+IX. One mobile lead shield. 
+X. One stand for lead aprons. 
+ 
+12. STANDARDS AND SAFETY: 
+I. 
+Should be FDA or CE approved product. 
+II. 
+The safety performance of the unit should conform to IEC-60601-1-2006. 
+III. 
+The quality management system shall conform to ISO13485. 
+IV. 
+AERB type approval certificate. 
+ 
+13. WARRANTY/ AFTER SALE SERVICE: 
+I. 
+Five years comprehensive onsite warranty of entire system (Spares and labour) including 
+X-ray tube, civil, electrical and air conditioning works and all accessories including dry 
+chemistry camera, UPS etc.  This will be followed by 5 years comprehensive annual 
+maintenance on prefixed rate of 2% with annual increase by 10% of total equipment cost.  
+II. 
+95% uptime guarantee should be given. In case down time exceeds 5%, penalty in the 
+form of extended warrantee, double the number of days for which the equipment goes out 
+of service, will be applied 
+ 
+14. SPARES:  
+I. Manufacturer to give undertaking to provide spares for 10 years of their quoted model post 
+installation date with no additional cost. 
+
+
+--- Page 22 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /365/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 22 
+ 
+II. Manufacturer to give undertaking that they will maintain and service the equipment. 
+ 
+15. PRODUCT DATA SHEET: 
+I. All specification to be provided with original product data sheet/brochure. All technical 
+specification should be supported with original data sheet highlighting the page number in 
+the compliance sheet from manufacturer. Photocopy/computer print will not be acceptable.  
+II. The X ray equipment quoted should be the main equipment of the principal manufacturer. 
+At least three main components of the equipment i.e. generator, X-Ray tube and X-Ray 
+table should be from the original equipment manufacturer (OEM). 
+III. The x-ray machine and its main components should find a place in the manufacturer's 
+website and the copy of the webpage showing the same should be enclosed in the tender 
+document. The bidder to mention its principal manufacturer's website address. 
+ 
+16. OTHERS: 
+I. 
+There shall be no separate licensing fee for the use of software (software by the bidder or 
+third party) supplied by the bidder. 
+II. 
+All equipment provided shall be of current production, new and of first rate quality. 
+III. 
+Remote diagnostic capabilities must include the ability to remotely connect the system on 
+a regular basis to retrieve information about the system and to correct any software 
+problems. 
+ 
+17. TRAINING:  
+I. 
+The successful bidder will have to ensure onsite training of end users for a period not less 
+than 4 weeks after installation of the unit. 
+ 
+18. DOCUMENTATION: 
+I. User manual in English. 
+II. Service manual in English. 
+III. The firm should attach detailed installation list along with users’ complete address and 
+telephone number. 
+IV. List of important spare parts and accessories with their part number and costing.  
+V. Certificate of calibration and inspection from factory.  
+VI. Log book with instruction for daily, weekly, monthly and quarterly maintenance checklist.  
+VII. The job description of the hospital technician and company service engineer should be 
+clearly spelt out 
+ 
+19. LIST OF INSTALLATION: 
+I. 
+The bidder should have installed the same model in India. The bidder to provide the 
+satisfactory installation report of all the sites in which the same model is installed in 
+India. 
+ 
+20. MISCELLANEOUS: 
+I. 
+The tender should be full turnkey project, meaning that all items and services required to 
+complete the project are to be included in the bid or specifically noted if not.  
+II. 
+The vendor should also carry out limited modification of room in which equipment is 
+required to be fulfilling criteria as per AERB guidelines.  
+
+
+--- Page 23 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /365/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 23 
+ 
+III. 
+AIIMS Rishikesh also expects that this equipment will meet or exceed the bid 
+specifications. The vendor is required to attach a compliance statement for each 
+specification given in the tender.  
+ 
+21. EVALUATION SYSTEM: 
+An Evaluated Proposal Score (B) will be calculated for each responsive Proposal using the 
+following formula, which permits a comprehensive assessment of the Proposal price and the 
+technical merits of each Proposal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

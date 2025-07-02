@@ -1,0 +1,53 @@
+--- Page 18 ---
+                                                                  Tender No. : AIIMS/R/CS/PMRD/2018/018/OT/A 
+ 
+Page 18 of 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             Annexure-I 
+Technical specification for the NCV-EMG EP Machine: 
+ 
+1. NCV-EMG EP machine should have at least 2 Channels. 
+2. NCV-EMG EP machine should be based on Windows 7 Operating System Desktop 
+Computer with minimum configuration like Intel Processor, 2GB RAM, 500GB Hard Disc 
+Drive, DVD RW Drive, Gigabit network interface card, good quality keyboard and optical 
+mouse with scroll wheel. 
+3. Amplifiers should have at least 4 Optically Isolated Channels with 14/16/24 bit ADC, 
+CMRR should be > 100dB, Input Impedance should be >100M Ohms, Sensitivity from 1 
+micro V/Div to 20 mV/Div and should have sweep speed in the range of 1 to 1000 ms 
+/div. 
+4. System should have hand held electrical Stimulator with stimulus intensity dial and 
+stimulus trigger on handle. It should have start /stop switches provided on handle. It 
+should stimulate with constant Electrical Current (from 0 to 100mA) up to 1 ms 
+duration. It should be electrically isolated with independent controls. 
+5. The system should have the following Application software as standard:- 
+ Motor and Sensory nerve conduction, F -wave, H-reflex, Blink reflex, Repetitive 
+nerve stimulation test, inching. 
+ It should have packages for doing EMG acquisition and analysis, advanced 
+quantitative analysis of EMG (facility to record/Replay EMG on Hard Drive). On 
+single screen surface EMG, SP activity, interference pattern, single motor unit 
+potential, turn/amplitude analysis should be possible. Manual/auto MUPs 
+selection for analysis 
+6. The system should have the facility for up gradation with optional Software to 
+somatosensory SEP and ABR. 
+7. The system should have the possibility to record EMG data in a format that it can be 
+played with Sound in windows media player on any PC without the need of any 
+additional software to be uploaded on the Computer. 
+8. The system should have facility for Automatic Online Summary Report 
+9. Standard Set of Consumables. 
+10. System must comply to international quality ISO 9001, CE. 
+11. Decision will be only after satisfactory demonstration of the equipment. 
+ 
+ 
+
+

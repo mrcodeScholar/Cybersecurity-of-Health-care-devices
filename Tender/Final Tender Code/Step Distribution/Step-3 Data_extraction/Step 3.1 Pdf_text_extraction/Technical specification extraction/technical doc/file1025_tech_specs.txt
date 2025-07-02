@@ -1,0 +1,280 @@
+--- Page 45 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1158/22/GTE/B 
+ 
+45
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+                     Specification for ENT Navigation System 
+Sn 
+Description 
+1 
+System Specifications 
+a The system should be easy to set up, user friendly, Intuitive and should work under Windows/ Linux/Unix 
+operating system environment. 
+b 
+The system should be a single cart portable system with wheels so can be easily moved in the OT enviroment and 
+ Dimensions of  system should be around : 250 mm x 250 mm x 180 mm , and should be virtually zero footprint 
+in OT 
+ 
+c The display should be of full HD resolution of 1920X1080  with monitor size 26" or more. 
+d The system should have Rapid data transfer directly to the navigation station with the option of USB 3.0 port for 
+direct data import and also have direct and seamless integration with the hospitals PACS system 
+e The system should have facility to load patient data into the system through CD or DVD, USB and PACS. 
+f The system should have Wireless or wired options available for connecting to hospital PACS system. 
+g The wireless options should be provided with inbuilt security features such as firewall, encryption and antivirus. 
+h The system should have password protection so  only authorised user can access the systemsoftware. 
+i 
+The system must work on Optical and advanced wireless passive marker tracking technology or 
+electromagnetic technology and it must have electromagnetic based dynamic referencing so that registration is 
+not lost even if the patient moves and helps navigate malleable instruments.  
+j The system should provide emitter which can be placed under the patient head or can be mounted on the side bed 
+rail or sensor can be integrated  into headrest for OR table 
+k The system should have inbuilt UPS or should provide external UPS with backup of upto 5minutes incase of 
+power supply failure. 
+l The system should have enough storage space for accessories and should be easily accessible or should provide 
+trolley for storing the accessories. 
+2 ENT Navigation Software Specifications 
+a 
+The ENT navigation software should be user friendly, easy to use and should have capability to alter workflow as 
+per surgeon preference. 
+Additional Option  Ear Navigation Software to support Ear indications, e.g.transmastoidal surgery or endoscopic 
+ear surgery  
+b Preferably The software should allow to create multiple surgeon profile and set procedures and settings as per 
+the surgeon requirement. 
+c The software should allow DICOM images in Axial, Sagittal or Coronal planes and should be reconstructed as 
+3D images and advanced planning can be done on any plane which should be adapted to all planes automatically 
+d The software should have Image merge option in order to merge CT and MRI images and use them during 
+navigation as per surgeons choice. 
+e The software should have advanced 3D model building functions which are user friendly. It should have 
+automatic tumor building function using seed/planning points 
+f The software should have option to feature to view orthogonal, axial, coronal and orthogonal cut planes which 
+allows sectional view of 3D models. 
+
+
+--- Page 46 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1158/22/GTE/B 
+ 
+46
+ 
+ 
+g The software should have option to use surface trace based registration and touch based using fiducially or 
+anatomic landmark based registration and if required combination of surface and touch registration. 
+h The software should auto detect the fiducials and guide towards touch based registration by default. 
+i The software should display the area of accuracy with the help of sphere or number matrix and it should show 
+which area is not covered during registration inorder for the surgeon to modify registration if required. 
+j The software should be capable of storing previous registrations for that patient. Registration should be recovered 
+even if system switches off. 
+k The software should have facility to store screenshots taken during procedure as well as record the navigation 
+screen for about  30minutes or external video recording should be provided if it is not inbuilt in the system. 
+l The software should have option to perform Standard FESS, Endoscopic Skull base, Coronal flaps and other 
+Skull base procedures. 
+m The software should have option to view endoscopic or microscopic video on the screen 
+n The software should be ready to navigate navigable 0 degree, 12 degree and 40 degree debrider blades. 
+o The software should have virtual/real time target guided endoscopic view feature to view 3D models. 
+p The software should have capability to store registration restore points to regain registration during the procedure 
+to save time in case the refrence is shifted. 
+3 ENT Navigation Instruments and accessories 
+a 
+The system should be provide with flat pannel electromagnetic generator which can be positioned under patient 
+head and / or side mount which can be fixed around the head or  the system should be provide which can be 
+integrated into head rest for OR tables  
+b 
+The system should be provide with the ENT instruments set of malleable instruments with an outer diameter 
+down to 0.8 mm/1.5 mm or 2mm which are navigable under electromagnetic technology. The portable 
+navigation provides a 
+c The instruments must include but not limit to a straight probe, straight suction, 90 degree curved suction, 70 
+degree curved suction and ostium seeker. 
+d The instruments must be autoclavable/ETO sterilised for multiple use and should be covered under warranty 
+e 
+The instrument consumables required for navigation should be provided along with the system sufficient for 
+about 10 surgeries 
+ 
+f Navigation sensor at the tip of the navigation instruments (to enable intra operative bending without  
+ new calibration ) 
+g They system should have pediatric friendly reference frame  suitable for coronal flap surgeries. 
+h The system should allow connecting upto 4 or more instruments at the same time and navigate them as required. 
+j Storage device of 1tb-2 & 2 tb-2 
+ 
+k Pointer instruments for Sinus surgery and Plastic reconstruction with:diameter 1.5 or 2.8 mm malleable 
+l Pointer instrument for Ear surgery with:diameter 1.5 mm 
+m Pointer Shell (navigated adapter for rigid cylindrical instruments), e.g. shaver  blades:For diameters 3 or 4 or 
+5mm or should offer a universal Pointer Shell e.g Shaver blade with other manufacturer can be used . 
+4 
+Support Specifications 
+
+
+--- Page 47 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1158/22/GTE/B 
+ 
+47
+ 
+ 
+a Company should provide proper training on the system for surgeons and technicians at the hospital. 
+b System should be provided with the operating manual. 
+c Company should provide high quality after sales service. 
+d Company should provide BIS/" USFDA & European CE" clearance certificate 
+e 5 years CMC and 5 years warranty is required including all accessories 
+f System should be BIS/ISO/European CE/USFD Approved certificate both standards should be attached with 
+tender 
+g Training for user department, doctors and staff should be provided as per the satisfaction of buyer. 
+h Trolley with wheel from the same manufacturer & storage box for all accessories. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 48 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1158/22/GTE/B 
+ 
+48
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE 
+document for complete equipment (including Batteries for UPS, other vacuumatic 
+parts wherever applicable) Warranty period will be 5 years from the date of 
+installation, commissioning and Site Modification Work from the date of 
+satisfactory installation, commissioning, trial run & handing over of equipment to 
+Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period 
+by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After 
+sales 
+service 
+centre 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service should 
+be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date of 
+supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian 
+Agents (if they have the requisite know-how) for operation and maintenance of the 
+equipment to the satisfaction of the consignee. The same will be in line with the 
+training modalities as specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ service 
+/operational manual of the manufacturer, labour and spares, after satisfactory 
+completion of Warranty period may be quoted for next 5 years on yearly basis for 
+complete equipment (including Batteries for UPS, other vacuumatic parts 
+wherever applicable) and Site Modification Work (if any). The supplier shall visit 
+each consignee site as recommended in the manufacturer‟ s technical/ service 
+/operational manual, but at least twice in six months (i.e. 4 preventive 
+maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of 
+any such stipulation the price will be taken inclusive of such taxes and no claim 
+for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank guarantee 
+for 3% of the cost of the CMC as per Section XV valid till 2 months after expiry of 
+entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 
+365 (days) basis, with penalty, to extend CMC period by double the downtime 
+period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee‟ s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the 
+Bank Guarantee for Annual CMC. 
+
+
+--- Page 49 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1158/22/GTE/B 
+ 
+49
+ 
+ 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 50 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1158/22/GTE/B 
+ 
+50
+ 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to 
+be installed, in consultation with HOD of Hospital/Institution/Medical College concerned. 
+Site Modification Work details of each Hospital/Institution/Medical College are given at the 
+end of Technical Specification. The Tenderer to quote prices indicating break-up of prices of 
+the Machine and Site Modification Work of each Hospital/Institution/Medical College. The 
+Site Modification Work costs to be quoted in Indian Rupee will be added for Ranking 
+Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation 
+the price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer‟ s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it‟ s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard 
+IEC- 60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is 
+not available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard 
+interface interoperability conditions for networked equipment in hospital 
+management information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period 
+
+

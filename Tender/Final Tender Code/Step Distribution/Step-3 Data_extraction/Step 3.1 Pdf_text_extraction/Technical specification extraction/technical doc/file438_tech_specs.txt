@@ -1,0 +1,74 @@
+--- Page 11 ---
+Tender for Polygraph (sixteen channel research)                                                           Admn/Tender/26/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Polygraph 
+(sixteen 
+channel 
+research)  
+1 Technical Specification  
+1.1 No of Channels : 16  
+1.2 Ethernet/High Speed USB Data Acquisition and analysis Software.  
+1.3 Apparatus for recording and calculating HRV and blood pressure 
+Variability, temperature  
+1.4 Transducers and softwares for recording and analyzing 
+plethysmography, GSR, Skin temperature,Continuous real-time beat-
+to-beat blood pressure, Non Invasive Cardiac Out Put, respiration, 
+phonocardiogram and pulse tonometer for carotid pulse, baroreflex 
+sensitivity and total peripheral resistance recording.  
+1.5 21 inch TFT monitor  
+1.6 160 GB storage facility and 1GB RAM for the computer  
+1.7 Colour laser printer  
+1.8 Wireless (transmitter / recorder) device with transmit range up to 
+100m, memory capacity 480 hours, 250 Hz sampling rate, radio band 
+frequency  
+2 Accessories, Spares and Consumables  
+2.1 Necessary cables and batteries  
+2.2 Computer (latest configurations) with laser printer to be attached 
+to the equipment  
+3 Standards, Safety and Training  
+3.1 Should be CE / BIS approved product  
+3.2 Calibration/Acceptance test certificate from the factory required.  
+3.3 Manufacturer/Supplier should have ISO certification for quality 
+standards.  
+3.4 Should have local service facility .The service provider should 
+have the necessary equipments recommended by the manufacturer to 
+carry out preventive maintenance test as per guidelines provided in the 
+service/maintenance manual.  
+4 Documentation  
+4.1 User/Service Manual in English  
+4.2 Compliance Report to be submitted in a tabulated and point wise 
+manner clearly mentioning the page/ para number of original 
+catalogue/data sheet. Any point, if not substantiated with authenticated 
+catalogue/manual, will not be considered.  
+5 Multi-channel universal bio-amplifier for ECG, EMG, EEG, EOG 
+(at least 8 channels) along with cardio axis analysis.  
+6 Bidders are encouraged to arrange for demonstration of their 
+equipment if not able to comply with all specification requirement.  
+01 
+
+

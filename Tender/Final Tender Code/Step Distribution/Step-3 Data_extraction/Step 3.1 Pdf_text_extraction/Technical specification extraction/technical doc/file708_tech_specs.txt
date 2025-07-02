@@ -1,0 +1,50 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Neuro/18/289/OT 
+ 
+Page 17 of 20 
+ 
+ANNEXURE-I 
+Specification for Radiofrequency ablation 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against manufacturing defect and 5 years CMC. 
+2. All equipment’s should be BIS/European CE certified / USFDA approved. 
+3. Manufacturer should be ISO certified 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly 
+marking the Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together from a 
+single vendor. Demonstration of the instruments may be taken from all the firms: 
+6. L-1 will be decided on total value only  
+7. All firms should have supplied the quoted instruments to the reputed government 
+hospitals like AIIMS/ PGI etc, and should submit a certificate of satisfactory working 
+from the concerned government hospital. 
+8. User training for surgeon and hospital staff has to be provided until they are familiar with 
+the system use or for at least 3 months.  
+Technical specifications for Radiofrequency generator: 
+The equipment should  
+1. Have touch screen interface.  
+2. Have 0-50-watt power output.  
+3. Have thermal & pulsed RF treatment on 1, 2, 3 or 4 electrodes.  
+4. Bipolar RF on 1 or 2 pair of electrodes.  
+5. Measure & display temperature between 0-110 degrees.  
+6. Measure Impedance 0-3000 ohms.  
+7. Have continuous RF output & pulsed RF output functions.  
+8. Have output test plug to test all outputs from generator before & during the procedure..  
+9. Have stimulator with pulse duration of 0.1, 0.5, 1, 2, 3 milliseconds and pulse rate 2-200 Hz.  
+10. Stimulate with 0.01 V increments.  
+11. Have timer 0:05-30:00 minutes.  
+12. E-dose functionality  
+13. Capability of epidural electrode for neuropathic pain  
+14. Should have capability of data export & printing. 
+15. Should have capability of intradiscal electrode.  
+16. Should have compatible echogenic RF Cannulae  
+17. Should have stereotactic electrode capability  
+18. Also have spinal cannulae (Any Size) Qty. - 15 boxes 
+19. Also have electrodes of various lengths 5cm, 10cm & 15cm (Qty. - 05 each) 
+19. Should have capability of epidural electrode  
+20. Should have compatible disposable electrodes. 
+ 
+ 
+ 
+ 
+
+

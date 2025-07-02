@@ -1,0 +1,90 @@
+--- Page 10 ---
+   
+Tender for Auto Kerato Refracto Tonometer                                     Admn/Tender/43/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+Technical Specifications for Auto Kerato Refracto Tonometer- 
+ 
+Measurable range  
+ 
+Sphere -30.00D to +25.00D (VD=12 mm)  
+(0.01 / 0.12 / 0.25D increments)  
+Cylinder 0D to ± 12D  (0.01 / 0.12 / 0.25D increments)  
+Axis 0º to 180º (1º/ 5º increments) 
+Measurable minimum pupil diameter 
+ø 2 mm 
+Chart 
+Scenery chart 
+Auto keratometer 
+Measurable range 
+ 
+Radius curvature 5.00 to 13.00 mm  
+(0.01 mm increments) 
+Refractive power 25.96D to 67.50D (n=1.3375)  
+(0.01 / 0.12 / 0.25D increments)  
+Astigmatism 0D to  ± 12.00D (0.01 / 0.12 / 0.25D 
+increments) 
+Axis 0º to 180º  (1º / 5º increments) 
+Measurement area 
+ø 3.3 mm (R=7.7 mm) 
+Non-contact tonometer 
+Measurement range 
+Measurement range setting 
+Working distance 
+Eye fixation 
+ 
+1 mmHg to 60 mmHg 
+APC40, APC60 (APC=Automatic Puff Control), 40, 60 
+11 mm 
+Inner fixation light 
+Auto tracking / Auto shooting 
+ 
+X-Y-Z direction 
+Auto shot 
+PD measurable range 
+30 mm to 85 mm (indication increments: 1 mm) 
+Corneal size measurable range 
+10.0 mm to 14.0 mm (indication increments: 0.1 mm) 
+Corneal thickness measurement 
+0.400 mm to 0.750 mm (0.001 mm steps) 
+Pupil size measurable range 
+1.0 mm to 10.0 mm (indication increments: 0.1 mm) 
+Display 
+5.7" VGA color LCD tiltable 
+Printer 
+Thermal line printer with automatic paper cutter 
+Interface 
+ 
+RS-232C (IN / OUT), USB 
+ 
+Power supply 
+AC100 - 240 V  ± 10 % 50 / 60 Hz 
+Power consumption  
+100 VA 
+Dimensions / Weight  
+ 
+260 (W) x 481(D) x 505 (H) mm / 23 kg at ARK 
+standard measurement 
+260 (W) x 481(D) x 460 (H) mm / 23 kg at NT standard 
+measurement 
+10.24 (W) x 18.94 (D) x 19.88 (H) " / 50.7 lbs. at ARK 
+standard measurement 
+10.24 (W) x 18.94 (D) x 18.11 (H) " / 50.7 lbs. at NT 
+standard measurement 
+Standard accessories 
+ 
+Spare printer paper (x3), Power cord, Dust cover,  
+Chinrest paper, Fixing pins (x2), Model eye, Interface 
+cable, Eye care card system 
+ 
+ Ø –size of aperture 
+ US FDA/EUROPEAN CE required. 
+ 
+ 
+ 
+ 
+
+

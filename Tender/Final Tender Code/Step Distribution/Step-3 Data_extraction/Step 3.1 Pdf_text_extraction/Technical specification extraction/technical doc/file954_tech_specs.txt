@@ -1,0 +1,106 @@
+--- Page 41 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/CRDO/20/15/GTE 
+Page 41 of 60 
+ 
+SECTION – VII TECHNICAL  SPECIFICATIONS 
+Technical specification for Supply and installation of Intravascular Ultrasound (IVUS) and 
+Fractional Flow Reserve with IFR and Coregistration 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against  manufacturing defect  
+2. All instruments should be corrosion resistant, autoclavable, BIS/European CE certified / USFDA 
+approved. 
+3. Manufacturer should be ISO Certified. 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly marking the 
+Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the firms. 
+6. L-1 will be decided on total value only. 
+7. All firms should have supplied the quoted instruments to the reputed central government hospitals 
+like AIIMS, PGI, etc. and should submit a certificate of satisfactory working from the concerned 
+government hospital. 
+TECHNICAL SPECIFICATIONS FOR “INTRAVASCULAR ULTRASOUND (IVUS) and 
+FRACTIONAL FLOW RESERVE WITH IFR AND COREGISTRATION”   
+1. The system should be the latest generation digital Intra-vascular ultrasound for 360° image evaluation 
+of coronary lumen.   
+2. Should be a Windows based system capable of accepting phased array transducer technology.  
+3. Should be DICOM-3 compatible.  
+4. Should have DICOM storage to CD-R and hospital network compatible.  
+5. Archiving options of CD ROM, 16X DVD, Removable hard disc and network.  
+6. Should be accompanied with Flat Panel LCD display of >18’’ high quality monitor with keyboard, 
+track ball and mouse.  
+7. Data entry should be possible by key board and or touch screen.  
+8. Should come with a storage capacity of >50 cases patient data with minimum 30Gb hard disk and 25 
+clinical case storage, with an option of removable storage.  
+9. Should have ECG input on screen.  
+10. Digital frame grabber.  
+11. Multiple image screen format.   
+12. Availability of automatic and manual measurement of all essential; parameters like diameter and areas 
+Multi screen format for comparison with prior measurements should be available.  
+13. Digital video loop storage: up to 8 minutes with still frames (JPEG) with full editing capabilities 
+including offline editing.  
+14. Should have automatic border detection, both lumen and vessel.  
+15. Should have on line 2D longitudinal display and measurements (seen as longitudinal cut section of the 
+artery) as well as cross sectional imaging.  
+16. Sterile field control option.  
+17. Should be compatible to be integrated to existing Cath lab system.  
+18. Should have the advanced feature like virtual Histology. Colour Map overlay to visualize tissue type 
+(Fibrotic, Lipidic, Necrotic and calcified) as well as improved work flow design.  
+19. Area & length measurement graphics in the cross sectional and longitudinal view images.  
+20. Maximum number of area measurements per cross section image for better imaging Minimum-2.  
+21. Maximum number of distance measurements per cross section image for better imaging, Minimum-4.  
+
+
+--- Page 42 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/CRDO/20/15/GTE 
+Page 42 of 60 
+ 
+22. Coronary IVUS catheter with compatibility to both Rotating mechanical catheter & phased array 
+catheter  
+23. Dynamic review features (blood flow, plaque morphology, dissections and stent apposition).  
+24. Should come with inbuilt FFR & IFR for physiologic assessment of borderline lesion.  
+25. Archiving options CD ROM, 16X DVD, Removable Hard disc and Network  
+26. Automated vessel and lumen measurement/detection with manual correction option.  
+27. Should come with latest IVUS co-registration feature. 
+28. Should come with latest IFR co-registration feature.  
+29. DICOM storage & Image formatting.  
+30. Should have a latest generation processor (i7 or above) computer with minimum 21-inch monitor, a 
+wireless keyboard, and a wireless mouse with latest antivirus software. 
+31. Multiple image Screen format. 
+32. Automatic and Manual pull back options.  
+33. Should have ECG display on Screen.  
+34. Should come with Automatic pull back device.  
+35. Should be provided with inbuilt printer for IVUS images.  
+36. Clinical support for Training of staff.  
+37. Technical back up for maintenance of machine.  
+38. Prices of all accessories like pullback device, IVUS catheter, guidewire etc, to be quoted separately for 
+future purchase.  
+39. Prices of the should freeze for at latest three year from the time of installation.  
+40. The same machine must have been installed in India earlier and its satisfactory work certificate has to 
+be attached.  
+41. Manufacturing company has to give undertaking regarding maintenance of the systems and availability 
+of accessories and spare parts for next ten years.   
+42. Latest authorization certificate in original should be attached with the quotation, failing which their 
+tender application will be rejected. Photocopy/Xerox copy of authorization certificate will not be 
+accepted.  
+43. The machine should come with required UPS and should be compatible with standard Indian electrical 
+sockets.  
+44. It should have standard electrical safety norms.  
+45. Input Power: 200-240 V AC and 50/60 HZ  
+46. Accessories : 
+o Reusable Pullback device (1 Nos.)  
+o Colour printer (01 No.) 
+o CD/DVD writer built – in 
+o IVUS Catheter -10 nos   
+47. Warranty should be 5 years and thereafter 5 year CMC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

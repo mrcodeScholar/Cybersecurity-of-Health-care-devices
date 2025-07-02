@@ -1,0 +1,128 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Patho/18/01/ /OT 
+ 
+Page 18 of 22 
+ 
+Technical Specification for Automated Semen Analyzer: 
+1. 
+The system should be a complete automated system for reporting of sperm 
+count, sperm motility, vitality, viability, sperm morphological measurements, 
+biochemical measurements, DNA fragmentation, nuclear protein assay & 
+antisperm antibody – IgG & IgA. 
+2. 
+The system should offer high-end performance all the while maintaining its 
+ease of use. The manufacturer should offer all the reagent kits & consumables 
+necessary for the tests. 
+3. 
+There should be facility to calculate mean value of different forms of sperm 
+velocity. 
+4. 
+There should be facility for rapid analysis for one or several trials at a time 
+based on CUDA computing by evaluation of 100 sperms within 2-3 min.  
+5. 
+The system should show adherence to latest WHO based standard 
+classification norms with molecular level testing of DNA fragmentation with 
+inner core diameter & outer core thickness with ratio. 
+6. 
+The system should have facility of integration with patient database for 
+complete reporting and data for patient registration, samples collection, and 
+slide preparation. This must be supported by individual barcode. 
+7. 
+Facility of storage of image, videos or sequences for archiving or future 
+verification is a must for every patient analysis. 
+8. 
+Should have customizable reporting via user defined report templates. 
+9. 
+CASA Software for sperm motility analysis should give automated results for 
+sperm conc, motility analysis and should have facility to record agglutination, 
+non-sperm element & pus cells. 
+10. 
+Analysis of multiple fields / multiple species should be available. 
+11. 
+Macros for different sperm types/ sample conditions should be available. 
+12. 
+Facility for determination of % progressive motility, non-progressive motility, 
+sperm counts and concentrations should be available. 
+13. 
+Facility for determination of linear and curvilinear velocities should be 
+available. 
+14. 
+Facility for determination of velocities- VCL, VSL, VAP, ALH, Linearity, STR, 
+BCF, DNC, DNM & wobbling should be available. 
+15. 
+Facility for automated morphology measurements with display of sperm 
+parameter i.e. head, length, width, regularity, % acrosome, neck width, 
+insertion & no. of tail & length of tail should be available. 
+16. 
+Classification of detected features into user definable classes using a 
+combination of any measurement parameters including biomarker like 
+fructose, zinc, and alpha-glycosidase should be available. 
+17. 
+There should be facility for transfer of all data/results to MS excel, word or pdf. 
+18. 
+In built report generator for generating custom reports complete with data 
+tables, histograms, images & videos should be available. 
+19. 
+All data should be stamped with date, time, and magnification and calibration 
+information. 
+20. 
+All-in-one system should be supplied with branded computer system with 
+window 10 or more to support application and camera Interface, 2 GHz multi 
+core i7 processor, 2TB hard drive, 16 GB RAM, DVD+RW, USB 3.0 and HDMI 
+port, 24” TFT/ LED Monitor (1920 x 1200), wireless keyboards, mouse, and 
+appropriate barcode reader along with multifunctional color laser duplex 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Patho/18/01/ /OT 
+ 
+Page 19 of 22 
+ 
+printing printer with consumables (2 cartridges) with 2000 sheets of A4 size 
+paper should be provided. 
+21. Microscope should be Nikon/ Olympus/ Carl Zeiss Axio lab AI Phase Contrast 
+Trinocular positive phase contrast microscope with fluorescence attachment 
+with suitable filter, camera adapter, 4 X, 10x phase, 40X, 100x plan-achromat 
+objectives, wide field eyepiece with 20 a field of view, halogen illuminator with 
+30 w respectively suitable for semen sample analysis, with ‘c’ mount camera 
+adaptor.  
+22. The camera should be Hi Speed shuttered USB 3.0 camera for Sequence 
+capturing with: Global shutter, color, 1280 x 1024. 60 frames/sec. CCD 
+Camera to support for 60-90 Fbs/sev. 
+C/CS mount USB connector seamlessly interfaced to Software 
+23. The calibration, IQ, OQ and PQ of the instrument should be performed at the 
+time of installation and certificates should be provided. 
+24. Yearly calibration certificate including temperature calibration verification, test 
+temperature non-uniformity test and performance diagnostic test within 
+warranty as well as in CMC should be provided. 
+25. Sperm chamber and Sperm meter with 10 μ depth not requiring semen dilution 
+should be provided. 
+26. Heating Stage Ambient to 55 ºC fixed to microscope stage should be provided.  
+27. System should be CE-IVD or FDA or BIS approved product. 
+28. Branded Online UPS of 3KVA for one hour backup should be provided. 
+29. Start-up kit for at least 100 tests including all consumables (slide, cover slips 
+etc.) should be provided free of cost for pH, viscosity, morphology and vitality; 
+and 10 Tests of DNA fragmentation, antisperm antibody, nucleoprotein, HOS, 
+fructose, α- glycosidase and zinc. 
+30. Appropriate anti-vibration table with granite top of standard make should be 
+provided to accommodate the instrument, computer system and accessories.  
+31. Document or order copy supporting satisfactory performance from AIIMS/ 
+institute of national importance (minimum one) should be provided.  
+32. Support for induction and follow up training of technical staff, on-site 
+standardization trouble shooting of procedures/tests to be provided by the 
+company. 
+33. Five (5) years warranty and Five (5) years CMC should be provided.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,32 @@
+--- Page 30 ---
+T
+ ender enquiry No. 24/Gen Med/ USG/644/2022-RISH 
+(ADMN) 
+[Type 
+here] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Technical specification of Quantitative USG Machine 
+ 
+1. 
+Measurement site: Calcaneus (Heel bone) 
+2. Scan time: 10 – 15 second 
+3. Measurement: Estimated heel BMD and bone quality index (BQI) 
+4. Obtained from measured broad band ultrasound 
+5.Transducer: 25mm – 100 mm 
+6. Separation range: Automatic adjustment 
+7. Storage capacity: 10,000 – 20,000 patient information 
+8. Coupling method: Coupling gel 
+9. Display: 6 inch – 7 Inch TFT LCD (Colour) 
+10. Touch screen, USB for connection to mouse or keyboard 
+11. Printer: Thermal printer 
+12. Operating voltage: AC 100V – 240V 50/60Hz-130W 
+13. Weight: 10 – 12 kg 
+
+

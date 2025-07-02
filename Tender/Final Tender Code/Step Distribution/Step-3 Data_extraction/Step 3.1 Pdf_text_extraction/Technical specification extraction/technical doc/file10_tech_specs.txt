@@ -1,0 +1,87 @@
+--- Page 10 ---
+Tender for Fundus Fluorescein angiography with Indocyanine angiography                                                   
+Admn/Tender/02-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Fundus 
+Fluorescein 
+angiography 
+with 
+Indocyanine 
+angiography 
+Field angle 
+20-50 degrees  
+Capture modes 
+Color, red-free and red pictures and 
+pictures of the anterior segment, as 
+well as Flourescein angiography and 
+ICG angiography. Live visualization, 
+Automatic multi image montage, 
+Stereo mode for 3D images  
+Filters Optical filters for capture 
+modes 
+Filters for green and blue pictures, 
+filters for fundus autofluorescence 
+images, UV / IR barrier filters 
+Compensation for ametropia 
++35 D … -35 D, continuous 
+Capture sequence 
+1.5-2 seconds (depends on flash 
+energy) 
+Pupil diameter 
+≥ 4.0 mm 
+≥ 3.3 mm (30° small pupil mode) 
+Working distance 
+35-40 mm (patient’s eye – front lens) 
+Capture sensor 
+CCD 24-megapixels 
+Monitor 
+23” TFT (1920 x 1080), connected 
+via medical power supply 
+Fixation targets 
+External and internal 
+Flash energy 
+Xenon flash lamp, 24 flash levels 
+(50-300 Ws) 
+Database 
+Patient information and images with 
+field angle, FA time, R / L 
+recognition and 
+date of visit are stored 
+Operating system 
+Windows XP Professional 
+Hard drive 
+320GB for storage of up to 150,000 
+images  
+Interfaces 
+USB ports and network connectors, 
+VGA (digital) 
+Export / import 
+Supported image formats: DICOM-
+OP and VL, BMP, TIFF, JPEG 
+Patient list, DICOM MWL, DICOM 
+storage, 
+ Internal DVD burner UDF format 
+(DVD, CD) 
+Instrument table 
+Asymmetric, suitable for wheelchair 
+Accessories 
+Network printer, USB memory stick, 
+monitor bracket, sliding keyboard 
+shelf for instrument table, image 
+analysis system, Network isolator 
+OPTIONAL 
+FORUM software to access reports 
+Data & images. 
+ 
+01 
+
+

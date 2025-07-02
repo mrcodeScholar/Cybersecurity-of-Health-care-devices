@@ -1,0 +1,87 @@
+--- Page 10 ---
+Tender for Corneal topography                                                                                 Admn/Tender/05-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Corneal 
+topography 
+1 
+Measuring Technology should be based on Placido disk/  
+Scheimpflug camera 
+2 
+Measurement accuracy - Class A according to the UNI EN 
+ISO 19980-2012 
+ 
+3 
+Field of View 17 mm X 14.5 mm 
+4 
+Placido Rings 22 (18 superiorly, 22 inferiorly) 
+5 
+Analysed Points over 100,000 or Measured points over 
+6.200 
+6 
+Illumination Source - Non-visible infrared (950 nm) LED 
+7 
+Optics Digital CMOS camera with 1280x1024 pixel 
+resolution 
+8 
+Curvature Measurement Range - 15 to 95 D (3.5 to 22.5 
+mm) 
+9 
+Accuracy -   ± 0.05 D (± 0.01 mm) 
+10 
+Reproducibility  ± 0.10 D (± 0.02 mm) 
+11 
+HVID (white to white) Measurement Range 10.0 to 14.0 
+mm 
+12 
+Pupillometry Acquired Images: Dynamic, mesopic, 
+Scotopic and photopic (700 nm) 
+13 
+Measurement Range0.5 to 11.0 mm 
+14 
+Resolution0.1 mm 
+15 
+Views • Axial Curvature, Tangential Curvature 
+16 
+Videokeratoscopic (Rings, Scotopic, Photopic) 
+17 
+ Keratometry, Refractive Power, Mean Curvature, Corneal 
+Wavefront 
+18 
+ OD/OS Comparison 
+19 
+Pathfinder for Corneal Analysis Software 
+20 
+MasterFit for Contact Lens Software 
+21 
+Dimensions • 52 L x 37 W x 50 H (cm) approximately 
+22 
+Weight: Upto 20 kg 
+23 
+Electrical • 100-240V~: 50/60Hz, 2-1A 
+ 
+01 
+
+

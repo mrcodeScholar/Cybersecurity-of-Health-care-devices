@@ -1,0 +1,149 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Pul_Med/18/035/OT/AA 
+ 
+Page 19 of 23 
+ 
+ 
+ANNEXURE-I 
+                                    TECHNICAL SPECIFICATION OF  
+“BROADBASED QR FOR BODY PLETHYSMOGRAPHY WITH DIFFUSION STUDY”  
+                         FOR DEPARTMENT OF PULMONARY MEDICINE 
+ 
+Body Box (Plethysmography Machine) 
+ 
+1. A wide cabin with internal volume range of > 800 litres to provide 
+ease of accessibility and comfort to the patient without effecting 
+volume changes. 
+2. Transparent robust glass walls to ensure visibility from all sides and minimize 
+any claustrophobic feeling for the patient. 
+3. The seat must be ergonomic, comfortable and adjustable in height to bear 
+weight up to 150Kg. 
+4. The arm for the breathing valve support must be flexible enough to allow 
+tests execution even outside the cabin. 
+5. Controlling station should be on a movable trolley. 
+6. Intercom for communication with the patient 
+ 
+I. 
+Test and minimum set of parameter required - 
+ 
+Dynamic lung 
+volumes 
+Measurement of the Forced Vital Capacity (FVC), Slow Vital 
+Capacity (SVC) and Maximal Ventilatory Ventilation (MVV). 
+  Graphic display of Flow/volume, Volume/time loops. 
+Bronchial 
+challenge test 
+a) 
+Measurement of the response to Bronco constriction and    
+      Bronco dilatation, graphic display of fall FEV1. 
+b)  Broncho - Challenge test with Body Plethysmography    
+ (RAW Challenge test) 
+Static lung 
+volumes 
+Measurement of TGV, RV, VC, IRV, ERV, FRC, TLC 
+Airway resistance 
+RAW (Insp, exp, tot), SRAW, GAW, SGAW, Derived 
+parameters 
+Respiratory 
+Machanics 
+MIP/MEP and Respiratory Drive (P0.1) 
+Lung Diffusion 
+Capacity Tests 
+using Helium 
+a) Single-Breath with Apnea 
+b) Single Breath without Breath Holding (Intrabreath). 
+ 
+II. 
+Technical Specifications - 
+ 
+1. Flow meters:  calibration free ultrasonic based flow sensor. 
+ 
+2. CO Analyzer: Preferably Non Dispersive Infrared (NDIR) or ATS/ ERS 
+recommended techniques. 
+ 
+3. Helium Analyzer: The equipment must use Helium as tracer gas and 
+measurement of He preferably by Ultrasonic Mol mass/Thermal Conductivity 
+determination technique/ ATS/ERS recommended technique. 
+ 
+4. Sensors:  
+i. All sensors should preferably be non-consumable or their life should be 
+specified and the bidder should arrange free sensors for the 
+warranty/CMC period. 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Pul_Med/18/035/OT/AA 
+ 
+Page 20 of 23 
+ 
+ 
+ 
+ii. 
+All sensors of equipment should meet the American Thoracic Society 
+(ATS)/ European Respiratory Society (ERS) standard for linearity, 
+response time, and accuracy. 
+ 
+III. 
+Power Supply: The operating AC Voltage range should be 100-240V 
+AC±10% 50/60Hz. 
+ 
+IV. 
+Interface: It should have RS232/USB interface for connecting to a 
+computer. 
+ 
+V. 
+Software:  Latest Software should be supplied with the equipment. The 
+management software should be designed for Windows 10 environment 
+and also should be able to connect to online hospital information system 
+and work flow when necessary with easy data storage and recovery for 
+research purpose. 
+ 
+VI. 
+Essential Accessories: The system should be supplied with all essential 
+accessories required like: 
+1. Trolly 
+ 
+2. All in one Desktop PC, with Intel i7 processor 8GB RAM 1TB hard drive 
+memory, Original Windows 10, 18.5” LED Colour Display monitor.  
+ 
+3.  monochromatic laser printer: 01 
+ 
+4. On line UPS (1 KVA) : 01 to provide power backup up to at least 3hrs 
+ 
+5. Diffusion Test gas cylinder with pressure regulatators: (02 No’s) 
+ 
+6. Anti-Bacterial Filters: 3000 nos. 
+ 
+7. Reusable rubber nose clips: 50 nos. 
+ 
+VII. 
+Quality assurance: 
+ 
+1. The system should have ISO/ BIS/ European CE/US FDA, 
+certifications and should meet latest ATS/ERS standardization 
+guidelines. 
+ 
+2. The company should also provide a certificate stating the model provided 
+in the latest version available. 
+ 
+3. The company should also provide a certificate stating that spare parts and 
+service with available easily for at least next 10yrs. 
+ 
+VIII. Warranty: 
+1. 05 Years onsite Warranty & 05 years CMC of the principal equipment i.e 
+body box with plethysmograph (CMC rates to quote separately). 
+2.  05 years onsite warranty of 
+I. 
+Desktop with CPU 
+3.  
+II. 
+UPS 
+4.  
+III. 
+Printer 
+ 
+3. Training of technician whenever necessary or when requested by the 
+department. 
+ 
+
+

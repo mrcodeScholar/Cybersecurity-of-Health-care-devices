@@ -1,0 +1,72 @@
+--- Page 6 ---
+Tender for Server hosting CPMS & other applications                                                   Admn/Tender/237/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 6 
+ 
+Annexure-I 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Server hosting CPMS 
+& other applications 
+Three (3) Servers interconnected to each other for processing 
+data. Tenure (01 year) 
+Technical Specifications for servers are as follows: 
+1. First Server 
+ 12 CPU Cores (Minimum 2.5 Ghz) with 750 or above CPU 
+Cycles. (With Hyper Threading preferred) 
+ 64 GB RAM 
+ 6 TB Storage Space in RAID 0, 1, 5 
+ Unlimited Bandwidth with 3 Gb/s Port 
+ Dedicated IP's 3 in No.'s 
+ NGINX Basic License 
+ Priority Support (1-5 Minutes) 
+ Backup (External) 6 TB 
+ C Panel (Control & Access Portal (Fully Managed)) 
+ 99.99% Up-time 
+ 3 Gb/s VLAN 
+ Regular Monitoring 
+  
+2. Second Server 
+ 20 CPU Cores (Minimum 2.5 Ghz) with 750 or above CPU 
+Cycles. (With Hyper Threading preferred) 
+ 128 GB RAM 
+ 3 TB Storage Space in RAID 0, 1, 5 
+ Unlimited Bandwidth with 3 Gb/s Port 
+ Dedicated IP's 3 in No.'s 
+ NGINX Basic License 
+ Priority Support (1-5 Minutes) 
+ Backup (External) 6 TB 
+ C Panel (Control & Access Portal (Fully Managed)) 
+ 99.99% Up-time 
+ 3 Gb/s VLAN 
+ Regular Monitoring 
+  
+ 
+3. Third Server 
+ 24 CPU Cores (Minimum 2.5 Ghz) with 750 or above CPU 
+Cycles. (With Hyper Threading preferred) 
+ 256 GB RAM 
+ 6 TB Storage Space in RAID 0, 1, 5 
+ Unlimited Bandwidth with 3 Gb/s Port 
+ Dedicated IP's 3 in No.'s 
+ NGINX Basic License 
+ Priority Support (1-5 Minutes) 
+ Backup (External) 6 TB 
+ C Panel (Control & Access Portal (Fully Managed)) 
+ 99.99% Up-time 
+ 3 Gb/s VLAN 
+ Regular Monitoring 
+01 
+
+

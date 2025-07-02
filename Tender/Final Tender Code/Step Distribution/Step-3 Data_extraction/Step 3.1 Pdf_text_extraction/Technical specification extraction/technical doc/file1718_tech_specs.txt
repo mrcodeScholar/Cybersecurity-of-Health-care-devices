@@ -1,0 +1,104 @@
+--- Page 47 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/Multimode Microplate Reader and Fluorometer 
+ 
+Page 44 of 64 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Multimode Microplate Reader 
+and Fluorometer  
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+ 
+SPECIFICATIONS FOR INSTRUMENTATION FOR NEWBORN SCREENING ON 
+DRIED BLOOD SPOTS/ Multimode Microplate Reader and Fluorometer  
+ 
+ 
+1. Instrument should be capable of carrying out Newborn screening from dried blood 
+spot sample. 
+2. The system should be capable of carrying out the following assays in Newborn 
+screening -G6PD, TSH.T4, IRT, PKU, BIOTINDASE, GALT, TOTAL GALACTOSE & 
+17α-OHP. All assays should be also certified- USFDA/ CE IVD  
+3. The system should work on the principle of time Resolved Fluorometry (TRF) 
+which is accepted globally and is proven, and time tested. 
+ 4. The system must be validated and published on population and at least 3 studies 
+should be supplied for the same.  
+5. The Fluorometer instrument should be supplied with all needed accessories like 
+Automated 
+dried 
+blood 
+spot 
+puncher 
+with 
+workstation(software), 
+Plate 
+shaker(220/240V), washer- disk remover, Plate dispense, Dispense unit, Microplate 
+Incubator Shaker, Platewash; Automatic strips washer, Aneuploidy Risk assessment 
+software, SGE with pre-installed workstation [SOFTWARE] for NBS result 
+Interpretation & data-management required for NBS.  
+6. The system must have at least 3 installations in government institutions of India 
+and provide user list with contact details of the quoted instrument. 
+
+
+--- Page 48 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/Multimode Microplate Reader and Fluorometer 
+ 
+Page 45 of 64 
+ 
+7. Newborn Screening Software should be IVD-certified. 8 Software should provide 
+facility to enter and track patient and contact information, create and maintain rules 
+related to the creation and content of patient reports and statistical information of 
+monitor the performance of the program. 
+9. Software should allow user to enter additional information about a patient, 
+specimen, determination or a case. This information must be viewed, entered and 
+modified if required in various places throughout the application. 
+10. System should have barcode reader for plates and regents, both. 
+11 System should be capable of multipoint calibration with facilities to store the 
+calibration curves and recalibration. 
+12. The system should be supplied with informatics solution to automate the full 
+work-flow of NBS lab-data entry to report generation. 
+13. System should have the capability to do maternal fetal markers for aneuploidy 
+screening additionally 
+14. Supplier must supply allthe required accessory instrument for Prenatal screening 
+(if any additional required). 
+15. The supplier should have the FMF-approved Risk Calculation Software for 
+chromosomal aneuploidy screening 
+16. The system should be USFDA/CE-IVD/EU Certified. 
+17. The system should have easy to perform and maintain Quality control options 
+ 18. The reagents to be supplied should have the essential certification and 
+certificates. 
+19. The reagent kits must contain all the required materials to perform the tests, 
+including the Quality Control materials. 
+20. The system must have informatics system, wherein complete information about 
+Kits, events (log files), Patient-results and Quality-controls could be stored for users 
+to view, as and when required. 
+21. System must have the capability to perform all the Prenatal Screening markers-
+free hCGß , PAPP-A, uE3, AFP, PIGF.  
+22. Should provide onsite training till the technical personal familiarizes with the 
+instrument. 
+ 
+ 
+ 
+ 
+• 
+Technical compliance report should be submitted in following format: 
+
+

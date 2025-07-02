@@ -1,0 +1,103 @@
+--- Page 28 ---
+ 
+E-TENDER Id: AIIMS/BPL/HOSP/19-20/002 Rate Contract for Supply, Installation, Testing and Commissioning of Automated ELISA Reader 
+with Washer for Targeted Surveillance  (Pg No. 28 of 67) 
+ 
+  
+Part-I: Technical Specification and Tentative Quantities of requested Equipment:- 
+ 
+Tender 
+Item No. 
+Equipment 
+Name 
+Technical Specification/ Description of the requested Equipment 
+Qty.  
+(in 
+No.) 
+1 
+Automated 
+ELISA Reader 
+with Washer 
+ELISA READER 
+1. 
+Filter based ELISA Reader with halogen/LED/Xenon Lamp as light source and silicon 
+photo detectors.  
+2. 
+Should have a linear measurement range of 0 to 6 Abs. 
+3. 
+Should compatible to wavelength range from 340 nm to 850nm. 
+4. 
+Should have a photometric accuracy of ±2% or better. 
+5. 
+Should have a resolution of 0.001 Abs. 
+6. 
+Should have variable speed plate shaking capability. 
+7. 
+Should have easy access 8 position filter wheel. 
+8. 
+Machine should be supplied with 4 Standard Filters of 405 nm, 450 nm 492 nm and 620 
+nm and two optional filter between 340 nm to 850 nm. 
+9. 
+Should have automatic filter selection option. 
+10. Should have automatic calibration before each reading. 
+11. Should able to read 96 well format. 
+12. Capable of doing multi standard tests and controls. 
+13. Should be capable of reading U, V and flat type wells. 
+14. System 
+should 
+CE/IVD 
+certification 
+and 
+other 
+necessary 
+supportive 
+certificates/documents. 
+15. The instrument should run in stand-alone mode as well as with computer & software 
+controlled. 
+16. Minimum Computer requirement includes latest version of Microsoft latest Windows with 
+licensed MS Office, Intel Core i7 processor, 4 GB RAM, 2GB Graphic, 1 TB Hard Disk, 
+CD/DVD Drive, Wireless Keyboard, Optical Mouse, and Full HD LED Monitor 17” with 
+Laser Printer. 
+17. System should have USB port for external printer connectivity option for the data printout. 
+18. Software CD should have user license to analyze the data in different user/ computer 
+systems. 
+19. Warranty should be for 03 year. 
+20. Power supply should be 220 V, 50 Hz AC single phase and branded compatible UPS for 
+30 minutes backup with maintenance free battery. 
+ 
+ELISA WASHER 
+1.   Should have capability to wash 96 well micro plate.  
+2. 
+Should have a option for interchangeable wash heads option 1 x 8 or 1x 12 way wash 
+heads. 
+3. 
+Should have programmable washing time, volume and soaking time. 
+4. 
+Should use non-pressurized bottles to minimize the risk of spillage and also choice for user 
+to substitute bottles of different sizes. 
+5. 
+Should provide approx. two 2 Liter wash bottles & One 4 Liter waste bottle. 
+6. 
+Should provide aerosol cover to prevent aerosols of infectious diseases from spreading. 
+7. 
+Should have residual volume less than 1.5 µl. 
+8. 
+Dispensing volume should be 50-400 µl for 96 well. 
+9. 
+Should have USB port for easy data transfer. 
+10. Should have large color screen for easy set-up of wash protocols. 
+11. Should have the liquid level sensors in both the wash and waste bottles to guarantee safe 
+performance. 
+12. Should have plate sensor to recognize if a plate is present or not. 
+13. After using the instrument, the automatic rinse feature can be set to operate in a specified 
+time sequence to ensure that the liquid channels do not get clogged. 
+14. Power Supply should be 220 V, 50 Hz AC single Phase and branded compatible UPS for 
+30 Minutes backup with maintenance free battery. 
+15. The company should provide on sight training for the staff. 
+16. Quoted system should be in market for at least last 3 years to ensure quality and reliability.  
+1 
+ 
+ 
+ 
+
+

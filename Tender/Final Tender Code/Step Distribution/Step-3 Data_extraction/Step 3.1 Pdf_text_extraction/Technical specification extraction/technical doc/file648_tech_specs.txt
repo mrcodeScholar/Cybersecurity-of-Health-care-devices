@@ -1,0 +1,64 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/ANAT/18/64(1)/OT 
+ 
+Page 18 of 21 
+ 
+ANNEXURE-I 
+Technical Specifications for Full Body Inertial 3D suit for real time motion 
+capture system 
+1. 
+Full Body Real time movement Capture is required for Capturing yogic posture  
+through advance inertial sensor technology   Biomechanics fields and should 
+comply with following generic technical specification: 
+2. 
+System should be capable of measuring (i) Rigid body tracking, Basic gait, 
+Individual joint analysis (ankles, knees, hips, back segments, neck, shoulders, 
+elbows). Full single leg (pelvis-foot), Full single arm (shoulder to hand). Two-fold 
+joint analysis (left and right simultaneous analysis of ankles, knees, hips, 
+shoulders, wrists). Full spine (pelvis-neck). (ii) Simple upper body tracking and 
+analysis, Gait analysis (pelvis, both hips and both knees). 
+3. 
+The system should operate on a standard Wi-Fi protocol (2.4GHz and 5GHz). 
+4. 
+Sampling frequency is selectable by the user and can range 20 Hertz up to 400 
+Hz. 
+5. 
+Should have about 17 orientation sensors have provision to work all the sensor 
+at 400 Hz.  
+6. 
+Should have provision for measurements of time-stamped automatically in 
+order to guarantee an actual synchronization and should have accuracy - 
+Pitch/roll<0.5degrees and Heading < 1.0 degrees 
+7. 
+System should be integrated and synchronize with HD video camera. 
+8. 
+System should have provision for automatically generated a report with the 
+results of the analysis. And template for that report can be edited easily by the 
+user. 
+9. 
+System software should have facility for 3d visualization in real time, 
+Biofeedback rule editor, to Create your own lists of real-time events with 
+visual/audio feedback. 
+10. 
+System should be capable to interface with EMG system. 
+11. 
+Software should also be able to capture movement by placing sensors on or 
+near each body joint. As joints move, the positions between sensors are 
+recorded in software, which analyzes angles, velocities, accelerations, and 
+impulses to create a digital movement map. A radio should transmit this data to 
+a receiver, where it is mapped to a skeleton that can be visualized in real-time. 
+Software should have following technical specification  
+• Kinematics Skeleton Software,• Easily record motion capture data 
+• Export to *.BVH format, • Real time visualization, playback and editing of 
+motion capture data 
+• Unlimited capture volume • Should have Short setup time (7min.) 
+• Should have lesser post-processing time 
+12. 
+System should be of international standard. 
+ 
+ 
+ 
+ 
+ 
+
+

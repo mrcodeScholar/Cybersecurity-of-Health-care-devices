@@ -1,0 +1,133 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/BB/19/48/OT/B 
+ 
+Page 19 of 22 
+ 
+ANNEXURE-I 
+ 
+Technical specifications for Multi Functional Therapeutic Apheresis System  
+1 
+The Multi Functional Therapeutic Apheresis System (MFTAS) should have facility for 
+collection of following blood components and therapeutic procedures: 
+a 
+Leukoreduced platelets alongwith concurrent plasma collection. 
+B 
+Plasma collection. 
+C 
+Therapeutic plasma exchange. 
+D 
+RBC exchange. 
+E 
+Collection of peripheral blood stem cells. 
+F 
+Granulocytes. 
+G  Therapeutic Plasma Treatment with adsorption columns. 
+2 
+Fully automatic, microprocessor controlled and continuous flow separation during both single 
+and double venous access. 
+3 
+Have help screen/monitor which can be folded down to enable safe and convenient movement 
+of the equipment to different wards for bedside procedures, have trouble shooting menu, 
+alphanumeric display and extended memory for special procedures and research protocols. 
+4 
+Have simple data entry, enabling operator to enter data directly without manual calculations. 
+5 
+Able to perform priming with normal saline or with mixture anticoagulant and self-test as part 
+of donor safety. 
+6 
+In case of inlet/return line occlusion, machine should be able to alert the operator. 
+7 
+Have provision for saline re-infusion to donor/patient. 
+8 
+Extracorporeal volume should not be more than 200ml. 
+9 
+Be able to regulate and display anticoagulant delivery, should not have bolus return of blood to 
+ensure reduced citrate reaction for donor safety and comfort. 
+10 Have a data port to be connected to a printer and the existing Hospital Information System 
+(HIS). 
+11 Equipped with inline UPS compatible to complete one cycle in case of power failure (at least 1 
+hour backup). Provision for UPS is mandatory with the equipment. 
+12 Have automatic door lock, audiovisual alarms for centrifuge imbalance and improper kit loading 
+and door opened. 
+13 Have Automated Interface Management system for efficient removal of plasma and cellular 
+elements.  Interface detector should be able to continuously monitor the collection line to avoid 
+any unwanted cellular contamination during each protocol. 
+14 Have inbuilt sensors for humidity, temperature so as to detect any leaks or prevent over heating 
+of blood during the procedure. 
+15 Automatic and manual process management for all protocols. 
+16 Have the option of temporarily halting and restart of the procedure, in case of donor discomfort 
+during run. 
+17 Have ramping anticoagulant ratio facility with flag off sign in case of higher ACD rate 
+permissible according to the weight & height of the donor. 
+18 Have automated kit loading facility with minimal operator intervention. 
+19 The firm should supply 10 apheresis kits initially with the equipment for training and 
+standardization at the time of installation. 
+20 Power input to be 220-240 V AC, 50 Hz. 
+21 Conform to standards for electrical safety IEC 60601/IS 13450. 
+22 US FDA/CE/BIS certification is required for the equipment and consumables kits. 
+23 Certificate of calibration and Inspection from the manufacturer. 
+24 Comprehensive training for staff till familiarity with the system. 
+25 Accessories and spare parts should be clearly mentioned and price of each item should be 
+quoted in the price bid. 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/BB/19/48/OT/B 
+ 
+Page 20 of 22 
+ 
+26 Log books with instructions for daily, weekly, monthly and quarterly – Maintenance checklist 
+should be supplied. 
+27 User Technical/Maintenance manuals to be supplied in English. 
+28 
+Warranty for five years. 
+29 
+Comprehensive Maintenance contract for five years after the expiry of warranty and should include 
+maintenance, calibration (6 monthly) and replacement of each and every defective part of the equipment. 
+30 
+Should have local distributor for regular supply of all kinds of kits required for the equipment.  
+31 
+Rate for kits including Single Donor Platelet kit (300 Nos), Therapeutic Plasma Exchange kit (100 Nos), 
+Peripheral stem cell collection kit (50 Nos.)  per year will be considered for price comparative and the 
+rate of the same will be frozen for next seven years. 
+32 
+Original literature of the quoted model should be supplied. 
+33 
+A certificate statement on the company letter head/Notary statement that the product quoted is the latest 
+in the international market with latest technology update within the last 5 years. 
+ 
+Instructions for Online Bid Submission: 
+The bidders are required to submit soft copies of their bids electronically on the CPP 
+Portal, using valid Digital Signature Certificates. The instructions given below are 
+meant to assist the bidders in registering on the CPP Portal, prepare their bids in 
+accordance with the requirements and submitting their bids online on the CPP Portal.  
+More information useful for submitting online bids on the CPP Portal may be obtained 
+at: https://eprocure.gov.in/eprocure/app. 
+REGISTRATION 
+1) Bidders are required to enroll on the e-Procurement module of the Central Public 
+Procurement Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on 
+the link “Online bidder Enrolment” on the CPP Portal which is free of charge. 
+2) As part of the enrolment process, the bidders will be required to choose a unique 
+username and assign a password for their accounts.  
+3) Bidders are advised to register their valid email address and mobile numbers as 
+part of the registration process. These would be used for any communication 
+from the CPP Portal.  
+4) Upon enrolment, the bidders will be required to register their valid Digital 
+Signature Certificate  (Class II or Class III Certificates with signing key usage) 
+issued by any Certifying Authority recognized by CCA India (e.g. Sify/nCode / 
+eMudhra etc.), with their profile. 
+5) Only one valid DSC should be registered by a bidder. Please note that the bidders 
+are responsible to ensure that they do not lend their DSC’s to others which may 
+lead to misuse. 
+6) Bidder then logs in to the site through the secured log-in by entering their user 
+ID / password and the password of the DSC / e-Token. 
+ 
+SEARCHING FOR TENDER DOCUMENTS  
+1) There are various search options built in the CPP Portal, to facilitate bidders to 
+search active tenders by several parameters. These parameters could include 
+Tender ID, Organization Name, Location, Date, Value, etc. There is also an option 
+of advanced search for tenders, wherein the bidders may combine a number of 
+search parameters such as Organization Name, Form of Contract, Location, Date, 
+Other keywords etc. to search for a tender published on the CPP Portal.  
+
+

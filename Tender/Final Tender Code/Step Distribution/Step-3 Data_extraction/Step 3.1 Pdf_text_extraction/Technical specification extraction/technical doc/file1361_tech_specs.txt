@@ -1,0 +1,56 @@
+--- Page 10 ---
+ 
+Tender for Data Acquisition system for Human & Animal Physiology Experiments  
+Admn/Tender/05/2019-AIIMS.GKP 
+AIIMS, Gorakhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+Data Acquisition system for Human & Animal Physiology Experiments 
+The System Should be able to record the Pulse, respiration, Bio-potentials like (EEG, ECG, EMG, 
+EOG etc), hand Grip Strength, BP, heart sound, NCV, HRV, Static posturography, Reflex & reaction 
+time, Peak Analysis, Pulse Transit Time and fore-arm plethysmography etc. 
+Technical Specifications: -  
+ Number of inputs 4 channels.   
+ 2 amplifiers for recording bio-potentials & 2 general purpose amplifiers channels. 
+ 1 stimulation unit capable of delivering square wave pulse of user defined parameters, Voltage 
+range 0-10V, pulse duration range 0.1-1000msec, frequency range 0-100Hz, Current range 0-
+100mA, Integrated and synchronised with software.  
+ Data Sampling frequency more than 10Khz and linked to the computer through high speed 
+USB2 port  
+ Nerve and muscle chamber with holder, clamp, stand, recording and stimulation electrodes and 
+micromanipulator. 
+ High-grade Isotonic transducer range 0.1-2cm with a autozeroing and easy calibration 
+ Facility for ECG leads (I, II, III, aVL, aVF, aVR etc) with real time cardiac axis and vector 
+analysis. 
+ Airtight chamber for forearm along with transducer for plethysmography experiments. 
+ Stethography transducers for breathing experiment.  
+ Four force sensor balance board for body sway analysis that communicate with the software. 
+ Software with step by step instructions, protocol and experimental design for performing 
+various experiments in physiology teaching applications. Also should have sample data for 
+animal experiments for demonstrating to the students. 
+ User friendly software for recording, analysing and printing the data, the software should allow 
+calibration of transducers, display of actual values, controllable gain, filter settings, baseline 
+setting for event marking and annotation. It should be capable of measuring time interval 
+between user selected points, display of data value at user selected point, editing of the records 
+and re-annotation. It should be capable of displaying data in scope mode and chart mode. It 
+should allow calculation of rate, slope from raw channels in offline as well as online mode. 
+ Necessary certificate for safe use for human. 
+ Dual core i5/ processor based desktop computers with DVD RW,8-12 GB RAM, HDD 1TB, 
+19” LED Monitor, Original Windows 10 OS, UPS and suitable printer should be supplied. 
+ Mandatory demonstration and training.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,236 @@
+--- Page 41 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/Bio/03-443/24/GTE 
+Page 41 of 65 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+ 
+Technical specification for Supply and installation of Real Time PCR Machine  
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against  manufacturing defect  
+2. All instruments should be corrosion resistant, autoclavable, BIS approved. 
+3. Manufacturer should be ISO Certified. 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly marking the 
+Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the firms. 
+6. L-1 will be decided on total value only. 
+7. All firms should have supplied the quoted instruments to the reputed central government hospitals 
+like AIIMS, PGI, etc. and should submit a certificate of satisfactory working from the concerned 
+government hospital. 
+ 
+TECHNICAL SPECIFICATIONS FOR “REAL TIME PCR MACHINE”   
+ 
+Technical Specifications of Real Time PCR Machine: 
+1. Real Time PCR Detection System, IVD/RUO model with gradient feature, software, communication 
+cables, power cord and instruction manual, compatible desktop/laptop and 2KVA online UPS with 30 
+min backup should be provided with the system.  
+Specifications for base thermal cycler chassis:  
+2. Memory: >1000 typical programs onboard, mited with USB flash,  
+3. Dimensions: small foot print / compact size, weight: 60lb  
+4. Temperature control modules: calculated & block PCR,  
+5. License: yes, programming options: site-based graphical, text based,  
+6. Automatic security features: password-protected folders, optional log-in, and secured mode for highly 
+regulated environments,  
+7. Reporting: exportable run logs, system error logs onboard. System should be able to detect a 1.3-fold 
+change in gene expression.  
+8. Software should compatible with latest versions of windows and IOS.  
+9. USB peripheral compatibility: mouse, USB flash drive, barcode reader real-time upgrade-6channel at 
+least 5 color 96 reaction modules, cloud connectivity 
+10. Instant incubation: yes, sample capacity: 96x0.2ml tubes, reaction volume 10-50/100ul.  
+11. Ramp rate: 5° to 6° C/sec., average ramp rate: 3.3°C/sec, minimus is better  
+12. Temperature range: 4-99.9°C  
+13. Temperature Accuracy: ± 0.2°C of programmed target at 90°C,  
+14. Temperature uniformity: ± 0.4°C well-to-well within 10 sec. of arrival at 90°C,  
+Gradient: System should have  
+15. Gradient Accuracy: ± 0.2 C of programmed temperature at end rows,  
+16. Row uniformity: 0.4° C well-to-well (within row) within 10 sec of arrival at target temperature:  
+17. Gradient range: 30-100° C, temperature differential range: 1-24 ° C, fast setting time to uniform target 
+temperature.  
+
+
+--- Page 42 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/Bio/03-443/24/GTE 
+Page 42 of 65 
+ 
+18. Ensures better sample-to-sample reproducibility within a run. It also allows shortening of hold times 
+which, in turn, shorten overall run times.  
+19. “Snap-tight”/ “automated” heated lid design- supports low-volume cycling (1microlitre) with locking 
+mechanism.  
+20. Minimizes evaporative loss for reproducible results & thus preserves precious samples  
+21. Whisper quiet operation. System should continue to run and complete a run if the software is stopped or 
+interrupted. This prevents run data from being list in case if there is unintentional interruption of the 
+software. This function is especially valuable for precious or limited samples, whereby all data is not 
+lost for a run that was interrupted.  
+ 22. Multiple instruments can run simultaneously without disrupting lab environment, protocol auto writer 
+automatically writes a temperature protocol based on user-input parameters, writes fast &ultra-fast 
+protocols  
+23. Incredibly simple programming option that requires minimal training for new user, reduces time spent 
+on programming PCR protocols  
+24. It also simplifies writing temperature protocols for reduced run times  
+25. USB memory stick compatible for protocol memory expansion, protocol transfer and log file 
+downloads, 26. Protects file & data by permitting storage on separate hard drives & makes transferring 
+protocols from cycler to cycler easy  
+27. Supports USB peripherals such as mouse and barcode reader onboard Tm & Gradient calculators  
+28. Secured Mode-Protected option for highly regulated environments limits user capabilities and tracks all 
+cycler events.  
+29. Optical reaction module excitation: 6 filtered LEDs  
+30. Detection: 6 filtered photodiodes range: 450-730nm or 6 decoupled filter  
+31. Sensitivity: detects one copy of IL-1β human genomic DNA Dynamic range: 10 orders of magnitude  
+32. Scan time: all channels 12 sec., single channel fast scan 3secs at least 5 gene multiplexing in single tube  
+33. Warranty: 5 years. 
+34. CMC- price of 5 years should be quoted at the time of tender. 
+ 
+ 
+ 
+ Technical compliance report should be submitted in following format: 
+ 
+Sr. 
+No. 
+Item Description as 
+per Tender 
+Complied 
+Yes/No 
+Item Description 
+offered by Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 43 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/Bio/03-443/24/GTE 
+Page 43 of 65 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE document 
+for complete equipment (including Batteries for UPS, other vacuumatic parts wherever 
+applicable) Warranty period will be 5 years from the date of installation, commissioning 
+and 
+Site 
+Modification 
+Work 
+from 
+the 
+date 
+of 
+satisfactory 
+installation, 
+commissioning, trial run & handing over of equipment to Hospital/Institution/Medical 
+College. 
+b) 98% up time Warranty of complete equipment with extension of Warranty period by 
+double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical 
+College on 24 (hrs) X 7 (days) X 365 (days) basis. Complaints should be attended properly, 
+maximum within 8 hrs. The service should be provided directly by Tenderer/Indian Agent. 
+Undertaking by the Principals that the spares for the equipment shall be available for at least 
+10 years from the date of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents 
+(if 
+they have the requisite know-how) for operation and maintenance of the equipment to the 
+satisfaction of the consignee. The same will be in line with the training modalities as 
+specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes preventive 
+maintenance including testing & calibration as per technical/ service /operational manual 
+of the manufacturer, labour and spares, after satisfactory completion of Warranty period 
+may be quoted for next 5 years on yearly basis for complete equipment 
+(including Batteries 
+for UPS, other vacuumatic parts wherever applicable) and Site Modification Work (if any). 
+The supplier shall visit each consignee site as recommended 
+in the manufacturer’s technical/ 
+service /operational manual, but at least twice in six months (i.e. 4 preventive maintenance/ 
+year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of any 
+such 
+stipulation the price will be taken inclusive of such taxes and no claim for the same 
+will be 
+entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be taken at Net 
+Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory completion of 
+said period, duly certified by end user on receipt of bank guarantee for 5% of the cost of the 
+equipment as per Section XV valid till 2 months after expiry of entire CMC period. 
+e) There will be 98% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 365 
+(days) basis, with penalty, to extend CMC period by double the downtime period. 
+f) During CMC period, the supplier is required to visit at each consignee’s site at least twice 
+in 6 months (i.e. 4 preventive maintenance/ year) apart from all breakdown visits, 
+commencing from the date of the successful completion of warranty period for preventive 
+maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+
+
+--- Page 44 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/Bio/03-443/24/GTE 
+Page 44 of 65 
+ 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the Bank 
+Guarantee for Annual CMC. 
+i) The payment of CMC will be made as stipulated in GCC Clause 21. 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to be 
+installed, in consultation with HOD of Hospital/Institution/Medical College concerned. Site 
+Modification Work details of each Hospital/Institution/Medical College are given at the end 
+of Technical Specification. The Tenderer to quote prices indicating break-up of prices of the 
+Machine and Site Modification Work of each Hospital/Institution/Medical College. The Site 
+Modification Work costs to be quoted in Indian Rupee will be added for Ranking Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation the 
+price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer’s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it’s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard IEC- 
+60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is not 
+available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management 
+information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period 
+ 
+ 
+
+

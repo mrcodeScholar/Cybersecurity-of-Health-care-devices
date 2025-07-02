@@ -1,0 +1,71 @@
+--- Page 11 ---
+Tender for Analgesiometer-tail flick (Digital)                                                           Admn/Tender/144/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Analgesiomete
+r-tail flick 
+(Digital)  
+This Tail Flick Unit is required to perform rapid precise screening of 
+analgesic drugs on the rat and mice tail.  
+Operational Requirements  
+Microprocessor based system required with PC connectivity  
+Technical Specifications  
+Should consist of an I.R. source, whose radiant energy of adjustable 
+intensity is focused on the rat tail.  
+Restrainers should be available to be used with rat and mice.  
+The instrument should automatically detect the withdrawal latency to 
+the nearest 0.1 s.  
+The Experimental data can be directly exported to the PC USB or 
+serial ports.  
+Dedicated Data Acquisition Software Package.  
+Standards, Safety and Training  
+Should be CE / BIS approved product  
+Calibration/Acceptance test certificate from the factory required.  
+Manufacturer/Supplier should have ISO certification for quality 
+standards.  
+Should have local service facility .The service provider should have 
+the necessary equipments recommended by the manufacturer to carry 
+out preventive maintenance test as per guidelines provided in the 
+service/maintenance manual.  
+User/Service Manual in English (Both soft and hard copy) 2 Nos must 
+be provided  
+Bidders are encouraged to arrange for demonstration of their 
+equipment if not able to comply with all specification requirement. 
+01 
+
+

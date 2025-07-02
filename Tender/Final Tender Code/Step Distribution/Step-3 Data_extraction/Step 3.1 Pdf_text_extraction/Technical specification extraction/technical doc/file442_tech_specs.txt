@@ -1,0 +1,75 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiotherapy/265/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+ 
+ 
+Technical Specifications for Marker Free Patient Monitoring System 
+The system must be MOSAIQ compatible means there should be interfacing between MOSAIQ and the 
+instrument. The system must consist of the following 
+ 
+L200, laser scanner  
+4D application software 
+Daily check Device 
+Remote Control and Receiver 
+01 
+Respiration 
+Software module for monitoring of respiratory motion and generating a gating signal 
+01 
+CT Philips 
+Interface to Philips Bigbore CT simulator for prospective or retrospective gating of a 
+CT, according to the gating signal produced by the respiration module. 
+Prerequist: Philips 4DCT interface 
+01 
+Visual Coaching in 4DCT and Gating 
+System consist of: 
+Goggles 
+Cables 
+KVM extender 
+Computer and Computer screen for control room 
+Computer screen for treatment room 
+Mouse & keyboard 
+Projection and camera unit 
+c4D application software 
+Daily check device 
+Three color indicator 
+Remote control and receiver 
+01 
+4D server 
+Database server software for using catalyst/Sentinel systems in networked multi user 
+environment 
+01 
+Position 
+Software module for interactive patient positioning and verification using non rigid 
+registration with deformable algorithm 
+01 
+Motion 
+Software module for tracking of patient motion using non rigid registration with 
+deformable algorithm 
+01 
+Dicom 
+DICOM interface for import of patient data and reference surfaces 
+01 
+Mosaiq 
+Interface to Elekta Mosaiq for synchronization of patient selection and couch control 
+01 
+ 
+Terms & Conditions 
+ 
+The equipment must be US FDA and EU approved. 
+ 
+There must be minimum 5years of CMC/AMC warranty of the equipment. 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiotherapy/265/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+ 
+Training of minimum two Radiation Oncologists and one Medical Physicist onsite as well as overseas. 
+
+

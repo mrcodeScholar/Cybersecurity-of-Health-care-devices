@@ -1,0 +1,102 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neonatology/373/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+ 
+Item: Whole Body Hypothermia System with Cerebral Function Monitor for Neonates 
+ 
+Specifications: 
+ 
+The unit should for dedicated neonatal use and should be comprise of both:  
+A. Whole Body Hypothermia System 
+B. Cerebral Function Monitor  
+ 
+Whole Body Hypothermia System 
+1. Micro-processor portable based servo-controlled whole body cooling system. 
+2. Should have single tank and single hose for cold and hot chemical and same chemical must be 
+bacteria free. 
+3. Tank capacity should be less than 300 ml and need not fill the tank again and again during the 72 
+hrs cooling & up to 12 hrs re-warming. 
+4. System should be free from day to day cleanness of tank and tank should be bacteria free. 
+5. Should have reusable single mattress which can cover whole body of the infant. 
+6. Should be able to cool body up to 33°C. 
+7. Ability to re-warm body to normal temperature. 
+8. Continuous display of target and set temperature. 
+9. Should have oesophageal or rectal probes to monitor core temperature. 
+10. Should work for a neonate weighing up to 5 kg. 
+11. Alarms for high and low temperature, electricity failure. 
+12. Product should be approved by US-FDA/CE European/ISO/BIS. 
+13. Should include Mattress/Blanket (Mattress/Blanket allow more family contact without 
+compromising patient temperature and Mitters/Booties to be supplied optionally. 
+14. Should have Self-sealing/insulated blanket hose. 
+15. The unit supply with trolley which should have following facility. 
+a. Should be provided with 360° swivel type lockable 4 castor wheels. 
+b. Should have a bumper guard. 
+c. Should have a front storage drawer. 
+ 
+Specifications of the Cerebral Function Monitor 
+ 
+1. Easy to Transport (software installed on a palm based PC for transport). 
+2. Up to 4 babies recorded / reviewed on one monitor at the same time. 
+3. Reviewing one baby whilst recording another. 
+4. Synchronised video with real-time Playback. 
+5. Displays aEEG, EEG, Impedance, Compressed / Density Spectral array, Heart Rate Variability 
+ECG, SpO2. 
+6. Interface with rSO2. 
+7. Adjusts speed and amplitude of EEG / aEEG. 
+8. Seizure detection via high Amplitude alarms. 
+9. Impedance alarm set by user 
+10.  Alarms: High Amplitude and High Impedence  
+11. Calibration: Square Wave Generator  
+12. Impedance measurement: Built-in impedance meter 0-30 kOhm at 10 Hz 
+13. Power supply: 3,6 Volt internal LiIon Battery, 5 Volt external medical grade, power supply 
+14. Senstivity Should be 1.2 uV to 500 uV / Division  
+15. Environment: Temperature: 15-35° C – Relative humidity: 20-80%, non-condensing – Altitude: 
+0-10000 m 
+16. Filters: Low Frequency Filter: 0.2 Hz to 100Hz 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neonatology/373/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+17.  High Frequency Filter: 0.2 Hz to 100 Hz 
+18.  Notch Filter: 50/60 Hz 
+19. Sampling Frequency should be 256 Hz 
+20. Wireless connection to PC to avoid cables in NICU. 
+21. PC can be networked to allow archiving, storage, review and printing. 
+22. Traces can be imported and exported to memory stick. 
+23. Memory stick can have viewing software installed for ease of viewing on any PC. 
+24. No licence charge for software installation on any PC. 
+25. Automatic on line report writing via word pad. 
+26. Connects to any printer (USB / Wireless). 
+27. Unipolar (cross cerebral) and Bi Polar (left and right) monitoring. 
+28. Tablet available for use in transport. 
+29. Export EEG data to EDF format for further analysis. 
+30. 6-hour battery back-up. 
+31. User defined Event Markers. 
+32. Equipment should be marked by the European CE/ISO/BIS. 
+General 
+1. Comprehensive warranty & CMC for at least 5 years from date of installation with at least 3-
+monthly visits for routine checking and whenever called for troubleshooting 
+2. Consumables should be provided as per CMC for 5 years.  
+3. List of consumables should be quoted separately and rates should be frozen for a period of next 5 
+years beyond warranty/CMC. 
+4. Onsite physical demonstration/training of the equipment to all the end users with all the 
+requested facilities will be mandatory 
+5. Documentation  
+a. User/Technical/Maintenance manuals to be supplied in English  
+b. Certificate of calibration and inspection from factory 
+6. General requirement for Electrical safety of Medical Equipment  
+7. Should have local service facility 
+8. The service provider should have the necessary equipment’s recommended by the manufacturer 
+to carry out preventive maintenance test as per guidelines provided in the service/maintenance 
+manual 
+ 
+ 
+
+

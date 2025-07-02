@@ -1,0 +1,82 @@
+--- Page 10 ---
+Tender for CTG Machine  
+ 
+                                                                            Admn/Tender/147/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+CTG 
+Machine  
+1. 1  7" wide TFT Colour LCD Screen for Fetal Heart Rate, Uterine 
+Contractions & Fetal Movement. 
+2.  LCD Screen shOuld be tiltable, rotatable and can be fixed at any 
+angle from 0-90 degree  
+3. It should have display modes of Trend mode, Number mode & 
+Graph Mode.  
+4.  It should have alarm functions in all movement.  
+5.  It should have facilities to increase/ decrease/mute alarm sounds.  
+6.  It should have Automatic track & hold facility. 
+7.  It should have high sensitivity less than 1 MHz.  
+8.  FHR upper limit should be 130-240 BPM & lower limit should be 
+30-150 BPM.  
+9.  It should have Fetal Heart Rate & Uterine Pressure recording 
+system.  
+10.  It should have automatic & Manual Fetal movement detection. 
+11.  It must have a fetal waker device to stimulate the sleeping fetus 
+for more accurate fetal heart rate. 
+12.  It should have inbuilt thermal recorder.  
+13.  It should have battery backup.  
+14.  It should have a built in memory for 450 hrs to save patient graph 
+data.  
+15.  It should have Twin Fetal Monitoring system.  
+16.  FHR & UC (Uterine Contraction) Probes should have a slot 
+guided connecting mechanism to the main unit.  
+17.  It should have print speed of 1, 2, 3cm/min.  
+18.  It should have automatic paper feeding system.  
+19.  It should have safety standard certificate like CE or FDA.  
+It should be supplied with standard accessories  
+• US probe/FHR probe  - 2 nos. 
+ • Toco Probe  
+ 
+- 1 no. 
+ • Event Maker Jack 
+ - 1 no. 
+ • Print paper 
+ 
+ - 10 rolls 
+ • Power adapter & Cord  
+- 1 no. 
+ • Ultrasound Gel  
+ 
+- 4 no. 
+ • Probe Belt  
+ 
+- 3 sets  
+• Trolley to keep the fetal monitor/ machine - 1 no. 
+ 
+02 
+
+

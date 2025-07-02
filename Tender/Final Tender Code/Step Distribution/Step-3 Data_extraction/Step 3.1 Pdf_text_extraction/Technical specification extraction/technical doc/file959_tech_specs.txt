@@ -1,0 +1,39 @@
+--- Page 41 ---
+                                                                  
+                                                              Tender No. AIIMS/R/CS/ENDO/309/22/GTE 
+ 
+ 
+SECTION – VII 
+TECHNICAL  SPECIFICATIONS  
+ 
+1. Type: Both mydriatic and non-mydriatic 
+2. Must have retinal image montage, HDR & colour and Red free imaging facility. 
+3. Should be table mounted product. 
+4. Should have ergonomic chin rest designed for patient comfort and stability 
+5. Camera sensor resolution: minimum 6 megapixel 
+6. Field of view: 45 degrees and above 
+7. Should have refractive power compensation for ametropia with a focus range of -15 D to +15 D or 
+wider 
+8. Power Supply Source: AC100-240 V, 50/60Hz 
+9. Should be compatible with Windows PC with facility for image storage in a secondary device such as 
+desktop or a laptop 
+10. Mode of connectivity to other device: USB 3.0 port 
+11. Supporting latest computer system should be supplied along with the device (having minimum 
+configuration- Intel i3 processor or better, 8 Gb RAM or better, hard disk 1000 GB or better, 2.4 Ghz 
+processor or better, USB port , Windows 10 OS 64 bit, PDF reader) 
+12. DVD and CD Writer should be provided with system 
+13. Image viewer and archive software should be provided with facility for data storage, data transfer, 
+image archiving, image analysis 
+14. Should be DICOM compliant and telemedicine ready. AI will be an added advantage. 
+15. Should be supplied with a motorized table and patient stool 
+16. Should be USFDA or European CE or BIS approved product. 
+17. Should be ISO 13485:2016 certified 
+18. Should be brand new and unused. 
+19. Warranty: 3 years or more which should include (but not limited to) preventive maintenance visit one 
+in each quarter. 
+ 
+ 
+ 
+ 
+
+

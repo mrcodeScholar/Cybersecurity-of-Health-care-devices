@@ -1,0 +1,81 @@
+--- Page 10 ---
+Tender for Portable USG with Echocardiography Probe                                               Admn/Tender/198/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Tender for  
+Portable USG 
+with 
+Echocardiogra
+phy Probe 
+1. Unit should be able to give high quality images with advance technologies 
+like compound imaging with at least 5 sights of lines for better cardiac 
+contrast resolution, tissue differentiation and edge detection, equivalent to 
+high end cart based systems. 
+2. System should be able to support speckle reduction imaging for better 
+tissue differentiation and edge enhancement. 
+3. System should have both online (Read) as well as offline (Write) zoom 
+facility. 
+4. Imaging modes of Real time 2D, Colour Doppler, Pulsed wave Doppler, 
+Continuous wave Doppler, Power Doppler must be available on all cardiac 
+transducers. 
+5. System must have fast start up to scanning in less than 30 seconds from 
+off condition, for use in critical and emergency situations.  
+6. System should support transducer technologies like TEE (Trans-
+esophageal echo), phased array, convex, linear etc.  
+7. Cine memory on all modes.  
+8. The system shall process a dynamic range that is at least 165db. The 
+system must display at a maximum depth of 35 cm. 
+9. The system must have a dedicated cardiac calculation packages with 
+PISA, TDI calculation packages and vascular calculations package. 
+10. The unit must be compact, portable and lightweight, weighing less than 5 
+kg.  
+11. Unit must be sturdy, resistant to breakage & damage on  hit against the 
+wall or hard surface.  
+12. Flat LCD/ TFT monitor of at least 15 inches with flicker free image. 
+13. Alphanumeric soft keys keyboard with easy access scans controls, 
+facility to sanitize the system including keyboard to avoid cross-
+contamination.  
+14. The system must have the ability to function by AC/DC or battery power 
+with the same degree of functionality, the battery life (run time) shall be al 
+least 2 (Two) hours, this need to be demonstrated.   
+15. The system must have archive capability for storage and retrieval of 
+images and clips data. 
+16. The system shall support the all DICOM functionality, Storage, Print, 
+and Work List, also ready to connect to PACS. 
+17. System should possess software for Enhanced Needle Visualization to 
+track the needle clearly at steep angles during the procedures while 
+maintaining striking image quality of the target structures and the 
+surrounding anatomy with simple On/Off functionality. This Facility should 
+be available on both High frequency Linear and Curvilinear probes for 
+superficial as well as deeper blocks. 
+18. The system and transducers should be both USFDA and European CE 
+certified. 
+19. Following transducers to be supplied as standard   
+a. Curvilinear 2-5 MHz +/-1 with foot print size 50-60 mm for Nerve, 
+abdominal & FAST applications. 
+b. High Frequency Linear transducer 6-12 MHz +/-1 with foot print in 
+between 35-40 mm for vascular access, small parts, Nerve Blocks.  
+c. 1-5 MHz +/-1 broad band phased array transducer18-22 mm for cardiac 
+applications. 
+d.5-12 MHz +/-1 with foot print size less than 30 mm broadband linear array  
+for vascular, nerve, superficial, and venous ultrasound 
+e. Mobile Cart with transducer holder.  
+20. The firm must have minimum of 25 installations of the same model in 
+India, attach list of installations, and also provide performance certificates. 
+01 
+
+

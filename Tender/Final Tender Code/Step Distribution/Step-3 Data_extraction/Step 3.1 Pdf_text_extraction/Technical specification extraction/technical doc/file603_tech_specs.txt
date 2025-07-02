@@ -1,0 +1,131 @@
+--- Page 17 ---
+NIT No. AIIMS/R/CS/Gen.Sur./15/003/PAC. 
+ 
+ 
+ 
+Seal &Sign of Bidder …………………………. 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 19 
+Annexure-I  
+ 
+TECHNICAL SPECIFICATIONS 
+ 
+TECHNICAL SPECIFICATION FOR HIGH FREQUENCY ADVANCE 
+ELECTROSURGICAL UNIT ESG-400 (THUNDERBEAT). 
+ 
+1) Should be compatible for Laparoscopic and Open Surgery  
+2) Should be compatible with existing Ultrasonic Generator USG 400 
+3) Should have facility to deliver both ultrasonic and bipolar energy for simultaneous 
+rapid tissue cutting and coagulation 
+4) The high frequency unit should have Monopolar & Bipolar modes to cover all OR 
+requirements  
+a. Monopolar Cut Modes : 
+i. Pure Cut for continuous cutting 
+ii. Blend Cut for Continuous cutting with Coagulation 
+iii. Pulse Cut Slow for Intermittent cutting with long coagulation 
+iv. Pulse Cut Fast for Intermittent cutting with short coagulation 
+ 
+b. Monopolar Coagulation Modes :  
+i. Soft Coag for Soft and deep coagulation 
+ii. Power Coag for Fast coagulation and dissection 
+iii. Forced Coag for Fast coagulation 
+iv. Spray Coag for Contact-free superficial coagulation 
+ 
+c. Bipolar Cut Modes : 
+i. Bipolar Cut for Continuous cutting 
+ii. Saline Cut for Continuous cutting in saline 
+ 
+d. Bipolar Coagulation Modes : 
+i. BiSoft Coag for Soft coagulation (+/- Autostart) 
+ii. Auto Coag for Soft coagulation with Autostop 
+iii. Saline Coag for Coagulation in saline 
+iv. Hard Coag for Clamp coagulation with Autostop 
+v. Fine Coag for Fine coagulation 
+vi. RF coagulation for deep tumor ablation with autostop 
+ 
+5) Should provide simultaneous reliable hemostasis and transaction of up to 7mm 
+vessels with a single instrument. 
+6) Should have minimum lateral thermal spread which is not more than 1 mm  
+7) Device should have dedicated seal and seal & cut mode by hand activation as well as 
+foot switch without exchanging the instruments. 
+8) Should have high resolution LCD and Touch Screen user Interface for fast and 
+setup, operation and on screen diagnostics 
+9) Should have onscreen warning display for generator overheating, generator 
+software upgrade, hand piece error and instrument errors 
+10) Should have a short boot time preferably less than 6 Seconds 
+11) Should have built-in regulated fan 
+12) Should have facility for software update vide a USB device 
+13) Should have memory function with characters 
+
+
+--- Page 18 ---
+NIT No. AIIMS/R/CS/Gen.Sur./15/003/PAC. 
+ 
+ 
+ 
+Seal &Sign of Bidder …………………………. 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 19 
+14) Should have 4000 times feedback control cycle per second 
+15) Should have Fast Spark Monitor that ensures smooth and reproducible cutting in 
+varying tissue (e.g., muscle & fat) 
+16) Should have Automatic Saline Detection mode 
+17) Should be supplied with Disposable patient plates  
+18) Instrument recognition and automatic application of default settings for ease of use. 
+19) Provision for automatic mist and smoke evacuation to maintain a clear laparoscopic 
+view reducing delays associated with compromised visualization when combined 
+with Co2 gas insufflator. 
+20) The device should be FDA approved and/or European CE certified  
+21) High Frequency device should have CF type Protection against electric shock 
+22) The system should conform to the international standards EN (IEC) 60601-1, EN 
+(IEC) 60601-2-2, EN (IEC) 60601-1-8 
+23) Device should be supplied with following instrumentations: 
+a) Advanced HF Generator with Foot Switch. 
+b)  Communication Cables 
+c)  Autoclavable Transducer with cable (1 piece) 
+d)  5 mm caliber hand activated coagulating shears for laparoscopic 
+surgery and capable of sealing blood vessels up to 7 mm diameter, 
+shaft length of 35-40 cm and with an ergonomic handle (08pcs) 
+e) 5 mm caliber hand activated coagulating shears for open surgery and 
+capable of sealing blood vessels up to 7 mm diameter, shaft length of 
+20-25 cm and with an ergonomic handle (02pcs) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

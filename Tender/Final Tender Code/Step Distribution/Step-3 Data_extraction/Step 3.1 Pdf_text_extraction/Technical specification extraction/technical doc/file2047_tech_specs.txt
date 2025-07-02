@@ -1,0 +1,367 @@
+--- Page 17 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/393/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 17 
+ 
+3.Vendor should be responsible for supply Installation and Maintenance of all equipment During Five years warranty  
+   followed by Five years CAMC Period . 
+4.HDU to be equipped with Follwoing Equipment  
+ 
+a) Multiparameter Patient Monitor – 5 nos  
+b) Multiparameter Monitor with Continuous Non Invasive Haemoglobin Monitoring – 1 nos 
+c) Advance ICU Ventilator- 2 Nos   
+d) Mobile Operation light- 1 no 
+e) Syringe Infusion Pump- 8 nos 
+f) 
+Suction Unit -  1 no  
+g) 12 Channel ECG Machine – 1No 
+h) Biphasic Defibrilator with AED and pacing – 1 no 
+i) 
+Blood Gas Analyser- 1 no 
+j) 
+Crash Cart – 1 no 
+a)  Specification for Multi-parameter Patient Monitor 
+1. Patient Monitors should be design to use in general and critical care area. 
+2. Monitor should be designed as per the international standards and comply European CE or USFDA or BIS 
+standard. 
+3. Monitor should have at least 15” color back light LED screen and display 8 waveforms. 
+4. All the information should be access through touch screen as well as rotary knob. 
+5. Should have latest Cooling technology based on NO fan design. 
+6. Should have at least 120 hrs trends. 
+7. Should have 48 hrs full disclosers 
+8. Monitor should measure 3/5 Lead ECG, Resp, SpO2, NIBP and Dual Temp. 
+9. ECG - 3/5 lead ECG with ST segment analysis. 
+10. Should have multi lead arrhythmia analysis of at least 22 different classifications. 
+11. Should have QT analysis. 
+12. Heart Rate – 15 to 300 bpm. 
+13. Respiration range should be upto 120 rpm 
+14. Should display SpO2 with perfusion index. 
+15. Should have NIBP monitoring with operation mode manual, auto and STAT. 
+16. Dual Temperature and range should be 0- 50 degree. 
+17. Should have dual IBP  
+18. Should have side stream etCO2 monitoring. 
+19. Should have audio / visual alarms. 
+20. Should have VGA output to connect external display.  
+21. Should have lithium-Ion battery backup of at least two hours. 
+22. Should have facility for bed to bed view and ready to connect with central station if required. 
+23. Each Monitor should be supplied with following accessories –  
+a. ECG 5 Lead – 2No 
+b. SpO2 Sensor, Adult – 2No 
+c. SpO2 Sensor, Pedi – 1No 
+d. NIBP cuff, Adult – 2No 
+e. NIBP cuff, Pedi – 1No 
+f. 
+Skin Temperature – 1no 
+g. IBP Cabel with 10 set of IBP disposable transduce kit 
+h. etCO2 water trap and sampling line – 10 pcs each  
+i. 
+Wall mount – 1no 
+ 
+ 
+ 
+
+
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/393/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+b) Multiparameter Monitor with Continuous Non Invasive Haemoglobin Monitoring  
+1. Patient Monitor suitable for Non-invasive Monitoring of Continuous Haemoglobin, Fluid Responsiveness, 
+Perfusin Index, Pulse Oximetry and Pulse rate in patients. 
+2. Should provide continuous Non Invasive Haemoglobin measurement and display to enable clinician manage 
+blood transfusions during and after surgeries. 
+3. Should be able to measure Continuous Non invasive Haemoglobin, SpO2, Pulse rate, Perfusion Index and 
+Fluid responsiveness (Pleth variability) through same single finger sensor. 
+4. Bedside monitor should have selectable SpO2 averaging Modes-3, 4, 8, 10, 12, 14 or 16 seconds & 
+Sensitivity-APOD, Normal and Max. 
+5. Monitor should have Multitouch Backlit TFT LCD Colour Display with Adjustable Brightness. 
+6. Should have inbuilt battery back up for at least four hours. 
+7. Patient monitor should have rotational colour touch screen with automatic change to horizontal or vertical 
+view. 
+8. Patient monitor should have facility to customize display to see parameter, waveforms or trends. 
+9. Patient monitor should have trend function with facility to select one or two parameters and move, expand 
+or  collapse parameter trend for real time analysis. 
+10. Should have facility to store patient parametric data and display trend up to 96 hours at 2 seconds sampling 
+rate. 
+11. Should have user configurable display setings and alarms for patient parameters. 
+12. Should have Audible and visual alarms for High/Low Haemoglobin (SpHb), High/Low SpO2, high/Low Pulse 
+rate, high/Low PVI, Probe off, cable disconnect and low battery. 
+13. Display and measurement Range 
+a. Total Haemoglobin (SpHb)-0-25g/DI 
+b. Oxygen Saturation (SpO2)- 0-100% 
+c. Pulse Rate (PR)-25-240 bpm 
+d. Perfusion index (PI)-0.02-20% 
+e. Pleth Variability Index – 0-100% 
+14. Accuracy 
+a. Total Haemoglobin : 8-17g/DI 
+Accuracy : ± 1 g/DI 
+b. Saturation Range : 70 % to 100 % 
+Accuracy : ± 2% 
+c. Pulse Rate 25-240 bpm 
+Accuracy : ± 3 bpm 
+15. Resolution 
+a. Total Haemoglobin (SpHb) -0.1g/DI 
+b. Oxygen Saturation (SpO2)-1 % 
+c. Pulse Rate (PR) – 1 bpm 
+d. Perfusion Index (PI) – 0.01 % 
+16. Monitor should meet international quality and safety standards and should be USFDA or European CE or 
+BIS approved product. 
+17. The vendor should quote price for sensors valid for atleast three years 
+a. The patient Monitor should be supplied completer with Sensor for Continuous Haemoglobin, PVI, 
+SpO2, PI – 10 nos 
+c) specification for Advance ICU Ventilator 
+1. Ventilator should be based on latest art of technology. 
+2. Should have high resolution 12.1” touch color display. 
+3. Ventilator should have the following mode of ventilation –  
+IPPV/CMV, PCV, Assit control (in pressure and volume mode), SIMV (in Pressure and volume 
+mode), Pressure support, CPAP with PS and apnea back up ventilation 
+4. Should have advance mode like BIPAP / Bivent / Duoleve, APRV and PRVC / Autoflow 
+5. Should have non Invasive ventilation with leakage compensation. 
+6. Should have the following set parameters –  
+Vt : 20 – 2000 ml,  
+Frequency :up to 80 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/393/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+I:E ratio : 4:1 – 1:10 
+Inspiratory pressure up to 80 cmH2O 
+Inspiratory time up to 2 sec 
+Pressure support upto 40 cmH2O. 
+7. Should have flow and pressure trigger both. 
+8. Should be able to deliver flow 180 lpm or more 
+9. Should have the special function like Sigh, suction support, manual expiratory and inspiratory hold. 
+10. Should display at least three continuous waveforms at a time. 
+11. Should display real-timewaveform and loops. Like - Paw Vs time, Flow Vs time, Vol Vs time, Paw-Vol, Flow 
+– Volume and Paw-Flow. 
+12. Should have monitoring of following parameters –  
+Inspired & expired tidal volume,  
+Minute Volume, MV Leak and MV spontaneous. 
+Airway pressure – Peak, Mean, Plateau 
+Frequency – Mandatory and spontaneous 
+PEEP, R, C, and FiO2 
+13. Should have advanced monitoring like intrinsic PEEP, volume trap, Occlusion pressure, NIF, RSBI, and 
+WOB.  
+14. Should have physiological / technical alarms airway pressure high/low, FiO2, frequency, MV, etc. 
+15. Should have at least latest 24 hrs. 
+16. Should have reusable flow sensor. 
+17. Should have autocalvable expiratory valve and supplied with 2 No with each unit. 
+18. Should have autoclavable and removable inspiratory valve. 
+19. Main unit should have at battery backup of at least 60 mins. 
+20. Should have inbuilt nebulizer control  
+21. Should have in built or external compressor mounted on trolley and should generate flow up to180 lpm or 
+more. 
+22. Ventilator should have option to upgradable to etCO2 and display real-time capnogram on ventilator screen 
+and measures ViCO2, VeCO2. 
+23. Ventilator should be supplied with trolley and hinged arm of same manufacturer make. 
+24. Ventilator should be supplied with two set of reusable adult circuit and one set of Pediatric circuit. 
+25. Ventilator should supply with 10 no of disposable Hose with HME filter. 
+26. Should have European CE or USFDA or BIS. 
+27. Equipment should be demonstrated and compliance statement should be supported with brochures and 
+technical data sheet. 
+d)  specification for Mobile Operation Light  
+1. Mobile OT Light should be LED based designed as per the European CE or US FDA or BIS. 
+2. Light dome should be mounted on the durable and sturdy mobile trolley having four wheels with breaks. 
+3. Should have at light intensity of 70,000 lux. 
+4. Should at least six LED. 
+5. Should have variable intensity control. 
+6. LED service life should be at least 50,000 hrs 
+7. Should have color temperature of 4350 k. 
+8. Should have CRI 96  
+9. Should have light field diameter of 170 mm 
+10. Should have depth of illumination approx. 700 mm 
+11. All the light control should be embedded on dome of the mobile OT Light. 
+12. Spring arm should go 45 degree up & down. 
+13. Should have internal battery back of at least 8 hrs. 
+14. Should be supplied two sterilizable & reusable handle. 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/393/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+ 
+e) Specification for Syringe Pump 
+1. Syringe pump should be designed for multipurpose uses and should be compatible with 5, 10, 20, 30 and 
+50 ml syringes. 
+2. Should have front loading facility. 
+3. Should have rate mode, Time mode and Body weight mode function  
+4. Should be compact in design and weight should be less than 2Kg. 
+5. Should have flow rate up to 1200 ml / hr 
+6. Should have function of KVO. 
+7. Should have bolus rate upto 1200 ml/hr 
+8. Should have pause and key pad lock function. 
+9. Should have accuracy level of +/- 2% 
+10. Should have titration function as a standard function.  
+11. Should have anti bolus function. 
+12. Should have alarm for Syringe not inserted correctly VTBI done, VTBU near done, Occlusion, KVO finish, 
+Syringe near empty, Batter low etc 
+13. Should have three level occlusion alarms – Low medium and High. 
+14. Should have at least 200 drug libraries. 
+15. Should have lithium battery with back up of 6 hrs. 
+16. Should be designed as per European CE or US FAD or BIS standard  
+f) 
+Specification for Vacuum Suction Pump 
+1. Should have automatic, programmable & electronic microprocessor controlled vacuum extractor with LCD 
+display 
+2. Should have automatic Vaccum control for increased safety with sensor monitored vacuum 
+3. Should have automatic vacuum generation and reduction with pre selectable parameters 
+4. Should have suction capacity minimum -625 mmHg 
+5. Should have airflow rate minimum of 36 L/ min capacity (2ltr +/-) 
+6. Should have hygienic hydrophobic bacterial filter with filter change indication available on display 
+7. Should have electronic filling level control with over suction protection 
+8. Should have the vacuum pre selection by finger touch key press 
+9. LCD display should show the time progress with audible action signals 
+10. Should include accessories of silicon cups of 50 mm & 60 mm 
+11. Pump noise level should not exceed more than 50dB 
+12. The equipment should be multifunctional and able to be used for freeing the respiratory track, also as a 
+suction curettage & as a breast pump 
+13. The system should have a collection jar of 1.5 ltr glass with a double hose connector. 
+14. Should have international protection class certification 
+15. Should have European CE or US FDA or BIS. 
+ 
+g) Specification of 12 Channel ECG Machine 
+ 
+1. ECG machine should acquire, analyze, display, store, and record electrocardiographic information for cr 
+clinical diagnosis and study. 
+2. ECG machine should have at least 8” color screen to display real time ECG. 
+3. Should have manual entry patient information through embedded key. 
+4. Should display patient ID, name, age, gender, heart rate, battery indicator, time etc 
+5. ECG sampling rate should be 1000 samples/second/channel. 
+6. Should have pacing sampling 16,000 samples/second/channel. 
+7. Should have common mode rejection more than 110 db. 
+8. Should have resolution 1 μV/LSB. 
+9. Should have USB connector for data 
+10. Should have different communication port like Network connector, telephone line connector, analog 
+connector etc 
+11. Should have inbuilt thermal dot array printer with speed selection of 5, 12.5, 25 & 50 mm/s. 
+12. Machine should generate a print on Z-fold A4 size paper  
+13. Machine should have facility to connect to external printer though USB cable to take ECG report on A4 size 
+paper. 
+14. Machine should have internal storage of 400 ECG recodes.  
+15. ECG storage facility available in different formats like XML, PDF etc. 
+
+
+--- Page 21 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/393/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+16. Should have different Report formats like 3x4 +1, 3x4 +3, 6x2, 6x2 +1, 12x1 
+17. Machine should have facility to preview ECG on screen review. 
+18. Should have automated re-analysis ECG after modification of patient demographic with option to add patient 
+information later. 
+19. Should have batter back of more than 3.5 hrs of continuous operation. 
+20.  Weight should be less than 5 kg. 
+21. Machine should be designed as per European or USFDA or BIS. 
+ 
+h) Technical Specification of Bi-Phasic Defibrillator with AED and Pacing  
+1. Bi-phasic Defibrillator cum monitor should be designed for both hospital and ambulance purposes. 
+2. Should have integrated monitoring, Bi-Phasic Manual Defibrillation, AED and Pacer. 
+3. Shock delivery should be through paddle or electrode pad.  
+4. It should be compact and light weightand weight should be less than 7.5 kg. 
+5. It should have Asynchronized and Synchronized defibrillation mode with Bi-phasic Technology 
+6. It should have 1-2-3 step guidance for fast and safety defibrillation 
+7. Defibrillator should have wide range of output energy 1 – 360 J.  
+8. Should have charging time less than 3sec up to 200J. 
+9. Should have energy selection on paddle as well. 
+10. Should have selectable AED mode and energy selection 100 to 200J. 
+11. AED mode should have voice and text prompts guide and voice recording up to 180 minutes. 
+12. It should have 7“ TFT large display. 
+13. Should have inbuilt monitoring of ECG through leads, Pads/Paddles. 
+14. Should have facility of viewing ECG of 16sec. 
+15. Should have battery backup of 5hrs of monitoring or delivery of 200 shocks at maximum energy. 
+16. Should have inbuilt 50 mm thermal recorder. 
+17. Should have 48 hrs of tabular trends. 
+18. Should be European CE or USFDA or BIS approved. 
+19. Should have EN 1789 for road ambulance uses and at least 700mm free fall certificate. 
+20. Should meet IP 44 standard for water resistance and solid resistance. 
+21. Compliance sheet should be support with brochures and certificates. 
+22. Defibrillator should be supplied with flowing accessories –  
+a. 5  Lead ECG – 2No. 
+b. External Paddle Adult Cum Pediatric. – 1No. 
+c. Disposable multipurpose electrode pads – 5 pairs  
+ 
+i) Specification for Blood Gas Analyzer  
+ 
+1.  The Blood Gas Analyser should be fully automatic. 
+2. Should permit introduction of real time sample data on Altitude, FiO2, Hemoglobin, patient ID and temperature. 
+3. Should have a sample temperature control of 37 degree Celsius. 
+4. Should be able to measure following parameters – pH, Pco2, Po2, Na⁺, K⁺, Cl⁻, Ca⁺⁺, Hb.   
+5. Upgrade to Lactate, Glucose. 
+6. The analyzer should be able to give the following derived parameters – HCO3, TcO₂, SaO₂, BEECF, O₂Ct,  
+    A-a DO₂. 
+7. The analyzer should have soft touch menu based operation. 
+8. The analyzer should be with advance liquid calibration system without the need of gas tanks, regulators and 
+     humidifiers. 
+9. The analyzer should have reagents pack based and should not be cartridge based system i.e. electrodes should 
+     not be in the cartridge system. 
+10. The analyzer should have data display on well illuminated LCD/color touch screen display with built in printer to   
+     take out hard copy and should be able to store patient data, QC reports for the last 1000 patients. 
+11. The analyzer should be able to give all the results in less than 1 min. 
+12. The analyzer should be able to accept the following samples – whole blood (heparinized), arterial, mixed 
+venous, 
+      capillary. 
+13. Sample pickup aspiration to allow for Syringe and capillary samples. 
+14. Sample volume should be less than 250µl for full panel. 
+15. Electrodes should have long life, be miniaturized cordless and easily replaceable. 
+16. Should have well configured assembly of wet suctions, tubing and valve so that disconnection and breakage 
+are 
+      minimized. 
+17. The system should have RS232 serial communication port. 
+
+
+--- Page 22 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/393/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 22 
+ 
+18. Should be provided with suitable analyzer management system. 
+19. Power input 220V  10%, 50 Hz and a suitable one hour back up UPS supplied along with the analyzer. 
+20 .Maintenance free/ Maintainable electrode and the unit should have upgradeability for auto quality control. 
+21. System should be ISI/CE marked or US FDA or BIS approved. 
+22. Should submit certificate of relevant of IEC safety standards. 
+ 
+j)Specifications for crash cart 
+1. Overall size shall be more than 900mm L x 500mm W x 1500mm H.  
+2. The crash cart should be made of 25.4mmx18G Stainless steel tubular frame work.  
+3. Shall have Epoxy / Anti-Microbial powder paint inside and out  
+4. Should have dual push handles on either side  
+5. Should have S.S. shelves, six colored removable bins & two polystyrene lockable storage units with three drawers  
+    each.  
+6. Facility to carry ECG Monitors, Defibrillators etc on open areas at top centre and bottom shelves.  
+7. Should have Stainless steel saline rod fixed with.  
+8. Two accessory mounting brackets to mount accessories anywhere without the need of prethreaded holes.  
+9. Crash cart should be mounted on 12.5 cms dia non-rusting swiveling castor wheels. Two having locking 
+    arrangement.  
+10. Oxygen cylinder stand epoxy powder coated, on one side 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

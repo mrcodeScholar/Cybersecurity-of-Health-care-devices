@@ -1,0 +1,185 @@
+--- Page 10 ---
+Tender for Portable pulse oximeter 
+Admn/Tender/73/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+pulse 
+oximeter  
+1. 
+Desktop sturdy compact model which is light weight 
+2. 
+Resistant to motion artifact  
+3. 
+Able to reliably pick up signal in low perfusion states 
+4. 
+Should  have clinically proven track record to work during motion 
+and very low perfusion conditions  
+5. 
+Technology - Masimo-SET (Signal Extraction Technology) 
+6. 
+Compatible with reusable and disposable probes 
+7. 
+Oxygen saturation 
+ 
+ Range 
+ 
+    1-100 % 
+ Resolution     1% 
+ Accuracy     + 3 at 70-100% range 
+ Averaging time     Selectable (2-16 seconds or slow to fast) 
+8. 
+Pulse rate 
+ 
+ Waveform     Plethysmographic or bar form 
+ Range 
+ 
+    40-230 bpm 
+ Resolution     1 bpm 
+ Accuracy     + 3 - 5 bpm 
+9. 
+Should have Perfusion Index (PI) & Pleth Variability Index (PVI)  
+10. 
+Should have the facility to measure non-invasive blood pressure 
+monitoring and provides mean, diastolic and systolic blood pressure  
+11. 
+Should be able to measure parameters reliably in patient < 1kg of 
+weight 
+12. 
+Should be defibrillator proof 
+13. 
+ Display 
+ 
+    Large bright LCD display with contrast 
+adjustability          
+                                                    Readable from at least 3 feet  
+  
+ 
+ 
+ 
+    Saturation 
+ 
+ 
+ 
+ 
+    Pulse Rate 
+                                                    Perfusion Index (PI)  
+                                                    Pleth Variability Index (PVI) 
+                                                    Blood pressure (Systolic, diastolic and 
+mean)  
+ 
+                                        Alarms and alarm limits 
+    Status of battery charging, sensor off                 
+13.         Alarms 
+ Type of alarm       Audible and visual 
+ Alarm volume      Adjustable 
+ High SpO2 
+    Range 70-99% 
+ Low SpO2     Range 50-99% 
+ High pulse     40-230 bpm 
+ Low pulse     40-230 bpm 
+ System alarms       Probe failure 
+     System Failure 
+     Low Battery     
+14.   Alarm override facility should be present 
+15.   Trends 
+ 
+ 
+ Memory 
+     At least 48 hours with 2 sec resolution 
+ Data interval 
+     20 sec 
+ Display 
+     2-24 hours 
+ Type of display     Graphical & tabular display 
+ 
+      16.       Power 
+ 
+     220/240 V AC, 50/60 Hz 
+ 
+ 
+ 
+ 
+     Rechargeable internal battery 
+14 
+
+
+--- Page 11 ---
+Tender for Portable pulse oximeter 
+Admn/Tender/73/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Battery back-up at least 3 hours 
+                                                     Automatic switch from mains to battery in 
+case of power  
+                                                     failure 
+17.     RS 232C interface for data communication 
+18.   Should have provisions for wireless and blue tooth connectivity    
+19.     Accessories 
+a. Extension cable -2 (Two) with each monitor 
+b. Reusable Neonatal wrap-around type of sensor/saturation probe - 8 
+(Eight) with each monitor 
+c. Multisite Foam Attachment Wrap of good quality for neonates – 
+100 (one hundred) piece with each monitor 
+d. Stand made of stainless steel which should be sturdy and movable 
+with robust castors – 1 (One) with each monitor  
+e. Blood pressure measuring hose/cable: One with each monitor 
+f. Disposable blood pressure cuffs of following size: 
+i. 
+Size: 4-8 cm: 20  (Twenty) with each monitor 
+ii. 
+Size: 6-11 cm: 20 (Twenty) with each monitor 
+iii. 
+Size: 7-13 cm: 20 (Twenty) with each monitor 
+ 20. The locking unit of the monitor should be such that it can be easily 
+unlocked from its    original stand and can be attached to any other pole or 
+stand attached to radiant warmer or delivery bed 
+      21.      Operator Manual 
+      24.     Standards, safety and training 
+a) Should be European CE approved product and certificate of the 
+offered model must be submitted with the bid documents  
+b) Manufacturer should be ISO certified for quality standards 
+Electrical safety conforms to standards for electrical safety IEC 
+60601-1 
+(OR 
+EQUIVALENT 
+international/national 
+standard)General requirement for Electrical safety of Medical 
+Equipment Should have local service facility  
+       25.   Environmental factors  
+a) Shall meet IEC-60601-1-2 :2001General Requirements of       
+Safety for Electromagnetic Compatibility or should comply 
+with 89/366/EEC; EMC-directive 
+b) The unit shall be capable of being stored continuously in 
+ambient temperature of 0-50deg C and relative humidity of 15-
+90% 
+c)  The unit shall be capable of operating continuously in ambient 
+temperature of 20-40 deg C and relative humidity of 15-90% 
+    26.     Onsite physical demonstration/training of the equipment to all the 
+end users with all 
+              the requested facilities will be mandatory  
+   27.      Documentation 
+a) User/Technical/Maintenance manuals to be supplied in English 
+b) List of important spares and accessories with their part number 
+and costing 
+28. Data Transfer: Each pulse-oximeter should be provided with necessary 
+software and data cables and port (like RS 232C interface) to transfer the 
+clinical data (vitals) from monitor to computer 
+
+

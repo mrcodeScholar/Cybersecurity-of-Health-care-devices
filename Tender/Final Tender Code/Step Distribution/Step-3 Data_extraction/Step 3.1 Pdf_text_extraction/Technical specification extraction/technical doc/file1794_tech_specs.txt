@@ -1,0 +1,254 @@
+--- Page 17 ---
+ 
+____________________________________________________________________________________ 
+11033/061/AIIMSBBSR/Ortho/2023-24/03       Dated.20 Apr 2023 
+ 
+P a g e  17 | 40 
+ 
+ 
+3. Technical Bid (Specification) :  
+ 
+Name of the E-Tender : Supply, Installation &Commissioning of Intra Operating 
+Neuro Monitoring at AIIMS, Bhubaneswar.. 
+ 
+3.1 Schedule of Requirements: 
+ 
+The institute requires 01 Nos. of  Intra Operating Neuro Monitoring to be used by the 
+Department of Orthopaedics. The equipment is/are to be delivered within 90 days from 
+placing of Purchase Order at the Central Store of AIIMS Bhubaneswar at the quoted/ 
+negotiated price without any additional cost to the institute as per specifications given 
+below. 
+3.2 Specification of Intra Operating Neuro Monitoring  : 
+ 
+Sl No 
+Specification of Intra Operating Neuro Monitoring  Qty-01(Nos): 
+Complied
+/Not-
+complied 
+Remarks 
+S No. 
+Specification 
+ 
+ 
+1 
+Should be 24 channels Multi-Modality Neuro Monitoring System upgradeable 
+to 80 Channels. 
+ 
+ 
+2 
+Should have SSEP, MEP, EMG, EEG, Triggered EMG, TOF, D Wave, DCS, Pulse 
+Oximetry  
+ 
+ 
+3 
+Should have Integrated Amplifier, Electrical Low Current Stimulator, 
+Transcranial stimulator, Visual Stimulator, Auditory Stimulator etc integrated 
+into a single module 
+ 
+ 
+4 
+Hardware should conform to IP67, dust and waterproof cables 
+ 
+ 
+5 
+Should have Sampling Rate of 25 Khz 
+ 
+ 
+6 
+Should have A/D Conversion of 16 Bit 
+ 
+ 
+7 
+Should have CMRR > 115 dB 
+ 
+ 
+8 
+Should have Input Impedance of 10 MΩ 
+ 
+ 
+9 
+Should have Built in ESU Detection 
+ 
+ 
+10 
+Should have Automatic stim interleaving 
+ 
+ 
+11 
+Should have 2 TTL Trigger Input and Output  
+ 
+ 
+12 
+Should have EEG, CSA and DSA trending displays for frequency analysis 
+ 
+ 
+13 
+Should have Burst Suppression Trending to measure the depth of Anaesthesia 
+ 
+ 
+14 
+Should have Number of averages per channel: 1 to 10,000 
+ 
+ 
+15 
+Should have Average sensitivity: 0.01uV/div to 10mV/div 
+ 
+ 
+16 
+Should have Real-time remote monitoring with independent display 
+configuration 
+ 
+ 
+17 
+Transcranial Electrical Stimulator 
+ 
+ 
+17(a) 
+Total Outputs: 9 outputs 
+ 
+ 
+17(b) 
+Output Control Mode: constant voltage or constant current (user selectable) 
+ 
+ 
+
+
+--- Page 18 ---
+ 
+____________________________________________________________________________________ 
+11033/061/AIIMSBBSR/Ortho/2023-24/03       Dated.20 Apr 2023 
+ 
+P a g e  18 | 40 
+ 
+17(c) 
+Stimulus Polarity: Positive, negative and bi-phasic 
+ 
+ 
+17(d) 
+Voltage Range: 0, 50 to 1000 V, 1.0 V steps 
+ 
+ 
+17(e) 
+Pulse Duration: 50 to 500 µs 
+ 
+ 
+17(f) 
+Impedance measurements of all outputs 
+ 
+ 
+18 
+Low Current Electrical Stimulator 
+ 
+ 
+18(a) 
+Output Control Mode: Constant current 
+ 
+ 
+18(b) 
+Stimulus Polarity: Positive, negative and bi-phasic 
+ 
+ 
+18(c) 
+Current Range: ±0.01 to 20 mA (0.01 mA steps) 
+ 
+ 
+18(d) 
+Pulse Duration: 50 to 1000 µs 
+ 
+ 
+18(e) 
+Repetition Rate: Up to 60 Hz 
+ 
+ 
+19 
+High Level Electrical Stimulator 
+ 
+ 
+19(a) 
+Total Outputs: 5 Output Pairs, Upgradeable to 20 Pairs 
+ 
+ 
+19(b) 
+Current Range: 2 to 100 mA 
+ 
+ 
+19(c) 
+Pulse Duration: 50 to 1000 µs 
+ 
+ 
+19(d) 
+Repetition Rate: Up to 100 Hz 
+ 
+ 
+19(e) 
+Impedance: Measurement of all outputs 
+ 
+ 
+19(f) 
+Maximum Electrical Output Energy: 50 mJ/pulse 
+ 
+ 
+19(g) 
+Stimulus Polarity: Positive or negative 
+ 
+ 
+20 
+Should be supplied with All in One PC with core i5, 8 GB RAM, 1 TB Hard Disk, 
+Windows 10, 22” Screen Size, Customized Trolley, Suitable Rating UPS 
+ 
+ 
+21 
+Should be supplied with following Disposables 
+ 
+ 
+21(a) 
+Disposable twisted pair subdermal needles – 200 Pairs 
+ 
+ 
+21(b) 
+Disposable corkscrew needle – 50 Nos 
+ 
+ 
+21(c) 
+Disposable Ball Tip Probe – 5 Nos 
+ 
+ 
+21(d) 
+Disposable Bipolar Probe – 5 Nos 
+ 
+ 
+21(e) 
+Disposable Monopolar Probe – 5 Nos 
+ 
+ 
+22 
+Equipment should be US FDA/ four digit CE/ BIS Approved. Necessary 
+Certificate should be attached along with Bid 
+ 
+ 
+23 
+Should provide dedicated technologist for at least 10 surgeries and Service 
+backup / Service Centre in India 
+ 
+ 
+24 
+Demonstration will be the part of Technical specification/Eligibility Criteria 
+ 
+ 
+25 
+05 year warranty from the date of installation 
+ 
+ 
+26 
+05 CMC after warranty period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

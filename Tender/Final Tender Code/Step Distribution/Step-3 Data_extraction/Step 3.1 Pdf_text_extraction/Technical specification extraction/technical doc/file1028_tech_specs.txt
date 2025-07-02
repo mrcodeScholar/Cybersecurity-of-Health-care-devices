@@ -1,0 +1,142 @@
+--- Page 64 ---
+ 
+ 
+ 
+ 
+SECTION – VII 
+TECHNICAL  SPECIFICATIONS  
+ 
+1. Type: Both mydriatic and non-mydriatic 
+2. Must have retinal image montage, HDR & colour and Red free imaging facility. 
+3. Should be table mounted product. 
+4. Should have ergonomic chin rest designed for patient comfort and stability 
+5. Camera sensor resolution: minimum 6 megapixel 
+6. Field of view: 45 degrees and above 
+7. Should have refractive power compensation for ametropia with a focus range of -15 D to +15 D or 
+wider 
+8. Power Supply Source: AC100-240 V, 50/60Hz 
+9. Should be compatible with Windows PC with facility for image storage in a secondary device such 
+as desktop or a laptop 
+10. Mode of connectivity to other device: USB 3.0 port 
+11. Supporting latest computer system should be supplied along with the device (having minimum 
+configuration- Intel i3 processor or better, 8 Gb RAM or better, hard disk 1000 GB or better, 2.4 
+Ghz processor or better, USB port , Windows 10 OS 64 bit, PDF reader) 
+12. DVD and CD Writer should be provided with system 
+13. Image viewer and archive software should be provided with facility for data storage, data transfer, 
+image archiving, image analysis 
+14. Should be DICOM compliant and telemedicine ready. AI will be an added advantage. 
+15. Should be supplied with a motorized table and patient stool 
+16. Should be USFDA or European CE or BIS approved product. 
+17. Should be ISO 13485:2016 certified 
+18. Should be brand new and unused. 
+19. Warranty: 5 years or more which should include (but not limited to) preventive maintenance visit 
+one in each quarter. 
+ 
+ 
+ 
+ 
+
+
+--- Page 65 ---
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Four years Comprehensive Warranty as per Conditions of Contract of the TE document 
+for complete equipment (including Batteries for UPS, other vacuumatic parts wherever 
+applicable) Warranty period will be 5 years from the date of installation, commissioning 
+and Site Modification Work from the date of satisfactory installation, commissioning, 
+trial run & handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period by 
+double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical 
+College on 
+24 (hrs) X 7 (days) X 365 (days) basis. Complaints should be attended properly, maximum within 
+8 hrs. The service should be provided directly by Tenderer/Indian Agent. Undertaking by the 
+Principals that the spares for the equipment shall be available for at least 
+10 years from the date 
+of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents (if 
+they 
+have the requisite know-how) for operation and maintenance of the equipment to the satisfaction 
+of the consignee. The same will be in line with the training modalities as specified in general 
+technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site Modification 
+Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes preventive 
+maintenance including testing & calibration as per technical/ service /operational manual 
+of the manufacturer, labour and spares, after satisfactory completion of Warranty period 
+may be quoted for next 3 years on yearly basis for complete equipment 
+(including Batteries 
+for UPS, other vacuumatic parts wherever applicable) and Site Modification Work (if any). 
+The supplier shall visit each consignee site as recommended 
+in the manufacturer‟s technical/ 
+service /operational manual, but at least twice in six months (i.e. 4 preventive maintenance/ 
+year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender Opening. 
+The taxes to be paid extra, to be specifically stated. In the absence of any 
+such stipulation 
+the price will be taken inclusive of such taxes and no claim for the same 
+will be entertained 
+later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be taken at Net 
+Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory completion of said 
+period, duly certified by end user on receipt of bank guarantee for 2.5% of the cost of the 
+equipment as per Section XV valid till 2 months after expiry of entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 365 (days) 
+basis, with penalty, to extend CMC period by double the downtime period. 
+f) During CMC period, the supplier is required to visit at each consignee‟s site at least twice in 
+6 months (i.e. 4 preventive maintenance/ year) apart from all breakdown visits, commencing 
+from the date of the successful completion of warranty period for preventive maintenance 
+of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the Bank 
+Guarantee for Annual CMC. 
+i) The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 66 ---
+ 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, wherever 
+required. The Tenderer shall examine the existing site where the equipment is to be installed, in 
+consultation with HOD of Hospital/Institution/Medical College concerned. Site Modification Work 
+details of each Hospital/Institution/Medical College are given at the end of Technical Specification. 
+The Tenderer to quote prices indicating break-up of prices of the Machine and Site Modification Work 
+of each Hospital/Institution/Medical College. The Site Modification Work costs to be quoted in Indian 
+Rupee will be added for Ranking Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation the price 
+will be taken inclusive of such duties and taxes and no claim for the same will be entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderers attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer 
+is to provide the required details, information, confirmations, etc. accordingly failing which 
+it‟s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of equipment 
+for carrying out routine and preventive maintenance wherever asked 
+for and should 
+make sure that Electrical Safety Analyzer / Tester for Medical equipment to periodically 
+check the electrical safety aspects as per BIS Safety Standards IS-13540 which is also 
+equivalent to IEC electrical safety standard IEC- 
+60601 is a part of the equipment s. If the 
+Electrical Safety Analyzer/Tester is not available they should provide a commitment to get 
+the equipment checked for electrical safety compliance with Electronic Regional Test Labs 
+/ Electronics Test and Development Centres across the country on every preventive 
+maintenance call. 
+Note 3: Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management information 
+system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical 
+training for personnel involved in the use and handling of the equipment on site at the 
+institute immediately after its installation. The company shall be required to train the 
+institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and CMC 
+period 
+
+

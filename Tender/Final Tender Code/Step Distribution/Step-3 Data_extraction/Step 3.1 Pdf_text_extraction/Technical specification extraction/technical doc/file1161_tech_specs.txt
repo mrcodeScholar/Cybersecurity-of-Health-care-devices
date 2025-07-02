@@ -1,0 +1,145 @@
+--- Page 10 ---
+Tender for PCR Workstation cum PCR Machine with Spin Win                                  Admn/Tender/99-2/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+PCR Workstation 
+Cum PCR Machine 
+with Spin Win  
+Specifications 
+General: Tender is invited from reputed original 
+manufacture or their authorized agents/dealers only. 
+Information 
+regarding 
+installation 
+in 
+India 
+and 
+satisfactory service and maintenance may be forwarded 
+with all the details for verification. 
+ 
+Technical: 
+1. Size about 2‟ X 3‟ 
+2. Construction-Powder coated/ epoxy-coated SS. Work 
+surface-Good quality Stainless steel 
+3. Lighting system- A built-in ultraviolet light for 
+decontamination of consumables and equipment and 
+fluorescent light for working 
+4. Vertical laminar flow 
+5. Filters-combines an ISO 5 (FS209E) Class 100 clean air 
+environment. 99.99%-efficient HEPA filter and disposable 
+prefilter 
+6. Alarms – monitors the effectiveness of the workstation and 
+alerts the operator if the HEPA filter or UV bulb needs 
+replacement. 
+7. folding sash turns off the UV light and activates the blower 
+and fluorescent light 
+8. Power supply: should include 220 V/50 Hz 
+9. Optional – utility ports. 
+Spin win 
+1. Quiet and reliable 
+2. Small foot print 
+3. Independent ON/OFF switch 
+4. Fixed speed of 6000 RPM/2000g 
+5. 6 place rotor for 1.5 ml tubes 
+2 place rotor for 8x0.2 ml tube strips 
+ 
+Thermal Cycler 
+General: Tender is invited from reputed original manufacture 
+or their authorized agents/dealers only. Information regarding 
+installation in India and satisfactory service and maintenance 
+may be forwarded with all the details for verification 
+Technical: 
+ 
+1. System should be 96 well thermal cycler 
+2. Should have ability to run at least six different 
+assays at a time with independently controlled 
+Peltier block 
+3. System should be compatible for both 0.2ml tube and PCR 
+plate. 
+ 
+4. Should provide standard and fast run mode (within 30 min) 
+02 
+
+
+--- Page 11 ---
+Tender for PCR Workstation cum PCR Machine with Spin Win                                  Admn/Tender/99-2/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  Ramping rate: Maximum should be 5° C/sec and adjustable 
+between 3-5° C/sec 
+6. 
+Each block should accommodate 16 wells and having 
+the ability to set up PCR with a specific temperature 
+differential up to at least 5°C across individual block 
+7. 
+System should have- 
+ 
+• Temperature accuracy: ± 0.2S° 
+C (3S° C-99.9° C) 
+• Temperature range: 4o C-99° 
+C 
+• Temperature uniformity: <O.s° 
+C 
+8. Should have on board Tm calculator facility to 
+approximate the optimal annealing temperature 
+9. System should support PCR volumes ranging from 10-SO 
+microliters 
+10. 
+Memory:choice of saving up to 800 programs or 
+unlimited to the memory stick 
+11. System should have a USB port to transfer programs from 
+machine 
+12. Display : graphical user interface programming & colour 
+touch screen 
+13. Programmable heat lid cover from so° C to l 
+OS° C 
+14. 
+Power:220V/S0 60Hz compatible 
+15. Online UPS for back up should be provided for at least two 
+hour. lS. Machine should be duly certified/ authorized for PCR 
+process 
+16. Accessories: Necessary optimized reagents and plastic ware 
+for standard and fast thermal cycling reactions to be provided 
+for initial 1000 reactions. 
+ 
+
+

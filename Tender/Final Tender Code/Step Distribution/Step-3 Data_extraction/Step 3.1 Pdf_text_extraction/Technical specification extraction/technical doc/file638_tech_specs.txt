@@ -1,0 +1,188 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/OBGY/18/3065/OT 
+ 
+Page 18 of 23 
+ 
+Technical Specification 
+Advanced Full Body Interactive Birthing Simulator  
+ 
+ 
+Name of item Advanced Full-Body Interactive Birthing Simulator Complete Peripheral Kit 
+(With Monitor) 
+Should be supplied complete with:- 
+ Wireless maternal mannequin - 01 no. 
+ Birthing fetus - 01 no. 
+ Fetus for Leopold's maneuvers - 01 no. 
+ Abdomen for labor - 01 no. 
+ Abdomen for Post Labor - 01 no. 
+ Static cervices for vaginal examination - 01 set 
+ Instructor wireless laptop - 01 no. 
+ Simulated CTG Monitor - 01 no. 
+ Uteri modules-4 in number 
+ Vital control unit 
+ Compressor blood pressure cuff 
+ Set of consumables 
+ Operating software 
+ Directions for use and a carry case 
+SPECIFICATION FOR MATERNAL FETAL SIMULATOR 
+ 
+Maternal-Fetal Simulator complete with anatomically realistic mother and fetus for 
+comprehensive training in prenatal care, labor and delivery, and postpartum care. 
+ 
+The Maternal Fetal Simulator should be wireless, high fidelity simulator with an 
+automated delivery mechanism and maternal aesthetics like a real patient. 
+ 
+Should have integrated' maternal-fetal physiological and pharmacological modeling. 
+ 
+All maneuvers & interventions should result in appropriate patient response 
+automatically based on underlying physiology of patient without any input from the 
+instructor 
+ 
+Birthing simulator should include a birthing fetus and a second fetus especially 
+designed for Leopold's maneuvers without connection ports on the head or buttocks. 
+ 
+Should be fully wireless with on-board fluids, pneumatics, and electrical systems 
+ 
+Should include software licenses to support scenario writing and editing on any 
+computer 
+Simulation should have following features 
+ 
+Should have realistic birth canal with vulva/perineum supporting accurate fetal 
+descent and rotation 
+ 
+Should provide multiple birthing positions: lithotomy, sitting, and all-fours 
+ 
+Should allow vaginal examinations for evaluation of the cervix, fetal station, and 
+position 
+ 
+Should have static cervices representing various stages of dilation (closed to 
+10cm); effacement from 0-100% 
+ 
+Should have palpable uterine contractions which can be detected by palpating the 
+fundus 
+ 
+Should have facility to allow instructors to control the rate and duration of 
+contractions 
+ 
+Birthing fetus should not have any connection port at the head or buttocks for 
+realistic presentation during both vertex and breech deliveries 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/OBGY/18/3065/OT 
+ 
+Page 19 of 23 
+ 
+ Should have -a customized fetus for Leopold's Maneuvers with hard head and 
+soft buttocks 
+ McRoberts Maneuver should be possible 
+ Should support and detect suprapubic pressure with palpable symphysis pubis 
+ Should be able to demonstrate Vertex and breech delivery 
+ 
+Should allow forceps application 
+ Should allow vacuum extraction without fetal cap 
+ Should have Fetal heart sounds — 4 locations based on fetal presentation 
+ Should have articulated fetal body neck (with lateral neck movement), shoulders, 
+elbows, hips, and knees 
+ Should have clinically accurate fetal size with tactile realism, Fetus with 
+palpable, fontanel and sagittal suture 
+ Should allow fetal airway suctioning 
+ Fetus should have audible cry upon delivery 
+ Predicted 1-minute and 5-minute APGAR scores based on integrated maternal-
+fetal physiology 
+ Should simulate postpartum hemorrhaging 
+ Should allow for assessment of uterine atony (contracted vs. boggy Uterus) 
+ Should have facility for bimanual compression and uterine massage detection 
+ Should exhibit 
+a) Uterine blood released upon massage 
+b) Uterine massage should automatically decrease rate of blood flow 
+c) Uterine massage compression effect 
+ 
+Should support placing, an intrauterine balloon 
+ 
+Umbilical cord can be cut and clamped 
+ 
+Episiotomy should be possible 
+ 
+Should have intact/fragmented placenta with realistic color, texture and 
+flexibility, placenta can be delivered with gentle traction 
+ 
+Should have epidural port with infusion and aspiration 
+ 
+Should support C-section team training 
+Mannequin should be able to demonstrate following clinical features:- 
+a. Respiratory 
+ Manikin should have realistic upper airway with airway management 
+ 
+Should have advanced lungs with mechanical ventilation support 
+ 
+Should support endotracheal tubes, nasal-pharyngeal and oropharyngeal airways 
+ 
+Should display spontaneous breathing 
+ 
+Should have bag-valve-mask 
+ 
+Should exhibit lung sounds: anterior and posterior 
+ 
+Should have realistic chest excursion & exhalation 
+ 
+Should allow positive pressure ventilation  
+ 
+b. Circulatory System 
+ 
+Should support real 4-lead ECG that can be connected to simulator 
+ Should display 12-lead ECG simulated in software 
+ 
+Should have bilateral pulses: carotid, radial, and dorsalis pedis; with controllable 
+pulse strength 
+ 
+c. Cardiovascular 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/OBGY/18/3065/OT 
+ 
+Page 20 of 23 
+ 
+ Should allow chest compressions resulting in appropriate physiological changes. 
+ Should have advanced CPR analysis that should measure hand placement 
+and compression depth, rate, and release 
+ Should support electrical therapy (defibrillation) 
+ Should allow bilateral NIBP measurement 
+ Should have realistic Heart sounds linked to the physiology of the patient. 
+d. Nervous System 
+ Should simulate seizures with rhythmic movement of arms, rapid blinking, and 
+jaw movement 
+ Should have reactive pupils 
+ Should have blinking 
+ Should have live and pre-recorded speech and should also have ability to 
+import customized vocal sounds into system software , 
+e. Fluids 
+ 
+ Should have inbuilt postpartum bleeding tank 
+ Should have bilateral IV arms with realistic flashback 
+ Should have urinary catheterization 
+Patient Profiles & Scenarios:- 
+ Should be supplied with preprogrammed patient profiles with system software to 
+write patient profiles as per training needs 
+ Should be supplied with pre programmed clinical scenarios (at least 10 nos.) with 
+system software to modify existing scenario & write new scenarios as per training 
+needs 
+ Pre programmed clinical scenarios should include : 
+a) A normal delivery 
+b) An instrumental vaginal delivery 
+c) Fetal tachycardia due to maternal pyrexia 
+d) Breech delivery 
+e) Fetal central nervous system depression by narcotics given to the mother 
+f) Shoulder dystocia 
+g) Major post-partum hemorrhage due to uterine atony 
+h) Maternal cardio-respiratory arrest 
+i) Eclampsia 
+j) Umbilical cord prolapsed 
+Note- Should be quoted with 5 yrs warranty and 5 yrs CMC 
+If it's a proprietary item, the certificate of same should be enclosed along with the 
+tender documents. 
+ 
+ 
+
+

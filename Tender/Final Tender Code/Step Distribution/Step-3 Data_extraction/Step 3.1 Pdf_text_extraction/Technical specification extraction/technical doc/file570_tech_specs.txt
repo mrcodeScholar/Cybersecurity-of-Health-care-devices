@@ -1,0 +1,217 @@
+--- Page 11 ---
+Tender for Inhaled Nitric Oxide System                                                                               Admn/Tender/51/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Inhaled Nitric 
+Oxide System 
+1. Requirements 
+i. 
+Microprocessor controlled Nitric oxide (NO) dosing unit 
+ii. 
+NO dosage proportional to respiratory flow and automatic 
+synchronization with ventilator flow rate  
+iii. 
+Able to deliver 1 to 80 ppm with alarm system and selectable 
+alarm limits (NO high alarm, NO low alarm, NO2 alarm, low 
+battery) 
+iv. 
+Safety measure to check high dose supply of NO 
+v. 
+Able to supply constant NO concentration 
+vi. 
+Computerized dosing and monitoring device coupled in a 
+single system 
+vii. 
+Continuous measurement of NO and NO2 concentration in the 
+inspiratory gas and in the ambient air  
+viii. 
+Portable & light weight (< 10 kg)  
+ix. 
+Compatible with all the major ventilator systems  
+x. 
+When one cylinder is getting emptied, it should automatically 
+shift to the other cylinder without cessation of the therapy  
+xi. 
+Mobile trolley with mounting of at least two or more nitric 
+oxide cylinders simultaneously. The castors should be lockable 
+xii. 
+Nitric Oxide Delivery and monitoring system having 7” or 
+bigger LED/LCD touch screen, monitor demountable from the 
+trolley for mobile/transport applications must be capable of the 
+following:  
+xiii. 
+Real time continuous monitoring of NO, NO2 + O2 with audio 
+alarms. 
+xiv. 
+Electrochemical sensor based technology 
+xv. 
+Capable of both continuous and synchronous NO delivery 
+modes for use with neonatal patient. 
+xvi. 
+NO Delivery Range  
+: 
+ 
+0 to 80 ppm 
+xvii. 
+Measuring Range   
+NO 
+: 
+ 
+0 to 80 ppm 
+                                                NO2 
+: 
+ 
+0 to 15 ppm 
+                                                O2 
+: 
+ 
+0 to 100% 
+xviii. 
+Vent Flow Range  
+ 
+: 
+ 
+0.5 to 50 LPM 
+xix. 
+Accuracy                           :                       ±2% of reading or 
+±0.3ppm, O2:     +/- 2, 7% 
+xx. 
+Sample Line Flow Rate  
+: 
+ 
+225ml/min 
+approx. 
+xxi. 
+Back up 
+ 
+ 
+ :                      at least 3 hours 
+xxii. 
+Warm Up Time  
+:  
+ 
+less than 5 minutes. 
+xxiii. 
+Should be having printer and compatible with RS 232 port 
+xxiv. 
+The company should ensure turn key installation 
+xxv. 
+There should be memory of at least last 96 hours to see the 
+trend of NO and NO2 values. 
+xxvi. 
+Software should be upgradable with any new technology 
+available during the life of the equipment 
+2. Accessories 
+i. 
+System must be supplied with all the essential accessories 
+including the following:  
+a. Nefion Tube  
+ 
+ 
+ 
+2  
+b. Water Trap  
+ 
+ 
+ 
+ 
+2  
+c. Nitric Oxide delivery circuit with flow sensor 30 for Neonates  
+d. Calibration Cylinder 25ppm NO in N2 
+ 
+01 
+e. Calibration Cylinder 10ppm NO2 in Air  
+ 
+01 
+01 
+
+
+--- Page 12 ---
+Tender for Inhaled Nitric Oxide System                                                                               Admn/Tender/51/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+f. 10 liter cylinders duly filled with 900 ppm NO and balance N2. 
+The Cylinders must be refillable in India.                       10 (ten) 
+ii. 
+The cost of the accessories should be included in the machine 
+cost 
+3. Warranty  
+i. 
+The bidder must quote for 5 years comprehensive warranty 
+(including all spares, accessories and labour) from the date of 
+completion of the satisfactory installation. The warranty 
+charges should not be quoted separately. 
+4. Comprehensive Maintenance Contract (CMC) 
+i. 
+The bidders should submit their quote (rates) for subsequent 5 
+years Comprehensive Maintenance Contract (CMC) (including 
+all spares, accessories and labour) and these rates should be 
+freezed. 
+ii. 
+Company should ensure the supply of consumables and 
+accessories for the period of warranty and CMC 
+iii. 
+Cylinder refilling charges of the Nitric Oxide with pick-up to 
+drop back service at our Institute must be quoted clearly, which 
+will remain in force for the period of warranty and CMC.  
+5. Operational Environment 
+i. 
+The unit should be capable of operating continuously in 
+ambient temperature of 20-30º C and relative humidity of 20-
+80% 
+6. Standards 
+i. 
+Should be USFDA and European CE certified (certificates to 
+be submitted) 
+ii. 
+The Manufacturer should be ISO 9001 and ISO 13485 
+certified. 
+iii. 
+Electrical safety conforms to standards for electrical safety IEC 
+60601-1 (OR EQUIVALENT international/national standard 
+7. Training 
+i. 
+Onsite physical demonstration and training of the equipment to 
+all the end users with all the requested facilities will be 
+mandatory 
+8. Manual 
+i. 
+The manual of the equipment (in English language) should be 
+supplied along with the equipment  
+9. Service 
+i. 
+Should have onsite service facility.  
+ii. 
+The service provider should have the necessary equipments 
+recommended by the manufacturer to carry out preventive 
+maintenance test as per guidelines provided in the 
+service/maintenance manual 
+
+

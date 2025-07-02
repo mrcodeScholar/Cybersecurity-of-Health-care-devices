@@ -1,0 +1,70 @@
+--- Page 10 ---
+Tender for Automated slide stainer with parallel batches 
+Admn/Tender/123-3/2018-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Automated 
+slide stainer 
+with parallel 
+batches  
+1) High throughput robotic stainer for multiple staining applications and 
+should run up to 12 racks in rallel.  
+2) Simultaneous staining of prtocols of hematoxylin-eosin and pap stain 
+should be available.  
+3)  Equipment should have solvent resistant color touch screen control 
+panel with keyboard to monitor the staining process .  
+4) Racks should be assigned to the correct staining protocol based on 
+transponder and color-code system.  
+5)  The equipment should have 26-34 reagent stations and 6 wash 
+stations of 450m1 capacity.  
+6)  The equipment should be programmable for 50 programs in multiple 
+steps with incubation time setting from 0 sec to 59 minutes 59 seconds. 
+ 7)  Optional integrated oven with temperature setting from 40°C to 
+65°C for optimal slide drying is preferred .  
+8) Continuous loading and unloading of slides via rack entry and exit 
+door should be available.  
+9) Specimen slide throughput of at least 200 slides per hour upto 600 
+slides per hour is required.  
+10)  Agitation facility  0-20 times should be available .  
+11)  Reagent management system, station information on touch screen 
+or control panel and  data logging should available. 
+12) Programmable up and down movement of robotic arm should be 
+available.  
+13) Fume extraction fan with charcoal filter to remove hazardous fumes 
+should be available.  
+14) Gentle vibration to slide rack lifting to reduce carry over 
+contamination should be available.  
+15) Audible warning buzzer in case of any error during operation should 
+be a feature of the equipment. 
+01 
+
+

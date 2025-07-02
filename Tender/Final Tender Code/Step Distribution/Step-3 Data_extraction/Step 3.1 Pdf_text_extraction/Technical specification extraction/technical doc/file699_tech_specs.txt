@@ -1,0 +1,141 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Neuro/18/252/OT 
+ 
+Page 17 of 21 
+ 
+Annexure-I 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against manufacturing defect and 5 years CMC. 
+2. All equipment’s should be BIS/European CE certified /USFDA approved. 
+3. Manufacturer should be ISO certified 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly 
+marking the Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together from a 
+single vendor. Demonstration of the instruments may be taken from all the firms: 
+6. L-1 will be decided on total value only  
+7. All firms should have supplied the quoted instruments to the reputed government 
+hospitals like AIIMS/ PGI/ NIMHANS and should submit a certificate of satisfactory 
+working from the concerned government hospital. 
+Schedule A 
+ Specification for Neuro ICU Monitor: 10 units 
+1. Patient monitor system should be advanced modular type and capable of monitoring adult, 
+paediatric & Neonatal patients. 
+2. Monitor should have 15” TFT/LCD display with full touch screen user interface. 
+3. Should be capable of display 10 or more waveforms 
+4. Monitor must be capable of simultaneously monitoring the following parameters: ECG, NIBP, 
+SpO2, Respiration, Dual IBP, Dual temperatures, Main stream EtCO2, EEG-4 channel or more 
+and BIS. 
+5. All monitors should have ports for ECG, NiBP, SpO2, Resp, Dual Temp., Dual IBP, EtCO2, 
+EEG-4 channel or more & BIS. 
+6. All monitors should be able to support all the modules and accessories. 
+7. ECG 3, 5/6 lead input: isolated & floating 3, 5/6 leads. Protect against surges produced by 
+electro surgical & defibrillation protection. 
+8. Monitor should have facility to monitor 12 lead ECG through 10 lead ECG cable along with 12 
+lead ECG analysis & report. 
+9. Inbuilt ST segment analysis and arrhythmia detection for all the leads should be possible. 
+10. Should have facility to detect advance arrhythmias (at least 22 different types) and should show 
+number of arrhythmias occurred with ECG waveform for last 72 hours. 
+11. Should have Low perfusion SpO2 technology (Clinical papers to be submitted). 
+12. Should display perfusion index (PI %) from SpO2 as an indication of pulse strength at the 
+sensor site. 
+13. Monitor should have facility to measure dynamic preload parameter such as Pulse pressure 
+variation, or Systolic pressure variation.   
+14. Machine must have facility for alarm escalation in case nursing staff miss the alarm. 
+15. Must have minimum 72 hours review data including graphical & tabular trends  
+16. Must be able to store & display the 72 hours beat by beat waveforms for 4 or more selected 
+parameter by the user. 
+17. Monitor must be upgradeable to Hemodynamic Graphs to view hemodynamic conditions of the 
+patient based on Frank starling principle and EGDT protocol.(Sepsis Protocol) 
+18. Monitor shall provide the capability to receive and display real-time waveforms, alarm status 
+from other bedside on the patient monitoring network. 
+
+
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Neuro/18/252/OT 
+ 
+Page 18 of 21 
+ 
+19. Alarm limit status (ON/OFF) must be indicated on-screen for each parameter and actual 
+parameter alarm settings must be displayed on-screen when alarms are on. 
+20. Waveform color changing should be user configurable. 
+21. Hemodynamic, OXYCRG and drug dose calculations should be available. 
+22. Monitor shall permit the optional ability to receive and display information from other patient 
+devices such as ventilators & other standalone devices. 
+23. All modules should be compatible with all monitors quoted.  
+24. Monitor must have inbuilt rechargeable battery with minimum backup of 60 minutes or more.   
+25. Bed to bed communication between the monitors should be possible without a central station. 
+26. Patient monitoring network shall use standard TCP/IP protocol and be capable of residing on 
+hospital’s network infra-structure. 
+27. Should be compatible with HIS and should be HL7 compliant. 
+28. Monitor should be upgradable to provide remote viewing of real time waveforms through 
+internet. 
+29. The equipment should be BIS / European CE / US FDA Approved. 
+30. Monitors should be supplied with following accessories. 
+a) ECG / respiration: 5/6   lead ECG cable set  
+ 
+- 10 No. 
+b) NIBP: Adult Cuff 
+ 
+ 
+ 
+ 
+ 
+- 10 No. 
+c) SpO2 Sensor: Adult and Pediatric sensor  
+ 
+ 
+- 10 No. 
+d) IBP connection cable   
+ 
+ 
+ 
+ 
+- 20 No. 
+e) Temperature: Skin and rectal probes   
+ 
+ 
+- 10 No. each 
+f) Mainstream EtCO2 sensor  
+ 
+ 
+ 
+ 
+- 05 No.  
+g) EEG- 4 or more Channel necessary accessories 
+ 
+- 05 set 
+h) BIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 05 No. 
+ 
+Schedule B:  
+Central Nursing Monitoring Station 
+1. System should have minimum 16 beds capability and upgradeable to 48 beds  
+2. Central station should have 24” or more colour display  
+3. Must be supplied with network colour printer & printing of review/trend data from central 
+station should be possible.  
+4. It should have facility to view last 72 hours stored information such as vital signs, alarm 
+status, arrhythmia analysis trended parameters patient data etc. for any selected bed from 
+the central station.  
+5. Should have facility to take NIBP measurement from central station.  
+6. Should have default alarm limits and customizable parameter settings.  
+7. Central station should have full bed review capability.  
+8. Should have two-way communication with bedside monitor alarm setting should be 
+possible from central station.  
+9. All monitors including central station should have similar user interface for easy usage 
+among all clinicians.  
+10. Should have capability for HL7 interface. Should be upgradable to remote viewing of 
+entire.  
+11. Should be supplied with an On-Line suitable UPS with minimum 30 minutes backup.  
+12. The system should have facility to view the data remotely on iPad or iphone. It should be 
+supplied with at least one I-pad.  
+13. CNS should be BIS/ European CE / USFDA) approved. 
+14. Warranty for 5 years and Comprehensive Maintenance Contract (CMC) for 5 years.  
+
+

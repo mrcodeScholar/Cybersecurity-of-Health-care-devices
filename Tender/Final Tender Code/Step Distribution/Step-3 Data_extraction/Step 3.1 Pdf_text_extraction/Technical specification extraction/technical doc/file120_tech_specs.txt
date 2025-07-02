@@ -1,0 +1,138 @@
+--- Page 10 ---
+Tender for UV visible spectrophoto meter 
+Admn/Tender/139-3/2018-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+UV visible 
+spectrophoto 
+meter  
+Double beam UV spectrophotometer (UV-Vis, variable wavelength, glass 
+and quartz cuvettes with data analysis software and computer interface)  
+1. UV/Vis spectrometer with PC control  
+2. Chassis with thermal and vibration stability.  
+Optics:  
+1. Double beam sealed, quartz coated, with monochromator Grating  
+2. Concave holographic grating with 1000 lines/mm or better.  
+3. Detector: silicone photodiode or PMT photomultiplier  
+4. Sources: Pre-aligned deuterium and tungsten-halogen lamps with 
+automatic switch over  
+5. Wavelength Range: 200-1100 nm or better  
+6. Stray Radiation/Light: <0.007%T at 220nm (Nal) or better  
+7. Wavelength Accuracy: Minimum +/- 0.2 nm at D2 peak, 656.1 nm of 
+better.  
+8. Band-pass/Band width: Variable bandwidth setting  
+9. Scan speed: 2000nm/min  
+10. Photometric Accuracy: +/-0.005 A at 1A or better  
+11. Photometric Reproducibility 
+(at 
+1A): 0.001 A (MAXIMUM 
+DEVIATION OF 10 MEASUREMENTS) or better  
+12. Photometric Stability (at 1A): 0.00015A/h (at 500nm for 1.0 sec) or better  
+13. Baseline Flatness (1nm slit): ±0.001A or better  
+14. Photometric Noise Level at 500nm (1nm Slit): 0.0001 A RMS or better  
+15. Cuvette chambers to hold 4 cuvettes, 1 for blank, 3 samples for samples 
+with matching cuvettes  
+Standard Accessories:  
+1. Quartz cuvette of 10mm path length two in number. 8 Optical Glass 
+Cells 10mm.  
+2. Local Accessories: Suitable PC, Printer and Online UPS are to be 
+offered with the system.  
+3. Peltier constant temperature system (15 - 55 ºC)  
+4. Set of 2 performance testing filters (1 "E filter" for photometric 
+accuracy test and 1 didymium filter for wavelength accuracy test)  
+5. Multi-purpose cell holder 20-30-40-50 Path Length  
+Standard, Safety and Training  
+1. Should be FDA/UL/CE/BIS approved product.  
+2. Manufacture should have ISO 9001 certificate for quality standards.  
+3. On site comprehensive training for lab staff and support services till 
+customer satisfaction with the system.  
+4. Installation testing: Supplier of the instrument must provide free 
+installation , commissioning and testing  
+5. User/Technical/Maintenance manuals to be supplied in English.  
+6. Certificate of Calibration and Inspection.  
+7. List of Equipment available for providing calibration and routine 
+Preventive 
+maintenance 
+support 
+as 
+per 
+manufacturer 
+service/maintenance manual.  
+8. Compliance report to be submitted in a tabulated and point wise 
+manner clearly mentioning the page/para number of original 
+catalogue/data sheet. Any point, if not substantiated with authenticated 
+catalogue/manual will not be considered.  
+9. Current user/performance list to be provided and demonstration 
+01 
+
+
+--- Page 11 ---
+Tender for UV visible spectrophoto meter 
+Admn/Tender/139-3/2018-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+covering all aspects has to be provided  
+10. Validation document should supply by vendor etc IQ.QQ, PQ. 13. 
+Surge Protector is to be quoted and supplied with the instruments. Surge 
+Protector is to be quoted and supplied with the instruments. 
+
+

@@ -1,0 +1,84 @@
+--- Page 16 ---
+Tender No. : AIIMS/R/CS/1856/PHY/19/OT 
+Page 16 of 20 
+ 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR BODY COMPOSITION ANALYSER 
+Key specifications: Bioelectrical Impedance Analysis (BIA) Impedance(Z) 30 impedance 
+measurements by using 6 different frequencies (1㎑, 5㎑, 50㎑, 250㎑, 500㎑, 1000㎑) at each 5 
+segments of the body(right arm, left arm, trunk, right leg, left leg) 
+Reactance(Xc) : 15 reactance(Xc), phase angle(θ) measurements by using 3 different 
+frequencies (5㎑, 50㎑, 250㎑) at each 5 segments of the body(right arm, left arm, trunk, right 
+leg, left leg) 
+Electrode Method : Tetrapolar 8-Point tactile/adhesive electrode system 
+Measurement Method : Direct Segmental Multi-frequency Bioelectrical Impedance Analysis 
+Method, DSM-BIA method 
+Body Composition Calculation Method : No use of Empirical Estimation 
+Output : Body Composition Intracellular Water, Extracellular Water, Total Body Water, Protein 
+Mineral, Body Fat, Soft Lean Mass, Fat Free Mass, Weight, Skeletal Muscle Mass, Body Fat 
+Mass, Percent Body Fat, BMI, Segmental Lean Analysis, Segmental Water Analysis, Total and 
+segmental water ratio(ECW/TBW), BCM(Body Cell Mass), BMC(Bone Mineral Content), 
+AC(Arm circumference), AMC(Arm Muscle Circumference), Waist Circumference., Visceral 
+Fat Area, Basal Metabolic Rate(BMR), TBW/FFM, Body Water History(12times accumulated 
+results), Impedance of Each Segments & Frequencies(Impedance, Reactance, Phase angle) 
+Also Body Water result sheet should be obtained separately. 
+Functional specifications 
+Logo Display : Possible to input name of the user’s place, address and contact number. 
+Type of Result Sheet : Body composition result sheet, Body water result sheet (Printed 
+Paper/Blank Paper) Thermal Result Sheet(when using Thermal Printer) 
+Portability Indoor : With own cart, outdoor - with own 
+portable bag 
+Posture : Lying Posture, Seated Posture, Standing Posture 
+Electrode Type : Touch Type, Adhesive Type 
+Setting of Dialysis Mode : Measurement time(before/during/after dialysis), Access position, 
+Paralyzed position set available 
+Data Storage : Possible to save the result when inputting ID(Up to 100,000) 
+User’s Interface : Touch screen and key pad 
+Use of USB Storage Device : Possible to save data to USB Storage Device(compatible with 
+Excel and Lookin’Body software) 
+Data Back-Up : Possible to back up data through USB Storage Device and to restore the data to 
+the InBody 
+Printer Connection : USB Port 
+
+
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/1856/PHY/19/OT 
+Page 17 of 20 
+ 
+Other Specifications 
+Applied Rating Current:  
+Under100㎂ (1kHz), 500㎂ (over 5kHz) 
+Adapter Power Input:  
+           AC100-240V, 50/60Hz, 1.2A 
+Power Output Display:  
+ 
+ DC 12V, 3.4A 
+Display Type:  
+ 
+            Minimum 800 x 480 Touch color LCD 
+External Interface:  
+ 
+  RS-232C 1EA, USB Slave 1EA, USB Host 1EA 
+Compatible Printer:                     Laser:  PCL 3 or above and SPL or SPL6, Thermal   
+                                                     Printer (Optional) 
+Operation Environment:              10 ~ 40°, 30 ~ 80%RH 
+Storage Environment: 
+           -20 ~ 60°, 10 ~ 95%RH, 50 ~ 106kPa (No     
+                                                     condensation) 
+Weight Range of Subject:            10 ~ 250kg (22 ~ 551lb.) 
+Height Range of Subject:  
+95 ~ 220cm (3ft. 1.4in. ~ 7ft. 2.6 in.) 
+Warranty: 
+ 
+ 
+          2 years 
+ 
+--------------------- 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,252 @@
+--- Page 21 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/318/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+Specificationsof Extracorporeal Shockwave Lithotripter (ESWL) 
+ 
+Integrated Extracorporeal Shock Wave Lithotripter (ESWL) for treatment of urinary stones in adult 
+and children. The system should provide anaesthesia-free treatment and should have integrated X-ray 
+and ultrasound localization facilities. The system should be integrated and stationary. The system 
+should comprise the following:   
+1. Shock wave system   
+2. Stone localization system   
+3. Treatment table & accessories   
+4. Patient monitor   
+5. Fully automated control panel on bedside and at a remote location behind a lead screen 
+ 
+1.     Shock Wave System  
+1. Latest generation Electromagnetic Shock Wave Emitter Technology  
+2. Membrane based dry coupling  
+3. Shock Wave Head should have motorized movements to ensure easy targeting   without the need to 
+change patient's position or rotating the table for left or right side   stones.  
+4. Depth of penetration should be 165mm or more.  
+5. Adjustable frequency of shock-waves: a. Minimum 60 per min or lower b. Maximum of 120 per 
+min or higher  
+6. ECG gated triggering should be possible  
+7. Shock wave energy (E12 at 12mm): a. Minimum of 30mJ or lower b. Maximum of 100 mJ or higher  
+8. Shock wave head should have facility for at least 12 variable energy levels in 12 or more steps for 
+facilitating low energy treatments for paediatric patients and high energy treatments for hard stones  
+9.   Largest dimension of the focus should be 8 cm or higher  
+10. Movements of treatment table, X-ray system and the shockwave head should be motorized to 
+ensure easy and accurate stone targeting. All functions should be controllable with remote control 
+touch button keypad. One set of controls must be available at the patient side and one remote set (with 
+all functions) is to be located away from the main machine behind a lead screen, at least 3 meters away 
+from the patient.               
+ 
+2. 
+Stone Localization system:Integrated, isocentric fluoroscopy and ultrasonography: 
+ 
+A: C-Arm fluoroscopy and imaging system 
+1. The C-arm, shock-head and patient table must be integrated. There must be no need to routinely 
+check alignment between these systems by the end-user.  
+2. The equipment must have C-arm based auto-positioning capability for accurate stone localization 
+after marking of stone location on the fluoroscopy image in two planes.  
+3. High frequency microprocessor controlled generator for fluoroscopy.  
+4. Provision for continuous, pulse and single pulse fluoroscopy.  
+5. Rotating/fixed anode X-ray tube.  
+6. Minimum 40KW X-ray capability to allow all endourological interventions.  
+7. Image intensifier should be of 12 inch or greater diameter.  
+8. All movements of C-arm fluoroscope should be motorized and isocentric. 
+
+
+--- Page 22 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/318/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 22 
+ 
+9. Two LCD-TFT at least 17 inches, flat screen medical grade monitors for image display.  
+10. Image storage: 2000 or more in addition to last image hold.  
+11. Simultaneous imaging with X-Ray and Ultrasound system should be possible.  
+12. Compatible with HIS 7 interface / DICOM 3.0 ready with print, save and modality work list for 
+connecting to PACS.  
+13. Patient data management software enabling entering of patient data, storage and retrieval with 
+print-out of treatment details and image of stone location. 
+ 
+B; Ultrasound localization system  
+1. Localization should be done through an articulating arm ultrasound or in-line ultrasound, iso-centric 
+to the shock wave source for best image quality.  
+2. 3.5/4 MHz transducer on articulated support arm for easy movements and positioning,  
+3. Minimum of 12 inch display monitor  
+4. Colour Doppler imaging should be available  
+5. Simultaneous real time localization and treatment monitoring with X-ray  
+6. High resolution Black and white Thermal printer with 20 Rolls to be supplied  
+ 
+3. Treatment Table & Accessories 
+ 
+1. Ergonomicatly designed patient table usable for both for ESWL and endourological            
+procedures by allowing full patient access.  
+2. Table should have fully motorized movements  
+3. Table should be of standard dimension and support patient weighing up to 200 Kg or more.  
+4. Standard extensions/accessories (manufactured bythe principal table manufacturer and not locally 
+sourced) for comfortable supine and lithotomy positioning of adult and children including at least: 1. 
+Arm supports: 2 Nos.  2. Gel pads: 4 Nos.  3. Hydraulic leg stirrups with ankle support: 2 Nos.    4. 
+Head extension: 1 Nos.    5. Foot extension: 1 Nos. 5. Lead aprons (minimum 0.5mm thickness lead, 
+light weight with wrap around flaps and neck collars (06 Nos.) of approved quality should be provided.  
+ 
+4. Patient monitor: 
+ 
+1. Latest generation multi-parameter patient monitor with ECG, Pulse, NIBP, Pulse oximeter and 
+temperature  
+ 
+5. Remote control panel: 
+ 
+1. All functions should be controllable with remote control touch button keypad. One set    of controls 
+must be available at the patient side and one remote set (with all    functions) is to be located away 
+from the main machine behind a lead screen, at least   3 meters away from the patient. The remote 
+control centre must have all monitors    that provide C-arm image and lithotripsy parameters.  
+ 
+6. Patient Information Management System:  
+ 
+
+
+--- Page 23 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/318/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 23 
+ 
+1. Patient data management software enabling entering of patient data, storage and retrieval with print-
+out of treatment details and image of stone location  
+2. User defined templates for diagnosis and therapy, indication of calculi on image for     easy 
+documentation, patient history record and acquisition of therapy data, data     analysis and statistics  
+3. Live X-Ray Image Acquisition/Processing with last image Hold, window and level     control. 
+Horizontal reverse, vertical reverse, Grey level invert 
+4. System Backup: CD-R or DVD-R or USB  
+5. Patient data / image archive: CD-R or DVD-R or -RW or USB  
+ 
+7.  Other Terms& Conditions:  
+ 
+1. Suitable indigenous UPS with 30 minutes’ battery backup for complete load of the ESWL machine 
+as per actual requirement.  
+2. The system should be upgradable and all spare parts should be available for next 10 years after 
+commissioning  
+3. The whole equipment quoted must conform to US-FDA/ISO standards for human use with necessary 
+certificate enclosed. C-Arm fluoroscopy must conform to international safety standards against 
+radiation hazards. All equipment must be manufactured by the same company or else each component 
+must meet the US-FDA/ISO standards.  
+4. Original catalogue and detailed scientific literature of the quoted model to be enclosed.  
+5. List of users of the quoted model in India to be mentioned.  
+6. On-site training to departmental faculty and staff for optimum usage till satisfaction. 
+7. A minimum of 95 uptime guarantee must be provided. 
+8. Price listing of all spares and accessories including shock wave emitter and head should be submitted 
+along with rate contract for 10 years   
+ 
+TURNKEY WORK AND SCOPE 
+ The Supplier should inspect the proposed site offered by the Consignee Institute in which the 
+ESWL system has to be installed and they are required to submit the plan for the complete 
+ESWL Centre on a turnkey basis. The scope of work includes complete Civil work, Electrical, 
+plumbing, Furnishing, Air-conditioning and Fire fighting for the construction of ESWL 
+Centre.   
+ While preparing the plan, the following aspects have to be addressed.  
+ Care should be taken to provide easy negotiation of the patient stretchers/ trolleys through 
+corridors and doors.  
+ Radiation shielding for doors, walls, windows etc.  
+ Furniture like desk, chairs, shelves etc 
+ 
+CIVIL WORK  
+ Civil construction work including construction of brick wall if any, plastering, flooring as per 
+the approved plan and equipment layout plan for examination room console cum reporting 
+room and reception area.  
+ Concrete bed at ESWL equipment area,  
+ Platform for unloading and shifting the ESWL should be provided if necessary.  
+
+
+--- Page 24 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/318/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 24 
+ 
+ Cable tray, trench & channel – necessary trenches, cable tray and channels at required location 
+would be provided.   
+ All the construction work to be done as per the final plan approved by the Consignee. 
+ 
+FLOORING  
+ 600 x 600 mm vitrified tiles with 100mm tile skirting to match in console room, lobby and 
+patient preparation areas, Radiologist room etc.  
+ 50 mm thick cement concrete flooring with Vinyl flooring in ESWL equipment / UPS room. 
+ 
+PAINTING  
+ Two coats Plastic Emulsion Paint over 2 coats of wall putty including primer in patient 
+preparation area, patient waiting area, console room, ESWL room & Equipment room etc. 
+ 
+FALSE CEILING  
+ Acoustical tile for ceiling with light weight insulating material of high quality supported on 
+grid or finished seamless with support above ceiling. Finished with white paint or powder 
+coated with white paint, if metallic. Ceiling height to suit the equipment mount and clearances. 
+ 
+PLUMBING WORK  
+ All water pipes and fittings shall be of high density polythene of approved and standard make.  
+ The gratings shall be brass chrome plated. All plumbing accessories should be of standard 
+make.   
+ 
+ELECTRICAL WORK  
+ The supplier shall be required to specify the total load requirements for the ESWLcentre 
+including the load of air conditioning, room lighting and for the accessories if any.   
+ The supply line will be provided by the Institute up to one point within the ESWLcentre . The 
+distribution panel shall be provided by the vendor. Few lights in each room shall be connected 
+to the UPS to provide emergency lighting.  
+ The electrical work shall include the following: 
+ Wiring – All interior electrical wiring- with main distribution panel board, necessary MCBs, 
+DB, joint box, switch box etc. the wires shall be of copper of different capacity as per the load 
+and should be renowned make as listed below.  
+ Switches light and power points should be of modular type and of standard make as listed 
+below.  
+ General lights – LED light fitting with 500 Lux Illumination 
+ 
+AIR CONDITIONING:  
+ Package air conditioners units and split AC units may be used according to room requirement 
+and suitability. Humidity control should be effective to eliminate moisture condensation on 
+equipment surface. The Air conditioning should be designed with standby provision to 
+function 24 hours a day.   
+ The outdoor units of AC should have grill coverings to prevent theft and damage.  
+
+
+--- Page 25 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/318/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 25 
+ 
+ Ventilation is required in toilet. 
+ 
+ENVIRONMENT SPECIFICATIONS:   
+ Relative Humidity range: To be maintained between 60% and 80% in all areas except 
+equipment room which shall be as per requirement of the equipment.  
+ Temperature ranges: 22 ± 2° C in all areas except equipment room which shall be as per 
+requirement of the equipment.  
+ Air conditioning load: The heat load calculations and maintaining the desired temperature and 
+humidity shall be the responsibility of the bidder. 
+ 
+FURNITURE:  
+ Revolving chairs height adjustable, medium-back with hand-rest in the Control room, 
+Radiologist room and viewing area. – 7 NO.S 
+ Cupboard with laminate door shutters for storage of spare parts and accessories and records 
+as per requirement. – 4 NO.S (two each in examination room and reception) 
+ Drug trolleys for patient preparation area. – 1 No.  
+ Tables for Workstation - 1 NO.  
+ Changing rooms should have change lockers and dressing table.  
+ Dustbins – 2 No’s.   
+ Stainless steel benches of 1 x 3 configuration for waiting area – 5 No.  
+ Any other essential furniture item as per requirement.  
+ All furniture items should be of standard make as mentioned in the table below. 
+ 
+MISCELLANEOUS:   
+ LED X-ray Film viewer with adjustable brightness; capable of holding 3 films of 14”x17” 
+size. – 3 no.s 
+ Cabling of Network (LAN) connectivity for camera system, console system, workstation and 
+computers etc.  
+ Fire extinguisher Dry CO2 type as required for the building safety. 
+ Dry Chemistry Camera. Should have 500 DPI and should print at least 3 sizes of films:  8x10, 
+14x17, 10x12 inches. 200 films of each size to be supplied.  
+ Branded desktop PC with latest operating system and system configuration along with Laser 
+jet printer for reporting room. 
+ 
+ 
+ 
+ 
+
+

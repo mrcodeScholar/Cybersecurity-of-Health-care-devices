@@ -1,0 +1,80 @@
+--- Page 11 ---
+Tender for Body Composition Analyzer for Nephrology   
+ 
+              Admn/Tender/37/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+ 
+01. 
+ 
+Body Composition 
+Analyzer     
+Basic Machine  
+ 
+1. Microprocessor controlled standalone device capable of measuring 
+hydration status & nutrition. 
+2. Employs bio-impedance spectroscopy technique.  
+3. Battery Backup of at least 4-5 hours with level indicator.  
+4. Following information should be given about the individual fluid 
+status –  
+ Over-hydration  
+ Urea Distribution Volume  
+ Total Body Water  
+ Extracellular and Intracellular water  
+ Lean Tissue Index  
+ Fat Tissue Index  
+ Body Cell Mass  
+5. Should have simple button operation for changing numerical value 
+and recording any easy task.  
+6. Light weight & Compact Design.  
+7. Complete on screen data reports should be accessed.  
+8. Measurement should be based on a non-invasive and accurate 
+method that is easy to apply.  
+9. Should have software enabled feature, to provide graphical overview 
+of the fluid status and body composition of the patient.  
+ 
+Accessories  
+ 
+Compulsory accessories, for 10 patients which are must for smooth and 
+safe running of machine, must be quoted along with machine including 
+Data Processing computer and printer etc.  
+ 
+Environmental factors and power supply  
+ 
+1. Shall meet General Requirements of Safety for Electromagnetic 
+Compatibility.  
+2. The machine shall be capable of being stored in ambient temperature 
+of 0 -50deg C and relative humidity of 15-90% 
+3. The unit shall be capable of operating in ambient temperature of 20-
+30 deg C and relative humidity of less than 70%  
+4. Power input: 220-240V/ 50 Hz AC Single phase or 380-400V AC 50 
+Hz Three phase fitted with appropriate Indian plugs and sockets.  
+5. Suitable Servo controlled Stabilizer/CVT should be supplied, if 
+required. 
+ 
+Standard, safety, demonstration, training, warranty and 
+maintenance  
+ 
+1. Electrical safety conforms to standards for electrical safety.  
+2. Should be USFDA & European-CE certified. 
+3. Company should be in market for at least five years.  
+4. Machine demonstration to be done in the AIIMS Jodhpur on date and 
+time as fixed by the department.  
+5. Training of the hospital staff if required by the department should be 
+done by the manufactures.  
+01 
+
+

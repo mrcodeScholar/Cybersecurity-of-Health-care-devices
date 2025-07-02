@@ -1,0 +1,372 @@
+--- Page 48 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Handheld ICG Fluorescence System 
+ 
+Page 45 of 69 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Handheld ICG Fluorescence 
+Imaging System. 
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+TECHNICAL SPECIFICATIONS for “Handheld ICG Fluorescence Imaging 
+System” 
+1. Video Processor and Illuminator (VPI) – 01 unit 
+ 
+The VPI video processor and illuminator shall be able to provide the VIS 
+(visible) and NIR (near-infrared) illumination to the surgical endoscope via a 
+flexible light guide simultaneously 
+ 
+The VIS light source shall be consisted of light emitting diode array 
+ 
+The NIR light source shall be consisted of NIR laser diode array 
+ 
+The VPI shall be able to generate simultaneous real-time HD video color and 
+ICG fluorescence images as an overlay in the same image 
+ 
+NIR light source shall be triggered by the button on the camera 
+ 
+Video output signals: 2 HD-SDI, 1 DVI 
+ 
+Output HD format: 1080i59.94, 1080p59.94 
+ 
+Picture elements: 1920 x 1080 
+ 
+The output must be at least High definition or higher 
+ 
+The device shall be able to generate and display 4 different modes of images on 
+the monitor simultaneously: White Light mode, Black and White Fluorescence 
+mode, near infrared and visible overlay mode, Color-segmented Fluorescence 
+mode 
+
+
+--- Page 49 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Handheld ICG Fluorescence System 
+ 
+Page 46 of 69 
+ 
+ 
+Should comply with below safety standards:  
+o Electrical safety:  
+o Type of protection against electric shocks:  
+o Degree of protection against electric shocks:  
+o Laser class 
+o Radio frequency emission:  
+o Harmonic emissions:  
+o Embedded Laser Source  
+ 
+Accessible near infrared radiation Should be 
+o Acceptable divergence 
+o Wavelength: 805nm-835 nm  
+2. Full HD Portable Handheld Imager – 01 unit 
+ 
+Preferably CMOS HD sensor assembly 
+ 
+Resolution: 1080P 
+ 
+Frame rate: 60fps 
+ 
+Working distance: 10 - 40cm 
+ 
+Aspect ratio: 16:9 which can display captured images in widescreen monitor 
+without any signal conversion 
+ 
+The imager should have illumination ports to visually define FOV extent for 
+the operator and ensure adequate illumination of anatomy irrespective of 
+lighting conditions. 
+ 
+The imager should be able to use at ambient room lighting immune to 
+ambient room lighting, which means room lights can be turned on during 
+imaging 
+ 
+The imager has to be supplied with bed-mount arm to avoid fatigue of 
+operator for long-duration procedures. 
+ 
+The imager has to be supplied with sterile drape so that it can be placed in 
+the surgical field without contamination. 
+ 
+The imager shall have multiple buttons for quick functions and setting 
+purpose 
+o buttons for focusing the image 
+o A button to toggle between VIS and NIR 
+o A button to toggle between different modes of NIR 
+
+
+--- Page 50 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Handheld ICG Fluorescence System 
+ 
+Page 47 of 69 
+ 
+o A button to call for menu functions 
+o Basic functions including turning camera light on and off, white 
+balance, screen capture and recording can be done using the buttons 
+on the camera 
+3. High Resolution Medical Grade Monitor- 01 unit 
+ 
+26 Inch or more LED surgical display  
+ 
+Resolution of 1920 x 1080 
+ 
+Should have DVI, and HDMI inputs 
+ 
+Aspect Ratio 16:9 
+ 
+Should meet European CE or USA FDA approval standards 
+4. High-definition Medical Video Recorder 
+o Should have provision to record the images and video sequences in OT. 
+o Should be compliant to Medical standards 
+o It should support wide range of recording resolutions 
+ 
+1920 x 1080 (30Hz / 29.97Hz) to 640 x 480: Undiluted 
+recording resolution 
+ 
+1921 x 1201 (Resize to 1728 x 1080): Supported Input 
+resolution 
+o It should have multiple HD & SD inputs/outputs 
+o Should have still image recording format of jpeg and video format of 
+MPEG-4  
+o Display should be at least 3.5” LCD 
+o It should support recordable devices like USB Flash Drive, USB Hard 
+Drive, Internal hard drive of 500 GB 
+o Should be FDA approve Class 1 device 
+o Should be from the OEM 
+The above-mentioned systems should be provided by below mentioned 
+accessories: 
+1. Articulating Arm - 01 unit 
+ 
+This arm is used to hold and position the camera head as per the surgical 
+requirements 
+ 
+This should have components to enable fixation to the OT table and ICG 
+camera/ imaging head:  
+
+
+--- Page 51 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Handheld ICG Fluorescence System 
+ 
+Page 48 of 69 
+ 
+ 
+The table clamp provides an attachment point to the operating table side rail. 
+Accepts and holds the column of the main arm in position and allows for full 
+range of rotation. 
+ 
+The Main Arm provides three-point positioning of the imaging head into the 
+surgical field 
+ 
+The imaging head holder Connects to the distal end of the main arm to provide 
+an attachment point for the imaging head 
+ 
+The arm should be made up of metal and must be reusable after autoclaving/ 
+other sterilization modes  
+2. ICG ( Indocyanine Green): 100 unit 
+ 
+ICG contains not more than 5.0% sodium iodide 
+ 
+ICG is a sterile, water soluble, tri carbocyanine dye with a peak spectral 
+absorlasma or blood at 800-810nm of near infrared light range 
+3.  Drapes for hand held imager: 50 Unit 
+4. Monitor stand  
+5. Trolley for set up 
+6. Cover for set up 
+General  
+1. All the above equipments should have USFDA and European CE and should 
+be enclosed compulsorily 
+2. Spares and consumables should be available for a period of at least 5 years 
+and more after the expiry of the guarantee/ warranty period 
+3. The principles must give a certificate if the supplier/ vendor is changed during 
+the course of guarantee/ Warrantee period  
+4. The principles would be responsible for the upkeep/ maintenance of the 
+quote/ supplied equipment, besides honoring all the terms and conditions of 
+the CMC/ AMC in letter and Spirit 
+5. The firm must attach the list of installations and also provide performance 
+certificate in last 5 years from central govt/ state government/ reputed private 
+hospitals 
+6. System configured application specific educational video tutorials shall be 
+provided as standard with the system 
+7. All the accessories should preferably be from the original equipment 
+manufacturer 
+8. Should provide 5-year CMC 
+9. Details of the service outlet in India to render services during 5 years warranty 
+period 
+
+
+--- Page 52 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Handheld ICG Fluorescence System 
+ 
+Page 49 of 69 
+ 
+10. 
+All repair calls to be attended to within 48 hours. 
+11. 
+Machine downtime should never be more than a week. The dealer shall 
+provide a ‘standby machine’ in case the machine downtime due to repairs is 
+expected to be more than 30 days as the patient services should not be 
+affected. 
+12. 
+Installation, Commissioning and Training 
+a) The equipment and all accessories should be installed, tested and 
+commissioned at the department of Surgical Oncology, AIIMS, 
+Mangalagiri free of cost. 
+b) The supplier must train the technical staff and faculty of the institute, 
+regarding all the operators available on the system. 
+• 
+Technical compliance report should be submitted in following format: 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation 
+if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. 
+Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the 
+TE document for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) Warranty period will be 5 years 
+from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & 
+handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty 
+period by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) 
+basis. 
+c) All software updates should be provided free of cost during Warranty 
+period. 
+2. 
+After Sales Service:  
+After 
+sales 
+service 
+center 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service 
+should be provided directly by Tenderer/Indian Agent. Undertaking by the 
+Principals that the spares for the equipment shall be available for at least 10 
+years from the date of supply. 
+3. 
+Training:  
+4. 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ 
+Indian Agents (if they have the requisite know-how) for operation and 
+maintenance of the equipment to the satisfaction of the consignee. The same 
+will be in line with the training modalities as specified in general technical 
+specification. 
+5. 
+Annual Comprehensive Maintenance Contract (CMC) of subject equipment 
+with Site Modification Work: 
+a) 
+The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ 
+
+
+--- Page 53 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Handheld ICG Fluorescence System 
+ 
+Page 50 of 69 
+ 
+service /operational manual of the manufacturer, labour and spares, after 
+satisfactory completion of Warranty period may be quoted for next 5 years on 
+yearly basis for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) and Site Modification Work (if any). The 
+supplier shall visit each consignee site as recommended in the manufacturer’s 
+technical/ service /operational manual, but at least twice in six months (i.e. 4 
+preventive maintenance/ year) apart from all breakdown visits, during the 
+CMC period 
+b) 
+The cost of CMC may be quoted along with taxes applicable on the date of 
+Tender Opening. The taxes to be paid extra, to be specifically stated. In the 
+absence of any such stipulation the price will be taken inclusive of such taxes 
+and no claim for the same will be entertained later. 
+c) 
+Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) 
+The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank 
+guarantee for 2.5% of the cost of the equipment as per Section XV valid till 2 
+months after expiry of entire CMC period. 
+e) 
+There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) 
+X 365 (days) basis, with penalty, to extend CMC period by double the 
+downtime period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee’s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) 
+All software updates should be provided free of cost during CMC. 
+h) 
+Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of 
+the Bank Guarantee for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+ 
+Note 1:  
+Tenderer’s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The 
+tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it’s tender is liable to be ignored. 
+Note 2:  
+General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked for 
+and should make sure that Electrical Safety Analyzer / Tester for Medical equipment 
+to periodically check the electrical safety aspects as per BIS Safety Standards IS-
+13540 which is also equivalent to IEC electrical safety standard IEC- 60601 is a part 
+of the equipment s. If the Electrical Safety Analyzer/Tester is not available they 
+should provide a commitment to get the equipment checked for electrical safety 
+compliance with Electronic Regional Test Labs / Electronics Test and Development 
+Centres across the country on every preventive maintenance call. 
+Note 3:  
+Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management 
+information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical 
+training for personnel involved in the use and handling of the equipment on site at 
+the institute immediately after its installation. The company shall be required to train 
+the institute personnel onsite as and when required. 
+All software updates should be provided free of cost during warranty period and CMC 
+period 
+ 
+
+

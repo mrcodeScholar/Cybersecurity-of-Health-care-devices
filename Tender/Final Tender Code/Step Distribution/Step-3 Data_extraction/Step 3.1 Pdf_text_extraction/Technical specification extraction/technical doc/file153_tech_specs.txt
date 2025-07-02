@@ -1,0 +1,254 @@
+--- Page 16 ---
+16 | P a g e  
+ 
+ 
+Section-V 
+TECHNICAL SPECIFICATION OF ITEMS 
+S.No  
+Item  
+Technical Specification  
+Qty 
+ 
+ 
+1.  
+ 
+ 
+CBCT (for   
+Craniofaci
+al  Region 
+with Field 
+of  
+View 
+(FOV)  
+15cm on   
+Turnkey   
+Basis) 
+ 
+ 
+A) RVG + OPG, CBCT ,CEPH + PORTABLE 
+X-RAY (for Craniofacial Region with  Field of 
+View (FOV)>15cm on Turnkey Basis) 
+1) The CBCT machine should have cone beam 
+technology  
+2) It should be capable 3D volumetric imaging in 
+axial, coronal and sagittal planes.  
+3) The unit should have automatic selection of  
+radiological parameters as per patient requirement  
+4) It should have push button / touch screen 
+operating controls 5) The operating controls 
+should have graphic user interface  
+6) The remote operating control should preferably be 
+mounted outside X ray room  
+7) It should have Emergency stop button  
+8) CBCT Machine and all accessories should 
+confirm to National and  International 
+standards  
+9) CBCT machine should be AERB certified and 
+registered  
+10) Input Voltage: The machine must be operable 
+with 220V, 50 Hz frequency  
+11) X-ray generator: High frequency X-ray 
+generator with constant potential.  
+12) X-ray tube voltage: 50-120 KVp  
+13) mA (tube current): 1- 15 mA  
+14) 14. Total filtration: 2.5 mm Aluminium equivalent 
+and above 15) X Ray tube: From reputed 
+manufacturer, compliant with National and   
+ International standards for CBCT  
+16) Focal spot size: 0.7 mm or less  
+17) Detector: Should be high detective  
+quantum efficiency device  
+ distortion free. Amorphous  
+Silicon flat panel   
+ detector. Should have single  
+detector for  
+ Cephalometric/Pan and CT   
+(Both 2D and 3D   facility with same sensor)  
+18) Gray scale: 14 bits or more.  
+19) Voxel size: Isotropic, ranging from 75µm - 300 
+µm 20) Resolution: Mention spatial resolution (min 5 
+01 
+
+
+--- Page 17 ---
+17 | P a g e  
+ 
+LP/mm) in different modes  
+a. Standard, High, Low) and different  
+FOV (small, medium, large)  
+21) Image acquisition: In one single rotation (200-
+360 degrees) 22) Field of View FOV: Capability for 
+Small, Medium and Large FOVs  
+a. FOV should be available for  
+complete craniofacial imaging  
+for adult from vertex to chin in 
+ 
+ 
+a single scan in 3D {20 cm   
+(Diameter) X 17 cm (Height)  
+and above}  
+b. Also Multiple FOV options for   
+different areas  
+23) Scan time: 4- 60 seconds  
+24) Reconstruction time: Reconstruction time not 
+more than 60 seconds.  
+25) Patient positioning: Standing/ Sitting with wheel 
+chair access a. Patient immobilization devices  
+and LASER positioning beams  
+for accurate positioning  
+26) Scout scan: Scout scan facility should be available 
+in machine  
+27) Software Latest, comprehensive and user-
+friendly original application  
+a. Software should be provided with  
+machine.  
+b. Software should be able to create   
+DICOM images as well as other image   
+formats such as STL format(for   
+CAD/CAM and 3D printing) and JPEG,   
+TIFF etc. (for sharing in common   
+platforms)  
+28) The vendor should provide original software and 
+timely upgrade of the software related to machine 
+once it becomes available and should be provided 
+free of cost.  
+29) Post processing features  
+i. 3D reconstruction  
+ii. Cross sectional slices (multiplanar)  
+iii. Threshold selection  
+iv. Segmentation and 3D modelling  
+v. Panoramic view mapping  
+vi. Orthodontic reconstructions  
+vii. Implant planning software compatible with 
+popular implant planning models  
+viii. TMJ analysis  
+ix. Airway assessment  
+x. Magnification,  
+xi. Density (HU)calculations  
+xii. Labelling  
+xiii. Multi-color tone selection facility for better 
+image visualization xiv. 3D clipping (cropping 
+facility)  
+xv. High contrast mode for hard tissue (bone, enamel 
+ 
+
+
+--- Page 18 ---
+18 | P a g e  
+ 
+dentin) display xvi. Measurement tools (linear and 
+angular)  
+xvii. Nerve canal and other anatomical structure 
+(root canals, periodontal bone) estimation  
+xviii. True size reconstruction for jaw, cranium or 
+any small 
+ 
+ 
+volume as desired by operator at later time  
+xix. Facility for simultaneous display of PAN, CEPH 
+and cross  sectional images  
+xx. Upgradable for integration with third party CAD 
+CAM  system.  
+Computer Workstation (Including Furniture): 
+Compatible with machine - 2   
+a. Computer hardware of high specifications 
+compatible with machine for image processing, 
+archiving and printing  
+b. CD/DVD drive  
+c. Processor: Compatible with machine software 
+Intel Core i7 and above  
+d. Operating system: Compatible with machine and 
+software  
+e. RAM: 16GB and above  
+f. Graphics card: Dedicated 4 GB and above  
+g. USB ports.: 3 and above  
+h. Hard disk capacity of at least 3 TB  
+i. Medical grade flat screen monitor with high 
+resolution (27  
+inches or above)  
+j. The display matrix should be at least 1024 X 1024  
+k. DICOM facility to send, store, print, receive, 
+Query /Retrieve, MWM , MPPS etc. should be 
+standard  
+l. One DICOM Printer compatible with Unit to be 
+supplied with the  Unit.  
+i. Should be with Dry view Printing Technology  
+ii. Should be compatible for different image size 
+(8x10, 6x12,  14x17 etc.)   
+iii. Should have True laser technology 
+(Photothermographic) iv. Should have Greater than 
+600 laser pixel per inch.   
+v. Should be able to integrate with Hospital PACS  
+vi. AGFA, Carestream, Fuji or Equivalent   
+m. Should be supplied with One Colour Laser Jet 
+printer   
+i. Should have print scan and copy facility   
+ii. Should have a dpi 600 or above   
+iii. Should have Wi Fi connectivity  
+iv. Colour ink should be supplied for at least three 
+years  
+v. HP, Canon or equivalent  
+n. High Quality wooden/SS Furniture and two 
+comfortable Chairs as  per location for work station 
+and DICOM Printer. Two SS almirah’s  for record 
+keeping and storage purpose  
+o. Should be supplied with heavy duty UPS for Unit 
+ 
+
+
+--- Page 19 ---
+19 | P a g e  
+ 
+and Computer.  Minimum 5 KV with 30 minutes 
+backup  
+p. Anti - virus software compatible with system with 
+at least 3 years license 
+ 
+ 
+Other Essentials  
+1. The installation room should be prepared on 
+turnkey basis   
+according to AERB guidelines including lead lining 
+and other   
+mandatory requirements  
+2. The turnkey should also include signage’s for 
+CBCT room and  radiation safety  
+B  
+I. Warranty& CMC: 5 years warranty and 5 years 
+CMC   
+II. Training: Comprehensive support for training for 
+radiographers  and faculty by an application 
+specialist enlisted with the manufacturer  in India for 
+an extended period till fully trained (at least 6 weeks)  
+III. Data sheets: Original data sheets should be 
+attached to support the compliance. Page number of 
+datasheet to be mentioned in compliance statement.  
+IV. List of Installations: List of CBCT machines 
+installed in India in  government and private 
+organizations should be attached  
+V. Technical Operator’s Manual and Quality 
+assurance manual:  These manuals must be provided 
+(multiple copies) in English  
+VI. Authorization letter: The distributor should 
+provide recent letter  from parent company of CBCT 
+machine stating that they are their  authorized 
+representatives for selling repair and maintenance of 
+the  CBCT machines in India  
+VII. Quality assurance: Quality assurance tests for 
+CBCT as per AERB norms to be provided by vendor 
+for CMC period.  
+All Prospective bidders are advised to submit their 
+financial bids including cost  of equipment under Sub 
+headings A, (machine cost and accessories) B (CMC)  
+and C (any other charges) separately   
+The selection of L1 bidder will be arrived after 
+taking composite rates of all  above items i. e 
+machine cost, CMC and any other accessories. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

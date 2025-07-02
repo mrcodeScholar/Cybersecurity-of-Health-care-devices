@@ -1,0 +1,140 @@
+--- Page 10 ---
+Tender for Laparoscopic Simulator                                                                                       Admn/Tender/124/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Laparoscopic 
+Simulator 
+1. The system should be fully computerised and interactive. 
+2. PC and simulation processor 
+3. 24" flat touch screen 
+4. Foot switch for electrosurgical coagulation 
+5. High performance force feedback  
+6. Five (5) degrees of freedom 
+    
+7. High performance and precision 
+8. Original adapted instrument handles (graspers) 
+9. Interchangeable suturing handles with suturing module 
+10. The system should be able to provide comprehensive training in 
+the field of laparoscopic surgery. 
+11. The system should feature built in tools for training group and 
+individual trainee. 
+12. The system should have all parameters to evaluate trainee. 
+13. preferably a web based simulator curricula management 
+system, providing the optimal solution for managing training, 
+reporting and education 
+14. The system should have the following modules : 
+ Basic eye hand co-ordination skills 
+ Basic Laparoscopic Skills 
+ Tissue grasping, dissection and coagulation skills 
+ Basic and advanced suturing skills 
+ Trainee evaluation module 
+A. Lap.  Cholecystectomy  
+B. Lap.  Appendectomy 
+C. Lap. Intracorporial suturing and GI anastomosis.  
+D. Lap. Nephrectomy 
+E. Lap. Bariratric Procedure (Lap. Banding /Sleeve gastrectomy/ 
+Bypass) 
+F. Lap. Hysterectomy 
+G. Vaginal vault suturing/ Myoma suturing.  
+H. Salpingectomy/ Salpingostomy  
+I. VATS/ Lobactomy  
+J. APR/LAR/Right 
+Hemicolectomy/ 
+Left 
+Hemicolectomy/ 
+Sigmoidectomy.  
+K. Basic skill modules/ Fundamental task include Task traning 
+and camera training.  
+L. Lap. Hernioplasty / Herniotomy.  
+M. Any other module which is available with the vendor 
+/Manufacturer.  
+All Supplied module should be upgradable (Free of cost) for a 
+period of 5 years.  
+Rate should be quoted (per Module) for future upgradation of new 
+module.   
+15. The system should have options of selecting various hand 
+instruments. 
+16. The system should have energy sources like harmonic and 
+diathermy. 
+17. The system processing unit should be latest generation. 
+18. The system should be CE certified. 
+19. 3D anatomical maps should be available on certain modules. 
+20. Short video of real-life procedures for better understanding of the 
+trainee. 
+01 
+
+
+--- Page 11 ---
+Tender for Laparoscopic Simulator                                                                                       Admn/Tender/124/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21. Custom building of training modules for learners of all levels. 
+22. Viewing and exporting of performances reports facilitates 
+learning, analysis of training effect, showing the learning curve, 
+research and future certification. 
+23. Technical Skills Reporting and Assessment : 
+a) Time and economy of movements. 
+b) Safety and electrosurgical dissection. 
+c) Procedural errors. 
+d) Procedure specific checklist items relating to knowledge of 
+procedures, handling of instruments and many more. 
+
+

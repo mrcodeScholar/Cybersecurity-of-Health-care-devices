@@ -1,0 +1,210 @@
+--- Page 45 ---
+                                                                      
+                            Tender No. AIIMS/R/CS/SG/Ech/1/8/2022/GTE 
+45  
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+               Technical Specification for  Echo and USG machine 
+Technical Details: 
+1. Should have Ultra High Resolution Imaging and Doppler for Clinical Intraoperative Needs. 
+2. Should have a short boot time not more than 60 seconds. 
+3. Should have a graphic processing unit for faster work process. 
+4. Should have speckle reduction technology for enhancing tissue margins for better anatomical 
+visualization and to improve better organ anatomy from different angles. 
+5. Should have optimization of ultrasound image formation by using multi-channel synthesis technology 
+to reduce noise and artifacts. 
+6. 19” flat panel monitor should have a swivel facility. 
+7. Should have a back illuminated keyboard for easy access. 
+8. Control panel should be sealed and spill proof for easy cleaning and disinfection. 
+9. Should have a height adjustable mechanism with a control panel. 
+10. Should have facilities to compensate for the motion related imaging artifacts. 
+11. Should have technology to maintain autofocus for entire imaging depth. 
+12. System should have an auto axial and lateral gain facility. 
+13. Should have DICOM capabilities. 
+14. Should have Wi-Fi capabilities. 
+15. Should have an internal hard drive to store images. 
+16. USB Flash memory drive should be the part of the system. 
+17. Should be of latest generation digital beam former technology. 
+18. Imaging Modes: System should have following modes:  
+I. 
+B mode 
+II. 
+M Mode 
+III. 
+Color Doppler 
+IV. 
+Power Doppler 
+V. 
+Pulsed Wave Doppler 
+VI. 
+Continuous Wave Doppler 
+VII. 
+Tissue Harmonic Imaging 
+VIII. 
+Contrast Imaging 
+IX. 
+Elastography 
+19. Should have a facility to connect at least four transducers. 
+20. Transducer should have pin less connector for easy insertion and to reduce noise 
+21. All quoted transducers should be fully immersible for easy sterilization and also compatible with 
+standard sterilization methods like Sterrad and Steris systems. 
+
+
+--- Page 46 ---
+                                                                      
+                            Tender No. AIIMS/R/CS/SG/Ech/1/8/2022/GTE 
+46  
+ 
+22. System should be able to communicate with daVinci surgical robot’s tile pro. 
+23. Sterilizable remote control for convenient control of the system in the sterile field should be supplied. 
+ 
+Transducers and accessories: 
+24. The following sterilisable transducers to be supplied along with the system: 
+i. 
+A 5-14 MHz T-shaped intraoperative transducer with Wide Near-Field View. 
+ii. 
+A simultaneous biplane imaging transducer with transverse and sagittal arrays. Both arrays should 
+be able to provide simultaneous biplane imaging during open surgeries for accurate needle 
+placement and biopsies. Should be quoted with biopsy attachment. 
+iii. 
+A laparoscopic four way deflectable flexible transducer which can be used through normal 
+laparoscopic ports (10-12 mm). It should have a puncture channel situated at the top for puncture 
+and biopsy. 
+iv. 
+2-6MHz multi frequency standard convex abdominal transducer with customizable start stop button 
+and autoclavable biopsy guide. 
+v. 
+5-12 MHz mini-T shaped high frequency intra operative transducer with small footprint. It should 
+have integrated needle guidance for predictable intervention. 
+25. The system should be supplied with compatible application-packs necessary for proper functioning of 
+the supplied transducers. (HPB surgery procedural application kit - auto-optimization algorithms, 
+optimized presets, measurements, calculations, worksheets and reports; Laparoscopic and Robotic 
+surgery procedural application kit - auto-optimization algorithms, optimized presets, measurements, 
+calculations, worksheets and reports; DICOM standard with encryption; wireless remote control; 
+Abdominal procedural application kit - auto-optimization algorithms, optimized presets, measurements, 
+calculations, worksheets and reports) 
+26. An optional 1-5 MHz phased array transducer with required application pack for basic 
+echocardiography may be included. An optional MSK and Nerve Procedural application pack may also 
+be included. 
+27. Transducers must have start-stop button/s - unique smart button/s to activate, select, freeze, print and 
+store images with a simple press.  
+28. Necessary printing accessories including color printer to be supplied with the equipment. 
+29. It should be supplied with all necessary cables for the device to function. Firm will have to supply the 
+stabilizer with the equipment if it is essential for the performance of the equipment. 
+Certifications: 
+
+
+--- Page 47 ---
+                                                                      
+                            Tender No. AIIMS/R/CS/SG/Ech/1/8/2022/GTE 
+47  
+ 
+30. It must be BIS / European CE / USFDA certified and the certification specific for the product should be 
+submitted. 
+Other terms and Conditions: 
+31. All the Transducers and machine which are being asked in the tender must be of the same manufacturer, 
+else the bidder will be outrightly disqualified 
+32. Demo should be provided during technical evaluation. 
+33. Demonstration and onsite training of staff by the application experts is mandatory. 
+Warranty: 
+34. 5 years warranty + 5 years comprehensive maintenance contract. The cost of warranty and CMC will be 
+included in the total cost of financial comparison. Original literature of equipment should be submitted. 
+During the Warranty & CMC period, the supplier / firm must provide minimum 04 (four) preventive 
+maintenance as well as routine services. After sales services must be provided at AIIMS, Raipur (at 
+installation site). In situations requiring service or repair of the unit outside AIIMS, Raipur and 
+commissioning, the expenditure on the account of this will have to be borne by the supplier. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 48 ---
+                                                                      
+                            Tender No. AIIMS/R/CS/SG/Ech/1/8/2022/GTE 
+48  
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE 
+document for complete equipment (including Batteries for UPS, other vacuumatic 
+parts wherever applicable) Warranty period will be 5 years from the date of 
+installation, commissioning and Site Modification Work from the date of 
+satisfactory installation, commissioning, trial run & handing over of equipment to 
+Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period 
+by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After 
+sales 
+service 
+centre 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service should 
+be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date of 
+supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian 
+Agents (if they have the requisite know-how) for operation and maintenance of the 
+equipment to the satisfaction of the consignee. The same will be in line with the 
+training modalities as specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ service 
+/operational manual of the manufacturer, labour and spares, after satisfactory 
+completion of Warranty period may be quoted for next 5 years on yearly basis for 
+complete equipment (including Batteries for UPS, other vacuumatic parts 
+wherever applicable) and Site Modification Work (if any). The supplier shall visit 
+each consignee site as recommended in the manufacturer‟s technical/ service 
+/operational manual, but at least twice in six months (i.e. 4 preventive 
+maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of 
+any such stipulation the price will be taken inclusive of such taxes and no claim 
+for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank guarantee 
+for 2.5% of the cost of the equipment as per Section XV valid till 2 months after 
+expiry of entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 
+365 (days) basis, with penalty, to extend CMC period by double the downtime 
+period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee‟s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the 
+
+

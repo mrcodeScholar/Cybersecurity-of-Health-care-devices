@@ -1,0 +1,210 @@
+--- Page 11 ---
+ Tender for  Neonatal Ventilator                                                                                         Admn/Tender/106/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Neonatal 
+Ventilator 
+1. The ventilator should be microprocessor controlled designed 
+for neonatal use with possibility to upgrade with additional 
+features. 
+2. Continues flow, pressure limited, time cycled ventilator deign 
+3. Ventilator modes: should have following modes available in 
+the unit 
+a) IMV/IPPV 
+b) CPAP including non-invasive ventilation 
+c) SIMV, SIPPV/Assist-control 
+d) High frequency oscillatory ventilation which is 
+oscillating diaphragm based 
+e) Volume targeted/guarantee mode of ventilation with 
+ability to deliver and monitor tidal volume as low as 1-
+2 ml  (Range 2 ml to 50 ml) 
+f) Pressure support mode of ventilation 
+g) Apnoea back-up ventilation 
+4. Should have integrated high resolution LCD screen minimum 
+12” color display with touch screen facility for real-time 
+display of scalar (Pressure, Flow and Volume against time) and 
+loop (Pressure-volume, volume-flow and pressure-flow). 
+Graphic display of at least 3 waveforms together out of choice 
+of flow, volume and pressure versus time with a facility to 
+freeze these waveforms. Facility for loops together with a 
+facility to freeze the same 
+5. Should have graphical as well as tabular trend facility of data 
+up to 24 Hrs 
+6. Digital display of FiO2, peak pressure, mean airway pressure, 
+CPAP/PEEP, Expiratory tidal volume, expiratory minute 
+volume, total frequency, spontaneous frequency, lung function 
+monitoring including compliance, resistance, lung distention 
+coefficient, (C20/C), Lung time constant, Rate volume ratio 
+etc.  
+7. Should have built-in logbook for recording events like various 
+alarms 
+8. Integrated 
+monitoring: Integrated 
+volume 
+and 
+pressure 
+monitoring i.e. monitoring of PEEP Pmax, Pmean and VT, 
+VTspont, MV and MVleak. The volume monitoring should 
+have NTPD to BTPS correction.  
+9.  Monitoring of I:E, frequency and Spontaneous Frequency. 
+10. Settings range: 
+a) Trigger Flow/ volume, leak adapted 
+b) PIP  10 to 80 cm H2O 
+c) PEEP/ CPAP 0 to 25mbar 
+d) I:E ratio1:0 to 1:10 
+e) Insp. Time 0.1 to 2 Sec 
+f) Exp. Time 0.2 to 30 sec 
+g) Frequency Up to 200 BPM 
+h) Base Flow (VIVE) 1 to 30 LPM 
+i) Synchronization Patient synchronization with adjustable 
+flow trigger 
+j) High frequency amplitude 1-100% 
+k) Integrated blender for Oxygen 21% to 100% 
+05 
+
+
+--- Page 12 ---
+ Tender for  Neonatal Ventilator                                                                                         Admn/Tender/106/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+l) Integrated nebulization facility 
+m) Integrated monitoring of FiO2 
+11. Monitoring of flow: At the Y piece with facility to activate or 
+deactivate it  
+12. Should measure parameters  in HFOV such as DCO2, VtHF,  
+MVim and VTim 
+13. Ventilator  should have following  features in  Pressure 
+Support/ Volume Guarantee:  
+a) It should be possible to give leakage adapted inspiratory 
+trigger during pressure support to spontaneously breathing 
+patients with a set volume guarantee. 
+b) Volume guarantee should be regulated with lowest possible 
+airway pressure within a set PIP. 
+c) It should be possible to adjust the Volume Guarantee 
+manually as per patient requirement  
+14. Audiovisual alarms with advisory on-screen message: MV 
+high/Low, Apnea, tube obstruction, FiO2 high/low high PIP, 
+low PEEP/CPAP, fail to cycle, gas supply low, power failure, 
+ventilator inoperative, alarm log book 
+15. The ventilator should have automatic compensation for leakage 
+and should monitor and display leakages 
+16. The ventilator should show trends of important parameters viz. 
+C,R, FiO2, MAP etc. for evaluation of patient improvement  
+17. Ventilator should be US FDA and European CE approved 
+product and should submit the respective certificate of US 
+FDA and European CE 
+18. Ventilator should be supplied with Good quality medical air 
+compressor (European CE marked)  
+19. The Servo Controlled Heated wire Humidifier should be 
+supplied along with Reusable patient circuit. The humidifier 
+must be USFDA approved   
+20. Battery back-up (at least 30 minutes) Battery should be 
+integrated and should provide backup to both ventilator & Air 
+compressor 
+21. Should be supplied with ultrasonic nebulizer which should 
+have capability to deliver particle size of < 3 micron and to be 
+used in both off and on line with ventilator. 
+22. Training CD/DVD 
+23. List of consumables expected to be used in one year should be 
+provided and quoted separately. Prices so quoted to be frozen 
+for 5 years 
+24. The department will like to have a live demonstration of the 
+equipment 
+25. Instruction manual  to be supplied with the quotation 
+26. Company should certify that model quoted is latest and not 
+obsolete, and spares are available for minimum 5 years after 
+warranty.  
+27. Should have permanent Electronic O2 Sensor .Company will 
+provide life time warranty on Oxygen  sensor 
+28. Quoted firm should have a functional local service setup for 
+after sales service 
+29. Ventilator should have Up gradation facility with EtCO2  
+30. Machine should have facility to set exp flow different than 
+inspiratory flow to help in ETCO2  flush 
+31. Scope of supply with each ventilator 
+a) Ventilator on trolley with wheels and brake facility 
+
+
+--- Page 13 ---
+ Tender for  Neonatal Ventilator                                                                                         Admn/Tender/106/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b) Integral medical air compressor 
+c) Humidifier: Autoclavable humidifier chamber (2 with each 
+ventilator)  
+d) Circuit support arm 
+e) 2 hose sets for conventional reusable  neonatal ventilation 
+circuit 
+f) 5 hose sets of disposable  conventional neonatal ventilation 
+circuit 
+g) 1 hose set for reusable HF ventilation 
+h) Bacterial filters 
+i) Flow sensors (20 sets with each ventilator) 
+j) Oxygen cell 
+k) Oxygen connecting hose 
+l) Air connecting hose 
+m) Test lung 
+n) Heater wire (3 each) 
+o) Temperature probe (3 each) 
+p) Expiratory valve (2 with each) 
+q) Nasal interface (3 in number) with nasal mask (4 each of 
+all sizes) and nasal prongs (4 each of all sizes) and bonnet 
+(5 each of only preterm size) with each ventilator. 
+32. The ventilator should have following options  
+a) RS 232C port for data transfer and software compatible 
+with windows   
+b) Communication interface with Laptop 
+c) PC software for archiving and analysis 
+d) Provision for future software/ hardware upgrades should be 
+available 
+33. Items covered under warranty/CMC 
+a) Prices of all consumables  should be quoted separately 
+and frozen for the period including warranty and CMC  
+34. Should have local service facility and should have the 
+necessary equipment to carry out preventive maintenance test  
+35. Onsite physical demonstration and training of the equipment to 
+all the end users with all  the requested facilities will be 
+mandatory 
+36. Availability of spares for at least eight years after date of 
+installation 
+37. Original literature, and not the photocopy, to be supplied with 
+the quotation 
+38. Company should certify that model quoted is latest and not 
+obsolete, and spares are available for minimum 6 years after 
+warranty.  
+39. Machine should have automatic calibration for O2 sensor 
+Humidifier should also be automated servo controlled and should be 
+US FDA certified 
+
+

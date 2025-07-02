@@ -1,0 +1,87 @@
+--- Page 20 ---
+E Tender No 31 AIIMS Bhopal/Biochemistry /fluorescence detector for HPLC / 2018-19/01 Dated: 30.1.2019   ( Pg No. 20 of 45  ) 
+Technical Specification and Tentative Quantities of requested Equipment:- 
+ 
+S. No. 
+Equipment 
+Name 
+Technical Specification/ Description of the requested 
+Equipment 
+Qty.  
+(in 
+No.) 
+      1 
+Fluorescence 
+detector for 
+HPLC 
+1.    Should be compatible with Agilent 1220 Infinity HPLC system 
+2.    Detection type: Programmable single wavelength (excitation and 
+emission) fluorescence detector. 
+3.   Performance: Raman (H2O) > 3000 (noise reference measured at dark 
+value) 
+4.   Ex 350 nm, Em 397 nm, dark value 450 nm, standard flow cell 
+5.   Light source: Xenon flash lamp, normal mode (20 W), economy mode (5 
+W), lifetime 4000 hours   
+6.   Pulse frequency: 296 Hz for signal mode, 74 Hz for economy mode    
+7. Excitation and emission monochromator: Concave holographic grating, 
+F/1.6, blaze 300 nm (excitation) and blaze 400 nm (emission), Range 200 – 
+1200 nm and zero-order, bandwidth 20 nm . 
+8. Range: settable 200 – 1200 nm and zero-order, bandwidth 20 nm  
+9. Reference system: Inline excitation measurement. 
+10. Time programming: Response time, PMT gain, baseline behavior 
+(append, free, zero). 
+11. Step size: 1-20 nm 
+12. Wavelength repeatability: ± 0.2 nm 
+13. Wavelength accuracy: ±3 nm 
+14. Data rate: 74 Hz 
+15. Spare Xenon flash Lamp 
+16. Flow cells: Standard: 8 μL volume, 20 bar (2 MPa) pressure maximum, 
+quartz.  
+Optional: 
+Semi-micro flow cell, 4 μL, 20 bar pressure maximum 
+Bio-inert flow cell, 8 μL, 20 bar pressure maximum 
+17. Environment: 0 - 40 °C constant temperature at <95% humidity (non-
+condensing) 
+18. Analog outputs: Recorder/integrator: 100 mV or 1 V, 
+19. Output range selectable from 0.2 to 400 LU, 2 outputs 
+20. Communications: LAN, Controller-area-network (CAN), RS232, APG 
+remote 
+21. Remote access: ready, start, stop and shut-down-signals 
+22. Safety and maintenance: Extensive diagnostics, error detection and 
+display (through Chem Station and Instant Pilot), leak detection, safe leak 
+handling, leak output signal for shutdown of pumping system. Low 
+voltages in major maintenance areas. 
+23. GLP: Early maintenance feedback (EMF) for continuous tracking of 
+instrument usage, display of feedback messages in terms of lamp burn time 
+with user-settable limits and feedback messages. Electronic records of 
+maintenance and errors. Verification of wavelength accuracy using Raman 
+band (H20) lines. 
+ 
+1 
+ 
+Note: - All Tenderers should quote Equipment/Items with following approved   
+             standards:- 
+ All Instrument should be USFDA/CE (European)/DGCI/BIS/ISI/CDSCO 
+approved for medical use.   
+ Manufacturers/Suppliers should have ISO certification for Quality Standards 
+ Comprehensive onsite warranty inclusive of all spares and labour should have 
+for 5 years from the Date of acceptance and 5 years CMC after warranty should 
+be quoted by the Bidder.  
+ Electrical safety conforms to standards for electrical safety IEC-60601 or better- 
+general requirements. 
+
+
+--- Page 21 ---
+E Tender No 31 AIIMS Bhopal/Biochemistry /fluorescence detector for HPLC / 2018-19/01 Dated: 30.1.2019   ( Pg No. 21 of 45  ) 
+ Certificate of calibration and inspection.  
+ All consumables required for installation, standardization and smooth 
+functioning of equipment for 3 months period should be given free of cost along 
+with supplied Equipment (if any ), the list and its monthly consumption list may 
+also required to be provided by the Bidder Agency.  
+ Substandard items must be replaced within 30 days times by the approved 
+Supplier Agency, if any such intimation received from AIIMS Bhopal in 
+writing. 
+ 
+ 
+
+

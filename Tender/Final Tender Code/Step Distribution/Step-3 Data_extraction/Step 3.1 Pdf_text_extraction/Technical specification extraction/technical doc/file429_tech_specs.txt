@@ -1,0 +1,37 @@
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Optho/255(II)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+VISUAL ELECTROPHYSIOLOGICAL SYSTEM (VEP, ERG, EOG) 
+Technical Specification:- 
+ 
+General specifications for software 
+1. Standard PC with standard OS (windows 7) 
+2. Unique database for all applications 
+3. Easy back-up of results on DVD or external disk. 
+4. Database accessible from other PCs through computer network. 
+5. Easy export of results as digital files 
+6. Such as pdf. 
+7. Easy export of data to spread sheet 
+8. For research studies. 
+ 
+Specification for VEP and ERG software 
+1. Standard test protocols as recommended by ISCEV. 
+2. Possibility for user to define his own test protocols. 
+3. Possibility to save all individual responses and to validate / invalidate them individually 
+4. Automated artifact rejection 
+5. Automated detection of responses peaks. 
+6. Automated statistical analysis of responses indicating their statistical reliability. 
+7. Possibility for user to enter his own normal data and to perform a statistical comparison 
+of normality. 
+8. Possibility of frequency analysis and oscillatory potential analysis. 
+9. USFDA/European CE approved 
+10. Comprehensive Guarantee/Warranty for 5 years and there after      comprehensive 
+AMC (including all spares and labour) for 5 years 
+11. Demonstration required 
+  
+ 
+
+

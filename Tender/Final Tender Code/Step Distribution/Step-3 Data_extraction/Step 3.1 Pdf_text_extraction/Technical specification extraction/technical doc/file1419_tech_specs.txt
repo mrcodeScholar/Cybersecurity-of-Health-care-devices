@@ -1,0 +1,833 @@
+--- Page 12 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+Annexure I 
+DSpace Installation and configuration at Cloud Server (Vendor) 
+Sl 
+No. 
+Item Name 
+Specifications 
+Quantity 
+Fully 
+comply Yes/ 
+No 
+1. 
+ 
+Supply, Installation & 
+Configuration of DSpace at 
+cloud server with Home page 
+design as per standard Up to 150 
+GB Cloud Data Storage 
+ 
+ 
+01 
+ 
+2. 
+Additional Data Storage (If 
+required) 
+ 
+Per GB 
+ 
+ 
+Koha Library Management Software at Cloud Server (Vendor) 
+Sl. 
+No 
+Items Name 
+Specifications 
+Quantity 
+Fully 
+comply 
+Yes/ No 
+01. 
+Supply, installation & Configuration 
+of Koha Open Source Library 
+Management Software at Cloud 
+Server.  Customization of OPAC & 
+staff interface of KOHA (LMS)  
+Library Web Page Design and Web 
+OPAC   
+Offsite Support and help desk 
+facilities for library staff for day-to-
+day use of Koha LMS, Automatic 
+database backup. 
+ 
+ 
+ 
+                
+01 
+ 
+02. 
+Data Migration from Excel to 
+KOHA 
+ 
+6000 
+ 
+03. 
+Thermal Barcode Printer 
+Resolution (dpi)-203 
+Dp, Print Speed 
+(mm/sec.)-160, 
+Media Form-roll, 
+USB 2.0, Compatible 
+Barcode 
+Symbologies (Linear, 
+PDF-417, 
+Maxicodes, etc)- 
+LINEAR, 2D, PDF-
+417 
+01. 
+ 
+04. 
+Barcode Scanner 
+Corded, Scan Rate 
+(Scans per second/ 
+frames per second)-
+302, Resolution 
+(mil)-04, Bar Code 
+01. 
+ 
+
+
+--- Page 13 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+Density (mil)-
+04.USB-supported, 
+Laser, Handheld 
+05. 
+Polyester Label for Printing Labels, 
+2 Labels Per Book Required (Size: - 
+50mm X 25mm) 
+2*1 inch – ups 50*25 
+(chromo) 2000 labels 
+per roll white self-
+adhesive sticker for 
+barcoding 
+05 rolls 
+ 
+06. 
+Resin Ribbon, 1 Roll Prints around 
+7000 - 8000 Labels (Size: - 110mm 
+X 300mts) 
+ 
+02 
+ 
+ 
+RFID (Radio-frequency identification) 
+Sl. 
+No 
+Items Name 
+Specifications 
+Quantity 
+Fully 
+comply 
+Yes/ No 
+A 
+Software 
+ 
+ 
+ 
+1 
+Standard RFID Middle Ware 
+Application for Integration with 
+KOHA Library Management 
+Software 
+Client Software should 
+support the following 
+features and is to be 
+Integrated with Integrated 
+Library Management 
+Software (ILMS) 
+Tagging / Re-tagging after 
+proper online validation of 
+the title/member records 
+LMS database  
+Tag monitoring by 
+accessing item records from 
+the ILMS database 
+Patron Smart Card 
+personalization monitoring 
+by accessing patron ID from 
+the ILMS database 
+Send Email for circulations 
+and registration transactions 
+which can be selected for 
+specific users. 
+NCIP V2.0 compliance 
+Retagging option for re-
+registration of books & 
+patrons 
+Sorting by accessing Title 
+records from ILMS 
+Check out /Check-
+in/Renewal 
+Provision to display of 
+reservations done by a 
+member along with the 
+01 
+ 
+
+
+--- Page 14 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 14 
+ 
+sequence and date of 
+collection 
+Provision of inquiry of 
+checkouts against a member 
+and its due date 
+Provision for details of fine 
+against a member 
+Provision of slip printing 
+containing the details of a 
+transaction 
+Reserved titles shall get 
+highlighted while check-in 
+B 
+Hardware and Consumables 
+ 
+ 
+ 
+1 
+Staff Station Reader for 
+Circulation Desk, RFID Reader 
+with a middleware 
+RFID Staff Station Reader- 
+Read/Write/Anti-theft 
+programming should be 
+done in one single operation 
+Read/Write distance of Up 
+to 25 cm and programming 
+time of 1 second  
+Should be fully ISO/IEC 
+14443A, 15693 and ISO 
+18000:3 compliant 
+The programming station 
+should interface with the 
+Library Management 
+Software using the NCIP 
+V2.0 protocol 
+Integrated with the reader 
+for patron ID Card based 
+ISO/IEC 14443A Mifare 
+Plus to read for circulation  
+Integrated with the reader 
+for patron ID Card based 
+ISO/IEC 14443A Mifare 
+Plus for personalization of 
+data into the ISO/IEC 
+14443A Mifare Plus passive 
+contactless 1Kb smart card 
+in the pre-defined location 
+in the memory The details 
+of the memory location in 
+the smart card will be 
+provided at an appropriate 
+time  
+NCIP V2.0 compliance 
+software interface integrated 
+with integrated library 
+management software for 
+all operations like patron 
+card personalization, and 
+check-in. check-out, 
+renewal, reserve, transaction 
+01 
+ 
+
+
+--- Page 15 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 15 
+ 
+printout, etc of library 
+circulation 
+Specifications 
+Parameter 
+Technical 
+Specs 
+Operating Frequency
+ 
+13.56 MHz 
+Power Supply 5V to 12V 
+Power Consumption
+ 
+1.2W minimum 
+Transmitting Power 
+1W 
+minimum 
+Read Range 
+Up to 25 
+cm 
+Antenna 
+Internal 
+Communication Interface
+ 
+USB/RS232/Ethern
+et 
+Supported Transponders 
+ISO 
+15693, ISO 14443A, and 
+ISO 18000:3 
+Indicators 
+LED / 
+Buzzer for power, read 
+verification, etc. 
+Operating Temperature 
+ 
+-10°C to +70°C 
+Housing Material
+ 
+ABS or Similar 
+2 
+Security Gate Antenna System: 
+Security gates are placed at the 
+entry and exit of the library to 
+keep a check on unauthorized 
+books going outside (Two 
+Pedestals / One Lane) 
+Security gates should 
+include two theft detection 
+pedestals, which are 
+interdependent of each other 
+and also have overlapping 
+protection zones providing 
+additional security. It is 
+planned to install these 
+pedestals at a single location 
+in the library. The system 
+should have a suitable 
+number of I/O ports for the 
+Standard electronic counter, 
+webcam trigger, locking 
+gates etc. The offer must be 
+complete in all respects with 
+CCTV integration and must 
+include all the components 
+required for the function of 
+the system Library security 
+gate. It should also have 
+multi-line infrared motion 
+sensors to detect library 
+footfalls and in-out 
+numbers. 
+Specifications 
+ 
+01 
+ 
+
+
+--- Page 16 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 16 
+ 
+Parameter 
+Technical 
+Specs 
+Operating Frequency
+ 
+13.56 MHz 
+Power Supply AC 230V / 
+50Hz 
+Power consumption
+ 
+30W maximum 
+Transmitting Power
+ 
+0.5W to 6W 
+variable 
+Read Range 
+Up to 1 m 
+with pair of gates 
+Communication Interface
+ 
+RS232 / Ethernet 
+Supported Transponders 
+ISO 
+15693-3, I Code 
+Operating Temperature -
+10°C to +70°C 
+Communication Parameters
+ 
+Baud Rate: 115200 
+Kbps 
+Weight 25 Kg 
+approximately 
+3 
+RFID Handheld Reader for Stock 
+Verification 
+The portable handheld 
+reader (Wand) and the 
+required accessories must 
+be a cordless, one-piece 
+design, to be held in one 
+hand. 
+The portable handheld 
+reader must feature sound 
+battery backup. 
+The total weight of the 
+portable handheld reader 
+must be less than 1 Kg., 
+including the battery, RFID 
+reader, antenna and 
+computing unit, and any 
+other components that must 
+be carried by the user. 
+The portable handheld 
+reader must be easily set 
+down on a library shelf or 
+cart when necessary to free 
+the user’s hands. 
+The portable handheld 
+reader must incorporate an 
+ergonomic design, to aid the 
+user in reading shelves at all 
+levels easy to use and be 
+relatively non-stressful to 
+the wrist, arm, shoulder, and 
+elbow. 
+01 
+ 
+
+
+--- Page 17 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 17 
+ 
+The portable handheld 
+reader battery life must 
+allow the user to work for at 
+least 4 hours before 
+recharging. 
+The portable handheld 
+reader must use an anti-
+collision algorithm that does 
+not limit the number of tags, 
+which can be 
+simultaneously identified 
+and read. 
+The portable handheld 
+reader must have the 
+capacity to download at 
+least 1 million items from 
+the library’s automation 
+system onto the portable 
+handheld reader memory 
+medium. 
+The proposed portable 
+handheld reader must 
+accommodate data 
+collection simultaneously 
+with other functions. 
+The proposed system must 
+accommodate Sorting, 
+Shelving, Searching, finding 
+library documents, and 
+pulling the defined data to 
+help the user. 
+The proposed portable 
+handheld reader must have 
+an audible tone and visible 
+indicators to verify the item 
+has been identified.  
+The handheld reader should 
+include the memory of at 
+least 4GB 
+Specifications 
+Parameter 
+Technical 
+Specs 
+Operating Frequency
+ 
+13.56 MHz 
+Power Supply 9V 
+Standby Mode (battery life)
+ 
+4 Hours, 
+Transmitting Power 
+1W 
+approximately 
+Read Range 
+Up to 25 
+cm 
+Communication Interface
+ 
+USB 
+
+
+--- Page 18 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 18 
+ 
+Supported Transponders 
+ISO 
+15693-3, I Code 
+Indicators 
+LED 
+Indicator / LCD Display for 
+Power, Read & Error and a 
+configurable buzzer 
+Operating Temperature -
+10°C to +70°C 
+Storage Memory
+ 
+4GB 
+Housing Material
+ 
+ABS Plastic 
+4 
+RFID Tags - Books 
+The RFID chip used in the 
+tag should have been 
+designed specifically for 
+Library use. i.e. it should 
+have three sections 
+◦ Lockable section for item 
+identification  
+◦ Re-writable section for 
+library-specific use  
+◦ Security function (EAS) 
+for item anti-theft (which 
+can be activated and 
+deactivated),  
+◦ The RFID chip should 
+have multi-read function, 
+i.e. several tags can be read 
+at the same time. 
+Tag size should be 80mm x 
+50mm with at least 2048 
+bits of memory, multi-read 
+and antitheft 
+Distance for detection from 
+the pedestal should be a 
+minimum of 92 cm 
+Tags should be fully ISO 
+15693/18000-3 compliant 
+Other features: "Tag Talks 
+First" (TTF) feature, tamper 
+proof, the detection rate of 
+the system should be above 
+95% consistently regardless 
+of the number of items that 
+are in the field 
+Warranty of Tags Minimum 
+40 years for logic circuits 
+and replacement of 
+defective tags if found 
+during first-time tagging 
+Mechanical Dimension 
+• Transponder coil size 
+80X50 mm ± 0 5mm  
+ 
+7000.00 
+ 
+
+
+--- Page 19 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 19 
+ 
+• Transponder die-cut size 
+80 x 50 mm 0.2 mm 
+• Thickness of the IC 150 
+micrometer ± 10% 
+• Overall thickness of 
+transponder package 
+(excluding IC and 
+siliconized paper) 200 
+micro meter ± 10%  
+• Thickness of the 
+siliconized wafer 56 
+micrometer 
+Electrical characteristics 
+• Integrated Circuit (IC) 
+Philips i-Code-SLI X.  
+• ICS protocol /anti-
+collision ISO 15693/18000-
+3 
+• Operating frequency 13.56 
+MHz 
+• Unloaded resonance 
+frequency 14.15 MHz ±0.30 
+MHz 
+• Memory 2048 bits R/W 
+EEPROM 
+General characteristics of 
+transponder 
+• Operating temperature 
+(electronics parts):   -20'C to 
+*85"C  
+• ESD voltage immunity 
++12 kV peak. HBM  
+• Bending diameter (D) > 50 
+mm. Tension less than 10 N  
+• Static pressure (P) < 10 
+MPa (10 N/mm2) 
+ 
+5 
+Smart Card 
+The smart cards should be 
+1kb Mifare Plus cards with 
+pre-printing on both sides 
+(pre-printing to be approved 
+by the Institute) 
+The smart card must be for 
+multipurpose use by library 
+users. 
+1k byte EEPROM 
+Unique serial number 
+16 securely separated 
+sectors supporting multi-
+application 
+Each sector consists 4 
+blocks with a length of 16 
+Byte 
+ 
+         3900 
+ 
+
+
+--- Page 20 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 20 
+ 
+2 x 48 bit keys per sector 
+for key hierarchy 
+Access conditions are free 
+and configurable based on 2 
+levels key hierarchy 
+Number of single write 
+operations: 100,000 
+6 
+Smart Card Printing System 
+(Includes Card Printer, web 
+camera, Pen, Card Printing 
+Software with Printing Ink which 
+can print 250 cards) 
+Dye Sublimation/Resin 
+Thermal Transfer, 300 dpi, 
+16.7 Million Colors dual 
+side Card printer, Web 
+Camera, Pen Tablet, and 
+Printing Software.  
+ 
+01 
+ 
+7 
+Smart Card Printer ink Ribbon 
+(One ribbon can print 125 cards 
+only on both sides) 
+Full-Color (YMCKO) 
+Ribbon 
+01 
+ 
+8 
+Institution Labels 
+Good quality self-adhesive 
+labels of the following 
+specification:  
+Good quality smooth face 
+Label printed with Name 
+and logo (design to be 
+approved by Central Library 
+Committee) 
+Size: Minimum half an inch 
+larger on all sides than the 
+RFID tag 
+Strong permanent adhesive, 
+which does not leach into 
+the paper of the book 
+7000.00 
+ 
+C 
+Related Services / Job Works 
+ 
+ 
+ 
+1 
+Job of Tagging Books on Site 
+RFID Tag & Sticker to be 
+pasted in the same process 
+ISO 28560 standard 
+followed for tagging 
+Registration of books / 
+DVDs is to be done in a 
+single process 
+ 
+ 
+ 
+6000 
+ 
+2 
+RFID Book Drop Box Station 
+Primarily for Self-Check-in 
+(return of books) 
+Dimensions: 915 X 717 X 
+1664 mm 
+In built screen and thermal 
+slip printer 
+Can be used for 24 hours 
+Can put outside Library like 
+at reception, hostel, etc 
+places  
+Can be customized to put on 
+the wall or available in 
+standalone mode 
+ 
+ 
+ 
+ 
+ 
+01 
+ 
+
+
+--- Page 21 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 21 
+ 
+3 
+RFID Enabled Self-Check-Out 
+Kiosk: RFID enabled self-check-
+in/out system is an independent 
+touchscreen-based kiosk for 
+borrowers to perform issue-return 
+functions on their own 
+RFID Reader and Antenna 
+with multiple Read/Write 
+facility  
+The kiosk should suit the 
+library decor  
+High-Speed Thermal Slip 
+Printer  
+17” or higher LCD/LED 
+Touch Screen Monitor 
+using Capacitive 
+Technology 
+Branded Small Form Factor 
+CPU 
+Multiprotocol firmware 
+ISO/IEC 14443A. 15693 
+and ISO 18000:3 compliant  
+Communication interface — 
+Ethernet 
+The Self-Checkout station 
+client software should 
+interface with the ILMS 
+Software giving the 
+following features: 
+◦ Check out / Renewal 
+◦ Transaction Status 
+◦ Transaction Printout 
+Provision for the display of 
+reservations done by a user 
+along with sequence and 
+date of collection, 
+Provision of inquiry of 
+checkouts against a user and 
+its due date. 
+Provision for inquiry of fine 
+against a user,  
+Specifications 
+Parameter 
+Technical 
+Specs 
+Operating Frequency
+ 
+13.56 MHz 
+Power Supply 180-230V 
+Ac; 50 Hz  
+Power Consumption
+ 
+1.2W minimum 
+Transmitting Power 
+1W 
+approximately 
+Read Range 
+20-25 cms 
+3 to 4 books of average size 
+Antenna Size 
+300 X 300 
+mm 
+Communication Interface
+ 
+Ethernet 
+ 
+ 
+ 
+01 
+ 
+
+
+--- Page 22 ---
+Tender for KOHA, Dsapce and RFID                                          Library/Tender/01-2/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 22 
+ 
+Supported Transponders 
+ISO 
+15693, ISO 14443A, and 
+ISO 18000:3 
+Operating Temperature -
+10°C to +70°C 
+Weight 25 Kg 
+approximately 
+Packaging Material
+ 
+Wood 
+Display 17” or higher TFT 
+capacitive touchscreen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

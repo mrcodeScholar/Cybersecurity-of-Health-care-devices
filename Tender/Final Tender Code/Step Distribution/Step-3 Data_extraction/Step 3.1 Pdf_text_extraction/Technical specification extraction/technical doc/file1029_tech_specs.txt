@@ -1,0 +1,226 @@
+--- Page 45 ---
+                                                                      
+                                                             Tender No. 5-1/13/2023-SPSO 
+45  
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+               Technical Specification for  Cardiac Output Monitor 
+Technical Specification for cardiac output monitor 
+(Following are the minimum requirement. Product must meet these parameters herein.) 
+  
+•          It should have a touch screen with an active area of > 12 inches. 
+•   It should be able to provide Continuous Cardiac Output through a dedicated arterial sensor 
+only when connected with a dedicated cable available separately. 
+• It should be able to give Continuous Cardiac Output, Stroke Volume (SV), Stroke Volume 
+Index (SVI), Stroke Volume Variation, and Systemic Vascular Resistance (SVR) and Systemic 
+Vascular Resistance Index (SVRI) when used with appropriate arterial line sensor. 
+•       Facility to upgrade with intravascular oximetry parameter i.e Central Venous Oximetry 
+when used with dedicated disposable central venous catheter if required in future. 
+•         It should have an optional provision for 2 Tissue Oximetry modules with the capacity to 
+use up to 4 non-invasive Tissue Oximetry sensors at any point of time. 
+•          It should have dedicated Tissue oximetry screen providing for the usage of sensors on 
+different parts of the body such forehead, arms, legs shoulders etc 
+•          It should be equipped with 3 expansion modules & 2 cable receptacles. 
+•          It should have the option to be scalable to Non-invasive Cardiac Output technology and 
+Cerebral Oximetry technology and other technologies in the future. 
+•          It should have option of wired & wireless communication. 
+It should have display capacity of at least 4 trend lines and 4 numerical display, optional 
+physiology and physio-relationship screen. 
+•          It should have the option of providing dedicated perioperative goal-directed therapy 
+(PGDT) screens and HPI analytics. 
+•          It should have the option of connectivity with hospital information system. 
+It must save data for at least 72 hours. 
+•          Must have screen shot and data download facility through any USB stick. 
+•          It should have an HDMI, USB & ETHERENET port for various connectivity 
+•          Warranty minimum 5 years,  
+CMC 5 years after the end of the warranty 
+Should have USFDA & CE Certificate 
+Should have battery backup up to 30 mins. 
+ 
+ 
+
+
+--- Page 46 ---
+                                                                      
+                                                             Tender No. 5-1/13/2023-SPSO 
+46  
+ 
+Rate contract of consumables:  
+Sl No. 
+Consumable name 
+1 
+FloTrac Sensor (MHD8) 
+2 
+Acumen IQ Sensor (AIQS85) 
+3 
+ForeSight Sensor Large (FSESL) 
+4 
+ForeSight Sensor Medium (FSESM) 
+ 
+Terms & condition for rate contract: 
+- The rate of the consumables is to be quoted in BOQ . 
+- Rate quoted by the bidder will be freezed for 4 years, Bidder has to provide compliance report for 
+freezing of the rates of the quoted consumables for next 4 years from the date of installation of 
+machine. 
+- The cost of the consumable will be charged from the patients. 
+Billing mechanism for consumables along with the SOP will be intimated to successful bidder on finalization of 
+the tender 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 47 ---
+                                                                      
+                                                             Tender No. 5-1/13/2023-SPSO 
+47  
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE 
+document for complete equipment (including Batteries for UPS, other vacuumatic 
+parts wherever applicable) Warranty period will be 5 years from the date of 
+installation, commissioning and Site Modification Work from the date of 
+satisfactory installation, commissioning, trial run & handing over of equipment to 
+Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period 
+by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After 
+sales 
+service 
+centre 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service should 
+be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date of 
+supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian 
+Agents (if they have the requisite know-how) for operation and maintenance of the 
+equipment to the satisfaction of the consignee. The same will be in line with the 
+training modalities as specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ service 
+/operational manual of the manufacturer, labour and spares, after satisfactory 
+completion of Warranty period may be quoted for next 5 years on yearly basis for 
+complete equipment (including Batteries for UPS, other vacuumatic parts 
+wherever applicable) and Site Modification Work (if any). The supplier shall visit 
+each consignee site as recommended in the manufacturer‟s technical/ service 
+/operational manual, but at least twice in six months (i.e. 4 preventive 
+maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of 
+any such stipulation the price will be taken inclusive of such taxes and no claim 
+for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank guarantee 
+for 2.5% of the cost of the equipment as per Section XV valid till 2 months after 
+expiry of entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 
+365 (days) basis, with penalty, to extend CMC period by double the downtime 
+period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee‟s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the 
+Bank Guarantee for Annual CMC. 
+
+
+--- Page 48 ---
+                                                                      
+                                                             Tender No. 5-1/13/2023-SPSO 
+48  
+ 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 49 ---
+                                                                      
+                                                             Tender No. 5-1/13/2023-SPSO 
+49  
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to 
+be installed, in consultation with HOD of Hospital/Institution/Medical College concerned. 
+Site Modification Work details of each Hospital/Institution/Medical College are given at the 
+end of Technical Specification. The Tenderer to quote prices indicating break-up of prices of 
+the Machine and Site Modification Work of each Hospital/Institution/Medical College. The 
+Site Modification Work costs to be quoted in Indian Rupee will be added for Ranking 
+Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation 
+the price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer‟s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The 
+tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it‟s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard 
+IEC- 60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is 
+not available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard 
+interface interoperability conditions for networked equipment in hospital 
+management information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period 
+
+

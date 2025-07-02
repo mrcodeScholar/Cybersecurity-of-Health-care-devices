@@ -1,0 +1,265 @@
+--- Page 48 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Nanobio Spectrophotometer 
+Page 45 of 66 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Nanobio Spectrophotometer   
+with compatible accessories 
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+TECHNICAL SPECIFICATIONS for “Nanobio Spectrophotometer” 
+ 
+1.  UV- vis Spectrophotometer for micro volume sample analysis. 
+2.  Instrument must be capable to analyse minimum Sample Size up to 1 
+Microlitre  
+3.  Instrument must have unique sample-retention system (no cuvettes) to 
+deliver the same exceptional accuracy and reproducibility. 
+4.  Spectrophotometer should measure nucleic acid concentration at 260nm 
+and purity using the A260/A280 ratio and A260/A230. Measure purified 
+protein concentration at 280 nm. 
+5.  Instrument must have the 0.2 mm - 1.0 mm path length 
+6.  Spectrophotometer Light Source should be Xenon flash lamp 
+7.  Instrument must contain CMOS linear image sensor detector for good 
+results 
+8.  Wavelength Range must and should be 230nm, 260 and 280 nm or 
+better. 
+9.  Spectral Resolution should be below 8.0 nm or better 
+10. 
+ Measurement Reproducibility of instrument must be 0.002 with SD of 10 
+individual measurements at 0.74 Abs 
+11. 
+ Absorbance Accuracy should be at least 3% (at 0.97 A at 302 nm) 
+12. 
+ Absorbance Range must be 0–30 Abs. 
+13. 
+ Lower Limit of Detection must be 2 ng/μL for dsDNA and 0.06 mg/mL for 
+BSA or better. 
+14. 
+ Maximum Concentration limit should be 1500 ng/μL for dsDNA, 45 
+mg/mL for BSA 
+15. 
+ Analysis Time must be faster, less than or equal 5 seconds per one 
+sample 
+16. 
+ Sample Pedestal Material must be constructed with 303 stainless 
+
+
+--- Page 49 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Nanobio Spectrophotometer 
+Page 46 of 66 
+ 
+steel and quartz fiber for better life. 
+17. 
+ Instrument must be Stand-alone control with inbuilt touchscreen to 
+display results, save up to 1000 measurements locally inside the 
+instrument and data export via USB Flash Drive. 
+18. 
+ Should be FDA or CE or BIS approved product 
+ 
+General Conditions  
+19. 
+ Bids should be accompanied by full technical specification of the 
+model/make offered. Price quoted should be inclusive of Comprehensive 
+Warranty (Including all Spares, Accessories and Labor) for 05 years from 
+the date of installation. Also, the bidders are requested to submit their 
+price quote for subsequent 05 years Comprehensive Maintenance 
+Contract (Including All Spares, Accessories and Labor).  
+20. 
+ Bidders should clearly indicate the make and model number of the 
+offered item. The make and model should be verifiable from the 
+manufacture’s official website. (Mandatory: include URL for the quoted 
+instrument in the tender document) 
+21. 
+ The bidder should provide a list and full contact details of Government 
+institutes who are users of the quoted model.  
+22. 
+ The bidder should clearly specify the availability, locations, and address 
+of after sales service centers for the quoted item.  
+23. 
+ Operational onsite training must be provided for the faculty members 
+and technical staffs free of cost 
+24. 
+ Bidders should provide manufacturer’s authorization certificate for the 
+quoted instrument  
+25. 
+ Should be FDA or CE or BIS approved product 
+ 
+• 
+Technical compliance report should be submitted in following format: 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation 
+if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. 
+Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the 
+TE document for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) Warranty period will be 5 years 
+from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & 
+handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty 
+period by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) 
+basis. 
+c) All software updates should be provided free of cost during Warranty 
+period. 
+2. 
+After Sales Service:  
+After sales service center should have trained personnel to troubleshoot 
+complaints arising from the equipment. Service center should be available 
+nearly the city of Hospital/Institutions/Medical College. Complaints should be 
+attended properly, maximum within 48 hrs. The service should be provided 
+
+
+--- Page 50 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Nanobio Spectrophotometer 
+Page 47 of 66 
+ 
+directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date 
+of supply. 
+3. 
+Training:  
+4. 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ 
+Indian Agents (if they have the requisite know-how) for operation and 
+maintenance of the equipment to the satisfaction of the consignee. The same 
+will be in line with the training modalities as specified in general technical 
+specification. 
+5. 
+Annual Comprehensive Maintenance Contract (CMC) of subject equipment 
+with Site Modification Work: 
+a) 
+The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ 
+service /operational manual of the manufacturer, labour and spares, after 
+satisfactory completion of Warranty period may be quoted for next 5 years on 
+yearly basis for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) and Site Modification Work (if any). The 
+supplier shall visit each consignee site as recommended in the manufacturer’s 
+technical/ service /operational manual, but at least twice in six months (i.e. 4 
+preventive maintenance/ year) apart from all breakdown visits, during the 
+CMC period 
+b) 
+The cost of CMC may be quoted along with taxes applicable on the date of 
+Tender Opening. The taxes to be paid extra, to be specifically stated. In the 
+absence of any such stipulation the price will be taken inclusive of such taxes 
+and no claim for the same will be entertained later. 
+c) 
+Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) 
+The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank 
+guarantee for 2.5% of the cost of the equipment as per Section XV valid till 2 
+months after expiry of entire CMC period. 
+e) 
+There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) 
+X 365 (days) basis, with penalty, to extend CMC period by double the 
+downtime period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee’s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) 
+All software updates should be provided free of cost during CMC. 
+h) 
+Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of 
+the Bank Guarantee for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+ 
+Note 1:  
+Tenderer’s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The 
+tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it’s tender is liable to be ignored. 
+Note 2:  
+General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked for 
+and should make sure that Electrical Safety Analyzer / Tester for Medical equipment 
+to periodically check the electrical safety aspects as per BIS Safety Standards IS-
+13540 which is also equivalent to IEC electrical safety standard IEC- 60601 is a part 
+of the equipment s. If the Electrical Safety Analyzer/Tester is not available they 
+should provide a commitment to get the equipment checked for electrical safety 
+compliance with Electronic Regional Test Labs / Electronics Test and Development 
+
+
+--- Page 51 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Nanobio Spectrophotometer 
+Page 48 of 66 
+ 
+Centres across the country on every preventive maintenance call. 
+Note 3:  
+Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management 
+information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical 
+training for personnel involved in the use and handling of the equipment on site at 
+the institute immediately after its installation. The company shall be required to train 
+the institute personnel onsite as and when required. 
+All software updates should be provided free of cost during warranty period and CMC 
+period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

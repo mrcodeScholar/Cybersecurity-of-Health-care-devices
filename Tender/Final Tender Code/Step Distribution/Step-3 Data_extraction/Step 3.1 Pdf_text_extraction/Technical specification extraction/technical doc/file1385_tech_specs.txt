@@ -1,0 +1,137 @@
+--- Page 11 ---
+Tender for Hemodialysis Machine                                                                                       Admn/Tender/88/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Hemodialysis 
+Machine 
+Description of Function 
+ Haemodialysis is a method for removing waste products as well 
+as free water from the blood when the Kidneys are incapable of 
+this. 
+Operational Requirement 
+ Bicarbonate/Acetate Haemodialysis.  
+ The blood pump should run even in the absence of water or 
+dialysate flow. 
+ Single needle dialysis using one blood pump. 
+ Isolated ultrafiltration/Sequential dialysis should be possible. 
+Technical Specification.  
+ Should have facility for conventional & high flux dialysis. 
+ The Machine should have a colour monitor display. 
+ Blood flow rate range should be 50 – 600ml/minute & adaptable 
+to standard AV blood lines. 
+ Dialysate flow rate ranges from 300 – 800 ml/minute. 
+ Heparin pump: Delivery range 0 ml/min – 10 ml/min, Bolus 
+function Max 5 ml per bolus. 
+ Automatic set up and priming is preferred. 
+ Positive and negative extracorporeal circuit pressure shall not 
+affect the infusion rate. 
+ Optical Detector should be there to sense light and dark (blood 
+and saline) and should not be affected by ambient light. 
+ Self-check test. 
+ Inbuilt NIBP monitoring. 
+ Should have inbuilt facility of hot & chemical disinfection with 
+both short & long disinfection and 2 nos of 5 litres pack of hot 
+disinfectant competent with quoted model with each machine 
+should be supplied. 
+ Should have arterial & venous pressure monitoring range. 
+ Alarm should be activated for air bubbles and microbubbles over 
+the entire blood flow. 
+ Should have facility to change sodium range 130 – 150 mmol/l 
+ Temperature control range should be 35.0 degree C to 39.0 
+degree C. 
+ The dialysate conductivity shall be adjusted by setting the 
+sodium concentration. 
+ Machine should have inbuilt sodium & ultrafiltration profiling. 
+ Machine should have blood leak detector alarm.  
+ Ultrafiltration rate should be 0 to 4L/ hr given by the set values 
+of UF volume and treatment time.  
+ Treatment Time adjustable up to 9 hr 59 min. in 1 min 
+increment.  
+ TMP Monitoring should be displayed.  
+ Built-in device for measurement and monitor of effective urea 
+clearance (K) dialysis dose (Kt/V), and plasma sodium (Na) 
+automatically during treatment. 
+ The measurement of effective urea clearance (K), dialysis dose 
+(kt/V and plasma sodium (Na) shall be preformed in non-
+invasive, real-time mode without additional disposable required 
+during treatment. 
+ Facility for heat, chemical disinfection and auto-switch off. 
+08 
+
+
+--- Page 12 ---
+Tender for Hemodialysis Machine                                                                                       Admn/Tender/88/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+ Should have inbuilt Dry Bicarbonate  powder module to provide 
+hygiene online mixing to avoid precipitation and it should be 
+supplied with each machine (10 nos) and should be competent 
+with quoted model. 
+ Machine should have inbuilt facility of endotoxin retention filter 
+and should have automatic programme and guidance message for 
+changing the filter. 
+System Configuration Accessories, Spares and consumables 
+ All consumables required for installation and standardization of 
+system to be given free of cost.    
+ Company must supply Bacterial filters-6 sets extra and 100 
+dialyzers with tubings free of cost. 
+Environmental Factors 
+ Machine should operate & being stored under extreme 
+temperature conditions of lowest 2 degrees C and highest 48 
+degree C and humidity of > 80%.  
+Power supply 
+ Power input to be 220-240VAC, 50Hz fitted with Indian plug. 
+ Machine should have battery backup for at least 15 min in case 
+of AC power failure. 
+ One 3 KVA online UPS with at least 30 min power backup must 
+be supplied with each machine. 
+Standard, Safety and Training 
+ The machine should be US FDA/European CE approved. The 
+certificate should be provided. 
+ Shall comply with IEC 60601-2-16 SAFETY requirements of 
+medical electric equipment Part-2. 
+ Comprehensive training for lab staff and support services till 
+familiarity with the system. 
+ The principal company should have its own office, distribution 
+and service network in India. The company should have 
+excellent service backup with resident engineers based in major 
+cities of Rajasthan. The names of service engineers must be 
+given along with the proof of employment of principal company. 
+ In case of breakdown it should be attended within 24 hours and 
+repaired within 72 hours. 
+Documentation 
+ User/Technical/Maintenance manuals to be supplied in English. 
+ Certificate of calibration and inspection. 
+ List of Equipment’s available for providing calibration and 
+routine Preventive Maintenance Support. As per manufacturer 
+documentation in service/technical manual.  
+ List of important spare parts and accessories with their part 
+number and costing. 
+ Log book with instruction for daily, weekly, monthly and 
+quarterly maintenance checklist. 
+ Web site of the parent company to be mentioned, for verification 
+of the detail and specification, if required.  
+ Machine at the time of supply will be of same year of 
+manufacture. 
+ Company must ensure uninterrupted supply of consumables. 
+ The job description of the hospital technician and company 
+service engineer should be clearly spelt out. 
+ Demonstration Is Must As And When Required. 
+
+

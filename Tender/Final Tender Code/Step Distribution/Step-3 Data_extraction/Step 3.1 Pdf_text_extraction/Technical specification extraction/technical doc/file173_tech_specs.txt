@@ -1,0 +1,316 @@
+--- Page 6 ---
+Tender No. : AIIMS-NAG/HOS/Pacemaker/RC/OTE/22-23/20 
+ 
+ 
+ANNEXURE – I 
+ Item details along with technical specification 
+Sr. 
+No. 
+ 
+Pacemaker 
+category 
+Specification 
+ 
+1 
+Single Chamber 
+Pacemaker 
+1) Warranty - 10 Year, 2) MRI compatibility (Tesla) - Compatible to both 3T &amp; 1.5T Energy, 3) MRI 
+FDA &amp; CE approved 4) Magnet response available at BOS - Auto/Synchronous/Asynchronous (90 
+bpm) 
+2 
+Dual Chamber 
+Pacemaker 
+ 
+Basic 
+Semi Premium 
+Premium 
+ 
+Mode - 
+DDDR 
+DDDR 
+DDDR 
+Warranty - 
+10 Year 
+Life Long 
+Life Long 
+Unique physiological rate response 
+modulation during episodes of 
+physical 
+and emotional stress - 
+- 
+- 
+Closed Loop Stimulation 
+(CLS) 
+ 
+Thoracic Impedance Monitoring - 
+- 
+- 
+Yes 
+ 
+A V Delay extension 
+Dynamic 
+AV Delay 
+VP Supression 
+(DDDR<=> AAIR) & 
+Dynamic AV Delay 
+VP Supression (DDDR<=> 
+AAIR) & Dynamic AV 
+Delay 
+MRI compatibility (Tesla) both 3T 
+& 1.5T Energy - 
+Yes 
+Yes 
+Yes 
+MRI AutoDetect (Auto-MRI) - 
+Yes 
+Yes 
+Yes 
+MRI FDA & CE approved - 
+Yes 
+Yes 
+Yes 
+Magnet response available at BOS 
+- 
+Auto / 
+Synchronou
+s/ 
+Asynchrono
+us (90 bpm) 
+Auto / Synchronous/ 
+Asynchronous (90 
+bpm) 
+Auto / Synchronous/ 
+Asynchronous (90 bpm) 
+SafeSync RF telemetry - 
+ 
+Yes 
+Yes 
+3 
+AICD – Single 
+Chamber & non 
+-MRI 
+compatible 
+ 
+Semi 
+Premium  
+Premium  
+---- 
+Mode - 
+ 
+VVIR 
+ 
+- 
+ 
+------ 
+Warranty - 
+ 
+ 
+10 Year 
+ 
+10 Year 
+Thoracic Impedance Monitoring - 
+ 
+Yes 
+ 
+ 
+ 
+- 
+Bioshape 
+- 
+Yes 
+Max programmable Number of 
+Shocks in VT & VF Zone & 
+Energy in Joules - 
+ 
+8 Shocks / 
+40 J 
+8 Shocks / 40 J 
+ 
+SafeSync RF telemetry - 
+Yes 
+Yes 
+
+
+--- Page 7 ---
+Tender No. : AIIMS-NAG/HOS/Pacemaker/RC/OTE/22-23/20 
+ 
+ 
+4 
+AICD – Single 
+Chamber & 
+MRI compatible 
+ 
+ 
+Semi 
+Premium 
+Premium 
+ 
+ 
+ 
+ 
+Mode - 
+DDDR 
+VVIR 
+Warranty - 
+8 YEAR 
+8 YEAR 
+Thoracic Impedance Monitoring - 
+ 
+Yes 
+- 
+ 
+Bioshape 
+- 
+Yes 
+MRI AutoDetect (Auto-MRI) - 
+Yes 
+Yes 
+ 
+MRI FDA & CE approved – 
+Yes 
+Yes 
+Max programmable Number of 
+Shocks in VT & VF Zone & 
+Energy in Joules - 
+8 Shocks / 
+40 J 
+8 Shocks / 40 J 
+SafeSync RF telemetry - 
+Yes 
+Yes 
+5 
+AICD – Dual 
+Chamber & 
+MRI compatible 
+ 
+Semi 
+Premium  
+Premium  
+ 
+ 
+----- 
+ 
+ 
+Warranty - 
+8 YEAR 
+8 YEAR 
+ 
+Thoracic Impedance Monitoring - 
+Yes 
+- 
+Bioshape 
+- 
+Yes 
+MRI AutoDetect (Auto-MRI) - 
+Yes 
+Yes 
+MRI compatibility (Tesla) both 3T 
+& 1.5T Energy - 
+Yes 
+Yes 
+MRI FDA & CE approved – 
+Yes 
+Ys 
+Max programmable Number of 
+Shocks in VT & VF Zone & 
+Energy in Joules - 
+ 
+8 Shocks / 
+40 J 
+ 
+8 Shocks / 40 J 
+SafeSync RF telemetry - 
+Yes 
+Yes 
+
+
+--- Page 8 ---
+Tender No. : AIIMS-NAG/HOS/Pacemaker/RC/OTE/22-23/20 
+ 
+ 
+6 
+AICD VDD 
+Warranty – 10 Year 
+Thoracic Impedance Monitoring – Yes 
+MRI compatibility (Tesla) both 3T & 1.5T Energy – Yes 
+MRI compatibility (Tesla) both 3T & 1.5T Energy – Yes 
+MRI FDA & CE approved – Yes 
+Max programmable Number of Shocks in VT & VF Zone & Energy in Joules – 
+- 
+ 8 Shocks / 40 J 
+SafeSync RF telemetry – Yes 
+7 
+CRT-P 
+Warranty – 5 Year. 
+Unique 
+physiological 
+rate 
+response 
+modulation 
+during 
+episodes 
+of 
+physical 
+and emotional stress - Closed Loop Stimulation (CLS) 
+Thoracic Impedance Monitoring – Yes 
+MRI compatibility (Tesla) both 3T & 1.5T Energy – Yes 
+MRI compatibility (Tesla) both 3T & 1.5T Energy – Yes 
+MRI FDA & CE approved – Yes 
+Max programmable Number of Shocks in VT & VF Zone & Energy in Joules – 
+- 
+ 8 Shocks / 40 J 
+SafeSync RF telemetry – Yes 
+8 
+CRT-D 
+ 
+Semi Premium 
+Premium 
+Warranty - 
+5 Year 
+6 Year 
+Thoracic Impedance Monitoring – 
+Yes 
+Yes 
+A V Delay extension 
+VP Suppression 
+VP Suppression 
+Bioshape 
+- 
+Yes 
+MRI compatibility (Tesla) both 3T & 1.5T 
+Energy - 
+Yes 
+Yes 
+MRI AutoDetect (Auto-MRI) - 
+Yes 
+Yes 
+MRI FDA & CE approved  
+Yes 
+Yes 
+Max programmable Number of Shocks in 
+VT & VF Zone & Energy in Joules 
+8 Shocks / 40 J 
+ 
+8 Shocks / 40 J 
+ 
+SafeSync RF telemetry - 
+Yes 
+Yes 
+ 
+Other Terms &Conditions: 
+ 
+ 
+Pre–Qualification Criteria: 
+i. Bidder should be the manufacturer/authorized dealer/Distributor/Trader/ Supplier. Letter of 
+Authorization from Manufacturer for the same and specific to the tender should be uploaded in the 
+prescribed place. 
+ii. An undertaking from the original Manufacturer is required stating that they would facilitate the bidder 
+on regular basis with technology/product updates and extend support for the warranty as well. The scanned 
+copy of same to be uploaded. 
+Performance 
+Guarantee Bond: 
+i. The successful bidder shall have to submit a performance security deposit (SD) within 30 days from the 
+date of Rate Contract. Extension of time for submission of PG beyond 30 days and up to 60 days from the 
+date of Rate Contract may be given by the competent  authority to sign the contract agreement however a 
+
+

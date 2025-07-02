@@ -1,0 +1,177 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neurosurgery/366/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+SPECIFICATIONS FOR MULTI DIMENSIONAL MOBILE 3D IMAGING SYSTEM with DSA facility 
+for Neurosurgery 
+Quantity required 0ne unit + accessories 
+1. 
+System should be ECE & US FDA approved. 
+2. 
+AERB approved 
+3. 
+Having ISO certification 
+4. 
+should have Iso-Centric rotational movements and all the movements should be counterbalanced. 
+5. 
+It should have minimum 175-degree scan and should be motorized with more than 100 images and 
+different levels of 3D slice thickness. 
+6. 
+System should be CT like images. 
+7. 
+The Imaging components should be in enclosed housing for increased patient and staff safety. 
+8. 
+System should be compatible with regular metal free Translucent OT table. 
+9. 
+System should have facility to transfer between OTs. 
+10. 
+It should have a High resolution fluoroscopy 
+11. 
+It should have High resolution 3-D - Axial, Coronal, Sagittal planes. 
+12. 
+It should have 20 kW or more X-ray generator for imaging dense anatomy. 
+13. 
+It should have min 18’’ dual monitor or 30” single monitor displays for superior viewing at a distance. 
+14. 
+It should have the Ability to go ‘full-screen’ on any image for superior viewing at a 
+15. 
+Distance. 
+16. 
+System should have open space for lateral access during Spine surgery. 
+17. 
+It should have a mouse control of image viewing. 
+18. 
+It should have a Robotic positioning system through joy stick control. 
+19. 
+It should have Storage of pre-set imaging positions for quick, accurate access to 
+20. 
+commonly viewed images, avoiding the need for re-scouting. 
+21. 
+It should have Storage of pre-set ‘park’ position for easy access to patient while imaging is not required. 
+22. 
+It should have a Motorized drive for easy handling of imaging system. 
+23. 
+It should Utilize min 28x28cm or more digital flat panel detector for increased image 
+24. 
+quality (large field of view, without distortion) 
+25. 
+It should Complete 3-D image acquisition within a minute. 
+26. 
+The 3-D image should be displayed in less than 60 seconds from initiation of acquisition. 
+27. 
+The free space of the imaging system should be more than 78cms. 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neurosurgery/366/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+28. 
+The source to image distance should be more than 95cm 
+29. 
+The imaging system should have a option for selecting region of interest for automatic brightness and 
+window/level control. 
+30. 
+The imaging system should have an automatic noise reduction, edge enhancement, full screen zoom, 
+digital image rotation, digital window/level control, left/right and top/ bottom image reversal, positive/negative 
+image inversion. 
+31. 
+The imaging system should be able to store more than 10,000 2D images and more than 200 3D scans on 
+hard disk. 
+32. 
+The imaging system should have a CD R/W or USB. 
+33. 
+There has to be various outputs like Ethernet, USB & Composite video. 
+34. 
+The imaging system should have DICOM functions. 
+35. 
+The imaging system should offer minimum 12cm volume cubical or cylindrical volume or more 
+anatomical coverage. 
+36. 
+The imaging system should have different types / features of rotation like Orbital, pivot, swivel, Iso-wag 
+37. 
+In 2D mode the system should operate in Manual Movements also. 
+38. 
+The System should be compatible with minimum standard Surgical Navigation systems. 
+39. The machine should be capable of real time Digital Subtraction Angiography (DSA) with the following 
+features: 
+a) 
+Acquisition frame rate: 25 frames/sec or more 
+b) 
+Storage rate: 10 fps or more 
+c) 
+Auto request for contrast injection 
+d) 
+Roadmap technique for dilatation 
+e) 
+Pixel shift, variable landmark and remasking should be possible 
+f) 
+Peak opacification 
+g) 
+Movie function with START/STOP function 
+h) 
+Lookup tables 
+i) 
+Magnifying glass 
+j) 
+Interactive zoom 
+40. 
+Accessories to be supplied- 
+a) 
+Lead-free light-weighted aprons for radiation protection (all round protection) with 0.5mm lead 
+equivalence certified by BARC/ AERB & ISO – 08. 
+b) 
+Lead-free light-weighted aprons for radiation protection (front protection) with 0.5mm lead equivalence 
+certified by BARC/ AERB & ISO – 08. 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neurosurgery/366/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+c) 
+Thyroid shields (similar to above) – 08 
+d) 
+Lead-aprons hanger – 01. 
+e) 
+Any other required accessory for DSA imaging eg contrast Injector 
+41. 
+Onsite comprehensive training for staff for a period of three months from date of installation or till the 
+time staff is trained in usage as well as maintenance of equipment. 
+42. 
+Warranty & CMC 
+a) 5 year comprehensive onsite warranty of entire system (Spares and labour) including X-ray tube and all 
+accessories and civil, electrical and air conditioning works followed by 5 year CMC. 
+b) 
+Company should confirm the availability of spare parts for 10 years from the date of supply of the 
+equipment. 
+c) 
+Company should have 24 x 7 call support facility 
+d) 
+List of spare parts with cost must be provided. 
+43. 
+Power Supply 
+a) 
+Power input to be 200-240VAC, 50Hz, Fitted with Indian type plug. 
+b) 
+Resettable over current breaker/ANY other protection device shall be fitted for protection. 
+44.  Compliance statement should be presented in a tabulated manner- mentioning the page/para number of 
+original catalogue/data sheet. Any point not substantiated with authenticated catalogue/manual will not be 
+considered. 
+45. Please make sure to submit copies of all certifications- USFDA/ECE/AERB & ISO + LIST OF 
+INSTALLATIONS in India with performance and after sale service records at time of submission of bids only to 
+save tender processing time 
+46. quote a compatible radiolucent table with standard positioning accessories for neurosurgery as optional item 
+ 
+ 
+ 
+ 
+ 
+
+

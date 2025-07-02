@@ -1,0 +1,146 @@
+--- Page 4 ---
+
+ Technical Specpification  
+Target Controlled Infusion Pumps (For TIVA) 
+1. Ergonomically designed mechanism to stack 4 pumps to maximum 24 that has the capability 
+to supply power with only one power cable, transfer data i.e., with communication capabilities. 
+2. Fixation of the pumps by simply click in mechanism into the system. 
+3. All pups can be removed individually without interrupting the functioning of remaining 
+pumps. 
+4. Integrated workstation for both syringe and volumetric pump. 
+5. Optional data module per patient bed for PDMS or HlS systems with following interface 
+connection 
+• RS 232 
+• USB Master & Slave 
+• Ethernet RJ 45 
+• Wireless LAN 
+6. International Classification according to:- 
+• US FDA and European CE 
+• IEC/EN6060L-1 - type CF defibrillator proof protective class II 
+• 93l4L|EWG - Class ll b 
+• EMC EN60601-1-2 
+• Moisture protection lP22 (drip protected for horizontal usage) 
+S. 
+No. 
+Item Description 
+Req. Qty. 
+1 
+Target Controlled Infusion Pump (For 
+TIVA) 
+2 No. 
+
+
+--- Page 5 ---
+AIIMS/MG/Proc/06/Tender/2022-23/ Infusion Pump 
+Page 5 of 35 
+ 
+General Features: - 
+1. Weight Equal or less than 1.4 kg 
+2. Size must be 249x68x152 mm or lesser 
+3. Flow rate range 0.01- 999.9 ml/h 
+• 99.99 ml/h in increments of 0.01 ml/h 
+• 100.0 - 999.9 ml/h in increments of 0.1 ml/h 
+4. Syringe sizes :- 2/3; 5; 10; 20; 30;  50/50 ml : 2ml Syringe size 
+5. Online rate modification without delivery interruption 
+6. Accuracy of set delivery rate equal or less than +/-  2% including recommended syringe 
+7. Bolus application delivery rate 1 - 1,800 ml/h; max. Bolus Volume 99.99 ml 
+8. Bolus on demand with manual selection 
+9. Bolus with volume/dose pre-selection 
+10. Bolus delivery with time pre-selection (1 min - 24 h) 
+11. Should be Automated syringe change for optimal start up characteristics 
+12. Standardized User interface for all Syringe & volumetric infusion pumps 
+13. Dose calculation: Automatic calculation of the delivery rate based on dose entries in mg, µg, 
+IE or mmol, weight – and/or time related. 
+14. Keypad:- clearly structured not more than 10 keys for fast and intuitive operation 
+15. Pole clamp must be rotated so as to connect either in IV pole or in bed handle 
+16. Different colour LED display for operational indication 
+• Red for Alarm mode 
+• Green for Working mode 
+• Yellow for Pre-alarm Mode 
+• Blue for Service Mode 
+17. During infusion, following parameters must be displayed for better therapy control 
+• infusion Rate 
+• Occlusion Pressure limit setting 
+• Current occlusion pressure; 
+• Battery level 
+• Mains mode 
+• infused volume 
+• infusion therapy time 
+• infusion status 
+Special Features: - 
+1. User individual configuration or deactivation of KVO rates possible with following setting 
+• Rate >= 10 ml/h: KVO rate 3 mUh 
+• Rate < 10 ml/h: KVO rate 1 ml/h 
+• Rate < 1 ml/h: KVO rate = set rate 
+2. Drug library:- 750 drugs including all parameters with category Up to 15 user preference and 
+with dosage limits to reduce medication errors: 1500DL 
+3. Key pad must be back lit with light brightness control 
+4. Key pad structure must be identical to infusion pump 
+
+
+--- Page 6 ---
+AIIMS/MG/Proc/06/Tender/2022-23/ Infusion Pump 
+Page 6 of 35 
+ 
+5. Parameter fonts in pump display may changed into small & Large for better visibility. 
+6. Lock-key for drive to avoid accidental removal of syringes by unauthorized person 
+7. Pump must store last 1000 events on following aspects 
+• functionality of pumps 
+• Operational & technical alarm of pumps 
+• Keypad operation 
+Safety Features:- 
+1. Integrated piston brake within syringe drive to prevent free flow during syringe change 
+2. Occlusion alarm pressure limits must be Adjustable in 9 steps (0.1-1.2 bar or 75-900 mmHg) 
+3. Occlusion Pressure setting must be displayed in mmHg 
+4. Medication error prevention through dose limits referring to selected drug 
+5. Computer assisted software for configuring 700 plus drugs for all safety related parameters 
+setting 
+6. International Classification according to:- 
+• IEC/EN60601-1- type, IEC/EN 60601-2-24,, EN 55011 
+• FDA/CF defibrillator proof protective class II 
+• 93l42/EWG - Class IIb 
+• Moisture protection IP-22 (drip, protected for horizontal usage) 
+Power Supply: - 
+1. Mains adaptor with rated rated voltage from 100…240V Ac, 50/60 Hz for standalone – 
+operation 
+2. External low voltage rating must be 11…..15V; via external power supply 12 V 
+Battery:- 
+1. Rechargeable NIMH battery pack with operating time approx. over 12 Hrs. 
+2. Battery change must be quick and easy without using screw-driver and not opening pump. 
+3. Battery with Battery capacity display in h and min 
+4. Battery must be common for syringe pump as well as infusion pump. 
+Upgrading Features:- 
+1. Stacking pumps together to save space in ICU / OT min 4 to max. 24 pumps with single power 
+cord & additional battery 
+2. Plug & Play connection monitoring pump working condition, alarm condition with central 
+alarm display 
+3. Single power adaptor facility to power 3 pumps 
+4. Computer aided software to collect 2000 plus events to understand 
+• Functionality of pumps 
+• Operational alarm of Pumps 
+• Technical Alarm of Pumps 
+• Keypad operation 
+
+
+--- Page 7 ---
+AIIMS/MG/Proc/06/Tender/2022-23/ Infusion Pump 
+Page 7 of 35 
+ 
+5. Connecting & Monitoring pumps (with Station) to hospital information systems/ computer 
+network via, 
+• RS232 
+• Ethernet 
+• Wireless LAN 
+• USB 
+6. Upgrade of pumps to special therapy like TCI, PCA therapy mode 
+7. Syringe drive lock fixation for PCA therapy 
+TCI 
+3rd generation of TCI 
+• Pump should have: all therapies in clinical routine including TIVA/TCl. 
+• Pump provides a variety of TCI algorithms (Propofol: Schneider, Marsh; Remifentanil: 
+Minto) as well as user profiles (Plasma targeting/effect site targeting) 
+• All-important information visible on one screen 
+• Enhanced user control with the possibility of delivering an extra bolus during TCI 
+
+
+

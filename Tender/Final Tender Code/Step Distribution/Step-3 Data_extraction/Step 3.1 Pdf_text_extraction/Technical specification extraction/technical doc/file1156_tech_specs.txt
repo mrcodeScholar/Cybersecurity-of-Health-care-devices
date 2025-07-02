@@ -1,0 +1,146 @@
+--- Page 11 ---
+Tender for B Scan with UBM                                                                                                Admn/Tender/96/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+01. 
+B Scan with 
+UBM 
+Hardware Features 
+ 
+ Footswitch control (scan start, scan 
+stop, scan save, etc.) 
+ Removable one-terabyte hard drive 
+ Wide screen,  high-resolution monitor 
+Electrical features  
+ 
+ Power supply - 100-240 VAC auto-
+ranging 
+ Frequency - 50/60 Hz 
+ Input power - 220 /230VA 
+B-Scan Modes 
+ Four sets of electronic distance measurement calipers with 
+variable velocity  
+ Two sets of electronic angle measurement calipers (variable 
+velocity)  
+ Movie sequence - real-time viewing and editing capability 
+10/12 MHz 
+Posterior Segment 
+• 25 frames-per-second image acquisition 
+rate 
+• 10-second movie loop capability 
+• Sealed probe 
+• Adjustable transmit gain (minimum to 0 
+dB) 
+• Adjustable receive gain (1-128 dB) 
+• Adjustable dynamic range (Log, S1, S2, 
+S3) 
+• Axial resolution: 50 microns 
+• Lateral resolution: 100 microns 
+• Scanning angle: 20-60 degrees 
+• Image depth (displayed image): 48-50 
+mm 
+• Focal depth: 25 mm 
+• Image width at focal zone: 19-36 mm 
+• Focal range: 15-35 mm 
+40/50 MHz UBM 
+Wide-Field 
+Anterior Segment 
+ 
+13 frames-per-second image acquisition 
+rate 
+• 20-second movie loop capability 
+• Adjustable transmit gain (minimum to 0 
+dB) 
+• Adjustable receive gain (27-90 dB) 
+• Adjustable dynamic range (Log, S1, S2, 
+S3) 
+• Axial resolution: 23-50 microns 
+• Lateral resolution: 33-60 microns 
+• Scanning angle: 10 - 30 degrees 
+• Image depth (displayed image): 11.9 
+mm 
+• Focal depth: 12.5 mm 
+• Image width at focal zone: 15-18 mm 
+• Focal range: 10.5-14.5 mm  
+A-Scan Modes 
+• IOL power calculations and analysis: 
+- Holladay-I 
+- SRK-T 
+- Haigis (optional) 
+- Hoffer-Q 
+• Movie sequence adjustable up to 5 seconds 
+• 50 frames-per-second image acquisition rate 
+01 
+
+
+--- Page 12 ---
+Tender for B Scan with UBM                                                                                                Admn/Tender/96/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-II 
+ 
+Axial Length 
+Biometry A-Scan 
+ 
+• Immersion or contact method 
+• Solid focused probe with internal 
+fixation light 
+• Probe frequency: 10/11 MHz 
+• Image depth: 40 mm 
+• Points on x-axis: 2048 
+• 8 bit resolution 
+• Measurement accuracy: 50 microns 
+inherent, 100 microns clinical 
+• Automatic or manual scan acquisition 
+• Built-in pattern recognition with 
+automatic scleral echo detection  
+• Statistics: average and standard 
+deviation 
+Standardized Diagnostic A-Scan 
+• Two caliper measurements displayed in 
+mm with variable velocities 
+• Tissue sensitivity value stored in 
+memory with reset function 
+• Probe frequency: 8 MHz parallel beam 
+• Measurement accuracy: 50 microns 
+inherent, 100 microns clinical 
+ 
+ US FDA/EUROPEAN CE Approved 
+ 
+ 
+ 
+ 
+
+

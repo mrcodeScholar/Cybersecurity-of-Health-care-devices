@@ -1,0 +1,53 @@
+--- Page 65 ---
+ 
+ 
+ 
+SECTION – VII 
+TECHNICAL  SPECIFICATIONS  
+1.      Unit should be able to give very high image quality with advance technologies like compound imaging for better 
+contrast resolution, tissue differentiation and edge detection, equivalent to high end cart based systems. Please 
+specify the technology. 
+2.      Unit should be compact, durable & less than 5 kg in weight. 
+3.      Imaging modes of Real time 2D, Color Doppler, Power Doppler, Pulsed wave Doppler, Continuous wave Doppler 
+must be available. 
+4.      System should have both online (Read) as well as offline (Write) zoom facility 
+5.      System must have fast start up to scanning in less than 30 seconds from off condition. 
+6.      System should support transducer technologies like phased array, convex, linear & TEE format. 
+7.      The system should have a broadband architecture with an operating frequency of at least 1 to 15 MHz 
+8.      Cine memory should be available on all operating modes. 
+9.      The system shall process a dynamic range that is at least 165db. The system must display at a maximum depth of                  
+35 cm. 
+10.  The offered unit must have Flat LCD/ TFT monitor of at least 12 inches with anti glare coating and flicker free image. 
+11.  Alphanumeric soft keys backlit and splash resistant keypad with easy access scan controls, facility to sanitize the   
+      system keyboard to avoid cross contamination. 
+12.  The system must have the ability to function by AC/DC or battery power with the same degree of functionality, the  
+       battery life (run time) shall be al least 2 hours. 
+13.  The system must have archive capability for storage & retrieval of images and clips. It should have atleast 2 USB  
+       slots, which allow for direct sharing of images (JPEG) and clips (AVI) to a PC. 
+14.  Unit & transducers must be rugged, resistant to breakage & damage on fall/hit so as to withstand busy & field  
+       situations. 
+15.  The system must have in-built memory of at least 16 GB for storing Patient data & studies. 
+16.  The system shall support the all DICOM functionality, Storage, Print, and Work List, also ready to connect to PACS. 
+17.  System should have European CE / US FDA / BIS quality certification. 
+18.  Should be supplied with a 6-13 MHz (±1 MHz) multi-frequency, broadband linear array transducer for vascular,  
+      venous, small parts, thyroid, musculoskeletal, nerve imaging. 
+19.  A trolley must be supplied to store and/or transport the system. 
+20.  Triple Transducer Connector with electronic switching facility to toggle between transducers should be provided. 
+21.  Needle visualization software which can dynamically optimize the image to give the best possible view of the needle   
+       in real time should be provided. 
+22.  Should be supplied with thermal printer. 
+23.  Should be brand new and unused. 
+24.  Main unit and transducers should be covered with comprehensive onsite warranty for 5 years commencing from the   
+      date of issue of installation certificate.  
+25. Onsite training and education material must be provided post installation of the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

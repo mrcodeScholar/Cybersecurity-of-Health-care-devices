@@ -1,0 +1,276 @@
+--- Page 39 ---
+ 
+ 
+Tender No. AIIMS/R/CS/OBGY/6795/2023/GTE/B 
+39 
+ 
+Annexure-I 
+Technical Specification of “Automated Sperm Analyser” 
+1. Automated system for semen analysis, which should be reportable according to the WHO 
+6
+thCriteria parameters. 
+2. The equipment should provide the following parameters by automatically 
+i. 
+Concentration 
+ii. 
+Total sperm count 
+iii. 
+Total percentage motility (progressive + non progressive) 
+iv. 
+Percentage of Rapid Progressive motility, Percentage of Slow Progressive motility Non 
+Progressive motility and Immotility. 
+v. 
+Motile sperm / ejaculate concentration  
+vi. 
+Total progressive motile/ ejaculate concentration  
+vii. 
+Mean Velocity VCL – which is more clinical value. 
+viii. 
+Functional Sperms Concentration 
+ix. 
+Sperm Motility index – special parameter to replace Sperm function test (like Penetrak 
+test, acrobeads test, and zona-free hamster ovum human sperm penetration test (ZSPT).  
+x. 
+Percentage of normal sperm morphology 
+3. Should have facility for a visualization system/ video microscopy – capture image and Video for 
+future reference and evidence checking with Neubauer counting chamber comparable calibrated 
+GIRD. Option for Multiple image and Multiple Video option to count more number of sperm for 
+compare the automatic reading. 
+4. Software to visualize the various morphology parameters of the sperm should be available – 
+Head, Midpiece, tail, Acrosome and other morphology  
+5. Vitality (Live and Dead) images should be read automatically within 2 min. 
+6. DNA Fragmentation test facility should be available and should read internal core and Halo with 
+as per WHO 6th classification (Big Halo, Medium Halo, Small Halo, Degraded and No Halo) 
+Visualization Compartment included in Analyser itself. White LED illumination systems with 
+luminous intensity 3500 mcd Digital CCD resolution at least 1280 x 1024 pixels, high resolution 
+on frozen images provided by capturing a high # of frames per sec. Objective: Standard 40X optic 
+Chromatic aberration correction lens incorporated inverted Digitalisation. Zoom system for 
+smooth magnification transition between x1188 and x1725 Focus regulator and field of view stage 
+knob. 
+7. Should have facility for quality control.  
+8. Should be auto calibrate and display the key value every day 
+9. Disposable testing capillary – have motility channel and concentration channel. These channel will 
+provide all the automatic reading through LED without image and removed subjective variations. 
+Automatic reading (Concentration m/mL, Total Motility %, Rapid Progressive Motility % Slow  
+Progressive Motility %, Non Progressive Motility %, Immotile % and Rapid Progressive concentration 
+m/mL, Slow Progressive concentration m/mL, Functional Sperm Concentration m/mL, Sperm Motility 
+Index, Total ejaculation report - Total Sperm count, Total Motile sperm concentration, Total 
+Progressive concentration, Total Functional Sperm concentration and Total Normal Morphology) No 
+counting chamber required. 
+10. WHO parameter report should be non-image technology.  
+11. The coefficient of variation of the sperm count should be less than 10%. 
+
+
+--- Page 40 ---
+ 
+ 
+Tender No. AIIMS/R/CS/OBGY/6795/2023/GTE/B 
+40 
+ 
+ 
+12. The reports with raw data should be saved in a non-proprietary format for data transfer Facility to 
+export excel format for analysis  
+13. UPS with battery backup for 1 hour should be provided.  
+14. The equipment should be FDA / CE / BIS approved. 
+15. Satisfactory demonstration is essential for technical qualifications. 
+16. Onsite installation, training and commissioning should be done free of cost.  
+17. The calibration, IQ, OQ, PQ of the instrument should be performed at the time of installation and 
+Certificates should be provided. 
+18. Yearly calibration certificate should be given.  
+19. After sales service should be available within 24 hours and by trained service personnel.  
+20. Any breakdown should be attended within 24 to 48 hours  
+21. In case not rectified stand by System should be place with in 72 hours. 
+22. Order copy from AIIMS and satisfactory letter should be provided  
+23. Product should have long standing sales and service in Indian Market (More than 5 years).  
+24. All upgrading should be done free of cost within these 10 years.  
+25. OptiPlex 7490 All-in-One XCTO with Original OS Window 11 and above Windows 11 Pro, English Dell Pro 
+Wireless Keyboard and Mouse – KM5221W - India Mouse ENERGY STAR Qualified included Dell Support 
+Assist OS Recovery Tool Custom Configuration  11th Gen Intel Core i7 vPro label – 1TB SSD Hard Desk 
+7490 AIO 23.8” FHD 1920x1080 WVA Touch Anti – Glare, IR  Camera, Integrated Graphics, Bronze 160w 
+PSU  Integrated Graphics Wi-Fi 6  AX201, Dual-band 2x2 802.11ax with MU- MIMO + Bluetooth 5.1, 16GB 
+RAM (1x16GB) DDR4 Non-ECC Memory Desktop-Small Freight Charges (India-I2) System Power Cord India 
+6A EPEAT 2018 Registered (Silver) M.2 2280 1TB PCle NVMe Class 40 Solid State Drive Microsoft Office Trial 
+(30 Days) Support Assist Dell ™ Digital Delivery Cirrus Client Regulatory Label for OptiPlex 5490/7490 AiO 
+Integrated graphics confiq (ICC) Dell OptimiZer SI, MOD, INFO, MIAS, POSTBURN SI, MOD, CFI, OR-LBL, SYS-
+INFO Trusted Platform Module (Discrete TPM Enabled) SI, MOD, INFO, MIAS, AP SI, MOD, INFO, LBL, MED, 
+SYS, READY6, T6KFY Waves Mass Audio Integration information SI, EMEA MOD INFO DELL READY, SI, MOD, 
+INFO, FIDA OR BYPASS SI, MOD, INFO, CSR, ELIGIBLE Intel Core i7-11700 (8 Cores/16MB/16T/2.5GHz to 
+4.9GHz/65/W); support Windows 10/Linux Wireless Diver, Intel® WiFi 6 AX201 2x2 (Gig+) + Bluetooth 5 
+OptiPlex All-in-One Height Adjustable Stand, All-in-One Pro support Plus and Accidental Damage Service, 60 
+Month(s) Dell Client System Update (Updates latest Dell Recommended BIOS, Divers, Firmware and Apps) 
+Touch Panel, Thermal Pad, Quick Setup Guide 7490, Intel vPro Technology Enabled. 
+26. Consumables: Consumables requirement (Testing capillary, Cleaning Kit, Vitality Kit, Morphology Kit, 
+DNA Fragmentation Kit, Fructose Kit, Anti Sperm Antibody Kit, HOS Kits, Dilution Kit for low Volume 
+samples, pH and WBC Strips, Liquifaction Kit and Leukocytes pad) 
+27. Consumable for standardization and performing 100 tests should be provided with the equipment. 
+28. The printer for printing the test results should also be provided at the time on installation Quality Controls. 
+29. Internal quality control and external external quality control testing options should be available. 
+30. Internal quality control should be given during installation. 
+31. One year external quality control program cost should be included. 
+32. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+ 
+ 
+
+
+--- Page 41 ---
+ 
+ 
+Tender No. AIIMS/R/CS/OBGY/6795/2023/GTE/B 
+41 
+ 
+Specification of Consumable items for “Automated Sperm Analyser” 
+List of Consumable: 
+01) Capillary kit: Should be O.E.M. 
+02) Cleaning kit: Should be O.E.M. 
+03) Vitality kit and HOS kit: Should contain 0.5% Eosinin 0.9% NaCI, with HOS solution 
+04) Morphology kit: Should contain 
+Methanol 
+Triaryl methane dye 
+Eosinicxanthene 
+Basophilicxanthene 
+05) D.N.A. Fragmentation kit: Should contain 
+Coated Glass Slides – High melting 
+Agarose Gel – Low Melting  
+Diluent – Phosphate 
+Lysing – Tris 
+Giemsa Solution A – Wright – Giemsa Dye 
+Giemsa Solution B – Phosphate  
+Fixative – Ethanol  
+06)  Fructose kit: Should contain 
+ 
+Deproteinized solution – 1 
+ 
+Deproteinized solution – 2 
+ 
+Indole in methane solution – 3 
+ 
+NAOH solution 4 
+ 
+Fructose standard solution 
+07) Anti sperm Anti body kit: Should contain 
+ 
+Enzymes conjugate (Anti human IgG, IgA, IgM, conjugated to peroxide) 
+ 
+Standard lyophilized for exact concentration with Qc certificates. 
+ 
+Buffer substrate and stop solution (ready to use 1M Hydrogen sulphate) 
+ 
+Microtiter plate for determination of non specific binding blocked salt solution. 
+08) Dilution Kit: Should contain sterile Earles balanced salt solution. 
+09) Ph and WBC strips: Should contain Ph pad of Bromothymol bule and Bromocresol Green with 
+non reactive ingredients. 
+Leukocytes pad: Should contain Pyrrole Amino acid Ester, Diazonium salt, buffer with non 
+reactive ingredients. 
+10) Liquifaction kit: Should contain 5 ml vials of lyophilized and chymotrypsin.  
+Note:  01) Rates of consumable will be freezed for 05 years. Firm will provide the consumables 
+for 05 years as per freezed rates.  
+02) L1 will be decided on the basis of total value of Items Cost + CMC + Consumable 
+Cost.  
+ 
+
+
+--- Page 42 ---
+ 
+ 
+Tender No. AIIMS/R/CS/OBGY/6795/2023/GTE/B 
+42 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE document for complete 
+equipment (including Batteries for UPS, other vacuumatic parts wherever applicable) Warranty period 
+will be 5 years from the date of installation, commissioning and Site Modification Work from the date 
+of satisfactory installation, commissioning, trial run & handing over of equipment to 
+Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period by double the 
+downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical College on 24 (hrs) 
+X 7 (days) X 365 (days) basis. Complaints should be attended properly, maximum within 8 hrs. The service 
+should be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the spares for the 
+equipment shall be available for at least 10 years from the date of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents (if they have 
+the requisite know-how) for operation and maintenance of the equipment to the satisfaction of the 
+consignee. The same will be in line with the training modalities as specified in general technical 
+specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes preventive maintenance 
+including testing & calibration as per technical/ service /operational manual of the manufacturer, 
+labour and spares, after satisfactory completion of Warranty period may be quoted for next 5 years on 
+yearly basis for complete equipment (including Batteries for UPS, other vacuumatic parts wherever 
+applicable) and Site Modification Work (if any). The supplier shall visit each consignee site as 
+recommended in the manufacturer’s technical/ service /operational manual, but at least twice in six 
+months (i.e. 4 preventive maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender Opening. The taxes 
+to be paid extra, to be specifically stated. In the absence of any such stipulation the price will be taken 
+inclusive of such taxes and no claim for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be taken at Net Present 
+Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory completion of said period, 
+duly certified by end user on receipt of bank guarantee for 2.5% of the cost of the equipment as per 
+Section XV valid till 2 months after expiry of entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 365 (days) basis, 
+with penalty, to extend CMC period by double the downtime period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee‟s site at least twice in 6 months 
+(i.e. 4 preventive maintenance/ year) apart from all breakdown visits, commencing from the date of the 
+successful completion of warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the Bank Guarantee 
+for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+ 
+ 
+ 
+ 
+
+
+--- Page 43 ---
+ 
+ 
+Tender No. AIIMS/R/CS/OBGY/6795/2023/GTE/B 
+43 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, wherever required. The 
+Tenderer shall examine the existing site where the equipment is to be installed, in consultation with HOD of 
+Hospital/Institution/Medical 
+College 
+concerned. 
+Site 
+Modification 
+Work 
+details 
+of 
+each 
+Hospital/Institution/Medical College are given at the end of Technical Specification. The Tenderer to quote prices 
+indicating break-up of prices of the Machine and Site Modification Work of each Hospital/Institution/Medical 
+College. The Site Modification Work costs to be quoted in Indian Rupee will be added for Ranking Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation the price will be taken 
+inclusive of such duties and taxes and no claim for the same will be entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note1:Tenderer‟s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The tenderer is to provide 
+the required details, information, confirmations, etc. accordingly failing which it‟s tender is liable to 
+be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of equipment for carrying out 
+routine and preventive maintenance wherever asked for and should make sure that Electrical Safety 
+Analyzer / Tester for Medical equipment to periodically check the electrical safety aspects as per BIS 
+Safety Standards IS-13540 which is also equivalent to IEC electrical safety standard IEC- 60601 is a 
+part of the equipment s. If the Electrical Safety Analyzer/Tester is not available they should provide a 
+commitment to get the equipment checked for electrical safety compliance with Electronic Regional 
+Test Labs / Electronics Test and Development Centres across the country on every preventive 
+maintenance call. 
+Note 3: Adequate training of personnel and non-locked open software and standard interface interoperability 
+conditions for networked equipment in hospital management information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical training for 
+personnel involved in the use and handling of the equipment on site at the institute immediately after 
+its installation. The company shall be required to train the institute personnel onsite for a minimum 
+period of 1 month 
+All software updates should be provided free of cost during warranty period and CMC period 
+
+

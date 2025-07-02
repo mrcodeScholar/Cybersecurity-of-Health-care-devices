@@ -1,0 +1,35 @@
+--- Page 16 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/RC/BP Monitor/424/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 16 
+ 
+ 
+Technical Specifications of Automatic BP Monitor: 
+ 
+1. Measurement Method: Oscillometric 
+2. Pressurization: Internal Micro Pump 
+3. Pressure Display Range: 0 to 299 mmHg 
+4. NIBP measurement Range: SYS 40 – 270 mmHg, DIA 20-200mmHg, Pulse 30-240mmHg 
+5. Measurement Accuracy: Pressure: ±3mmHg Pulse ±5% 
+6. Cuff Fastening Method: Torque Controlled Belt Drive Method (TCBM) 
+7. Accuracy, Pulse Rate: ±5% 
+8. Clock Display: 24 hour with Date and Time 
+9. Display Type: 3 digit display by LED 
+10. Cuff: Automatic Operation 
+11. Power: Switching 100-240 V AC 50-60 Hz 
+12. Dimensions: 241(W) x 324(H) x (390(D) 
+13. Weight: Approx 5.5 kgs 
+14. Clock Function: Clock Display, Date & Time (2015-2050) 
+15. Printer: Thermal Printer with auto cutter in monitor 
+16. Certificate: USFDA/ CE/ European Certificate/ISO/BIS 
+17. Printing Function with graph, counting function and IHB symbol 
+18. Measurement: By both arms 
+19. Data Transfer: By Bluetooth / RS232 
+20. Safety Device: Quick Release when start/stop button is pressed. Quick release when FAST STOP button is 
+pressed 
+21. Pressure Detection Method: Capacitance type pressure transducer 
+22. Applied Pressure: Automatic inflation by air pump 
+23. Warranty: 5 years from date of installation   
+
+

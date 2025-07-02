@@ -1,0 +1,492 @@
+--- Page 10 ---
+Tender for Flat panel C-arm with DSA 
+Admn/Tender/26/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Floor 
+Mounted 
+lead 
+protector 
+(lead shield)  
+Technical Specification of Digital Flat Panel Detector Mobile C - 
+Arm System with Digital Subtraction Angiography:  
+1. GANTRY / C-ARM  
+a)   The  system  should  have  a  minimum  of  80cm  free  space  
+within  the  C-Arm  to  provide  a  large imaging space.  
+b)  The C-arm depth should be 70 cm or deeper to provide a large 
+imaging space and C-arm clearance around the patient and the imaging 
+table.  
+c)  The  C-arm  should  have  a  manual  angulation  of  +/-200 degrees   
+to  allow  the  imaging  chain  to  accomplish angled projections.    
+d)   The C-arm field of view should be a square field of view for better 
+ROI coverage. 
+e)  The C-arm should have orbital movement of + 90 / - 45 degrees for 
+better penetration in Crania/caudal movement.  
+f)   The system should have at least 40cm of motorized vertical C-Arm 
+travel capability to adjust the imaging chain height.  
+g)   The  C-arm should provide  side  to  side  (wig-wag)  and  the  
+horizontal  travel  movements  to  allow panning during an imaging.  
+ 2. GENERATOR & X-RAY TUBE  
+a)   The  generator  should  be  Micro  Processor  controlled  converter  
+type  with  output  of  12  KW  or more and minimum 50 kHZ 
+frequency (or higher).  
+b)   The system should operate in full capacity on 220 volts AC, 15 
+amps.  
+c)  Fluoroscopic kVp range : 40-120kVp or more  
+c)   Fluoroscopic mA range : 4 mA - 60 mA  
+d)   Radiographic kVp range : 40-120kVp or more  
+e)  Radiographic mA range : Minimum 100mA  
+f)   The  generator  should  be  capable  of  providing  pulse  fluoroscopy  
+with  pulse  rates  upto  25 frames/sec.  
+g)   The X-ray tube should be a rotating anode X-ray tube type.  
+h)  The tube should have additional safety filtration for the stray or 
+scattered radiation i.e. cu filters.  
+i)   Focal spot size should be 0.3mm & 0.6mm dual focal spots.  
+j)   Anode heat storage capacity should be 300 KH.U. or higher  
+k)   Anode cooling capacity should be 70 kHU/min. or higher  
+l)   The tube housing heat storage capacity should be a minimum of 
+2000KHU.   
+3. FLAT PANEL DETECTOR SYSTEM  
+a)  The system should have a Flat detector of CSI with Amorphous 
+Silicon doping.  
+b)   The Size of the detector should be of min 28 cm X 28 cm.  
+c)  The pixel size should be 200 micron or less  
+d)   The system should be equipped with two high-resolution 18” 
+LCD/TFT medical grade monitors or more.  
+e)  The  system  should  provide  a  last  image  hold  capability  that  the  
+last  image  is  displayed  on  the active monitor after the termination of 
+an exposure.  
+f)   The system should be equipped with touch control panel.  
+g)   The system shall allow the user to change the image orientation on 
+the display screen during a live exposure or using the  last image hold.  
+01 
+
+
+--- Page 11 ---
+Tender for Flat panel C-arm with DSA 
+Admn/Tender/26/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+Those functions include image rotation, and top to bottom image 
+reversals.   
+4. DIGITAL SYSTEM & IMAGE MANAGEMENT  
+a)  The system should have multi patient data base for handling large 
+quantities of image, including dose management report.  
+b)   The  system  should  automatically  select  proper  imaging  
+parameters,  kVp  and  mA  during  an imaging, but also provide the 
+user to over-ride these setting manually.  
+c)  Real time and automatic brightness and contrast should be provided 
+to optimize displayed image.  
+d)   The  system  should  provide  a  real  –  time  post  processing  edge  
+enhancement  capabilities  to  get better  image  quality  according  to  
+the  density  of  the  tissue.  An  electronic  zoom  function,  an 
+automatic save function to hard disk, Mosaic Display.  
+e)  The  system  should  be  capable  of  saving  more  than  5000  
+images  to  the  internal  hard  disk  and retrieve stored images later.  
+f)   It should have facility to record on line fluoroscopy.  
+g)   It  should  have  facility  for  image  and  fluoro sequences retrieval  
+on  a  CD/DVD/Pen drive.  
+h)  System should have facility for DICOM connectivity and DICOM 
+Ready. All DICOM functions (DICOM Send/Storage Commitment, 
+DICOM Print, DICOM Query/Retrieve, and DICOM Work list/MPPS) 
+should be offered. 
+i) Software to enhancement the contrast of image with respect to density 
+of organ should be offered, allowing the contrast of structures to be 
+emphasized without loss of information in bright and dark image areas. 
+J) System should have digital acquisition with and without subtraction. 
+It should have road map  facility for intervention.  
+5. Following Dose Reduction Package should be offered  
+a) Integrated dose measuring chamber with automatic transfer of the 
+accumulated dose into a radiation report. 
+b) Radiation-free positioning of primary collimators through graphical 
+display in the LIH image on the image monitor. 
+6. Independent Post Processing Workstation 
+a)The digital workstation should be based on the latest high speed processor. 
+b)It should have the possibility of acquiring the images from the C-arm system and 
+patient list and examination data from Hospital/Radiology Information systems (HIS
+be possible. 
+c)It should have image storage disk of 10,000 images or more. 
+d)The system should have ready DICOM Interface and networking capability with 
+RIS/HIS/PACS 
+e)Post processing function must be available. 
+f)Console station must be provided for image processing , image display, post proce
+and networking with anti glare color monitor of  LCD type with size 19” with matri
+1024 
+ 
+7. ESSENTIAL ACCESSORIES  
+A. Suitable online U.P.S. to run the system for at least 15 minutes 
+should be quoted with the system. 
+
+
+--- Page 12 ---
+Tender for Flat panel C-arm with DSA 
+Admn/Tender/26/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+B. Twelve lead free aprons (vest and skirt type for extended 
+period of use) with following specifications: 
+a. Made in ISO approved factory with EU ISO 9001:2000 
+standards 
+b. CE certification and conform to EC Council Directive 
+EC89/686/EEC/article 11B 
+c. Three Year Manufacturer Guarantee 
+d. Handmade to Individual specification 
+e. Full protection while weighing 30% less than traditional 
+lead aprons 
+f. Flexible two-piece design with wide skirt for ease of 
+movement 
+g. Flexible Velcro fastenings across shoulders and torso 
+h. Both Vest &Skirt include full overlap in front, offering 
+double protection with full protection to Front & Back. 
+i. Padded shoulders to prevent forward slippage and relieve 
+pressure on shoulders 
+j. Optional Monogram 
+ 
+C. Eight thyroid shields (lead free) with following specifications: 
+a. Made in ISO approved factory EU ISO 9001:2000 
+standards 
+b. CE certification and conform to EC Council Directive 
+EC89/686/EEC/article 11B 
+c. Three Year Manufacturer Guarantee 
+d. Full protection while weighing 30% less than traditional 
+thyroid collars 
+e. Adjustable Velcro Fastening 
+f. Soft, Stain resistant material with choice of colours and 
+design 
+ 
+D. four gonadal shields (All sizes both for male and female). 
+ 
+E. Radiation protection eye wear (weight not exceeding 55 
+gm):Five in number(design to be finalized based on users in the 
+department). 
+F. Radiation protection fit over eye wear to fit over existing glasses 
+weight not exceeding 100 gm): five in number  
+G. Radiation protection head wear (zero lead): Six 
+H. Wall mounted apron hangers(foldable): Four 
+I. Adjustable and movable radiation protection shield from reputed 
+make: Two 
+J. Ceiling mounted light 
+K. CE certified C-arm compatible table having following 
+specification. 
+I. Carbon fiber table top. 
+II. Lateral support available. 
+III. Arm support available 
+IV. Removable rails 2 pieces 
+V. Table top: 2450 mm 
+VI. Width: 530mm 
+VII. Length of Imaging:1860mm 
+VIII. Width of Imaging:530mm 
+IX. Lateral travel: 240mm 
+
+
+--- Page 13 ---
+Tender for Flat panel C-arm with DSA 
+Admn/Tender/26/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+X. Longitudinal travel:840mm 
+XI. Vertical travel:360mm 
+XII. Trendelenburg:-18deg+18deg 
+XIII. Lateral tilt:-15deg+15deg 
+XIV.Load:200 Kgs. 
+L. Lead Barrier: 
+ 
+1. Lead door size 6*3 feet (height x width). 
+2. Lead glass 3*2 feet (height x width). 
+3. Half feet from both sides framing will be done to provide proper 
+support. 
+4. Top Lead glass 10mm thick, 2.2 lead equivalent mm Pb. 
+5. Below lead glass there will be lead protection of size 3*3 feet. 
+6. Below lead protection will be 1.5mm pb lead equivalent. 
+7. Side framing will be stainless steel.  
+8. Castor Johnson wheel 
+9. ISO and CE certified 
+ 
+M.  
+One personnel dosimeter having capacity to measure radiation 
+dose in millirem. It should also have the capacity to provide dose 
+rate. 
+ 
+8.  Site modification:  Vendor will prepare the room with wall tiling 
+(2’x2’)  up to false ceiling. Gypsum false ceiling with lighting to be 
+provided. PVC 3mm flooring to be provided. Room to be prepared as 
+per AERB Guidelines. Two split a/c of 2 ton each of reputed make to be 
+provided  
+a) Dual use scrub station of reputed company with automated hand 
+sterilizer solution and medicated hand sponges. 
+b) Upgradation of existing scrub in the DSA room to include 
+automated hand steriliser solution and medicated hand sponges 
+(kindly contact Department of Radiology for any clarifications) 
+c) Floor to roof tile finish for DSA room walls: please visit the 
+DSA room for details regarding scope of work. 
+ 
+9. Anesthesia workstation: 
+The Anaesthesia Machine should have the following: 
+1 
+Should have pipelines attachment for oxygen, nitrous 
+oxide and compressed air. 
+2 
+Should have yoke assembly for oxygen and nitrous oxide 
+with pin index system. 
+3 
+Durable main switch to put the machine in the on or off 
+position. 
+4 
+There should be digital control and display for oxygen & 
+electronic gas mixing. 
+5 
+Should have safety features like : 
+a. Should provide 25% or more of oxygen when an 
+anaesthetic gaseous mixture is in used. 
+b. Should be provided with “pneumatic/ electronic” 
+hypoxic guard. 
+c. Should have extra flow meters for oxygen only. 
+6 
+Should have oxygen flush with a flow rate of more than 
+35L/min. 
+
+
+--- Page 14 ---
+Tender for Flat panel C-arm with DSA 
+Admn/Tender/26/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 14 
+ 
+7 
+It should have alternate O2 supply mode in case 
+electronic gas mixture failure  
+8 
+Should be able to hold two seletatec vaporizers 
+(Isoflurane, Sevoflurane & Desflurane) simultaneously. 
+Vapourizers should be maintenance free. Cost of 
+vaporizers to be quoted separately. The anesthesia 
+machine should provide desflurane compensation. 
+9 
+Co2 absorber system with the following features:- 
+a. Single/Double canister 
+b. Autoclavable 
+c. Canister capacity of 0.8 kg or more. 
+d. It should be possible to bypass the canister if 
+removed 
+during 
+clinical 
+cases 
+to 
+change 
+sodalime. 
+ 
+10 
+APL valve assembly and Bag mount should be 
+conveniently placed. 
+11 
+Independent port for open circuit. 
+12 
+Should be provided with one or more drawers. 
+13 
+Machine should have a good quality handle and castors 
+to move the 
+ 
+ 
+machine with locking system. 
+14 
+The ventilator of the machine should have the following 
+features: - 
+a. Should be electronically controlled. 
+b. Should be suitable for both paediatric, adult and new 
+born. 
+c. It should have coloured screen.  
+d. Volume and pressure control mode of ventilations. 
+e. Electronic peep 
+f. Both SIMV and pressure support mode. 
+g. Tidal volume ranges from 20ml to 1200 ml or more 
+h. respiratory rate from 4 to 80 or more 
+i. I:E ratio 
+j. Display : Respiratory rate, peak airway pressure and 
+PEEP 
+k. There should be no collection of water in the breathing 
+system. 
+15 
+Should have independent paramagnetic oxygen sensor 
+for FiO2 monitor and flow sensor for spirometry. 
+16 
+The work station should be capable of delivery of low 
+and minimal flow anaesthesia even at 350 ml of total fresh gas to 
+reduce patient consumption 
+17 
+Should be able to display 
+a. Pressure Vs time 
+b. Volume /Flow Vs time  
+18 
+Should have battery backup of at least 60 minutes 
+19 
+Demonstration of the product is must for all the firm. 
+20 
+Bidder must ensure regular supply of medical grade Soda 
+lime with rate quoted separately. 
+ 
+ 
+II. The Monitor should have the following: 
+1 
+A modular configurable patient monitor 
+2 
+Should have at least 17” or more TFT colour 
+display with up to 12 waveforms at a time 
+
+
+--- Page 15 ---
+Tender for Flat panel C-arm with DSA 
+Admn/Tender/26/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 15 
+ 
+3 
+Should be touch screen 
+4 
+Should be able to measure the following 
+parameters: 
+i. 3 and 5 lead ECG with electrocautery & 
+defibrillator filter with ST Segment & arrhythmia 
+detection with analysis, 
+ii. Respiration, SpO2, temperature 
+iii. NIBP, 2 IBP, ETCO2 
+iv. Multi –Gas analysis with auto detection of all 
+anaesthetic agents 
+v. Integrated BIS/entropy Monitoring. 
+vi. Upgradable to cardiac output (thermodilution) 
+monitoring. 
+vii. Integrated modular NMT monitor parameter 
+display on the main monitor 
+viii. Upgradable to modular EEG monitoring 
+ 
+5 
+Should be able to automatically detect and calculate 
+MAC of all anaesthetic gases. 
+6 
+Should be able to calculate and display FiO2. 
+7 
+Intelligent cooling system to keeps the unit 
+running quiet during use. 
+8 
+Separate indicator lights for technical and 
+physiological alarms. 
+9 
+Maximum BEEP tone should be loud enough to 
+be audible from atleast a distance of 12 feet 
+10 
+Should have graded audio and visual alarms for 
+the following parameters: 
+a. Blood pressure - High and Low 
+b. SpO2 - High and Low 
+c. Heart rate - High and Low 
+d. Respiration - High and Low 
+e. FiO2 - High and Low 
+11 
+Trends – Upto 48 Hours or more, trend analysis, 
+upto 24 hours full disclosure. 
+12 
+Battery Back- up – Li-ion Battery of 1 hour or 
+more. 
+13 
+Display of Anaesthesia ventilator data like wave 
+forms for flow, pressure, agent and loops, and 
+trends on patient monitors. 
+14 
+Ready to run Web based application like PACS, 
+HIS, RIS, LIS, Cath lab Report, X-Ray as 
+standard on the patient monitor (optional – price 
+to be quoted separately) 
+15 
+The quoted model should be European CE or US 
+FDA approved 
+ 
+ 
+16 
+System 
+should 
+have 
+Anaesthesia 
+Charting 
+facility. (Optional, price to be quoted separately) 
+17  
+The machine should be supplied with the following 
+accessories: 
+a. ECG Cable – 2 nos 
+b. Reusable SpO2 Sensors: 2 each for Adult, Pediatric 
+& Neonatal. 
+
+
+--- Page 16 ---
+Tender for Flat panel C-arm with DSA 
+Admn/Tender/26/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. NIBP Cuff: 2 each for Adult, Pediatric & Neonatal. 
+d. IBP Transducers: Disposable 10 nos. 
+e. IBP Cable: 2 nos 
+f. BIS Electrode: 10 nos 
+g. ETCO2 Sample Line: 10 nos 
+h. Reusable autoclavable Breathing circuit: 2 nos each 
+for Adult & pediatric 
+ 
+III.  
+All the components like anaesthesia ventilator, vaporiser, 
+Anaesthesia charting and patient monitor should be from same 
+manufacturer. 
+IV 
+Demonstration is must. 
+10.  Essential Certification:  
+The offered model (Main Equipment) must have a valid quality 
+certificates – CE (Europe) and USA FDA, at the time of submission of 
+tender. 
+
+

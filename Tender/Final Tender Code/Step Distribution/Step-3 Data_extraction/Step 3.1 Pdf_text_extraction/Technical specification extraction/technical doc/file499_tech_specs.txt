@@ -1,0 +1,135 @@
+--- Page 11 ---
+Tender for HIGH END CARDIAC MONITORS                                                                        Admn/Tender/37-2/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+High End Cardiac 
+Monitors 
+1. Patient monitor system should be of modular type and capable of 
+monitoring adult, pediatric neonatal patients with touch screen and 
+rotary knob user interface. 
+2. Monitor should have 19” independent flat panel display. Should be 
+capable of 8 traces display . 
+3. Module rack / housing should be independent and shall be able to 
+be placed near to the patient. 
+4. Monitor must be capable of simultaneously monitoring the 
+following parameters which should be present as standard: ECG, 
+NIBP, 
+SpO2, 
+invasive 
+pressures 
+(4), 
+temperatures 
+(2), 
+Capnography and cardiac output monitoring. 
+5. Should be compatible with Cardiac output, EEG, and BIS. 
+6. ECG should have capability for 3, 5 and / or 10 lead monitoring 
+and should have built in arrhythmia monitoring on all leads. 
+7. Inbuilt ST segment analysis and arrhythmia detection for all the 
+leads should be possible. 
+8. Haemodynamic and drug dose calculations should be available. 
+9. Arrhythmia should be grouped based on classifications – and 
+should show no of arrhythmias occurred. 
+10. Respiration should be available with Cardio Vascular Artifact 
+filter. 
+11. OCRG should be available for monitoring neonates. 
+12. ICP monitoring should be possible. 
+13. Alarm parameter should flash red in the presence of high priority 
+alarms (e.g. ventricular fibrillation and asystole) and flash yellow 
+in the presence of medium or low priority alarms (e.g. noisy 
+signal, etc.) 
+14. Minimum 72  hours trend data should be displayed at bedside 
+monitors. 
+15. All monitors including central station should have similar user 
+interface for easy usage among all clinicians. 
+16. Monitor shall provide the capability to interact with alarms at 
+remote bedsides. 
+17. Monitor shall provide the capability to receive and display real-
+time waveforms, trended data and alarm status from other bedside 
+or telemetry units on the patient monitoring network. 
+18. Monitor shall provide the capability enter patient information at 
+the bedside or central monitor. 
+19. On-screen keyboard for entering this data is preferable. Should 
+have USB ports to connect mouse, key board, bar code scanner. 
+20. Alarm limit status (ON/OFF) must be indicated on-screen for each 
+parameter and actual parameter 
+21. Alarm settings must be displayed on-screen when alarms are on.  
+22. Position of the displayed waveforms must be user configurable. 
+23. Waveform color changing should be user configurable. 
+30 
+
+
+--- Page 12 ---
+Tender for HIGH END CARDIAC MONITORS                                                                        Admn/Tender/37-2/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+24. Monitor shall permit the optional ability to receive and display 
+information from other patient devices such as ventilators, infusion 
+pumps and other standalone devices. 
+25. All modules should be compatible with all monitors quoted. 
+26. Bed to bed communication between the monitors should be 
+possible without a central station. 
+27. Networking to central station should be possible. 
+28. Patient monitoring network shall use standard TCP/IP protocol and 
+be capable of residing on hospital’s network infra-structure. 
+29. Should be compatible with HIS and should be HL7 compliant. 
+30. Monitor should have capability to accommodate remote viewing 
+of real time waveforms through internet. 
+31. Patient monitoring network shall be able to support up to 1,000 
+monitoring nodes or beds. 
+32. Should be supplied with necessary accessories for adult, pediatric 
+and neonatal accessories. 
+33. Complete monitoring system should have US FDA/ European CE 
+certifications. 
+Accessories and spares 
+1. ECG / respiration: 5 lead ECG cable and lead wire set and 10 lead 
+ECG cable and lead wire set per monitor 
+2. NIBP: Adult: 10 (8 standards + 2 large) number and Pediatric 5 
+number and infant 1 number (per monitor) 
+3. SPo2 Sensor: 10 Adult sensors with cable, 5 pediatric sensors with 
+cable and 5 neonatal sensors with cable per monitor 
+4. IBP: Include 10 nos of disposable pressure transducer with bracket 
+and interface cable per monitor 
+5. Temperature: Skin and nasopharyngeal probes per monitor. 
+6. Cardiac output module with kit and all standard set of accessories: 
+10 number 
+7. EtCO2 module with all standard accessories: 5 number 
+Central Monitoring Station for multi para monitor 
+1. System should have minimum 16 beds capability. 
+2. System should have minimum 32 beds capability and two separate 
+stations are needed. 
+3. Should have drug dose and hemodynamic calculations. 
+4. It should have possible to view information such as vital signs, 
+alarm status, arrhythmia analysis, trended parameters, patient data 
+etc for any selected bed from the central station. 
+5. Should have separate computer keyboard and network laser 
+printer. 
+6. Should have default alarm limits and customizable parameter 
+settings. 
+7. Central station should have full bed review capability. 
+8. Central station should be able to be configured as a bedside 
+monitor if required. 
+Should have capability for HL7 interface. Each bedside monitor 
+should have compatible transport module or transport monitor. All 
+systems should have US-FDA or European CE certifications . 
+
+

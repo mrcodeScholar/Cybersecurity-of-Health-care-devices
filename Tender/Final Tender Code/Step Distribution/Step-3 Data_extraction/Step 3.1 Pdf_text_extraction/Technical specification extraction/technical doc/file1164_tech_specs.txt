@@ -1,0 +1,143 @@
+--- Page 10 ---
+   
+Tender for ACLS Training system with wireless control & patient monitor                       Admn/Tender/Manikin/4/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+ Technical Specifications 
+Qty. 
+01. 
+ACLS 
+Training 
+system with 
+wireless 
+control 
+& 
+patient 
+monitor. 
+1. The manikin should be a full body adult CPR training manikin with 
+anatomically correct landmarks and sternal notch to allow students 
+to practice identification of all anatomical landmarks relevant to 
+adult CPR.  
+2. The training system should contain a hand held wireless control 
+device for real-time CPR performance feedback with ventilation and 
+compression as per latest American Heart Association (AHA) 
+guidelines.  
+3. The training system should allow further software upgradation to 
+improve feedback with quality. 
+4. The training system should provide realistic resistance during chest 
+compression which allows students to experience the amount of 
+pressure needed to perform proper chest compressions in a real life 
+situation.  
+5. The manikin should simulate natural obstruction of the airway 
+which allows students to learn the important technique of opening 
+the airway according to latest guidelines.  
+6. Head tilt/chin lift and jaw thrust allows students to correctly practice 
+airway maneuvers necessary when resuscitating a real victim. 
+7. Occluded airway with hyperextension stresses proper head position. 
+8. The manikin should have disposable airways and easily removable 
+face skin to avoid cross contamination. 
+9. The manikin must show a realistic chest rise during ventilation 
+through the following procedures: mouth to mouth, mouth to nose 
+and bag mask to mouth. 
+10. The manikin should allow placement of supraglottic airway devices: 
+oropharyngeal and nasopharyngeal airway insertion, laryngeal mask 
+airway, Combitube and laryngeal tube.  
+11. The model should have automatically generated carotid pulses 
+should be synchronized with ECG and allow realistic pulse check 
+during training 
+12. The manikin should allow user to incorporate live defibrillation/live 
+AED or manual defibrillators during the learning experience.  
+13. The model should have 4 connector 3-lead feature to allow students 
+to monitor ECG rhythms during training 
+14. The model must simulate the following cardiac rhythms in the 
+manikin:  
+i. 
+Normal Sinus Rhythm (NSR) 
+ii. 
+Ventricular fibrillation 
+iii. 
+Ventricular Tachycardia with pulse 
+iv. 
+Ventricular Tachycardia, without pulse (pulseless) 
+v. 
+Asystole 
+vi. 
+PEA/EMD 
+(pulseless 
+electrical 
+activity 
+/ 
+electromechanical dissociation)  
+ 
+15. The training model should provide live feedback of vital sign as on 
+a Monitor and detailed information about chest compression, 
+compression rate, ventilation volume and hand positioning when 
+performing CPR.  
+16. The model should have an intravenous arm to practice venipuncture 
+and intravenous injection administration.  
+17. The system should allow transfer of feedback data to PC for 
+overhead viewing, printing and remote storage.  
+01 
+
+
+--- Page 11 ---
+   
+Tender for ACLS Training system with wireless control & patient monitor                       Admn/Tender/Manikin/4/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18. The training system should have ability to get connected to an 
+optional simulated patient monitor to display various vital signs.  
+19. The training system should allow users to log different procedures 
+done by the learners during the simulation.  
+20. The manikin should be modular design to allow various limbs to be 
+attached to enhance training system.  
+ 
+
+

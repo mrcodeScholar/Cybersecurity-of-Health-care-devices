@@ -1,0 +1,292 @@
+--- Page 48 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Hand Foot UV Phototherapy Device (Whole 
+Body) 
+ 
+Page 45 of 67 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Hand Foot UV Phototherapy 
+Device (Whole Body) 
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+TECHNICAL SPECIFICATIONS for “Hand Foot UV Phototherapy Device (Whole Body)” 
+ 
+Sl.no 
+Specifications 
+1 
+US FDA /CE/BIS/ISO/ISI approved 
+2 
+Full body cabinet with a combination of 24 high-pressure NB UVB and 24 
+UVA 100 watts lamps  
+3 
+5 UV protective goggles for patients and 5 UV protective goggles for 
+doctors 
+4 
+Rapid start ballast/choke (without starter)  
+5 
+High gloss Aluminium Reflector inside the cabinet 
+6 
+Discrete observation UV Protective window (to see inside the chamber 
+when treatment is on) 
+7 
+Desktop computer control with keyboard and mouse for user-friendly 
+operation (easy to use &store the patient data, operator data, lamp usage 
+data &other machine data, etc.) 
+8 
+Unit / Cabinet can be remotely located anywhere up to a convenient 
+distance from the desktop computer control. 
+9 
+Software should have user accountability of all operators, tracking of 
+patient data, lamps power output &usage hours information 
+10 
+Software should have a notepad for patient’s specific comments 
+11 
+Full body cabinet with rust-proof outer body, double door, open-top, 
+space-efficient design, and stable platform. 
+
+
+--- Page 49 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Hand Foot UV Phototherapy Device (Whole 
+Body) 
+ 
+Page 46 of 67 
+ 
+12 
+UV Transmitting acrylic lamp shields. 
+13 
+Intelligent lamp cooling system. 
+14 
+Built-in UV power meters &Integrated Dosimetry control system with UV 
+Sensors 
+15 
+An auto-generated message warning for low lamp output, and calibration 
+requirement (with facility for voice announcement) 
+16 
+Software with built-in treatment protocols, customizable, with automatic 
+dosage calculation 
+17 
+Software should have a patient database with space for managing patient 
+records 
+18 
+Spare timer controller (in order to use when computer controller is not 
+working) 
+19 
+No extra charge for software update 
+20 
+Cabinet fitted with wheel/caster and can be fixed with stoppers 
+21 
+Built-in electric safety circuit system 
+22 
+Interior operating switch for lamp and fan control 
+23 
+Audio announcement for the operator as well as patient 
+24 
+Patient &lamps data can be maintained in the computer system &take 
+back up on Pen Drive 
+25 
+Printable patient records (Printable reports including Device Data Report 
+and Daily Summary) 
+26 
+Reliable cooling system. 
+27 
+Power requirement 4 KVA (when you switch on either UVA or NB UVB) 
+(appropriate stabilizer to be supplied)- According to the requirement of the 
+machine. 
+28 
+Electrical Specification 220-240 Volts AC (as per Indian / international 
+electrical standard) 
+29 
+Warranty will be for a period of 05 years with 5 years CMC after the expiry 
+of warranty including all the parts (excluding lamps) lamps should carry a 
+warranty of at least 01 years along with a freeze in the pricing of lamps for 
+5 years 
+30 
+To visit after 1 month of installation for queries 
+31 
+Minimum Unit Dimension in inches Width: 40, Depth: 40 &Height: 80 
+inches (all approximately) 
+32 
+An on-site demonstration of equipment is mandatory, prior to approval. 
+• 
+Technical compliance report should be submitted in following format: 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation 
+if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 50 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Hand Foot UV Phototherapy Device (Whole 
+Body) 
+ 
+Page 47 of 67 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. 
+Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the 
+TE document for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) Warranty period will be 5 years 
+from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & 
+handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty 
+period by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) 
+basis. 
+c) All software updates should be provided free of cost during Warranty 
+period. 
+2. 
+After Sales Service:  
+After 
+sales 
+service 
+center 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service 
+should be provided directly by Tenderer/Indian Agent. Undertaking by the 
+Principals that the spares for the equipment shall be available for at least 10 
+years from the date of supply. 
+3. 
+Training:  
+4. 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ 
+Indian Agents (if they have the requisite know-how) for operation and 
+maintenance of the equipment to the satisfaction of the consignee. The same 
+will be in line with the training modalities as specified in general technical 
+specification. 
+5. 
+Annual Comprehensive Maintenance Contract (CMC) of subject equipment 
+with Site Modification Work: 
+a) 
+The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ 
+service /operational manual of the manufacturer, labour and spares, after 
+satisfactory completion of Warranty period may be quoted for next 5 years on 
+yearly basis for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) and Site Modification Work (if any). The 
+supplier shall visit each consignee site as recommended in the manufacturer’s 
+technical/ service /operational manual, but at least twice in six months (i.e. 4 
+preventive maintenance/ year) apart from all breakdown visits, during the 
+CMC period 
+b) 
+The cost of CMC may be quoted along with taxes applicable on the date of 
+Tender Opening. The taxes to be paid extra, to be specifically stated. In the 
+absence of any such stipulation the price will be taken inclusive of such taxes 
+and no claim for the same will be entertained later. 
+c) 
+Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) 
+The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank 
+guarantee for 2.5% of the cost of the equipment as per Section XV valid till 2 
+months after expiry of entire CMC period. 
+e) 
+There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) 
+X 365 (days) basis, with penalty, to extend CMC period by double the 
+downtime period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee’s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+
+
+--- Page 51 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Hand Foot UV Phototherapy Device (Whole 
+Body) 
+ 
+Page 48 of 67 
+ 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) 
+All software updates should be provided free of cost during CMC. 
+h) 
+Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of 
+the Bank Guarantee for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+ 
+Note 1:  
+Tenderer’s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The 
+tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it’s tender is liable to be ignored. 
+ 
+Note 2:  
+General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked for 
+and should make sure that Electrical Safety Analyzer / Tester for Medical equipment 
+to periodically check the electrical safety aspects as per BIS Safety Standards IS-
+13540 which is also equivalent to IEC electrical safety standard IEC- 60601 is a part 
+of the equipment s. If the Electrical Safety Analyzer/Tester is not available they 
+should provide a commitment to get the equipment checked for electrical safety 
+compliance with Electronic Regional Test Labs / Electronics Test and Development 
+Centres across the country on every preventive maintenance call. 
+Note 3:  
+Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management 
+information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical 
+training for personnel involved in the use and handling of the equipment on site at 
+the institute immediately after its installation. The company shall be required to train 
+the institute personnel onsite as and when required. 
+All software updates should be provided free of cost during warranty period and CMC 
+period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

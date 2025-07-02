@@ -1,0 +1,112 @@
+--- Page 10 ---
+Tender for Ultrasound A and B                                                                                 Admn/Tender/06-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Ophthal
+mic 
+Ultrasou
+nd A 
+and B 
+B-scan 
+Probe 
+Scan angle 
+Scan depth 
+ 
+Sector line  density 
+Zoom 
+Moving image 
+record 
+Scale 
+Gain / TGC Gain 
+curves 
+Frequency >10 MHz transducer, 10 frames 
+/ second 
+Upto 90º 
+Normal (35 mm / 1550 m/s), Long (50 mm / 
+1550 m/s) 
+Lines 
+x2.5, 
+x5.0 
+Approx. 20 seconds 
+Color, Gray scale 256 levels 
+0 to 90 dB variable / 0 to -20 dB variable 
+Log, Liner, S-curves 
+Biometr
+y 
+ 
+ 
+Probe 
+Internal fixation 
+Measurement value 
+ 
+ 
+ Accuracy 
+ Range 
+Minimum 
+calculation step 
+Built-in  IOL formula 
+Shall have simultaneous B-scan with vector A-
+scan. 
+Shall have A-scan dynamic recording with gain 
+adjustments. 
+Shall have vector A-scan measurement. 
+Frequency >10 MHz solid probe 
+LED (red) 
+Axial length, Anterior chamber depth, 
+Lens thickness, Vitreous body length 
+0.1 mm  
+12 to 40 mm 
+0.01 D 
+BINKHORST, HOLLADAY, SRK, SRK2, 
+SRK/T, HOFFR Q 
+Probe 
+Accuracy 
+Range 
+Minimum indicated 
+unit 
+Measured part 
+10 MHz solid probe 
+5 µm 
+200 to 1300 µm 
+1 µm 
+ 
+Corneal thickness up to 25 points can be 
+memorized. 
+Display 
+Upto 10 inch 
+Printer 
+Thermal type line printer  
+Interface 
+USB memory (1.1), LAN 
+Power supply 
+AC 100 to 120 V 10%,  230 V 10%,  50 / 60 
+Hz 
+Power consumption 
+70 VA 
+Dimensions / Mass 
+Upto 10 kg  
+Standard accessories B-scan probe, A-scan probe, Foot switch, 
+Test piece  (for Biometry measurement), 
+Printer paper, Power cord, Ultrasonic gel, 
+Dust cover, Spare  fuse,  Probe rest 
+Optional accessories 
+Video printer, Video printer paper, Probe 
+stand, Barcode reader, Magnetic card 
+reader, IOL calculation formula. 
+Warranty 
+ Comprehensive warranty for 2 years. 
+ Maintenance Service During Warranty Period 
+During warranty period supplier must ensure 
+corrective/breakdown maintenance whenever 
+required 
+ 
+01 
+
+

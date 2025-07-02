@@ -1,0 +1,632 @@
+--- Page 11 ---
+Tender for Layer 3 Access Switches 
+ 
+          Admn/Tender/57/2019-AIIMS.JDH    
+   
+Page 10 of 20 
+ 
+Annexure – I 
+Technical Specifications for Network Switch 48 ports 
+Sr. 
+No. 
+Technical  Specifications 
+Compliance 
+(Yes/No) Remarks 
+1 
+Architecture 
+1.1 The switch should have 48 100/1000 Base-TX, auto-negotiating and auto sensing, 
+Non POE+ ports.  
+  
+  
+1.2 The switch should have at least 4x 10G SFP+ uplink ports in addition to the above 
+ports. It should be supplied with 4x 10G SR SFP+ 
+  
+  
+1.3 The switch should have at-least one RJ-45 (with RS232 signaling)/USB 2.0 port 
+for OS management (uploading, downloading and configuration). 
+  
+  
+1.4 The switch should be rack mountable and should not take space more than 1 Rack 
+Unit (RU). 
+  
+  
+1.5 The switch architecture should be stackable with at-least 9 switches in a single 
+stack, using additional stacking port. Stacking module, cable to be included. 
+  
+  
+1.6 
+The switch Stack Architecture should allow the end user to stack 24 Port switch 
+with 48 Port of the same model/family offering POE/POE+ and Non-POE 
+models. 
+  
+  
+2 
+Performance 
+2.1 The switch should have at-least 2 GB Flash and usb slot, and 2 Gbps of SDRAM. 
+  
+  
+2.2 The switch should support Jumbo Frames of at-least 9198 bytes. 
+  
+  
+2.3 The switch should support at-least 190 Gbps of switching bandwidth. 
+  
+  
+2.4  The switch should have at-least 150 Mpps of forwarding rate. 
+  
+  
+2.5  The switch should support at-least 40 Gbps dedicated stacking bandwidth using 
+dedicated stacking ports, stacking modules and cables to be included. 
+  
+  
+2.6 The switch should support at-least 4000 Active VLAN ID's. 
+  
+  
+2.7 The switch should support at-least 16000 MAC Addresses. 
+  
+  
+3 
+Layer 2 and Layer 3 Features 
+3.1 
+The switch should be able to discover (on both IPv4 & IPv6 Network) the 
+neighboring device giving the details about the platform, IP Address, MAC 
+address etc. and should be able to detect duplicate IP address. 
+  
+  
+3.2 The switch hardware should be able to run both IPv4 & IPv6 simultaneously. 
+  
+  
+3.3 The switch should support OpenFlow 1.3 capabilities to enable software-defined 
+networking (SDN). 
+  
+  
+3.4 The switch should have the capability to monitor link connectivity and shut down 
+ports at both ends if uni-directional traffic is detected, preventing loops. 
+  
+  
+3.5 The switch should support Link Aggregation Control Protocol (LACP) to allow 
+creation of Ethernet channeling. 
+  
+  
+3.6 The switch should support Internet Group Management Protocol (IGMP) 
+snooping for IPv4 and IPv6. 
+  
+  
+3.7 The switch should support Per-Port Broadcast, Multicast, and Unicast Storm 
+Control. 
+  
+  
+3.8 The switch should support Voice VLAN, Port based, Private, Dynamic VLans 
+  
+  
+3.9 The switch should support Remote Switched Port Analyzer (RSPAN) or 
+equivalent. 
+  
+  
+
+
+--- Page 12 ---
+Tender for Layer 3 Access Switches 
+ 
+          Admn/Tender/57/2019-AIIMS.JDH    
+   
+Page 11 of 20 
+ 
+3.10 The switch should support Bridge protocol data unit (BPDU) Guard, Root Guard 
+or equivalent. 
+  
+  
+3.11 The switch should support link redundancy & link load-balancing feature. 
+  
+  
+3.12 The switch should support Spanning Tree Protocol (STP), Rapid Spanning Tree 
+Protocol (RSTP) and Multiple Spanning Tree Protocol (MSTP). 
+  
+  
+3.13 The switch should support Link Layer Discovery Protocol (LLDP). 
+  
+  
+3.14 The switch should support Dynamic Host Configuration Protocol (DHCP) 
+Support at Layer 2. 
+  
+  
+3.15 The switch should have static routing, RIP v1/v2, RIPng, from day 1 
+  
+  
+4 
+Network Security Features 
+4.1 The switch should support port security to secure the access to a trunk/access port 
+based on MAC address. 
+  
+  
+4.2 The switch should support Dynamic ARP inspection to ensure user integrity by 
+preventing malicious users from exploiting the insecure nature of ARP. 
+  
+  
+4.3 
+The switch should support IP source guard to prevent a malicious user from 
+spoofing or taking over another user’s IP address by creating a binding table 
+between the client’s IP and MAC address, port, and VLAN. 
+  
+  
+4.4 The switch should support downloadable Standard ACL, Extended ACL and 
+Time based ACL. 
+  
+  
+4.5 The switch should support Access Control List (ACL) on all VLANs preventing 
+unauthorized data flows from being bridged within VLANs. 
+  
+  
+4.6 The switch should support IPv6 ACLs that can be applied to filter IPv6 traffic. 
+  
+  
+4.7 The switch should support Port-based ACLs for Layer 2 interfaces to allow 
+security policies to be applied on individual switch ports. 
+  
+  
+4.8 
+The ACL should be able to configure and Manage Access control, Define Filters 
+and re-sequence data flow and patterns, Traffic management, Route  
+Distribution, QoS, Cos, Policy Maps, Policy based routing, Logging and flow 
+based monitoring for IPv4 and IPv6 packets. 
+  
+  
+4.9 
+The switch should support authentication feature like Terminal Access Controller 
+Access Control System (TACACS) and/or Remote Authentication Dial-In User 
+Service (RADIUS) or equivalent to facilitate centralized control of the switch and 
+to restrict unauthorized users from altering the configuration. 
+  
+  
+4.10 The switch should support Multi level security on console access to prevent 
+unauthorized users from altering the switch configuration. 
+  
+  
+4.11 The switch should support Dynamic VLAN, Multi-Authentication VLAN 
+Assignment and MAC Based Filtering. 
+  
+  
+4.12 The switch should support port security, DHCP snooping and IP source guard. 
+  
+  
+4.13 The switch should support flexible multiple authentication using 802.1x and 
+MAC Authentication bypass. 
+  
+  
+5 
+Quality of Service 
+5.1 The switch should support Class of Service (CoS) and differentiated services code 
+point (DSCP) field classification. 
+  
+  
+5.2 The switch should support at-least eight egress queues per port. 
+  
+  
+5.3 The switch should support Rate Limiting. 
+  
+  
+6 
+Manageability 
+6.1 The switch should allow administrators to remotely monitor ports in a Layer 2 
+switch network from any other switch in the same network. 
+  
+  
+
+
+--- Page 13 ---
+Tender for Layer 3 Access Switches 
+ 
+          Admn/Tender/57/2019-AIIMS.JDH    
+   
+Page 12 of 20 
+ 
+6.2 The switch should support Remote Monitoring on every port covering the 
+following four groups (Statistics, Alarm, Event, and History). 
+  
+  
+6.3 The switch should support sFlow or equivalent. 
+  
+  
+6.4 
+The switch should provide Embedded Remote Monitoring (RMON) software 
+agent supporting four RMON groups (History, Statistics, Alarms and Events) for 
+enhanced traffic management, monitoring, and analysis Web browser setup utility 
+allows one-click initialization for IP addresses and passwords. 
+  
+  
+6.5 
+The switch should provide Auto-configuration for ease of deployment of switches 
+in the network by automatically configuring multiple switches across a network 
+via a boot server/DHCP server or external management server. 
+  
+  
+6.6 
+The switch should have Auto-sensing on each non GBIC port detects the speed of 
+the attached device and automatically configures the port for 100/1000 Mbps 
+operation, easing the deployment of the switch in mixed 100/1000 BaseT 
+environments. 
+  
+  
+6.7 The switch stack architecture should have centralized control and management 
+with non-stop forwarding feature. 
+  
+  
+6.8 The switch should support four RMON groups (history, statistics, alarms, and 
+events). 
+  
+  
+6.9 The switch should support Network Assistant software for network management 
+application. 
+  
+  
+6.10 The switch should support SNMPv1, v2c, and v3. 
+  
+  
+7 
+Standards and Compliance 
+7.1 
+The switch should be compliant with IEEE compliance: IEEE 802.1W (RSTP), 
+IEEE 802.1S (MSTP), IEEE 802.1D (Bridging, STP), IEEE 802.1P (L2 
+Prioritization), IEEE 802.1Q (VLAN Tagging, Double VLAN Tagging, GVRP), 
+IEEE 802.1ab (LLDP), IEEE 802.3 (10 BASE-T specification), IEEE 802.3X 
+(Flow Control), IEEE 802.3ab (Gigabit Ethernet (1000BASE-T) with QSA or 
+breakout), IEEE 802.3ad (Link Aggregation with LACP), IEEE 802.3u (Fast 
+Ethernet (100Base-TX) on mgmt ports), IEEE 802.3x (Flow Control), IEEE 
+802.3z (Gigabit Ethernet (1000Base-  X) with QSA), RMON I and II, SNMP v1, 
+SNMP v2c, and SNMP v3. 
+ 
+Safety 
+compliance: 
+UL/EN/IEC/CAN/CSA-C22.2 
+60950-1 
+60950-1 
+(Information Technology Equipment - Safety - Part 1: General Requirements), 
+EN 60825-1 (Safety of Laser Products Part 1: Equipment Classification 
+Requirements and User’s Guide), EN 60825-2 (Safety of Laser Products-Part 2: 
+Safety of Optical Fibre Communication Systems), RoHS Compliance. 
+ 
+EMI and EMC Compliance: FCC (CFR 47, Part 15) Class A, ICES-003 Class A, 
+EN 55022 Class A, VCCI Class A, EN 61000-3-2 (Harmonic Current Emissions), 
+EN 61000-3-3 (Voltage Fluctuations and Flicker), EN61000-4-2 (ESD), 
+EN61000-4-3 (Radiated Immunity), EN61000-4-4 (EFT), EN61000-4-5 (Surge), 
+EN61000-4-6 (Low Frequency Conducted Immunity). 
+  
+  
+7.2 Switch shall have common criterion NDPP certification 
+  
+  
+ 
+ 
+ 
+
+
+--- Page 14 ---
+Tender for Layer 3 Access Switches 
+ 
+          Admn/Tender/57/2019-AIIMS.JDH    
+   
+Page 13 of 20 
+ 
+ 
+Technical Specifications for Network Switch 24 ports 
+Sr. No. 
+Technical Specification 
+Compliance 
+(Yes/No) Remarks 
+1 
+Architecture 
+1.1 
+The switch should have 24 100/1000 Base-TX, auto-negotiating and auto sensing 
+non POE+ ports.  
+  
+  
+1.2 
+The switch should have at least 4x 10G SFP+ uplink ports in addition to the 
+above ports. It should be supplied with 4x 10G SR SFP+ 
+  
+  
+1.3 
+The switch should have at-least one RJ-45 (with RS232 signaling)/USB 2.0 port 
+for OS management (uploading, downloading and configuration). 
+  
+  
+1.4 
+The switch should be rack mountable and should not take space more than 1 
+Rack Unit (RU). 
+  
+  
+1.5 
+The switch architecture should be stackable with at-least 9 switches in a single 
+stack, using additional stacking port. Stacking module, cable to be included. 
+  
+  
+1.6 
+The switch Stack Architecture should allow the end user to stack 24 Port switch 
+with 48 Port of the same model/family offering POE/POE+ and Non-POE 
+models. 
+  
+  
+2 
+Performance 
+2.1 
+The switch should have at-least 2 GB Flash and usb slot, and 2 Gbps of SDRAM.   
+  
+2.2 
+The switch should support Jumbo Frames of at-least 9198 bytes. 
+  
+  
+2.3 
+The switch should support at-least 150 Gbps of switching bandwidth. 
+  
+  
+2.4 
+The switch should have at-least 105 Mpps of forwarding rate. 
+  
+  
+2.5 
+The switch should support at-least 40 Gbps dedicated stacking bandwidth using 
+dedicated stacking ports, stacking modules and cables to be included. 
+  
+  
+2.6 
+The switch should support at-least 4000 Active VLAN ID's. 
+  
+  
+2.7 
+The switch should support at-least 16000 MAC Addresses. 
+  
+  
+3 
+Layer 2 and Layer 3 Features 
+3.1 
+The switch should be able to discover (on both IPv4 & IPv6 Network) the 
+neighboring device giving the details about the platform, IP Address, MAC 
+address etc. and should be able to detect duplicate IP address. 
+  
+  
+3.2 
+The switch hardware should be able to run both IPv4 & IPv6 simultaneously. 
+  
+  
+3.3 
+The switch should support OpenFlow 1.3 capabilities to enable software-defined 
+networking (SDN). 
+  
+  
+3.4 
+The switch should have the capability to monitor link connectivity and shut down 
+ports at both ends if uni-directional traffic is detected, preventing loops. 
+  
+  
+3.5 
+The switch should support Link Aggregation Control Protocol (LACP) to allow 
+creation of Ethernet channeling. 
+  
+  
+3.6 
+The switch should support Internet Group Management Protocol (IGMP) 
+snooping for IPv4 and IPv6. 
+  
+  
+3.7 
+The switch should support Per-Port Broadcast, Multicast, and Unicast Storm 
+Control. 
+  
+  
+3.8 
+The switch should support Voice VLAN, Port based, Private, Dynamic Vlans 
+  
+  
+3.9 
+The switch should support Remote Switched Port Analyzer (RSPAN) or 
+equivalent. 
+  
+  
+
+
+--- Page 15 ---
+Tender for Layer 3 Access Switches 
+ 
+          Admn/Tender/57/2019-AIIMS.JDH    
+   
+Page 14 of 20 
+ 
+3.10 The switch should support Bridge protocol data unit (BPDU) Guard, Root Guard 
+or equivalent. 
+  
+  
+3.11 The switch should support link redundancy & link load-balancing feature. 
+  
+  
+3.12 The switch should support Spanning Tree Protocol (STP), Rapid Spanning Tree 
+Protocol (RSTP) and Multiple Spanning Tree Protocol (MSTP). 
+  
+  
+3.13 The switch should support Link Layer Discovery Protocol (LLDP). 
+  
+  
+3.14 The switch should support Dynamic Host Configuration Protocol (DHCP) 
+support at Layer 2. 
+  
+  
+3.15 The switch should static routing, RIP v1/v2, RIPng, from day 1 
+  
+  
+4 
+Network Security Features 
+4.1 
+The switch should support port security to secure the access to a trunk/access port 
+based on MAC address. 
+  
+  
+4.2 
+The switch should support Dynamic ARP inspection to ensure user integrity by 
+preventing malicious users from exploiting the insecure nature of ARP. 
+  
+  
+4.3 
+The switch should support IP source guard to prevent a malicious user from 
+spoofing or taking over another user’s IP address by creating a binding table 
+between the client’s IP and MAC address, port, and VLAN. 
+  
+  
+4.4 
+The switch should support downloadable Standard ACL, Extended ACL and 
+Time based ACL. 
+  
+  
+4.5 
+The switch should support Access Control List (ACL) on all VLANs preventing 
+unauthorized data flows from being bridged within VLANs. 
+  
+  
+4.6 
+The switch should support IPv6 ACLs that can be applied to filter IPv6 traffic. 
+  
+  
+4.7 
+The switch should support Port-based ACLs for Layer 2 interfaces to allow 
+security policies to be applied on individual switch ports. 
+  
+  
+4.8 
+The ACL should be able to configure and Manage Access control, Define Filters 
+and re-sequence data flow and patterns, Traffic management, Route Distribution, 
+Qos, Cos, Policy Maps, Policy based routing, Logging and flow based 
+monitoring for IPv4 and IPv6 packets. 
+  
+  
+4.9 
+The switch should support authentication feature like Terminal Access Controller 
+Access Control System (TACACS) and/or Remote Authentication Dial-In User 
+Service (RADIUS) or equivalent to facilitate centralized control of the switch and 
+to restrict unauthorized users from altering the configuration. 
+  
+  
+4.10 The switch should support Multi level security on console access to prevent 
+unauthorized users from altering the switch configuration. 
+  
+  
+4.11 The switch should support Dynamic VLAN, Multi-Auth VLAN Assignment and 
+MAC Based Filtering. 
+  
+  
+4.12 The switch should support port security, DHCP snooping and IP source guard. 
+  
+  
+4.13 The switch should support flexible multiple authentication using 802.1x and 
+MAC Authentication bypass. 
+  
+  
+5 
+Quality of Service 
+5.1 
+The switch should support Class of Service (CoS) and differentiated services 
+code point (DSCP) field classification. 
+  
+  
+5.2 
+The switch should support at-least eight egress queues per port. 
+  
+  
+5.3 
+The switch should support Rate Limiting. 
+  
+  
+6 
+Manageability 
+6.1 
+The switch should allow administrators to remotely monitor ports in a Layer 2 
+switch network from any other switch in the same network. 
+  
+  
+
+
+--- Page 16 ---
+Tender for Layer 3 Access Switches 
+ 
+          Admn/Tender/57/2019-AIIMS.JDH    
+   
+Page 15 of 20 
+ 
+6.2 
+The switch should support Remote Monitoring on every port covering the 
+following four groups (Statistics, Alarm, Event, and History). 
+  
+  
+6.3 
+The switch should support sFlow or equivalent. 
+  
+  
+6.4 
+The switch should provide Embedded Remote Monitoring (RMON) software 
+agent supporting four RMON groups (History, Statistics, Alarms and Events) for 
+enhanced traffic management, monitoring, and analysis Web browser setup 
+utility allows one-click initialization for IP addresses and passwords. 
+  
+  
+6.5 
+The switch should provide Auto-configuration for ease of deployment of 
+switches in the network by automatically configuring multiple switches across a 
+network via a boot server/DHCP server or external management server. 
+  
+  
+6.6 
+The switch should have Auto-sensing on each non GBIC port detects the speed of 
+the attached device and automatically configures the port for 100/1000 Mbps 
+operation, easing the deployment of the switch in mixed 100/1000 BaseT 
+environments. 
+  
+  
+6.7 
+The switch stack architecture should have centralized control and management 
+with non-stop forwarding feature. 
+  
+  
+6.8 
+The switch should support four RMON groups (history, statistics, alarms, and 
+events). 
+  
+  
+6.9 
+The switch should support Network Assistant software for network management 
+application. 
+  
+  
+6.10 The switch should support SNMPv1, v2c, and v3. 
+  
+  
+7 
+Standards and Compliance 
+7.1 
+The switch should be compliant with IEEE compliance: IEEE 802.1W (RSTP), 
+IEEE 802.1S (MSTP), IEEE 802.1D (Bridging, STP), IEEE 802.1P (L2 
+Prioritization), IEEE 802.1Q (VLAN Tagging, Double VLAN Tagging, GVRP), 
+IEEE 802.1ab (LLDP), IEEE 802.3 (10 BASE-T specification), IEEE 802.3X 
+(Flow Control), IEEE 802.3ab (Gigabit Ethernet (1000BASE-T) with QSA or 
+breakout), IEEE 802.3ad (Link Aggregation with LACP), IEEE 802.3u (Fast 
+Ethernet (100Base-TX) on mgmt ports), IEEE 802.3x (Flow Control), IEEE 
+802.3z (Gigabit Ethernet (1000Base-  X) with QSA), RMON I and II, SNMP v1, 
+SNMP v2c, and SNMP v3. 
+ 
+Safety compliance: UL/EN/IEC/CAN/CSA-C22.2 60950-1 60950-1 (Information 
+Technology Equipment - Safety - Part 1: General Requirements), EN 60825-1 
+(Safety of Laser Products Part 1: Equipment Classification Requirements and 
+User’s Guide), EN 60825-2 (Safety of Laser Products-Part 2: Safety of Optical 
+Fibre Communication Systems), RoHS Compliance. 
+ 
+EMI and EMC Compliance: FCC (CFR 47, Part 15) Class A, ICES-003 Class A, 
+EN 55022 Class A, VCCI Class A, EN 61000-3-2 (Harmonic Current 
+Emissions), EN 61000-3-3 (Voltage Fluctuations and Flicker), EN61000-4-2 
+(ESD), EN61000-4-3 (Radiated Immunity), EN61000-4-4 (EFT), EN61000-4-5 
+(Surge), EN61000-4-6 (Low Frequency Conducted Immunity).  
+  
+  
+7.2 
+Switch shall have common criterion NDPP certification 
+  
+  
+ 
+Administrative Officer 
+AIIMS, Jodhpur 
+
+

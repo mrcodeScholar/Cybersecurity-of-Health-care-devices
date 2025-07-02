@@ -1,0 +1,447 @@
+--- Page 45 ---
+                                                                      
+                            Tender No. AIIMS/R/CS/Sur_Gastro/Laproscopic_sur/5-1/7/2022-R&I /GTE 
+45  
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+               Technical Specification for  Laparoscopic Surgery Set with High-Definition Camera 
+It Contains: 
+1. 
+Full HD Compact Video Image Processor with Light Source – 01  
+2. 
+High-Definition Deflectable Videoscope -01  
+3. 
+High Definition 10mm 30 Deg Rigid Videoscope-01  
+4. 
+Full HD CMOS autoclavable Camera Head -01  
+5. 
+ICG/IR Light Source - 01  
+6. 
+Telescopes -01each  
+7. 
+Light Guide Cable-02  
+8. 
+55-inch UHD Medical Grade Monitor-01  
+9. 
+31” inch UHD Medical Grade Monitor-01 
+10. 
+High Flow Insufflators (45L)-01  
+11. 
+Accessories: 
+a. 
+Flexible Video Endoscopes with Chip on Tip technology  
+b. 
+HD Recording Device-01  
+c. 
+OEM Mobile Trolley-02 
+d. 
+Others 
+ 
+A. 
+Technical Details: 
+ 
+1. 
+Full HD Video Image Processor: Should have following specifications: 
+a. 
+System should be full high definition with resolution of 1920x1080 pixels and have aspect ratio of 16:9 or better  
+b. 
+Should have real time Optical image enhancement (NBI) for visualization of capillary vessels and fine patterns in 
+the superficial layer of mucosa for early detection of suspicious lesions.  
+c. 
+System should have provision for 3D observation also  
+d. 
+System should accept both Rigid & Flexi-tip Video Scopes (2D and 3D) of the same manufacturer without any 
+additional attachments/modules. 
+e. 
+System should be compatible with IR (Infra-Red) visualization modes of Imaging & should have both modes 
+False color overlay Image & Fluorescence black and white image for Visualization. 
+f. 
+Should have 5 or more Default User Preset for different surgical disciplines. 
+g. 
+Should have a touch panel for easy access of system functions & settings. 
+h. 
+Should have provision for saving 20 or more user settings and patient data up to 50 patients or more. 
+i. 
+Should have built-in-Fibre mode for Flexible Scopes  
+j. 
+Should have automatic Shutter and microprocessor controlled Automatic Gain Control 
+k. 
+Should have modes for maintaining uniform brightness and brightening of dark areas in Endoscopic Image 
+l. 
+System should have both structure & Edge Enhancement with 3 or more selectable levels  
+m. 
+Should have selectable option of 1080P/WUXGA output  
+n. 
+Should have both Digital and analog outputs in form of 3G/HD-SDI, DVI, Y/C and Composite 
+o. 
+Should automatically adjust light intensity to achieve ideal illumination. 
+2. 
+High-Definition Deflectable Videoscope: Should have following specifications: 
+a. 
+High-Definition Deflectable Tip Video Laparoscope should be 10mm in Diameter  
+b. 
+It should be Focus Free with High Depth of Field 18-100mm and FOV 80 deg  
+c. 
+Should have Four-way angulation (Up/Down-80 deg and Right/Left-60deg) to enable viewing difficult sites in 
+abdominal and thoracic cavities  
+d. 
+It should have joystick Handle for Intuitive & smooth angulation 
+e. 
+It should be Dual Lens based and should have both 2D & 3D observation mode 
+f. 
+It should be all in one assembly with coaxial integrated Light cable & camera connector and should be plug & 
+play 
+g. 
+It should be compatible with real time Optical image enhancement (NBI) for visualization of capillary vessels 
+and fine patterns in the superficial layer of mucosa for early detection of suspicious lesions 
+
+
+--- Page 46 ---
+                                                                      
+                            Tender No. AIIMS/R/CS/Sur_Gastro/Laproscopic_sur/5-1/7/2022-R&I /GTE 
+46  
+ 
+h. 
+It should have working length of 370mm 
+i. 
+It should be of compatible with ETO & sterrad means of reprocessing and should be supplied with tray 
+ 
+3. 
+High Definition 10mm 30 deg Rigid Videoscope: Should have following specifications: 
+a. 
+should be High-Definition Rigid Video Laparoscope with 10mm in diameter with 30 deg DOV and FOV 65 deg or 
+more 
+b. 
+It should have Chip-On-Tip technology  
+c. 
+It should be all in one assembly with coaxial integrated Light cable & camera connector and should be plug & 
+play 
+d. 
+It should be focus free with 25-120mm Depth of Field 
+e. 
+It should have facility of Image Rotation with rotation angle of 170 deg or more for both right & left respectively 
+without losing Horizon  
+f. 
+It should be Dual Lens based and should have both 2D & 3D observation mode 
+g. 
+It should be compatible with real time Optical image enhancement (NBI) for visualization of capillary vessels 
+and fine patterns in the superficial layer of mucosa for early detection of suspicious lesions 
+h. 
+It should have working length of 330mm 
+i. 
+It should be Autoclavable Type and supplied along with trays 
+ 
+4. 
+Full HD CMOS autoclavable Camera Head for IR : Should be of latest series/model and have following 
+specifications: 
+a. 
+The CMOS Full HD camera head should be of Eye piece type & have resolution of 1920x1080  or better pixels 
+with 16:9 aspect ratio.  
+b. 
+Should be compatible with IR mode visualization (ICG)   
+c. 
+Should have 3 programmable buttons which can be configured through the processor. 
+d. 
+The camera head should have a focus range between 15-33mm and should have provision to focus Image from 
+Coarse to fine patterns. 
+e. 
+Camera Head should provision for Real time correction of Pixel Defect. 
+f. 
+Camera Head & coupler should be one piece and should not weigh more than 250 gms. 
+g. 
+Should be compatible with real time Optical image enhancement (NBI) for visualization of capillary vessels and 
+fine patterns in the superficial layer of mucosa for early detection of suspicious lesions. 
+h. 
+Camera head should be autoclavable. 
+ 
+5. 
+ICG/IR Light Source- Should be of latest series/model and have following specifications: 
+a. 
+Should be Powerful  Light Source capable for both White Light Imaging & ICG/IR Visualization 
+b. 
+Automatically adjusts light intensity to achieve ideal illumination. 
+c. 
+Should have special filter light for real time observation of capillary vessels and fine patterns in the superficial 
+layer of mucosa for early detection of suspicious lesions (NBI) 
+ 
+6. 
+Telescopes: should have following specifications: 
+a. 
+Telescope 10 mm 0- & 30-degree DOV and 88-degree FOV or more 
+b. 
+Telescope 5 mm 0- & 30-degree DOV and 84-degree FOV or more  
+c. 
+Should have Working Length of 300 mm or more 
+d. 
+should be compatible with IR Visualization (ICG) and White light observation 
+e. 
+should have ED Lens for better contrast, color reproduction & Razor-sharp Images 
+f. 
+Should have Homogeneous Light distribution in the peripheral region. 
+g. 
+Should have detachable Eyepiece type connection – for universal compatibility. 
+h. 
+Should be Fully autoclavable type and supplied along with trays 
+ 
+7. 
+Light Guide Cable: should have following specifications: 
+a. 
+It should have High resistance protection against mechanical and thermal stress 
+b. 
+It should have diameter of 4.0mm or more with high fiber density 
+
+
+--- Page 47 ---
+                                                                      
+                            Tender No. AIIMS/R/CS/Sur_Gastro/Laproscopic_sur/5-1/7/2022-R&I /GTE 
+47  
+ 
+c. 
+It should have Small bending radius for comfortable use 
+d. 
+It should be 3 Meter or more in Length 
+e. 
+It should be ROHS Compliant 
+ 
+8. 
+55” UHD Medical Grade Monitor: Should have following specifications: 
+a. 
+Medical Grade monitor should have UHD resolution in 55” screen for enhanced visualization 
+b. 
+Should have LED backlit with LCD IPS Panel Technology 
+c. 
+Should have Opti-contrast Panel for higher contrast image with less color blurring 
+d. 
+Should have facility to upscale HD/SD signals to UHD resolution 
+e. 
+Should also have facility to display 3D images in UHD resolution 
+f. 
+Should have 16:9 Aspect Ratio  
+g. 
+Should have auto detection of color gamut between BT-709 & BT-2020 for HD & UHD signals 
+h. 
+Should have auto detection of UHD & HD signals 
+i. 
+Should be supplied along with stand for mounting 
+ 
+9. 
+31” UHD Medical Grade Monitor: Should have following specifications:  
+a. 
+Medical grade monitor should be 31 inches having UHD resolution for enhanced visualization 
+b. 
+Should have LED backlit with LCD IPS Panel Technology 
+c. 
+Should have Opti-contrast Panel for higher contrast image with less color blurring 
+d. 
+Should also have facility to display 3D images in UHD resolution 
+e. 
+Should have facility to upscale HD/SD signals to UHD resolution 
+f. 
+Should have auto detection of color gamut between BT-709 & BT-2020 for HD & UHD signals 
+g. 
+Should be approved by BIS  
+h. 
+Monitor should be trolley mountable 
+ 
+10. 
+High Flow Co2 Gas 45 L/min or more Insufflator: Should have following specifications and should be from same 
+manufacturer: 
+a. 
+Should be digital, microprocessor controlled & automatic type 
+b. 
+Should have Large digital display on front panel Set Pressure, Actual Pressure, Flow Rate & Volume 
+c. 
+Should have small cavity mode for EVH & Pediatric surgery 
+d. 
+Should have Powerful Insufflation with flow rate of 45 L/Min or more 
+e. 
+Should have alarms for Over pressure, Tube Clogging & insufficient supply of gas 
+f. 
+Should have Pressure setting range from 3mm to 25mmHg or more 
+g. 
+Should have controllable automatic smoke evacuation facility with Energy Device from Same manufacturer 
+ 
+B. 
+Accessories: 
+ 
+1. 
+Flexible Video Endoscopes (Choledochoscope and Adult UGI scope)  with Chip on Tip technology: Should have 
+following specifications 
+ 
+a. 
+Video Choledochoscope:  
+i. Should be Flexible with chip on technology  
+ii. Should be compatible for observation of capillary vessels and fine patterns in the superficial layer of mucosa for early 
+detection of lesion (NBI) 
+iii. Should offer 120 degrees or more field of view with forward viewing direction of view. 
+iv.The depth of field should be between 3-100 mm or better 
+v.Should offer built-in 2 mm or more instrument channel 
+vi.Should offer angulation range up to 160 degrees or more in upwards direction and 130 degrees or more in downward 
+direction in the bending section 
+vii.Should have Distal End Outer diameter of 4.8mm or less and insertion tube diameter of 5.2 mm or less 
+
+
+--- Page 48 ---
+                                                                      
+                            Tender No. AIIMS/R/CS/Sur_Gastro/Laproscopic_sur/5-1/7/2022-R&I /GTE 
+48  
+ 
+viii.Should be supplied with Grasping basket & Biopsy forceps compatible with the scope – 1 no’s each 
+ix. Should also be plug & play with Full HD Video Processor. 
+ 
+b. 
+Adult UGI scope :  
+i. Should be Slimmer, Lighter and possess HDTV image quality. 
+ii. Should have waterproof connector and should be Fully immersible in disinfectant solution without water- resistant cap 
+iii. Should have Four or more no. of remote-control switches on the control body. 
+iv.Should have real time Optical image enhancement (NBI) for visualization of capillary vessels and fine patterns in the 
+superficial layer of mucosa for early detection of suspicious lesions. 
+v.Should be compatible with leakage testing devices with its air flow and pressure regulation through light source’s air 
+pump. 
+vi.Field of view 
+ 
+ 
+: 140 degree or more 
+vii.Direction of view 
+ 
+: 0 degree, forward viewing 
+viii.Depth of field  
+ 
+: 2-100 mm or better 
+ix. Distal end outer diameter 
+: 9.2 mm or less 
+x. Insertion tube outer diameter : 9.2mm or less 
+xi. Tip Bending rage 
+ 
+: Up 210 deg, Dn 90 deg, Rt & Lt 100 deg  
+xii. Working length  
+: 1000 mm or more 
+xiii. Channel inner diameter : 2.8 mm or more 
+xiv. Minimum Visible distance of instrument used thru channel 
+: 3 mm or closer from distal end. 
+ 
+c. 
+Each Flexible Video Endoscopes (Choledochoscope and Adult UGI scope) should be supplied along with: 
+i. Leakage Tester-1nos each 
+ii. Carrying case-1nos each with Compatible Video Processor- 1nos 
+iii. All required Cleaning and Flushing items 
+ 
+2. 
+HD Recording Device: Should have following specifications and should be from same manufacturer: 
+a. 
+A High-Definition video recorder system with 2 channel real time recording having facility for capturing real 
+time Endoscopy and Hand movements synchronized from Surgical camera   
+b. 
+Should have facility to simultaneously record Videos and still images in Full HD Resolution (1920x1080P) 
+c. 
+Should have an internal hard disk drive of 4 TB or more and should have facility of recording on Blu Ray Disc / 
+DVD Disc or USB memory stick if required by the user. 
+d. 
+Should have compatibility with Hard Drive - >1TB to record videos externally 
+e. 
+Should be capable of simultaneously recording of videos from 2 different sources  
+f. 
+Should have Smart Edit function for intraoperative quick editing to reduce time and effort for video editing 
+g. 
+Should have facility to record & export Data up to 3 media simultaneously 
+h. 
+Should have a short clip function for creating a short clip of important scene parallel to usual recording 
+i. 
+Should able to record both 2D & 3D videos 
+j. 
+The recorder should have two inputs each of DVI, 3G/HD-SDI, Composite video & S-video inputs for recording 
+from various sources on 2 channels. 
+k. 
+The recorder should have at least one output each for DVI,3G/HD-SDI, Composite video & S-video for routing 
+the image if required 
+l. 
+Should also have facility for one channel audio recording in real time with Endoscopy image 
+m. 
+The recording should be MPEG 4 AVC / H.264 format with a maximum native resolution of max 1920x1080 
+pixels depending on the input selected. 
+n. 
+Should have 2 or more USB Terminals 
+o. 
+It should have touch screen with screen size of 7 inch or more  
+p. 
+System should be operable through Remote control or via touch screen 
+3. 
+OEM Mobile Trolley - 02 in number- Each Should have following specifications: 
+a. 
+Trolleys should be compact trolleys & large enough to house an Imaging system. 
+b. 
+It should have 3 or more shelves with 4 antistatic castor wheels with locking brakes 
+c. 
+It should have provision for cable management through channels in the columns and cable ties on rear of shelf  
+
+
+--- Page 49 ---
+                                                                      
+                            Tender No. AIIMS/R/CS/Sur_Gastro/Laproscopic_sur/5-1/7/2022-R&I /GTE 
+49  
+ 
+d. 
+It should have built in separation transformer of 220-240V placed under the base of trolley for equipment 
+loading 
+e. 
+Trolley should be offered with swivel monitor arm to allow optimized procedure image viewing position 
+f. 
+It should have dimensions of 1110x675x534mm 
+ 
+4. 
+3D glasses - 10 in number 
+ 
+5. 
+All tubings necessary for functions of the equipments 
+ 
+6. 
+Should supply 20 vials of ICG dye as free of cost items. 
+ 
+7. 
+It should be supplied with all necessary cables for the device to function. Firm will have to supply the stabilizer 
+with the equipment if it is essential for the performance of the equipment. 
+ 
+C. 
+Other Terms and Conditions: 
+1. 
+All major equipment like Video Processor, Video scopes, light source, Recording system, Flexible Video 
+Endoscopes and insufflator, trolley, telescopes etc should be from the same firm. 
+2. 
+Monitor can be from repute make  
+3. 
+All equipment except consumable and accessories should be covered under 5 years warranty, followed by 5 
+years CMC  
+4. 
+Demo should be provided during technical evaluation, if required. 
+5. 
+Demonstration and onsite training of staff by the application experts is mandatory. Demonstration and training 
+about sterilization and maintenance of the items must be provided. 
+ 
+D. 
+Certifications:. 
+1. 
+All products should be of latest series/models with BIS / ISO / European CE / USFDA certified and the 
+certification specific for the product should be submitted. 
+ 
+E. 
+Warranty: 
+1. 
+5 years warranty + 5 years comprehensive maintenance contract. The cost of warranty and CMC will be 
+included in the total cost of financial comparison. Original literature of equipment should be submitted. During the 
+Warranty & CMC period, the supplier / firm must provide minimum 04 (four) preventive maintenance as well as routine 
+services. After sales services must be provided at AIIMS, Raipur (at installation site). In situations requiring service or 
+repair of the unit outside AIIMS, Raipur and commissioning, the expenditure on the account of this will have to be 
+borne by the supplier. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

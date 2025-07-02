@@ -1,0 +1,137 @@
+--- Page 45 ---
+                                                                  
+                                                              Tender No. AIIMS/R/CS/NEURO/277/GTE 
+ 
+45
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+                 Specification for Surgical Microscope 
+General specifications and terms 
+ All units/ items including accessories should have quality certificate such as BIS/USFDA and European CE 
+certified.  
+ Manufacture should be ISO certified. 
+ 5 year warranty and CMC should be included. 
+ Principal Company should have registered Office and Service Network in India, preferably Central India 
+for better service support. 
+ User manuals should be in English. Provision of trained manpower support for at least for initial 1 months 
+after installation or up to a period when the staff/technicians at  are trained in handling, storage and proper 
+sterilization methods of supplied equipment has to be ensured by the bidder. 
+ Compliance statement should be submitted in a tabulated and point wise manner. 
+ All firms are required to submit their catalogue along with tender clearly marking the quoted items and 
+number with highlighter. If necessary demonstration will be taken to ensure product quality. 
+ All items under particular serial number will be purchased together from single manufacturer. 
+ Product quality certificate required. 
+Technical specifications for microscope  
+S.no 
+Technical Specification 
+01 
+Working Distance: 200-600 mm continuously variable through motorized multifocal lens, 
+activated through Hand or Foot switch and through Control panel. Manually adjustable 
+override. Deviation of ± 25mm over the W.D range is acceptable. 
+02 
+Magnification range: Motorized zoom magnification with apochromatic optics .a. 1.2x- 17x 
+with 10x eyepiece without any additional magnification multiplier. Preferably Microscope 
+should have bookmark memory & it should come back to its pre-set positions (maintaining 
+pre-saved working distance, focus, & zoom) with a single button press. 
+04 
+Field of view : Minimum field of View 15 mm -200 mm or more with 10xeyepiece 
+05 
+Focusing: Motorized via multifocal lens, activated through Hand switch &Touch screen 
+control panel. Manually adjustable override 
+06 
+Microscope should automatic focus on surgical field without any click on button. System 
+should not lose its focus irrespective of any movement of microscope head at any working 
+distance within the microscope WD. Microscope should have motorized XY control lateral 
+and curve linear movement. 
+07 
+Eyepieces : 10x eyepieces 
+08 
+Light Source: 300W or more Xenon illumination with integrated 300W Xenon back-up with 
+Automatic lamp Changeover in case of primary bulb failure. In case of electronic system 
+failure the light should continue to work with manual override for optics adjustments. 
+09 
+Illumination  Field  Diameter:  Should  have  built  in  automatic  zoom-synchronized 
+illumination field diameter, with manual override and reset feature. 
+10 
+Automated  illumination  control:  Should  have  Automated  Illumination  Brightness control; 
+should be linked to working distance. Illumination also can be controlled by hand switch or 
+foot switch. 
+
+
+--- Page 46 ---
+                                                                  
+                                                              Tender No. AIIMS/R/CS/NEURO/277/GTE 
+ 
+46
+ 
+ 
+11 
+Binocular tube :180 ° Tiltable binocular tube 
+12 
+Balancing: Auto-balance for the whole microscope. 
+Preferably system should also have active vibration dampening for minimizes collateral 
+system vibrations, ensuring rock-solid stability. Enabling it to complete and steadily focus on 
+particular area. 
+13 
+Suspension system & Height: Counter weight suspension system (Hydraulic suspension 
+system will not consider), with individual brake release button on each handgrip for optics 
+career only as well as whole microscope brakes. True overhead capability with weight bearing 
+not less than 7Kg. Height in Stand by Position not less than1880mm. 
+ 
+14 
+Should have Fluorescence:  
+1. System should be upgradable for ICG vascular fluorescence. 
+2.   System   should   be   upgradable   for sodium fluorescence. 
+15 
+Beam Splitter : Intergraded Beam Splitter (not visible from outside) 
+16 
+Should have Camera: Fully Integrated 3D 
+Medical Grade 3 chip FULL HD 1080p video camera and documentation system 
+17 
+Display : 3D FULL HD1080p Medical grade display System (24 inches or more) attached 
+With the microscope system. In addition to that 55 inches 4K 3D & 2D monitors  should  be 
+provided  for Exo-scope and teaching. 
+18 
+Should have Recording: Integrated 3D FULL HD 1080p Medical Grade Recording system 
+with inbuilt 1TB HDD. DICOM should be integrated. Latest generation microscope with own 
+Wi-Fi networking capability should be offered, for safe wireless surgical data transfer to 
+Surgeon’s mobile device. 
+19 
+Stereo co observer: Should have stereo co observation attachment for side assistant with 
+straight binocular and 10X eyepiece. 
+20 
+Face to Face attachment: Built in face to face attachment with Tiltable binocular and 10x 
+eyepieces. The system should have light guiding facility to choose between Opposite assistant 
+and Side assistant position to preserve illumination for Main surgeon. 
+21 
+Footswitch: Wireless 14 or More functional footswitch control for microscope. 
+22 
+Image Injection : Images from external sources ( CT, MRI, Endoscope, Navigation ) in FULL 
+HD1080p resolution should be injected into surgeon eyepieces on demand 
+23 
+Navigation  Compatibility:  Offered  system  should  be  compatible  with  all  leading 
+Navigation Solution providers (Medtronic, Brain lab, Stryker ). 
+24 
+After Sale  &Service:  After Sales  &Service  will  be  provided  by the  Manufacturer 
+company. Should have sufficient stock of spare in their local office 
+25 
+The cost of all spares including optional items should be quoted upfront and should be valid 
+for 5 years. 
+26 
+The vendor should have a good service and application backup along with instruments to 
+provide an effective troubleshooting and support. (Response time < 24 hours) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

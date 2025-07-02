@@ -1,0 +1,171 @@
+--- Page 10 ---
+Tender for 3 D Printer  
+ 
+ 
+ 
+                                            Admn/Tender/136/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+3 D Printer  
+A. Printer and printing properties 
+1. Technology:  
+Fused Deposition Modelling (FDM) 
+2. Print head:  
+Single/Dual extrusion print head with a unique 
+auto-nozzle lifting system and swappable print cores 
+3. Build volume:  
+Above 200/200/180 mm 
+4. Filament diameter:  
+1.75-3 mm (1.75 mm) 
+5. Layer resolution:   
+0.4 mm nozzle: 90-400 micron 
+6. XYZ accuracy:   
+12.5, 12.5, 2.5 micron 
+7. Print head travel speed:  30 - 300 mm/s 
+8. Build speed:  
+ 
+0.40 nozzle: up to 16 mm³/s 
+9. Build plate:  
+ 
+Heated glass build plate 
+10. Build plate temperature: 20 - 100 ºC 
+11. Build plate levelling:  
+Active levelling 
+12. Supported materials:  
+Nylon, PLA, ABS, CPE, PVA 
+13. Nozzle diameter:   
+0.4 mm 
+14. Nozzle temperature:  
+180 - 280 ºC 
+15. Nozzle heat up time:  
+< 2 min 
+16. Build plate heat up time: < 4 min (20 - > 60 ºC) 
+17. Operating sound:  
+ 
+50 dBA 
+18. Material recognition:  
+Material recognition with NFC scanner 
+19. Connectivity:  
+ 
+Wi-Fi, LAN, USB port 
+20. Monitoring:  
+ 
+Live camera 
+ 
+B. Physical dimensions 
+1. Dimensions: 340-350 x 375-395 x 380-390 mm  
+2. Dimensions (with bowden tube and spool holder): 340-350 x 
+500-515 x 580-600 mm  
+3. Net weight: 10-15 kg  
+ 
+C. Power requirements 
+1. Input:  
+100 - 240V 
+4A, 50-60Hz 
+221 W max. 
+ 
+2. Output: 24 V DC, 9.2 A 
+ 
+D. Ambient conditions 
+ 
+1. Operating ambient temperature:  
+15 - 32 ºC, 10 - 90% RH 
+non condensing 
+See material specifications 
+for optimal conditions 
+ 
+2. Non-operating temperature:   
+0 - 32 ºC 
+ 
+E. Software 
+1. Supplied software: High resolution, Noise free print preparation 
+software 
+2. Supported OS: macOS, Windows and Linux 
+3. File types: STL, OBJ and 3MF 
+4. DICOM to STL/OBJ/3MF converting software. 
+ 
+ 
+ 
+F. Consumables:  
+01 
+
+
+--- Page 11 ---
+Tender for 3 D Printer  
+ 
+ 
+ 
+                                            Admn/Tender/136/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 pack/rim ABS (1 kg each) of cream colour (closest match to colour 
+of bone) filament 
+5 pack/rim ABS of red colour (Closest match to colour of blood) 
+filament 
+ 
+G. Training/support: 
+Assistance in DICOM file conversion, editing of 3D images and 
+printing of 25 models over a period up to 3 months in the Department of 
+Neurosurgery, AIIMS Jodhpur.  
+ 
+H. Warranty 
+5-year warranty. 
+
+

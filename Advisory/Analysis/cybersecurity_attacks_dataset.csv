@@ -1,0 +1,8 @@
+Organization Name,Location / Region,Year,Cyber Attack Category,Attack Method,Financial Cost,Number of People Affected,Number of Products Affected,Duration of Attack,Result,Response
+Boston Children's Hospital,Boston,2014,DDoS,Phishing and exposed ports/services,"$300,000 - $600,000",5000+,10,More than 24 hours,"Network inactive for two weeks, disrupting operations and closing the fundraising site.",Stopped web-facing programs; closed firewall entry points.
+Lukas Hospital,Germany,2016,Social Engineering & Malware,Social engineering,N/A,200+,5,More than 24 hours,High-risk surgeries postponed; systems sanitized.,Systems turned off; restored from backups.
+Hancock Regional Hospital,United States,2018,Malware (SamSam),Microsoft RDP exploit,"$50,000",400+,8,More than 24 hours,Backup files permanently destroyed.,Disabled all desktop and network systems.
+Hollywood Presbyterian Medical Center,Los Angeles,2016,Malware (Locky) & Phishing,N/A,"$17,000",3000+,12,Less than 24 hours,Staff unable to access patient info or backups.,Paid ransom
+Champaign-Urbana Public Health District,United States,2020,Malware (NetWalker),N/A,"$350,000",1500+,3,More than 24 hours,Website blocked; updates moved to Facebook.,Employees used internal networks for updates.
+Brno University Hospital,Czech Republic,2020,Ransomware,Windows XP vulnerability,N/A,10000+,20,More than 24 hours,"Complete IT network shutdown, affecting operations and patient safety.",Shut down entire IT network.
+Hammersmith Medicines Study,London,2020,Ransomware,Ransomware-as-a-service,No ransom paid,1200+,7,More than 24 hours,Private patient data stolen.,N/A

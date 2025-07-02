@@ -1,0 +1,429 @@
+--- Page 11 ---
+Tender for Endpoint Security Software 
+ 
+          Admn/Tender/65/2019-AIIMS.JDH    
+   
+Page 10 of 18 
+ 
+Annexure – I 
+ 
+Technical Specifications for End Point Security Solution  
+S. No. 
+Description 
+Compliant/ 
+Non-Compliant 
+1 
+Proposed Solution should be in 'Leaders' quadrant of the gartners Magic 
+Quadrant for Endpoint protection platform for the year 2018 
+  
+2 
+Solution should be offered off-premise via Cloud Offering 
+  
+3 
+The Proposed solution should be an integrated advanced endpoint detection and 
+response platform designed to Prevent organizations from being hacked, Detect 
+the execution of malicious code, and Respond to imminent threats  
+  
+4 
+The proposed solution has its own proprietary scan engine 
+  
+5 
+Solution should offer Real-time Scanning for  Local Files and Network Shares 
+during Read & Write operation 
+  
+6 
+Solution must have the capability to exclude applications that are normally 
+detected as Potentially Unwanted Application 
+  
+7 
+Solution must have the application control lets you detect and block 
+applications that are not a security threat, but that you decide are unsuitable for 
+use in the office. 
+  
+8 
+Must have the incremental AV update size of 30kB or more. 
+  
+9 
+Solution must offer the Real-time scanning that scans internet resources as 
+users attempt to access them and should 
+a) Scan downloads in progress. 
+b) Block access to malicious websites. 
+c) Detect low-reputation files 
+  
+10 
+Solution should offer the real time protection to check the latest threat 
+information from OEM online and should have the option to Automatically 
+submit malware samples to OEM. 
+  
+11 
+Solution must have the EDR or advanced EDR capability 
+  
+12 
+Solution must offer the scan exclusion on the basis of File or Folder, and have 
+the feature of using the wild cards ? and * 
+  
+13 
+Solution should have On-demand curated threat intelligence from OEM lab 
+  
+14 
+Solution should have Machine learning detection and prioritization of 
+suspicious events 
+  
+15 
+Solution should have the guided incident reposnse 
+  
+16 
+Solution should offer the facility for Threat searches on the basis of file name & 
+hash values 
+  
+17 
+Solution should have the feature for automated Device isolation from network 
+when the device health status turns RED/unhealthy. 
+  
+18 
+Solutions must have the privilege to isolate device manually from the network. 
+  
+19 
+Solution must offer device control solution with MTP/PTP category that 
+includes devices such as phones, tablets, cameras and media players that 
+  
+
+
+--- Page 12 ---
+Tender for Endpoint Security Software 
+ 
+          Admn/Tender/65/2019-AIIMS.JDH    
+   
+Page 11 of 18 
+ 
+connect using the MTP or PTP protocols. Below permission should be 
+applicable  
+Allow: Peripherals are not restricted in any way. 
+Block : Peripherals are not allowed at all. 
+20 
+Solution should have the option to raise the support ticket from the 
+management console. 
+  
+21 
+Solution should have the option to upload the file snapshot automatically to the 
+OEM for analysis 
+  
+22 
+Solution should offer security options to configure access to advertisements, 
+uncategorized sites and risky downloads 
+  
+23 
+Solution shoud offer the below options for Risky downloads to the user 
+Allow: Allows all risky file types. 
+Warn: Warns the user that a file may be risky before they can download it. 
+Block: Blocks all risky file types. 
+ 
+Let me specify: This allows you to set a number of individual file types to 
+Allow, Warn, or Block. 
+  
+24 
+Solution must have the option that allows you to choose Block data-sharing, 
+Allow data-sharing, or Let me specify, controls access to web-based email and 
+file downloads. 
+  
+25 
+Should be able to monitor files when they are accessed by a process 
+(read/write) 
+  
+26 
+Solution must have the feature to conserve bandwidth by blocking 
+inappropriate browsing and warns users before visiting productivity-impacting 
+websites. Blocks site categories likely to consume high bandwidth. 
+  
+27 
+Solution must offer Safe Browsing by protecting critical functions in web 
+browsers. 
+  
+28 
+Proposed solution should show the alert description along with User & Device 
+  
+29 
+Solution should offer pre-defined administration roles to divide up security 
+tasks according to the administrators’ responsibility level. 
+  
+30 
+Solution must detect network traffic to command and control servers 
+  
+31 
+Solution should support automated malware removal 
+  
+32 
+Solution should support Malicious Traffic Detection (MTD) 
+  
+33 
+Solution must support Runtime Behavior Analysis / HIPS 
+  
+34 
+Solution must provide the Application Category, so as to block the Applications 
+as required by the administrator. 
+  
+35 
+Solution must offer the Device Control/Peripheral control, with the Option of 
+Read Only, Allow, Block access to the device. 
+  
+36 
+Solution must have the privilege to whitelist the USB device on the basis of 
+Hardware ID. 
+  
+37 
+Solution should support the time based policies. 
+  
+38 
+Solution must have the option to raise the Support ticket directly to the OEM 
+from the management Console. 
+  
+39 
+Solution should have the option to block the website on the category basis. 
+  
+
+
+--- Page 13 ---
+Tender for Endpoint Security Software 
+ 
+          Admn/Tender/65/2019-AIIMS.JDH    
+   
+Page 12 of 18 
+ 
+40 
+Solution 
+should 
+have 
+the 
+granular 
+reporting 
+and 
+should 
+include 
+Security Events (Shows all security events, such as malware detections, on your 
+devices and let you filter them to generate reports) 
+a) Audit Logs (Record of all activities and changes made to the system.) 
+b) Policy Violators (Shows the users who tried to access blocked websites 
+or download blocked files most often.) 
+c) Blocked Sites Access Record (Shows the blocked websites that users 
+tried to visit most often and the users who tried to visit them.) 
+d) Application Control Policy Violators (Shows the servers/users that tried 
+to access blocked applications most often and the application they tried 
+to access.) 
+e) Warned Sites (Shows the top websites for which we display a warning 
+and the users who most often ignore the warnings) 
+f) Blocked Applications (Shows the top blocked applications and the 
+servers/users that tried to access them) 
+  
+41 
+Solution should offer the tamper protection with the option of generating OTP 
+  
+42 
+Solution should provide protection against 
+* Prevent Ransom attacks  that target MBR. 
+* Destructive Boot records attacks. 
+* Prevent boot kit installation. 
+  
+43 
+Solution must support the active adversary mitigation techniques 
+* Prevent Credential Theft Protection 
+* Prevent Code cave evacuation 
+* Prevent Privilege escalation 
+* Prevent APC violation 
+  
+44 
+Solution must have deep learning technology with a model size of 10-20 MB 
+  
+45 
+Solution must have root cause analysis/Threat cases for the malware incidents 
+  
+46 
+Solution should have the flexibility of creating the policy on the basis of device 
+or User. 
+  
+47 
+Solution should offer the Security News Update in the management portal 
+  
+48 
+Solution should be integrated with the Active Directory and should have the 
+capability to sync with the  active directory 
+  
+49 
+EDR or advanced EDR solution should have the ability to create Forensic 
+Snapshots and perform detailed analysis on demand. 
+  
+50 
+Solution must have capability to Search for potential threats on devices using 
+file names, SHA-256 file hashes, IP addresses, domains or command lines. 
+  
+51 
+Solution must have Guided investigations to  make EDR approachable yet 
+powerful 
+  
+52 
+Should be able to stop mass encryption of documents and other files on local 
+disks (including USB drives) and remote shares on network drives (SMB) even 
+if it happens from an (abused) trusted legitimate process 
+  
+53 
+Should be able to monitor files when they are accessed by a process 
+(read/write) 
+  
+54 
+Solution should protect from remotely running ransomware 
+  
+55 
+Solution must offer Safe Browsing by protecting critical functions in web 
+browsers. 
+  
+
+
+--- Page 14 ---
+Tender for Endpoint Security Software 
+ 
+          Admn/Tender/65/2019-AIIMS.JDH    
+   
+Page 13 of 18 
+ 
+56 
+Solution must have EDR capability for  On-demand curated threat intelligence 
+from OEM Labs. 
+  
+57 
+Solution must mitigate exploits in vulnerable applications 
+a) Protect web browsers 
+b) Protect web browser plugins 
+c) Protect Java applications 
+d) Protect media applications 
+e) Protect office applications 
+  
+58 
+Solution should be a single agent for foundation endpoint security techniques 
+with Deep Learning malware analysis, Anti-Ransomware, Anti Exploits & 
+Endpoint Detection & Response. 
+  
+59 
+Solution should Protect processes by 
+a) Preventing process hollowing attacks 
+b) Preventing DLLs loading from untrusted folders 
+  
+60 
+Solution should offer the tamper protection with the option of generating OTP 
+  
+61 
+Solution should have the flexibility of creating the policy on the basis of device 
+or User. 
+  
+62 
+Solution should offer the Security News Update in the management portal 
+  
+63 
+Solution should be integrated with the Active Directory  
+  
+64 
+Should be able to enforce Data Execution Prevention (DEP) to prevents abuse 
+of buffer overflows  
+  
+65 
+Should have Mandatory Address Space Layout Randomization (ASLR) to 
+prevents predictable code locations  
+  
+66 
+Should have Null Page (Null Dereference Protection) to stop exploits that jump 
+via page 0 
+  
+67 
+Should support Heap Spray Allocation for pre-allocated common memory areas 
+to block example attacks  
+  
+68 
+Should have Dynamic Heap Spray to stop attacks that spray suspicious 
+sequences on the heap  
+  
+69 
+Should support Stack Pivot to stop abuse of the stack pointer  
+  
+70 
+Should support Stack Exec (MemProt) to stop attacker’ code on the stack  
+  
+71 
+Should support Stack-based ROP Mitigations (Caller) to stop standard Return-
+Oriented Programming attacks  
+  
+72 
+Should support Branch-based ROP Mitigations (Hardware Augmented) to stop 
+advanced Return-Oriented Programming attacks  
+  
+73 
+Should have Structured Exception Handler Overwrite Protection (SEHOP) to 
+stop abuse of the exception handler  
+  
+74 
+Should support Import Address Table Filtering (IAF) (Hardware Augmented) 
+to stop attackers that lookup API addresses in the IAT  
+  
+75 
+Should support Load Library to prevent loading of libraries from UNC paths. 
+  
+76 
+Should support Reflective DLL Injection to prevent loading of a library from 
+memory into a host process. 
+  
+77 
+Should support VBScript God Mode to prevent abuse of VBScript in IE to 
+execute malicious code. 
+  
+78 
+Should support WoW64 to stop attacks that address 64-bit function from 
+  
+
+
+--- Page 15 ---
+Tender for Endpoint Security Software 
+ 
+          Admn/Tender/65/2019-AIIMS.JDH    
+   
+Page 14 of 18 
+ 
+WoW64 process  
+79 
+Should support Syscall to stop attackers that attempt to bypass security hooks  
+  
+80 
+Should have Hollow Process to stop attacks that use legitimate processes to 
+hide hostile code  
+  
+81 
+Should give priority to system libraries for downloaded applications (DLL 
+Hijacking) 
+  
+82 
+Should have Application Lockdown to stop logic-flaw attacks that bypass 
+mitigations  
+  
+83 
+Should have Java Lockdown to prevent attacks that abuse Java to launch 
+Windows executables  
+  
+84 
+Should support Squiblydoo AppLocker Bypass to prevent regsvr32 from 
+running remote scripts and code. 
+  
+85 
+Should have protection for CVE-2013-5331 & CVE-2014- 4113 via Metasploit 
+for In-memory payloads: Meterpreter & Mimikatz  
+  
+86 
+Quantity: 750 users in no's 
+  
+87 
+Validity: 5 years  
+  
+ 
+Administrative Officer 
+AIIMS, Jodhpur 
+ 
+ 
+ 
+ 
+
+

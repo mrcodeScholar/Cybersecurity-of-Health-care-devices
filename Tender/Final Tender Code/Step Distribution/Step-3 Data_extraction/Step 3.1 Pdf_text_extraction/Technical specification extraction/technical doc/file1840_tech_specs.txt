@@ -1,0 +1,1145 @@
+--- Page 36 ---
+     Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 36 of 73 
+ 
+Section – V  
+Technical Specifications  
+EQUIPMENT SPECIFICATIONS: 
+ALL EQUIPMENTS SHOULD BE EUROPEAN CE/ USFDA CERTIFIED AND 
+APPROVED.  
+ 
+1. 
+ 
+ 
+IVF (LAMINARFLOW) WORK STATION WITH 
+INTEGRATED STEREOZOOM MICROSCOPE 
+WITH ACCESSORIES : 
+Quantity-1 
+1. Size : Working chamber should be approximately (Depth X Width X Height) 450-650mm X 
+1600-1900mm X 600-700mm. External dimension should be approximately (Depth X width X 
+Height) 660-700mm X 1900-2000mm X 1200-1400mm. 
+2. HEPA filters: Class H-14 HEPA Filters in accordance with EN1822. Filter Efficiency 99.999% 
+for 0.3 Micrometer particles size. 
+3. Access of maintenance should be from front of the laminar flow, so that cabinet need not be 
+moved. 
+4. Filters: Carbon VOC filter, Pre-Filter and HEPA Filter. 
+5. Heating : Electrical 
+6. Flow : Flow meter to regulate flow rate of gas through bubble flask (vertical Flow) 
+7. Noise level : upto 55 Db 
+8. Light damping facility to adjust light intensity. 
+9. Unit should be workable on standard UPS supply 
+10. Working chamber tabletop should be made up of stainless steel. SS table should be integrated 
+with two glass heating stage and should be of minimum size: 210 x 110 mm and should flushed 
+with SS table controlled by electronic temperature controller with digital display. 
+11.  Integrated Humidification System. 
+12. IVF work station should be fully heated with provision for heated system for Sterozoom 
+microscope 
+13. External data output via USB 
+14. Should have provision for fixing two Stereozoom microscopes. 
+15. Special Heating Surface with Thermal Sensors. Temp accuracy +_0.4-0.7*c 
+16. Inbuilt LCD monitor 19ꞌ to 21ꞌ of medical grade with video grabber and adequate memory for 
+seeing microscope images on the screen. 
+17. HEPA Filter Alarm indicator. 
+18. Should have adequate Electrical Sockets (>2) 
+19. Variable Fan speed. 
+20. Warming blocks for holding at least 8 or more follicular fluid tubes (qty 5-).  
+Full Specifications mentioned separately in table below as Equipment No.6 
+21. Test tube heater should be portable, able to hold test tubes (14 ml) with rechargeable battery, 
+heater, sensor, and LED indicators for battery and temperature - 4 Nos. 
+22. Warming block for 60mm dish (qty-5) 
+       Full Specifications mentioned separately in table below as Equipment No.7 
+23. Warming block for NUNC 4 well dish (qty 5)         
+24. Work station should have provision of UV Light  
+25. Revolving Chairs – 2 (stainless steel) for IVF Lab 
+26. Should have with image grabbing provision for image saving as well view rephrase  
+27. Branded PC and software for grabbing videos and high resolution, Pic with following 
+specifications: 
+
+
+--- Page 37 ---
+Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 37 of 73 
+ 
+a. Intel core i5 core processor (around 2.93ghz, 1066 MHZ FSB) 
+b. Standard memory: 2GB DDR3 
+c. External Drive: Base External (1) 5.25” Internal (1) 3.5” 
+d. Internal Drive: 320GB SATA hard disc drive (7200rpm) 
+e. Optical Drive: Super Multi SATA drive and double layer supporting light Scribe Technology. 
+f. Graphics: Intel Graphic media accelerator x 4500HD up to 782 MB total available graphics \, 
+Memory, suitable grabber card. 
+28. Ports: 6USB 2.0 ports (2 in front), 1 linen in 1 line out, 2 microphones (1 in front), 1 headphone, 
+LAN, VGA port Video connector: VGA port. Slots: 1 PCI express (x16) 2 PCI express (x1) 
+1PCI. Network Interface: Ethernet 10/100 BT integrated network interface 
+29. Must be US FDA or EU or CE approved. 
+30. Two Numbers (2 Nos) Trinocular stereo zoom microscope (Stereo zoom microscope-Trinocular:  
+Medical Device for use in Human IVF with following specifications: 
+a. Parallel optics Typical Zoom Ratio 10:1 or more 
+b. Zoom range: 0.6 – 8.0X 
+c. Diopter adjuster, Rubber Eye-Shield, Reticle Lead. 
+d. Eyepiece tube: trinocular tube for camera attachment 
+e. Eyepiece inclination: for fatigue free observation 
+f. C-mount TV adapter 
+g. Power Cord BE 
+h. Halogen Lamp 6V-20W with reflector 
+i. Trinocular port 
+j. Eyepiece with diopter adjustment :10X (f.n 22) 
+k. Trinocular observation tube with inclination at 30 degree, inter pupillary distance adjustment 
+48mm -76mm. Working Distance Up to 92 mm 
+l. Plane achromatic objective 1X Resolution of at least 600lp/mm. 
+m. Transmitted light stage with halogen illuminator of at least 30 watt. 
+n. Scientific Digital Camera for microscopy with control software, progressive scan CMOS/CCD 
+having resolution of 5 M-pixel or better, metal body, 1024X768 live     preview with up to 25 
+images per second, capacity for fast, full Colour live image capture in real time, photographs in 
+color or in gray steps, online histograms for image optimization, shading correction for live 
+image and captured images, firewire interface-2 nos. 
+o. Coaxial course and fine focusing knob mechanism should be built in 
+p. Stand with ESD capability. 
+q. Episcopic illumination integrated epi illuminator with LED base system.  
+r. A suitable operating system with printer and UPS for imaging through digital camera. (Monitor)  
+s. Adapters for camera:  -mount adapter for CCD/digital camera. 
+t. Basic Magnification Continuously Variable between 6.5X and 50X. 
+u. Sturdy Stand Capable of taking additional optics and documentation accessories viz, 
+Photomicrography system, Digital Imaging and Image analysis Systems. 
+v. Accessory: Two spare halogen lamp  
+w. Must be FDA class 2 medical device EU or CE approved. 
+x. Should be Nikon/ Olympus/ equivalent make 
+ 
+ 
+2. 
+CO2 Incubator :- 
+Quantity-2 
+1. Capacity 150 lit – 220 lit 
+
+
+--- Page 38 ---
+     Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 38 of 73 
+ 
+2. Humidity: Active sterile humidity maintained through vaporizing module operating at 120ºC 
+Measuring range 0-98% RH /Range 60-95% RH. System should have easy to set high -low 
+humidity levels 
+3. Stainless steel interior 
+4. Perforated Shelves for uniform heat distribution/ shelf adjustment 
+5. Air-jacketed with good insulation. 
+6. LED/LCD Display of chamber temp. and CO2 level. CO2 Control range: 0 to 20% 
+CO2 Control accuracy: + 0.1% Temperature Control: Panel heated interior chamber and door. 
+Intelligent temperature control system for dry inner chamber. Range 30 to 45-degree C. Stability/ 
+Uniformity +-0.1-degree C/0.3-degree C. Over temperature alarm  
+7. System should have built in decontamination cycle for complete elimination of 
+bacteria, fungi, spores, mycoplasma etc.  
+8. System must have on board graphic capability /datalogging to enable user to obtain historical 
+performance.  
+9. Incubator must have a fully automatic start routine function. 
+10. Data Logging facility – Built in 
+11. Diagnostic system: Optical and Acoustic alarm. Alarm messages are retained in non 
+permanent memory. Set points should be saved in case of power interruption. Remote alarm. Short 
+recovery times: for all adjustable parameters through optimized microprocessors control less than 
+4 minutes. Incubator must offer direct access port to enable comparative CO2 measurement by 
+external device. 
+12. Multiple inner glass doors 
+13. Infrared Sensor based system. Specially NDIR/TCD CO2 Sensor. 
+14. Lockable main door-preferable. 
+15. Integrated Humidity Limit Control (88-97%) with digital display of relative humidity –resolution 
+of display. 0.5%, setting accuracy 1%. 
+16. Certified Medical Device. Incubator for human embryo culture 
+17. With accessories: CO2 Regulator and inline filter with each incubator.  
+18. UPS 3 KVA with each incubator. 
+19. Incubator to be provided with stable table. 
+20. Classification: Safety Class I, Class IIA for all usage according to EC-Directive 
+/US FDA (Should be LEEC/HERACELL/Heal Force/ equivalent make.) 
+ 
+3. 
+Trigas benchtop Incubator for human embryo culture with tri-gas 
+mixer. 
+Quantity -1 
+1. Bench Top Incubator with excellent control and accuracy of pH, temperature and humidity. 
+2. Four or more chambers for placing Petri Dishes.  If make and model has less than FOUR chambers 
+the quantity has to be adjusted to accommodate atleast FOUR petri dishes (1 in each chamber) 
+3. Each Chamber must have an excellent heat distribution using fully contact heated plates. Tightly 
+packed, full surface heating elements: to create stable environment from heated base and lid. 
+4. Each chamber must have independent display of gas and temperature. 
+5. In built disposable humidification system uses Pre mix gas or separate gas cylinders & several 
+bench top incubators can be connected to one source of supply. 
+6. 24 hours digital recording of temperature and gas flow 
+7. Graphical representation of data for rapid, comprehensive review.(Optional) 
+8. Each chamber preferably must have a heated lid. 
+9. Automatic gas purge in lid closure to maintain gas environment 
+10. Bench top incubator should have reduced oxygen culture capacity. 
+
+
+--- Page 39 ---
+Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 39 of 73 
+ 
+11. Constant Temp 37°C in the dishes. 
+12. Fast recovery in less than 2 minutes In built alarm alert to low CO2 and temperature 
+13. Storage humidity: 5% to 95% relative humidity non-condensing 
+14. Operating temperature:  
+a. +5 °C to +40 °C for safe operation. 
+b. Temperature control range: (ambient + 5 °C) to 40 °C.  
+c. Temperature measurement accuracy: ± 0.2 °C,  
+d. Flow control range: 0 ml/minute to 900 ml/minute. 
+e. Dishes per chamber: Minimum 4 
+15. Power- Universal input 100-240 V, 50/60 Hz. With on line ups back up half an hr. 
+16. ALARM CONTACTS for remote monitoring. External Alarm system in case of power failure. 
+17. Auto mix inbuilt mixer and should be provided with SS304 tubing for gas supply. 
+18. Should have UV-C decontamination of air stream 
+19. Should have validation outputs and pH electrode port 
+20. Should have data logging system, alarm and compartment wise sampling ports. 
+21. Accessories on line gas filters and table for placing the incubator. 
+22. Must be US FDA or EU CE approved.  
+23. Should be provided with US FDA / EU CE certified trigas mixer for benchtop incubator able to 
+supply multiple bench top incubators. 
+ 
+4. 
+ 
+Pipetter and Denudation system with denudation tips:  
+2 systems 
+1.  MECHANICAL ADJUSTABLE VOLUME PIPETTOR 
+a. Manually operated air displacement digital pipettors to dispense media accurately and safely. 
+b. Large, clear display for the set volume. 
+c. The volume-setting mechanism to provides secure setting of the desired volume. 
+d. Autoclavable 
+      e. Set of three with Volume dispensing in (micro litre). 1 each 
+● 1-10 μl 
+● 10-100 μl 
+● 100-1000μl 
+2. DENUDATION SYSTEM: Consisting of: 
+A. Denudation Pipette Rack Should have slots for placing at least two denudation holder with pipette. 
+B. Denudation Pipette Holder: Adjustable handle to accept all sizes of pipettes 
+C. Denudation Pipette 
+a. Flexible polycarbonate pipettes used for manipulation of oocytes and embryo 
+b.  Pipette tips should be suitable to get easily attached & detached with holder 
+c.  Size: 130 μm (10 packs with each pack containing Ten pipettes) 
+d. Size:140 μm (10 packs with each pack containing Ten pipettes) 
+e. Size:170 μm (10 packs with each pack containing ten pipettes) 
+f. Size:300μm (10 packs with each pack containing ten pipettes) 
+Certificate: Should be European CE or US FDA certified. 
+ 
+5. 
+ 
+ 
+Aspiration Pump: 
+Quantity- 2 
+1. Should have low flow, regulated vacuum pressure range: 0- 500 mm of Hg. 
+2. Should be precision- built, regulated vacuum pump designed specifically for ovum aspiration, 
+vacuum range changeable by 1mm hg and with digital display. 
+
+
+--- Page 40 ---
+     Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 40 of 73 
+ 
+3. It should have a foot operated switch with vacuum gauge with pressure control switch, pressure 
+gauge, Occlude switch, main switch, overflow vessel. 
+4. Set and Actual pressure: Easy to read LED Digital Display for both available 
+5. Volume of overflow vessel 1 x 50ml – 02 nos. (1x50ml for individual vessel) 
+6. Pre-filter as standard: Built in for safety 
+7. Connecting for aspiration tubing :2 to 4 mm 
+8. Power Supply 230V ,50Hz 
+9. Should be backed by UPS 
+10. Should be compatible to fit with all commercially available oocyte recovery set. 
+11. Unit should be placed on trolley (modular) with wheels and brakes. 
+12. Accessories: Anodized aluminium blocks for test tubes of 14ml/5 ml.- (05)  
+13. The unit should have a rapid suction response at the needle tip when the pedal is activated, and 
+should be able to hold constant vacuum settings accurately for long periods. 
+14. Should be Labotech/Cook/Craft/equivalent Aspiration pump. 
+ 
+ 
+6. 
+ 
+Portable test tube warmer: 
+Quantity- 5 
+1.  Should have clear front panel to allow continuous observation of test tubes contents.  
+ 
+ 
+ 
+ 
+2.  Should have facility to prevent overheating. 
+ 
+ 
+ 
+ 
+ 
+3.  Panel should be easily removable for decontamination.  
+ 
+ 
+ 
+ 
+4.  Should accept at least 4 falcon test tubes.  
+ 
+ 
+ 
+ 
+5.  Should have a battery operated platform. Battery chargeable. 
+ 
+ 
+ 
+ 
+6.  Should have Temp accuracy± 0.2 degree Celsius. 
+ 
+ 
+ 
+ 
+ 
+7. Seamless construction of stainless steel of SS304 
+8. Three blocks should have port to check temp. 
+9. Should be European CE/US FDA/BIS certified. 
+ 
+7. 
+Petri Dish Warmer 
+Quantity- 4 
+1. Hot plate & test tube warmer with temp range 30-45ºC  
+2. Digitally Controlled temperature of hot plate with temp accuracy +/-0.2C. – (01). 
+3. Heating time< 10 minutes. 
+4. Should be European CE/US FDA/BIS certified. 
+ 
+8. 
+ 
+Inverted Microscope with Micromanipulator and Heating System 
+for ICSI with Camera and Monitor 
+ 
+Quantity- 1 
+1. 
+Inverted Microscope basic unit 
+2. 
+Lamp house with 100W Halogen 
+3. 
+Heated platform 
+4. 
+Suitable modulation contrast system (complete) for Intra cytoplasmic sperm injection (ICSI) 
+5. 
+Good optics. 
+6. 
+Sturdy Stand with built in 12V 37W halogen light illumination / LED Transmitted light 
+illumination. 
+7. 
+5x nosepiece to accommodate up to five different Objectives. i.e 4x, 10x, 20x, 40x & 60x 
+8. 
+Objective suitable for phase contrast and bright field. 
+9. 
+Universal Condenser for bright field and phase contrast. 
+10. 
+Oil/air system for pipette setting and control 
+11. 
+Digital Channel Temperature Controller 
+12. 
+Micromanipulator should be compatible for the utility of commonly available LASER and  
+13. 
+Spindle view imaging system 
+
+
+--- Page 41 ---
+Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 41 of 73 
+ 
+14. 
+Standard Consumables, Spares and Accessories: 
+a. Bulb; 12v 37 W; Quantity -01 
+b. Spacer Washer; H=15mm; Quantity-01 
+c. Tubing- ICSI tubing; Quantity-06 meter 
+d. Anti-Vibration Platform: Company specific anti vibration table; Should be able to handle 
+micro manipulator system, Quantity -01 
+e. CCD Camera: Still/video capturing card, LCD Monitor 20 to 24 inches Quantity-01 each. 
+(i) High Resolution Camera for ICSI : 
+(ii) USB based camera 
+(iii)25 Frame per second giving it much more clarity 
+(iv) Chip size 1/1.8 or bigger. 
+(v) Sensor is CMOS the latest sensor in the market giving good image. 
+(vi) 1.3 Mega pixel camera 
+(vii) 
+No external power supply required, Small in Size so occupies less space. 
+(viii) 
+Laptop: Monitor 15 inches; Original Windows 10, Intel Core i7 5200U  
+(ix) CPU,8 GB RAM,TB HDD-Quantity -01 each. 
+(x) The image shall be displayed on the TFT monitor and also in the TV kept in 
+(xi)  the consultation room of the ART centre. The cabling and change over shall be done by 
+the bidder. 
+ 
+15. 
+Eye piece should be 10X/15X wide angle. 
+16. 
+Micro tool holder with 2 axis movement for quick setup of micro tools. Pitch/Yaw/angle/Tilt 
+correction from micro tools holder point 
+17. 
+Coarse XYZ micromanipulator with minimum 20mm traverse in each direction. 
+18. 
+XYZ fine micromanipulator with minimum 10mm of traverse in each direction. 
+19. 
+Option to have secondary pipette setup automatic for comfortable working 
+20. 
+Micrometer screw actuated syringes for injections / holdings 
+21. 
+Should be Olympus/Nikon/equivalent make inverted Microscope with Narishighe/ 
+Nikon/equivalent make Micromanipulator and Linkem/Tokai hit/equivalent heating system 
+22. 
+Must be US FDA or European CE approved. 
+ 
+ 
+ 
+ 
+9.  
+CO2 cylinder and regulator: 
+Quantity- 3  
+1. 
+Should be D type 47 litres type. Medical grade.  
+2. 
+Should have a gauge to measure the cylinder pressure.  
+ 
+3. 
+Cylinder should have ISI mark.  
+ 
+4. 
+Cylinder should have explosive safety certificate and should be provided along with each 
+cylinder during installation. 
+ 
+ 
+5. 
+Suitable regulator shall be supplied along with the cylinders. 
+ 
+ 
+6. 
+The copper piping shall be done by the bidder as per the layout with proper color coding. 
+ 
+7. 
+With automatic inline arrangement to ensure steady, nonstop supply 
+ 
+ 
+8. 
+Static evaporation gross rate: 0.38 litre/day. Static holding time: 124days 
+ 
+ 
+ 
+9. 
+Manifold for at least 2 (two) cylinders. With required attachments for manifold. With 
+automatic inline arrangement to ensure steady, nonstop supply 
+10. 
+Accessories like pliers, wrenches to work with each cylinder to be provided, 06 extra 
+regulators for each cylinder 
+ 
+10. 
+Pre-mix Gas for bench incubators 
+Quantity- 2 
+1. Manifold with at-least 2 cylinders. 
+2. If auto mix system,3 separate cylinders of N2, CO2 and O2. 
+
+
+--- Page 42 ---
+     Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 42 of 73 
+ 
+3. Should have European CE/US FDA/BIS certification.  
+ 
+11. 
+Gas in line filter 
+Quantity- 10 
+1. For removal of volatile organic contaminants (VOC) and chemical Air contaminants (COC) and 
+other particulates in Gas. 
+2. Should have 2.4-2.8  sq. of Potassium Permanganate & Activated Carbon membrane  
+3. Should have additional PE-layer for removing particulates  
+4. To be fitted in line between Gas cylinder and the incubators 
+5. Excellent adsorption capacity and very low pressure loss 
+6. Compact with standard connectors 
+7. For pressures up to 2 bar  
+8. All the fitting, tubing and instillation and appropriate sequence including cylinder, gas filter, gas 
+change over unit and incubator lie in scope of bidder. 
+9. Should be compatible with any CO2 and pre-mixed gas filter 
+10. Filters should have ease to replace. 
+ 
+12. 
+ 
+Centrifuge: 
+ 
+Quantity- 1 
+1. Centrifuge with swing out rotor head for processing semen by swim up or density gradient 
+technique accepts 8 tubes of 15ml tube. Should have adaptor to hold different size tube. (size 6, 14 
+,15 ml)  
+ 
+2. Should have digital G Force indication, RPM indication and timer indication. 
+3. Centrifuge chamber to be heated at 37 degree Celsius to maintain sperms at the same temperature 
+throughout. 
+ 
+ 
+4. Centrifuge should have nine different programmes each one can be independently set for 
+temperature, time, G Force and/or RPM etc.  
+ 
+5. Should have brushless AC motor 
+ 
+ 
+6. Should have programmed acceleration and deceleration. 
+ 
+ 
+7. Unit should have sealed bucket (tube holder) to avoid aerosol Contamination 
+8. To be supplied with all accessories including appropriate tables for placing them. 
+9. Safety Lid interlocks to prevent opening during centrifugation.  
+10. Unit should have European CE mark/ US FDA  
+  
+ 
+ 
+13. 
+ 
+Trinocular Compound Microscope for andrology lab: 
+Quantity- 1 
+1. High quality research microscope 
+ 
+ 
+2. Should have infinity optical corrected system. HWF Plan 10x eyepiece, 20mm field of view with 
+built-in diopter adjustment 
+ 
+3. Co-axial focusing system, Coarse and fine mechanism with upper limit to prevent accidental 
+damage to slide/petri-dish. 
+ 
+ 
+4. Negative phase contrast objectives (4X, 10X, 40X, 100X bright field), with blue filter 
+ 
+ 
+5. Binocular head with 30 degree inclined angle, 360 degree rotatable, inter pupillary distance 47-
+75mm.  
+ 
+6. 3 watt LED light illumination for excellent image quality. 
+ 
+ 
+7. TFT monitor : should be of 17” monitor 
+ 
+ 
+8. Camera should be of high resolution CCD camera 
+ 
+ 
+9. The image shall be displayed on the TFT monitor and also in the TV kept in the consultation room 
+of the ART centre. The cabling and change over shall be done by the bidder. 
+ 
+ 
+10. Dust cover, immersion oil and instruction manual included 
+11. Should have Nikon/Olympus/Equivalent make. 
+ 
+
+
+--- Page 43 ---
+Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 43 of 73 
+ 
+14. 
+ 
+Sperm Counting chamber: 
+Quantity- 2 
+1. 
+Should be a Makler counting chamber 10 microns deep  
+ 
+2. 
+Counting chamber specially designed for sperm counting. 
+ 
+ 
+3. 
+The chamber should be easily rinsed with water for reuse. 
+ 
+ 
+4. 
+Reusable unit, easily rinsed with water. 
+5. 
+Unit should have CE mark/US FDA 
+6. 
+Cover slip with Grid built in with 100 squares.  
+ 
+ 
+ 
+ 
+7. 
+Should be provided with cleaning brush and cleaning paper. 
+8. 
+Should be European CE/ US FDA/ BIS certified. 
+ 
+15.
+ 
+ 
+Vertical Laminar air flow for Andrology Lab and I for IVF lab:
+ 
+ 
+Quantity- 1 
+1. 
+Size 3’x2’, fully heated (at 37 degree Celsius, stainless steel table, should have dual sensor 
+contolled digital microprocessor based temperature regulator.  
+ 
+ 
+2. 
+Andrology workstation for sperm screening, preparation and analysis.  
+ 
+3. 
+Unit should have a TFT monitor for image grabbing, copying and storing device. 
+4. 
+Should have class 100 HEPA filter of 0.3 microns porosity. 
+ 
+ 
+5. 
+Provided with motor and blower assembly complete with detachable side partition. 
+ 
+6. 
+Noise level should be less than 60-70 dB. 
+ 
+ 
+7. 
+Unit should have UV light 
+8. 
+Should be  European CE/US FDA certified. 
+ 
+ 
+ 
+ 
+ 
+16.
+ 
+ 
+SS Table 
+Quantity- 5 
+1. SS 304 grade table for placing the Co2 incubator, tri-gas bench top incubator, test tube warmer and 
+pipettes and petri dishes.  
+2. The base stand should be made of S.S 304. (preferably 14gauge)  
+3. TOP should made up of Stainless Steel.  
+4. The table should be able to withstand the capacity of 90Kg.  
+5. Dimensions: Suitable for placing CO2 incubator, tri-gas top incubator, test tube warmer and petri 
+dishes.  
+6. Pre-acceptance demonstration of the furniture is must.  
+ 
+ 
+17.
+ 
+ 
+Anti-Vibration table  
+ 
+ 
+Quantity- 1 
+1. Suitable for placing the inverted microscope with micromanipulator  
+2. Should be designed for assurance of stable operation, 3 vibration isolators with rolling diaphragm to 
+give excellent isolation from surface borne vibrations in all directions, 
+3. Thread for adjusting height. 3 vibration isolators with rolling diaphragm to give excellent isolation 
+from surface borne vibrations in all directions.  
+ 
+ 
+ 
+4. The inner table shall be heavily weighted pre-fabricated. 
+ 
+ 
+5. Should be mounted on special rubber mounts to dampen the minutest vibration. 
+ 
+6. Rust proof construction.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18. 
+CRYOCANS: 
+Quantity- 4 
+1) It should be a medical device for use in human IVF to preserve human sperms & embryos. 
+2) High vacuum cryoge. Cryocansnic container built in aluminum with super insulation and resin neck 
+3) Should comply with international regulation of transport of dangerous material. 
+
+
+--- Page 44 ---
+     Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 44 of 73 
+ 
+4) Size 
+a) 42 to 48 lit with neck diameter 120mm-160mm---2 no 
+b) 21-26 lit with neck diameter 50mm---- 2 nos. (Transport cryocans) 
+5) Static evaporation loss rate- 0.25 – 0.35 liters / day 
+6) Should be provided with SS canister, 11-12canister each with 42 to 48lit container and 6 canisters 
+with 21 lit. Each canister to be provided with Goblets with different color viso tubes. Diameter of 
+canister should range between 65 to 75 mm 
+7) Should have digital temperature indicator with alarm 
+8) Should have capacity level indicator with alarm 
+9) Facility for filling liquid nitrogen Static holding time - 125 -145 days. 
+10) Static evaporation gross rate : 0.25 litre/day 
+11) Accessories: 
+a) Transparent Spectacles for eye protection from fumes of liquid nitrogen-four 
+b) Cryo Gloves to protect hands from cold burn.-4 pairs 
+c. Liquid nitrogen transfer pump – two 
+d. Moving Trolley with each canister 
+ 
+19. 
+DIGITAL TEMPERATURE THERMOMETER : 
+Quantity- 3 
+1. Unit should be Easy to use hand held unit. 
+2. It should have three types of temperature probes, to check surface temperature, submersible sensor 
+to check temperature of liquids and flexible sensor for incubators. 
+3. Demonstrating the accuracy of +/- 0.030 F. 
+4. Auto off function. 
+5. Assembly should be supplied in case. 
+6. Calibration certificate required. 
+7. Certificate: Should be European CE or US FDA certified. 
+ 
+20.  
+WARMER FOR OOCYTE RETRIVAL 
+Quantity- 2 
+1. Unit should have stainless steel construction  
+2. Unit should have minimum capacity of 18 tubes 14ml 
+3. Unit should have view of tube during working 
+4. Service free. 
+5. Unit should have microprocessor based digital controller.  
+6. Should be European CE/US FDA certified. 
+ 
+21.  
+Liquid Nitrogen pouring device 
+Quantity- 4 
+1.  Liquid nitrogen Transfer device used for transferring liquid nitrogen from transport models. (TA26 &     
+TA55) 
+ 
+22.  
+Andrology incubator bench top with accessories 
+Quantity- 1 
+1. Capacity 30 to 35 lit 
+2. Precise temperature control 37dc +- 0.5%. 
+3. Exceptionally stable and accurate 
+4. Every corner inside the incubator chamber should be round 
+5. Automatic CO2 sensor calibration. 
+6. Audible alarms guard specimens against any deviations from the user settings.  
+7. Unit should be compact and easy to handle while keeping on bench. 
+8. Inner Chamber Dimension should be less than W350 x D350 x H350 Capacity: Calibration facility 
+should be there. 
+9. Programmable, display of level of co2 and temperature throughout. 
+
+
+--- Page 45 ---
+Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 45 of 73 
+ 
+10. Should be provided suitable SS304 grade table adequate for incubator. 
+11. Should be European CE/ US FDA certified. 
+ 
+23.  
+UPS 20 KVA online with battery back up 
+Quantity- 1 
+1. SMF battery backup with 1 hours battery backup with SNMP and isolation transformer, battery 
+rack inter connection links (65AH*20 nos) 
+2. Rectifier & Inverter with IGBT and DSP Technology. Voltage 400 ± 15% V, 3 Phase, 4 Wire. 
+3. Frequency : 45 to 55 Hz. 
+4. Display: Control Panel with LCD Screen. 
+5. Battery: Sealed Maintenance Free Rechargeable.. 
+6. Back up : 1 Hr (60 Mts) 
+7. Protection: Overload & Short Circuit. 
+8. Ventilation: Forced Air Cooling. 
+9. Should BIS certified. 
+ 
+24.
+ 
+ 
+GAS CHANGE OVER UNIT (AUTOMATIC) 
+Quantity- 2 
+1. Change unit should have Continuity of CO supplies to CO incubators. 
+2. Unit should be compact can be bench or wall mounted using the keyholes on the back of the unit. 
+3. The unique pneumatic logic construction of the unit it could be placed anywhere between the gas 
+bottles and the equipment being served, 
+4. These units should be suitable for use with all non-corrosive gases. 
+5. All tools and accessories needed for functioning of the units should be provided along with. 
+6. Instillation of unit at desired site is in scope of turnkey project. 
+7. Unit should be battery operated. Extra battery should be provided. 
+8. Should have audible and visual alarms.  
+9. Should be European CE/US FDA certified. 
+ 
+25.                 
+ SMART MONITORING SYSTEM (Co2, O2 and Temperature 
+analyser) 
+Quantity- 1 
+1. Control designed at dedicated application view, monitor and review alarms and events across 
+multiple devices. All in one unit. 
+2. Sensor for CO2 measurement 0 to 100%. 
+3. Sensor for O2 measurement 0 to 100%. 
+4. Temperature sensor – measurement range 0 – 1000C 
+5. Should have home screen, live trend, live dashboard 
+6. Measurement Accuracy should be at 5% CO2, +/- 0.25% 
+7. It should have Compensation Range 1000 +/- 256 mbar Response Time should not be more than 2 
+minutes. 
+8. Battery usage should be visible on display. 
+9. History can be viewed. Real -time data logging. Storage capacity should be at least 500 readings. 
+Reading should be downloadable. 
+10. Alerts should come via SMS, voice call and email 
+11. Genuine and reliable Server platform should be available. 
+12. Should work for CO2 incubaters, O2 incubaters, cryocans, media/drug refrigerartor and ivf lab 
+door. 
+13. Data –download via USB. 
+14. P C –software for analysis & management of measurements 
+15. Rechargeable battery or mains adaptor. 
+16.  Unit should be European CE/US FDA certified and having a calibration certificate. 
+
+
+--- Page 46 ---
+     Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 46 of 73 
+ 
+ 
+26.           CCD CAMERA CCTV SYSTEM FOR LAB 
+1 system 
+1. Should cover embryology lab, reception, andrology lab and sterile corridor 
+2. 1/3" Color CCD cameras  
+3. 1080p HD Video Resolution (1920 x 1080) 
+4. 960H Resolution in CVBS Mode 
+5. AHD, HD-TVI, HDCVI, and Analog CCTV (CVBS) modes 
+6. Weatherproof  
+7. With infrared LEDs to illuminate up to 20 meters (65 feet) 
+8. 3.4-3.8 mm lens 
+9. 0.2 Lux Day mode / 0 Lux Night Mode 
+10. Tri-Axis Mount for Ultimate Flexibility 
+11. Power & Video Cable Through Mount Design 
+12. Power supply to be included 
+13. Recording ability for at least 1 week  
+14. need to provide processing unit with hard disk built in ( 1TB or greater) 
+15. Monitor 21”LED full HD for viewing the camera footage. 
+16. Router for network access via app on smart devices. 
+17. Hand remote controlled 
+18. Fitting and wiring to be provided by the vendor. 
+ 
+27.            DIGITAL pH METER WITH MICRO ELECTRODE: 
+Quantity- 1 
+1. Compact and light weight table top   
+2. Quick response time 
+3. Built-in automatic temperature compensation. 
+4. Two-point calibration provided. With buffers low and high 
+5. pH range: 0 to 14 pH 
+6. pH accuracy: ± 0.05 pH 
+7. pH resolution: 0.01 pH 
+8. Automatic pH input impedance: >10 MΩ 
+9. pH probe: Epoxy body combination pH electrode 
+10. pH display: LED 
+11. pH power supply:  230 V ± 10%, 50 Hz. 
+12. Should be supplied with Operator manual and Service manual  
+13. Warranty and CMC as per tender terms. 
+14. Should be European CE or US FDA certified. 
+ 
+28. 
+VOC meter for ART LAB  
+Quantity- 1 
+1. Handheld monitor with option of wall mounting. 
+2. Capable of detecting contamination-detecting contamination at 0.1ppm level or lower. 
+3. Facility of data storage and data logging. 
+4. Photo-Ionization Detector technology. 
+5. Upto to 3-second response. 
+6. Warning and Alarm levels. 
+7. Facility of VOC measurement inside CO2 Incubators. 
+8. VOC sensor calibration with Easy Calibration Kit. 
+9. Operating Humidity % to 95% relative humidity (Non-condensing). 
+
+
+--- Page 47 ---
+Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 47 of 73 
+ 
+10. Weight: less than 1 kg. 
+11. Should be European CE or US FDA certified. 
+ 
+29.         LAPTOPS 
+Quantity- 2 
+1. Display size:                                                                            15.6” 
+2. Display resolution max:                                                         1920x1080 
+3. Processor Brand                                                                     Intel 
+4. Processor:                                                                               Core i7 7th Generation or    
+                                                                                                newer Type                                                          
+5. Processor Speed                                                                     3.50 GHz 
+6. RAM Size                                                                              16 GB 
+7. Memory Technology                                                             DDR4 
+8. Computer Memory Type                                                       DDR3 SDRAM 
+9. Hard Drive Size                                                                     2 TB 
+10. Hard Disk Technology                                                          Serial ATA 
+11. Hard Drive Interface                                                              Serial ATA 
+12. Hardware Platform                                                                 Windows 
+13. Operating System                                                            Windows10 preloaded 
+14. Included Components                                    Laptop, AC adapter, User Manual 
+ 
+30.        
+ALL IN MULTI-FUNCTIONAL PRINTER WITH SCAN, 
+COPY AND FAX FACILITY 
+Quantity- 2 
+1. Connectivity Ports: Hi-Speed USB 2.0 port (device); built-in Fast Ethernet 10/100Base-TX network 
+port, Wireless 
+2. Wireless capability Standard (Wi-Fi 802.11b/g/n) 
+3. Copier settings: Number of Copies; Lighter/Darker; Optimize; Paper; Multi-Page Copy; Draft Mode 
+4. Maximum number of copies: Up to 99 copies 
+5. Copy reduce / enlarge settings:25 to 400% 
+6. Copy speed (black, normal) : Up to 23 cpm 
+7. Copy resolution: 600 x 400 dpi 
+8. Acoustic power emissions: 6.5 B(A) (printing at 23 ppm) 
+9. Operating humidity range:30 to 70% RH 
+10. Storage humidity: 10 to 90% RH 
+11. Environmental specifications: Mercury free 
+12. Memory : Memory, standard 256 MB 
+13. Mobile printing capability 
+14. Mobile printing services: Apple AirPrint; HP ePrint; Google Cloud Print 2.0; Mopria-certified; Wi-Fi 
+Direct 
+15. Network protocols, supported: TCP/IP: IPv4; IPv6; IP Direct Mode; LPD; SLP; Bonjour; WS-
+Discovery; BOOTP/ DHCP/ AutoIP; WINS; SNMP v 1/2/3; and HTTP/HTTPS 
+16. Input capacity: Up to 150 sheets 
+17. Output capacity: Up to 100 sheets 
+18. Media sizes supported (metric) A4; A5; A6; B5 (JIS) 
+19. Media types: Paper (laser, plain, photo, rough, vellum), envelopes, labels, cardstock, postcards 
+20. Energy savings feature  
+21. Power supply: 220-volt input voltage: 220 to 240 VAC (+/- 10%), 60 Hz/50 Hz, 2.8 A 
+22. Print technology: Laser 
+23. Duplex printing: Manual duplex 
+24. Print resolution (best): Up to 600 x 600 dpi, FastRes 1200 (1200 dpi quality) 
+25. Monthly duty cycle: Up to 10,000 pages 
+
+
+--- Page 48 ---
+     Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 48 of 73 
+ 
+26. Print languages :PCLmS, URF, PWG 
+27. Regulatory specifications: Should have requisite  regulatory/CE/EN certificates for safety, 
+Electromagnetic compatibility, fax capability and wireless communications  
+28. Scan technology: CIS 
+29. Scan resolution, hardware: Up to 600 x 600 dpi (colour, flatbed), Up to 1200 x 1200 dpi (mono, 
+flatbed) 
+30. Levels of grayscale:256 
+31. Maximum flatbed scan size (metric) :215.9 x 297 mm 
+32. Twain version: Version 2.1 
+33. Security management: Password-protected network embedded Web server; enable/disable network 
+ports; SNMPv1 community password change 
+ 
+31.        
+TV FOR RECEPTION AND SEMEN COLLECTION ROOM 
+Quantity- 2 
+1. 
+Screen Resolution         1920 x 1080 pixels 
+1. 
+HD Type Full HD 
+2. 
+Screen Type LED 
+3. 
+Refresh Rate 50Hz or more 
+4. 
+Supported Video Formats DivX 
+5. 
+Number of Speakers 2 
+6. 
+Speakers Output (RMS): 20W or more 
+7. 
+Sound Technology: Dolby Digital Decoder, DTS Decoder 
+8. 
+Audio Feature Details: Auto Volume Leveller 
+9. 
+Supported Audio Formats: AC3, MP3, PCM 
+10. 
+Connectivity: Built-in WiFi, Ethernet, Wi-Di 
+11. 
+HDMI: 2 or more 
+12. 
+USB: 2 or more 
+13. 
+Headphone Jack: Yes, 1 
+14. 
+Composite In: Yes 
+15. 
+Component In: Yes 
+16.   Connectivity Input: Yes 
+17. 
+TV for reception area 42 inches in display size 
+18. 
+TV for semen collection room 32 inches in display size 
+ 
+32.     
+DVD PLAYER/MULTI-MEDIA PLAYER FOR SEMEN 
+COLLECTION ROOM 
+Quantity- 1 
+1. Should play multiple video content formats like MPEG-1,MPEG-2 PS/TS,MPEG-4,VOB,DivX 
+2. Should have Audio Capabilities which include, Digital /Analogue Conversion,5.1 Ch. Dolby 
+Digital Output,MP3 &WMA playback 
+3. Should play directly from USB 
+4. Should Playback multiple format discs including, DVD (PAL) / NTSC, CD-R/-RW, Audio CD, 
+Dual Disc 
+5. Should have HDMI and Composite video and stereo Audio port connectivity to any Television / 
+Monitor/ Projector. 
+ 
+33.     
+Wireless Two way Audio System: (One between OT 5 and IVF lab 
+and second between IVF lab and embryo transfer room) 
+Quantity- 2 
+1. An active loudspeaker shall be installed.  
+2. 3-Channel Loudspeaker with Digital volume control and Audio mixer and Audio equalizer 
+
+
+--- Page 49 ---
+Setting-up of IVF Lab  
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR  
+ 
+Page 49 of 73 
+ 
+  
+ 
+FURNITURE: 
+ALL 
+FURNITURE 
+ITEMS 
+SHOULD 
+HAVE 
+GODREJ, 
+HERMEN 
+MILLER, 
+FEATHERLITE MAKE 
+ 
+Andrology lab 
+1. Overhead build in cabinet 
+2. Chairs 3 
+ 
+ 
+should be installed at a most suitable place.  
+3. Suitable cable material and a patch panel should be offered as per the position of the 
+Loudspeaker. 
+4. The surgeon and his team should be able to do Bi-Directional Audio communication from OT to 
+IVF lab and IVF lab and embryo transfer room 
+ 
+34.   
+Refrigerator for Media(Pharmaceutical refrigerator)                                                                            
+Quantity- 1 
+1. 300 L or more 
+2. Adjustable temperatures between 1° and 8°C (factory pre-set at 4°C) 
+3. Large, easy-to-read digital display of temperature within 0.1°C 
+4. Positive forced-air circulation systems 
+5. Industrial-grade cabinet construction and compressors 
+6. Self-closing, key-locked doors 
+7. Epoxy-coated, open-wire shelves adjustable in 1″ (2.5cm) increments 
+8. Cold-rolled steel interior and exterior finished with high-impact powder paint coating 
+9. Interior lights with door-activated ON/OFF switch and independent switch on control panel 
+10. Adjustable levelling feet (except 4.9 cu. ft. under counter model) 
+11. Automatic defrost and condensate removal 
+ 
+35.  
+LAB PURIFICTION SYSTEM 
+Quantity- 2 
+1. Portable unit – Floor or Wall mounted   
+2. Effective removal of VOC & CAC   
+3. Use of Photo catalytic Converter system Reaction chamber: Technology of tiny catalyst coated with 
+non-delaminating solution.  
+4. Exciting media: UV 254 nm bulbs  
+5. UV-C / equivalent light source for cleaning air   
+6. No Ozone Generation Green technology: No harmful by-product.  
+7. Effective coverage: up to 1000 sqft   
+8. Replaceable filters  
+ 9. Filters to be provided for first 5 years 10.  
+10. Replacement bulb kit (one set to be available)  
+11. Power: 220V, 3Phases, 50-60Hz 12. Certificate : US FDA class2 medical device/CE certified/BIS 
+certified 
+ 
+
+

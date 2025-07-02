@@ -1,0 +1,119 @@
+--- Page 16 ---
+NIT No. : AIIMS/R/CS/GS-GM/293-50/19/OT/A 
+Page 16 of 21 
+ 
+ANNEXURE-I 
+ 
+Technical Specification for “High End ICU Ventilator 
+ 
+1. Should be a microprocessor controlled ventilator with minimum of 12’’colour TFT touch screen 
+integrated graphics and easy to use rotary knob operation providing support to Adult/pediatric and 
+upgradable to infant/neonatal p a t i e n t  range. 
+2. Should have Air supply through integrated ultra-quiet turbine or external compressor of the same 
+manufacturer. 
+3. Should be based on reliable flow measuring technology with proximal/distal flow sensor which 
+ensures the most precise flow and pressure measurements for better patient assessment .Sensor should 
+be covered under warrenty. 
+4. Following Ventilation m odes should be available as standard in the ventilator : Assist  / Control  
+Mandatory  Ventilation  (A/C ): SIMV;  CPAP;  Pressure  Support  Ventilation (PSV); APRV, 
+DuoPAP  / BiPAP / BiPhasic; , Combination  / Dual modes like PRVC /  APV or 
+VAPS/automode/autoflow; Apnea Back -up and any other mode for safe ventilations  offering  
+both volume  guarantee  & lung protective strategies like volume limit etc. 
+It should have one of the advanced ventilation modes like NAVA/ASV/PAV/Bilevel VG/ Smartcare 
+as standard. 
+5. It should have enhanced Invasive as well as Non-Invasive Ventilation (NIV / NPPV) modes with 
+facility of effective leak compensation . 
+6. Volumetric EtCO2 should be available and following parameters should be displayed  
+o Integrated EtCO2 monitoring on Ventilator screen by Mainstream /Sidestream Technique 
+7. Ventilator should be upgradable to nCPAP, High- Flow Oxygen Therapy, SPO2, 
+ 
+Controls:  
+8. Tidal volume should be minimum 20 ml to 2000 ml in Volume Control Mode or better 
+9. Respiratory rates 4 to 100 BPM or better, 
+10. Peak flow setting from 0 to 180 lpm or better 
+11. Trigger sensitivity:-  Flow 1 to 15 l/min 
+12. PEEP : 0 to 3 5 cm H2O or better. 
+13. FiO2 : 21  to 100 %. 
+14. I:E ratio 1:9 to 4:1 (DuoPAP/BiPAP/BiPhasic 1: 599 to 149:1) 
+15. Inspiratory time (TI) 1 to 12 s 
+16. Pressure control 3 to 60 cmH2O, added t o PEEP/CPAP 
+17. Pressure support 0 to 60 cmH2O, added to PEEP/CPAP 
+18. Pressure ramp 0 to 2000 ms or equivalent in graphs 
+19. Expiratory trigger sensitivity (ETS) 5 to 80 % of inspiratory peak flow 
+20. Should have facility of Manual breath, O2 enrichment, standby, screen-lock, apnea backup 
+ventilation, inspiratory hold, screen-shot, suctioning tool, configurable Quick start - Settings, start -
+up over IBW 
+21. The Ventilator  should supply with reusable, electrically    operated,independent   of Flow, 
+Aeroneb Pro nebulizer .It should follow Vibrating Mesh  technology to produce  <   4-micron 
+uniform particle size to save drug wastage   
+ 
+Alarms: 
+22. low/high   Minute Volume , Low/high Pressure, Low/high tidal volume,   low/ high Rate , Apnea 
+time, low/high  oxygen,  Oxygen  concentration,  disconnect ion,  loss  of  PEEP,  exhalation  
+obstruction,  flow  sensor, power supply, batteries, gas supply 
+ 
+Display: 
+  
+23. Should have Numeric Values of tidal  volume, lung compliance, resistance, and patient activity and 
+optional Real-time visualization of the lungs with representations. 
+24. Should have display of target and actual parameters for tidal volume, frequency, pressure, and minute 
+ventilation. 
+25. Should have Real-time waveforms Paw, Flow, Volume, Ptrachea (Optional/)PAux  .  
+26. Should have facility to show at least 1 Loops: P -V, V- Flow, P-Flow 
+
+
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/GS-GM/293-50/19/OT/A 
+Page 17 of 21 
+ 
+27. Should have either graphical  or tabular trends for minimum of 1h, 6h, 12h, 24h, 72 hours with 1 
+minute resolution. 
+28. Should display 41 monitoring parameters including Exhaled tidal volume, Breath rate, I:E ratio, 
+FiO2, Peak Pressure, Mean Airway Pressure, etc. 
+29. Should have permanent O2 cell or it should be covered under warranty (05 years) and CMC. 
+30. Source input pressure of oxygen and air: 40 to 60 psi.  
+31. Should work with double limb non-proprietary patient circuit both reusable & disposable. 
+32. Ventilator Should be supplied with the following accessories: 
+ HME filter :300 nos per ventilator.  
+ Reusable Silicon Breathing circuits 2 Nos .for Adult  
+ Expiratory valve assembly 2 units autoclavable with life time warranty  
+ 2 -reusable autoclavable flow sensors per ventilator with life time warranty 
+ The complete unit must be mounted on an original (OEM) pedestal stand for easy 
+movement of the complete ventilator within hospital . 
+ 
+33. Internal rechargeable battery with minimum operating time of at least 80 minutes for Ventilator. 
+34. Should have Interface connectors USB /RS -232 as standard, VGA. 
+35. Demonstration of the equipment is a must. 
+ 
+CERTIFICATIONS – TO BE ENCLOSED WITH TECHNICAL BID. 
+36. Ventilator should be BIS / “US FDA and European CE” approved and manufacturer should be 
+ISO(latest) certified. 
+37. Ventilator Should be IEC 60601-1:2005/A1:2012, IEC 60601-1-2:2007, ISO 80601-2-12:2011 + 
+Cor.:2011, CAN/CSA-C22.2 No. 60601-1:14, ANSI/AAMI ES60601-1:2005/(R)2012 certified. 
+38. Ventilator Should have IP21 protection. 
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------- 
+(Signature & Stamp of the bidder)  
+Note- Please sign each page of document including terms & conditions of tender 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

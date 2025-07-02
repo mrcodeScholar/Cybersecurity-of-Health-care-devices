@@ -1,0 +1,81 @@
+--- Page 10 ---
+Tender for ROP Screening camera                                                                              Admn/Tender/01/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+ROP 
+Screening 
+camera 
+Image resolution 
+2048 x 2048- 24 bit colours 
+Minimum pupil 
+diameter 
+4mm 
+Field of view 
+120 degree from centre of eye 
+Adjustments 
+Intensity, gain, balance, brightness, 
+contrast, gamma 
+Imaging 
+Still images and video images 
+Compatibility 
+DICOM EXPORT, telemedicine, USB 3.0, 
+Microsoft windows 7 or later 
+Weight 
+Less than 500 gms 
+Dimension of hand 
+held unit 
+22 cm x 8 cm x 6 cm 
+Dimension of 
+illumination box 
+25 cm x 22 cm x 18 cm 
+Operating 
+environment 
+Temperature 5- 35 degree Celsius 
+Humidity 30- 90 % 
+Atmospheric pressure 70- 106 KPA 
+Uninterrupted AC power supply for 5 V 
+DC adapter 
+Internet connectivity 
+High definition display 
+ 
+01 
+
+

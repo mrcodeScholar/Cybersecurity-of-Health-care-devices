@@ -1,0 +1,19 @@
+Advisory/Analysis/cvedata/
+
+# Ignore large JSON and HTML data files
+Tender/**/*.json
+Tender/**/*.html
+
+
+
+# Or, be more selective:
+Tender/Tender analysis/tender_data.json
+Tender/Final Tender Code/Step Distribution/Step-3 Data_extraction/step 3.2 Json_pdf_title_extraction/Extraction/
+Tender/Final Tender Code/Step Distribution/Step-4 Analysis/output_data.json
+Tender/Final Tender Code/Step Distribution/Step-4 Analysis/check.html
+
+# Editor/OS files
+.DS_Store
+__pycache__/
+*.pyc
+

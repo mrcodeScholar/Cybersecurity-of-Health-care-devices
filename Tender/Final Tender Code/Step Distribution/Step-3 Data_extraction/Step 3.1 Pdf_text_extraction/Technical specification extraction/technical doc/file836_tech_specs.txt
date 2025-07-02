@@ -1,0 +1,70 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/CTVS/19/335/OT/A 
+ 
+ 
+Page 17 of 18 
+ 
+ANNEXURE-I 
+Detailed Technical Specification for supply & installation of High End Modular Defibrillator with 
+Transcutaneous Pacing (Required Qty. 06 Nos.) 
+1. The machine should have facility for 12 Lead ECG & SpO2 Monitoring, Defibrillation external & 
+internal, transcutaneous pacing, AED & in-built recorder.  
+2. The machine should be upgradeable to mainstream EtCO2, IBP & Temperature on installation site. 
+3. Should work on manual and automated external defibrillation (AED) in Bi-phasic mode. The 
+maximum energy delivered by the device should be at least 200J or more. 
+4. Should monitor ECG through external paddles and monitoring electrodes. 
+5. Should have at least 8 inch or more color LCD display that provides clear visibility even in daylight. 
+6. Should have display of at least 6 waveforms of various monitoring parameters and their numerical 
+data. 
+7. System should have instant boot up time, less than 5 seconds.  
+8. Should have external paddles with paddles contact indicator- for good paddle contact. Single adult 
+and pediatric paddles should be available. 
+9. The machine must have capability for providing internal defibrillation shocks. The internal paddles 
+of different sizes for adult, pediatric and infant patient should be provided. 
+10. Must have infant external paddles price to be quoted as option.  
+11. The unit should be capable of doing synchronized and asynchronized Cardio version. 
+12. Should have Fixed and Demand mode for External Pacing with pacing rate from 30 to 180 ppm. 
+Current pulse amplitude should be 10mA - 170mA or better, with accuracy of 10% 
+13. Should have facility to continuously analyze patient ECG during CPR in AED mode. 
+14. Should have disposable pads with noiseless function to reduce the noise during CPR 
+15. The machine should have one key operation for easy switch over from adult to child mode in AED 
+with same pads. 
+16. Should have fast charging time, charging 200J within 5 seconds or less on both mains & battery.  
+17. Should have a battery capable of giving at least 100 discharges of maximum energy, 4 hours of 
+continuous monitoring or 1 hour of pacing.  
+18. Should have both manual and automatic disarm facility. 
+19. The machine should be compact, portable with built in rechargeable battery 
+20. Should have status indicator that displays daily and monthly self-test results.  
+21. Should display alarm message and have alarm indicator. 
+22. After defibrillation, the ECG waveform must recover within 5 seconds for immediately checking the 
+result of defibrillation. 
+23. The machine should have Real time recording, Delayed recording, Event recording, Trend report up 
+to 24 hour trend graph of HR, SpO2, PR,CO2, RR and VPC, Self-test result, Basic check result, 
+Operation history/Device condition history. 
+24. The machine should have Automatic recording of Alarm report, Defibrillation recording, Periodic 
+list report up to 24 hours of vital parameters. 
+25. The machine should have onscreen operation guide which shows the recommended measurement 
+method for each parameter.  
+26. The machine should work on mains as well as on rechargeable battery. 
+27. The battery charging time should be less than 4 hours to full charge.  
+28. Selectable shock energy in AED mode.  
+29. Must be BIS / European CE / USFDA / Japanese FDA approved product. 
+30. Equipment must have MIL-STD-810F 514.5 Category 4 Restrained Cargo certification. Exposure 
+Level Annex A 2.2.1C (1) & MIL-STD-810F 514.5, Category 9 Helicopter EN1789: 2007, Am1: 
+2010 certification 
+31. Must meet IP44 Level for water resistance and Protection against harmful ingress of dust. 
+32. Should conform to latest safety standards, such as IEC-60601-2-4, IEC-60601-1-2, ISO 14971: 
+2007, EN 1789: 2007 etc. 
+33. Accessories to be provided along with each defibrillator: 
+• 
+ECG cable to measure 12 lead ECG-2nos. 
+• 
+Recording Paper- 10 rolls. 
+• 
+AED cable & pads- 2 Adults & 2 Pediatrics. 
+• 
+ SPO2 probe- reusable 2 Adult and 1 Pediatric. 
+• 
+Internal paddles along with handles for Adult & Paediatric- 1 set each 
+
+

@@ -1,0 +1,165 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neonatology/371/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+ 
+Item: Portable X-ray machine 
+ 
+SPECIFICATIONS FOR MOBILE  DIGITAL RADIOGRAPHY  X-RAY MACHINE WITH 
+FLAT PANEL DETECTOR 
+ 
+The unit should be Compact, Light, easily maneuverable, mobile DIGITAL RADIOGRAPHY unit with 
+spring balanced articulated arm suitable for beside X-Rays for ward patients, intensive care units and 
+operation theatres. The unit should be a digital system coupled with wireless  flat panel detector 
+Power Line Connection: 
+ The unit should operate on single-phase power supply using Capacitor Assist Technology (not using 
+Battery) with plug in facility to any standard wall outlet with automatic adaptation to line voltage 200 to 
+240 volts, 15 Amp plug 
+1. 
+The Generator: 
+A 
+Must be microprocessor controlled  high frequency inverter technology with capacitor Assist 
+offering  output  of 10 KW or above. 
+B 
+It should have a digital display of mAs and kV and an electronic timer. Unit offered should have 
+2 Point technique of setting KV & mAs along with programmable anatomical technique. 
+C 
+KV range: 40kV to 110 kV or more 
+D 
+Max, current: 120mA or more 
+E 
+mAs Range should be  0.5 to 200mAS or more 
+F 
+Shortest exposure time : should be 4 ms or less 
+G 
+The generator should have automatic line compensation function 
+H 
+The exposure release switch should be provided one on the X-ray  console and the one with a 
+cord of at least 3 meters 
+ 
+2. 
+X-Ray Tube: 
+A 
+Rotating Anode X-ray tube offering 110kv or more. 
+B 
+It must have a rotating anode with 2000 rpm or more 
+C 
+Single/dual Focal spot tube with focal spot of 1.6mm/0.7mm or less should be offered:  
+D 
+Mention the heat storage capacity of the anode. 
+ 
+3. 
+Flat panel detector: 
+A 
+The detector should be of flat panel cassette type wireless panel complying to the ISO  4090 
+B 
+The detector should wireless type offered with Cesium Iodide (CSI) scintillator technology. 
+C 
+Detector should be capable of taking 300 exposures in single charge and provide enough power 
+for more than 6 hours of use on a single charge. In case battery fails the unit should have the 
+facility to be converted into a wired detector & work should not stop. During wired mode the 
+Detector battery should be possible to charge. 
+D 
+The flat detector should be of size 35cmx43cm (14 X 17 Inch) 
+E 
+The detector should have a minimum spatial resolution of 2.5 lp/mm. 
+F 
+The detectors should have high DQE with a minimum of 65% @ 0 lp/mm and 50% @ 1 lp/mm or 
+more. Technical data from manufacturer of detector should be provided for the same. 
+G 
+The detector should have a minimum resolution of 2K x 2K pixels or higher & the pixel Pitch 
+should be 200 microns or less 
+H 
+The machine should have a detector storage compartment with lock. 
+I 
+Detector should offer a monoque design made of carbon fiber body for durability of over 
+300Kgs central load. 
+J 
+The image preview after exposure should not be more than 5 sec and processed image preview 
+should not be more than 17 sec 
+K 
+The wireless  detector should be of light weight and weigh less than 2.8Kgs enabling ease of use 
+for operations & easy positioning 
+L 
+Detector offered should have inbuilt Lithium Ion Capacitor charge battery with minimum 5 years 
+of life, or detector supplier shall offer free batteries as replacement for 5 years without any cost. 
+Batteries offered would be replaced irrespective of charge cycle limitations.  
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neonatology/371/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+M 
+Charging time for battery to full charge should be less than 60 Minutes. With 10 mins Charge 
+detector should be capable of doing atleast 10 exposures 
+N 
+The Mobile DR Kit should not need any physical integration with the Mobile X-ray unit & the 
+entire DR kit should be easily available to be used with any make of Mobile X-ray in case the 
+main X-ray unit is defective or under maintenance due to breakdown 
+O 
+The Mobile DR Kit should be capable to communicate in wireless mode between the Portable 
+Console Workstation & the DR Panel  
+4. 
+Console Workstation: 
+A 
+The machine should have an Portable console workstation with 12” or more having Capacitive 
+Touch screen LCD display. 
+B 
+The workstation should enable capture and to view the image, and provide post processing 
+features using touch screen 
+C 
+The post processing features should include, zoom, contrast and brightness setting. Unit should 
+have capability of storage of images with a memory of at least 2000 images. Please specify any 
+other software ‘s available 
+D 
+The console software should have inbuilt Dicom print function. 
+E 
+The unit should establish connection between department of use & Radiology Department for 
+Transfer of Images from Mobile DR console via LAN network as well as wifi. The connectivity 
+of work station as well as required software will be provided by the vendor for streaming 
+wireless transmission of Images on other work stations, smart phones, HIS and PACS. 
+ 
+5. 
+Mobile Stand :  
+A 
+The stand should be fully counter balanced/spring balanced tube Arm type. The Arm should 
+provide long reach for easy positioning. 
+B 
+The Mobile unit must move on wheels with appropriate braking and manual driven 
+C 
+Minimum source to floor distance must be 500mm or less 
+D 
+Max source to floor distance must be 1800 or more 
+E 
+Lockable detector storage compartment should be provided with proper saftey cushions for 
+detector storage. 
+ 
+6. 
+INTRUCTION TO THE VENDOR/SUPPLIERS: 
+A 
+The Mobile X-ray system should have AERB Type Approval, NOC will not be acceptable. 
+B 
+Table Top Dry Laser Printer with Single Channel capable to print on 14x17, 10x12, 11x14 & 
+8x10 Sizes by replacement of Cartridges should be provided. 
+C 
+After installation company should provide minimum one week application training at site. 
+D 
+Complete System should be offered with 5 years warranty & 5 years CMC post warranty period. 
+E 
+The offered Mobile X-ray system should have no recurring cost of replacement of Batteries. In 
+case the unit offered is battery powered, the same should be replaced free of cost during 
+warranty & CMC period. 
+F 
+The service provider should have the necessary equipment’s recommended by the manufacturer 
+to carry out preventive maintenance test as per guidelines provided in the service/maintenance 
+manual. 
+ 
+ 
+ 
+
+

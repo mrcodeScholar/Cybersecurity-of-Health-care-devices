@@ -1,0 +1,128 @@
+--- Page 11 ---
+ Tender for Spirometer                                                                                                         Admn/Tender/112/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+01. 
+Spirometer 
+A spirometer which also should include oximeter for the measurement 
+of pulmonary function test in children. 
+1. Operational Requirement  
+a. It should be portable and can be performed on bed side or 
+in OPD. 
+b. Feasibility of real time Flow/volume loop and volume/time 
+curve with Pre/Post comparison. 
+c. The parameters should be actually measured and not 
+derived ones. 
+d. Feasibility of Bronchial provocation test. 
+e. Should have amusing on screen Pediatric incentive 
+animation to help the child in performing pulmonary 
+function test. 
+f. Indian predictive values should be available for all 
+measurements. 
+2. Technical Specification 
+a. The system should measure the followings 
+-Slow and forced spirometer (Inspiratory and Expiratory 
+Flow Volume Curve) 
+ 
+b. The system should be also able to perform oximetry test 
+     -Feasibility of different types of oximetry test including 
+sleep and exercise test. 
+     -Spot oximetry. 
+     - Bed side sleep oximetry with desaturation events 
+recording. 
+     - Oximetry during exercise test 
+      - Should have Pediatric finger probes 
+c. The system should measure the following parameters: 
+FVC, FEV1, FEV1/FVC%, FEV3, FEV3/FVC%, FEV6, 
+FEV1/ FEV6%, PEF,    FEF25%, FEF50%, FEF75%, FEF25-
+75%, FET, FIVC, FIV1, FIV1/FIVC%, PIF, VC, IVC, IC, 
+ERV, FEV1/VC%, VT, VE, Rf, ti, te, ti/t-tot, VT/ti, MVV 
+d. The system should have bi-directional digital turbine 
+flow sensor with following specification 
+               - Flow range: ±16L/s –  
+               - Volume accuracy: ±3% or 50mL 
+                - Flow accuracy: ±5% or 200mL/s 
+                - Dynamic resistance: <0.5 cmH2O/L/s 
+            e. The system should have software with following 
+specifications 
+- All patient records are shown on simple, single-screen patient 
+cards with dynamic    management of all data and graphs.  
+              - Can easily be connected with database and hospital 
+information system (HIS) 
+               - Should have high resolution color display with FSTN 
+graphic, 320 × 240 pixel 
+                - Should have simple icon based menu on the keyboard.  
+                - PRE test and related POST test are shown superimposed. 
+                - Should have 6000or more test memory and up to 8 tests on 
+screen. 
+                 -Feasibilities of selectable languages and predicted values. 
+                 - Feasibility of customizable printout format. 
+                  - Feasibility of free software up gradation 
+                  - Connectivity: USB, RS232 and Bluetooth (optional) 
+             f. The system should have power supply from rechargeable 
+battery and mains power 
+01 
+
+
+--- Page 12 ---
+ Tender for Spirometer                                                                                                         Admn/Tender/112/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+ 
+ 
+ 
+Annexure-II 
+ 
+TECHNICAL BID 
+              g. The system should have semiconductor (0-45°C) 
+temperature sensor 
+              h. The system should have printer with followings 
+characteristics 
+                - Should have in built printer 
+                - Feasibility of customizable printout options 
+                - Paper should be thermal, 4.4 inch (112 mm) width 
+             i. The system should have mouthpieces of 1.18 inch (30 mm) 
+             j. It should have dimension of 12.2×8.1×2.6 inch (310×205×65 
+mm) 
+             k. It should have weight 4.2 lbs. (1.9 Kg) or less 
+      3.  Spares and consumables 
+      Disposable filters (paed.) with mouth pieces – 1000 nos 
+4. Environmental factors 
+-The unit shall be capable of being stored continuously in 
+ambient temperature of 0-50 deg C and relative humidity of 15-
+90%. 
+- The unit shall be capable of operating continuously in 
+ambient temperature of 0-50 deg C and relative humidity of 15-
+90% 
+        5. Standards, Safety and Training 
+           a. Should be certified to be meeting ATS/ERS Standards. 
+            b. Should be USFDA/CE approved product.  
+            c. Manufacturer should be ISO certified for quality standards. 
+d. Comprehensive warranty for 5 years and 5 years CMC after 
+warranty period. CMC             rates to be quoted in price bid 
+separately. 
+            e. Comprehensive onsite training on after installation. 
+f. Should have local service facility. The service provider 
+should have the necessary equipment recommended by the 
+manufacturer to carry out preventive maintenance test as per 
+guidelines provided in the service/maintenance manual. 
+ 
+         6. Documentation 
+            a. User/Technical/Maintenance manuals to be supplied in 
+English. 
+          b. Certificate of calibration and inspection. 
+           c. List of important spare parts and accessories with their part 
+number and costing 
+ 
+
+

@@ -1,0 +1,157 @@
+--- Page 19 ---
+ 
+Tender Enquiry No. F.No.24/ Ophtho/196(II)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+UBM with B-Scan   
+Technical Specification: – 
+ 
+A. Transducer Frequencies: 
+ B Scan Probe: 10 MHz 20 MHz  
+UBM Probe 35 MHz 50 MHz 
+ 
+B.  Probe characteristics (10MHz): 
+ Lateral Resolution: 0.0963 cm +/ 10%  
+Axial Resolution: + 0.190 mm+/-10%  
+Focal Length: 13 – 35 mm (Focal Point 20 mm ± 2m)  
+Maximum Frame Rate: 10 FPS Maximum Scan Angle : 60°  
+Depth of  Field: 80 mm @ 0.5 magnification 
+Probe characteristics (20 MHz):  
+Lateral Resolution: 0.0784 cm+/-10% 
+ Axial Resolution: 0.09mm+/-10% 
+ Focal Length: 15 – 35 mm (Focal Point 21 mm ± 1mm)  
+Maximum Frame Rate: 22 FPS  
+Maximum Scan Angle: 60°  
+Depth of Field: 19 mm 
+Water Path Probe w/35 MHz Thin Film Transducer:  
+Lateral Resolution: 0.039 cm+/-10%  
+Axial Resolution: 0.0219 mm +/- 10%  
+Focal Length: 11-13 mm (Focal Point 12mm ± 1mm) 
+ Maximum Frame Rate: 22 FPS  
+Maximum Scan Angle: 30°  
+Depth of Field: 19 mm 
+
+
+--- Page 20 ---
+ 
+Tender Enquiry No. F.No.24/ Ophtho/196(II)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+ 
+Water Path Probe w/50 MHz Thin Film Transducer: 
+ Lateral Resolution: 0.041 cm+/-10% 
+ Axial Resolution: 0.0153 mm +/- 10%  
+Focal Length: 11-13 mm (Focal Point 12mm ± 1mm)  
+Maximum Frame Rate: 22 FPS 
+ Maximum Scan Angle: 30° 
+ Depth of Field: 19 mm  
+Alarm: Audible and probe freeze when the unit gets close to the cornea 
+C. Measurement Accuracy all Probes: 
+ Distance Accuracy:  
+B. Mode: 0.07 mm 
+ UBM – Mode: 0.019 mm  
+Angle Accuracy: 0.5° 
+D. Scan Characteristics: 
+ UBM: Scan Rate : 22FPS  
+Sampling Resolution: 19 um  
+Scan Width: 17.0 mm @ Focal Point 
+ Scan Height: 10mm  
+Scan Delay (top of image): 7mm 
+B Scan: Scan Rate: 10FPS 
+ Scan Angle: 60° +/-0.5%  
+Scan Depth:60 mm +/- 10% 
+E. Display Monitor / Resolution: Display Monitor Maximum Resolution : 1280 X 1024 
+UBM Image Depth / Width : 512 x 1024 B Scan Image Depth/Width: 512 x 1024 
+UBM Display in grayscale and color palette. 3 
+F.  Display Functions: 
+
+
+--- Page 21 ---
+ 
+Tender Enquiry No. F.No.24/ Ophtho/196(II)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+       Multiple Calipers, including Arbitrary A-Scan. This unique function provides a very 
+precise tool        to measure distances on microns scale. The user defines a line crossing 
+the structures to be measured and the tool provides an A Scan Vector overlay to help 
+identify precisely the interfaces. Finally 2 measuring gates allows to measure in microns. 
+Angle Measurement 
+Area Zoom: Pro 2000 (Ishikawa Algorithm) 
+G.  Image Capture: 
+Video on the images captured. It saves every frame captured by the grabber which can 
+be played back later as a sequence looking like a video clip. Once analyzed, the 
+sequence can be exported as an AVI file to be seen on any compatible computer. 
+BMP, RLE, or JPG Photo Formats AVI Movies Format 
+H.  Image Functions 
+Exclusive proprietary algorithm “Focus” based on the principle of deconvolution, 
+allowing increasing the resolution to 19 microns (size of a pixel) 
+Exclusive E-Gain (exponential gain), which provides a selective amplification of the pure 
+interfaces (echoes) keeping background noise on a low level. 
+Unique presets which allows the unit to run with the appropriate settings depending the 
+area or function the user is willing to explore. They are “Sulcus to Sulcus”, “High 
+Resolution”, Angle Detail” and “Motion Picture”. 
+ 
+Unique Pro 2000 Post processing image analysis algorithm to make an objective anterior 
+chamber angle evaluation. It provides data like ARA (Angle Recess Area), SS to IR 
+(sclera Spur to Iris Root), AOD (Angle opening Distance) at 250 and 500 microns form 
+the sclera Spur. It also provides a graphical display showing the progression of the angle 
+aperture and distances from the endothelium to the anterior Iris surfaces. 
+I. Image Storage: x 160 GB, IDE Hard Drive 
+512K (BMP) 
+256K (RLE) 
+32K (JPG) 
+ 
+J. Input/Out Connectors: 
+Front Panel: Microphone 
+Head Phone 
+2USB 
+Back Panel: 4 USB 
+Ether Net 
+Speaker 
+Microphone 
+ 
+
+
+--- Page 22 ---
+ 
+Tender Enquiry No. F.No.24/ Ophtho/196(II)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 22 
+ 
+K. Human Interface Devices: 
+Keyboard 
+Mouse/Trackball Combo 
+Three-button Footswitch, which permits complete control of all the functions meanwhile 
+the user keeps both the hands occupied on the exam 
+ 
+L. AC Input Voltage: 90-132VAC or 180-264VAC 
+Scan Conversion 
+Maximum Frames per second: 22 FPS 
+Vector per Frame: 256 Rays 
+Samples per Vector: 1024 
+ 
+50 MHz Transducer 
+35 MHz Transducer (standard) 
+20 MHz Probe 
+10 MHz Probe 
+Water Bath Probe with cable (Standard) 
+Photo Printer 
+Scan Cap Kit 
+Mobile Cart (Optional) 
+Console (CPU) 
+Probe Cable 
+Foot Switch 
+ 
+USB Video Printer 
+Goose Neck Gantry arm with probe holder 
+ USFDA/European CE approved. 
+Comprehensive Guarantee/Warranty for 5 years and there after comprehensive AMC 
+(including all spares and labour) for 5 years 
+ 
+Demonstration at AIIMS, Rishikesh required  
+ 
+
+

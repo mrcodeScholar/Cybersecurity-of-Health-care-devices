@@ -1,0 +1,180 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Neuro/18/97/OT 
+Page 17 of 22 
+ 
+ANNEXURE-I 
+Technical Specifications for MOBILE IMAGING SYSTEM 
+1. 
+TECHNICAL SPECIFICATIONS FOR  3D & 2D ISOCENTRIC MOBILE 
+IMAGING SYSTEM WITH FLAT PANEL DETECTOR FOR NEUROSURGICAL 
+& SPINE PROCEDURES 
+ 
+State-of-the-Art, Compact, Easily Transportable, Digital Mobile C-Arm X Ray Unit with 
+Flat Panel Detector for Neuro, Spine, Trauma & Surgical Procedures. 
+ 
+The system should have the following essential features 
+1.   Generator and X-ray Tube : 
+      .   Generator should be microprocessor controlled with the following modes : 
+              1. 2D Normal Fluoroscopy, Pulsed Fluoroscopy. 
+              2. 3D Imaging (MPR, MIP) 
+              3. Digital Radiography mode (Snapshot). 
+. X-ray Generator should be minimum 20 KW or more. 
+.  The range of KV should be 40-120 KV for each mode. 
+. Tube Current should be upto 200mA or more. 
+          Give details of: 
+1. Pulse width: 
+2. Pulse rate: 
+       . The Generator should be capable of providing, Pulse Fluoroscopy with Pulse 
+rates up to 20 Pulses/sec or more. 
+       . X-ray tube Housing Heat Capacity should be minimum of 5 MHU or more for 
+protracted procedures  
+       . X-ray tube should have a: 
+           1. Dual Focal spot of minimum 0.3 / 0.6 or better (for Fluoroscopy and 
+Radiography) 
+           2. Nominal X-ray tube voltage 100 KV or more. 
+           3. Inherent filtration Al equivalent Please mention additional filters available. 
+           4. Automatic Dose Control. 
+       . Collimator unit:  
+           1. Shutters / Diaphragm for symmetric radiation free collimation (Virtual 
+Collimator) should be available. 
+2. C- Arm: 
+Give details of: 
+       . Angulation and orbital movement 
+       . Horizontal movement 
+       . Longitudinal movement 
+       . Swivel range 
+       . Source to detector distance 
+       . Depth of immersion 
+       . The C-Arm depth should be 65 cm or deeper and Free space should be 80 cm or 
+more to provide a large imaging space and C-Arm clearance around the patient and 
+the imaging table. 
+       . The C-Arm should have a Orbital rotation of 160° or more to allow the imaging 
+chain to accomplish angled projections 
+       . The C-Arm should provide side to side (wig-wag) and horizontal travel 
+movements to allow panning during an imaging. 
+       . The C-arm should be motorized in orbital, Angular, Horizontal and vertical 
+movement, (please mention the specifications)  
+       . The motorized C-arm should be controlled by Control panel (touch screen or 
+joystick control) 
+       . The C-arm should have memory to storage of positions (orbital & angulations) 
+minimum 3 or more 
+       . Motorized Home Position should be available. 
+
+
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Neuro/18/97/OT 
+Page 18 of 22 
+ 
+       . Collision Protection for patient safety should be available  
+       . The motorized movement has to stop immediately before touching the patient or 
+object should be available. 
+3. Flat Detector System 
+        . The system should have a Flat Panel Detector of 1.5k x 1.5k resolution and 
+minimum noise. 
+        . The size of the detector should be minimum30 x 30 cm or more 
+        . The pixel size should be 200 micron or less. 
+4. Monitor Cart: 
+. The system should be equipped with two high resolution 18" LCD/TFT monitors with 
+Image matrix at least 1024 X 1024. 
+5. Digital System & Image Management: 
+        . Must be Fully Digital Continuous Imaging Chain for Acquisition, Processing, 
+Storage, Archiving & Documentation. 
+        . The system should possible to enter the patient data and for image annotation 
+etc. 
+        . The system should have multi patient data base for handling large quantities of 
+image including Dose Management Report. 
+        . The system should Automatically select proper imaging parameters. kVp and 
+mA during imaging, but also provide the user to over-ride these settings manually. 
+        . Should provide anatomical mode for different anatomical parts. 
+        . Real time and Automatic Brightness and Contrast should be provided to 
+optimize displayed image. 
+        . Digital image processing up to 30 bit or more 
+        . Touch screen control panel would be preferable. 
+        . Annotation, measurement of angles and distances. 
+        . Video output. 
+        . There should be no interference from terrestrial magnetic field. 
+        . Disk storage of minimum of 60,000 2D images in at least 1K X 1K matrix 
+        . Touch screen control panel Should be available in c-arm cart & Monitor cart. 
+        . OT table side(Side rail mounted)Third touch screen control panel should be 
+available . 
+        . Multi Funtional foot switch with additional functionality should be available. 
+        . Trigger for pressure injector should be available in the system. 
+        . Laser Positioning device should be available  in Flat Panel detector for dose 
+reduction.  
+6. 3D Workstation. 
+            should be provide 3D Workstation with necessary hardware & following 
+software: 
+ 
+ Anatomical program for different anatomy parts. 
+ 
+3D Visulalization with multiplayer reconstruction(MPR) & Volume Rendering. 
+ 
+Slice planes: Axial, Coronal, Saggital should be available. 
+ 
+3D volume should be minimum of 15cm cubic or 15cm cylindrical volume. 
+ 
+3D volume resolution should at least 256 voxels or more. 
+ 
+2D Cine loop of 3D acquisition should be available. 
+ 
+3D acquisition time should not be more than 50 seconds. 
+7. Image Processing: 
+ 
+The following options should be available for Live and Post Image Processing. 
+        . The system should provide a Last Image Hold Capability that the last image is 
+displayed on the active monitor after the termination of an exposure. 
+        . The system shall allow the user to change the Image Orientation on the display 
+screen during live exposure or using the last image hold. Those functions include 
+image rotation, left to right and top to bottom image reversals. 
+. Recursive filters, Edge Enhancement, Windowing Level adjustment, Grayscale 
+inversion, Digital Collimators, Zoom 3 Level,  
+ 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Neuro/18/97/OT 
+Page 19 of 22 
+ 
+8.Image Documentation: 
+         . The unit should be advanced DICOM enabled. 
+         . Should be possible to archive images on USB port (Format: DICOM & JPEG, 
+Multimedia.) 
+10. Essential Accessories: 
+          . Online UPS of 10 KVA or more with at least 30 minutes back up for the 
+complete C-arm. 
+          . Zero Lead Aprons (light weight): 4 Nos. 
+          . Thyroid Shield : 4 Nos. 
+          . Gonad Shield : 4 Nos. 
+          . Lead Spectacles : 4 Nos. 
+          . Sterile covers (2 set reusable) for C-Arm, X-ray tube and Flat Panel Detector. 
+12. Height & Weight: 
+         The system should be minimum weight, compact size & Easy to transport. 
+13. DSA should be provided. 
+14. Other Features: 
+Quoted equipment should meet European CE and USA FDA approval standards. 
+The system offered should have AERB NOC / Type approval. 
+15. Company should quote Optional accessories and Consumables if any. 
+16. Warranty: 05 Years, CMC: 05 Years 
+17. User training for surgeon and OT Staff has to be provided until they are familiar 
+with the system use and sterilization. The company should provide one technician for 
+a period of 05 years free of cost in strict compliance to the guideline of AERB. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

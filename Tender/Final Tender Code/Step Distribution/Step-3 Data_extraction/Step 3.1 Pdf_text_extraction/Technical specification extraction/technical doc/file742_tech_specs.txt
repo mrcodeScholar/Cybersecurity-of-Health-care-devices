@@ -1,0 +1,77 @@
+--- Page 16 ---
+Tender No. : AIIMS/R/CS/Bio/19/03-158/OT 
+ 
+Page 16 of 18 
+ 
+ANNEXURE-I 
+Detailed Technical Specification for “Supply & Installation of Electrolyte Analzer”  
+for BiochemistryDepartment at AIIMS Raipur. 
+ 
+S. N. 
+Item Description 
+Qty. 
+1. 
+Electrolyte Analyzer: 
+ 
+1. 
+Fully automatic microprocessor based direct ion selective electrolyte analyzer which can 
+measure Sodium, Potassium, Chloride and also give different interchangeable electrolyte 
+configuration with only one Reagent Pack. 
+2. 
+Analyzer should be upgradeable to measure ionized Calcium and Lithium with the above 
+reagent pack. 
+3. 
+Should be able to measure in whole blood, serum, plasma, urine, dialysate and other 
+biological fluids. 
+4. 
+Capability to use several kinds of sample containers – collection tubes, syringes, capillary 
+tubes or sample cups for sampling. 
+5. 
+All reagents as well as waste should be sealed in convenient container, eliminating need to 
+change individual bottles or handle biowaste. 
+6. 
+Option to feed patient name and patient ID. 
+7. 
+Alphanumeric display. 
+8. 
+Built in thermal printer. 
+9. 
+Sample volume should not exceed 100 micro liters. 
+10. Automatic 1 point calibration with each sample and automatic 2 point calibration every 4 
+hours. 
+11. Automatic flagging of abnormal patient results. 
+12. Flame equivalent results for Sodium and Potassium, user programmable correlation 
+factors for blood, serum, plasma, urine and dialysate (to compare with existing 
+equipments). 
+13. Warning and alarm system to monitor performance. 
+14. Standby mode (automatic and manual activation) to conserve reagents. 
+15. Built in sensor to ensure reagent pack has been correctly installed and also to monitor the 
+amount of reagent in the pack. 
+16. Facility for calculating the mean, S.D. and C.V% for up to three levels of control to ensure 
+reliable results. 
+17. Should be compatible for computer interfacing. 
+18. The system should have 3 years warranty from the date of installation. 
+Conditions: 
+1. 
+The system should provide budgetary quotation for CMC on the 4th and 5th year after 
+procurement.  
+2. 
+All spares & accessories required for the system should be available for the next 10 
+years. 
+3. 
+The system should be provided with compatible online UPS to maintain minimum 30 
+minutes backup during power failure. 
+4. 
+The equipment should be provided with reagents to run 1000 samples. 
+5. 
+The firm needs to arrange for demonstration of the item quoted, at the department 
+premises. 
+02 
+Set. 
+ 
+ 
+ 
+ 
+ 
+
+

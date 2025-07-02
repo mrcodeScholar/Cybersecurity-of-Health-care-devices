@@ -1,0 +1,98 @@
+--- Page 25 ---
+AIIMS, Rishikesh 
+Page 25 
+AIIMS Rishikesh Tender Enquiry No.  .  24/  MRI stereotactic frame /Neurosurgery /734/2024-RISH (ADMN) 
+ 
+Technical Specification for MRI Compatible Stereotactic Frame 
+ 
+1. The main components of the stereotactic system should have a Cartesian frame and a semicircular arc, 
+suitable for accommodating all head sizes of both adult and pediatric stereotaxy (for children over 5 years 
+of age and compatible with X ray, CT, 1.5T and 3T MRI and its gantry.  
+2. The semicircular arc should incorporate a sliding instrument carrier for use with stereotactic needles, 
+electrodes, and other micro surgical instruments.  
+3. Sterilization trays for both the frames and are compatible for gas sterilization (ETO), steam sterilization 
+(autoclaving) and gas plasma sterilization to be provided. 
+4. The stereotactic system should be arc centered with a 160 mm or more radius, and based on Cartesian 
+coordinate system conforming to the X, Y and Z nomenclature used in CT and MR Scanning.  
+5. Numeric coordinate values (in millimeters) should be engraved on the frame and arc to ensure maximal 
+accuracy.  
+6. The system should be provided with 2 different sized head posts for anterior and posterior or the posterior 
+post should have different options of lengths -e.g., long, medium and short, or should be of adjustable 
+height.  
+7. Different size head pins should be provided (50 no) 
+8. The guide and Stop inserts should be separate to enable effective cleaning.  
+9. The instrument carrier should have separate adjustable instrument guide and stop to ensure accuracy.  
+10. CT and MR adapters along with base unit, if required, should be included in the system to secure and 
+support the patient's head and should be adjustable to ensure a parallel scan plan without having to 
+manipulate the gantry of the scanner  
+11. The coordinate frame and the stereotactic arc should provide a stable and reliable treatment platform with 
+proven sub-millimeter accuracy  
+12. The system should allow for transoral or transnasal intubation at any time during the procedure. It should 
+also allow for an approach inferior to the frame to enable posterior fossa and transphenoidal procedures.  
+13. It should preferably have ear pins for utilization as positioners and stabilizers for frame placement on the 
+patient.  
+14. It should allow for arc fixation to the frame in both the lateral and sagittal orientation with provision for 
+three point fixation or side mounting for easy and fast access to the targeted trajectories  
+15. The Stereotactic system should have a dedicated CT table fixation, Adaptor, indicator box and for MRI 
+should have a dedicated adaptor and indicator box or CT/MRI compatible localizer. These should 
+however not limit how low the frame may be mounted  
+16. The stereotactic frame should be provided with a universal table attachment to attach the frame to 3-pin 
+or 4 pin fixator available in the hospital. 
+17. It should have compatible adapter for any suitable stereotactic instruments. 
+18. The system should be compatible with any Microdrive available in the market.  
+19. Stereotactic system should be compatible for radio frequency lesioning/ should also have an adapter 
+compatible to any RF Lesion electrodes for Stereotaxy available in the market. 
+20. The Stereotactic System should have an option for testing its accuracy of the complete frame and arc with 
+the target stimulator.  
+21. The company should preferably provide a tool to test the straightness of the needles and electrodes . The 
+Stereotactic system should provide tools for intra-operative image verification of the placement of clinical 
+probes in relation the target- accessory/tool to show electrode position while using C-ARM. 
+
+
+--- Page 26 ---
+AIIMS, Rishikesh 
+Page 26 
+AIIMS Rishikesh Tender Enquiry No.  .  24/  MRI stereotactic frame /Neurosurgery /734/2024-RISH (ADMN) 
+ 
+22. The Stereotactic Frame should offer a rigid and accurate fixation to the operation table headrest with 
+three-point fixation and should have a curved front piece which provides access to the patients’ airways 
+and It can be fitted with the curve both in the inferior or superior orientation.  
+23. The coordinate frame should have an insertion cannula and hematoma evacuator designed to obtain safe 
+guidance of implants, electrodes or catheters using stereotactic technique and hematoma evacuation using 
+single burr hole.  
+24. The stereotactic system should provide instrument designed for the injection, diagnostic and therapeutic 
+punctures, aspirations and evacuations and instruments for puncturing of intracranial cavities with the 
+insertion needle of diameter of appropriate diameter.  
+25. (a) Spiral/side cutting Biopsy needle  - 5 in number and (b) hematoma evacuator 2 sets  
+26. Twist drill for twist burr hole through stereotactic arc of varying diameter-  2 sets  
+27. Needle with stop and guide. 
+28. The Stereotactic system should have quality assurance tool/ Simulation dummy/phantom to provide 
+independent confirmation that arc settings are accurate before putting the frame on the patient.  
+29. Localization plates to provide for fitting on the Cartesian frame.  
+30. Stereotactic and functional neurosurgery planning station with software on laptop/planning station that 
+should include image fusion and integrated planning software to correlate with user- defined target and 
+trajectory  
+31. The software to be provided in a workstation which should have the provision to read the DICOM images 
+using CD or USB. 
+32. Software should be provided with planning software for Biopsy and DBS. 
+33. Software should be able to place the entry point and target point virtually. 
+34. Software should be able to provide the dynamic information about the changes that occur along the 
+trajectory. 
+35. Target and trajectories should be able to seen in Axial, Sagital and coronal planes simultaneously or 
+individually. 
+36. The software should allow virtual simulation of multiple trajectories preoperatively to choose the right 
+path without affecting the critical structures. 
+37. System should have CT and MR fusion facility. 
+38. Necessary certifications US FDA/ European CE/BIS certified -provide details 
+39. Warranty of 5 years followed by CMC for next 5 years. 
+40. Buy back option is required “please provide details of manufacture policy on bay back”  
+41. Upgradation for equipment “any up-gradation of equipment with in warranty period should be provided 
+free of cost “  
+42. Rate freeze for consumable for next 10 years. 
+43. Rate freeze for accessories for next 10 years. 
+Note: The item should be certified by BIS/ ISO/ USFDA/ European CE or Equivalent.  
+ 
+ 
+ 
+
+

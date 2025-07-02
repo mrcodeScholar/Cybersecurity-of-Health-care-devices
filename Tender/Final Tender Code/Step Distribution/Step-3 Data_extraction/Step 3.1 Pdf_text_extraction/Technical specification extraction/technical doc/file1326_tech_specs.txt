@@ -1,0 +1,116 @@
+--- Page 4 ---
+AIIMS/MG/Proc/06/Tender/2022-23/ Electro Surgical Unit 
+Page 4 of 34 
+ 
+THE SCOPE OF WORK / SCHEDULE OF REQUIREMENT 
+1. Bids are invited from Manufacturer’s/Authorized Distributors/ Authorized Dealers/ 
+Supplier companies, to supply high-quality Equipment/ Instruments as per the Technical 
+Specification and Standard mentioned in the Schedule of requirement. 
+2. Description of Equipment along with accessories for given in below. Tenderer should 
+arrange demo of item to faculty/officers (Technical Specification Committee) for display/ 
+testing of the equipment if necessary.   
+3. Companies well known in the line of manufacturing/Authorized Distributor/Dealer of the 
+Equipment/Instruments/ should only quote as per our requirement and the supply /Delivery 
+time is 3 weeks (i.e., 21 Days) only after the issue of Purchase Order. 
+4. The required in-situ works like minor Electrical/Plumbing/Civil/any other Engineering 
+Works, any accessories and consumables during the warranty period, if any required for 
+Equipment/Instrument installation for making it operational at client site, will carried out 
+and borne by the Successful L-1 Agency, and for this purpose no extra payment, what so 
+ever will not paid by AIIMS Mangalagiri to any Agency. Accordingly, the vendor may bid. 
+ Technical Specpification  
+ 
+Specifications for Electro Surgical Unit /Diathermy /Cautery 
+1 
+System should come with Micro-processor-based technology with capacity of 300 watts 
+with monopolar and bipolar modes available.  
+2 
+It should have capacity to monitor changes in tissue impedance by 4,00,000- 4,50,000 
+times per second to produce consistent clinical tissue effects and adjust the energy 
+output accordingly. 
+3 
+It should come with touch screen display for ease of use and should display error alerts 
+also. 
+4 
+It should be compatible with three button cautery pencil to use advanced monopolar 
+mode like cut / coagulation with single button and independently also with cut & 
+coagulation button and have a capacity to use lower power settings resulting in less char, 
+less thermal spread and less arcing than a traditional monopolar coagulation mode 
+5 
+It Should have Auto Bipolar Mode to use Bipolar Energy without Bipolar Foot Switch. 
+6 
+It should have atleast 4 different modes for Bipolar Energy Usage. 
+8 
+It should have Pure Cut / Blend Cut modes in Monopolar Cut energy. 
+9 
+It should have different modes like soft / fulgurate / shared fulgurate / shared spray / 
+spray modes in Monopolar Coagulation energy. 
+10 It should come with internal memory of 8GB storage capacity to store events & errors 
+11 It should be compatible with other devices, including: 
+a. Smoke Evacuator. 
+12 Unit should perform self-test during Power ON. 
+13 Unit should have Digital Wattage Indications for Bipolar, Monopolar Cut and 
+Coagulation. 
+14 Unit should have Two Monopolar out puts to use by two surgeons simultaneously. 
+S. No. 
+Item Description 
+Req. Qty. 
+1 
+Electro Surgical unit 
+1 No. 
+
+
+--- Page 5 ---
+AIIMS/MG/Proc/06/Tender/2022-23/ Electro Surgical Unit 
+Page 5 of 34 
+ 
+15 Unit should have Audio Visual Patient Plate Error Monitoring System. 
+16 Unit should have Split Type Patient Plate contact quality monitoring System for 
+Maximum Patient Safety, with separate pediatric and neonatal patient plates  (Unit 
+should not be delivering power until and unless maximum area of the patient plate is 
+attached to patient body to minimize the risk of intra-operative cautery burns) 
+17 Monopolar Coagulation Should consist Spray for Non-Contact Coagulation 
+19 Unit should be compatable with three button monopolar pencil which can be used to 
+adjust the power output of the machine from the sterile field itself. 
+20 Unit should Have Facility to use monopolar and bipolar function without Switchover. 
+21 Unit should have simultaneous coagulation facility in monopolar coagulation. 
+21 Unit should have a facility to use auto bipolar mode by setting delay time of up to 2.5 
+seconds 
+22 Unit should have facility to enable Auto Bipolar & Ammeter as per the requirement 
+23 The system should have current ammeter, to display the conductivity of the bipolar 
+energy. 
+24 Should be able to use shared coagulation in monopolar mode and should have an option 
+to enable and disable the shared coagulation facility also.  
+25 Should have an option to enable and disable auto bipolar as per the requirement from 
+the surgeon  
+26 There should be soft coagulation mode to do precise surgeries  
+27 It should have facility to use shared coagulation mode with two pencils of two buttons 
+or one pencil of two buttons & one pencil of three buttons 
+28 System should be software Upgradable for future features usage 
+29 Unit Should Have US FDA and European CE Approved 
+30 Maximum power output for coagulation mode may be 150 W or lesser and bipolar mode 
+may be 100W or lesser  
+Output Waveforms: 
+For Bipolar Mode, monopolar cut mode should be More than 400 kHz continuous 
+sinusoid, and for coagulation mode may be more than 400kHz with repetition frequency 
+ranging at 20-30kHz with duty cycle of 4 - 8 % 
+33 System should have standards of IEC 60601-1:2012 for Leakage Currents & Patient 
+Auxiliary Currents 
+34 System Should be Defibrillator proof with standards of (IEC 60601-1, IEC 60601-2-2, 
+and ANSI/AAMI HF18) 
+35 System should have safety standards for Liquid spillage/Ingress so that in normal usage 
+it should not wet electrical insulation or other components, which when wetted are likely 
+to adversely affect the safety of the equipment 
+36 System should have standards of Voltage Transients-Energy Platform mains transfer 
+(IEC 60601-1, IEC 60601-2-2, and ANSI/AAMI HF18) so that system continues to 
+operate normally with no errors or system failures when transfer is made between line 
+AC and an emergency system voltage source. The system may momentarily shut down 
+in safe mode  
+37 Should provide All software updates free of cost during warranty period 
+38 Foot switch should be available for both monopolar and bipolar modes  
+39 Should provide monopolar and bipolar hand pencils separately with various 
+configurations and fine/needle tip separately 
+40 Should have a warranty of at least 5 years 
+ 
+ 
+
+

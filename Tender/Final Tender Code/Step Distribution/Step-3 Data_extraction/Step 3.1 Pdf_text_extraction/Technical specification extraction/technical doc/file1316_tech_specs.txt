@@ -1,0 +1,234 @@
+--- Page 29 ---
+ 
+e-TENDER No: AIIMS/BPL/HOSP/18-19/006 
+Rate Contract for Supply, Installation, Testing and Commissioning of Automated Antimicrobial Susceptibility Testing System for Bacteria 
+and Yeasts for Targeted Surveillance(Pg No. 29 of 73) 
+ 
+Part-I: Technical Specification and Tentative Quantities of requested Equipment:- 
+ 
+Tender 
+Item 
+No. 
+Equipment Name 
+Technical Specification/ Description of the 
+requested Equipment 
+Qty.  
+(in 
+No.) 
+1 
+Automated 
+Antimicrobial 
+Susceptibility 
+Testing System 
+for Bacteria 
+and Yeats 
+1. System must work on colorimetric and/or nephlometry 
+technology for susceptibility testing. 
+2. The system have an option for preparation of sample 
+work list outside the main equipment. 
+3. System should be able to process 60 Identification or 
+AST Cards at a time. 
+4. Each card should have an inbuilt bar-code and there 
+should be no need to write/paste anything on the cards. 
+5. The system must have an external bar code and there 
+should be no need to write/paste anything on the cards. 
+6. The system must have individual Identification cards 
+for Gram negative, Gram positive, Yeast, Neisseria and 
+Hemophillus, 
+Anaerobic 
+and 
+Bacilli 
+and 
+AST 
+(Antibiotic Susceptibility) Testing cards for Gram 
+Negative, Gram Positive and Yeast. 
+7. The system should have customized cards containing 
+antibiotics most frequently used and prescribed in 
+Indian Hospitals. 
+8. The system should have minimum steps required to set 
+up AST Cards. 
+9. The system should have database of at least 3500 
+reference phenotypes. 
+10. The system use safe, self-contained closed card system 
+versus open panels. 
+11. The discarded consumables from the system should be 
+non-bio hazard. This means the cards should be auto 
+sealed by the system before discarding. 
+12. The Software must have the following capabilities 
+- 
+Workflow management, 
+- 
+Data Storage, 
+- 
+Test Quality Control Management, 
+- 
+Test Result Validation capability and ability to 
+detect antibiotic resistant bacteria. 
+13. The system must have the ability to check the quality of 
+test results and stop for validation by Microbiologists. 
+Results comes with % confidence for the results 
+reported. 
+14. The system should have flexibility to use either CLSI 
+or EUCAST guideline for AST interpretation. 
+15. The system software must have the ability to alert to 
+any unusual resistance mechanism including emerging 
+ones. 
+16. The system must have common minimum consumables 
+for different cards. If additional reagent costs are 
+required please supply details including cost and 
+1 
+
+
+--- Page 30 ---
+ 
+e-TENDER No: AIIMS/BPL/HOSP/18-19/006 
+Rate Contract for Supply, Installation, Testing and Commissioning of Automated Antimicrobial Susceptibility Testing System for Bacteria 
+and Yeasts for Targeted Surveillance(Pg No. 30 of 73) 
+ 
+Tender 
+Item 
+No. 
+Equipment Name 
+Technical Specification/ Description of the 
+requested Equipment 
+Qty.  
+(in 
+No.) 
+preparation time. 
+17. The Supplier must state the mean time to result for 
+identification for Gram Negative, Gram Positive and 
+Yeast. 
+18. The system should provide flexibility of auto-release of 
+completed results of LIS (subject to fulfillment of set 
+criteria). 
+19. The system should provide flexibility for the user to set 
+their own rules (in addition to the ones in the 
+interpretation software) 
+20. The vendor should provide upgradation system 
+software free of cost whenever available. 
+21. The company should provide on sight training for the 
+staff. 
+22. Quoted system should be in market for at least last 3 
+years to ensure quality and reliability.  
+ 
+Part II: Required Supply Delivery Time Schedule: 
+For Indigenous or for imported goods if supplied from India or for imported goods directly from 
+foreign:  Supply, Installation and commissioning to be completed within 60 days for Indigenous Items 
+and 90 days for Imported items from the date of NOA or date of opening of LC or date of approval of 
+layout drawing, whichever is later. 
+ 
+Layout drawing for approval, valid Performance Security and Proforma Invoice (in case of LC 
+opening) are to be submitted within 30 days from the date of release of Supply Order by the 
+Supplier Agency to AIIMS Bhopal. 
+ 
+For delayed delivery and/or installation and commissioning liquidated damages will get applied as 
+per Penalty Clause vide Clause No. 23 given in the General Terms and Conditions Section. 
+ 
+Note: 
+i) 
+Supplier has to submit clear documents for opening of LC to AIIMS Bhopal within 30 days of 
+placement of Supply Order. Any delay will be treated as non-performance and Liquidated Damages 
+shall be levied after the period of 90 days in case of Imported items. 
+ii) 
+In case of multiple LC are opened in favour of   multiple manufacturers, the delivery period for all 
+the items under the contract shall be counted from the date of opening of the first LC only. 
+iii) 
+Indigenous goods or imported goods if supplied from India (offered in INR) which are linked with 
+supply of directly imported goods, are to be supplied within the contractual delivery period of 60 
+days. 
+iv) 
+Since the supplier is not responsible for custom clearing delays and forwarding the goods to 
+consignee site after custom clearance, the time taken for the same shall be not counted for 
+computation of LD. However, time taken by the supplier to rectify the short comings of any 
+document for custom clearing the goods to be counted in the above delivery period and supplier is 
+himself liable for clearing and forwarding items to consignee site. 
+v) 
+             For delayed delivery and/or installation and commissioning liquidated damages will get applied as per 
+General      Terms and Conditions Section vide Clause No. 23 of this  E-Tender Enquiry Document. 
+ 
+
+
+--- Page 31 ---
+ 
+e-TENDER No: AIIMS/BPL/HOSP/18-19/006 
+Rate Contract for Supply, Installation, Testing and Commissioning of Automated Antimicrobial Susceptibility Testing System for Bacteria 
+and Yeasts for Targeted Surveillance(Pg No. 31 of 73) 
+ 
+Part III: Scope of Incidental Services: 
+Installation & Commissioning, Supervision, Demonstration, Trialrunand Trainingetc.as all is the 
+responsibility of Supplier Agency.  
+ 
+Part IV: 
+Site Modification Work(if any)as per details given in Technical Specification/Site requirement to be 
+carried out by the Supplier Agency as per actual requirement on his own cost. 
+Part V: 
+Warranty period will be 60 months from the date of installation, commissioning and acceptance as per 
+Clause No. 14 and 6th to 10th year Comprehensive Maintenance Contract(CMC) as per details in given 
+in the Clause No. 15 in the General Terms and Conditions Section of this  E-Tender Enquiry 
+Document. 
+Part VI: 
+Required Terms of Delivery and Destination: 
+a) For Indigenous goods or for imported goods if supplied from India: 
+At Consignee Site [ i.e. To, The Director, AIIMS Bhopal, Saket Nagar, Bhopal-462020 (MP) ] 
+ 
+b) For Imported goods directly from abroad: 
+The order will before Delivery Duty Paid (DDP) basis. The foreign tenderers are also required to quote 
+their rates on Consignee site Destination basis by giving breakup of the price as per the Proforma 
+prescribed in the Financial Bid Price Schedule. Purchaser will place the order only on Consignee site 
+Destination basis. 
+ 
+Manufacturer/Supplier/Indian Subsidiary of OEM/Authorized Agent of OEM/Bidder shall be 
+responsible for timely lodgment of Bill of Entry (BOE), customs clearing, local transportation and 
+delivery of all goods to the consignee site. Purchaser being applicant of LC ,will be responsible for 
+providing CDEC(if applicable).The information on BoE assessment may be given to the purchaser and 
+the payment of customs duty will be made within the office hours of next working day. 
+ 
+Insurance (local transportation and storage) would be extended and borne by the Supplier or its 
+Indian Subsidiary/Agent from warehouse to the consignee site for a period including 3 months 
+beyond date of delivery. 
+ 
+Note:- All Tenderers should quote Equipment/Items with following approved  
+standards:- 
+ Bidder 
+should 
+produce 
+Certification 
+like 
+DGCI/CE(EUROPEAN)/USFDA/UL/BIS/ISI/CDSCO (which so ever is applicable for 
+Medical 
+Devices/Equipment/Consumables) 
+certifications 
+from 
+competent 
+Licensing/Certification authority with clearly showing validity date in respect of quoted 
+item/Items. 
+ Manufacturers/suppliers should have Valid ISO (i.e. ISO 9001:2015) ISO certification for 
+ensuring quality standards. 
+ Comprehensive onsite warranty inclusive of all spares and  labour should have for 5 years 
+from the Date of acceptance and 5 years CMC after warranty should be quoted by the 
+Bidder.  
+
+
+--- Page 32 ---
+ 
+e-TENDER No: AIIMS/BPL/HOSP/18-19/006 
+Rate Contract for Supply, Installation, Testing and Commissioning of Automated Antimicrobial Susceptibility Testing System for Bacteria 
+and Yeasts for Targeted Surveillance(Pg No. 32 of 73) 
+ 
+ Electrical safety conforms to standards for electrical safety IEC-60601 or better- general 
+requirements. 
+ Certificate of calibration and inspection.  
+ All consumables required for installation, standardization and smooth functioning of 
+equipment for 3 months period should be given free of cost along with supplied 
+Equipment (if any ), the list and its monthly consumption list may also required to be 
+provided by the Bidder Agency.  
+ Substandard items must be replaced within 30 days times by the approved Supplier 
+Agency, if any such intimation received from AIIMS Bhopal in writing. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

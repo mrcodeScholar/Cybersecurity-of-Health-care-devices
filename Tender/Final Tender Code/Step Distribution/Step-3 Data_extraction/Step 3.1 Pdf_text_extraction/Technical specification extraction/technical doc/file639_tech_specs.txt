@@ -1,0 +1,160 @@
+--- Page 15 ---
+NIT No. : AIIMS/R/CS/OBGY/2017/2585/OT 
+15 | P a g e  
+ANNEXURE-I 
+Specifications of High End Colour Doppler System 
+1 
+The system should be  latest & state of the art with fully digital broadband technology 
+equipment to incorporate the facility of 2D, M-Mode, CDI, PW Doppler,Power Doppler, & 
+superficial parts imaging, Obs-Gyn 3D/4D imaging & applications.  
+2 
+System must be offered with a minimum of 3000000 digital processed channels. Technical 
+data sheet should be enclosed in technical bid to support the number of channels on the 
+systems. If not mentioned then attach a letter from manufacturer along with the technical 
+bid clearly stating the digital processed channels of the offered system. 
+3 
+System must be offered with  a very high dynamic range of at least 280 Db  to pick up subtle 
+echoes. Dynamic range in Db must be clearly mentioned  in the technical quote. System 
+offered lesser than specified with not be considered. 
+4 
+System must be offered with a minimum 21 inch High Resolution Flat Panel Medical grade 
+high definition LCD Display Display monitor with nearly infinite position adjustments. 
+5 
+System should have at-least four Imaging universal active probe ports with electronic 
+switching facility from key board without probe adapter. 
+6 
+Operating modes 2D, B-mode,M-Mode, B/M Mode, Doppler Mode,Colour flow,Power 
+Doppler, pulsed wave doppler,High PRF PW continuous wave doppler,chroma imaging, 
+tissue doppler imaging,pulse inversion, cine loop image,DCA/DPA, B/Colour flow, PW 
+Doppler 
+7 
+System should support broad band technology probes spanning a frequency of 1-12 MHz. 
+8 
+B mode & B colour simultaneous should be available side by side real time display of B-Mode 
+& Colour flow. Digital zoom facility for region of interest in real time and frozen images. 
+9 
+Image storage facility on in build hard disc or MOD/CD/DVD-RW facility should be available. 
+In built hard disk with minimum capacity of 320 GB. System should have extensive image 
+management capability including thumb nail review, Cineloop editing etc. 
+10 
+Should have the state of the art Transmit Real Time Compound Imaging Technology with 
+Multiple transmitted lines of sight, wherein Multiple Coplanar Images from different viewing 
+angles are obtained and combined into a single compound Image at real-time frame rates for 
+improved visualization. Should demonstrate and show multiple transmitted line of sight in 
+convex, linear and endocavity  probes. 
+11 
+System must be offered with  Speckle Reduction Imaging : Image processing technique to 
+remove speckles and clutter artifacts 
+12 
+Advanced measurements & calculation package for abdominal, obst./gynae, urology, 
+vascular,MSK,small parts,Pediatric abdomin imaging should be available. 
+13 
+System should be capable of scanning depth of 30cms. Scanning Depth should be clearly 
+mentioned in the technical quote If not mentioned Please attach a letter from manufacturer 
+along with the technical bid clearly stating the scanning depth of 30cms in the offered 
+system. 
+14 
+System must be offered with an 2D frame rate of at least 1600 frames/second. Acquisition 
+frame rate should be clearly mentioned in the technical quote If not mentioned Please 
+attach a letter from manufacturer along with the technical bid clearly stating the frame rate 
+of the offered system. 
+15 
+System must be offered with  minimum 12 inch high resolution user interface touch panel. 
+16 
+System should have THI & should be able to work in combined mode of harmonic imaging 
+and real time compound imaging to get excellent image quality. The system shall offer Tissue 
+Harmonic Imaging in Power Doppler imaging mode for improved sensitivity and specificity in 
+differentiating blood/agent from tissue. 
+
+
+--- Page 16 ---
+NIT No. : AIIMS/R/CS/OBGY/2017/2585/OT 
+16 | P a g e  
+17 
+The system should be field upgradable (CEUS) Contrast Imaging and optimization settings to 
+detect the Contrast Agents for convex, linear & endocavitary transducers.  
+18 
+The system should have Breast & Gynacology Strain Elastography imaging with quality factor 
+(in terms of number or bar graph). One touch entry into Elastography mode. 
+Elastogram applied as a region of interest box with user control of size and location through 
+entire field of view and measurement of strain rate and total strain rate with graphical 
+display. 
+19 
+Automatic real time & frozen tracing of instantaneous peal velocity & instantaneous mean 
+velocity (or frequency) should be available. Triplex Imaging should be standard on the 
+system. 
+20 
+The System should have Panoramic imaging / Sie-scape and extended field of view imaging 
+for at least 60 cms. 
+21 
+The system should be DICOM ready. System should have capability of HIS and RIS  
+connectivity and should also be connected to the dry chemistry printer available in the 
+department ( CR/DR system/ CT/MRI/Mammography). Should provides advanced DICOM 
+connectivity to an enterprise data management system or PACS  with advanced DICOM 
+features: DICOM Store, Modality Work list, Performed Procedure Step and Structured 
+Reporting. Please specify the advance DICOM features available on the quoted system. 
+22 
+The System should be quoted with STIC application for for an easier view of fetal heart 
+valves and wall motion, to aid in detecting anomalies during routine obstetrical exams 
+23 
+The System should be quoted with protocol driven workflow for assessing the fetal heart 
+data set and giving views as recommended by ISUOG Fetal Cardiac Screening Guidelines. 
+24 
+System should have facility to use of entire monitor viewing area for displaying 
+image in B mode,,Color & PW mode 
+ 
+SYSTEM MUST BE  THE FOLLOWING TRANSDUCERS  
+1 
+2–6 MHz Broadband technology Convex Transducer for General Imaging, Abdomen, Renal, 
+OB/GYN  imaging with capabilities of CEUS (contrast enhance ultrasound system) in future 
+upgrade. Must have Tissue Harmonic Imaging for excellent Image quality on Difficult to 
+image patients .should also supply resuable biopsy kit. 
+2 
+4-11 MHz Brondband technology Linear Array Transducer for Breast, Musculoskeletal, small 
+parts, vascular & abdominal imaging with capabilities of strain based Elastography imaging. 
+Must have Tissue Harmonic Imaging. Please mention the Elastography technology used in 
+the transducer by attaching technical data sheet of transducer. should supply resuable 
+biopsy kit. 
+3 
+4-9 MHz Broadband technology Micro convex Transducer for endocavity imaging with 
+capabilities of CEUS and strain based Elastography imaging. Must have Tissue Harmonic 
+Imaging for excellent grayscale image quality on Difficult to image patients with minimum 
+FOV of 170⁰.  Please attach technical data sheet of transducer. Also supply resuable biopsy 
+kit. 
+4 
+2-6 MHz Broadband Mechanical/ motorised Volume Transducer for General Imaging, 
+Abdomen, Renal, OB/GYN  imaging. Must have Tissue Harmonic Imaging . Should attach 
+technical data sheet of transducer to specify. 
+ 
+ 
+ 
+
+
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/OBGY/2017/2585/OT 
+17 | P a g e  
+ 
+System should be supplied with the following peripheral devices : 
+1 
+Thermal B/W Printer. 
+2 
+2 KVA  ONLINE UPS. 
+3 
+Latest Pentium PC(off-cart workstation) with software for analysing and quantification of 2D 
+and 3D data sets. CD/DVD writer with Image Management Software and colour laser Printer. 
+PC should be offered with a flat panel 17 inch display monitor.(Hardware essential for OFF-
+CART Quantification). 
+4 
+The above PC should be offered with the software to work on the below features. 
+4a 
+Elastography quantification like strain rate, strain ratio, total strain and graphs 
+4b 
+Review of 3D/4D, colour 3D and STIC data sets. 
+4c 
+Tomographic Ultrasound Imaging Quantification to analyse and documentation of dynamic 
+studies easier with a simultaneous view of multiple parallel slices of a volume data set. 
+ 
+ 
+ 
+
+

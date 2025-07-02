@@ -1,0 +1,47 @@
+--- Page 68 ---
+ 
+ 
+SECTION – VII  
+TECHNICAL SPECIFICATIONS 
+1. Platform Pedography system- capable of measuring static and dynamic pressure distribution under the foot 
+while standing and walking. 
+2. The system should have stand- alone platform for Stance and Roll-Off analysis.  
+3. The system should work on capacitive based sensors technology. 
+4. It should have more than 2500 capacitive sensors. 
+5. It should have minimum sensing area: 50 x 30 cm 
+6. It should have minimum sampling rate: 100 Hz 
+7. Measuring Range: 1-120 Newton per centimeter square or wider 
+8. Accuracy: ±5% 
+9. Hysteresis : Less than 3% 
+10. It should have Sync. - in/Sync. -out interface. 
+11. It should have software for data collection, analysis, and report generation. 
+12. The report generated should include static load distribution analysis, basic function equilibrium analysis, 
+roll-off analysis.  
+13. The gait parameters should be displayed in the evaluation report. These should include, amongst others, 
+the step length and step width, the stance, swing and double stance phase as well as the cadence. 
+14. The evaluation reports should be freely configurable. The measurement procedure may be observed in a 
+viewer, and if necessary be played back in slow motion. Individual time segments can be selected from the 
+report for further analysis. 
+15. Each sensor should produce its own calibration curve. Should display calibrated pressure values for each 
+sensor. 
+16. Should show 2D and 3D pictures of pressure point, the maximum pressure images, pressure and force 
+curves and the individual phases of the roll off process. 
+17. Should have algorithms for integration of multiple passes across the measurement surface 
+18. Comparative analyses of two measurements should be possible.  
+19. The system can be connected directly to a commercially available PC / laptop via USB interface and require 
+no additional electronics.  
+20. All raw values and the values of the evaluation report can be exported as data files. 
+21. Pedography data should be compatible with CAD/CAM systems for the manufacturing of custom-made 
+inserts. 
+22. The Bidder should quote optional video camera - 2 Nos. - for video synchronization, and Bluetooth 
+telemetry EMG for muscle function to analyze forces parallel to the ground reaction forces.  
+23. System should be supplied with Laptop of suitable configuration. 
+24. Should come with a stand for the evaluation computer with facilities for mounting optional camera and 
+lighting units. 
+25. The system should be IEC/European CE/USFDA approved. 
+26. The system should have minimum 5 years warranty. 
+ 
+ 
+ 
+
+

@@ -1,0 +1,104 @@
+--- Page 13 ---
+ 
+Dr Annapurna_________    Dr Yadukul_________   Dr Parag Patil Parshuram_____     Dr Seetu Palo_________ 
+ 
+Annexure “A”
+ 
+ 
+ 
+ 
+TECHNICAL SPECIFICATION FOR PRINTER WITHOUT SCANNER 
+S No Features 
+Technical Specifications 
+(a) 
+Printer Technology 
+Laser Jet- with Wireless & Composite Toner cartridge 
+(b) 
+USB Port 
+Yes and Wireless 
+(c) 
+Type of Cartridge 
+Toner, Composite Toner cartridge 
+(d) 
+Type of Printing 
+Monochrome with 64 MB RAM 
+(e) 
+Duty Cycle 
+Min 10000 pages 
+(f) 
+Print Speed 
+20 PPM or Higher 
+(g) 
+Onsite warranty 
+3 years 
+(h) 
+Print resolution 
+600 X600 dpi 
+(i) 
+Print resolution (Best) 
+1200 X 1200 dpi 
+(j) 
+Certificate & 
+Complinace 
+Min CECP, CISPR, IEC, FCC or Mopria certified 
+ 
+ 
+ 
+ 
+ 
+ 
+TECHNICAL SPECIFICATION FOR PRINTER WITH SCANNER 
+  (MULTIFUNCTION MACHINE MFM) 
+S No Features 
+Technical Specifications 
+(a) 
+Type of Machine 
+Multifunction Machine MFM 
+(b) 
+Duplexing feature 
+Yes/Manual duplex 
+(c) 
+Printer Technology 
+Laser Jet & Composite Toner cartridge 
+(d) 
+Wireless connectivity 
+Yes & fax 
+(e) 
+USB Port 
+Yes 
+(f) 
+Scanning Features 
+Yes, & 40 page ADF 
+(g) 
+Type of Printing 
+Monochrome with 128 MB RAM 
+(h) 
+Onsite warranty 
+3 years 
+(i) 
+Print resolution 
+600 X600 dpi 
+(j) 
+Print resolution (Best) 
+1200 X 1200 dpi 
+(k) 
+Certificate & 
+Complinace 
+Min CECP, CISPR, IEC, FCC or Mopria certified 
+(l) 
+Print Speed 
+20 PPM or Higher 
+(m) 
+Duty Cycle 
+Min 20000 pages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

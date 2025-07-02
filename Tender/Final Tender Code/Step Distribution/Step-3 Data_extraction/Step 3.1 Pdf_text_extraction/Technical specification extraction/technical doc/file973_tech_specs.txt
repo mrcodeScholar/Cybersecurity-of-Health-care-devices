@@ -1,0 +1,143 @@
+--- Page 41 ---
+ 
+Tender Enquiry No.: AIIMS/ R/CS/Bio/03-259/GTE 
+Page 41 of 65 
+ 
+SECTION – VII TECHNICAL  SPECIFICATIONS 
+Technical specification for Supply and installation of Digital Polymerase Chain Reaction System 
+(PCR) 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against  manufacturing defect  
+2. All instruments should be corrosion resistant, autoclavable, BIS/European CE certified / USFDA 
+approved. 
+3. Manufacturer should be ISO Certified. 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly marking the 
+Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the firms. 
+6. L-1 will be decided on total value only. 
+7. All firms should have supplied the quoted instruments to the reputed central government hospitals 
+like AIIMS, PGI, etc. and should submit a certificate of satisfactory working from the concerned 
+government hospital. 
+TECHNICAL SPECIFICATIONS FOR “Digital Polymerase Chain Reaction System (PCR)” 
+ 
+A. Digital PCR System 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. The Digital PCR system should be a fully integrated automated platform with either micro fluidic 
+nanoplate or microchamber based or droplet-based technology. System should be able to perform 
+Partitioning, Cycling, and Acquisition (Imaging) in Single Integrated System.  
+2. The system should be able to partition each sample into minimum 20,000 uniform partitions 
+/microchambers / nanoliter droplets for each sample and PCR should be carried out to end point in 
+the system.  
+3. System should be able to perform various applications such as rare DNA or RNA target detection, 
+determine copy number variation, NGS library quantification, viral load detection etc. System 
+should also offer absolute quantification of the target.  
+4. The system should stream single file through the reader for fluorescence analysis. 
+5. Positive microchamber/Droplet, should contain at least one copy of the target DNA or RNA 
+molecule, to exhibit increased fluorescence compared to negative droplets. 
+6. The fraction of PCR-positive partitions should enable the target to be quantified.  
+7. System should have minimum of 2 detection channel (FAM, HEX/VIC).  
+8. System should use LED (Light-emitting diodes) for sample illumination. 
+9. Sample image acquisition should be either through a CMOS camera or PMT or multiple photon 
+counter.  
+10. Starting reaction volume should be up to 40ul 
+11.  There should be Provision of running samples in a combination of 4 wells only uses per run 
+(NTC, PC, NC and patient’s sample). Unused wells / chambers (per plate) should be usable for 
+subsequent patient’s sample to prevent wastage of PCR plate.  
+12. System should provide Precision of ± 10%. 
+13. System should be able to detect mutant/variant for the frequency of up to 0.1% on the background 
+of 10,000 wild type copies.  
+B. Digital PCR system should be equipped with onboard control software.  
+1. 
+Software should display fluorescence measurement per droplet/microchamber/partition in all 
+detection channel (FAM and HEX Channel) 
+2. 
+Software should offer Shows multiplex data for minimum two fluorophores per droplet 
+3. 
+Should Offer Absolute quantitation & copy number variation analysis 
+4. 
+Latest available, Licensed version of the Application Software should be supplied for the 
+complete warranty & CMC period (5+5 years) . 
+
+
+--- Page 42 ---
+ 
+Tender Enquiry No.: AIIMS/ R/CS/Bio/03-259/GTE 
+Page 42 of 65 
+ 
+5. 
+System software should allow users to access all images acquired by the Digital PCR system for 
+each channel.  
+6. 
+Software of the system should offer display of fluorescence measurement, show multiplex data, 
+graphical and tabular representation of data, data acquisition and analysis, report generation, 
+export results, etc.  
+7. 
+Data graphs and tables should be able to be exported into Excel and should also be printable from 
+menu.  
+8. 
+Software should compute concentration in copies/ul for each sample from replicate wells 
+9. 
+Software should automatically set thresholds across the entire plate or for individual wells. 
+Additionally, the user should also be able to manually set threshold for entire sample plate or for 
+individual samples 
+10. Time to result should be less than 2 hours 
+C. Digital PCR Reagents: 
+All the required consumables and reagents (like Cartridges and Gaskets, Digital PCR plates, Fluidics 
+verification kit, Spectral verification kit, buffer control kit, Calibration Dye, oil for droplet generation) 
+and any other accessories for processing and analysis should be quoted along with the suitable control 
+kit. Subsequently if it is realized that any consumable needed for sample processing and analysis, is 
+not listed or quoted, has to be supplied by the vendor free of cost.  
+D. Micropipette (2 quantity of each) with corresponding tip boxes of the volume 100 ul , 1000 ul , , 
+20 ul , 200 ul and 5-50 ul , are to be supplied along with. The same should be calibrated from NABL 
+accredited laboratory at 6monthly basis along with calibration certificates for entire period of warranty 
+and CMC.    
+E.  Machine should be supplied with Latest and factory recommended computer with laser printer & 
+scanner should be provided for data acquisition & analysis. System should be inclusive of all required 
+hardware, software, drivers, adequate storage and RAM modules. 
+F. 3 KVA online UPS and a 2 ton 5* Split AC should be provided with the system.  
+G. Warranty of 5 years should be provided. Price for CMC for 5 years post warranty should be freeze 
+during quotation. Warranty should cover integrated system, UPS, Computer, scanner and AC.  
+H. Final installation certificate would be issued by the department after proper training of manpower at 
+installation site. The consumables and reagents required for the onsite training is to be borne by the 
+supplier.  
+ 
+   
+ 
+ 
+ 
+• Technical compliance report should be submitted in following format: 
+ 
+Sr. 
+No. 
+Item Description as 
+per Tender 
+Complied 
+Yes/No 
+Item Description 
+offered by Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,90 @@
+--- Page 12 ---
+Tender for Supply of Laptops   
+  
+          Admn/Tender/134/2017-AIIMS.JDH      
+Page 11 of 16 
+ 
+Annexure – I 
+Specification  
+Processor Make 
+Intel 
+Processor Generation 
+7th 
+Processor 
+Intel Core i7-7500U (upto 3.5 GHz, 4 MB cache, 2 cores) 
+Graphics Type 
+Integrated 
+Graphics 
+Intel® Integrated Graphics 
+Graphics Memory 
+NA 
+Operating System 
+Windows 10 Professional 
+Type Of Hard Disk Drive 
+SATA 
+Hard Disk Drive Size 
+1000 GB 
+Hard Disk Drive Speed 
+7200 rpm 
+Type Of RAM 
+DDR 4 
+RAM Speed 
+2133 MHz 
+RAM Size 
+8 GB 
+Expandable RAM 
+16 
+Wi-fi Connectivity 
+802.11 ac 
+Bluetooth 
+4.0 or higher 
+USB 2.0 
+1 No. 
+USB 3.0 Or Higher 
+2 No. 
+USB Type C 
+Not-Available 
+VGA Port 
+Available 
+HDMI Port 
+Available 
+DISPLAY PORT 
+Not-Available 
+Thunderbolt Port 
+Not-Available 
+Display Size 
+14 Inch 
+Display Resolution 
+1366 x 768 Pixel 
+Display Type 
+Non Touch 
+Keyboard 
+Backlit 
+Optical Drive 
+External 
+ROHS Compliance 
+Yes 
+Certification 
+BEE 
+BIS Registration 
+Yes 
+Trusted Platform Enabled 
+Yes 
+Finger Print Reader 
+Yes 
+Battery (Li-Ion/Li-Polymer) Bulit-In 
+Battery Back-up 
+6 Hours 
+Weight (With Battery) 
+1.8 Kg 
+Battery Warranty 
+1 Year 
+Warranty 
+3 Year 
+Carry Case 
+Included 
+ 
+Administrative Officer 
+AIIMS, Jodhpur 
+
+

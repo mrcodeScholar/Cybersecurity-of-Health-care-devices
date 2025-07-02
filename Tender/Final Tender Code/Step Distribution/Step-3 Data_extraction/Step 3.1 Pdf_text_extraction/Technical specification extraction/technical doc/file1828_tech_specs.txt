@@ -1,0 +1,99 @@
+--- Page 12 ---
+Tender for Supply & Installation of Desktop   
+  
+          Admn/Tender/133/2017-AIIMS.JDH      
+Page 11 of 16 
+ 
+Annexure – I 
+Specification  
+Recommended Make  
+Dell or HP 
+Processor Make 
+Intel 
+Hard Disk 
+500 GB 
+Power Supply 
+180 Watt 
+Internal Bays 
+1 No. 
+Cabinet 
+Small Form Factor 
+USB Port 2.0 
+4 No. 
+Type Of RAM 
+DDR 4 
+RAM Speed 
+2133 MHz 
+Power Efficiency 
+85 % 
+External Bays 
+1 No. 
+USB Port 3.0 
+2 No. 
+Processor 
+Intel Core i7-6700 (3.4 GHz, 8 MB Cache, 4 Cores) 
+Chipset 
+Intel H110 
+Graphics Type 
+Integrated 
+Graphics 
+Intel HD Graphics 530 
+Operating System (Pre-Loaded) 
+Windows 10 Professional 
+RAM Size 
+4 GB 
+RAM Expandability 
+32 GB 
+DIMM Slots 
+2 No. 
+Optical Drive 
+DVD Writer No. 
+Cabinet Volume 
+21.65 Litres (Max) 
+Network Connectivity 
+10/100/1000 on board Integrated Gigabit Port 
+Expansion Slots (PCI) 
+0 No. 
+Expansion Slots (PCIe X 1) 
+1 No. 
+Expansion Slots (PCIe X 16) 
+1 No. 
+Serial Port 
+Not-Available 
+Parallel Port 
+Not-Available 
+Monitor Resolution 
+1440 x 900 PIXELS 
+Keyboard 
+Standard 
+Mouse 
+Optical 
+Speakers 
+Yes 
+Energy Star For The Given Model 
+Yes 
+ROHS Compliance 
+Yes 
+Warranty 
+3 YEAR 
+Monitor Size 
+19.5 INCHES 
+Processor Generation 
+6th 
+VGA 
+Available 
+HDMI 
+Not-Available 
+Display Port 
+Not-Available 
+DVI-D 
+Available 
+DVI-I 
+Not-Available 
+Monitor Certification 
+TCO 6.0 
+ 
+Administrative Officer 
+AIIMS, Jodhpur 
+
+

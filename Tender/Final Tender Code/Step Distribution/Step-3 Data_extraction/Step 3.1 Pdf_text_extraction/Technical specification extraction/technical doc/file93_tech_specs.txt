@@ -1,0 +1,70 @@
+--- Page 10 ---
+Tender for Portable X Ray Machine  
+Admn/Tender/12/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable X 
+Ray 
+Machine  
+General specifications: 
+1. State of Art High frequency microprocessor controlled Portable X 
+Ray system with integrated Computed Radiography system having 
+following features: 
+2. Compact, lightweight, easily transportable mobile High Frequency 
+X-Ray unit for bedside x-Ray rays, trauma, Intensive care units, 
+Operation theatres and Radiology department. 
+3. The unit should be fully counter balanced and can be positioned to 
+suit different bed heights. The unit should have facility of vertical 
+swing and horizontal rotation of the tube head to ensure X- Ray of 
+any anatomy even with in limited space. 
+4. The unit must have an effective braking system for parking and 
+transport. 
+5. The exposure release switch should be detachable with a cord of 
+sufficient length (at least 3 m) 
+6. The Generator: 
+a. Microprocessor controlled high frequency/inverter type of high 
+frequency (80 KHz or more) for constant output. 
+b. It should have power rating of at least 4kW or more 
+c. It should have a digital display of mAs and kV. 
+d. KVrange:40 kv to 100kVormore 
+e. mArange:10 mA to 100mAormore 
+f. KVselection: 40 kV to 100 kv, selectable in 1 kV steps 
+g. mAS selection: 0.1 to 250 mAS 
+h. It should have over loading protection. 
+i. It should have APR feature 
+7. X-RayTubeandCollimator: 
+a. Stationary / Rotating anode having focal spot size less than 2mm 
+b. Output of tube should match with that of generator. 
+c. Light Beam diaphragm/ Double layer Collimator with auto cutoff 
+switch. The light intensity shall be at least 160 lux at1mtr distance 
+from focal spot. 
+8. The unit should operate on single phase power supply and should 
+have plug in facility to any standard wall outlet with automatic 
+adaptation to line voltage 200 to 240volts, 15Amp plug. 
+9. The Leakage radiation level at 1 meter from the focus should be less 
+than 70 mR. Products having minimal leakage radiation level will be 
+preferred. (Please attached relevant test report) 
+10. The Systems should be fully safe with respect to 
+a. Overcurrent 
+b. Overvoltage 
+c. Maximum loading of tube 
+11. Power input to be220-240VAC, 50Hz fitted with Indian plug. 
+12. The product should be CE or USFDA approved. 
+Should bean AERB approved product 
+01 
+
+

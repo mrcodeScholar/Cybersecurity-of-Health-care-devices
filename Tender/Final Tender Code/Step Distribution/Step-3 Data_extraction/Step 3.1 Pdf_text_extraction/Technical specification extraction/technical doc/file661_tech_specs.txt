@@ -1,0 +1,188 @@
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/URO/18/17/OT 
+ 
+ 
+Page 17 of 22 
+ 
+ANNEXURE-I 
+Technical Specification 
+Sl. No. 
+Item Descriptions 
+1 
+Specifications for 2D Endovision system for Endourology & Laparoscopy. 
+A. Full High Definition, 2-D, Digital Camera Head and Video Processor Unit: (Qty. 01) 
+1. “3-Chip”, full HD camera head with pure digital signal with high definition video of 
+1920x1080p native resolution and progressive scan technology both on camera head and 
+video processor unit and the consistent use of 16: 9 formats for Input & Output to 
+guarantee genuine HDTV. 
+2. Image Sensors (Camera Head): 3-Chip CMOS/ 3-Chip CCD technology. 
+3. Image Resolution: 1920x1080p pixels per chip or higher.  
+4. Observation modes: Should be compatible for; 
+(a) White light Imaging (WLI)- for general purpose use. 
+(b) Narrow Band Imaging (NBI)- special filter light for observation of capillary vessels and 
+fine patterns in the superficial layer of mucosa for early detection of lesions. 
+(c) Indocyanin green (ICG) fluorescence detection capability by Near Infra Red (IR) light. 
+The Individual components (Light source, camera system, telescopes and fiber optic cable) 
+are perfectly aligned to ICG HD system/Special filter light (NBI) for observation of capillary 
+vessels and fine patterns in the superficial layer of mucosa for early detection of lesions. 
+5. The system should have digital and/or optical zoom to enhance the quality of image size 
+& cross speciality standardization of the camera system, regardless of the telescope used. 
+6. Two or more peripheral controls on camera head including digital zoom and white 
+balance and ability to control supplied Video Documentation Unit. 
+7. Integrated electronic gain/shutter/enhancement with automatic brightness control. 
+8. AGC: microprocessor controlled. 
+9. Video Outputs: DVI/ HD-SDI/ Equivalent HD. 
+10. The system should automatically optimize all settings. Plug and play with auto-
+detection 
+of input source. 
+11. The system should be menu driven, thus allowing the surgeon to program the camera 
+head functions as per the surgical needs & requirement. 
+12. Camera module should be compatible for future use with Flexible Video 
+Ureterorenoscope. 
+13. Should be fully immersible in disinfection solution. Gas and Plasma Sterilization 
+compatible. 
+14. Power supply: 100-240 V AC; 50/60 Hz. 
+15. Classification (Medical Electrical Equipment):   
+-Type of protection against electric shock: Class I 
+
+
+--- Page 18 ---
+NIT No. : AIIMS/R/CS/URO/18/17/OT 
+ 
+ 
+Page 18 of 22 
+ 
+B. High Resolution Monitor: (Qty. 01) 
+1. Full High Definition 1920x1080p native resolution, Medical Grade, LED/LCD crystal 
+display, Colour Monitor, 26-inch size or more, Flat Panel Monitor. 
+2. HDTV display in original 16: 9 HDTV format. 
+3. PAL system compatible. 
+4. Video Inputs: DVI/ HD-SDI /Equivalent HD  
+5. Video Outputs: DVI/ HD-SDI /Equivalent HD  
+6. Multi-modality display capability, including Picture in Picture (PIP) and Clone Out 
+function with various image size combinations to Video Documentation Unit. 
+7. Power supply: 220-240 V AC; 50 Hz. 
+8. Electric shock protection: Class 1 [IEC-60601/IS-13450]   
+C. Light Source: (Qty. 01) 
+1. LED based cold light source. 
+2. Colour temperature should be 5800K or more. 
+3. "LED light source” for general purpose use and ICG imaging. If LED not available for ICG 
+imaging purpose the vendor may offer “LED source” for general purpose and “Xenon light 
+source” compatible with ICG imaging. 
+4. Light Intensity Adjustment: Continuously adjustable either manually or automatically by 
+cameras video output signal. 
+5. Should be supplied with fiber optic light cable of length 250cm or greater with capability 
+for Indocyanin green (ICG) fluorescence evaluation with adaptors. 
+6. Facility of switching between white light and Near Infra-Red light (IR) for ICG HD and 
+special filter light (NBI) for observation of capillary vessels and fine patterns in the 
+superficial layer of mucosa for early detection of lesions. 
+7. Power supply: 220-240 V AC; 50 Hz. 
+8. Electric shock protection: Class 1 [IEC-60601/IS-13450]   
+-Type of protection against electric shock: Class I 
+D. Carbon dioxide Insufflator: (Qty. 01) 
+1. Microprocessor controlled & Software driven for upgradeability. 
+2. Gas flow: minimum flow rate of 1 L/minute or lower; maximum flow rate of 40L/min or 
+higher. 
+3. LCD display for settings and current measurements: pressure, flow rate & volume of gas 
+consumption. 
+4. Should have visual and audible alarms for pressure exceeding over set limit, low gas 
+pressure at source, tube blockage.  
+5. Constant measurement of intra-abdominal gas pressure, internal venting system for 
+safety. 
+6. Integrated Gas heating system for preheating gas to body temperature to prevent 
+
+
+--- Page 19 ---
+NIT No. : AIIMS/R/CS/URO/18/17/OT 
+ 
+ 
+Page 19 of 22 
+ 
+peritoneum for cooling down. 
+7. Gas heating adaptor and autoclavable tubing for connection to ports with essential 
+adaptors. 
+8. Tubing (1 meter or longer) and connectors for gas cylinder and central gas supply with 
+wrenches/ devices essential to make the connections. 
+E. HD Video Documentation system: (Qty. 01) 
+1. Capability of receiving signals and recording video from HD endoscopic cameras, digital 
+x-ray units and ultrasound machines. 
+2. Record in HD at 1080p. 
+3. Ability to transfer captured still images and video files to external media using USB and 
+in DVD recorder. 
+4. Video recording file format should be in “AVC-HD” format. Image recording file format 
+should be in JPEG or BMP or TIFF. 
+5. Camera Head Triggering Control from existing HD Camera head buttons to capture 
+image or to start/stop video recording. 
+6. Internal recording hard drive should be 300GB or more and 2TB external online storage 
+should be provided. 
+7. Video inputs: HD/SD-SDI, DVI or equivalent HD 
+8. Video outputs: HD/SD-SDI, DVI or equivalent HD 
+9. Capability for simultaneous recording on external device through USB interface on front 
+panel. 
+10. Capacity for images to be printed with USB attached printers. 
+11. Front panel should display recording status. 
+12. Should have smart screen for display of recorded videos. 
+13. Should be able to record both 2D & 3D HD videos. 
+14. Should be dual channel recording system. 
+15. High medical grade electrical shock protection according to [IEC-60601/IS-13450]. 
+F. Video cart and monitor arm: (Qty. 01) 
+1. Must be of the same manufacturer as the main equipment except the UPS. 
+2. Coated good quality rust free and should be able to take load minimum up to 70 Kg. 
+3. Mobile Lockable Universal Video Trolley including 4 shelves, 3 of which are fully height 
+adjustable and one drawer. 
+4. The quoted 26-inch or more panel flat monitor must be mounted on a mobile monitor 
+arm for adjustment of position of the monitor with 2 articulations on the arm. 
+5. Integrated cable ducts, 4 Anti-static Smooth-Running Wheel Casters, Atleast 2 of which 
+can be locked. 
+6. CO2 bottle stand should be integrated with trolley. 
+7. High medical grade electrical shock protection according to [IEC-60601/IS-13450]. 
+
+
+--- Page 20 ---
+NIT No. : AIIMS/R/CS/URO/18/17/OT 
+ 
+ 
+Page 20 of 22 
+ 
+8. Basic Electrics to connect up to 12 Electrical Units. 
+9. Mains Voltage, 220-240 V, with Main Switch, Isolating Transformer. 
+10. All cabling must be internal and concealed. 
+11. UPS (Qty. 1): Compatible UPS with 30Min Battery back-up and surge protection 
+facility.   
+G. Rigid telescopes: 
+1. 10mm diameter, 30-32cm length, forward oblique, 30 degrees viewing laparoscope, 
+autoclavable with fiber-optic light transmission incorporated with Indocyanine green and 
+autofluorescence detection capability. (Qty. 01) 
+2. 10mm diameter, 30-32cm length, forward oblique, 30 degrees viewing laparoscope, 
+autoclavable with fiber-optic light transmission incorporated for general laparoscopy use. 
+(Qty. 01) 
+H. General 
+1. All equipment supplied must be the latest models of the quoted versions. 
+2. All items should be from same manufacturer except UPS. 
+3. All required power cables and video transmitting cables for proper functioning of 
+“Endovision Unit” should be provided. 
+4. The vendor must ensure that all items/accessories necessary to obtain the full benefit 
+and functionality of all equipment in the Urology OT are provided. 
+5. Complete installation of the equipment has to be done by the vendor. 
+6. Should be BIS/ European CE with 4-digit notified body no./ US FDA approved for 
+the quoted model. 
+7. Original product data sheets, complete manuals and other necessary documents should 
+be provided. Photocopies of these documents or printouts of the email/web pages will not 
+be accepted. 
+ 
+ 
+Instructions for Online Bid Submission: 
+The bidders are required to submit soft copies of their bids electronically on the CPP Portal, using 
+valid Digital Signature Certificates. The instructions given below are meant to assist the bidders in 
+registering on the CPP Portal, prepare their bids in accordance with the requirements and submitting 
+their bids online on the CPP Portal.  
+More information useful for submitting online bids on the CPP Portal may be obtained at: 
+https://eprocure.gov.in/eprocure/app. 
+REGISTRATION 
+1) Bidders are required to enroll on the e-Procurement module of the Central Public Procurement 
+Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on the link “Online bidder 
+Enrollment” on the CPP Portal which is free of charge. 
+2) As part of the enrolment process, the bidders will be required to choose a unique username and 
+assign a password for their accounts.  
+
+

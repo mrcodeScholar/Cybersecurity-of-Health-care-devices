@@ -1,0 +1,124 @@
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Micro/226(I)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+ 
+Technical Specifications for the Gradient Thermocycler 
+1. Six or more separate Peltier blocks should be provided in the instrument which provide maximal 
+versatility and flexibility for: 
+i. 
+PCR optimization: Specific temperature can be set for each blockfor precise control over PCR 
+optimization. 
+ii. 
+At least six or more different annealing temperature must be set simultaneously in the 
+instrument so that six or more run can be set simultaneously in the same run. 
+iii. 
+For providing gradient function instrument must be able to provide six or more temperature 
+zones for PCR optimization. 
+2. Block for 96 × 0.2 ml tubes; possibility to use block with 48 × 0.5 ml tubes and 96-well PCR 
+plates. 
+3. Blocks must be resistant to oxidation. 
+4. Heating rate: 4 ºC/s., Cooling rate: 2 ºC/s. 
+5. Temperature range (block): 4–100 ºC. 
+6. Regulating accuracy for block temperature: ±0.1 ºC. 
+7. Temperature uniformity at 70 ºC (block): ±0.4 ºC. 
+8. Dimension should be within Width (22 to 28cm) x Height (20 to 29cm) x Depth (40 to 50 cm) 
+9. Internal memory for at least 50 programs with up to 99 steps/program, freely editable. 
+10. Should have large color touch screen which enable easy operation with finger tip and setting up of 
+cycle, easy view of temperature profile of during running of  cycle etc.  
+11. Instrument should have USB port for easy portability of data . 
+12. Heatable lid with automatic height adaptation. 
+13. Electromechanical lid blocking to prevent accidental opening during a run. 
+14. Temperature range for lid: 80 ºC to at least 103 ºC. 
+15. Optional: Interface for remote control via PC; activated RS 232 serial port. 
+16. Electricity requirements 
+i. 
+Supply voltage: 230 ± 10 V, AC, 50/60 Hz. 
+ii. 
+Voltage and plugs to be adapted to meet the Indian supply requirements. The line cord / Power 
+cord supplied with the equipment shall be of acceptable durability, length, and current 
+carrying capacity complying with Indian Standards. 
+iii. 
+Power consumption: Approximately 500 W. 
+iv. 
+Conform to electrical safety standards IEC 60601–1, UL 61010–1, EN 61010–1. 
+v. 
+Protection class (in accordance with EN 60529). 
+ 
+vi. 
+Designed not to interfere with circuit radio (in accordance with EN 55014). 
+vii. 
+Must be supplied with branded Online Sinewave UPS 2KVA with branded batteries providing 
+back up of at least 2 hours of uninterrupted power supply in case of power failure. The vendor 
+
+
+--- Page 21 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Micro/226(I)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+must mention the make rating etc of UPS and batteries in the bid. The UPS with batteries must 
+be compatible with the instrument. A five year warranty or replacement of UPS with batteries 
+is required in case of non-functioning/malfunctioning/decay of batteries etc.  
+17. Documentation 
+i. 
+Manufacturer’s certificate 
+ii. 
+The manufacturer must have a management system certified to ISO 9001. 
+iii. 
+One certificate to state that the thermocycler has been calibrated at the factory and certified 
+according to ISO 13485 quality regulations. 
+iv. 
+Quality and safety standards met by the product must be listed. 
+18. Operation, maintenance and installation 
+i. 
+Operation and maintenance manual (to be supplied in original, no photocopy will be 
+entertained) 
+ii. 
+At least one set of operation, maintenance and service manuals written in English. 
+iii. 
+The bidder must arrange for the equipment to be installed by certified or qualified personnel; 
+any prerequisites for installation to be communicated to the purchaser in advance, in detail. 
+iv. 
+Supplier must agree to provide IQ, OQ and PQ certification at the time of installation or as per 
+the convenience of end user of the institute. 
+v. 
+The bidder to also provide user onsite training (including how to use and maintain the 
+equipment) and a comprehensive maintenance plan on mutually agreed dates with the 
+indenting department. The cost of the maintenance plan to be defined and guaranteed over the 
+period of warranty.  
+vi. 
+The supplier to provide an after-sale service by competent staff, adequate infrastructure and 
+sufficient spare parts to be able to respond to any complaints and to repair or replace the 
+thermocycler within 7days.A half yearly essential service visits by service engineer has to be 
+provided by supplier which may include training and up gradation of technicians and faculty 
+and calibration and maintenance of instrument (with or without complaint visits). The 
+maintenance services should be such that the equipment remains in working conditions during 
+95% of warranty and CMC period.  
+19. Standard maintenance tools: All standard accessories, consumables and parts required to 
+operate the equipment, including all standard tools and cleaning and lubrication materials, to be 
+included in the offer. Bidders to specify the quantity of every item included in their offer 
+(including items not specified above). 
+20. Spare parts: Thermocycler to be accompanied by an authorized list of accessories and spare 
+parts. Set of fuses, if used separately in the instrument. 
+21. A five year comprehensive warranty with spares and accessories to be provided by the bidder. 
+
+
+--- Page 22 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Micro/226(I)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 22 
+ 
+22. A CMC for next 5 years (after completion of successful warranty period)with spares and 
+accessories needs to be included in quote. Complete price should be quoted for different 
+consumables/spare parts which will be used in future in the machine.  These prices should be 
+freezed for subsequent five years and in case of reduction of price the lower price to be 
+communicated and to be charged by the supplier. Undertaking must be given by the supplier in 
+this regards. 
+ 
+
+

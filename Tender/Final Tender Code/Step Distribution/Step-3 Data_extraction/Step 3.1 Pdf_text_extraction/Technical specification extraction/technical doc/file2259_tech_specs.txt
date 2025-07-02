@@ -1,0 +1,540 @@
+--- Page 16 ---
+ 
+Tender No. AIIMS Bhopal/IT/Store/Purchase & Rate Contract for Printers/2015-2016/01            
+Page No. (16 ) 
+S. No. 
+Item Name 
+Technical Specification  
+Complain 
+make and 
+model by 
+bidder  
+1 
+ 
+Laser Printer - 
+Simple Print 
+Facility 
+(Black and 
+White) 
+Print speed 
+Up to 15 ppm letter 
+First page out 
+Less than 10 seconds 
+Resolutions 
+1200 dpi effective output  quality ( 600 by 600 
+dpi 
+Processor 
+234 mhz 
+Memory 
+ 2 mb ram 
+Duty  cycle 
+ 5000 pages per month 
+Media 
+  
+Input  
+ 150 sheet input  tray,single sheet 
+  
+Specialty paper input slot 
+Out put 
+ 100 sheet face down bin 
+Sizes 
+Main tray: 5.8 by 8.27 to 8.5 by 14 in (147 by 
+  
+ 211 to 216 by 356 mm) input slot 3 by 5 in to  
+  
+8.5 by 14 in (76 by 127 mm to 216 by 356 mm) 
+  
+Letter, legal, executive, envelopes ( no. 10 
+monarch) 
+Weight 
+Main tray:16 to 28 ib band ( 60 to 105 g/m) 
+input 
+  
+Slot 16 to 43 i bond ( 60 to 163 g/m) 
+Types 
+Paper ( plain, LaserJet, photo) envelopes  
+  
+Transparencies, labels, cardstock, postcards 
+Connectivity 
+  
+Interfaces 
+Hi speed usb 2.0 port 
+Languages 
+Host based printing 
+Client operating 
+systems 
+Microsoft® windows 2000 and xp 32 bit 
+Dimensions (w by d by 
+h) 
+14.6 by 9.5 by 8.2 in ( 370 by 242 by 209 mm 
+Weight 
+11 ib ( 5 kg) 
+What's in the box 
+Print  
+  
+Cartridge, getting started guide ,cd ( includes 
+software  
+  
+And user guide) power cord 
+Warranty  
+Three year warranty 
+ 
+ 
+Spare Toner 
+Cartridge 
+Laser Printer - 
+Simple Print 
+Facility 
+ 
+ 
+ 
+ 
+ 
+ 
+Printer Technical Specification as per above 1st Items 
+ 
+2 
+Laser Printer 
+All- in One -
+Print  speed  
+Up 14 ppm letter 
+First page out 
+Less than 8.5 seconds from power save mode 
+ 
+
+
+--- Page 17 ---
+ 
+Tender No. AIIMS Bhopal/IT/Store/Purchase & Rate Contract for Printers/2015-2016/01            
+Page No. (17 ) 
+Print, Copy 
+&Scanning 
+Facility 
+(Black and 
+White) 
+Resolution 
+Up to  600 by 600 dpi ( 1200 dpi effective 
+output),re 
+Enhancement, 
+Fastres 600(600 dpi effective output)  fast 
+Technologies 
+Res  1200 ( 1200 dpi effective output) 
+Processor 
+266 mhz 
+Memory 
+2 mb ram,64 kb eeprom   for nvram 
+Recommended  
+25 to  1500 pages 
+Monthly volume 
+  
+Maximum  
+Up to 5000 pages 
+Monthly duty cycle 
+  
+Languages 
+Host-based 
+Paper  
+  
+Input 
+150 sheet adjustable main tray 
+Output 
+100 sheet output bin 
+Two sided printing 
+Manual two sided printing 
+Sizes 
+Letter,legal,executive,postcards,envelops ( no 10 
+  
+Monarch ) custom sixes 3 by 5 in ( 76 by 127 mm) 
+  
+To 8.5 by 14 in ( 216 by 356 mm) 
+Weights 
+16 to 43 ib bond ( 60 to 163 g/m) 
+Types 
+Paper ( laser,plain,rough,vellum,archive) envelopes, 
+  
+Labels,cardstock,transparencies 
+Connectivity 
+  
+Interfaces 
+Hi speed usb 2.0 port 
+Operating systems 
+Windows®  2000,xp  home,xp® professional x 64, 
+  
+Windows server 2003 ( 32/64 bit) works with 
+  
+ windows vista , mac  os x v 10.3, v 10.4 and v 10.5  
+Dimensions ( w by d by h) 
+13.66 by 8.82 by 7.64 in ( 347 by 224 by 194 mm) 
+Weight ( without print 
+cartridge 
+10.3ib ( 4.7 kg) 
+What"s in the box 
+Print cartridge, greeting started  guide,printer 
+  
+Documentation and software on  cd-rom ,support 
+flyer, 
+  
+Power cord 
+Warranty 
+Three year limited warranty 
+ 
+Spare Toner 
+Cartridge 
+Laser Printer 
+All- in One -
+Print, Copy & 
+Scanning 
+Facility 
+Printer Technical Specification as per above 3rdItems 
+ 
+3 
+Laser Printer 
+All- in One -
+Print, Copy, 
+Scanning & Fax 
+Facility 
+(Black and 
+White) 
+Print  speed  
+Up 20 ppm letter 
+First page out 
+Less than 8.5 seconds from power save mode 
+Resolution 
+Up to  600 by 600 dpi ( 1200 dpi effective 
+output),re 
+ 
+ 
+Technologies 
+Laser 
+Processor 
+600 mhz 
+Memory 
+128 mb ram, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 18 ---
+ 
+Tender No. AIIMS Bhopal/IT/Store/Purchase & Rate Contract for Printers/2015-2016/01            
+Page No. (18 ) 
+Recommended  
+25 to  1500 pages 
+Monthly volume 
+  
+Maximum  
+ 
+Monthly duty cycle 
+ Up to 8000 pages 
+Languages 
+Host-based 
+Paper  
+  
+Input 
+150 sheet adjustable main tray 
+Output 
+100 sheet output bin 
+Two sided printing 
+Manual two sided printing 
+Sizes 
+Letter,legal,executive,postcards,envelops ( no 10 
+  
+Monarch ) custom sixes 3 by 5 in ( 76 by 127 mm) 
+  
+To 8.5 by 14 in ( 216 by 356 mm) 
+Weights 
+Less than 10 kg 
+Types 
+Paper ( laser,plain,rough,vellum,archive) envelopes, 
+  
+Labels,cardstock,transparencies 
+Connectivity 
+ Network Ready 
+Interfaces 
+Hi speed usb 2.0 port 
+Operating systems 
+Windows®  2000,xp  home,xp® professional x 64, 
+  
+Windows server 2003 ( 32/64 bit) works with 
+  
+ windows vista , mac  os x v 10.3, v 10.4 and v 10.5  
+Dimensions ( w by d by h) 
+420 x 365 x 309 mm 
+ 
+ 
+What"s in the box 
+Print cartridge, greeting started  guide,printer 
+  
+Documentation and software on  cd-rom ,support 
+flyer, 
+  
+Power cord 
+Warranty 
+Three year limited warranty 
+  Scan speed                                            up to 8ppm (B & W),UP to5PPM  colour 
+ Scan Resolution                                    up to 1200 DPI 
+Scan File Format                                     UP TO 
+Maximum no. Of copies                        9S 
+Fax Speed                                                33.6 KBPS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Spare Toner 
+Cartridge 
+Laser Printer 
+All- in One -
+Print, Copy, 
+Scanning & Fax 
+Facility 
+Printer Technical Specification as per above 5th  Items 
+ 
+
+
+--- Page 19 ---
+ 
+Tender No. AIIMS Bhopal/IT/Store/Purchase & Rate Contract for Printers/2015-2016/01            
+Page No. (19 ) 
+4 
+Laser Printer 
+All- in One – , 
+A3 Size Print, 
+Copy & 
+Scanning 
+Facility 
+(Black and 
+White) 
+PrintTechnology 
+Laser Printer 
+ 
+Standard Optional 
+Print, copy, Scan, fax, email, Walk-up Fax 
+Print Speed  
+ 
+Minimum 40/45 pages per minute (for both Side) 
+First-page-out time 
+fast as 4.8 seconds  
+Print resolution 
+up to 1200 x 1200 dpi 
+Maximum paper size 
+12 x 18 in./SRA3 
+Standard paper capacity 
+ 2,180 sheets 
+Maximum paper 
+capacity 
+ 3,140 sheets 
+ 
+Two-sided output standard 
+Finishing options 
+hole punching, multi-position stapling, saddle- 
+stitch booklet making, and v-folding 
+ 
+Scan to email, mailbox, desktop, network file  
+server, and to document management applications 
+ 
+Xerox Extensible Interface Platform (EIP) enabled 
+ 
+One- and three-line fax options,10-sheet Duplexing  
+Automatic Document Feeder 
+ 
+Security and cost control features 
+ 
+EFI Fiery print server option available 
+Compatibility: 
+Linux, Windows (All Ver.) and Mac compatible 
+Maximum duty cycle 
+150,000 images / month 
+Dimensions (WxDxH) 
+53 x 32 x 46 in. (1346 x 794 x 1194 mm) 
+Power requirements 
+110V, 50/60 Hz, 15A 
+Connectivity 
+10/100/1000BaseT Ethernet, High-Speed USB 2.0 direct print, Wir
+802.11b (via third-party adapters 
+ 
+ 
+Warranty 
+Print speed  (black                             
+normal quality,A4) 
+ 
+ 
+Three  years on-site 
+UP TO 35PPM 
+ 
+   PRINT SPEED  (BLACK NORMAL      UP TO 18 PPM 
+ QUALITY A3) 
+ MAXIMUM NUMBERS OF COPIES      1000 
+PRINT RESOLUTION                               1200 X 1200 DPI 
+STANDARD MEMORY                            256 MB 
+DUTY CYCLE MONTHELY                       2,00,000 
+DIMAENSION                                          (W XD  X   610 X571 X584 MM) 
+ PROCESSER                                            460 MHz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Spare Toner 
+Cartridge 
+Laser Walk 
+Printer All- in 
+One – A4, A3 
+Size Print, 
+Copy & 
+Scanning 
+Facility 
+Printer Technical Specification as per above 7th Items 
+ 
+
+
+--- Page 20 ---
+ 
+Tender No. AIIMS Bhopal/IT/Store/Purchase & Rate Contract for Printers/2015-2016/01            
+Page No. (20 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Laser Color 
+Printer - 
+Simple Print 
+Facility 
+PrintTechnology 
+ 
+LaserPrinter 
+ 
+PrintResolution 
+ 
+Upto600x600dpi forbothBlackandColor 
+ 
+DuplexTechnique 
+ 
+Automatic(Standard) 
+ 
+PrintSpeed 
+Wireless Capacity                        
+y               
+Up to 18 ppm 
+Yes 
+Monthlyprintingcapacity 
+ 
+Connectivity 
+ 
+Minimum2500pages 
+ 
+Minimum1Hi-SpeedUSB2.0port; 
+1Built-inEthernet10/100Ethernet; 
+1Wireless802.11b/g/n 
+ 
+OperatingSystem 
+ 
+CompatiblewithWindows8.1(32-bitand 
+64-bit), Windows8(32-bitand64-bit),  
+Windows7(32-bitand64-bit), WindowsVista 
+(32-bitand64-bit), WindowsXP(32-bit) 
+(SP2orhigher) 
+ 
+SupportedPaperSize 
+ 
+A4, Letter, legal etc. 
+Automatictwo-sidedprinting 
+for:A4, Letter, legal 
+Warranty 
+ 
+Three yearson-site 
+ 
+ 
+ Memory                                  256 MB Standard 
+ Processor                                 800 MHz 
+ Duty Cycle                                 Up to 30,000 Pages 
+ 
+Spare Toner 
+Cartridge 
+Laser Color 
+Printer - 
+Simple Print 
+Facility 
+Printer Technical Specification as per above 9th Items 
+ 
+ 
+ 
+ 
+ 
+
+

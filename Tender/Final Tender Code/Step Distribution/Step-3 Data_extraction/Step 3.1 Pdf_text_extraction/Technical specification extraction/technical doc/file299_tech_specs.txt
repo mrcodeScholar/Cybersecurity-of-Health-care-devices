@@ -1,0 +1,177 @@
+--- Page 50 ---
+ 
+ANNEXURE- XV 
+Specification of Equipments mentioned in schedule of Requirements 
+1 
+Microscope Frame 
+l.l 
+Should have upright trinocular microscope body with inflnity corrected optical system or UIS (universal infinity 
+system) 
+1.2 
+Should have high luminescent LED (5 W illumination) with 5 spare bulbs/ modules 
+1.3 
+Should have built-in. pre-centred, Kohler illumination for transmitted light (LED) 
+1.4 
+Should have automatic Kohler illumination for objective I.25X - I00X for bright field, phase contrast: positive 
+high contrast (regions with higher refractive index appear darker). Strain free, low Birefringence for polarized 
+light. 
+1.5 
+Should have controls with Image capture button. Nosepiece rotating button. Remote control pad 
+1.6 
+Should he capable of fluorescent. DIC imaging as per research requirement. 
+1.7 
+Should be capable of being upgraded to live - cell imaging platform. 
+2 
+Observation tube & Eyepieces 
+2.1 
+Should have ergonomic trinocular tube with three-way light distribution (100:0/ 20:80/ 0:100) 
+2.2 
+Should have I0X - I5X eyepiece with f. O. V 22mm or better, with dioptre adjustment facility on both eyepieces. 
+2.3 
+Should be able to accept C - mount adapter 
+3 
+Mechanical Stage 
+3.1 
+Should be motorized. Scratch - Proof. Ceramic coated coaxial stage with two slide holder. 
+3.2 
+Should be able to cross travel (XY) w ith Vernier calibration, stage handle heights and torque adjustable 
+3.3 
+Focusing 
+3.3a 
+Should have a Coarse focus movement of 30mm or more with line focus gradation min 0.2 mm per rotation with 
+refocusing function 
+3.3b 
+Should have motorized par focal function switch between coarse and tine mode memory locations for two z-
+positions 
+3.3c 
+The Vertical stage movement should have 25 mm stage stroke with coarse adjustment limit stopper: stage 
+mounting position variable: high sensitivity fine focusing (minimum adjustment gradations: I pm) 
+3.3d 
+Should have Universal condenser for bright-lleld. phase contest, dark-field microscopy & POL contrast. 
+(Compatibility: Phase contrast: I0.\. 60X. lOOx.and Dark-field up to 40x), l universal turret condenser with 4-5 
+position. Motorized desirable. 
+4 
+Nosepiece 
+4.1 
+Should have Reversed sextuple (six position) revolving nosepiece with DIC slot for DIC application. DIC semi-
+automated or fully automated desirable. Motorized nosepiece desirable 
+5 
+Objectives 
+5.1 
+Should he motorized 
+52 
+should have motorized or coded objective turret including dry and immersion mode 
+5.3 
+Should have long working distance Plan Achromatic objectives for fluorescent microscopy (Fluor- coating 
+mandatory) with at least: 
+5.3a 
+Achromatic 4x. N.A 0.10. or better 
+5.3b 
+Plan-Muor-Achromatic I0.\. N.A. 0.25, or better 
+5.3c 
+Plan-Huor-Achromatic 40x. N.A. 0.80. or better 
+5.3d 
+I’lan-Fluor-achromatic 60/63X (spring loaded). NA 1.35 or better 
+5.3e 
+IMan-Fluor-Achromatic 100.x oil (spring loaded). N.A. 1.4 or better 
+5.4 
+Should have proper antifungal/mould coating 
+5.5 
+Microscope should also have safety measure to avoid accidental contact of objective and slide to prevent the 
+damage to the sample and objective both 
+6 
+Fluorescence attachment 
+6.1 
+Should have at least 5-posilion fluorescence illuminator turret. Filter cubes for BF. DAPI. PITC. C.FP. and I RIK 
+should he included. 
+6.2 
+Should have coolcd-LED module for epi-lluorcscence for the standard wavelengths used for excitation for DAPI. 
+FITC. TRITC. Mitolracker -red (UV-to infrared range). The Lifespan should not be less than 15.000 hours. One 
+spare module should be provided. If the vendor quotes for a halogen or metal halide -based illumination system, 
+they have to ensure optimum working of the Illumination system for at least 15000 hours. 
+6.3 
+Motorized external filter wheels, shutters and illumination devices are desirable. 
+7 
+CCD Camera System 
+7.1 
+Should have High-resolution. Peltier-Cooled Colour CCD Camera chip 
+7.2 
+Should have at least 4-megapixcl resolution. 16-hit colour reproduction 
+7.3 
+Should have Pixel size of at least 6 pm square 
+Page 50 of 53
+
+
+--- Page 51 ---
+ 
+7.4 
+Should have Sensitivity: ISO 60-1000 
+7.5 
+Should have l ive display: 181-PS (at lull resolution ol 4K X 4K) - 25 FPS (at 512X512) 
+7.6 
+Should have the camera and software for operating it should bo provided by the manufacturer of the microscope 
+so that there is seamless integration of microscopy, image capture and simultaneous/subsequent analysis. 
+(ESSENTIAL TERM, NON-NEGOTIABLE) 
+8 
+Image Analysis Software 
+8.1 
+Should have compatible software for image analysis, overlaying multiple image, automated multi-wavelength 
+capturing, z-stack acquisition, side by side image comparison, movie playback, snap/movie acquisition, and lime 
+lapse at specified interval, interactive measurement function, object counting, extended depth of focus 
+functionality 
+8.2 
+Should have Four-dimensional image acquisition. Auto-measurement. Auto-counting. Multi-dimensional image 
+display. Multichannel image capturing. Report Generator facility. 
+8.3 
+free lJpgrades ofsoftware should he provided during the period o! AMC/CMC (as per All VIS rules) with 
+compatibility upgrades of the operating system and if necessary, hardware in which it is installed. 
+8.4 
+bach microscope should he provided with one connected software and 3 offline licenses. 
+9 
+Work Station 
+9.1 
+Should have Latest Branded computer with Intel i7 or better, at least 12GB RAM. 1 I B HDD. DVD RW. with 
+latest windows operating software (with free upgrades provided during the period of AMC/CMC as per AIIMS 
+rules and essential upgrades of hardware if the OS requires such upgrade). IGB graphics card. LAN card, scroll 
+mouse, multimedia keyboard, dual TIT or LID Color monitors (24 * 1920*1200). 
+10 
+The microscope must be compatible for stereology software like stereoinvestigator or stcroanalyzer. 
+II 
+Microscope should be CE (Europe)/FI)A ccrtified/ISO 9001:2008 certified and ISO/IEC 17025:2005 anil 
+national standard ANSI/NCSL Z540-I 1994 (R2002) for micro optics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 51 of 53
+
+

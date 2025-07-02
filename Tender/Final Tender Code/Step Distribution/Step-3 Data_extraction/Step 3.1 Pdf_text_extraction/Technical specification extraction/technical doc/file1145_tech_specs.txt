@@ -1,0 +1,102 @@
+--- Page 11 ---
+Tender for Laminar Flow System                                                                                           Admn/Tender/80/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+Annexure-I 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Laminar 
+Flow System 
+1. 
+Microprocessor controlled system 
+2. 
+Type of airflow: Horizontal  
+3. 
+70% of air should be recirculated to the cabinet work area through 
+HEPA filter and the 30% balance should be exhausted through 
+HEPA. The balance should be dynamic to ensure the 70/30 
+recirculation/exhaust air 
+4. 
+The instrument must have HEPA filters on down flow as well as 
+exhaust with an efficacy of 99.99% for particles sized of 
+0.3.(Calibration certificates along with DOP test report shall have 
+to be submitted at the time of supply of instrument) 
+5. 
+The dimensions of the working chamber should be in the following 
+range: 
+               Length:    90-120 cm 
+               Width:     40-60 cm 
+                 Height:    50-80 cm    
+ 
+6. 
+The main body and working chamber of the cabinet should be made 
+of stainless steel, rigid and rustproof with removable trays 
+7. 
+The cabinet should have an electrically operated sliding front sash 
+made of safety (UV) glass with a provision for manual operation of 
+the sliding front window. Also, the sliding front sash should have 
+true air and aerosol tight electrical shahs. 
+8. 
+Front door: clear transparent sturdy material 
+9. 
+Work chamber should be fitted with a Fluorescent lamp for 
+illumination and should have programmable UV light cycle. 
+10. 
+The unit should have microprocessor control keys with large icons 
+and a large graphical display with provision for the permanent 
+display of the following key cabinet conditions. 
+i. 
+Inflow and down flow air velocity  
+ii. 
+Exhaust and recirculated airflow volumes  
+iii. 
+Time and date 
+iv. 
+Residual lifetime of filters & total time of cabinet operation 
+(optional) 
+11.  
+Alarm notification in the following situations: 
+i. 
+Low inflow velocity 
+ii. 
+Low down flow air velocity 
+iii. 
+HEPA filter life 
+iv. 
+Alarms for clogged filters 
+v. 
+Other malfunction 
+12. 
+Compatible at a power supply of 220 V, 50Hz 
+13. 
+Noise level: < 65 dB 
+14. 
+Basic cabinet should be termite and insect resistant and washable 
+15. 
+Accessories: Manometer, gas inlet, castors 
+16. 
+The cabinet should be with a stand with lockable castors 
+17. 
+Operator and technical manual 
+18. 
+Should be USFDA approved or European CE certified. Certification 
+documents with validity dates should be submitted along with 
+technical bid. In case, no certificate is submitted, the quotation shall 
+be considered invalid.  
+19. 
+The company should give the certificate that the model quoted is the 
+latest and not obsolete; & spares will be easily available for next 5-7 
+years. 
+01 
+
+

@@ -1,0 +1,200 @@
+--- Page 10 ---
+Tender for Portable Color Doppler Machine with USG                                                    Admn/Tender/118/2016-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+ The contract shall be governed by the laws and procedures established by Govt. of  India,   within 
+the framework of applicable legislation and enactment made from time to time concerning such 
+Commercial dealings / processing. 
+ 
+ Any disputes are subject to exclusive jurisdiction of Competent Court and Forum in Jodhpur, 
+Rajasthan, India only. 
+ 
+ The Arbitration shall be held in accordance with the provisions of the Arbitration and Conciliation 
+Act, 1996 and the venue of arbitration shall be at Jodhpur. The decision of the Arbitrator shall be 
+final and binding on both the partied. 
+ 
+ Force Majeure: Any delay due to Force Majeure will not be attributable to the supplier. 
+ 
+ 
+Administrative Officer 
+AIIMS, Jodhpur 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+Color 
+1.  Should be top of the line and State of the Art fully digital 
+portable ultrasound machine with provision for Doppler 
+01 
+
+
+--- Page 11 ---
+Tender for Portable Color Doppler Machine with USG                                                    Admn/Tender/118/2016-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Doppler 
+Machine 
+with USG 
+examinations  
+2.  The unit should have a laptop type console design. The unit 
+should be compact, lightweight and portable. Weight should 
+not exceed 10 kg including battery (excluding cart and 
+accessories).  
+3.  Provided with high quality, compact stand with lockable 
+wheels  
+4.  It should be suitable for abdominal, small parts, cardiac and 
+vascular applications in both adults and pediatric patient.  
+5.  Multiple preloaded as well as user configurable application 
+presets should be available.  
+6.  The system should have advanced measurement, manual and 
+automatic for all applications. 
+7.  The system should have minimum 1500 or more digital 
+processing channels and 256 or more grey shades.  
+8.  Maximum scanning depth to be 30 cm or more.  
+9.  The system to have a dynamic range of 165 decibels or more.   
+10.  The system should be able to support all type of transducers 
+(Convex, Linear and Phased array Transducers).  
+11.  All transducers should be lightweight digital phased array 
+broadband type transducers with at least 1024 elements. 
+12.  Provision for inter-switchability between the transducers 
+without the need of manual disconnection 
+13.  The system should an integrated high resolution TRT / LCD of 
+15 inches (flicker free images) or more with facility of tilt and 
+swivel facility along with convenient grip. 
+14.  Should be supplied with three transducers (one each):  
+Convex electronic phased array transducer: 2-6 MHz for 
+abdominal imaging.  
+Linear transducer: 5-12 MHz for vascular and small part 
+imaging. 
+Broadband Phased array cardiology transducer: 1-5 MHz for 
+cardiac imaging 
+15.  Convex and linear transducers shall have detachable reusable 
+biopsy guides for different gauge needles 
+16.  The system should have a frame rate of at least 600 frames per 
+seconds (fps) in B mode and more than 300 fps in Color mode.  
+17.  The system should have an ergonomic full alphanumeric soft 
+keys keyboards with easy access scans control and trackball or 
+touchpad. 
+18.  The Systems should have cine loop review facility of not less 
+than 60 sec/1000 frames.  
+19.  System should have 120 GB or higher capacity internal HDD.  
+20.  The system should have the facility of digital storage and 
+retrieval of B/W and colour image data.  
+21.  Provision for USB port and LAN transfer of data should also 
+be present.  
+22.  The system shall support the all DICOM functionality, 
+Storage, Print, and Work List, also ready to connect to PACS.  
+
+
+--- Page 12 ---
+Tender for Portable Color Doppler Machine with USG                                                    Admn/Tender/118/2016-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+Annexure-II 
+ 
+TECHNICAL BID 
+ 
+Name of Firm/Contractor/Supplier 
+  
+ 
+23.  Imaging modes of Real time 2D, Colour Doppler, Pulsed wave 
+Doppler and Power (energy) Doppler should be available.  
+24.  Controls for 2D mode: Total gain, depth, TCG, dynamic range, 
+acoustic power output.  
+25.  Controls for Colour Doppler: PRF, colour gain, position and 
+size of ROI, steering of ROI, colour maps and colour invert.  
+26.  Controls for pushed Doppler: variable sample volume size 
+from 1 to 5mm or more, steer, PRF, baseline, gain angle 
+correction, spectral invert duplex on/off.  
+27.  Measurements for 2D mode: Multiple distances, area and 
+volume.  
+28.  Measurement for Doppler modes: Stenosis quantification in 
+area percentage, Diameter, PSV, EDV, means, PI, RI, 
+acceleration time and index. Automatic and manual 
+measurements and display of pulsed Doppler calculations 
+should be possible.  
+29.  Unit should function with 200-240 V, 50 Hz AC, 5 amp power 
+outlet power requirement to be specified  
+30.  In built battery backup should be at least one hour or more.  
+31.  The unit offered must be sturdy and should be able to 
+withstand accidental hits and falls during transportation.  
+32.  The unit offered in the tender will require technical 
+demonstration and training of users for at least 1 week.  
+33.  Photocopy of purchase orders along with terms and conditions 
+of contract received from five Govt. /Public Sector 
+institution/college of repute in the last two years for supply of 
+the offered equipment must be enclosed with the price bid.  
+34.  Price of the main unit and accessories to be quoted separately.  
+35.  Warranty: The unit transducers and all accessories should be 
+covered with comprehensive onsite warranty for five (5) years 
+commencing from the date of issue of installation certificate.  
+36.  Rates for comprehensive maintenance contract CMC 
+(including all spared and labour) for 5 years, after expiry of 
+warranty period, must be quoted separately.  
+37.  Company should have a Registered Service Centre in India 
+with address and phone numbers. Company should give 
+undertaking regarding the spare availability of the quoted 
+model for next 10 years.  
+38.  The bidder should enclose the original product data sheet, 
+brochure and compliance sheet, without which the bid rejected. 
+Computer generated data sheet brochure will not be accepted. 
+The serial number of specifications must be indicated against 
+the relevant portion of the compliance sheet and data sheet.  
+39.  The unit should be United States Food and Drug 
+Administration (FDA) and Conformity Europeans (CE) 
+approved.  
+ 
+
+

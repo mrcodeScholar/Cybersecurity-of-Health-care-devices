@@ -1,0 +1,150 @@
+--- Page 10 ---
+Tender for Fluorescence Microscope with Camera for Research Project                                                         
+Admn/Tender/31/2018-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+TECHNICAL SPECIFICATIONS FOR FLUORESCENCE MICROSCOPE WITH CAMERA 
+Quantity: 01 
+Frame: 
+Rigid and vibrations free frame Illuminator 
+Optical System 
+Infinity corrected system 
+Illuminator: 
+ 
+Built-in-Koehler illumination for transmitted light 12V100W halogen bulb 
+(precantered) with motion sensor detects when an operator leaves and 
+automatically turns off the light for long life of bulbs. Intensity adjustment 
+centrally located so that both hand can be used to increase and decrease 
+light.  
+ Light intensity LED indicator. Light preset switch for photography. 
+Built in filters ( Blue filter, ND6, ND25 filters)  
+Observation tube 
+Wide field trinocular observation head with field no. 22-25 mm with three 
+ways light path selection with possibility of 100% light to eye and Camera.  
+Eyepieces: 
+Wide field eyepieces with field No. 22-25 mm 
+Stage 
+Ceramic-coated coaxial stage with right hand low drive control with rotating 
+mechanism and torque adjustment mechanism. 
+Focus 
+Vertical stage movement 25mm stage stroke with coarse adjustment 
+stopper. Torque adjustment for coarse adjustment knobs. Stage mounting 
+position variable, high sensitive fine focusing knob with minimum adjustment 
+graduation should be 1µm. 
+Objectives 
+Plan Achromat Objectives 4X/0.1 Fluorescence /Semi Apochromat Phase 
+Contrast,  Objectives 10X/0.3 Fluorescence /Semi Apochromat objective 
+20X/0.5, (spring) Fluorescence /Universal Plan Semi Apochromat Phase 
+Contrast Objective 40X/0.75, (spring) Universal Plan Super Apochromat 
+Objective 60X/1.35, (spring, oil) Universal Plan Super Apochromat Objective 
+100X/1.4, (spring, oil) 
+Condenser 
+Swing out condenser (applicable for all objectives) 
+Fluorescence Unit 
+Fluorescence with eight /ten position built in filter Cube Turret. 120/130 
+metal Halide / Mercury light illuminator with 2000 hrs life time. Filters should 
+be DAPI/Hoechst, FITC/GFP, TRITC/ Rhodamine & Texas Red dyes. 
+Cooled 
+Digital 
+Monochrome 
+Monochrome camera, 1.4 or more Mega pixel for High Resolution Images, 
+Progressive scan interline CCD, Pixel size 6.45um x 6.45um,1280 - 1392 x 
+
+
+--- Page 11 ---
+Tender for Fluorescence Microscope with Camera for Research Project                                                         
+Admn/Tender/31/2018-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page11 
+ 
+Camera 
+1020 - 1040 pixels,10fps frame rate, Mono, 12bit, includes camera head,1394 
+Fire wire digital interface, power supply. High-Speed Readout < Previewing & 
+focusing in real time 10fps full resolution@12bits(165fps maximum with 
+binning and ROI functions), Tight synchronization with flash lamps automated 
+filters, shutter & microscope stages. Linear Full Well 18,000e-(22,000e-with 
+2x2 binning), Dark current 1.5e /p/s .Minimizing thermal noise during low 
+light, long exposure imaging, 2/3 inch optical format. 2/3 inch C mount 
+adapter. System should be capable of handling brightfield and fluorescence 
+object 
+Magnification 
+changer:  
+Having option of 1X, 1.25X, 1.6X and 2X. 
+Imaging 
+and 
+analysis System: 
+Image analysis Software for Measurements, EFI, Time lapse imaging, 
+unimixing, colour merging for fluorescence imaging, image stitching, image 
+overlay, line profile, geometry/ combine/ filter processing and should be 
+capable of driving the camera for capture of Images in Real Time.  
+ 
+Basic Image Acquisition: 
+ Live image acquisition: Captures live images in various formats, compares 
+live image with previous snapshot, displays crosshair in live image, saves and 
+loads acquisition settings to reproduce capture conditions.  
+Movie: Creates .avi movie files. Camera settings Saves and loads camera 
+settings to reproduce its snapshot conditions. Basic Image Tools: 
+ Image history and properties: Displays image history and properties. Image 
+navigator: Enables tool window for image navigation and zooming.  
+Gallery view: Displays thumbnails of open images in a gallery. Layers: Enables 
+viewing, extraction and deletion of single image layers.  
+Adjust display: Adjust display settings manually or automatically.  
+Combine RGB images: Enables to combine multiple RGB images in one multi-
+layer image.  
+Image processing tools: Enables to adjust RGB, to adjust intensities, to 
+optimize contrast, to perform white balance, and to invert images. 
+Projections of display: Calculates projections of image display (min, max, 
+mean).  
+Static annotations: Draws text, arrows, lines, rectangles and ellipses on the 
+image.  
+
+
+--- Page 12 ---
+Tender for Fluorescence Microscope with Camera for Research Project                                                         
+Admn/Tender/31/2018-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page12 
+ 
+Basic Customization: Saves and manages layouts: Creates, customizes, saves 
+and restores interface layouts. 
+ Dark skin: Interface skin with colored icons against a dark background Basic 
+Reporting:  
+Data export and statistics: Exports measurement data to MS Excel and 
+cellSens workbook format enables statistical analysis of measurements.  
+Time lapse: Captures still images over time frequency. Extended Image 
+ Tools: Image geometry: Enables to mirror, rotate, resize and crop images, to 
+shift channels, and to adjust image stacks (cellSens Dimension only).  
+Image Enhancement: Edge detection filters (scobel, roberts and laplace); 
+smoothing filters (rank, median, sigma, low pass and NxN); sharpen filters 
+(sharpen and high pass), adjust intensity and contrast, shading correction and 
+background subtraction and dynamic contrast enhancement (DCE). 
+Morphological filters: erosion, dilation, top hat, open, close, gradient, 
+skeleton and watershed.  
+Mode: Enables to convert bit-depth and colour space. Automatic image 
+calibration Automatically calibrates acquired images based on microscope 
+configuration and current magnification reading from encoded or motorized 
+nosepieces. 
+ Extended Measurement: Interactive measurements: Enables field of view 
+measurements to measure distances, angles, rectangles, circles, ellipses and 
+polygons: point, arbitrary line, perpendicular line, polyline, three points’ 
+angle, four points’ angle, rectangle, rotated rectangle, three points circle, two 
+points circle, rotated ellipse and closed polygon. Saves and loads 
+measurement of an object from the image. 
+Data Storage and 
+Display System 
+Suitable latest branded system having Intel 3rd gen.corei7 Processor with 
+3.0MHz or more. HDD 750 GB or more, 6 GB RAM or more with 21” LED 
+monitor, Windows 7, 1GB graphics card, USB mouse, Key Board, Fire wire 
+port, on line UPS with 30 minutes to one hour backup. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

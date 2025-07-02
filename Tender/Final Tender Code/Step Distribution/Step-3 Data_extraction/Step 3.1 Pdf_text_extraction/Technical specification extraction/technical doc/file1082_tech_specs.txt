@@ -1,0 +1,238 @@
+--- Page 41 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/CTVS/1186/24/GTE 
+Page 41 of 65 
+ 
+SECTION – VII TECHNICAL  SPECIFICATIONS 
+Technical specification for Supply and installation of Intra Aortic Balloon Pump (IABP) 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against  manufacturing defect  
+2. All instruments should be corrosion resistant, autoclavable, BIS approved. 
+3. Manufacturer should be ISO Certified. 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly marking the 
+Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the firms. 
+6. L-1 will be decided on total value only. 
+7. All firms should have supplied the quoted instruments to the reputed central government hospitals 
+like AIIMS, PGI, etc. and should submit a certificate of satisfactory working from the concerned 
+government hospital. 
+TECHNICAL SPECIFICATIONS FOR “Intra Aortic Balloon Pump (IABP)”   
+ 
+1. Latest Generation Autopilot, Touch screen IABP System, with Wave form touch access 
+control. 
+2. Transportable, Compact IABP System with minimum 90 Min of battery Backup. 
+3. Fast Pneumatics to provide accurate & reliable ventricular support enhancing augmentation& 
+improved After-load reduction. Preferably a stepper motor Driven Bellows system for faster 
+drive –gas shuttle speed.  
+4. System should provide start-up checklist, when the pump is ready to start. 
+5. System should be capable of using fibre optic Balloon and conventional balloons. 
+6. Should have  
+1) Automatic. 
+2) Operator Modes of operation.  
+7. System should be able to Trigger on Pulse Pressure as low as 3mm Hg. 
+8. System should be free from scheduled Maintenance and replacing the Spares on basis of 
+usage. 
+9. System should stop shuttling of gas in case of balloon rupture and avoid chances of blood 
+leak    to machine (with Alarm). 
+10. Should be capable of removing Condensation automatically without interrupting the therapy. 
+11. System should be capable of automatically selecting appropriate trigger that is  
+A. ECG, or     
+B. Pressure and also accurately select the inflation and deflation point in automatic mode.  
+C. Trigger on pacer (V pace, Apace),  
+D. Automatic internal trigger rate.  
+E. A fib Mode.  
+12. In automatic and operator mode single ecg trigger should be able to track various ventricular 
+and atrial arrhythmia including VE‘s bigeminy, Trigeminy, Couplets etc and atrial 
+fibrillation, without any user intervention and still give optimal performance. 
+13. Machine should provide print of Therapy report &100 Alarm History report. 
+14. 3600 Visible priority colour intensified Alarm status required. 
+15. In automatic mode, advanced software should automatically adapt the Timings for various 
+rhythms and rate variations, without any user intervention. 
+16. In automatic mode it should automatically identify atrial fibrillation and adopt r-wave 
+deflation mode for better patient support without any user intervention. 
+
+
+--- Page 42 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/CTVS/1186/24/GTE 
+Page 42 of 65 
+ 
+17. Single key start up to make it fast, user friendly and easy to use.  
+18. Should be able to display at least 3 wave form as ECG, Invasive Pressure and balloon 
+pressure Wave form. 
+19. Large detachable display for brighter and very good visibility from a distance in any lighting 
+conditions.  
+20. On screen indication for helium level in the cylinder and battery level for timely intervention 
+and correction. 
+21. ECG Inflation marker to indicate inflation period on ECG which can be usefully when atrial 
+pressure wave form is not available. 
+22. On screen indication of standby time and should give alarm after 20 mts to draw user’s 
+attention on the system being on standby. 
+23. Should give extensive help message to correct the alarm conditions that are specific to the 
+alarm conditions, this should help the user to overcome the alarm problem immediately and 
+with ease. 
+24. In built comprehensive service diagnostics to help the technician to locate the faults 
+immediately.- 
+25. System should be supplied with the followings. 
+● ECG cable with lead wires 01 Nos. 
+● Compatible Pressure transducer cable -01 Nos. 
+● Refillable helium cylinder compatible with the iabp system helium (or other) gas cylinders 
+1 Nos. certificate from explosives dept. 
+● It should be provided with at least 5  IABP balloon (30CC) catheter(Free of cost)  
+● It should be supplied with hand helded Doppler for checking of peripheral pulses. 
+26. Entire unit should be mounted on wider wheel with max 50 kg weight, for Easy transport. 
+27. Warranty should be 5 years and thereafter 5 year CMC. 
+ 
+ 
+ 
+ Technical compliance report should be submitted in following format: 
+ 
+Sr. 
+No. 
+Item Description as 
+per Tender 
+Complied 
+Yes/No 
+Item Description 
+offered by Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 43 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/CTVS/1186/24/GTE 
+Page 43 of 65 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE document 
+for complete equipment (including Batteries for UPS, other vacuumatic parts wherever 
+applicable) Warranty period will be 5 years from the date of installation, commissioning 
+and 
+Site 
+Modification 
+Work 
+from 
+the 
+date 
+of 
+satisfactory 
+installation, 
+commissioning, trial run & handing over of equipment to Hospital/Institution/Medical 
+College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period by 
+double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical 
+College on 24 (hrs) X 7 (days) X 365 (days) basis. Complaints should be attended properly, 
+maximum within 8 hrs. The service should be provided directly by Tenderer/Indian Agent. 
+Undertaking by the Principals that the spares for the equipment shall be available for at least 
+10 years from the date of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents 
+(if 
+they have the requisite know-how) for operation and maintenance of the equipment to the 
+satisfaction of the consignee. The same will be in line with the training modalities as 
+specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes preventive 
+maintenance including testing & calibration as per technical/ service /operational manual 
+of the manufacturer, labour and spares, after satisfactory completion of Warranty period 
+may be quoted for next 5 years on yearly basis for complete equipment 
+(including Batteries 
+for UPS, other vacuumatic parts wherever applicable) and Site Modification Work (if any). 
+The supplier shall visit each consignee site as recommended 
+in the manufacturer’s technical/ 
+service /operational manual, but at least twice in six months (i.e. 4 preventive maintenance/ 
+year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of any 
+such 
+stipulation the price will be taken inclusive of such taxes and no claim for the same 
+will be 
+entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be taken at Net 
+Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory completion of 
+said period, duly certified by end user on receipt of bank guarantee for 5% of the cost of the 
+equipment as per Section XV valid till 2 months after expiry of entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 365 
+(days) basis, with penalty, to extend CMC period by double the downtime period. 
+f) During CMC period, the supplier is required to visit at each consignee’s site at least twice 
+in 6 months (i.e. 4 preventive maintenance/ year) apart from all breakdown visits, 
+commencing from the date of the successful completion of warranty period for preventive 
+maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the Bank 
+Guarantee for Annual CMC. 
+i) The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 44 ---
+ 
+Tender Enquiry No.: AIIMS/R/CS/CTVS/1186/24/GTE 
+Page 44 of 65 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to be 
+installed, in consultation with HOD of Hospital/Institution/Medical College concerned. Site 
+Modification Work details of each Hospital/Institution/Medical College are given at the end 
+of Technical Specification. The Tenderer to quote prices indicating break-up of prices of the 
+Machine and Site Modification Work of each Hospital/Institution/Medical College. The Site 
+Modification Work costs to be quoted in Indian Rupee will be added for Ranking Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation the 
+price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer’s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it‟s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard IEC- 
+60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is not 
+available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management 
+information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period 
+ 
+ 
+
+

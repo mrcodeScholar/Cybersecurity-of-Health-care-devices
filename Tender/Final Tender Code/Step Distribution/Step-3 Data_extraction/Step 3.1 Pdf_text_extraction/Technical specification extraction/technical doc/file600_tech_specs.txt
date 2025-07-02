@@ -1,0 +1,367 @@
+--- Page 10 ---
+Tender for Neuromuscular Ultrasound 
+Admn/Tender/58/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Neuromuscu
+lar 
+Ultrasound  
+S.No 
+Technical points system architecture 
+1. 
+Beam former 
+Universal Digital Beam former accepting routine 
+convex, linear and musculoskeletal transducers. 
+The unit should be latest generation state of the art 
+equipment. Frequency range should 1 - 15 MHz. 
+2. 
+Monitor/ 
+Control Panel 
+Should have high-resolution 21.5" medical grade 
+Flat Panel monitor with IPS technology and 
+articulating arm and with resolution of 1920x1080 
+pixels.  
+• Height-adjustable control panel with lock lever  
+• More than 10" touch screen (resolution 1024 x 
+768)  
+• Backlit key illumination  
+• Customizable soft keys for easy and immediate 
+viewing of on-screen menus  
+• Full-size QWERT Y keyboard supports text 
+entry, function keys and system programming. 
+3. 
+Digital 
+Processing 
+Channels 
+Should be more than 172000 processing channels 
+with parallel Quad beam processing. 
+4. 
+2D Mode Line 
+Density/ 
+Dynamic Range 
+System should have 2D mode line density of 
+minimum 512 and system dynamic range to be 
+above 225 dB. 
+5. 
+Display modes 
+With B, 2B, 4B, Speckle Reduction Imaging, 
+Compounding with 3 steps, Dynamic Tissue 
+Optimization, 
+M-Mode, 
+Color 
+M 
+mode, 
+anatomical M mode, PW, HPRF and Color 
+Doppler with Power Doppler. Alternate, line and 
+Phase Inversion Tissue Harmonics should be 
+available on Convex and Phased Array probes. 
+Steering on Color / PW modes on Linear probe 
+should be available. Trapezoidal Image should be 
+available on linear probes. Extended Field of view 
+/ panoramic Imaging should also be available. 
+6. 
+Cine 
+Review/ 
+Post Processing 
+Features 
+Standard cine memory providing 2700 frames on 
+2D mode and up to 30 seconds Doppler Cine.  
+• 
+2D-mode— 
+Zoom/pan— 
+Gray 
+map— 
+Colorization map  
+• Color Doppler— Zoom/pan— Color map— 
+Color invert  
+• Spectral Doppler— Gray map— Doppler 
+colorization map— Angle correct  
+• M-mode— Gray map— M-mode colorization 
+map 
+7. 
+Transducer 
+technology 
+System should be capable of handling 1.3 — 15.0 
+MHz. 
+Multifrequency 
+imaging 
+with 
+independent 
+selection of 2D / Color / Spectral doppler 
+frequency should be offered.  
+Independent 2D and color frequencies for optimal 
+resolution and port. 
+Total 5 Active Ports with 4 Imaging Probe Ports 
+and 1 non imaging CW port. 
+8. 
+Exam Presets 
+Should be able to store at least 128 user specific 
+Image presets. 
+01 
+
+
+--- Page 11 ---
+Tender for Neuromuscular Ultrasound 
+Admn/Tender/58/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+9. 
+Image 
+Optimisation on 
+B and M modes 
+Advance Spatial Compounding Imaging with Up 
+to 7 steering angles available on linear transducer,5 
+available on curved array transducers 
+Speckle Reduction Imaging facility 
+5 Selectable frequency on Convex probe 
+Compounding of Image with 3 steps 
+Independent control of Speckle reduction Imaging 
+with 3 steps 
+Up / Down & Right / Left Image rotation 
+4 steps of Edge Enhancement settings 
+Penetration 1-30 cm depth 
+8 maps of B color 
+5 levels of persistence 
+10. 
+Color 
+and 
+Spectral 
+Doppler 
+Optimisation 
+Color Doppler velocity maps: Up to 9 user 
+selectable 
+maps 
+(7 
+velocity 
+and 
+2 
+velocity/variance) 
+Velocity scale range: ± 0.6 —± 244.4 cm/sec 
+PRF scale range: 100 — 19,500 Hz (transducer 
+dependent) 
+1 — 20 mm Gate adjustments on Spectral modes. 
+Filter adjustments should be specified. 
+Base line adjustments 
+Sweep speed adjustments 
+6 levels of color line density adjustments 
+5 levels of Color priority selections 
+Auto Trace of Doppler Spectrum in Real Time and 
+freeze including calculation for PS, ED, TAMx, 
+TAMn, PI, RI and S/D. 
+AutoColor flow state optimization with high, 
+medium and low flow settings 
+11. 
+Frame Rate 
+Should perform upto 2D frame rate 499 fps and 
+Color Doppler frame rates up to 188 fps 
+12. 
+Vascular 
+Enhancement 
+(optional) 
+The system should offer a real-time, adaptive, 
+pixel-by-pixel vascular analysis implemented 
+through a simple, time-saving, user interface that 
+provides multiple levels of clarification to optimize 
+tissue contrast resolution and definition of both 
+tissue and vessel walls according to user 
+preference. 
+13. 
+Intima 
+Media 
+Thickness 
+Measurement 
+(Optional) 
+The system should have capability to measure 
+Cerotic Intima-Media Thickness and compare 
+values with reference tables. 
+14. 
+HD 
+Zoom 
+function 
+The system should reoptimises and rescans the 
+selected region to actually increase the acoustic 
+information content of the image up to 10 times. 
+High density (HD) zoom function obtains a region 
+of interest with increased detail resolution.  
+• Ability to enlarge areas of interest with no loss of 
+detail  
+• Increased boundary resolution of cystic regions, 
+vessels and hypoechoic regions 
+15. 
+Deep 
+Doppler 
+and 
+color 
+performance 
+HARF performance at depth with user selectable 
+frequency on both Doppler and color modes.  
+•Power 
+Doppler 
+Imaging/Directional 
+Power 
+Doppler  
+
+
+--- Page 12 ---
+Tender for Neuromuscular Ultrasound 
+Admn/Tender/58/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+• Available on all imaging array transducers 
+• Multi-beam formation technology provides quad 
+signal processing for power Doppler frame rates 
+195 fps (transducer dependent)  
+• Left/right steer on all linear array transducers 
+One Button Image optimisation in 2D and Doppler 
+spectrum, baseline adjustments. 
+16. 
+3D Imaging 
+System should be able to construct freehand 3D 
+images with convex and endovaginal probes 
+17. 
+Measurements 
+and Calculations 
+System should have atleast 8 calipers with depth 
+information 
+and 
+extensive, 
+customizable 
+measurement and report packages including 
+complete Radiology, Cardiology, Vascular, Small 
+Parts, Obstetrics & Gynecology. 
+All exam-specific measurement and reports 
+support:  
+• All general measurements and calculations  
+• Comprehensive, customizable, patient reports 
+and worksheets  
+• Customizable anatomy descriptions 
+• Physician summary utility — supports on-system 
+report 
+generation 
+including 
+customizable 
+letterhead, patient data, results, graphs, images, 
+comments, recommendations and a customizable 
+signature line 
+18. 
+Image 
+Management 
+System should have inbuilt hard drive of 500 GB 
+or more and have facilities to store atleast 300,000 
+images and 2 minutes of Clip store, should have 
+the facility of performing calculations and 
+annotations on stored images. System should have 
+inbuilt CD / DVD / USB Flash Drive writer for 
+image transfer. 
+19. 
+User Interface 
+PC — based operating principles with built in 
+Virus Protection Software. 
+Standby Mode with battery backup. (Optional)  
+Task light with back-lit illumination of control 
+panel.  
+System should have on screen menu for easy and 
+immediate access to imaging controls. Live image 
+should be supported with side by side reference/ 
+stored image on the Flat panel monitor. 
+System should have wrist support to help reduce 
+operator repetitive stress injuries.  
+System should operative between 200 — 240 
+VAC, 50 Hz. Maximum power consumption 
+should be around 700 VA 
+20. 
+Accreditations 
+and Approvals 
+The system should be US FDA or European CE 
+approved. 
+The system should be ISO certified 
+21. 
+Required 
+accessories 
+• Linear Hockey Stick Probe 5.0 — 13.0 MHz 
+(Compounding and Harmonic Imaging should be 
+available).  
+• Linear (192 element) Probe 4.0 — 12.0 MHz 
+(Compounding and Harmonic Imaging should be 
+available).  
+• Convex Probe 2.0 — 5.0 MHz (Compounding 
+and Harmonic Imaging should be available) 
+• Thermal Printer - B/W; DICOM Ready 
+
+
+--- Page 13 ---
+Tender for Neuromuscular Ultrasound 
+Admn/Tender/58/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22. 
+Mandatory 
+requirements 
+The vendor will have to ensure that the ultrasound 
+scanner has GPS and tracker enabled as per PC-
+PNDT requirements. The same should also be 
+maintained for five years from date of installation. 
+Essential accessories to be provided  
+Free Installation should be done by qualified 
+personnel only along with adequate hands on 
+training.  
+Only latest model should be quoted and year of 
+introduction should be mentioned.  
+Should be USFDA approved or CE approved 
+certificate should be attached. 
+Warranty for five year from principle manufacturer  
+Free AMC for subsequent 5 years with cost of 
+spare from principle manufacturer.  
+Commitment to provide spares and accessories for 
+the entire period (5 yrs. CMC+ 5 yrs. AMC).  
+List of consumable and spare parts along with 
+price list with validity of 5 years to be provided.  
+Compliance certificate along with variability, if 
+any, should be provided.  
+"List of installation in India during last 5 years 
+with contact details from all vendors for the similar 
+brand and model of equipment as quoted in tender 
+to verify the past performance". 
+ 
+
+

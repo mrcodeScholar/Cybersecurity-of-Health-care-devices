@@ -1,0 +1,56 @@
+--- Page 5 ---
+Technical Specification for Digital Automated Microscope with Bright field (BF), Phase contrast (PH), Dark 
+Field & Fluorescence Applications with Camera and image analysis software. 
+1. 
+Automated upright microscope with integrated LED light source capable of providing constant color 
+temperature 
+2. 
+Must be provided with integrated automated illumination management system that can automatically set the 
+perfect optical settings for optimal image quality and fast reproducible results 
+3. 
+In addition, programmable function keys should be available to allow customization 
+4. 
+All settings must be visible on a large inbuilt LCD display 
+5. 
+Single key contrasting technique for Phase contrast, DIC and fluorescence techniques 
+6. 
+Condenser should be provided with motorized turret with motorized top lens to cover automated 
+BF/PH/DIC/POL. Automatic Koehler illumination, for objectives 5x-100x, for BF, DF, PH, DIC and POL 
+contrast  
+7. 
+The objective nose piece should be coded and 7- fold 
+8. 
+The fluorescence axis must possess motorized fluorescence Intensity Manager [FIM] and motorized field 
+diaphragm disc. 
+9. 
+Fluorescence turret with motorized 5/6 fold turret should be provided for fluorescence filter cubes 
+10. Fluorescence filters for DAPI, Hoechst, GFP, FITC, TRITC, Rhodamine should be provided. 
+11. Fluorescent light source should be in the form of white cool LED light which is compatible with the above-
+mentioned fluorescent stains. Should have possibility to control intensity of three channel separately, 
+possibility to acquire single channel or multichannel image. Life min 24000 Hrs. or better.   
+12. Transmitted light illumination should be from fixed, pre-centered LED with focusable collector. 
+13. The following objectives, suitable for BF, PH, DIC & Fluorescent applications, should be provided: 5x/0.12, 
+10x/0.25 PH1, 20x/0.40 PH1, 40x/0.65 PH2, 100x/1.25 PH3.  
+14. Eyepiece should be binocular, 10X/22 with both eyepieces being focusable 
+15. Documentation tube should have a fixed viewing angle of 300, field of vision of 25 mm and have variable 
+beam spiltters with the following 3 beam splitter positions: 100% eyepieces, 50% eyepieces:50% 
+documentation port, 100% documentation port with Min 19mm Camera imaging port for full sCMOS support 
+16. Documentation tube should have feature of double camera attachment  
+17. The 2 digital cameras and their accompanying software kits should have the following features: 
+a) 
+Monochrome Camera for fluorescence application: cool CCD camera with pixel size of 3.75x3.75µm; 1.3 M 
+Pixel; Speed full frame > 30fps;[ Binning 3x3 72fps] Exposure time 8µsec to 5 sec 
+18. Color CMOS Camera for BF/ PH/ DF/ DIC application: 3.1 MP  with pixel size of  3.2x3.2µm; Speed ≥ 30fps 
+Software specifications:  
+- 
+Image Processing & Measurement: Adjust contrast, brightness and gamma on every image; Merge, crop 
+and image arithmetic; Intensity, length and area measurements; Measurement of area intensities through 
+image stacks; Online measurement whilst displaying a live image; Parallax correction 
+- 
+Modular Structure, should have possibility to overlay / mix fluorescence images. 
+19. Hardware specifications: Latest Core i5 processor, 16 GB RAM, 1TB HDD, Licensed version of Windows 
+8/10, Graphic card, 24” HD Monitor 
+20. Future Upgradation – Semi  Motorized DIC. Objectives quoted should be suitable for future upgradation. 
+21. Microscope, Camera and software all three should be from one manufacturer. 
+
+

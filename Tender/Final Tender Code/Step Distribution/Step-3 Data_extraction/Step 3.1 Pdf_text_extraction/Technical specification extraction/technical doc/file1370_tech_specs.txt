@@ -1,0 +1,789 @@
+--- Page 5 ---
+Page 5 of 43 
+ 
+ 
+Technical Specification for Electrophoresis system   
+ 
+1.  The system must include electrophoresis tank along with power supply unit.  
+2.  Electrophoresis tank – specifications   
+3.  Should be a Single moulded tank with lid and low buffer consumption technology  
+4.  Three casting tray options should be available 
+5.  Should be compatible with multichannel pipettes  
+6.  No tape, clamps or springs should be needed for gel preparation  
+7.  Dimension (WxLxH): 10.4"x6.9"x3.5" (265x175x90mm) 
+Gel Dimension (WxL): 5.9"x2.8" (150x70mm) , 5.9"x3.9" (150x100mm), 
+5.9"x5.9" (150x150mm) 
+8.  Sample: 70 for 5.9"x2.8" (150x70mm) Tray (2x35 sample combs) 
+140 for 5.9"x3.9" (150x100mm) Tray (4x35 sample combs) 
+210 for 5.9"x5.9" (150x150mm) Tray (6x35 sample combs) 
+9.  Buffer volume 500 ml  
+10.  Construction: Leak proof injection moulded construction.  
+11.  Cassette Type Electrode: Should be easy to replace and made of 99.99% corrosion 
+resistant pure platinum 
+12.  Electrical Safety: Lid can only be fastened in one way and  upon lid removal, 
+power is disconnected from buffer chamber 
+13.  Quote must include pricing for all gel dimensions and sample comb options. 
+14.  Power supply Unit  – specifications   
+15.  Should be a microprocessor controlled power supply unit  
+16.  Should have four pairs of output terminals 
+17.  Screen: TFT-LCD coloured screen shows all parameters during operation 
+18.  Should have timer with alarm function 
+19.  Output Voltage / Inc.: 5 - 300V / 1V, Output Current / Inc. : 1 - 700mA / 1mA, 
+Power : Output: 150W; Input: 200W, Rated Voltage 100-240V~; 47-60Hz 
+20.  Type Of Output: 1. Voltage or Current with automatic crossover 2.When target 
+constant mode is set, system automatically adjusts the two other parameter to 
+maximum to allow constant run  
+21.  Program Storage : 30 Programmed files 
+22.  Should have Crossover, Stackable and Automatic Recovery After Power Failure 
+features  
+ 
+23.  Safety features: No Load detect, Leakage detect, Over temperature protection, 
+Over load detection, Sudden load change detection 
+24.  Timer : Constant: 9999 (min) with alarm / continuous Program: 999 
+(min) with alarm 
+25.  Should be CE or FDA or BIS approved product 
+ 
+General Conditions  
+26.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+27.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+
+
+--- Page 6 ---
+Page 6 of 43 
+ 
+28.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+29.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+30.  Operational onsite training must be provided for the faculty members free of cost 
+31.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+Technical Specification for Minifuge  
+ 
+1.  Model: Microprocessor controlled mini centrifuge with digital display  
+2.  Motor : Brushless DC (BLDC) 
+3.  Max speed of 6000 RPM – 2000 x g 
+4.  Should process up to 8 microtubes of 1.5/2 ml at a time 
+5.  Must have Electronic brake for immediate stop on lid opening for user safety 
+6.  Should be quoted with replaceable strip rotor & adaptors for 0.2 ml & 0.4/0.5 ml 
+microtubes 
+PCR Strip Rotor (2 x 8 x 0.2 ml) 
+Reduction Adaptors for 0.2 / 0.4/0.5 ml microtubes 
+7.  Should have compact footprint  
+8.  Noice: < 55 dB 
+9.  Should be CE or FDA or BIS approved product 
+ 
+General Conditions  
+10.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+11.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+12.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+13.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+14.  Operational onsite training must be provided for the faculty members free of cost 
+15.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+Technical Specification for Thermal Cycler - Quantitative  
+ 
+1.  The Thermal Cycler – Quantitative  should be Peltier-based 96-well Plate/tube in-
+built to support: Gene-Expression analysis, SNP Genotyping, Plus/Minus Assays 
+that utilize internal positive control, Dissociation Curve Analysis, Multiplexing 
+and complete End-Point Assays.  
+2.  The system should have 96-wells (0.1 or 0.2 mL) with 06 independent 
+temperature zones.  
+3.  The system should have 6 decoupled filters for Optical Detection.  
+4.  Bright White LED Light Source for excitation.  
+5.  Exitation/Detection range: 450–680 nm/500–730 nm 
+6.  Multiplexing must be upto 6 targets and upto 21 Color combination should be 
+possible.  
+
+
+--- Page 7 ---
+Page 7 of 43 
+ 
+7.  Peltier base Heating and Cooling Method  
+8.  Optical System: Optiflex  
+9.  Imaging System : CMOS  
+10.  Dynamic Range : 10 Log  
+11.  Temperature uniformity : 0.4 °C  
+12.  Temperature Accuracy : 0.25°C  
+13.  System should have Block ramp rate : 6.5 C or more  
+14.  Run Time should be less than 30 Mins  
+15.  Sensitivity: Detect differences as small as 1.5-fold in target quantities in 
+singleplex reaction.  
+16.  Detection sensitivity: 1 copy  
+17.  Total reaction volume range 10 uL to 100 uL for 96 well plate.  
+18.  The system should allow two ways to interact and analyze your data: Web 
+browser (Cloud) – based software or desktop analysis software.  
+19.  Application software like dedicated primer and probe design software as well as 
+relative quantitation analysis software to analyze multiple 96-well-plates of data 
+simultaneously must be included as standard supply in the quoted price.  
+20.  Should be supplied with suitable desktop computer for operations and online UPS 
+system for least 30 minutes backup for the whole system.    
+21.  Should be FDA or CE or BIS approved product 
+ 
+General Conditions  
+22.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 05 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 05 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+23.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+24.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+25.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+26.  Operational onsite training must be provided for the faculty members free of cost 
+27.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+Technical Specification for Laboratory Hot Plate  
+ 
+1.  Should be built with cast iron and accommodate minimum 15 slides 
+2.  Size (Dimension) (W)(inch): 10 inches  
+3.  Pilot lamp indicator (On/Off): Indicates heat 
+4.  Temperature control: 200 degree Celsius 
+5.  Surface Temperature: 250 degree Celsius 
+6.  Diameter: 9 inch 
+7.  Humidity (%): 85 
+8.  Minimum time to reach boiling point of 1 liter of water (approx): 15 min 
+9.  Shape: Rectangular  
+10.  Coating: MS powder coating 
+11.  Controller: Digital PID Controller 
+12.  Glass ceramic area: 235 mm 
+
+
+--- Page 8 ---
+Page 8 of 43 
+ 
+13.  Protection System: IP 20 
+14.  Material: Cast iron  
+15.  Should be CE or FDA or BIS approved product 
+ 
+General Conditions  
+16.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+17.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+18.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+19.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+20.  Operational onsite training must be provided for the faculty members free of cost 
+21.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+ 
+Technical Specification for Magnetic Stirrer  
+ 
+1.  Magnetic stirrer with hot plate  
+2.  Calibration: Automatic Calibration 
+3.  Type of Drive Motor: Brushless Motor DC 
+4.  Display Option/Output Read out Option: Analog 
+5.  Max speed : 100 RPM 
+6.  Magnetic stirrer Type; fixed speed 
+7.  Controller type: Microprocessor Controlled 
+8.  Speed Control Accuracy of set speed (+/-) (RPM): 5 
+9.  Max stirring capacity: 3000 ml  
+10.  Top plate Material: Stainless steel 
+11.  Timer: Yes must be provided:  
+12.  Base material: Die cast aluminium 
+13.  User Interface: Analog Front Panel 
+14.  Pulse Mode: Yes must be provided 
+15.  Last run memory and slip detection: Yes must be provided  
+16.  Should be CE or FDA or BIS approved product 
+ 
+General Conditions  
+17.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+18.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+19.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+
+
+--- Page 9 ---
+Page 9 of 43 
+ 
+20.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+21.  Operational onsite training must be provided for the faculty members free of cost 
+22.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+Technical Specification for Vortex Mixer 
+ 
+1.  Type of Drive Motor: Brushless DC Motor 
+2.  Display Option/Output Read out Option: Analog 
+3.  Material of Mixing Head/vortex cup: Rubber 
+4.  Type of Controller: Microprocessor Controlled 
+5.  Timer Setting (Increment step): 5 min 
+6.  Base material: Die cast aluminium 
+7.  Number of Sample tubes testable simultaneously: Multi-Tube 
+8.  User Interface: Analog Front Panel 
+9.  Largest Volume of the tube testable: 200 milliliter 
+10.  Finish of Body material: Powder coated  
+11.  Body Material: Die cast Aluminium 
+12.  Activation mode: Press Activated and Continuous run 
+13.  Max speed: 2500 RPM  
+14.  Accessories and spares included in standard pack: Interchange Adapter for 0.5 ml 
+and 2 ml tubes.  
+15.  Should be CE or FDA or BIS approved product 
+ 
+General Conditions  
+16.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+17.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+18.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+19.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+20.  Operational onsite training must be provided for the faculty members free of cost 
+21.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+.Technical Specification for Autoclave 
+ 
+1.  Vertical model , Top loading cylindrical Autoclave machine for steam and 
+pressure sterilization 
+2.  Capacity: 90 - 100 liter 
+3.  Microprocessor based temperature controller with control accuracy ±1.0°C 
+4.  Digital Temperature controller with inbuilt timer that will cut off the heaters 
+automatically after lapse of pre set time at the pre set temperature.  
+5.  The panel is provided with on/off switch, pressure gauge, steam release valve & 
+indicators to show the working of mains & pressure control system.  
+
+
+--- Page 10 ---
+Page 10 of 43 
+ 
+6.  Door sealing: Elastomeric rubber gasket suitable to withstand temperature upto 
+140 degree C & pressure upto 20-30 psi 
+7.  Radial locking system lid.  
+8.  Locking: Foot operated locking and unlocking radial system 
+9.  Chamber type: Circular  
+10.  Chamber material: Double walled SS 304 or higher  
+11.  Working pressure: 15-20 PSI  
+12.  Basket: Perforated stainless steel basket. 
+13.  Temperature sensor with range 100°C to 300°C, unit should be provided with a 
+low water alarm system as well as steam release valves and safety valves,Cut off 
+automatically when the autoclave is dry 
+14.  Should be CE or FDA or BIS approved product 
+ 
+General Conditions  
+15.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+16.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+17.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+18.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+19.  Operational onsite training must be provided for the faculty members free of cost 
+20.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+Technical Specification for Micropipettes 
+ 
+1.  Single-Channel and Adjustable Volume Pipette – Total 6 Nos  
+2.  Volume:  
+2-20 microliter – 1 Nos 
+20-200 microliter – 1 Nos 
+200-1000 microliter – 2 Nos  
+500-5000 microliter – 2 Nos 
+3.  Pipette Type: Air Displacement  
+4.  Each micropipette should have an independent tip ejector 
+5.  Each micropipette should be fully autoclavable 
+6.  Each micropipette should be with 4 digit display of volume setting  
+7.  Each micropipette should be compatible with all branded tips 
+8.  Each micropipette should be with volume locking feature  
+9.  Increment value: 0.2 μL  
+10.  Should have the adjustable finger rest - for both right- and left-handed operator  
+11.  Should have 5 years warranty  
+12.  Should be CE or FDA or BIS approved product 
+ 
+General Conditions  
+13.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+
+
+--- Page 11 ---
+Page 11 of 43 
+ 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+14.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+15.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+16.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+17.  Operational onsite training must be provided for the faculty members free of cost 
+18.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+Technical Specification for Laminar Air Flow Chamber  
+ 
+1.  Laminar Airflow (Class-II) should provide work area free of bacteria, fungi, 
+pollen, and practically all air-borne dirt. 
+2.  The basic equipment shall consist of a HEPA filter, pre filter, suitable blower 
+assembly, necessary lighting, indicators and controls for the cabinet. The 
+equipment should be mounted on a stand with levelling feet.  
+3.  Type of flow: Vertical  
+4.  The HEPA filter should have rated efficiency of 99.97% (or better) at 0.3 microns 
+to provide product protection of Class 100 or exceeding Class 100 requirements.  
+5.  PRE Filter with Synthetic, non-woven polyester fibers having casing of enamel 
+painted CRCA frame with Retention of 10 - 15 Micron and 90 % Efficiency.  
+6.  Work table: SS 304 
+7.  Work table size: 120x60x60 centimetres (WxDxH) 
+8.  Material of construction:  
+Main body and rear panel: Electro-galvanized steel or Mild Steel, oven baked 
+epoxy powder coated finish.  
+Side window (panels): UV stabilized transparent Perspex or polycarbonate or dual 
+metal side walls with negatively pressurised interstitial space.  
+Work table (surface): SS304  
+9.  Blower Assembly:  
+DIDW type blower or dual brushless DC (BLDC) blower system with high RPM 
+motor, enclosed in a powder coated MS casing suitably suspended in a pair 
+springs & connected to the filter chamber through flexible canvas duct or metal 
+blower plenum. 
+10.  Laminar Airflow Velocity:  
+Approx. 90 feet per minute (fpm) +/-10% average velocity measured 50 mm from 
+the filter face. Uniformity +/-20% of average or better. 
+11.  Light source: Illumination with Fluorescent light. Light Intensity at Work Surface: 
+800-1000 lux/75-90 foot candles 
+12.  UV Germicidal lamp intensity >40 microwatt/sq. cm. over the entire work surface  
+13.  Separate switch for ON/OFF Fluorescent light, UV lamp and Blower assembly  
+14.  Air pressure indicator with Inclined Liquid Column Manometer  
+15.  Pet cock: SS Pet cock for air/gas  
+16.  Front door: Single piece polycarbonate sheet sliding upwards with counterweight 
+17.  Should include vibration free Gas burner facility on working bench  
+18.  Drain valve with smooth drainage arrangement.  
+19.  Exhaust ducting as per site requirement 
+
+
+--- Page 12 ---
+Page 12 of 43 
+ 
+20.  Should be CE or FDA or BIS approved product  
+ 
+General Conditions  
+21.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+22.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+23.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+24.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+25.  Operational onsite training must be provided for the faculty members free of cost 
+26.  Bidders should provide authorization certificate for the quoted instrument  
+27.  Should be FDA or CE or BIS approved product 
+ 
+Technical Specification for Carbon dioxide Incubator  
+ 
+1.  The Carbon dioxide Incubator should provide optimum temperature, moisture 
+(sterile environment) and maintain optimum pH for cell culture  
+2.  Should be a portable model  
+3.  Inner total volume 60 to 90 litres  
+4.  Temperature range: +5 degree C above ambient to +50 degree C 
+5.  Silicon removable autoclavable inner door gasket.  
+6.  Temperature accuracy: ±0.1°C 
+7.  Temperature stability: ±0.1°C at 37°C 
+8.  CO2 gas range in percentage: 0.1 to 20  
+9.  CO2 recovery rate: Under 6 min after door opening and closing event to attain 5% 
+CO2. 
+10.  Inner chamber material: Stainless steel – Perforated Single Sheet with no corner 
+for higher capacity 
+11.  Built in HEPA filter Airflow System (100% HEPA filtered air within 1 minute) 
+with internal blower with or without FAN inside.  
+12.  Sensor: Infra-Red (IR) and NDIR type CO2 Sensor 
+13.  On demand sterilization at 140 degree C upto 12 hours  
+14.  Alpha numeric character display screen and message screen.  
+15.  Class 100 condition of air inside the chamber within five minutes after door 
+closing.  
+16.  Access code to lock the parameters  
+17.  Alpha numeric message for HEPA filter replacement.  
+18.  Should include CO2 Cylinder & Regulator along with the Incubator (price must 
+be included in the quote)  
+ 
+General Conditions  
+19.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+
+
+--- Page 13 ---
+Page 13 of 43 
+ 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+20.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+21.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+22.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+23.  Operational onsite training must be provided for the faculty members free of cost 
+24.  Bidders should provide authorization certificate for the quoted instrument  
+25.  Should be FDA or CE or BIS approved product 
+ 
+Technical Specification for Transilluminator 
+ 
+1.  Should be a dual-light source transilluminator - Dual LED Blue/White Light 
+2.  Should be designed for visualization of nucleic acid gels, protein gels, and 
+membrane stains. 
+3.  Amber filter cover (filters to ~580 nm) 
+4.  White and blue uniform plate 
+5.  White and blue light sources should allow for visualization of common nucleic 
+acid stains, colorimetric protein and membrane stains, and SYPRO protein stains 
+6.  Should have Magnetic filter screen with hinge-free design for simplicity and 
+safety, allowing observation and gel-cutting without protective goggles 
+7.  Should have Five-minute automatic power-off and long-lasting LEDs that are 
+safer for the eyes and skin compared with UV bulb illumination 
+8.  Three-level adjustable light intensity to achieve the best observational or imaging 
+quality  
+9.  Excitation Wavelength: 470 nm 
+10.  Field area: 12 x 18 cm 
+11.  Should be supplied with photographic imaging hood  
+12.  LED light source. Blue and White module  
+13.  Life time: > 30,000 hours 
+14.  Should be FDA or CE or BIS approved product 
+ 
+General Conditions  
+15.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+16.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+17.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+18.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+19.  Operational onsite training must be provided for the faculty members free of cost 
+20.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+
+
+--- Page 14 ---
+Page 14 of 43 
+ 
+Technical Specification for karyotyping system 
+ 
+ 
+The Karyotyping system should include  
+ 1. Upright Fluorescence Microscope,        
+ 2. Cytogenetic Imaging Workstation Camera,  
+ 3. Karyotyping software,                       
+ 4. Fluorescent In-situ hybridisation software,  
+ 5. Report / Archiving Software,             
+6. Digital Workstation 
+1.0  
+Upright Fluorescence Microscope 
+1.1 
+Should be supplied with upright stand and should have transmitted light path with 
+infinite optical system. 
+1.2 
+The microscope should offer a coaxial z-drive with coarse and fine focus. Fine focus 
+knob on left and fine focus disk on right. The focus range should be 24 mm to 
+quickly find the specimen focus. Microscope should include an adjustable focus 
+stop. The coarse focus provides movements of 4mm/rotation, the fine focus comes 
+with 400µm/rotation and with a graduation in micrometers (4µm). 
+1.3 
+The microscope shall provide an automatic mechanical shutter in the transmitted 
+light path when fluorescence observation is used.  
+1.4 
+Microscope should have integrated light manager and an ECO Mode with 6 Position 
+encoded nosepiece 
+1.5 
+The reflector turret shall be manual, revolving (sliding), with at least 4 encoded 
+positions 
+1.6 
+Light source: 100 W halogen lamp -  illumination for Transmitted light applications.   
+1.7 
+Objectives for Bright field and Fluorescence of magnifications: 4 objectives 
+5x (N.A:0.16), 10x (N.A:0.25), 40x (N.A: 0.75), 100 x oil immersion (N.A: 1.3). 
+1.8 
+Should have binocular phototube with reversed image with 100%-0%/0%-100% 
+splitting possibility between camera port and eyepieces. The inclination angle 
+should be 30° at a field number of 23mm. 
+1.9 
+Fluorescence illumination with 100 W mercury lamp house with self-adjusting 
+lamp. Fluorescence beam path should be fully apochromatically corrected for high 
+contrast fluorescence illumination 
+1.10 
+Fluorescence Filters for DAPI, GREEN, RED/ORANGE, Triple band 
+DAPI/FITC/TRITC and Aqua should be included  
+2.0 
+Cytogenetic Imaging Workstation Camera 
+2 .1 
+CCD Monochrome Camera :  
+Minimum resolution 1280x1024, 12 bit, pixel depth of 6.45µ x 6.45 µm and 
+exposure time between 20 µs and 300 s with global shutter, at least 15 frames per 
+second should be quoted.  
+3.0 
+Karyotyping software 
+3.1 
+The software should be highly accurate Artificial Intelligence (AI)/ Deep Neural 
+Network (DNN) enhanced flexible karyotyping (or chromosomal assignment), 
+available for all common human samples and banding patterns.  
+3.2 
+Should have Interactive/Automatic metaphase quality detection for automated 
+metaphase separation.  
+3.3 
+The software should convert Metaphase to karyotype with single click to ensure 
+faster turnaround time. 
+3.4 
+Should have batch processing mode- software should be able to convert multiple 
+metaphases to karyotypes with single click.  
+3.5 
+Should have precise Artificial Intelligence (AI)/ Deep Neural Network (DNN) 
+assisted chromosomal orientation algorithm for all chromosome sizes.  
+
+
+--- Page 15 ---
+Page 15 of 43 
+ 
+3.6 
+Should have user defined automated and assisted complete workflows such as 
+Interactive/Automated Artificial Intelligence (AI)/ Deep Neural Network (DNN) 
+based removal of non-chromosomal objects and background reduction. 
+Interactive/Automated AI/DNN based whole metaphase separation, including 
+overlapping, touching and clustered chromosomes. Interactive/Automatic 
+metaphase quality detection for automated metaphase separation.  
+3.7 
+Should have efficient interactive tools for manual correction of automated results, 
+interactive and automated Karyotyping of Human and other species. 
+3.8 
+Should provide additional analysis interface within the same license key/dongle to 
+ensure faster turnaround time.  
+3.9 
+Should have Unlimited UNDO and log operations to overcome human errors with 
+time and date record of every processing steps.  
+3.10 
+The software should be able to perform one click separation of overlapped 
+chromosomes. Interactive and automated Real time background correction and 
+Chromosome separation. Keyboard shortcut keys for several functions like 
+Chromosome separation (in case of over lapping chromosomes), image 
+enhancement, background correction and contrast enhancement.  
+3.11 
+Chromosome arm ratio should be identifiable to define P and Q arms.  
+3. 12 
+The software should be able to perform interactive and automatic Classification 
+based on built-in classifiers for G-, Q- and R-banding. Ideograms according to ISCN 
+standard for 400, 550, and 850 bands. Additional captures to encompass all 
+chromosomes of widely spread metaphases in one karyotype, Up to 26 images can 
+be incorporated into 1 to have one complete Karyogram in case of polyploids 
+4.0 
+Fluorescent In-situ hybridisation software 
+4.1 
+Should have extended focus image generation to have a very clear Fluorescence 
+signal against clear dark background.  
+4.2 
+Should have user defined automatic processing functions significantly simplify the 
+image enhancement immediately after the capture.  
+4.3 
+Should have Interactive and automatic integration time control for each color 
+channel. Automatic and interactive background correction and thresholding for 
+each color channel.  
+4.4 
+Should have Mask (exclude/include) function, Transient and permanent zoom, 
+Presentation of individual colors, false colors, and gray levels, Annotation 
+capabilities and Measurement functions.  
+4.5 
+Should have Provision to capture color images using RGB filters for stained 
+samples/slides like H&E, Special Stains, IHC etc 
+5.0 
+Report / Archiving Software 
+5.1 
+Should be a dedicated software for report   generation,   analysis,   archiving and 
+classifying with Institute logo or other related images. 
+5.2 
+Should perform scheduled backup and give notification if data is not getting saved.  
+5.3 
+Should have user defined report generation with graphic interface.  
+Provision in software to extract statistical information of cases/reports like cases 
+per year, results per year and samples per year.  
+6.0 
+Digital Workstation computer  
+6.1 
+Intel Core i7-10700 (8-Cores, up to 4.8GHz, 16MB, 16T, 65W) or higher  
+6.2 
+16 GB (2x8) RAM DDR4 or higher  
+6.3 
+Graphics card - NVIDIA GeForce RTX 3080 (10GB DP/HDMI)  
+6.4 
+Monitor 20” TFT or higher with 1920x1080 resolution  
+6.5 
+256GB PCIe NVMe (M.2 Class 40) SSD, Hard disk 4TB (3.5 inch 7200rpm SATA) 
+with 1000W chassis  
+6.6 
+Original Window 10 Pro 64 bit  
+6.7 
+16X Max DVD +/- RW with Dual Layer Write Capabilities  
+
+
+--- Page 16 ---
+Page 16 of 43 
+ 
+6.8 
+Multifunction colour laser printer compatible with Window 10 
+6.9 
+3 KVA online UPS with at least 30 minutes backup for the whole system   
+7.0 
+General Conditions  
+7.1 
+Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 05 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 05 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+7.2 
+Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+7.3 
+The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+7.4 
+The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+7.5 
+Operational onsite training must be provided for the faculty members free of cost 
+7.6 
+Bidders should provide authorization certificate for the quoted instrument  
+7.7 
+Should be FDA or CE or BIS approved product 
+ 
+Technical Specification for Nanophotometer  
+ 
+1.  UV- vis Spectrophotometer for micro volume sample analysis. 
+2.  Instrument must be capable to analyse minimum Sample Size up to 1 Microlitre  
+3.  Instrument must have unique sample-retention system to deliver the same 
+exceptional accuracy and reproducibility. 
+4.  Spectrophotometer have capable to measure nucleic acid concentration at 260nm 
+and purity using the 260/280 ratio,Measures purified protein concentration at280 
+nm. 
+5.  Instrument must have the 0.5 mm path length 
+6.  Spectrophotometer Light Source should be Light emitting diodes for long life 
+7.  Instrument must contain Silicon photodiode Detector for good results 
+8.  Wavelength Range must and should be 260 and 280 nm or better. 
+9.  Spectral Resolution should be below 8.0 nm or better 
+10.  Measurement Reproducibility of instrument must be 0.002 with SD of 10 
+individual measurements at 0.74 Abs 
+11.  Absorbance Accuracy should be at least 3% (at 1.05 Abs at 260 nm) 
+12.  Absorbance Range must be 0–30 Abs. 
+13.  Lower Limit of Detection must be 4 ng/μL for dsDNA and 0.12 mg 
+/mL for BSA or better. 
+14.  Maximum Concentration limit should be 1500 ng/μL for dsDNA, 45 
+mg/mL for BSA 
+15.  Analysis Time must be faster, less than or equal 5 seconds per one 
+sample 
+16.  Sample Pedestal Material must be constructed with 303 stainless 
+steel and quartz fiber for better life. 
+17.  Instrument must be Stand-alone control with inbuilt screen to display results and 
+data export via USB Flash Drive. 
+18.  Should be FDA or CE or BIS approved product 
+ 
+General Conditions  
+
+
+--- Page 17 ---
+Page 17 of 43 
+ 
+19.  Bids should be accompanied by full technical specification of the model/make 
+offered. Price quoted should be inclusive of Comprehensive Warranty (Including 
+all Spares, Accessories and Labour) for 02 years from the date of installation. Also 
+the bidders are requested to submit their price quote for subsequent 03 years 
+Comprehensive Maintenance Contract (Including All Spares, Accessories and 
+Labour).  
+20.  Bidders should clearly indicate the model number of the offered item. The make 
+and model should be verifiable from the manufacture’s official website. (include 
+URL for the quoted instrument ) 
+21.  The bidder should provide a list and full contact details of Government institutes 
+who are users of the quoted model.  
+22.  The bidder should clearly specify the availability of after sales service for the quoted 
+item.  
+23.  Operational onsite training must be provided for the faculty members free of cost 
+24.  Bidders should provide authorization certificate for the quoted instrument  
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------  
+(Signature & Stamp of the bidder) 
+ 
+GENERAL INSTRUCTIONS TO BIDDERS (GIB) 
+1. Preamble:-   
+a) Eligibility of Bidders:- Before formulating the tender and submitting the same to the 
+purchaser, the bidder should read and examine all the terms, conditions, instructions, 
+checklist, Technical specifications, etc. contained in the Tender documents. Failure to 
+provide and/or comply with the required information, instructions etc. incorporated in 
+these tender documents may result in rejection of its tender. 
+b) Language of Tender:-The tender submitted by the bidder and all subsequent 
+correspondence and documents relating to the tender exchanged between the bidder and 
+the purchaser, shall be in English language, unless otherwise specified in the Tender 
+Enquiry. However, the language of any printed literature furnished by the bidder in 
+connection with its tender may be written in any other language provided the same is 
+accompanied by an English translation and, for purposes of interpretation of the tender, 
+the English translation shall prevail. 
+The tender submitted by the bidder and all subsequent correspondence and documents 
+relating to the tender exchanged between the bidder and the purchaser, may also be 
+written in the Hindi language, provided that the same are accompanied by English 
+translation, in which case, for purpose of interpretation of the tender etc, the English 
+translations shall prevail. 
+c) Tendering Expenses:- The bidder shall bear all costs and expenditure incurred and/or to 
+be incurred by it in connection with its tender including preparation, mailing and 
+submission of its tender and for subsequent processing the same. The purchaser will, in 
+no case be responsible or liable for any such cost, expenditure etc regardless of the 
+conduct or outcome of the tendering process. 
+
+

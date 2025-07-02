@@ -1,0 +1,66 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Bio/19/03-273/OT/A 
+ 
+Page 17 of 18 
+ANNEXURE-I 
+Detailed Technical Specification for “OSMOMETER” for  
+Department of Biochemistry at AIIMS Raipur. 
+S. N. 
+Item Description 
+Qty. 
+1. 
+OSMOMETER: 
+1. The machine should be based on the principle of freezing point measurement with a linear 
+measuring range between 0 and 3000mOsmol/kg. 
+2. The machine should have facility for three point calibration for better accuracy and 
+reliable results and with selectivity for two point as a standard feature. 
+3. Provision should exist for automatic calibration which must be easy to perform, and 
+calibration should be stable for a long period. 
+4. The sample cooling should be with high capacity air cooled peltier, without need for 
+cooling liquid for dissipation of heat, or involving maintenance.  
+5. The nominal sample volume should be 50µl. 
+6. The measurement should be completed within a minute for handling higher workloads and 
+serial measurements 
+7. Should have LCD touch screen for easy control, convenience in operation and step by step 
+user guidance. 
+8. Should have automation with (i) the initiation of the crystallisation, (ii) detection of the 
+measuring value, (iii) storage and (iv) calibration for precise and reproducible results. 
+9. The resolution of the measurement should be one mOsmol/kg , over the entire range of 
+measurement. 
+10. The reproducibility should be within 2mOsmol/kg or better, and applicable over the range 
+of 0 to 400 mOsmol/kg, and at least 4 mOsmol/kg in range of 400 to 3000 mOsmol/kg. 
+11. Automatic error detection with the clear indication of messages in the final results being 
+reported. 
+12. Should have provision for optional built-in printer, graphic, non thermal type, dot matrix 
+with date, time and sample data. 
+13. The machine should have standard equipment features communication through DTR 
+RS232 serial port, USB and barcode scanner port thereby offering extensive and flexible 
+data handing possibilities. 
+14. The machine should be provided with a Suitable UPS to provide an uninterrupted power 
+supply for 30 minutes during power failure. 
+15. The company must bear the charges during installation and commissioning of the whole 
+system. 
+16. The system should have 5 years warranty on whole system, parts and accessories: like 
+Printer, UPS & batteries.  
+17. CMC must be quoted separately. 
+18. After expiry of warranty, the CMC shall be automatically started. The supplier should take 
+responsibility for maintenance of the whole system. 
+19. The company should also quote the price of the consumables, calibrators, controls and 
+cleaning reagents in order to freeze the price of the items. 
+20. System shall be quoted under optional extra (i) consumables to run 1000 samples 
+including sample cups, calibrators, controls, printer paper, and (ii) recommended 
+maintenance kit with value not exceeding 5% of the cost of the machine, for trouble free 
+operation (iii) suitable stabilizer. 
+21. The supplier must provide PO and customer satisfactory certificate from Institution of 
+National importance. 
+01 
+Set. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,141 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Neuro/18/280/OT 
+ 
+Page 17 of 21 
+ 
+ANNEXURE-I 
+Specification for Transcranial Doppler with Multi-Frequency Probe 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against manufacturing defect and 5 years CMC. 
+2. All equipment’s should be BIS/European CE certified & USFDA approved. 
+3. Manufacturer should be ISO certified 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly 
+marking the Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together from a 
+single vendor. Demonstration of the instruments may be taken from all the firms: 
+6. L-1 will be decided on total value only  
+7. All firms should have supplied the quoted instruments to the reputed government 
+hospitals like AIIMS/ PGI etc, and should submit a certificate of satisfactory working 
+from the concerned government hospital. 
+ 
+S. 
+No. 
+TECHNICAL SPECIFICATIONS OF TRANSCRANIAL DOPPLER WITH 
+MULTI-FREQUENCY PROBE FOR EMBOLI DIFFERENTIATION 
+ 
+1 
+Specifications 
+1.1 
+Transcranial Doppler with 2 Channel 
+1.2 
+With Color Doppler 
+1.3 
+Digital Doppler of the latest generation 
+1.4 
+Channel can be upgrade for 1,2 ,2.5, 4,8,16 MHz at any time 
+1.5 
+2 inputs for 2MHz probes for continuous monitoring 
+1.6 
+Doppler Frequency 1MHz in PW 
+1.7 
+Doppler Frequency 2MHz+2.5MHz in PW 
+1.8 
+Doppler Frequency 4MHz, 8MHz in PW/CW 
+1.9 
+Doppler Frequency 16MHz in PW 
+1.1 
+Programmable control panel with remote function 
+1.11 Simultaneous management of both windows operating interface and Doppler 
+1.12 Automatic software probe detection 
+1.13 The possibility to export the findings in ASCII mode 
+1.14 Connection to a computer via LAN (Ethernet) interface 
+1.15 The remote control functions like a   computer mouse TCD Should have integrated PC 
+with display monitor 
+1.16 Software runs under Windows 10 operating system 
+1.17 Probe holder integrated with Doppler unit 
+1.18 Should be available with fully integrated color Doppler imaging module with linear 
+1.19 Trolley cart should be supplied by the manufacturer 
+2 
+Probes 
+2.1 
+All probe inputs must be the same - any of the probes can be connected to any input 
+2.2 
+Ability to connect multi-frequency probes (1/2/2 +2.5/4/8/16 MHz) 
+2.3 
+2 MHz probe should be included-1no 
+2.4 
+4 MHz probe should be included-1no 
+2.5 
+8 MHz probe should be included-1no 
+
+
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Neuro/18/280/OT 
+ 
+Page 18 of 21 
+ 
+2.6 
+16MHz probe for Intra-Operative Monitoring should be included-1no 
+2.7 
+5-12MHz Linear array probe for Color Doppler Imaging should be included-1no 
+3 
+M-Mode 
+3.1 
+Minimum of 8000 depths "Gates" 
+3.2 
+Speeds measureable up to 1200cm/s 
+3.3 
+Up to 9 spectral windows 
+4 
+Analog inputs and outputs 
+4.1 
+8 analog inputs should be available 
+4.2 
+4 analog outputs should be available 
+5 
+Routine software 
+6 
+Software for bilateral monitoring (2-channel) 
+7 
+Complete patient database and reading of the reports on any compatible PC 
+8 
+Software with open license (without protection) for work and analysis on unlimited 
+number 
+of 
+windows operated PCs 
+9 
+Multi Frequency Probe for Emboli Differentiation with software for Emboli 
+Differentiation. 
+10 
+Software for Emboli Detection. 
+10 
+Mandatory possibility to upgrade additional software in options support 
+10.1 CO2/VMR module CO2/VMR Test software in option 
+10.2 Evoke Flow Test software in option 
+11 
+Computer system 
+11.1 Fully variable rotation and tilting 22" HD LCD display should having better resolution 
+11.2 HDD: min. 1 TB SATA III 7200 
+11.3 USB 2.0: min. 8 ports 
+11.4 Ethernet: 2x10/100/1000 Mbit/s 
+11.5 Doppler – PC connection cable 
+11.6 Windows 10 or latest OS 
+11.7 Graphic Card 
+12 
+Headband monitoring set with mandatory characteristics 
+12.1 Two (2) separate 2 & 2.5 MHz Multi frequency monitoring probes 
+12.2 Two (2) special fasteners for monitoring probes 
+12.3 Weight without probes maximum 100g 
+12.4 Headband can be fastened on three different locations 
+12.5 Foreheads with circumference of 55 to 74 cm 
+12.6 The tape is produced from bio-compatible plastic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

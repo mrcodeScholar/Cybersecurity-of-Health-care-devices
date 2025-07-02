@@ -1,0 +1,482 @@
+--- Page 39 ---
+ 
+ 
+Tender No. AIIMS/ R/CS/DENT/CBCT/GTE/2024 
+39 
+ 
+Section VII 
+Annexure-I 
+Technical Specifications of 
+Cone Beam Computed Tomography Machine (CBCT)with Cephalostat 
+                                                                      Specification 
+ 
+The CBCT machine with a Cephalostat should be capable of capturing high-quality 3D images of the 
+patient's skull and jaw in a single scan. The machine should also be user-friendly and easy to operate by 
+the medical staff. 
+ 
+1. Imaging System: 
+ 
+1.1. 
+Should have 3D cone beam computed tomography (CBCT) system. 
+1.2. 
+The unit should have automatic selection of radiological parameters as per patient             
+requirements. 
+1.3. 
+It should be capable 3D volumetric imaging in axial, coronal and sagittal planes.  
+1.4. 
+The unit should have automatic selection of radiological parameters as per patient 
+requirement. 
+1.5. 
+It should have push button / touch screen operating controls with graphic user interface. 
+1.6. 
+The remote operating control should preferably be mounted outside X- ray room. 
+1.7. 
+It should have Emergency stop button. 
+1.8. 
+CBCT Machine and all accessories should confirm to National and International standards. 
+1.9. 
+CBCT machine should be AERB certified and registered. 
+1.10. The unit should have a gantry with latest technology that should enable complicated 
+movements and versatile imaging geometries. 
+1.11. System should work on Amorphous Silicon/ CMOS/CCD sensor with Flat Panel 
+Technology for all 3 Modalities 2D, 3D and Cephalometry  
+1.12. Field of view (FOV): The FOV volume size should be within the range of 16 x16cm  to 
+30x30 cm, smallest FOV should be available from 4x4 cm or smaller.  
+1.13. Users should be able to adjust the size and location of the FOV easily. 
+1.14. The Voxel Size Should be in the range of 75 To 600 µM. 
+1.15. Grayscale 14-bit or more 
+1.16. It should have the possibility to measure 3D volume.  
+1.17. It should have wide range of volume size selections. 
+1.18. It should have image acquisition angle 200/360° 
+1.19. It should have metal artifact removal technique. 
+1.20. It should have noise removal filter.  
+1.21. Should have the following Programs.  
+i. 
+3D programs like teeth, jaw, face, skull 
+ii. 
+Panoramic 2D program 
+iii. 
+2D Tomographic/Sectional Views 
+iv. 
+2D lateral and PA TMJ program 
+v. 
+3D nose diagnosis program 
+vi. 
+3D sinus program  
+
+
+--- Page 40 ---
+ 
+ 
+Tender No. AIIMS/ R/CS/DENT/CBCT/GTE/2024 
+40 
+ 
+vii. Middle ears programs  
+viii. Temporal bones programs 
+ix. 
+Vertebrae program  
+x. 
+Airway study program  
+xi. 
+Cephalometric imaging         
+xii. It should be able to scan models, impressions, and plaster casts.  
+1.22. Scan time: Maximum Scan time of less than 40 seconds. 
+1.23. Reconstruction time: Reconstruction time of not more than 60 seconds. 
+2. X-ray unit 
+ 
+1.1. 
+High-frequency generator with constant potential  
+1.2. 
+The anode voltage should be 60-120kv for better clarity. 
+1.3. 
+The anode current should be 1-16 mA. 
+1.4. 
+The focal spot size should be 0.5x0.5mm or less. 
+1.5. 
+The unit should have low dose technique for exposure. 
+1.6. 
+Automatic exposure control (AEC) 
+1.7. 
+Automatic dose optimization (ADO) 
+ 
+3. Patient Positioning: 
+ 
+3.1. 
+The unit should have feature of inbuilt face scanning. Should have support with inbuilt 
+software for  
+3.1.1. Live patient view and recording  
+3.1.2. Creating the virtual patient and managing 2D and 3D files  
+3.1.3. HD face scanning. With more details and perfect for capturing volumes and 
+measurements  
+3.2. 
+The Unit Should Have Movement Correction Algorithm  
+3.3. 
+Should have the latest and advanced patient positioning mechanism with proper adjustment 
+to FH plane. 
+3.4. 
+The unit should have advanced head support with 3 laser guides ( Frankfurt,  sagittal and 
+canine) projected on the face ensure excellent patient stability and precise patient 
+positioning with Chin rest and Bite block for consistent bite registration 
+3.5. 
+It should have a dedicatedhead support for better stability without compromising patient 
+comfort. 
+3.6. 
+It should have patient positioning face to face with live video patient positioning system, the 
+unit’s sensor should have atleast four built-in cameras and LED light strips for capturing 
+highly detailed 3D photographs. Then these should combine with the patient’s CBCT image 
+to enrich both treatment planning and patient communication. 
+3.7. 
+3D Photo Face feature: The unit must have 3D face scanning inbuilt to scan a 3D face photo 
+of the patient. Face scan should be possible to be superimposed with CBCT data 
+3.8. 
+Wheelchair compatible: should be possible both in sitting and standing mode. 
+ 
+4. Cephalostat. 
+ 
+4.1. 
+Should have a dedicated cephalostat with a separate CMOS/CCD Sensor for 2D and Ceph 
+modality. 
+
+
+--- Page 41 ---
+ 
+ 
+Tender No. AIIMS/ R/CS/DENT/CBCT/GTE/2024 
+41 
+ 
+4.2. 
+Motorized movement for precise positioning and should have laser positioning facility for 
+accurate patient positioning. 
+4.3. 
+Automatic landmark tracing and cephalometry analysis should be possible: Steiner, Tweed, 
+Rickett'setc. Automatic ceph report generation should be possible 
+ 
+5. Image  
+ 
+5.1. 
+It should have possibility to export and import 3D images in STL and DICOM format. 
+5.2. 
+Possibility to super impose 3D images before and after the treatment for comparison.  
+5.3. 
+It should have 2D panoramic generated from 3D volume. 
+5.4. 
+Should have Metal Artifact Suppression feature that Reduces metal artifacts, should have 
+the ability for users to perform live comparison of images—with and without metal artifact 
+filters 
+6. Software  
+ 
+6.1. 
+Should provide with licensed software which is latest and upgraded free of cost during the 
+warranty and AMC/CMC period. 
+6.2. 
+Should install necessary software in all the computers (20 Computers) in the department 
+through LAN, so that the images can be accessed and worked upon chairside.  
+6.3. 
+It should compatibility with MacorWindows operating system 
+6.4. 
+The post processing features in the software should include.  
+6.5. 
+Modules required.  
+ 
+6.5.1. 
+Dental Smile designing Module. 
+6.5.2. 
+3D implantology Module  
+i. Implant planning software compatible with popular implant planning models 
+ii. Nerve canal and other anatomical structure (root canals, periodontal bone) 
+estimation 
+6.5.3. 
+Cross sectional slices (multiplanar) 
+6.5.4. 
+Threshold selection 
+6.5.5. 
+Segmentation and 3D modelling 
+6.5.6. 
+Panoramic view mapping 
+6.5.7. 
+TMJ analysis 
+6.5.8. 
+Airway assessment 
+6.5.9. 
+Magnification or zoom to visualize the images  
+6.5.10. 
+Density (HU)calculations 
+6.5.11. 
+Labeling 
+6.5.12. 
+Multi-color tone selection facility for better image visualization 3D clipping (cropping 
+facility) 
+6.5.13. 
+High contrast mode for hard tissue (bone, enamel dentin) display Measurement tools 
+(linear and angular) 
+6.5.14. 
+True size reconstruction for jaw, cranium, or any smallvolume as desired by operator at 
+later time 
+6.5.15. 
+Facility for simultaneous display of PAN, CEPH and cross-sectional images  
+6.5.16. 
+Upgradable for integration with third party CAD CAM system.  
+6.5.17. 
+Dental PACS 
+
+
+--- Page 42 ---
+ 
+ 
+Tender No. AIIMS/ R/CS/DENT/CBCT/GTE/2024 
+42 
+ 
+7. Computer hardware of high specifications compatible with machine for image processing, 
+archiving, and printing 
+ 
+7.1. 
+CD/DVD drive 
+7.2. 
+Processor: Compatible with machine software Intel Core i9 14th Gen Processor or above 
+7.3. 
+Operating system: Compatible with the machine and genuine licensed latest software, 
+windows 11 PRO or above (latest). 
+7.4. 
+RAM: 32 GB and above 
+7.5. 
+Graphics card: Dedicated 16 GB and above. 
+7.6. 
+USB ports.: Type A atleast 4 Ports and Type C atleast 2 Ports  
+7.7. 
+Hard disk capacity of at least 16 TB 
+7.8. 
+Medical grade flat screen monitor with high resolution (27inches or above) 
+7.9. 
+The display matrix should be at least 1920 x 1200. 
+7.10. 
+DICOM facility to send, store, print, receive, Query /Retrieve, 
+7.11. 
+MWM, MPPS etc. should be standard. 
+7.12. 
+Should be supplied with One Colour Laser Jet printer.  
+i. Should have print scan and copy facility.  
+ii. Should have a dpi 600 or above. 
+iii. Should have Wi Fi connectivity.  
+iv. Colour Cartridge should be supplied for at least three years. 
+v. HP, Canon or equivalent  
+7.13. 
+One DICOM Printer compatible with Unit to be supplied with the Unit.  
+i. Should be with Dry view Printing Technology  
+ii. Should be compatible for different image size (8x10, 6x12, 14x17 etc.)  
+iii. Should have True laser technology (Photo thermographic)  
+iv. Should have Greater than 600 laser pixel per inch.  
+v. Should be able to integrate with Hospital PACS  
+vi. AGFA, Care stream, Fuji or Equivalent  
+ 
+7.14. 
+Should be supplied with a Server as per the requirement of the supplied equipment.  
+7.15. 
+Furniture: 
+i. High Quality wooden/SS Furniture and two comfortable Chairs as per location for 
+workstation and DICOM Printer. Two SS almirah’s for record keeping and storage 
+purpose. 
+ 
+8. Installation and Site Modifications  
+ 
+8.1. 
+The installation site is in the theDepartment of Dentistry AIIMS Raipur. 
+8.2. 
+The equipment needs to be installed as per the AERB requirements. 
+8.3. 
+Any alterations and additional requirements to fulfill AERB Norms at the installation site 
+needs to be carried out by the vendor.  
+8.4. 
+Site details and modifications required: 
+8.4.1. The allocated site/room for installation of CBCT is of the size 10.8X10.8 sq feet area 
+with an 9inch wall and lead lined door as per the AERB requirements  
+8.4.2. The bidder is expected to undertake only internal modification to create a separate area 
+for console/reporting and exposure/equipment/shooting area with partition compliant 
+with AERB guidelines 
+
+
+--- Page 43 ---
+ 
+ 
+Tender No. AIIMS/ R/CS/DENT/CBCT/GTE/2024 
+43 
+ 
+8.4.3. The separation between the areas shall be incorporating AERB compliant see-through 
+glass of 4x3 feet in two of the walls created for better visualization and light 
+ventilation. 
+8.4.4. All the furniture for the CBCT room should be included in the tender shall be branded 
+and of high quality. 
+8.4.5. Any required electrical, LAN, Civil alterations need to be considered for proper 
+installation of the equipment as per the guidelines or OEM requirements. 
+8.5. 
+Periodic annual renewal of AERB documentations / Quality Certifications for the 
+equipment and the room during the warranty and AMC/CMC period is the responsibility of 
+the bidder. 
+ 
+9. UPS 
+ 
+9.1. 
+Online UPS for the whole equipment and the accessories and workstation to support atleast 
+30 minutes backup. 
+ 
+10. Certification  
+Product should be CE European/USFDA/BIS approved. 
+ 
+11. Warranty  
+ 
+11.1. 
+5 years onsite warranty  
+11.2. 
+48 hours downtime  
+11.3. 
+Warranty: 5 years warranty without any exclusion from the date of installation for both 
+equipment, accessories, and stabilizer/UPS with battery +5 years comprehensive 
+maintenance contract without any exclusion for both equipment, accessories and 
+stabilizer/UPS (if supplied) with battery.  
+11.4. 
+The cost of warranty and CMC will be included in the total cost of financial comparison. 
+Original literature of equipment should be submitted.  
+11.5. 
+User's list should be provided with a satisfactory report for the last three years from three 
+users with contact details. 
+11.6. 
+BIS/ISOEuropean CE / USDA certification specific for the product should be submitted. 
+12.  
+Service and Maintenance  
+12.1.1. Mandatory 6 monthly periodic maintenance of the whole equipment and installation during 
+the warranty period and CMC/AMC. 
+12.2. 
+During the Warranty & CMC period, the supplier / firm must provide Annual calibration 
+and preventive maintenance as well as routine services every 6 months. 
+12.3. 
+After sales services must be provided at AlIMS, Raipur (at installation site). In situations 
+requiring service or repair of the unit outside AIMS, Raipur and commissioning, the 
+expenditure on the account of this will have to be borne by the supplier. 
+13. Training. 
+ 
+Mandatory training to the whole department initially and every 6 months for new joining for next 
+five years. 
+14. Demonstration  
+Demonstration of the equipment needs to be arranged by the bidder to the technical experts 
+nominated by AIIMS Raipur on their own cost. 
+ 
+ 
+ 
+ 
+
+
+--- Page 44 ---
+ 
+ 
+Tender No. AIIMS/ R/CS/DENT/CBCT/GTE/2024 
+44 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE document for complete 
+equipment (including Batteries for UPS, other vacuumatic parts wherever applicable) Warranty period will 
+be 5 years from the date of installation, commissioning and Site Modification Work from the date of 
+satisfactory 
+installation, 
+commissioning, 
+trial 
+run 
+& 
+handing 
+over 
+of 
+equipment 
+to 
+Hospital/Institution/Medical College. 
+b) 98% up time Warranty of complete equipment with extension of Warranty period by double the downtime 
+period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical College on 24 (hrs) X 7 
+(days) X 365 (days) basis. Complaints should be attended properly, maximum within 8 hrs. The service should be 
+provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the spares for the equipment shall 
+be available for at least 10 years from the date of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents (if they have the 
+requisite know-how) for operation and maintenance of the equipment to the satisfaction of the consignee. The 
+same will be in line with the training modalities as specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes preventive maintenance including 
+testing & calibration as per technical/ service /operational manual of the manufacturer, labour and spares, 
+after satisfactory completion of Warranty period may be quoted for next 5 years on yearly basis for 
+complete equipment (including Batteries for UPS, other vacuumatic parts wherever applicable) and Site 
+Modification Work (if any). The supplier shall visit each consignee site as recommended in the 
+manufacturer’s technical/ service /operational manual, but at least twice in six months (i.e. 4 preventive 
+maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender Opening. The taxes to be 
+paid extra, to be specifically stated. In the absence of any such stipulation the price will be taken inclusive 
+of such taxes and no claim for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be taken at Net Present Value 
+with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory completion of said period, duly 
+certified by end user on receipt of bank guarantee for 5% of the cost of the CMC contract value as per 
+Section XV valid till 2 months after expiry of entire CMC period.  
+e) There will be 98% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 365 (days) basis, with 
+penalty, to extend CMC period by double the downtime period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee’s site at least twice in 6 months (i.e. 
+4 preventive maintenance/ year) apart from all breakdown visits, commencing from the date of the 
+successful completion of warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the Bank Guarantee for 
+Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+ 
+ 
+ 
+ 
+
+
+--- Page 45 ---
+ 
+ 
+Tender No. AIIMS/ R/CS/DENT/CBCT/GTE/2024 
+45 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, wherever required. The 
+Tenderer shall examine the existing site where the equipment is to be installed, in consultation with HOD of 
+Hospital/Institution/Medical 
+College 
+concerned. 
+Site 
+Modification 
+Work 
+details 
+of 
+each 
+Hospital/Institution/Medical College are given at the end of Technical Specification. The Tenderer to quote prices 
+indicating break-up of prices of the Machine and Site Modification Work of each Hospital/Institution/Medical 
+College. The Site Modification Work costs to be quoted in Indian Rupee will be added for Ranking Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation the price will be taken 
+inclusive of such duties and taxes and no claim for the same will be entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note1:Tenderer‟s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The tenderer is to provide 
+the required details, information, confirmations, etc. accordingly failing which its tender is liable to 
+be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of equipment for carrying out 
+routine and preventive maintenance wherever asked for and should make sure that Electrical Safety 
+Analyzer / Tester for Medical equipment to periodically check the electrical safety aspects as per BIS 
+Safety Standards IS-13540 which is also equivalent to IEC electrical safety standard IEC- 60601 is a 
+part of the equipment s. If the Electrical Safety Analyzer/Tester is not available they should provide a 
+commitment to get the equipment checked for electrical safety compliance with Electronic Regional 
+Test Labs / Electronics Test and Development Centres across the country on every preventive 
+maintenance call. 
+Note 3:Adequate training of personnel and non-locked open software and standard interface interoperability 
+conditions for networked equipment in hospital management information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical training for 
+personnel involved in the use and handling of the equipment on site at the institute immediately after 
+its installation. The company shall be required to train the institute personnel onsite for a minimum 
+period of 1 month 
+All software updates should be provided free of cost during warranty period and CMC period 
+
+

@@ -1,0 +1,93 @@
+--- Page 10 ---
+Tender for Optical Biometer                                                                                       Admn/Tender/04/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Optical 
+Biometer 
+1 
+Should be based on Reflectometery or OCT Based or 
+Interferometry 
+2 
+Should be capable of the following measurements 
+3 
+Axial Length 14-32 mm or more 
+4 
+Corneal radius 3 -10mm or more 
+ 
+5 
+Lens thickness : 0.5 - 6.5 mm or more 
+6 
+Central Corneal Thickness : 300-800 mirror or more with 
+Actual Measurement of 
+Corneal Thickness. 
+ 
+ 
+ 
+ 
+7 
+Anterior Chamber depth 1.5 -5.5 mm or more including 
+anatomical ACD or AD capablity. 
+8 
+White - to White 8 mm - 16 mm or wider 
+9 
+Formulaes for IOL Calculation 
+10 
+SRK-II, SRK -T, Barret, , Olsen, Masket, Modified 
+Masket, Hoffer Q, Haigis, Multi Formula 
+Calculation. Haigis, Hoffer Q, Holladay 1, Barrett 
+Universal II, Olsen. 
+ 
+Toric  IOL calculator -  Generic Toric IOL, Oculentis Toric 
+IOL 
+ 
+11 
+Optimisation  of IOL Constant 
+12 
+Integrated A Constant optimisation  for surgeons for each 
+Lens & IOL Calculation 
+Formula. 
+13 
+One of the following lates New generation formula Olsen, 
+or Barret, Haigis-L , or 
+Shammas- No History   for calculating the corneal power 
+after refractive corneal surgery 
+14 
+Apical curvature 
+Apical gradient of  curvature 
+Symmetry index 
+Kpi (Keratoconus probability index) 
+ 
+ 
+ 
+Interfaces 
+15 
+Data Transfer to computer or electronic record. 
+16 
+Data Export to USB Storage media. 
+17 
+CE/FDA approved manufacturer with expertise to make 
+this equipment last for next five years. 
+18 
+Should be supplied with UPS with uninterrupted 
+functioning of entire system including table and printer 
+for a period of 30 min 
+19 
+The Equipment should have suitable PC & software 
+printer 
+20 
+The Firm should be capable of providing all the 
+services and repairs including the availability of 
+spares within the country itself. 
+ 
+01 
+
+

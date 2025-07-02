@@ -1,0 +1,83 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/CTVS/347/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+ 
+ 
+TECHNICAL SPECIFICATIONS FOR HIGH END COLOUR DOPPLER 
+ULTRASOUND SYSTEM 
+ 
+This machine should be a state of the art high end Colour Doppler System with full digital technology for 
+the applications of whole body to include full cardiac and peripheral vascular applications, paediatrics and 
+small parts applications. 
+1. Fully digital portable ultrasound machine with provision for Doppler examinations. 
+2. The unit should have a laptop type console design. The unit should be compact, lightweight and portable. 
+Weight should not exceed 7 kg including battery (excluding cart and accessories). 
+3. It should be suitable for abdominal, small parts and vascular applications in adults and paediatric patients. 
+Multiple preloaded as well as user configurable application presets should be available. 
+4. Minimum grey scale resolution to be 256 with 1024 or more digital processing channels. 
+5. Maximum scanning depth to be 30 cm or more. 
+6. The system to have a dynamic range of 165 decibels or more. 
+7. The system should support Convex and Linear probes. 
+8. Transducers (one each): 
+(1) Convex electronic phased array transducer: 2- 6 MHz for abdominal imaging. 
+(2) Linear transducer: 5-12MHz MHz for vascular and small part imaging. 
+9. All transducers should be lightweight digital phased array broadband type transducers with at least 1024 
+elements. 
+10. The system should have a frame rate of at least 600 frames per second (fps) in B mode and more than 
+300 fps in /Colour mode. 
+11. The system should have an ergonomic full alphanumeric soft keys keyboard with easy access scans 
+controls and trackball. Provision for attaching an external keyboard and mouse should be present. 
+12. The System must have integrated high – resolution TFT/LCD/Single monitor of 15 Inches or more. 
+13. The system should have cine loop review facility of not less than 60 sec/1000 frames. 
+14. System should have 120 GB or higher capacity internal HDD. 
+15. The system should have the facility of digital storage and retrieval of B/W and colour image data on 
+built in CD/DVD Drive. Provision for USB port and LAN transfer of data should also be present. 
+16. Imaging modes of Real time 2D, Colour Doppler, Pulsed wave Doppler and Power (energy) Doppler 
+should be available. 
+17. Controls for 2D mode: Total gain, depth, TCG, dynamic range, acoustic power output. 
+18. Controls for Colour Doppler: PRF, colour gain, position and size of ROI, steering of ROI, colour maps 
+and colour invert. 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/CTVS/347/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+19. Controls for pulsed Doppler: variable sample volume size from 1 to 5mm or more, steer, PRF, baseline, 
+gain angle correction, spectral invert, duplex on/off. 
+20. Measurements for 2D mode: Multiple distances, area and volume. 
+21. Measurements for Doppler modes: Stenosis quantification in area percentage, diameter, PSV, EDV, 
+mean, PI, RI, acceleration time and index. Automatic and manual measurements and display of pulsed 
+Doppler calculations should be possible. 
+22. Facility for storage on CDR should be available. 
+23. Unit should function with 200-240 V, 50 Hz AC, 5 amp power outlet. Power requirement to be 
+specified. 
+24. In built battery backup should be at least one hour or more. 
+25. Essential accessories: Black & White Thermal printer and color laser printer, UPS, mobile cart with 
+transducer holder, jelly bottle holder and space for printer. 
+26. Paper and cartridges for 1000 image printouts should be provided with the unit. 
+27. The unit offered must be sturdy and should be able to withstand accidental hits and falls during 
+transportation. 
+28. The unit offered in the tender will require technical demonstration (MUST). 
+29. Photocopy of purchase order along with terms and conditions of contract received from two Govt / 
+Public Sector institution of repute in the last three years for supply of the offered equipment must be 
+enclosed with the price bid. 
+30. Price of the main unit and accessories to be quoted separately. 
+31. Warranty: The unit, transducers and all accessories should be covered with comprehensive onsite 
+warranty for five (5) years commencing from the date of issue of installation certificate. 
+32. Rates for comprehensive maintenance contract CMC (including all spared and labour) for 5 years, after 
+expiry of warranty period, must be quoted separately. 
+34.  Company should give undertaking regarding the spares availability of the quoted model for next five 
+years. 
+35. The bidder should enclose the original product data sheet, brochure and compliance sheet, without 
+which the bid will be rejected. Computer generated data sheet and brochure will not be accepted. The serial 
+number of specifications must be indicated against the relevant portion of the compliance sheet and data 
+sheet. 
+ 
+
+

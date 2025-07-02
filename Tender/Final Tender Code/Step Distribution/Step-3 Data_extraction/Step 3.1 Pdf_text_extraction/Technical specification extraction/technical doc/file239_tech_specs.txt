@@ -1,0 +1,33 @@
+--- Page 19 ---
+ 
+Tender Enquiry No. F.No.24/ Optho/196(VI)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+Specification of Non Contact tonometer with pachymeter: 
+Technical Specification:- 
+1. Fully integrated tonometer with pachymeter. IOPg (Goldmann correlated IOP) and 
+IOPcc (Corneal compensated IOP) should be clearly displayed on colour LCD 
+2. Best signal value is automatically selected 
+3. Easy to use, touch screen facility 
+4. Softest possible air puff 
+5. Real time applanation detection system with custom air puff with every 
+measurement 
+6. Simple and fast patient positioning with adjustable chin rest. 
+7. Measurement range: 0-60 mmHg for tonometer, 200-900 micron for pacymeter. 
+8. Triple measurement mode delivering 3 consecutive IOP measurements with a single 
+button press. Fixation clues should be obvious, alignment should be completely 
+automated 
+9. Measurement mode: Auto/Manual (selectable) 
+10.  Internal printer and electronic data transfer via USB port 
+11.  Voltage:100/240 VAC 
+12. Frequency: 50/60 Hz 
+13. Accessories: Motorised table 
+14. Warranty for 5 years and CAMC for 5 years 
+15.  Demonstration at AIIMS, Rishikesh  may be required 
+16. USFDA/CE Certified.  
+ 
+ 
+ 
+
+

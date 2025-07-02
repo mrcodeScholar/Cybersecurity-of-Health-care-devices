@@ -1,0 +1,36 @@
+--- Page 25 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Psychiatry/Actigraph/530/2019-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 25 
+ 
+ 
+Annexure -1 
+Technical Specification for Actrigraph with Software for date collection and analysis 
+ 
+1. Must be wearable on wrist. 
+2. Warranty 5 year. 
+3. Multi-axial accelerometer, gyroscope. 
+4. Rechargeable battery. 
+5. Battery life at least 14 days after one charging. 
+6. Memory: At least 4GB non-volatile. 
+7. Recording time at least 30 days at the sampling interval of 1 min. 
+8. Displays data as incremental epochs ranging from 1-60 seconds. 
+9. Ambient light sensor presents with recording of photopic, red, green and blue light. 
+10. Moisture protection present/must be waterproof. 
+11. Communication interphase USB and Bluetooth. 
+12. Compatible with Windows recent versions. 
+13. Wrist off sensor detection and reminder with alarm. 
+14. Bedtime and wake time data detection. 
+15. Record snoring sounds. 
+16. Event markers present and customizable. 
+17. Software computes sleep efficiency, TST, TIB, Sleep Latency, WASO, Awakening/Hr. 
+18. Temperature detection. 
+19. LED feedback monitor available. 
+20. Must have programmable alarm system. 
+21. Facility for subjective scoring of selected parameters. 
+22. Software for data analysis to be made available. 
+ 
+ 
+
+

@@ -1,0 +1,250 @@
+--- Page 45 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1157/23/GTE 
+ 
+45
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+             Specification for Intraoperative nerve monitoring system 
+Sn 
+Description 
+1 
+The system should have minimum of Eight Channel EMG Monitoring module. 
+2 
+Should be capable of monitoring cranial Motor Nerves III,IV,V,VI,VII,IX,X,XI, and XII and peripheral 
+motor nerves. 
+3 
+EMG signal must have audio and video representation of the signals.  
+4 
+System should have different sounds for current deliver and captured signal due to nerve stimulation. 
+5 
+The equipment should be designed for ease of use with electrode placement screen displayed on the main 
+unit for easy and faster electrode placement. 
+6 
+System should have pre-defined protocols for common procedures and option to add custom procedures. 
+7 
+System should have touch sensitive screen and also rotary knobs for adjusting the current levels and other 
+features of the software. 
+8 
+Should have option for Real-time Continuous monitoring of X cranial nerve with 'Automatic Periodic 
+Stimulation' electrode of diameter 2mm and 3mm. 
+9 
+Software should have option to pre-set the time for periodic stimulation as per surgeon preference. 
+10 
+System should provide warning when amplitude and latency deviate from the baseline during periodic 
+monitoring. 
+11 
+Should have high sensitivity with reduced interference from noise.  
+12 
+Should have artifact detection feature to distinguish between artifact and EMG signals. Should display 
+aritifact signal and EMG response in different color. 
+13 
+Audio option should give different audio for current delivery and signal detection. Also system should read 
+out the delivered current if required. 
+14 
+Should have electrode impedance – checking features.  
+15 
+Should have two constant current type stimulator ports. 
+16 
+Should have Capability to deliver current from 0.00 mA to 30 mA. It should give warning if the current is set 
+beyond 3mA for patient safety. 
+17 
+Should have stimulating probe which can be used to adjust stimulation level and print or save data directly 
+by surgeon performing the surgery from operative field.  
+18 
+System should be provided with Press tip/ insulated till tip monopolar and similar bipolar stimulating probe. 
+19 
+Should be able to save and load custom setting with quick setup. 
+20 
+Should be able to get printable case log report for patient records. 
+21 
+Should have color coded channel labelling for easy identification & use.  
+22 
+Should have USB port for connection with mass storage devices including compact flash drive. 
+23 
+Should have muting option to reduce unwanted signals and artefacts specially monopolar cautery noise.  
+24 
+Should be able to change the display scales to maximize recorded amplitude. 
+25 
+Should have event capture on/off option to show captured signal and free run EMG signal. 
+26 
+Should have feature to take screen shots during the surgery which can be then saved on pendrive in report 
+format. 
+27 
+Consumable for 2 and 4 channels each along with stimulating probe should be quoted.  
+28 
+System should be provided with ET tubes with EMG electrode already reinforced to the tube and should 
+have color coded electrode for easy placement. 
+29 
+System should be provided with simulator for easy testing of system for better troubleshooting. 
+
+
+--- Page 46 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1157/23/GTE 
+ 
+46
+ 
+ 
+30 
+05 year warranty and 05 year CMC is required incl all accesories 
+31 
+System should be BIS/ ISO/European CE/USFDA approved and certificate should be attached with tender. 
+32 
+All the equipment incl all the accessories should be provided with the detailed data sheet along with the 
+original brochure of quoted model (Photocopy/printout not accepted)  
+33 
+List of major installation in last two year should be provided  
+34 
+Training for user department, doctors and staff should be provided as per satisfaction of buyer 
+35 
+Trolley with wheel so can be easily to moved and storage box for all accessories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 47 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1157/23/GTE 
+ 
+47
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE 
+document for complete equipment (including Batteries for UPS, other vacuumatic 
+parts wherever applicable) Warranty period will be 5 years from the date of 
+installation, commissioning and Site Modification Work from the date of 
+satisfactory installation, commissioning, trial run & handing over of equipment to 
+Hospital/Institution/Medical College. 
+b) 98% up time Warranty of complete equipment with extension of Warranty period 
+by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After 
+sales 
+service 
+centre 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service should 
+be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date of 
+supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian 
+Agents (if they have the requisite know-how) for operation and maintenance of the 
+equipment to the satisfaction of the consignee. The same will be in line with the 
+training modalities as specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ service 
+/operational manual of the manufacturer, labour and spares, after satisfactory 
+completion of Warranty period may be quoted for next 5 years on yearly basis for 
+complete equipment (including Batteries for UPS, other vacuumatic parts 
+wherever applicable) and Site Modification Work (if any). The supplier shall visit 
+each consignee site as recommended in the manufacturer‟ s technical/ service 
+/operational manual, but at least twice in six months (i.e. 4 preventive 
+maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of 
+any such stipulation the price will be taken inclusive of such taxes and no claim 
+for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank guarantee 
+for 5% of the cost of the CMC as per Section XV valid till 2 months after expiry of 
+entire CMC period. 
+e) There will be 98% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 
+365 (days) basis, with penalty, to extend CMC period by double the downtime 
+period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee‟ s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the 
+Bank Guarantee for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 48 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1157/23/GTE 
+ 
+48
+ 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to 
+be installed, in consultation with HOD of Hospital/Institution/Medical College concerned. 
+Site Modification Work details of each Hospital/Institution/Medical College are given at the 
+end of Technical Specification. The Tenderer to quote prices indicating break-up of prices of 
+the Machine and Site Modification Work of each Hospital/Institution/Medical College. The 
+Site Modification Work costs to be quoted in Indian Rupee will be added for Ranking 
+Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation 
+the price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer‟ s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it‟ s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard 
+IEC- 60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is 
+not available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard 
+interface interoperability conditions for networked equipment in hospital 
+management information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period 
+
+

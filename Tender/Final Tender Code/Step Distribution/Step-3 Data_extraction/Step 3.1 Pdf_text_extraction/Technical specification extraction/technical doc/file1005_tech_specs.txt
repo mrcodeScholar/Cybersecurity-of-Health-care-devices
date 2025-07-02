@@ -1,0 +1,115 @@
+--- Page 65 ---
+ 
+ 
+SECTION – VII  
+TECHNICAL SPECIFICATIONS 
+1. Platform Pedography system- capable of measuring static and dynamic pressure distribution under the foot 
+while standing and walking. 
+2. The system should have stand- alone platform for Stance and Roll-Off analysis.  
+3. The system should work on capacitive based sensors technology. 
+4. It should have more than 2500 capacitive sensors. 
+5. It should have minimum sensing area: 50 x 30 cm 
+6. It should have minimum sampling rate: 100 Hz 
+7. Measuring Range: 1-120 Newton per centimeter square or wider 
+8. Accuracy: ±5% 
+9. Hysteresis : Less than 3% 
+10. It should have Sync. - in/Sync. -out interface. 
+11. It should have software for data collection, analysis, and report generation. 
+12. The report generated should include static load distribution analysis, basic function equilibrium analysis, 
+roll-off analysis.  
+13. The gait parameters should be displayed in the evaluation report. These should include, amongst others, 
+the step length and step width, the stance, swing and double stance phase as well as the cadence. 
+14. The evaluation reports should be freely configurable. The measurement procedure may be observed in a 
+viewer, and if necessary be played back in slow motion. Individual time segments can be selected from the 
+report for further analysis. 
+15. Each sensor should produce its own calibration curve. Should display calibrated pressure values for each 
+sensor. 
+16. Should show 2D and 3D pictures of pressure point, the maximum pressure images, pressure and force 
+curves and the individual phases of the roll off process. 
+17. Should have algorithms for integration of multiple passes across the measurement surface 
+18. Comparative analyses of two measurements should be possible.  
+19. The system can be connected directly to a commercially available PC / laptop via USB interface and require 
+no additional electronics.  
+20. All raw values and the values of the evaluation report can be exported as data files. 
+21. Pedography data should be compatible with CAD/CAM systems for the manufacturing of custom-made 
+inserts. 
+22. The Bidder should quote optional video camera - 2 Nos. - for video synchronization, and Bluetooth 
+telemetry EMG for muscle function to analyze forces parallel to the ground reaction forces.  
+23. System should be supplied with Laptop of suitable configuration. 
+24. Should come with a stand for the evaluation computer with facilities for mounting optional camera and 
+lighting units. 
+25. The system should be IEC/European CE/USFDA approved. 
+26. The system should have minimum 5 years warranty. 
+ 
+ 
+ 
+
+
+--- Page 66 ---
+ 
+ 
+ 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE document for 
+complete equipment (including Batteries for UPS, other vacuumatic parts wherever 
+applicable) Warranty period will be 5 years from the date of installation, commissioning and 
+Site Modification Work from the date of satisfactory installation, commissioning, trial run & 
+handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period by double 
+the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical 
+College on 24 
+(hrs) X 7 (days) X 365 (days) basis. Complaints should be attended properly, maximum within 8 hrs. 
+The service should be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that 
+the spares for the equipment shall be available for at least 
+10 years from the date of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents (if 
+they 
+have the requisite know-how) for operation and maintenance of the equipment to the satisfaction of 
+the consignee. The same will be in line with the training modalities as specified in general technical 
+specification. 
+4. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, wherever 
+required. The Tenderer shall examine the existing site where the equipment is to be installed, in 
+consultation with HOD of Hospital/Institution/Medical College concerned. Site Modification Work 
+details of each Hospital/Institution/Medical College are given at the end of Technical Specification. 
+The Tenderer to quote prices indicating break-up of prices of the Machine and Site Modification Work 
+of each Hospital/Institution/Medical College. The Site Modification Work costs to be quoted in Indian 
+Rupee will be added for Ranking Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation the price 
+will be taken inclusive of such duties and taxes and no claim for the same will be entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderers attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer 
+is to provide the required details, information, confirmations, etc. accordingly failing which 
+it‟s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of equipment 
+for carrying out routine and preventive maintenance wherever asked 
+for and should 
+make sure that Electrical Safety Analyzer / Tester for Medical equipment to periodically 
+check the electrical safety aspects as per BIS Safety Standards IS-13540 which is also 
+equivalent to IEC electrical safety standard IEC- 
+60601 is a part of the equipment s. If the 
+Electrical Safety Analyzer/Tester is not available they should provide a commitment to get 
+the equipment checked for electrical safety compliance with Electronic Regional Test Labs 
+/ Electronics Test and Development Centres across the country on every preventive 
+maintenance call. 
+Note 3: Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management information 
+system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical 
+training for personnel involved in the use and handling of the equipment on site at the 
+
+
+--- Page 67 ---
+ 
+ 
+institute immediately after its installation. The company shall be required to train the 
+institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period .
+
+

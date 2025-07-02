@@ -1,0 +1,243 @@
+--- Page 10 ---
+Tender for Obstetric Simulator 
+Admn/Tender/33/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Obstetric 
+Simulator  
+1 Maternal-Fetal Simulator complete with anatomically realistic 
+mother and fetus for 2 comprehensive training in prenatal care, labor 
+and delivery, and postpartum care. 
+2 The Maternal Fetal Simulator should be wireless, high fidelity 
+simulator with an automated delivery mechanism and maternal 
+aesthetics like a real patient. 
+3 The birthing mechanism should be noiseless for realistic labour. 
+4 Should have validated integrated maternal-fetal physiological and 
+pharmacological modeling. 
+5 All maneuvers & interventions should result in appropriate patient 
+response automatically 
+based on underline physiology of patient without any input from the 
+instructor 
+6 Should be fully wireless with on-board fluids, pneumatics, and 
+electrical systems 
+7 Should include software licenses to support scenario writing and 
+editing on any computer 
+8 Maternal fetal simulator should have voice linked to labour and 
+should allow upload of voice 
+files in any local language 
+9 Simulator should support full maternal code as a non-gravid patient 
+and should be supplied with non-gravid abdomen and scenarios for 
+the same. 
+A: Simulator should have following features 
+1 Should have realistic birth canal with vulva/perineum supporting 
+accurate fetal descent and rotation - 
+2 Should provide Multiple Birthing Positions: lithotomy, sitting, and 
+all-fours 
+3 Should allow vaginal examinations for evaluation of the cervix, 
+fetal station, and position 
+4 Should have static cervices representing various stages of dilation 
+(closed to 10cm); effacement from 0-100% 
+5 Should have palpable uterine contractions which can be detected by 
+palpating the fundus 
+6 Should have facility to allow Instructors to control the rate and 
+duration of contractions 
+7 Birthing fetus should not have any connection port at the head or 
+buttocks for realistic presentation during both vertex and breech 
+deliveries 
+8 Fetus/baby should have open mouth for meconium removal & 
+cyanosis treatment 
+9 Should have a customized fetus for Leopold's Maneuvers with hard 
+head and soft buttocks 
+10 Should support and detect suprapubic pressure with palpable 
+symphysis pubis 
+11 Obstetric maneuvers like McRoberts Maneuver, suprapubic 
+pressure rotation of anterior and posterior shoulder should be 
+supported and detected and logged in event loop 
+12 Should simulate realistic shoulder dystocia due to realistic pelvic 
+bone movement and it should be resolved once posterior arm is 
+01 
+
+
+--- Page 11 ---
+Tender for Obstetric Simulator 
+Admn/Tender/33/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+extracted 
+13 Internal rotations with detection 
+a Should support delivery of posterior arm during shoulder dystocia 
+b Should allow Zavanelli maneuver with detection and logging in 
+event log 
+c Trendelenburg position with detection and logging in event log 
+d Left lateral tilt with detection and logging in event log 
+e Vertex and breech delivery with no exposed metal parts 
+14 Should have Fetal heart sounds — 4 locations based on fetal 
+presentation 
+15 Should have Articulated fetal body neck (with lateral neck 
+movement), shoulders, elbows, hips, and knees 
+16 Should have clinically accurate fetal size with tactile realism — 
+5th percentile on the WHO growth chart 
+17 Fetus with palpable fontanel and sagittal suture 
+18 Should allow Forceps application and Vacuum extraction without 
+fetal cap 
+19 Should provide fetal neck traction graph to give real time feedback 
+on force applied during vacuum or forcep delivery 
+20 Should allow Fetal airway suctioning 
+21 Fetus should have audible cry upon delivery 
+22 Should display predicted 1-minute and 5-minute APGAR scores 
+based on integrated maternal-fetal physiology 
+23 Should simulate postpartum hemorrhaging, including Class III 
+hemorrhage 
+24 Should allow for assessment of uterine atony (Contracted vs. 
+Boggy Uterus) 
+25 Should have facility bimanual compression and uterine massage 
+detection 
+26 Should exhibit 
+a Uterine blood released upon massage 
+b Uterine massage should automatically decrease rate of blood flow 
+c Uterine massage compression effect 
+d Uterine inversion 
+27 Should support placing an Intrauterine balloon 
+28 Umbilical cord can be cut and clamped 
+29 Episiotomy should be possible 
+30 Should have Intact/fragmented placenta with realistic color, 
+texture and flexibility, placenta can be delivered with gentle traction 
+31 Should have an epidural port for realistic infusion and aspiration 
+32 Should allow to recognize sign for emergency C-section for team 
+training of C- Section. 
+B: Mannequin should have following clinical features 
+a. Respiratory 
+1-Manikin should have realistic upper airway with airway 
+management 
+2-Should have Advanced lungs with mechanical ventilation support 
+3-Should allows use of airway devices such as LMA 
+4-Should Support endotracheal tubes, nasal-pharyngeal and 
+oropharyngeal airways 
+
+
+--- Page 12 ---
+Tender for Obstetric Simulator 
+Admn/Tender/33/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+5-Should display spontaneous breathing 
+6-Should have bag-valve-mask 
+7-Should exhibit lung sounds: anterior and posterior 
+8-Should have realistic chest excursion & Exhalation 
+9-Should allow positive pressure ventilation 
+10-Should have advance CPR matrices 
+b. Circulatory System 
+1-Should support real 4-lead ECG that can be connected to simulator 
+2-Should display 12-lead ECG simulated in software 
+3-Should have bilateral pulses: carotid, radial, and dorsalis pedis; with 
+controllable pulse strength 
+c. Cardiovascular 
+1-Should allow Chest compressions resulting in appropriate 
+physiological changes. 
+2-Should have advanced CPR metrics to measure the consistency of 
+compressions and ventilations, as well as coronary and cerebral 
+perfusion. Hand placement, chest recoil, and left lateral tilt should be 
+detected and logged by the operating system. 
+3-Should support electrical therapy (defibrillation) 
+4-Should allow Bilateral NIBP measurement 
+5-Should have realistic Heart sounds linked to the physiology of the 
+patient. 
+d. Nervous System 
+1-Should simulate seizures with rhythmic movement of arms, rapid 
+blinking, and jaw movement 
+2-Should have Reactive pupils 
+3-Should have facility to change the colour according to condition of 
+the patient like yellow for jaundice, red in case of blood clot 
+4-Should have Blinking eyes 
+5-Should have live and pre-recorded speech and should also have 
+ability to import customized vocal sounds into system software 
+e. Fluids 
+1-Should have inbuilt postpartum bleeding tank at-least (1,800 ml) 
+2-Should have Bilateral IV arms with realistic flashback 
+3-Should have Urinary catheterization 
+C: Simulator should also have integration of augmented reality 
+with responsive physiology for deeper understanding and 
+unprecedented shared training experience. Should have following 
+features to demonstrate the same through hologram technology 
+1.Should allow learners to visualize the passage of the fetus through 
+the birth canal during shoulder dystocia scenario. 
+2.Should offer real-time, interactive 3D holograms of anatomy as well 
+as responsive mother-baby physiology. 
+3.The system should allow to obtain immediate visual and 
+physiological feedback on the effectiveness of emergency maneuvers. 
+4.Should have facility to elevate the holograms and walk around the 
+simulator to gain an understanding of how the mother and baby 
+structures are interrelated. 
+5.Should allow training without patient simulator for self-paced, 
+didactic learning on shoulder dystocia. 
+
+
+--- Page 13 ---
+Tender for Obstetric Simulator 
+Admn/Tender/33/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+ 
+ 
+6.Should have future up-gradation facility for normal delivery and 
+additional emergency scenarios. 
+D: Patient Profiles & Scenarios 
+1-Should be supplied with preprogrammed patient profiles with 
+system software to write patient profiles as per training needs 
+2-Should be supplied with pre -programmed clinical scenarios (at 
+least 20 nos.) with system software to modify existing scenario & 
+write new scenarios as per training needs 
+3-Pre programmed clinical scenarios for gravid patient should 
+include: 
+a A normal delivery 
+b An instrumental vaginal delivery 
+c Fetal Tachycardia due to Maternal Pyrexia 
+d Maternal cardio-respiratory arrest 
+e Fetal central nervous system depression by narcotics given to the 
+mother 
+f Eclampsia 
+g Major post-partum hemorrhage due to uterine atony 
+h Breech delivery 
+I Shoulder dystocia 
+j Umbilical cord prolapse 
+4 - Urgent Obstetric simulated clinical Experiences (SCEs) 
+- Anaphylactoid Syndrome of Pregnancy 
+- Chronic fetal Hypoxia Associated with Placental insufficiency 
+- Oxytocin induced uterine tachysystole 
+- Repetitive deceleration caused by umbilical cord compression 
+- Uncontrolled gestational diabetic 
+- Fetal Heart rate signal loss 
+- Inadvertent monitoring of maternal heart rate 
+- Major placental abruption 
+- Maternal hypotension follow Epidural Block 
+- Maternal Sepsis 
+5 Pre programmed clinical scenarios for non-gravid patient should 
+include : 
+a Chronic Heart failure exacerbation 
+b. Acute Respiratory Distress Syndrome 
+c Sepsis with Hypotension 
+d. Brain Attack with Thrombolytic Therapy 
+e Motor Vehicle Collision with Hypovolemic Shock 
+E: Should be supplied corn complete with 
+a.Wireless maternal mannequin - 01 no. 
+b.Software License - 04 nos. 
+c.Fetus for Leopold's maneuvers - 01 no. 
+d.Abdominal for labor and post labour - 01 no each 
+e.Static cervices for vaginal examination - 01 set 
+f.Instructor wireless Iaptop(upgradable) — 01 no. 
+g.Simulated CTG Monitor — 01 no. 
+h.Delivery Table- 01 
+k.Hololens- 04 
+ 
+
+

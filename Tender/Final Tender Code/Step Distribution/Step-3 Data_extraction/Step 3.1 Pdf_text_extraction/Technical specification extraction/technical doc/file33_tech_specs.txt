@@ -1,0 +1,134 @@
+--- Page 10 ---
+Tender for Portable Color Doppler Ultrasound Scanner 
+Admn/Tender/07/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+Color 
+Doppler 
+Ultrasound 
+Scanner  
+1. The equipment must operate in B, M, Doppler, Color flow and Power 
+Doppler modes. It must support transducers with linear, sector and 
+convex formats. Machine Should have 3D/4D and CEUS upgradability. 
+Further, it must include a full array of measurement and calculation 
+packages. The specific minimum requirements for this equipment are as 
+follow.  
+User Interface & Ergonomics  
+1.1. The system shall have 19" LED Monitor to allow for both 
+excellent images Viewing as well as providing for workflow and 
+productivity features.  
+1 2. Monitor should have articulating Arm with tilt & rotate 
+movements independent of console.  
+1.3. The system shall have Four Active 'Universal' probe ports in 
+a convenient, easy to access location to maxrmize the 
+availability of needed probes.  
+1.4. The unit should have 8.4" touch panel for user friendliness 
+for Mode operation and interface.  
+2. Productivity 
+2.1. The system shall offer an extended field-of-view imaging 
+that operates by sweeping a transducer over the anatomy of 
+interest. This mode shall build the extended field-of-view in a 
+real-time manner, showing the image as it builds.  
+2.2. System shall have image management features that store 
+images by patient and include the ability to review images from 
+different exam dates.  
+2.3. System shall support the ability to store digital raw data that 
+allows to optimize imaging parameters such as B Gain, TGC, 
+Color Gain, Dynamic Range, Speckle Reduction levels, DOppler 
+Gain, Doppler Base Line on image recalled from the image 
+archive.  
+2.4. System shall allow for live image and archive images side-
+by-side or quad display on a single monitor. This display shall 
+allow any type of image - B-Mode, Color, or power Doppler on 
+either side.  
+2.5. The system shall display thumbnails on a clipboard while 
+scanning to facilitate exams  
+3. Unit should have Elastography on Linear Probe (optional 
+4. Unit should have Auto IMT (lntima media thickness measurement) 
+facility.  
+5. Raw Data Processing.  
+5.1. The system shall allow for post-storage image manipulation 
+to provide maximum. image flexibility, review and productivity. 
+It shall include, at a minimum the ability to change the:  
+• Overall 13-Mode gain, dynamic range and gray scale 
+maps.  
+• Overall Doppler gain, base line shill, sweep speed and 
+inverted spectral waveform,  
+• 3D reconstruction from a stored 13 mode CINE-loop, 
+using the normal probes. (Optional)  
+5.2. The system shall provide a display zoom function on frozen 
+images.  
+6. Scanning Parameters  
+01 
+
+
+--- Page 11 ---
+Tender for Portable Color Doppler Ultrasound Scanner 
+Admn/Tender/07/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+6.1. The system shall possess the ability to control speckle 
+through the use of a speckle reduction (SRI) algorithm that 
+enhances borders, reduces speckle artifact and improves detail 
+and contract resolution in gray scale with compatibility in Color 
+mode. 3D and side-by-Side display. This feature shall have 
+operator selectable settings and can display in side-by-side mode 
+with non-speckle reduced image.  
+6.2. The system shall provide the ability to scan in the compound 
+Imaging mode with multiple lines on all linear and convex 
+probes.  
+6.3. The system shall provide scan depths from a minimum of 2 
+cm to at least 30 cm  
+6.4. System should have Integrated internal total Hard disk HDD 
+of 500GB  
+System should have minimum 1,00,000 processing Channels.  
+7. Anatomical M-Mode Imaging  
+The system shall have a facility allowing the M-Mode cursor to 
+be adjustable in any plane and allow for accurate measurements. 
+The M-mode shall be reconstructed from earlier stored B mode 
+cine loop  
+8. Spectral Doppler (PW)  
+8.1. Doppler mode shall be available on all probes  
+8.2. The system shall provide the user with control during 
+timeline replay to review the Spectrum only (i.e., frozen B-
+Mode) or with the spectrum and B-Mode together and 
+synchronized  
+8.3. The system shall provide the user with the ability to add a 
+spectral peak and spectral mean trace onto the spectrum in both 
+real time or tiller freezing the image  
+9. The system shall provide digital calipers for at least the following 
+measurements: 
+• Dept Distance  
+• Circumference  
+• Area  
+• Volume  
+• Velocity  
+9.2 All measurement should be possible on frozen images as 
+well as on the images recalled from the image archives  
+9.3 The system shall provide a comprehensive set of obstetrical 
+and gynecologic calculations and vascular calculations with 
+summary reports  
+10 Unit should have integrated 3D imaging facility using normal probes. 
+Also, to have facility to generate 3D from previously stored Cine Loops, 
+System to can capture 3 - dimensional data from parallel and sweep 
+Movements  
+11 D1COM Connectivity  
+• Transducers  
+• Convex Probe Operating Frequency : 2-5 MHz  
+• Volume (Convex) 4 D Probe  
+• Linear Probe Operating Frequency : 6-11 MHz  
+• Radiac Sector 2-4 MHz with TVI/TDI & Q Analysis  
+• 1 KVA UPS with 30 twins back-up 
+
+

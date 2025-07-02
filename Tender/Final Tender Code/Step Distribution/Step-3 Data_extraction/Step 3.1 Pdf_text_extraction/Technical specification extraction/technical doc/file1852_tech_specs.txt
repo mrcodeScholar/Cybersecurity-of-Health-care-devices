@@ -1,0 +1,105 @@
+--- Page 12 ---
+Tender for Colour Multifunctional Machine   
+  
+          Admn/Tender/125/2017-AIIMS.JDH      
+Page 11 of 17 
+ 
+Annexure – I 
+Speciation  
+Functions    Print, copy, scan, fax 
+ 
+ 
+Print  
+ 
+Duplex print options: Automatic (standard) 
+Print speed: Black (normal, A4): 18 ppm black; Black (normal, letter): 19 ppm black; Colour (normal, 
+A4): 18 ppm black; Colour (normal, letter): 19 ppm black (or Higher) 
+First page out: Black (A4, ready): 11.5 sec or faster; Colour (A4, ready):13 sec or faster 
+Print technology: Laser 
+ 
+Scan 
+ 
+Scan type/technology: Type: Flatbed, ADF; Technology: Contact Image Sensor (CIS) 
+Scan speed: Normal, A4: 21 ppm (b&w), 14 ppm (colour) (or Faster) 
+Scan resolution: Enhanced: Up to 300 x 300 dpi (ADF); up to 1200 x 1200 dpi  (Flatbed);   
+Hardware/Optical:Up to 300 x 300 dpi (colour and mono ADF); up to 300 x 300 dpi, 600 x 600 dpi, 
+1200 x 1200 dpi (Flatbed) (or Higher) 
+Scan input modes: Front-panel scan, copy, e-mail, fax, or file buttons;  
+Scan file format: PDF, searchable PDF, JPG, RTF, TXT, BMP, PNG, TIFF 
+ 
+Copy 
+ 
+Copy speed: Black (normal, A4): 18 cpm black;Black (normal, letter): Up to 19 cpm black; Colour 
+(normal, A4): 18 cpm black;Colour (normal, letter):  Up to 19 cpm black (or Faster) 
+First copy out: Black (A4, ready):As fast as 13.5 sec; Colour (A4, ready):As fast as 16 sec 
+Copy resolution: Black (text & graphics):Up to 300 x 420 dpi; Colour (text & graphics):300 x 420 dpi 
+(Flatbed),300 x 360 dpi (ADF) (or Higher) 
+Copier resize: 25 to 400% 
+Copier settings: Number of copies; Reduce/Enlarge; Lighter/Darker; Optimize; Paper; Multi-page  
+copy;  Collation; Tray Select; Two-Sided;Draft Mode; Image Adjustment; Set as New Defaults; 
+Restore Defaults 
+ 
+Fax 
+ 
+Fax speed: 33.6 kbps (or faster), 14.4 kbps (or more); 3 sec per page (letter) 
+Fax resolution: Black (best):Up to 300 x 3000 dpi; Black (standard):203 x 96 dpi; Black & White  
+(fine):203 x 192 dpi; Black & White (superfine):300 x 300 dpi (or Higher) 
+Fax memory (A4/letter) 400 pages or more 
+ 
+Connectivity 
+ 
+Standard connectivity: Hi-Speed USB 2.0 port; built-in Fast Ethernet 10/100/1000  Base-TX 
+network port; Host USB 
+Mobile print capability: ePrint, WiFi Direct Printing, Apple AirPrint™, Mopria-certified, Mobile 
+
+
+--- Page 13 ---
+Tender for Colour Multifunctional Machine   
+  
+          Admn/Tender/125/2017-AIIMS.JDH      
+Page 12 of 17 
+ 
+Apps 
+Network ready: Standard built-in Ethernet 802.11 b/g/n. WiFi operates as both an AP (with Wi-Fi 
+Direct) and STA 
+Network capabilities: Via built-in 10/100/1000 Base-TX Ethernet; Auto-crossover Ethernet; 
+Authentication via 802.11x 
+Wireless capability: Built-in 802.11 b/g/n; Authentication via WEP, WPA/WPA2, or 802.11x; 
+Encryption via AES or TKIP; WPS; Wi-Fi Direct; NFC 
+ 
+Other Important Features 
+ 
+Duty cycle (monthly, A4) 
+Up to 30,000 pages  
+Duty cycle (monthly, letter) 
+Up to 30,000 pages  
+Recommended monthly page volume 
+250 to 2500  
+Mac compatible 
+Yes  
+Processor speed 
+800 MHz  
+Display 
+3.0-in touchscreen, LCD (color graphics)  
+Multitasking supported 
+Yes  
+Cable included 
+Yes, 1 USB  
+Warranty 
+3 
+Year 
+Limited 
+Warranty 
+(Return 
+to 
+Manufacturer/Dealer - Unit Exchange)  
+ 
+ 
+Administrative Officer 
+AIIMS, Jodhpur 
+ 
+ 
+ 
+ 
+
+

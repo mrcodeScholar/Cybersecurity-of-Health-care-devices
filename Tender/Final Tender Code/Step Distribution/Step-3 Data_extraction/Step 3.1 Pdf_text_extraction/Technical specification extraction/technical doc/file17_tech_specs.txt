@@ -1,0 +1,122 @@
+--- Page 10 ---
+Tender for Electrophysiological System                                                                   Admn/Tender/03/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+Technical Specification of Electrophysiological System 
+Sr 
+no. 
+Name 
+Multiple function system for any type of 
+electroretinogram(ERG) , visual evoked potential(VEP), or 
+electro-oculogram(EOG) 
+1 
+Operational 
+Requirements 
+Should be a Fully automated mobile work station 
+2 
+Technical 
+Specifications 
+Flash visual Evoked Potential and Pattern Visual Evoked 
+Potential facility with user defined color change facility 
+ 
+Electro-retinogram (Ganzfeld with tilting stand and patient 
+response switch) 
+ 
+Electro-oculogram 
+ 
+Visual acuity testing 
+ 
+Nystagmography 
+ 
+Saccade analysis 
+ 
+2 
+ 
+Flash visual Evoked Potential and Pattern Visual Evoked Potentia
+facility with user defined color change facility 
+Electro-retinogram (Ganzfeld with tilting stand and patient 
+response switch) 
+Electro-oculogram 
+Nystagmography 
+Multifocal ERG & VER from 19 to 240 points 
+ 
+3 
+Environmental factors 
+ 
+ 
+The unit shall be capable of being stored continuously in 
+ambient temperature of 0-50deg C and relative humidity 
+of 15-90% 
+The unit shall be capable of operating continuously in 
+ambient temperature of 10 -40 deg C and relative 
+humidity of 15-90% 
+
+
+--- Page 11 ---
+Tender for Electrophysiological System                                                                   Admn/Tender/03/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+4 
+Power Supply 
+ 
+ 
+Power input to be 220-240VAC, 50Hz fitted with Indian 
+plug 
+Voltage corrector/stabilizer of appropriate ratings meeting 
+ISI Specifications.( Input 160-260 V and output 220-240 
+V and 50 Hz) 
+Resettable overcurrent breaker shall be fitted for 
+protection 
+Suitable UPS with maintenance free batteries for 
+minimum one-hour back-up should be supplied with the 
+system. 
+ 
+ 
+5 
+ 
+Standards, Safety and 
+Training 
+ 
+ 
+Manufacturer should have ISO certification for quality 
+standards. 
+Should be FDA, CE, UL or BIS approved product 
+Comprehensive training for lab staff and support services 
+till familiarity with the system. 
+Electrical safety conforms to standards for electrical safety 
+IEC 60601-1 (OR EQUIVALENT international/national 
+standard) General requirement for Electrical safety of 
+Medical Equipment. 
+ 
+6 
+ 
+ 
+Documentation 
+User/Technical/Maintenance manuals to be supplied in 
+English. 
+List of Equipments available for providing calibration and 
+routine Preventive Maintenance Support. as per 
+manufacturer documentation in service/technical manual. 
+Compliance Report to be submitted in a tabulated and 
+point wise manner clearly mentioning the page/para 
+number of original catalogue/data sheet. Any point, if not 
+substantiated with authenticated catalogue/manual, will 
+not be considered. 
+Log book with instructions for daily, weekly, monthly and 
+quarterly maintenance checklist. The job descriptin of the 
+hospital technician and company service engineer should 
+be clearly spelt out. 
+Certificate of calibration and inspection. 
+List of important spare parts and accessories with their 
+part number and costing. Available in stock with the 
+supplier. 
+ 
+
+

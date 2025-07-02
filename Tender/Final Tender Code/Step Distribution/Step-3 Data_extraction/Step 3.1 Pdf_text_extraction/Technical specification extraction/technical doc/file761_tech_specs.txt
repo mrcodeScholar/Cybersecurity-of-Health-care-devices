@@ -1,0 +1,107 @@
+--- Page 19 ---
+                                             Tender No. : AIIMS/R/CS/Nephro/25/19/OT 
+ 
+ 
+Page 19 of 23 
+ 
+                                                   Annexure-I   
+ Specifications for Automated Peritoneal Dialysis Cycler  
+1. Should be able to provide therapies such as APD, IPD, CCPD, Tidal peritoneal 
+dialysis. 
+2. Should have built in heater for warming the Fill solution at body temperature 
+3. Should be able to measure fluid flow and volume without the use of weighing 
+scales 
+4. Disposable set should have cassette and tubing lines pre-loaded on an 
+organizer for simplified set up. 
+5. Should be simple to use. Machine should calculate automatically the number 
+of cycles and Dwell time per cycle once the patient enters the total therapy 
+time, total volume and fill volume 
+6. Should perform a self-check before starting the treatment. 
+7. Should have built in Nurses Menu and Service Menu. 
+8. Should have a built in Therapy Log and Alarm Log for simplified 
+troubleshooting. 
+9. In case of power failure the machine has a battery backup up to 2 hours for 
+remembering the status of the therapy and it resumes from the cycle from 
+where it was left. 
+10. Therapy Parameters Limits and Increments: 
+1.Therapy volume: 200-65,000 ml( increments of 50 ml from 200 to 2000 ml, 
+100 ml from 2,000 to 5000 ml and 1000 ml from 5,000 to 65,000 ml 
+2.Therapy Time: 10 min to 48 hours in increments of 10 mnt. 
+3. Fill Volume: 100-3,000 ml in increments of 10 ml from 100 to 500 ml , 50 ml 
+from 500-1,000 ml and 100 ml from 1,000 to 3,000 ml. 
+4.Last fill volume: 0 ml , 100 ml to 3,000 ml in increments of 10 ml from 100 to 
+500 ml , 50 ml from 500-1,000 ml and 100 ml from 1,000 to 3,000 ml. 
+11. Should have OLED display with larger font and eliminate alternating messages 
+in a single line 
+12. Should store 90 days treatment on device 
+13. Compatible with 1.5%, 2.5% Peritoneal Dialysis fluids and 7% icodextrine 
+solution 
+2. Power Supply 
+1. Power input to be 220-240VAC, 50Hz fitted with Indian plug 
+2. UPS of suitable rating with voltage regulation and spike protection for 60 
+minutes back up. 
+3.  Standards, Safety and Training 
+1. Should be FDA , CE,UL or BIS approved product 
+2. Manufacturer/Supplier should have ISO certification for quality standards. 
+3. Electrical safety conforms to standards for electrical safety IEC-60601 / IS-
+13450 
+4. Should have service facility at Raipur. The service provider should have the 
+necessary equipments recommended by the manufacturer to carry out 
+preventive maintenance test as per guidelines provided in the 
+service/maintenance manual. 
+5. All electrical actuators and mechanisms should be housed inside the structure 
+making the product safer 
+4. Remote monitoring: 
+1. Should have a secure, cloud based connectivity platform that collects and 
+transmits treatment data from the dialysis device to the Nephrologist 
+
+
+--- Page 20 ---
+                                             Tender No. : AIIMS/R/CS/Nephro/25/19/OT 
+ 
+ 
+Page 20 of 23 
+ 
+2. The treatment data from the patient’s machine should be available on demand 
+for the nephrologist to study UF, drain volumes and pattern, BP, weight.  
+3. Peritonitis, displacement of the catheter should be inferred from the reports 
+generated  
+4. Nephrologist should be  able to intervene remotely and change device programs 
+5. Others: 
+1. Shall meet IEC-60601-1-2 :2001(Or Equivalent BIS) General Requirements of 
+Safety for Electromagnetic Compatibility. or should comply with 89/366/EEC; 
+EMC-directive 
+2. The unit shall be capable of being stored continuously in ambient temperature 
+of 0 -50deg C and relative humidity of 15-90% 
+3. The unit shall be capable of operating continuously in ambient temperature of 
+10 -50deg C and relative humidity of 15-90% 
+4. Should be compact in size and easily portable 
+5.   Documentation 
+1. User/Technical/Maintenance manuals to be supplied in English. 
+2. Certificate of calibration and inspection. 
+3. List of important spare parts and accessories with their part number and 
+costing. 
+4. Log book with instructions for daily, weekly, monthly and quarterly 
+maintenance checklist. The job description of the hospital technician and 
+company service engineer should be clearly spelt out. 
+5. List of Equipments available for providing calibration and routine Preventive 
+Maintenance Support as per manufacturer documentation in service/technical 
+manual. 
+ 
+ 05 Year warranty and 05 Year CMC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

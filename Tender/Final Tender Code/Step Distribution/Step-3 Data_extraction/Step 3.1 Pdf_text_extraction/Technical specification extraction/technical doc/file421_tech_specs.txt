@@ -1,0 +1,78 @@
+--- Page 11 ---
+Balance Analysis System for dept. of PMR                  
+ 
+ 
+           Admn/Tender/25/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Balance Analysis 
+System    
+ 
+Balance System Tender Specification: 
+ 
+ System should be useful for balance testing and training platform.  
+ It should be portable not more than 65 x 65 cm and should not 
+weigh more than 15 Kg  
+ Should have measuring range of  0 – 180Kg /sensor 
+ System should be powered by the USB. 
+ System should be able to take  maximum user weight for Balance 
+testing up to 180 kg  
+ System should have protocol for Romberg 30 s, Romberg 1 min, 
+Eyes Open, Eyes Close, Eyes open unstable and Eyes Close 
+Unstable. 
+ System should also have minimum 8 test protocols  
+ System should have in built normative data with minimum of 1800 
+normative tests 
+ Should have maximum sampling rate of 400HZ 
+ System should have facility to measure Limits of Stability  
+ System should have facility to measure Squat  
+ Should have at least 4-5 balance training exercises with several 
+difficulty levels for every user  
+ System should have facility to be used with regular small 
+wheelchairs for core stability training  
+ Should have low instep for patient safety. 
+ Should have a possibility to treat patient with both foam and firm 
+exercise. 
+ Should have inbuilt calibration system before testing the individual 
+for balance. 
+ Should have Posturogram 
+  Should have facility to trace the COP shifts with time, 90 percent 
+confidence ellipse, trace length, standard deviation velocity, 
+Romberg Quotient, Weight Distribution.       
+ Should have Power spectrum. 
+ Should have a Stabilogram for the analysis of balance test 
+ Balance Platform should be supplied with foam pad for unstable 
+testing, carry bag, computer system, Balance software and printer. 
+ Balance platform should be mount on wooden platform with hand 
+rails. 
+Software should include: 
+ 
+ Software should have facility of protocol wizard, with which the 
+user can create own customized testing protocols.  
+ Software should generate Gender and age specific comparison. 
+ Software should include vestibular, medical and a dizziness 
+handicap history questionnaire  
+ Should have games based balance exercise. 
+ Should have possibility to upgrade the balance software for testing 
+and training 
+ Should have possibility to create Database for persons and groups 
+ Should have possibility to store Test results for later analysis and 
+comparisons 
+ Should have possibility to Print test reports 
+01  
+
+

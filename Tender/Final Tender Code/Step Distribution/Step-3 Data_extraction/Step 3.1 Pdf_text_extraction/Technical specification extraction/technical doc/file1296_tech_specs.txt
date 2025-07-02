@@ -1,0 +1,141 @@
+--- Page 18 ---
+Tender for Supply, Installation, Testing & Commissioning of Bench-Top Flow Cytometer with High End Cell Sorter workstation 
+ 
+                 E-Tender No. 051 AIIMS/BPL/STORES/CIF/FACS/2019-20 Dated: 01.10.2019            Page 18 of 42 
+ 
+ 
+Specification of Bench-Top Flow Cytometer with High End Cell Sorter 
+workstation (1 No.) 
+1. Bench top fixed aligned/ easy to align flow cytometer cell sorter required with four laser solid 
+state 488nm blue laser, 630-640nm red laser, 561nm YG (yellow Green) laser and 405nm 
+violet laser. 
+2. System must be upgradable with more laser & color in future. 
+3. The system should have 12 fluorescence/colors (14 parameters including Forward & Side 
+scatter) measurement capability simultaneously, upgradable up to 18 fluorescence/colors (20 
+parameters).  
+4. The system should have fixed aligned system without custom alignment for ease of 
+operations keeping all level of users into consideration. 
+5. System must have independent laser beam spots/pin holes for all the lasers quoted (minimum 
+4) without any customization to the main unit. 
+6.  The system should have nozzles of various sizes (70-75/80/100 and 120-130 micron) as per 
+requirement & their removal and insertion should be possible without realigning the optics or 
+the fluidics of the instrument.  
+7. The system should be able to acquire at least 70000 events/second.  
+8. The system should have built in sorter capable of sorting speeds up to 70000 events/second 
+with 2- & 4-way sorting. 
+9. The system should be able to provide various sheath pressure options upto 75 psi. 
+10. The system should have option of automatic cell deposition unit which allows for slide and 
+plate sorting into 6, 24, 48, 96 and 384 plates. 
+11. Viability & yield should be more than 90% in routine applications. 
+12. The system should be capable of all basic to high end research applications including stem 
+cell sorting. 
+13. Upgradable to BSC in future (Class II A2 type) 
+14. The company should offer the latest and updated model and should have a dedicated training 
+center with documented proof of conducting regular training for research applications.  
+15. User lists & performance certificates should be quoted at least from 5 Govt. users from India. 
+16. The Bidder should have to organize on-site training of manpower and technical staff after 
+installation. 
+Software 
+17. System should have one million event file in the software with both online and offline 
+compensation during data analysis. 
+18. The system should come with original suitable Software for acquisition, data analysis for all 
+the applications including Bead array applications. 
+19. One additional data stations and a laptop of specification with at least 8th Gen i7 processor @ 
+3.16 or more GHz, 1000 GB hard drive or more, DDR4 RAM 16 GB or more, DVD/CD 
+ROM R/W combo drive, two 2 TB external hard Disk, compatible (23”x2) LCD monitors 
+and two MFP color laser printers. 
+20. System should have feature of software adjustable sample input agitation and temperature 
+control, indexing of cells of interest and QC management for at least past one month. 
+
+
+--- Page 19 ---
+Tender for Supply, Installation, Testing & Commissioning of Bench-Top Flow Cytometer with High End Cell Sorter workstation 
+ 
+                 E-Tender No. 051 AIIMS/BPL/STORES/CIF/FACS/2019-20 Dated: 01.10.2019            Page 19 of 42 
+ 
+21. Online PO compatible instrument should be provided with the warranty and any up- 
+gradation in the software should be provided free of cost during the warranty period. 
+22. The company should have at least 30 installations of flow cytometer in India. The company 
+should provide user certificates & Complete details of service and application support should 
+be given along-with onsite installation and training. 
+23. Also, company should have facility for technical support, troubleshooting & training on the 
+same system within or outside the country on its cost. 
+24. Free upgradation of software.  
+25. Instrument shall be supplied with all the accessories required to function.  
+26. The price list of all optional accessories and consumables shall be attached with offer for 
+future reference for purchase. 
+27. Five years on-site warranty and CMC for subsequent 5 years after successful completion of 
+warranty. 
+    Application: 
+28. System should be capable of analyzing markers on, and inside the Leucocytes, Apoptotic 
+marker, cell cycles marker, SP cells marker and infectious application viz. HIV, tuberculosis, 
+Leishmania, Malaria, Toxoplasma along with cytokines, chemokines, phosphokines markers 
+etc. in the suspension & supernatants using assays. 
+    Other conditions: 
+29. The firm must supply a compatible 5 KVA online UPS with 30 minutes backup with the 
+system. 
+30. The firm should create the flowcytometer workstation laboratory with complete essential 
+equipment/reagents including HP color laser jet printer Pro MFP M477 or equivalent,  
+calibration reagents/kits, FACS tubes (1000 nos), sheath fluid (20 units), disinfection 
+solution, other essential accessories should be provided with equipment’s. 
+31. The company shall also make appropriate arrangements for accreditation of the tests and 
+arrange QC material time to time free of cost at least for 5 years. 
+32. All pre-installation requirements after survey of installation site, e.g. AC, power outlets etc. 
+will be the responsibility of the company. 
+General Clauses:  
+1. Only Principal Companies or Authorized Distributors from Principal companies should 
+quote. Quotations from non - authorized distributors will not be entertained. Features in the 
+quotations should be substantiated with proper Principal Company Catalogue.  
+2. Should operate under a Quality Management System which complies with the requirements 
+of ISO 9001:2008 for design, manufacture and services.  
+3. Should be CE (Europe)/UL /EMC/CSA certified.  
+4. The Bidder shall examine the existing site where the equipment is to be installed, in 
+consultation with HOD of concerned user department. The Bidders to quote prices indicating 
+break-up of prices of the Machine and Turnkey Job of each equipment. The Turnkey costs 
+may be quoted in Indian.  
+5. Copies of all certifications e.g. Quality Standard certificate, Proprietary Item/parts, Patent of 
+parts/ technology, Principal company/Authorized Distributorship should be attached with the 
+quotations.  
+6. In-house service engineers from principal company/ or authorized agents should be available 
+in India on one-day notice basis in case of emergency (this will apply for those equipment 
+wherein this clause is not built into the specification).  
+
+
+--- Page 20 ---
+Tender for Supply, Installation, Testing & Commissioning of Bench-Top Flow Cytometer with High End Cell Sorter workstation 
+ 
+                 E-Tender No. 051 AIIMS/BPL/STORES/CIF/FACS/2019-20 Dated: 01.10.2019            Page 20 of 42 
+ 
+7. Compliant points should be given (in the sheet) in order of the specifications’ serial order. 
+Compliant points should be highlighted in the company catalogue with page number.  
+8. Must include: User’s list with telephone numbers and email address.  
+9. Vendor should submit an undertaking from manufacture the responsibility of maintenance in 
+case of merger or acquisition.  
+10. Rate list of spares should be provided.  
+11. A performance certificate from at least 2 users should be provided.  
+12. A rate contract for all the consumables (including kits and panels) should be made & the rates 
+should be frozen for 5 years. In case of decline in price, these should be offered.  
+13. Installation should be within the time frame specified in the supply order, failing which the 
+company shall be penalized at 0.2% of total cost per week to increase to maximum of 15%.  
+14. Downtime for minor issues should not be more than 48 hours.  
+15. For major issues that may require import of spares, the downtime should not be more than 10 
+working days.  
+16. If the financial bid is made in foreign currency, then the Letter of Credit made shall be for 
+70% of the total cost. The remaining 30% shall be paid after successful installation and 
+working for a minimum of 30 days after installation.  
+ 
+CMC/AMC  
+ Penalty clause: Direct presence in India with strong after-sales technical and service 
+support and must ensure that all faults are rectified within one week, failing which would 
+lead to extension of warranty by twice the period of downtime. The warranty should be 
+all inclusive.  
+Vendor Liability 
+ Provide technical and application support for 3 years to handle the equipment at 
+company’s expenses following satisfactory installation.  
+ In house training and training of minimum 2 research staff to the center of 
+excellence/Factory training should be provided. 
+ 
+ 
+ 
+
+

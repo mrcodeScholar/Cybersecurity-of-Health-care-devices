@@ -1,0 +1,320 @@
+--- Page 38 ---
+ 
+Tender Enquiry No.: AIIMS/BPL/ENDOSCOPY-USG/MED.GASTRO./24-25/GTE/ 016         Dated:04/09/2024 
+ 
+ 
+ 
+ 
+Page 38 of 62 
+ 
+ 
+ 
+Note: 
+i) 
+The delivery schedule for different sites may be staggered based on the site readiness. 
+ii) 
+Supplier has to submit clear documents for opening of LC to AIIMS Bhopal within 21 days of 
+placement of order. Any delay will be treated as non-performance and Liquidated Damages 
+shall be levied. 
+iii) 
+In case of multiple LC are opened in favour of multiple manufacturers, the delivery period for 
+all the items under the contract shall be counted from the date of opening of the first LC only. 
+ 
+Indigenous goods or imported goods if supplied from India (offered in INR) which are  
+linked with supply of directly imported goods, are to be supplied within the contractual delivery 
+period as stated in para b) above. 
+ 
+ 
+ 
+SECTION - VII: TECHNICAL SPECIFICATIONS for Endoscopy USG  
+ 
+ 
+ 
+Technical Specifications for Endoscopic Ultrasound  System 
+ 
+1) Video Gastro Endoscope Linear: Should have following technical Specifications/features:  
+ 
+ Should have high resolution quality Endoscopy image.  
+ 
+ Should have built in CCD at Tip and Real time optical enhancement technology. 
+ Should have compatibility with SWQ to check the liver fibrosis either in B-Mode and 
+Elastography mode. 
+ Should have EUS images with four or more selectable frequencies from 5-12 MHz. 
+ Should have Color Doppler, Power Doppler for effective confirmation of blood flow, should 
+have Pulse Wave Doppler,H-Flow mode,B-Mode and ELST mode with Strain Ratio & Strain 
+Histogram 
+ Should have 4 or more remote switches in scope the control body for frequently calling 
+desired functions such as Freeze and unfreeze.  
+ Should have detachable Ultrasound cable for easier handling, reprocessing &storage. 
+ Should have lens cleaning function for keeping the endoscopic field of view clear.  
+ Should have Tissue Harmonic function for enhanced EUS image.  
+ The distal end should have a short rigid portion for less trauma to the patient.  
+ Video scope should have FNA (Therapeutic capability).  
+ EUS scope should be fully immersible for thorough cleaning 
+ Depth of Field: 3-100mm  
+ Scanning Method: Electronic curved linear array  
+ Frequency Range Electronic probes: 5 to 12 MHz  
+ Scan Range: 180 degree or better  
+ Field of view: 100 degree or more  
+ Direction of view: 55 degrees Forward oblique  
+ Insertion tube outer diameter: 12.6 mm or less  
+
+
+--- Page 39 ---
+ 
+Tender Enquiry No.: AIIMS/BPL/ENDOSCOPY-USG/MED.GASTRO./24-25/GTE/ 016         Dated:04/09/2024 
+ 
+ 
+ 
+ 
+Page 39 of 62 
+ 
+ 
+ Distal end outer diameter: 14.6 mm or less  
+ Instrument channel diameter: 3.7 mm or more  
+ Angulation Range: UP/Down 130/90 degree or more, Right & Left 90 degree or more 
+ Work Length: 1250 mm or more.  
+ Total Length: 1550 mm or more.  
+ Minimum Visible Distance:6mm or less 
+ Should be supplied along with Leakage Tester & carrying case 
+ 
+ 
+ 
+2)  Video Gastro Endoscope Radial: Should have following technical Specifications/features:  
+ 
+ Should have Electronic radial scanning and offer High Resolution Image quality, greater 
+safety and enhanced ease of use.  
+  
+ Should have short distal end diameter for easy maneuverability in Duodenum. 
+ Should have Slim outer diameter for smooth insertion in to throat & P-ring. 
+ Should have compatibility with SWQ to check the liver fibrosis in B-Mode &Elastography 
+mode. 
+ Should have EUS images with four or more selectable frequencies from 5-12 MHz. 
+ Should have Color Doppler, Power Doppler for effective confirmation of blood flow, should 
+have Pulse Wave Doppler, H-Flow mode, B-Mode and ELST mode ELST mode with Strain 
+Ratio & Strain Histogram 
+ Should have 4 or more remote switches in scope the control body for frequently calling 
+desired functions such as Freeze and unfreeze.  
+ Should have detachable Ultrasound cable for easier handling, reprocessing & storage. 
+ Should have D-Cut design Distal end for easy removal of balloon band and to prevent 
+damage to the distal end 
+ Should have Tissue Harmonic functions for enhanced EUS image.  
+ Video scope should have an instrument channel. 
+ EUS scope should be fully immersible for through cleaning and should have detachable 
+ultrasound cable. 
+ Depth of Field: 3-100mm  
+ Scanning Method: Electronic Radial array 
+ Frequency Range Electronic probes: 5 to 12 MHz  
+ Scan Range: 360 degree  
+ Field of view: 100 degree or more  
+ Direction of view: 50 degrees Forward oblique  
+ Insertion tube outer diameter: 10.9 mm or less  
+ Distal end outer diameter: 13.4 mm or less  
+ Instrument channel diameter: 2.2 mm or more  
+ Angulation Range: UP/Down -130/90 degree or more, Right / Left- 90 degree or more 
+ Work Length: 1250 mm or more.  
+ Total Length: 1550 mm or more.  
+ Minimum Visible Distance:5mm or less 
+ Should be supplied along with Leakage Tester & carrying case 
+ 
+ 
+ 
+
+
+--- Page 40 ---
+ 
+Tender Enquiry No.: AIIMS/BPL/ENDOSCOPY-USG/MED.GASTRO./24-25/GTE/ 016         Dated:04/09/2024 
+ 
+ 
+ 
+ 
+Page 40 of 62 
+ 
+ 
+ 
+3) Processor for EUS 
+ 
+ Compact and easily transportable one cart System/Unit, ease to move on trolley.  
+ Ultrasonic Process should provide color doppler, Power doppler and H-flow for effective 
+confirmation of blood flow, Pulse wave, B Mode, color flow.  
+ Should have Tissue Harmonic function and Elastography function available to confirmation 
+of relative thickness of tissue to confirm the possibility of malignancy.  
+ Should have Elastography with i-ELST function, strain ratio & strain histogram.  
+ Should have S-focus function for full range focusing eliminating Manual focus adjustment.  
+ The processor should be integrated for electronic and Mechanical scanning.  
+ Should have SWQ for absolute value of tissue stiffness within a region of interest.  
+ SWQ (Software Options) Calculates and displays transmission speed and elasticity of shear 
+wave in ROI.  
+ Should have capacity to record at least 1 minute to 3minutes video with its retrieval.  
+ Option to choose frequency range: 5-12 MHz, by self or by adding compatible system. 
+Dedicated and user-friendly keyboard.  
+ Generated frequency range: Preferably up to 20 MHz  
+ The keyboard should have a large LCD touch panel that allows a greater range of functions 
+to be displayed at one time, backlit keys, and a trackpad for ease of use and cleaning.  
+ Retrieve Image through USB port to record.  
+ GAIN, contrast and STC functions for adjustment of image.  
+ Should have LE reduction function to intensive signals.  
+ Should have combined contrast harmonic & tissue harmonics mode (C-THE)  
+ Should have persistence mode for 3D image smoothing.  
+ Should have Cine Memory of storing more than 1500 frames.. 
+ 2KVA isolation transformer should be provided to protect the Ultrasound Processor against 
+electric surge.  
+ Should be supplied with EUS19/22g needles – 20 pcs 
+ 
+ 
+4) Video Processor with integrated Light Source   
+ 
+ Video processor should have in-built light source with 5 LED or more Spectrum Technology  
+ Should have real time optical enhancement Technology. 
+ Should have red dichromatic imaging technology an advanced. 
+ technology specific for visualization of bleeding spots and deeper vessels to facilitate better 
+therapeutic interventions and clinical outcomes. 
+ Should have smart brightness adjustment in maintenance of contrast selectively improve 
+light intensity of darker areas for better endoscopic visibility. 
+  Should have Texture and Color Enhancement Imaging for better visualization and Increased 
+Detection rate for Flat and depressed lesion, Pit patterns, Intestinal Metaplasia and 
+Demarcation by enhancing Color, texture and brightness of image 
+ To reduce mis- rates during endoscopy Video processor should have digital 12G-SDI output 
+for 4K, 3G-SDI and HD-SDI output for HD image and should contain electronics for clear 
+visibility of near and far objects. 
+ The processor should have compatibility with Dual Focus & Flexible video Cholangioscope. 
+ Video processor should also have compatibility for scope guide system for colonoscopy.  
+ Processor should have feature of compatibility with Endocytoscope having magnifications of 
+520x & above. 
+
+
+--- Page 41 ---
+ 
+Tender Enquiry No.: AIIMS/BPL/ENDOSCOPY-USG/MED.GASTRO./24-25/GTE/ 016         Dated:04/09/2024 
+ 
+ 
+ 
+ 
+Page 41 of 62 
+ 
+ 
+ Provision of automatic IRIS control and white balance free function 
+ Provision of Picture in picture display  
+ Equipped with automatic light adjustment facility. 
+ Equipped with touch screen interface for accessing the processor settings. 
+ Should have compatibility for both Monochrome & Colour CCD & CMOS scopes. 
+ 
+ 
+5) 4K Medical Grade Monitor same make. 
+ 32-Inch with LED Backlit medical grade monitor with 4K resolution. 
+ The quoted monitor should be either from the same make (OEM) or a repute make having 
+Global tie up with the company of scope. 
+ It should have Advanced Image Multiple Enhancer technology to produces sharp, vivid 
+images by enhancing both structure and color for more detailed observation. 
+ Should be compatible to route 4K video signals via a single 12G-SDI output 
+ Should have multiple display modes such as Picture-in-Picture (PIP) and Picture-out-
+Picture(POP) display modes 
+ Should have a Clone Out function to duplicate the 4K/HD video signals as displayed on the 
+screen, including PIP/POP to a second monitor, or recording device 
+ Should be fully compatible with Endovision System for 4K visualization through 12G SDI & 
+HD through 3G-SDI & HD-SDI in native colour gamut  
+ Should have BT.2020 colour gamut 
+ Certified from IEC 60601-1 
+ Should have following Input 4K: 12G-SDI ×2, Display Port ×1, HDMI ×1 & out 12G-SDI 
+×2 
+ Should have following Output 2K: 3G-SDI ×1, DVI-D x 1 and out 3G-SDI ×1 
+ Clone Out / AUX IN 12G-SDI ×1/ Any port 
+ Intuitively operable control panel with LED lighting navigation 
+ 
+ 
+ 
+6) System Trolley from same make 
+ 
+ Space to accommodate all equipment. 
+ Should have a Scope Hanger  
+ Based on Castor-Wheel with locking facility 
+ Should be from same OEM with built in isolation transformer. 
+ 
+ 
+7) Hardware & Software (Latest Laptop, Image Grabbing Software, Printer) for report Generation 
+ 
+Computer / Laptop 
+ Processor i7 or better. 
+ RAM 8GB or more & with Hard Disk 500 Gb or more with 2TB external HDD  
+ 19" LCD /LED monitor. 
+ Mouse & Multimedia keyboard. Should be supplied.  
+ Medical grade HD Software to record and edit high quality video and images. 
+ Colour Ink tank printer  
+ UPS with appropriate rating, if required  
+ 
+
+
+--- Page 42 ---
+ 
+Tender Enquiry No.: AIIMS/BPL/ENDOSCOPY-USG/MED.GASTRO./24-25/GTE/ 016         Dated:04/09/2024 
+ 
+ 
+ 
+ 
+Page 42 of 62 
+ 
+ 
+Note:  
+ Should have 5 years warranty and 5 years CMC except accessories  
+ Should be supplied with leakage tester and carrying case for all endoscopes  
+ 
+ 
+ 
+ 
+ 
+ Technical compliance report should be submitted in following format: 
+ 
+Sr. 
+No. 
+Item Description as 
+per Tender 
+Complied 
+Yes/No 
+Item Description 
+offered by Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive warranty as per Conditions of Contract of the TE document for complete 
+equipment (including Batteries for UPS, other vacuum tic parts wherever applicable). Warranty 
+period will be 05 years from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & handing over of equipment 
+to AIIMS Bhopal 
+b) In-case of complaint, and emergency number to be provided and complaint to be cognizance to 
+be taken within 24 hours of complaint  
+c) 98% up time Warranty of complete equipment with extension of Warranty period by double the 
+downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+d) All software updates should be provided free of cost during Warranty & CMC Period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical College on 24 
+(hrs) X 7 (days) X 365 (days) basis. Complaints should be attended properly, maximum within 8 hrs. 
+The service should be provided directly by Bidder/Indian Agent. Undertaking by the Principals that 
+the spares for the equipment shall be available for at least 10 years from the date of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents (if they 
+have the requisite know-how) for operation and maintenance of the equipment to the satisfaction of 
+the consignee. The same will be in line with the training modalities as specified in general technical 
+specification. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

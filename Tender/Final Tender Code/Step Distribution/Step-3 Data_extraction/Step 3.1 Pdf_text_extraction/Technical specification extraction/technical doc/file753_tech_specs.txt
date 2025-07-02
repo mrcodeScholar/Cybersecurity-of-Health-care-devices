@@ -1,0 +1,123 @@
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/BB/19/10/OT 
+ 
+ 
+Page 17 of 21 
+ 
+ANNEXURE-I 
+Technical Specification 
+Sl. No. 
+Item Descriptions 
+1 
+Chemiluminescence based fully Automated Immunoassay System     Quantity: 01                             
+ 
+Specification: 
+1. Fully Automated immunodiagnostic system, shall be based on chemiluminescence 
+technology, walkaway system for HIV I & II, HBSAg, HCV and Syphilis with latest 
+acceptable ‘Technology and reagents’ approved by Drug Controller General of India 
+(DGCI). 
+2. Capacity 
+i. It should have continuous loading capacity of 50 samples with a thorough put of 75-
+100 samples/hour. 
+ii. It should have barcode reader to read multiple barcode types. 
+iii. It should have a capability to do the assay in continuous, random, batch & stat mode. 
+3. Sample Handling 
+ 
+i. It should have the capacity to accept various types of sample container like primary, 
+secondary tubes and micro sample cups for sampling purposes. 
+ii. It should have access to the samples during operations. 
+iii. It should have the facility for clot detection, bubble detection, check viscosity, 
+sample level and short samples to ensure accuracy preventing erroneous results due 
+to improper samples. 
+iv. It should have an ability to do on board dilution and reflex dilution for high and 
+abnormal samples. 
+4. Reagent Management 
+ 
+i. It should have the disposable tip system to avoid reagent carryover (included in the 
+consumables provided by the firm). 
+ii. The onboard reagent stability should be minimum 2 months. 
+iii. It should be continuous random access to loading and unloading reagents. 
+iv. It should have the compact, integrated reagent pack with all components. 
+v. It should have the capability of inbuilt inventory management system by tracking all 
+the reagents and supplies automatically. 
+ 
+5. Calibration and Quality Control 
+ 
+i. It should have the calibration stability of at least 25‐30 days for each parameter to 
+decrease reagents consumption. 
+ii. It shall have multiple lot calibration capabilities and calibration curve transition 
+facility. 
+iii. It shall have the QC package system to monitor the quality of result obtained. 
+iv. Reagents used should be approved by the National Institute of Biological or DGCI 
+with approval for the Detection of HIV, HBsAG, HCV in a Blood Bank as a primary 
+method for the screening of Blood Donors. 
+ 
+6. Data Management 
+ 
+i. It should have the self-diagnosis and error recovery system with onboard operator 
+guides for efficient trouble shooting purpose. 
+ii. It shall be compatible to the laboratory information system for on data storage facility 
+for a min. of 5000 reports. 
+iii. It shall have online status for worksheet, samples, reagents, tips, quality controls. 
+iv. Compatible UPS with one and half hour power back-up and Laser printer to be 
+supplied cost of which should be included in the quotation. 
+7. Waste Management: It shall have the facility to collect both liquid and solid 
+
+
+--- Page 18 ---
+NIT No. : AIIMS/R/CS/BB/19/10/OT 
+ 
+ 
+Page 18 of 21 
+ 
+waste. 
+8. It should have onsite warranty of five years after installation. 
+9. Rates for CMC to be quoted separately after completion of warranty for 5 years 
+and these rates will be considered of pricing. 
+10. Free onsite training to Doctors and Technicians to be provided. 
+11. Company should provide 1000 test reagent for HIV, HBsAg, HCV each free of 
+cost. 
+12. Quotation for various types of consumables and accessories shall be provided. 
+13. Necessary Operator manual and other accessories should be provided with the 
+equipment without any extra cost. 
+14. Equipment should be completely functional on day one of its installation  
+15. Acceptable quality certification BIS/Make in India/European CE/USFDA. List of 
+installations and feedback report should be provided from at-least three 
+Government Blood Banks. 
+ 
+Enclosure-I: -   PARAMETERS REQUIRED: 
+ 
+Anti-HIV 1/2 – 5000 tests annually including cost per reportable test  
+Price of Reagents (Cleaner/Washer/Diluent) /Kits /Calibrator – required every 28days 
+/QCs  (Positive control and Negative control required daily) /Tips required /Any other 
+accessory must be included) 
+ 
+Anti-HCV - 5000 tests annually including cost per reportable test  
+Price of Reagents (Cleaner/Washer/Diluent) /Kits /Calibrator – required every 28days 
+/QCs  (Positive control and Negative control required daily) /Tips required /Any other 
+accessory must be included) 
+ 
+HBsAg testing - 5000 tests annually including cost per reportable test   
+Price of Reagents (Cleaner/Washer/Diluent) /Kits /Calibrator – required every 28days 
+/QCs  (Positive control and Negative control required daily) /Tips required /Any other 
+accessory must be included) 
+ 
+Syphilis testing - 5000 tests annually including cost per reportable test 
+Price of Reagents (Cleaner/Washer/Diluent) /Kits /Calibrator – required every 28days 
+/QCs  (Positive control and Negative control required daily) /Tips required /Any other 
+accessory must be included) 
+ 
+Explanation: 
+Apheresis donation for platelets is an emergency donation.  
+Here blood donor after being medically selected has to wait for the testing results of 
+Transfusion transmitted infections (TTI’s - Anti-HIV 1/2; Anti- HCV; HBsAg; Syphilis; 
+Malaria) and after the results he is connected to cell separator for this precious donation. 
+Blood donors for this kind of donation are difficult to motivate because all these 
+procedures including one hour on the machine comes out to be an investment of 4 hours 
+for the blood donor. 
+Therefore this screening is usually done with Rapid kits with results obtained in about 
+20mins 
+Limitation of the Rapid testing is that it can miss few of the donors who may pass on the 
+TTI to intended recipient. 
+
+

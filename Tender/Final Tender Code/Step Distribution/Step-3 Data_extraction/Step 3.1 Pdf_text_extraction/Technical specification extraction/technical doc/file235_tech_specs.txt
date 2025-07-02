@@ -1,0 +1,183 @@
+--- Page 19 ---
+ 
+Tender Enquiry No. F.No.24/ Neuro/194(I)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+Specification for Intra-operative Neuro-monitoring System 
+  Portable, laptop based Intra-operative 32 channel Neuro-monitoring system, with capability to monitor critical 
+neural pathways during critical cranial and spinal surgeries. 
+A. General System Specifications : The system should be : 
+ 
+Should be USFDA & European CE Approved 
+ 
+Should have 5 Years warranty  followed by 5 year CMC (wherever applicable) 
+ 
+Complete range of accessories and disposables for all monitoring modalities with their Prices 
+should be quoted /provided and will be freezed for whole warranty period. 
+ 
+The system should be available for demonstration as per the requirement of user department. 
+ 
+Onsite Training for OT personnel should be provided for 6 months at least/till they are trained. 
+ 
+Provide list of  installations in reputed govt. institutes in India with performance record 
+ 
+Copy of Catalogue should attached with photographs and dimensions of the instruments quoted. 
+Soft copy should be searchable. 
+ 
+All the instruments must be of single make to avoid adaptability issues 
+ 
+Established neurological safety with system components  
+ 
+Compliance statement should be given in a Tabulated & point wise manner. 
+ 
+95% uptime guarantee is required. 
+ 
+1 
+Portable laptop-based system with Surgeon-directed and neurophysiologist-supported capabilities in 
+one system 
+2 
+Adjustable parameters to perform neuro monitoring on pediatric patients. 
+3 
+Integrated remote monitoring capabilities 
+4 
+Electronic or hard copy screen shot storage 
+5 
+Electrosurgery Unit (ESU) interference muting 
+6 
+32 channel neurological monitoring for intraoperative and ICU applications. 
+7 
+Comprehensive EEG, EP and EMG monitoring with up to 32 independent channels. Up to 128 traces 
+(64 per modality) can be displayed. 
+8 
+All EP modalities including SSEP, MEP, AEP, BAEP, VEP 
+9 
+Independent, high and low electrical stimulators for peripheral and direct nerve monitoring, 
+extensive stimulus triggering including repetitive, non- repetitive, single pair and train. 
+10 Should have Built-in pulse oximeter. 
+11 Should have Biphasic stimulation for TcMEP 
+12 Should have Free Running and Stimulated Triggered EMG 
+13 Nerve Proximity  and Nerve Root test feature 
+14 Pedicle Screw Integrity test feature 
+15 TOF (Train of Four) feature 
+16 Module for easy EMG & MEP testing from sterile field. 
+17 Should have 2 DVR feeds 
+18 Stimulators run all electrical modalities 
+19    Data should be able to be saved manually or automatically as continuous EEG, free run EMG, 
+triggered EMG, EMG audio(EMG audio should be able to be recorded and reviewed), updated 
+averaged EP, screen snap shots and video. Previously saved data can be reviewed while monitoring.  
+Data review should be locally or remotely via network, modem or internet. 
+20 Standard test protocols should be provided and modifiable and saved by user. 
+21 Hardware should be protected against faults. 
+22 Reports can be automatically generated for every test and should contain all test information and 
+additional user specified information. 
+23 Theaccessories/ instrumentsshould be compatible with neuro monitoring system. 
+ 
+
+
+--- Page 20 ---
+ 
+Tender Enquiry No. F.No.24/ Neuro/194(I)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+ 
+ 
+B. Mandatory features of the Surgeon-Directed Module: The operating surgeon should be able to start, operate 
+and control the unit from the sterile field via a sterile probe with below features:  
+1. 8-channel EMG, MEP, and Train of Four modalities 
+2. 2-channel Pulse Oxymetery recording 
+3. Automated report generation for pedicle screw stimulation 
+4. The sterile probe’s multicolor LED indicates test results 
+5. Multiple manual and triggered EMG modes of operation 
+6. Audible and visual surgeon feedback 
+7. The surgeon must be able to change parameters, select modalities, Receive acoustic and visual 
+feedback and Stimulate nerves with the sterile probe.  
+8. Buttons  the on sterile probe  should allow surgeon to increase or decrease current, change the 
+monitoring test mode, and print reports 
+C. Mandatory features of the Neurophysiologist-Supported Module: 
+1. Simultaneous 32-channel EP (MEP, SSEP, VEP, BAEP, etc.), EMG, and EEG monitoring 
+2. Built-in, fast-charge TCeMEP with double-train stimulation for monitoring in pediatric patients 
+3. Slow charge TcMEP for pediatrics should allow pulse duration to be adjusted at >75 µs. 
+4. 2-channel Pulse Ox capability 
+5. Automated pedicle screw testing 
+6. Surgeon’s microscope view 
+7. Simultaneous multisite remote monitoring and review 
+8. The Neurophysiologist-Supported Module Should Support below mentioned Nerve Proximity 
+Test Screen 
+a. Provides audio tone feedback indicating proximity to a nerve root 
+b. Program automatically changes stimulation intensity while searching for an EMG 
+response 
+9. The Neurophysiologist-Supported Module Should Support below mentioned Screw Test 
+capabilities 
+a. Should quickly and automatically verify proper positioning of pedicle screws 
+b. Simulation intensity  should automatically increase until a response is generated 
+c. Algorithm  should confirm response to avoid false test results 
+ 
+10. The Neurophysiologist-Supported Module Should have Nerve Root Test Screen 
+a.  to locate and quantify the health of a nerve root 
+b. Simulation intensity automatically increases until a response is generated. 
+Acessorries-   
+ These should be US FDA/ ECE Approved 
+ Instruments should be black coated to avoid glare, and instruments wherever possible 
+should be bayonet shape. 
+ 
+ 
+The accessories should be compatible with Pedicle Access Probe/Ball-Tip Probewith Neuro 
+Monitoring capability 
+
+
+--- Page 21 ---
+ 
+Tender Enquiry No. F.No.24/ Neuro/194(I)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+ The Retractors should be suitable for user-friendly approaches to single- and multiple-level 
+fusion procedures, with multiple modes of visualization—microscopes, loupes, and direct 
+visualization. 
+ Retractor should have ports for docking light cable which should be compatible with all 
+major light source manufacturers. 
+ Containers should be customized, from the manufacturer only and should be quoted in 
+sufficient number- no loose instruments will be accepted. If the sterilization containers use 
+microbial filters then latter should be made of reusable material like Teflon (suitable for at 
+least 1000 cycles of sterilization)&not of disposable paper/textile type. 
+ 
+1. Sequential dilators, diameters about 5 mm to 24 mm or similar - one set, color coding is 
+required. 
+2. Beveled / Angled, black finish, Stainless Tubular Retractors of diameters  approximately 14, 16, 
+18, 20, 22,26 mm (or similar) and lengths between 3-9cm in increments of 1cm- one each 
+3. Straight black coated retractor tubes with width 20-22 mm, length bet 4,6,8 cm or similar- one 
+set 
+4. Expandable tubular retractors of sizes 50mm, 60mm & 70mm or similar expandable using a tube 
+opener (ensuring pedicle to pedicle  visibility of at least 4 cm)-  1 each. 
+5. Tube opener for above- 1 each 
+6. Half tube blades (right & left) of different length from 40mm to 80mm – one set of right blades 
+and one of left blades. 
+7. Blade opener- one each 
+8. Wide  medio-lateral blades of 5 and 7cm to avoid muscle coming from lateral sides after 
+expansion- 2 of each type 
+9. Narrow medio-lateral blades of 5 and 7cm to avoid muscle coming from lateral sides after 
+expansion- 2 of each type 
+10. Black radiolucent blade with light attachment facility blade Midline- Right 4 – 8cm in  gradual 
+increments – 1 set 
+11. Black  radiolucent  blade  with light attachment facility midline -left  4 - 8 cm  in gradual 
+increments – 1 set 
+12. Nerve hook left-1 
+13. Guidewire 2mm- 4 
+14. Balltipprobe- surgeondirected ,1 flushtip and 2 balltipprobes 
+15. OT Tableclampattachment- 1 
+16.  Flexible arm Assembly-1 
+17. Retractor rack-1 
+18. Mediolateral rack -1 
+19. Customizedsterilizationcontainerswithappropraitetraysforalltubes , retractorblades 
+20. Accesories for performing needle EMG/MEP monitoring during surgeries eg needle electrodes 
+plus any other acessory which is required for routine use during neuromonitring procedures- 
+appropriate numberfor 50 cases. 
+ 
+ 
+ 
+ 
+ 
+
+

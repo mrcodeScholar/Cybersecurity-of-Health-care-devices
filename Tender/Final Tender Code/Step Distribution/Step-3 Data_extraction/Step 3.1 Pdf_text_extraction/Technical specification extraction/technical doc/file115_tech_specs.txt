@@ -1,0 +1,73 @@
+--- Page 10 ---
+Tender for Minimally Invasive Cardiac Output Monitor   
+                        Admn/Tender/138-2/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Minimally 
+Invasive 
+Cardiac 
+Output 
+Monitor  
+1. It should be able to give continuous Cardiac Output using any 
+arterial line. 
+2. The Disposable Sensor should be able to give Continuous 
+arterial pressure waveform when connected, on other bedside 
+monitors with IBP modules. 
+3. No calibration should be required for getting CO started. 
+4. It should give Cardiac output update at least every 20 Seconds. 
+With Provision for 5 min Average. 
+5. Should be able to give Stroke Volume Variation and Stroke 
+Volume  
+ 
+6. It should also give Continuous ScvO2 
+7. It should be pole mountable, must have display capacity of at 
+least 4 channels with at least two channels for trend and 4 
+numerical display. 
+ 
+ 
+8. It should have the ability to analyse patient’s response to a 
+specific interventions as fluid challenge, positional challenge, 
+and interventions. All these interventions should be time 
+stamped and stored for retrospective analysis. 
+9. It should be able to give Continuous Systemic Vascular 
+Resistance (on patient with a CVC line and pressure transducer); 
+Stroke volume and Stroke Volume Variation too on continuous 
+basis. 
+10. It must save data for at least 72 hours. 
+11. Must have screen shot and data download facility through any 
+USB stick.   
+12. It should have a touch screen of 8 inches or more. 
+13. It should be able to give Transpulmonary Thermodilution 
+measures, parameters related to blood flow, organ function and 
+fluid volume like Extra Vascular Lung Water Index (EVLWI), 
+Global Ejection Fraction (GEF), Global End Diastolic Volume 
+(GEDV), pulmonary vascular permeability index (PVPI) with 
+some existing/forthcoming sensors. 
+14. Arterial pressure cardiac output Cable compatible with monitor - 
+1 each to be supply with monitor. 
+15. Cables for Cardiac Output by Arterial Pressure and for 
+Volumetric Parameters (1 each) compatible with monitor. 
+16. Demonstration mandatory. 
+17. Operating manual should be supplied. 
+18. Must have USFDA/ CE certificate. 
+19. Disposable should be quoted separately. 
+20. Disposables with each Monitor 
+a) Arterial Sensor for Continuous Cardiac Output – 10 no. 
+b) Central Venous Oximetry Catheter – 5 no. 
+c) Arterial Catheter for Volumetric Parameters – 5 No. 
+02 
+
+

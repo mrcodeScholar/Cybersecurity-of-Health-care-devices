@@ -1,0 +1,99 @@
+--- Page 11 ---
+Tender for USG Machine for Urological Procedure                                                    Admn/Tender/38/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+USG Machine 
+for Urological 
+Procedure 
+A. 
+Should have High Resolution Imaging for Clinical Needs 
+B. 
+Should have a 19” flat panel monitor 
+C. 
+Should have speckle reduction technology for enhancing tissue 
+margins for better anatomical visualization and to improve 
+better organ anatomy from different angles. 
+D. 
+Should have facility to connect at least two electronic 
+Transducers 
+E. 
+Should have Automated Mode Adjustment for high resolution 
+B mode image  
+F. 
+Should have facility to compensate the motion related imaging 
+artifacts  
+G. 
+Should have DICOM Capabilities 
+H. 
+Transducers should have programmable start and stop buttons. 
+I. 
+Control panel should be sealed for easy cleaning and 
+disinfection 
+J. 
+Control panel should be illuminated for easy access 
+K. 
+Should have an internal hard drive to store images. 
+L. 
+Should have height adjustable mechanism with control panel. 
+M. 
+CD /DVD writer and USB Flash memory drive should be the 
+part of the system optionally. 
+N. 
+Should be of latest generation quad beam digital technology. 
+O. 
+Imaging Modes: System should have following modes: 
+a.  B mode 
+b.  M Mode 
+c.  Color Doppler 
+d.  Power Doppler 
+e.  Pulsed Wave Doppler 
+f.  Tissue Harmonic Imaging 
+ 
+The following transducers are to be supplied along with the scanner: 
+ 
+2-6MHz convex abdominal transducer with an Autoclavable 
+biopsy attachment 
+ 
+Transrectal transducer with simultaneous biplane imaging 
+facility to visualize, sagittal as well as transverse planes of 
+prostate gland. The same transducer should have an endfire 
+array for scanning the apical areas of the prostate during nerve 
+sparing lap radical prostatectomies. Transducer should 
+compatible 
+with 
+standard 
+sterilization 
+methods 
+like, 
+immersion, ETO and Sterrad. A biopsy attachment for side fire 
+as well as endfire arrays to be supplied. 
+ 
+A laparoscopic four way deflectable transducer which can be 
+used through normal laparoscopic ports (10-12 mm) with a 
+biopsy facility to be supplied. Probe should be compatible with 
+standard sterilization methods like immersion, ETO and 
+Sterrad. Compatible biopsy attachments should be supplied. 
+ 
+6-12 MHz multi frequency linear transducer with angle 
+independent velocity measurements for vascular, small parts, 
+testes, breast and thyroid scans should be quoted .System 
+should be able optimize doppler parameters automatically. 
+Should be able to supply a transducer compatible with daVinci robot 
+for robotic assisted partial nephrectomies. 
+ 
+Must be US FDA/European CE approved  
+ 
+01 
+
+

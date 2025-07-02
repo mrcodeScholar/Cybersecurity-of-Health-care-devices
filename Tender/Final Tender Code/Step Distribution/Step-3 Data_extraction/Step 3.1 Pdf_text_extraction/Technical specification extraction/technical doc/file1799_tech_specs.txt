@@ -1,0 +1,5479 @@
+--- Page 52 ---
+ 
+Page 52 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Annexure – XI 
+TECHNICAL SPECIFICATION COMPLIANCE SHEET 
+ 
+Feature 
+Specification 
+Compliance  
+(Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 01 : Network Video Recorder (NVR)  
+Maximum IP Video 
+Input 
+64 Channels 
+  
+  
+Bandwidth Limitations 
+Incoming Bandwidth: 320 Mbps and Outgoing Bandwidth: 256 Mbps 
+  
+  
+Video Output 
+2 x HDMI and 2 x VGA 
+  
+  
+Resolution of HDMI 
+1 interface Upto 4K 
+  
+  
+Resolution of VGA 
+Up to 2 MP 
+  
+  
+Audio Output 
+2 Channel, RCA 
+  
+  
+Two-way 
+communication 
+shall support; 1 ch, RCA 
+  
+  
+Decoding format 
+H.265+, H.265, H.264+, H.264 
+  
+  
+Recording resolution 
+Maximum 12 MP resolution supported 
+  
+  
+Synchronous Playback  
+up to 16 Channels 
+  
+  
+IVS 
+Face Detection and Library face Comparison, Human Face Capture, 
+Face Picture search 
+  
+  
+Perimeter Protection 
+up to 4 ch 2 MP video analysis for human and vehicle recognition 
+  
+  
+Remote Connections 
+128 
+  
+  
+Network Protocol 
+TCP/IP, DHCP, IPv4, DNS, DDNS, NTP, RTSP, 
+SMTP, SNMP, NFS, ISCSI, ISUP, UPnP, HTTP, HTTPS 
+  
+  
+OnVIF 
+Shall support Profile S and G 
+  
+  
+Network Interface 
+2 x RJ45, 10/100/1000 Mbps 
+  
+  
+RAID Type 
+Support up to RAID 0, RAID 1, RAID 5, RAID 6, RAID 10 
+  
+  
+Serial Ports 
+RS232, RS485 
+  
+  
+Number of HDD Slots 
+Upto 8 SATA Interfaces 
+  
+  
+HDD Capacity 
+Upto 10 TB Hard Disk for Each SATA 
+  
+  
+eSATA 
+1 x eSATA Interface 
+  
+  
+Alarm I/O 
+16/8 
+  
+  
+USB 
+ 2 x USB2.0 and 1 x USB3.0 
+  
+  
+Power Requirement 
+100 - 240 VAC 
+  
+  
+Operating Condition 
+-10°C to 55°C 
+  
+  
+Humidity 
+upto 90% 
+  
+  
+Certification 
+Shall have CE, FCC, UL, and BIS certifications. Model-wise, series-wise details 
+shall be available on the BIS website. The BIS certificate shall be in the name of 
+the quoted OEM. Any third-party manufacturing or Joint Venture / Subsidiary-
+partnership manufacturing or contractual manufacturing will not be accepted. 
+ 
+  
+  
+
+
+--- Page 53 ---
+ 
+Page 53 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+warranty 
+ 
+5 years 
+ 
+ 
+The MAC address of the cameras must be registered in the name of OEM. If the MAC address does not 
+match, it means that the device is not created by the original manufacturer, it’s only an assembling or a 
+labelling which has been done, and such party shall be immediately rejected. 
+ 
+ 
+OEM shall be a Full member of ONVIF. For verification purposes, all the relevant details shall be available 
+on the ONVIF website. The OEM shall give the declaration about its full membership. MAC address must 
+be registered in the name of OEM. 
+ 
+ 
+The OEM Shall offer ISO 9001:2015, ISO 14001:2015, ISO 27001: 2013, ISO 45000:2018 for their 
+manufacturing process and also shall have CMMI level 5 certification to validate its performance across a 
+range of critical business capabilities, including product development, service excellence, workforce 
+management, data management, supplier management, and cybersecurity. 
+ 
+ 
+OEM submit mandatory Manufacturer Authorization Certificates. OEM or its brand shall not have been 
+blacklisted by any Government Organization in India. 
+ 
+ 
+The CCTV OEM shall have its own online-dedicated CCTV support center available during working hours 
+and a fully equipped repair and maintenance office in India. The CCTV OEM should have a local registered 
+branch office at Bhubaneswar for immediate support.   
+ 
+ 
+Above compliance sheet shall be complied by OEM authorized person in OEM letter head along with 
+datasheets. Warranty declaration in OEM letterhead mentioning the product Model No. At the time of 
+delivery must submit a Warranty and Test certificate mentioning the Serial No. of the respective products 
+in OEM letterhead. 
+ 
+ 
+ 
+ 
+Specification 
+Compliance  
+(Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 02 : Hard disk 10TB of CCTV surveillance 
+Capacity 
+10TB 
+ 
+ 
+Form Factor 
+3.5-Inch 
+ 
+ 
+Connector 
+SATA 
+ 
+ 
+Antarmuka 
+SATA 
+ 
+ 
+Transfer Rate 
+up to 265MB/s 
+ 
+ 
+Disk Speed (RPM) 
+7200 RPM 
+ 
+ 
+Recording 
+Technology 
+CMR 
+ 
+ 
+Cache Size 
+256MB 
+ 
+ 
+Dimensions (L x W x 
+H) 
+147mm x 101.6mm x 26.1mm 
+ 
+ 
+Weight 
+750gms 
+ 
+ 
+Operating 
+Temperature 
+0°C to 65°C 
+ 
+ 
+Non-Operating 
+Temperature 
+-40°C to 70°C 
+ 
+ 
+Certifications 
+BSMI, ICES-003/NMB-003, CE, FCC, KC, Maghreb, RCM, UKCA, VCCI, CB-Scheme, 
+TUV, UL 
+ 
+ 
+Warrantee 
+5 years 
+ 
+ 
+ 
+Warranty declaration in OEM letterhead mentioning the product Model No. 
+ 
+At the time of delivery must submit Warranty and Test certificate mentioning the Serial No. of respective products in OEM 
+letterhead. OEM submit mandatory Manufacturer Authorization Certificates. 
+ 
+Above compliance sheet should be complied by OEM authorized person in OEM letter head. 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance  
+(Yes/No) 
+Remarks 
+(if any) 
+
+
+--- Page 54 ---
+ 
+Page 54 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+BOQ NO – 03 : Dome Camera 
+Image Sensor 
+1/2.7'' Progressive Scan CMOS or Better 
+  
+  
+Min. illumination 
+0.005 Lux @ F1.6, B/W: 0 Lux with IR 
+  
+  
+Preferred recording 
+Resolution 
+5MP (2560 X 1920 ) or better 
+  
+  
+Day & Night 
+IR Cut Filter 
+  
+  
+Shutter speed 
+1/3 s to 1/100,000 s 
+  
+  
+WDR 
+120dB True WDR or better 
+  
+  
+Lens type 
+2.8mm or better 
+  
+  
+IR range 
+40m IR or higher 
+  
+  
+Streaming Type 
+Shall Support three video streams. 
+  
+  
+Video Compression 
+H.265,H.265+, H.264 
+  
+  
+Audio Compression 
+G.711ulaw/G.711alaw/G.722.1/G.726/MP2L2/PCM/AAC 
+  
+  
+Image Enhancement 
+BLC, 3D DNR,120dB WDR, ROI (1 fixed regions for main stream). 
+  
+  
+Image settings 
+Rotate mode, saturation, brightness, contrast, sharpness adjustable by client 
+software or web browser 
+  
+  
+Day/Night Switch 
+Day, Night, Auto, Schedule 
+  
+  
+Network Protocol 
+TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP, UPnP, 
+SMTP, IGMP, 802.1X, QoS, IPv6, Bonjour, IPv4, UDP, SSL/TLS, ONVIF(G,S,T) 
+  
+  
+Simultaneous Live 
+View 
+6 channel 
+  
+  
+User Host 
+32 users. 3 user levels: administrator, operator and user 
+  
+  
+Edge base Recording 
+storage 
+Built-in memory card slot, support microSD card, up to 256 GB 
+  
+  
+Preferable analytics 
+features 
+Motion detection, video tampering alarm, Line crossing detection, intrusion 
+detection. 
+  
+  
+Event Alarm 
+Notify surveillance center, trigger recording, trigger capture, send email. 
+  
+  
+Ethernet Port 
+1 x RJ45 10M/100M Ethernet port 
+  
+  
+Audio interface 
+1x input & 1x output 
+  
+  
+Alarm interface 
+1x input & 1x output 
+  
+  
+General Function 
+Anti-flicker, heartbeat, mirror, password protection, privacy mask, watermark, IP 
+address filter. 
+  
+  
+Power Supply 
+DC12V, PoE (802.3af, Class 3) 
+  
+  
+Operating 
+Conditions 
+ -30° C ~ + 60° C 
+  
+  
+Protection 
+IP67 & IK10 or Better. 
+  
+  
+Certifications 
+Shall have CE, FCC, UL, BIS certifications Model wise, series wise details shall be 
+available on the BIS website. The BIS certificate shall be in the name of the quoted 
+OEM. Any third party manufacturing or Joint Venture / Subsidiary-partnership 
+manufacturing or contractual manufacturing will not be accepted. 
+  
+  
+Warrantee 
+5 years 
+ 
+ 
+The MAC address of the cameras must be registered in the name of OEM. If the MAC address does not 
+match, it means that the device is not created by the original manufacturer, it’s only an assembling or a 
+labelling which has been done, and such party shall be immediately rejected. 
+ 
+ 
+OEM shall be a Full member of ONVIF. For verification purposes, all the relevant details shall be available 
+on the ONVIF website. The OEM shall give the declaration about its full membership. MAC address must 
+be registered in the name of OEM. 
+ 
+ 
+The OEM Shall offer ISO 9001:2015, ISO 14001:2015, ISO 27001: 2013, ISO 45000:2018 for their 
+manufacturing process and also shall have CMMI level 5 certification to validate its performance across a 
+ 
+ 
+
+
+--- Page 55 ---
+ 
+Page 55 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+range of critical business capabilities, including product development, service excellence, workforce 
+management, data management, supplier management, and cybersecurity. 
+OEM submit mandatory Manufacturer Authorization Certificates. OEM or its brand shall not have been 
+blacklisted by any Government Organization in India. 
+ 
+ 
+The CCTV OEM shall have own online-dedicated CCTV support center available during working hours and 
+a fully equipped repair and maintenance office in India. The CCTV OEM shall have local registered branch 
+office at Bhubaneswar for immediate support.   
+ 
+ 
+Above compliance sheet shall be complied by OEM authorized person in OEM letter head along with 
+datasheets. Warranty declaration in OEM letterhead mentioning the product Model No. At the time of 
+delivery must submit Warranty and Test certificate mentioning the Serial No. of respective products in 
+OEM letterhead. 
+ 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance  
+(Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 04 : Bullet Camera  
+Image Sensor 
+1/2.7'' Progressive Scan CMOS or Better 
+  
+  
+Min. illumination 
+0.005 Lux @ F1.6, B/W: 0 Lux with IR 
+  
+  
+Preferred recording 
+Resolution 
+5MP (2560 X 1920 ) or better 
+  
+  
+Day & Night 
+IR Cut Filter 
+  
+  
+Shutter speed 
+1/3 s to 1/100,000 s 
+  
+  
+WDR 
+120dB True WDR or better 
+  
+  
+Lens type 
+Varifocal - motorized lens 2.7mm~13.5mm or better 
+  
+  
+IR range 
+60m IR or higher 
+  
+  
+Streaming Type 
+Shall Support three video streams. 
+  
+  
+Video Compression 
+H.265,H.265+,MJPEG 
+  
+  
+Audio Compression 
+G.711ulaw/G.711alaw/G.722.1/G.726/MP2L2/PCM/AAC 
+  
+  
+Image Enhancement 
+BLC, 3D DNR,120dB WDR,ROI (1 fixed regions for main stream). 
+  
+  
+Image settings 
+Rotate mode, saturation, brightness, contrast, sharpness adjustable by 
+client software or web browser 
+  
+  
+Day/Night Switch 
+Day, Night, Auto, Schedule 
+  
+  
+Network Protocol 
+TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP, 
+UPnP, SMTP, IGMP, 802.1X, QoS, IPv6, Bonjour, IPv4, UDP, SSL/TLS, 
+ONVIF(G,S,T) 
+  
+  
+Simultaneous Live View 
+6 channel 
+  
+  
+User Host 
+32 users. 3 user levels: administrator, operator and user 
+  
+  
+Edge base Recording 
+storage 
+Built-in memory card slot, support microSD card, up to 256 GB 
+  
+  
+Preferable analytics 
+features 
+Motion detection (with human & vehicle target classification), video 
+tampering alarm, Line crossing detection, intrusion detection, region 
+entrance detection, exiting detection, Face capture, scene change 
+detection, object removal detection, Unattended baggage detection 
+  
+  
+Event Alarm 
+Notify surveillance center, trigger recording, trigger capture, send email. 
+  
+  
+Ethernet Port 
+1 x RJ45 10M/100M Ethernet port 
+  
+  
+Audio interface 
+1x input & 1x output 
+  
+  
+Alarm interface 
+2x input & 2x output 
+  
+  
+
+
+--- Page 56 ---
+ 
+Page 56 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+General Function 
+Anti-flicker, heartbeat, mirror, password protection, privacy mask, 
+watermark, IP address filter. 
+  
+  
+Power Supply 
+DC12V, PoE (802.3af, Class 3) 
+  
+  
+Operating Conditions 
+ -30° C ~ + 60° C 
+  
+  
+Ingress Protection 
+IP67, IK10 
+  
+  
+Certifications 
+Shall have CE, FCC, UL, BIS certifications Model wise, series wise details 
+shall be available on the BIS website. The BIS certificate shall be in the 
+name of the quoted OEM. Any third party manufacturing or Joint Venture / 
+Subsidiary-partnership manufacturing or contractual manufacturing will 
+not be accepted. 
+  
+  
+Warrantee 
+5 years 
+ 
+ 
+The MAC address of the cameras must be registered in the name of OEM. If the MAC address does not 
+match, it means that the device is not created by the original manufacturer, it’s only an assembling or a 
+labelling which has been done, and such party shall be immediately rejected. 
+ 
+ 
+OEM shall be a Full member of ONVIF. For verification purposes, all the relevant details shall be 
+available on the ONVIF website. The OEM shall give the declaration about its full membership. MAC 
+address must be registered in the name of OEM. 
+ 
+ 
+The OEM Shall offer ISO 9001:2015, ISO 14001:2015, ISO 27001: 2013, ISO 45000:2018 for their 
+manufacturing process and also shall have CMMI level 5 certification to validate its performance across 
+a range of critical business capabilities, including product development, service excellence, workforce 
+management, data management, supplier management, and cybersecurity. 
+ 
+ 
+OEM submit mandatory Manufacturer Authorization Certificates. OEM or its brand shall not have been 
+blacklisted by any Government Organization in India. 
+ 
+ 
+The CCTV OEM shall have own online-dedicated CCTV support center available during working hours 
+and a fully equipped repair and maintenance office in India. The CCTV OEM shall have local registered 
+branch office at Bhubaneswar for immediate support.   
+ 
+ 
+Above compliance sheet shall be complied by OEM authorized person in OEM letter head along with 
+datasheets. Warranty declaration in OEM letterhead mentioning the product Model No. At the time of 
+delivery must submit Warranty and Test certificate mentioning the Serial No. of respective products in 
+OEM letterhead. 
+ 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance  
+(Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 05 :  PTZ Camera 
+Image Sensor 
+1/1.8" Progressive Scan CMOS or better 
+  
+  
+Min. illumination 
+0.005 Lux @ F1.5, B/W: 0 Lux with IR 
+  
+  
+Max. Image Resolution 
+4MP (2560 x 1440) or better 
+  
+  
+Optical Zoom 
+32X or higher  
+  
+  
+Digital Zoom 
+16X 
+  
+  
+Focus Mode 
+Auto / Manual 
+  
+  
+White Balance 
+Auto / Manual  
+  
+  
+Day & Night 
+IR Cut Filter 
+  
+  
+Privacy Mask 
+Shall support 
+  
+  
+Image Enhancement 
+3D DNR, HLC, BLC, Digital Defog, 120dB WDR, Regional Exposure, 
+Regional Focus. 
+  
+  
+Range 
+Pan:360° endless; Tilt: -15°~90°(Auto Flip) 
+  
+  
+Speed 
+Pan Speed (configurable) : 0.1°~160°/s,  preset speed: 240°/s ; 
+Tilt Speed (configurable) : 0.1°~120°/s,  preset speed: 200°/s; 
+  
+  
+Number of Preset 
+300 
+  
+  
+Patrol 
+must be configurable 
+  
+  
+
+
+--- Page 57 ---
+ 
+Page 57 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Pattern 
+must be configurable 
+  
+  
+Park Action 
+must be configurable 
+  
+  
+Scheduled Task 
+must be configurable 
+  
+  
+Smart analytics features 
+Preferable features - Motion Detection, intrusion detection, line 
+crossing detection, Face Capture/Detection, Object removable 
+detection, Region Entrance Detection, Region Exiting Detection 
+  
+  
+Smart Tracking feature 
+Required 
+  
+  
+IR Distance 
+200m or higher 
+  
+  
+Alarm I/O 
+min. 2 in/1 out 
+  
+  
+Audio Input / output interface 
+1-in / 1-out 
+  
+  
+Ethernet port 
+1 x 10/100M Ethernet interface 
+  
+  
+Streaming type 
+Camera shall offer three video streams (it shall be supported with 
+independent resolution, bit rate and frame rates ) 
+  
+  
+Main Stream 
+25fps (2560 x 1440, 1920×1080, 1280×960, 1280×720);  
+  
+  
+Sub Stream 
+25fps (704×576, 640×480, 352×288); 
+  
+  
+Three Stream 
+25fps (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288); 
+  
+  
+Compression format 
+Camera shall offer video compression of H.265, H.264, MJPEG 
+  
+  
+Edge-base recording 
+Built-in memory card slot, support Micro SD/SDHC/SDXC, up to 256GB; 
+NAS (NFS, SMB/ CIFS), ANR 
+  
+  
+API 
+ONVIF 
+  
+  
+Power supply option 
+ 24 VAC & Hi-PoE  
+  
+  
+Working Temperature 
+-30°C ~ 65°C  
+  
+  
+Humidity 
+90% or less 
+  
+  
+Protection Level 
+IP67,  IK10; TVS 6,000V lightning protection, surge protection  
+  
+  
+Certification 
+Shall have CE, FCC, UL, BIS certifications Model wise, series wise details 
+shall be available on the BIS website. The BIS certificate shall be in the 
+name of the quoted OEM. Any third party manufacturing or Joint 
+Venture / Subsidiary-partnership manufacturing or contractual 
+manufacturing will not be accepted. 
+  
+  
+Accessories 
+Bidder should supply PTZ with proper Mounting bracket & power 
+supply. 
+  
+  
+Warrantee 
+5 years 
+ 
+ 
+The MAC address of the cameras must be registered in the name of OEM. If the MAC address does not 
+match, it means that the device is not created by the original manufacturer, it’s only an assembling or a 
+labelling which has been done, and such party shall be immediately rejected. 
+ 
+ 
+OEM shall be a Full member of ONVIF. For verification purposes, all the relevant details shall be available 
+on the ONVIF website. The OEM shall give the declaration about its full membership. MAC address must 
+be registered in the name of OEM. 
+ 
+ 
+The OEM Shall offer ISO 9001:2015, ISO 14001:2015, ISO 27001: 2013, ISO 45000:2018 for their 
+manufacturing process and also shall have CMMI level 5 certification to validate its performance across 
+a range of critical business capabilities, including product development, service excellence, workforce 
+management, data management, supplier management, and cybersecurity. 
+ 
+ 
+OEM submit mandatory Manufacturer Authorization Certificates. OEM or its brand shall not have been 
+blacklisted by any Government Organization in India. 
+ 
+ 
+The CCTV OEM shall have own online-dedicated CCTV support center available during working hours 
+and a fully equipped repair and maintenance office in India. The CCTV OEM shall have local registered 
+branch office at Bhubaneswar for immediate support.   
+ 
+ 
+Above compliance sheet shall be complied by OEM authorized person in OEM letter head along with 
+datasheets. Warranty declaration in OEM letterhead mentioning the product Model No. At the time of 
+delivery must submit Warranty and Test certificate mentioning the Serial No. of respective products in 
+OEM letterhead. 
+ 
+ 
+
+
+--- Page 58 ---
+ 
+Page 58 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+ BOQ NO – 06 : 1/10G, L3, 24 port (12 Copper + 12 Fiber) Stackable L3 fully Managed switch 
+Physical 
+Interfaces 
+Minimum 12 # 1/10G Base-T Copper Ports and 12 # 1/10G Base-X Fiber SFP+ Ports 
+  
+  
+Must have Ethernet: Out-of-band 1G port, Console: RJ45 RS232, Console: Mini-USB, 
+Storage: USB, 1U rack mount 
+  
+  
+CPU/ Memory 
+Must have or better CPU: 800 MHz, RAM: 1 GB, Flash: 256 MB, Packet buffer 
+memory: 32Mb 
+  
+  
+Performance 
+Stack height: 8 switches, switching fabric: 480 Gbps Line-Rate (non-blocking fabric), 
+Throughput: 357 Mpps 
+  
+  
+16K MAC addresses (48-bit MAC address), Number of VLANs: 4,093 (IEEE 802.1Q) 
+simultaneously 
+  
+  
+Number of multicast groups= 2K IPv4, 2K IPv6, ARP/NDP= 888 
+  
+  
+Number of LAGs (802.3ad): 128 LAGs with up to 8 ports per group, Number of 
+hardware queues for QoS: 8 (Standalone) 
+  
+  
+Minimum number of routes: 512 IPv4 routes, 256 IPv6 routes 
+  
+  
+Jumbo frame: 9K, sFlow=416 samplers, 416 pollers, 8 receivers 
+  
+  
+Mean time between failures (MTBF): 190000 hours or more 
+  
+  
+L2 Services 
+  
+Protocol based VLAN, IP Subnet, ARP, Subnet based VLAN, MAC based VLAN, Voice 
+VLAN, Private Edge VLAN, Private VLAN, Guest VLAN, Double VLAN Tagging (QoQ), 
+GARP with GVRP/GMRP, MVR (Multicast VLAN Registration), MRP, MVRP 
+  
+  
+LAG Hashing, LAG Member Port Flaps Tracking, UDLD support, Distributed Link 
+Aggregation, Storm Control, Link Dependency, STP, PVSTP, PVRSTP, STP Loop Guard, 
+STP Root Guard, BPDU Guard, IGMP v2/v3 Snooping support, MLDv1/2 Snooping 
+Support 
+  
+  
+L3 Services 
+  
+  
+IGMP Proxy, MLD Proxy, ASM, SSM, Multicast streams routing between 
+subnets/VLANs, Multicast Static Routes (IPv4, IPv6), PIM-DM, PIM-SM, PIM multi-hop 
+RP support, IPMC replication (hardware support) 
+  
+  
+DHCP Client and Server, DHCP Snooping, DHCP/ BootP Relay, Static Routing, ECMP 
+Static Routing, Port based Routing, VLAN Routing 
+  
+  
+RIP v1 and v2, OSPF v2 and v3, OSPF Flood Blocking, Route Redistribution, VRRP, VRRP 
+Route/Interface Tracking, Loopback Interfaces, Tunnel interfaces, Router Discovery, 
+Proxy ARP, Multinetting, DNS, IP Source Guard 
+  
+  
+QoS 
+IEEE 802.1p CoS, DiffServ QoS, WRED, Single Rate Policing, Strict Priority queue 
+technology, Auto-VoIP, iSCSI Flow Acceleration, IP Precedence, Interface Traffic 
+Shaping, PHB Support 
+  
+  
+Security 
+CPU Protection, DoS attack protection, ICMP throttling, Management ACL, Dynamic 
+ACL, Port Security, Dynamic ARP Inspection, MAC Filtering, Port MAC Locking 
+  
+  
+Management 
+802.1ab LLDP and LLDP-MED, SNMP v1/v2/v3, RMON 1/2/3/9, Command Line 
+Interface (CLI), Web-based graphical user interface (GUI), Admin access control via 
+Radius and TACACS+, Telnet, Malicious Code Detection, SNTP, SSH v1/v2, Syslog, 
+Persistent log supported 
+  
+  
+Network Traffic 
+Access Control Lists (ACLs) L2 / L3 / L4, Time-based ACLs, ACL over VLANs, IPv6 RA 
+Guard Stateless Mode, Network Authentication Successive Tiering, 802.1x MAC 
+Address Authentication Bypass (MAB) 
+  
+  
+LEDs 
+Per port: Speed, link, activity 
+  
+  
+  
+Power, Fan, Stack Master, Stack ID 
+  
+  
+Environmental 
+Operating Temperature: 32° to 122°F (0° to 50°C) 
+  
+  
+  
+Operating Humidity: 90% maximum relative humidity, non-condensing 
+  
+  
+Certifications 
+CE mark, FCC Part 15 Class A, VCCI Class A, EN 50082-1 
+  
+  
+
+
+--- Page 59 ---
+ 
+Page 59 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+  
+CSA certified (CSA 22.2 #950), UL listed (UL 1950)/cUL IEC 950/EN 60950 
+  
+  
+Warranty 
+Lifetime Hardware Replacement Warranty, Lifetime free latest firmware support, 3 
+Years On Call Technical Support must be included, Replacement with New Product 
+Only No refurbished Products. 
+  
+  
+Above compliance sheet should be complied by OEM authorized person in OEM letter head. OEM 
+submit mandatory Manufacturer Authorization Certificates 
+ 
+  
+Warranty declaration in OEM letterhead mentioning the product Model No 
+ 
+  
+Bid specific Malicious certificate 
+ 
+  
+Product’s features must be mentioned in the OEM Datasheet, Datasheet must be available in OEM 
+global website 
+ 
+  
+All active items such as Switches, DAC, Modules are must be from same/single OEM for the best 
+compatibility 
+ 
+  
+Valid ISO certificate for OEM 
+ 
+  
+OEM must have research and development office in India 
+ 
+  
+At the time of delivery must submit Warranty and Test certificate mentioning the Serial No. of 
+respective products in OEM letterhead 
+ 
+  
+Product must be "Non made in China" as per land border clause by the Indian Govt. 
+ 
+  
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 07 : 10G, L2+/L3, 16 ports SFP+ fully Managed switch (First 12 ports support 1G)  
+Physical 
+Interfaces 
+  
+Minimum 16 # 10G Base-X Fiber SFP+ Ports 
+  
+  
+Must have Ethernet: Out-of-band 1G port, Console: RJ45 RS232, Console: USB-C, 
+Storage: USB-A, 1U Rackmount 
+  
+  
+CPU/ Memory 
+Must have or better CPU: ARM A9 1.25Ghz 32-Bit, 2GB RAM, Flash: 256 MB, Packet 
+buffer memory: 16 MB 
+  
+  
+Performance 
+  
+  
+Switching fabric: 320 Gbps Line-Rate (non blocking fabric), Throughput : Min. 238.08 
+Mpps, IP Multicast Routing Entries : 512 IPv4 & 128 IPv6, 16,000 MAC addresses (48-
+bit MAC address), Number of VLANs: 4,093 (IEEE 802.1Q) simultaneously, Jumbo 
+Frames Up to 12K 
+  
+  
+Multicast IGMP Group membership : 2K IPv4 & 2K IPv6, DHCP Server: IPv4: 256 pools 
+IPv6: 16 pools, 4K ARP/NDP, sFlow: 16 samplers, 16 pollers, 8 receivers, Software-
+controlled fan adjustments 
+  
+  
+static, RIP and PIM-SM, DM and SSM multicast routing, DHCP Server and  Pv2 
+Transparent Clock, Auto-Trunk and Auto-LAG, Mean Time Between Failures (MTBF): 
+8,40000 hours or more,  
+  
+  
+L3 & L2 Services 
+  
+  
+Industry standard SNMP, RMON, MIB, AAA, sFlow, RSPAN and PTPv2, Voice VLAN 
+with SIP, H323 and SCCP protocols detection, Number of IP interfaces 128, Multicast 
+VLAN Registration Protocol (MVRP) 
+  
+  
+RIPv1/RIPv2, Policy Based Routing (PBR), 802.1x MAC Address Authentication Bypass 
+(MAB), IEEE 1588 PTPv2, IEEE 802.1BA-2011 Audio Video Bridging (AVB), IGMPv3 
+MLDv2 Snooping, Proxy ASM & SSM 
+  
+  
+Control Packet Flooding, 802.1AS, 802.1Qav, 802.1Qat MSRP, 802.1ak MMRP, 
+802.1ak MVRP, Per VLAN Rapid STP (PVRSTP), BPDU/STRG Root Guard, VLAN routing, 
+DHCP Relay, Stateful DHCPv6 Server 
+  
+  
+QoS 
+IEEE 802.1p CoS, DiffServ QoS, WRED, Single Rate Policing, Strict Priority queue 
+technology, Auto-VoIP, MAC ACL Support, IP Precedence, Interface Traffic Shaping, 
+PHB Support 
+  
+  
+Security 
+CPU Protection, DoS attack protection, ICMP throttling, Management ACL, Dynamic 
+ACL, Port Security, ACL over VLAN, GVRP, Dynamic ARP Inspection, MAC Filtering, Port 
+  
+  
+
+
+--- Page 60 ---
+ 
+Page 60 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+MAC Locking 
+Management 
+802.1ab LLDP and LLDP-MED, SNMP v1/v2/v3, RMON 1/2/3/9, Command Line 
+Interface (CLI), Web-based graphical user interface (GUI), Admin access control via 
+Radius and TACACS+, Telnet, Malicious Code Detection, SNTP, SSH v1/v2, Syslog, 
+Persistent log supported 
+  
+  
+LEDs 
+  
+Per port: Speed, link, activity 
+  
+  
+Per device: Power, Fan 
+  
+  
+Environmental 
+  
+Operating Temperature: 32° to 122°F (0° to 50°C) 
+  
+  
+Operating Humidity: 90% maximum relative humidity, non-condensing 
+  
+  
+Certifications 
+  
+CE mark, FCC Part 15 Class A, VCCI Class A,  
+  
+  
+UL listed (UL 1950)/cUL IEC 950/EN 60950, certificate IEC 62368-1 
+  
+  
+Warranty 
+Lifetime Hardware Replacement Warranty, Lifetime free latest firmware support, 3 
+Years On Call Technical Support must be included, Replacement with New Product 
+Only No refurbished Products. 
+  
+  
+ 
+Warranty declaration in OEM letterhead mentioning the product Model No. OEM submit 
+mandatory Manufacturer Authorization Certificates 
+  
+  
+ 
+Bid specific Malicious certificate, 
+  
+  
+ 
+Compliance in OEM letterhead, 
+  
+  
+ 
+Product’s features must be mentioned in the OEM Datasheet, Datasheet must be available in 
+OEM global website, 
+  
+  
+ 
+All active items such as Switches, DAC, Modules are must be from same/single OEM for the best 
+compatibility, 
+  
+  
+ 
+Valid ISO certificate for OEM 
+  
+  
+ 
+OEM must have research and development office in India 
+  
+  
+ 
+At the time of delivery must submit Warranty and Test certificate mentioning the Serial No. of 
+respective products in OEM letterhead 
+  
+  
+ 
+Product must be "Non made in China" as per land border clause by the Indian Govt. 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 08 : 10/100/1000 8 port (all) PoE+ (240W) with 2 additional ports with 2 10G SFP+ Ports L2+ fully managed switch 
+Physical 
+Interfaces 
+Minimum 8 # 1G Base-T Copper PoE+ Ports, 02 # 1G Base-T Copper Ports, 2 # 10G 
+Base-X Fiber SFP+ Ports 
+  
+  
+Must have Ethernet: Out-of-band 1G port, Console: RJ45 RS232, Console: USB-C, 
+Storage: USB-A, 1U Rackmount 
+  
+  
+CPU/ Memory 
+Must have or better CPU: ARM A9 1.25Ghz 32-Bit, 2GB RAM, Flash: 256 MB, Packet 
+buffer memory: 16 MB 
+  
+  
+Performance 
+Switching fabric: 60 Gbps Line-Rate (non blocking fabric), Throughput : Min. 44.64 
+Mpps, IP Multicast Routing Entries : 512 IPv4 & 128 IPv6, 16,000 MAC addresses (48-
+bit MAC address), Number of VLANs: 4,093 (IEEE 802.1Q) simultaneously, Jumbo 
+Frames Up to 12K, 240W PoE Power Budget 
+  
+  
+Multicast IGMP Group membership : 2K IPv4 & 2K IPv6, DHCP Server: IPv4: 256 
+pools IPv6: 16 pools, 4K ARP/NDP, sFlow: 16 samplers, 16 pollers, 8 receivers, 
+Software-controlled fan adjustments 
+  
+  
+static, RIP and PIM-SM, DM and SSM multicast routing, DHCP Server and  Pv2 
+Transparent Clock, Auto-Trunk and Auto-LAG, Mean Time Between Failures (MTBF): 
+575000 hours or more 
+  
+  
+
+
+--- Page 61 ---
+ 
+Page 61 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+L3 & L2 Services 
+Industry standard SNMP, RMON, MIB, AAA, sFlow, RSPAN and PTPv2, Voice VLAN 
+with SIP, H323 and SCCP protocols detection, Number of IP interfaces 128, Multicast 
+VLAN Registration Protocol (MVRP) 
+  
+  
+RIPv1/RIPv2, Policy Based Routing (PBR), 802.1x MAC Address Authentication 
+Bypass (MAB), IEEE 1588 PTPv2, IEEE 802.1BA-2011 Audio Video Bridging (AVB), 
+IGMPv3 MLDv2 Snooping, Proxy ASM & SSM 
+  
+  
+Control Packet Flooding, 802.1AS, 802.1Qav, 802.1Qat MSRP, 802.1ak MMRP, 
+802.1ak MVRP, Per VLAN Rapid STP (PVRSTP), BPDU/STRG Root Guard, VLAN 
+routing, DHCP Relay, Stateful DHCPv6 Server 
+  
+  
+QoS 
+IEEE 802.1p CoS, DiffServ QoS, WRED, Single Rate Policing, Strict Priority queue 
+technology, Auto-VoIP, MAC ACL Support, IP Precedence, Interface Traffic Shaping, 
+PHB Support 
+  
+  
+Security 
+CPU Protection, DoS attack protection, ICMP throttling, Management ACL, Dynamic 
+ACL, Port Security, ACL over VLAN, GVRP, Dynamic ARP Inspection, MAC Filtering, 
+Port MAC Locking 
+  
+  
+Management 
+802.1ab LLDP and LLDP-MED, SNMP v1/v2/v3, RMON 1/2/3/9, Command Line 
+Interface (CLI), Web-based graphical user interface (GUI), Admin access control via 
+Radius and TACACS+, Telnet, Malicious Code Detection, SNTP, SSH v1/v2, Syslog, 
+Persistent log supported 
+  
+  
+LEDs 
+Per port: Speed, link, activity, PoE 
+  
+  
+  
+Per device: Power, Fan 
+  
+  
+Environmental 
+Operating Temperature: 32° to 113°F (0° to 45°C) 
+  
+  
+  
+Operating Humidity: 90% maximum relative humidity, non-condensing 
+  
+  
+Certifications 
+CE mark, FCC Part 15 Class A, VCCI Class A,  
+  
+  
+  
+UL listed (UL 1950)/cUL IEC 950/EN 60950, certificate IEC 62368-1 
+  
+  
+Warranty and 
+Support 
+Lifetime Hardware Replacement Warranty, Lifetime free latest firmware support, 
+Replacement with New Product Only No Refurbished Products. 
+  
+  
+ 
+Warranty declaration in OEM letterhead mentioning the product Model No., OEM submit 
+mandatory Manufacturer Authorization Certificates 
+  
+  
+ 
+Bid specific Malicious certificate, 
+  
+  
+ 
+Compliance in OEM letterhead, 
+  
+  
+ 
+Product’s features must be mentioned in the OEM Datasheet, Datasheet must be available in 
+OEM global website, 
+  
+  
+ 
+All active items such as Switches, DAC, Modules are must be from same/single OEM for the best 
+compatibility, 
+  
+  
+ 
+Valid ISO certificate for OEM, 
+  
+  
+ 
+OEM must have research and development office in India, 
+  
+  
+ 
+At the time of delivery must submit Warranty and Test certificate mentioning the Serial No. of 
+respective products in OEM letterhead 
+  
+  
+ 
+Product must be "Non made in China" as per land border clause by the Indian Govt. 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 09 : 10/100/1000, L2+/L3, 24 PoE+(480W) and 2 additional ports with 4 Dedicated SFP+ 1G/10G ports switch 
+Physical 
+Interfaces 
+Minimum 24 # 1G Base-T Copper PoE+ Ports, 02 # 1G Base-T Copper Ports, 4 # 10G 
+Base-X Fiber SFP+ Ports 
+  
+  
+  
+Must have Ethernet: Out-of-band 1G port, Console: RJ45 RS232, Console: USB-C, 
+Storage: USB-A, 1U Rackmount 
+  
+  
+CPU/ Memory 
+Must have or beter CPU: Quad-Core Cortex-A57 ARMv8 1.8Ghz 64-bit, 2GB RAM, 
+Flash: 256 MB, Packet buffer memory: 16 MB 
+  
+  
+
+
+--- Page 62 ---
+ 
+Page 62 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Performance 
+Switching fabric: 132 Gbps Line-Rate (non blocking fabric), Throughput : Min. 98.21 
+Mpps, IP Multicast Routing Entries : 512 IPv4 & 128 IPv6, 16,000 MAC addresses (48-
+bit MAC address), Number of VLANs: 4,093 (IEEE 802.1Q) simultaneously, Jumbo 
+Frames Up to 12K, 480W PoE Power Budget or higher 
+  
+  
+  
+Multicast IGMP Group membership : 2K IPv4 & 2K IPv6, DHCP Server: IPv4: 256 
+pools IPv6: 16 pools, 4K ARP/NDP, sFlow: 16 samplers, 16 pollers, 8 receivers, 
+Software-controlled fan adjustments 
+  
+  
+  
+static, RIP and PIM-SM, DM and SSM multicast routing, DHCP Server and  Pv2 
+Transparent Clock, Auto-Trunk and Auto-LAG, Mean Time Between Failures (MTBF): 
+500000 hours or more 
+  
+  
+L3 & L2 Services 
+Industry standard SNMP, RMON, MIB, AAA, sFlow, RSPAN and PTPv2, Voice VLAN 
+with SIP, H323 and SCCP protocols detection, Number of IP interfaces 128, Multicast 
+VLAN Registration Protocol (MVRP) 
+  
+  
+  
+RIPv1/RIPv2, Policy Based Routing (PBR), 802.1x MAC Address Authentication 
+Bypass (MAB), IEEE 1588 PTPv2, IEEE 802.1BA-2011 Audio Video Bridging (AVB), 
+IGMPv3 MLDv2 Snooping, Proxy ASM & SSM 
+  
+  
+  
+Control Packet Flooding, 802.1AS, 802.1Qav, 802.1Qat MSRP, 802.1ak MMRP, 
+802.1ak MVRP, Per VLAN Rapid STP (PVRSTP), BPDU/STRG Root Guard, VLAN 
+routing, DHCP Relay, Stateful DHCPv6 Server 
+  
+  
+QoS 
+IEEE 802.1p CoS, DiffServ QoS, WRED, Single Rate Policing, Strict Priority queue 
+technology, Auto-VoIP, MAC ACL Support, IP Precedence, Interface Traffic Shaping, 
+PHB Support 
+  
+  
+Security 
+CPU Protection, DoS attack protection, ICMP throttling, Management ACL, Dynamic 
+ACL, Port Security, ACL over VLAN, GVRP, Dynamic ARP Inspection, MAC Filtering, 
+Port MAC Locking 
+  
+  
+Management 
+802.1ab LLDP and LLDP-MED, SNMP v1/v2/v3, RMON 1/2/3/9, Command Line 
+Interface (CLI), Web-based graphical user interface (GUI), Admin access control via 
+Radius and TACACS+, Telnet, Malicious Code Detection, SNTP, SSH v1/v2, Syslog, 
+Persistent log supported 
+  
+  
+LEDs 
+Per port: Speed, link, activity, PoE 
+  
+  
+  
+Per device: Power, Fan 
+  
+  
+Environmental 
+Operating Temperature: 32° to 113°F (0° to 45°C) 
+  
+  
+  
+Operating Humidity: 90% maximum relative humidity, non-condensing 
+  
+  
+Certifications 
+CE mark, FCC Part 15 Class A, VCCI Class A,  
+  
+  
+  
+UL listed (UL 1950)/cUL IEC 950/EN 60950, certificate IEC 62368-1 
+  
+  
+Warranty and 
+Support 
+Lifetime Hardware Replacement Warranty, Lifetime free latest firmware support, 
+Replacement with New Product Only No Refurbished Products. 
+  
+  
+ 
+Warranty declaration in OEM letterhead mentioning the product Model No. OEM submit 
+mandatory Manufacturer Authorization Certificates. 
+  
+  
+ 
+Bid specific Malicious certificate, 
+  
+  
+ 
+Compliance in OEM letterhead, 
+  
+  
+ 
+Product’s features must be mentioned in the OEM Datasheet, Datasheet must be available in 
+OEM global website, 
+  
+  
+ 
+All active items such as Switches, DAC, Modules are must be from same/single OEM for the best 
+compatibility, 
+  
+  
+ 
+Valid ISO certificate for OEM, 
+  
+  
+ 
+OEM must be present in India for at least 15 years or more, 
+  
+  
+ 
+At the time of delivery must submit Warranty and Test certificate mentioning the Serial No. of 
+respective products in OEM letterhead 
+  
+  
+ 
+Product must be "Non made in China" as per land border clause by the Indian Govt. 
+  
+  
+ 
+
+
+--- Page 63 ---
+ 
+Page 63 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 10 : 3M 10G cable SFP+ to SFP+ DAC  
+10 Gigabit DAC 
+3M 10G cable SFP+ to SFP+ DAC 
+  
+  
+Make shall be same as Switches for the best compatibility 
+  
+  
+Warranty and 
+Support 
+5 Years Hardware replacement warranty 
+  
+  
+Replacement with New Product Only No Refurbished Products. 
+  
+  
+Warranty declaration in OEM letterhead mentioning the product Model No. OEM submit mandatory 
+Manufacturer Authorization Certificates 
+  
+  
+Bid specific Malicious certificate. 
+  
+  
+Compliance in OEM letterhead. 
+  
+  
+Product’s features must be mentioned in the OEM Datasheet, Datasheet must be available in OEM global 
+website. 
+  
+  
+All active items such as Switches, DAC, Modules are must be from same/single OEM for the best 
+compatibility. 
+  
+  
+Valid ISO certificate for OEM. 
+  
+  
+OEM must have research and development office in India. 
+  
+  
+At the time of delivery must submit Warranty and Test certificate mentioning the Serial No. of respective 
+products in OEM letterhead 
+  
+  
+Product must be "Non made in China" as per land border clause by the Indian Govt. 
+  
+  
+ 
+ 
+ 
+  
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 11 : 10G Single Mode SFP+ Module  
+SFP+ Module 
+10GBase-LR Fiber SFP+, LC duplex connector, 1310nm Wavelength 
+  
+  
+  
+Data Link up to 10km for 9/125 um SMF, Single Mode Fiber, ROHS Compliant 
+  
+  
+  
+Compliant with SFP+ Transceiver MSA specification 
+  
+  
+  
+Compliant with Specifications for IEEE 802.3ae 10-Gigabit Ethernet Over Fiber 
+  
+  
+  
+Compliant with Industry Standard RFT Electrical Connector and Cage 
+  
+  
+  
+Make should be same as Switches for the best compatibility 
+  
+  
+  
+Operating Temperature 32 -158º F (0 - 70ºC) 
+  
+  
+  
+Power Consumption <1.5w, UL 1950 CSA 22.2 No. 950 
+  
+  
+Warranty and 
+Support 
+5 Years Hardware replacement warranty 
+  
+  
+  
+Replacement with New Product Only No Refurbished Products. 
+  
+  
+ 
+Warranty declaration in OEM letterhead mentioning the product Model No. OEM submit 
+mandatory Manufacturer Authorization Certificates 
+  
+  
+ 
+Bid specific Malicious certificate, 
+  
+  
+ 
+Compliance in OEM letterhead, 
+  
+  
+ 
+Product’s features must be mentioned in the OEM Datasheet, Datasheet must be available in 
+OEM global website, 
+  
+  
+ 
+All active items such as Switches, DAC, Modules are must be from same/single OEM for the best 
+compatibility, 
+  
+  
+ 
+Valid ISO certificate for OEM, 
+  
+  
+ 
+OEM must have research and development office in India, 
+  
+  
+ 
+At the time of delivery must submit Warranty and Test certificate mentioning the Serial No. of 
+respective products in OEM letterhead 
+  
+  
+ 
+Product must be "Non made in China" as per land border clause by the Indian Govt. 
+  
+  
+
+
+--- Page 64 ---
+ 
+Page 64 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 12 : 6 Core SM armored FO cable   
+The fiber shall be optimized for operation at 1310 nm and at 1550 nm. 
+  
+  
+shall fulfill the requirements of ISO.IEC 11801 - 2nd Edition, type OS2, ITU-T REC G 652D spec IEC 60794-
+1-2 F5 
+  
+  
+Fiber Count : 6 
+  
+  
+Loose tube count :1 
+  
+  
+Fiber count per tube :6 
+  
+  
+Filler count :4 
+  
+  
+Filler Material : PP 
+  
+  
+Max. Attenuation: At 1310 nm <= 0.36 dB/km, At 1550 nm <=0.22 dB/km 
+  
+  
+Fiber/Tube Identification : Single Tube 
+  
+  
+Fiber protection (Tubes) : Polybutylene Terephthalate (PBT) 
+  
+  
+Armoring : CST 
+  
+  
+Thickness: 1.6mm 
+  
+  
+Outer Sheath :UV Stabilized Polyethylene (PE) 
+  
+  
+Central Strength Member: Steel wire coated with PE 
+  
+  
+Water Blocking : Thixotropic Gel (Tube); 
+  
+  
+Petroleum Jelly (Interstices) 
+  
+  
+Cable Diameter (D) : 9.0 ± 0.5 mm 
+  
+  
+Mass (Nominal) : 91 kg/km 
+  
+  
+Min. Bending Radius (during Installation) : 20 D;D-Outer Diameter 
+  
+  
+Max. Tensile Strength-Short Term : 1500N 
+  
+  
+Max. Crush Resistance-Short Term : 2200N/100 mm 
+  
+  
+Operating Temperature range : -40°C to +70°C 
+  
+  
+All the cable and accessories are from the same OEM 
+  
+  
+OEM shall have RCDD certified manpower in India for design support and validation. Certificate is 
+Mandatory 
+  
+  
+OEM shall  have TIA Steering committee member and must be a member in the BICSI organization. 
+  
+  
+OEM shall provide declaration on conformity of all the passive components to the following standards: a) 
+TIA/EIA 568-C.2 ; b) TIA/EIA 568-C.3 ; c) ISO/IEC 11801 
+ 
+ 
+OEM shall have valid ISO 9001 and ISO 14001 certificate on Design, development and manufacture of 
+Software and Hardware solutions for communication networks. 
+ 
+ 
+All the products must have RoHS Compliance 
+ 
+ 
+ 
+All passive  items such as Fiber cable,CAT6A cable, CAT6A patch cord, fiber patch cord, Jack 
+panel , LIU are must be from same/single OEM for the best compatibility and to maintain the 25 
+year performance warranty. 
+ 
+Warranty declaration in OEM letterhead mentioning the product Model No. 
+ 
+Compliance in OEM letterhead 
+ 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 13 : UTP cable CAT6 A  
+4 Pair Cable with integral cross -member pair separator for uniform characteristic impedance.  
+  
+  
+Category 6A Unshielded Twisted 4 Pair 100 Ω cable shall be compliant with ANSI/TIA/EIA-568-C.2; 
+ISO/IEC 11801 Ed. 2.0; 10BASE-T, IEEE 802.3 af (PoE), 100BASE-T, IEEE 802.3at (PoE+) & 1000BASE-T 
+  
+  
+
+
+--- Page 65 ---
+ 
+Page 65 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Category 6A UTP cables shall extend between the work area location and its associated 
+telecommunications closet and consist of 4 pair. ISO/IEC 60332-1-2; IEC 60754-1 & 2; IEC 61034-2 
+  
+  
+Conductor: Solid Copper 
+  
+  
+Conductor Diameter: 0.56mm (23 AWG) 
+  
+  
+Insulator HD Polyethylene solid 
+  
+  
+Jacket: LSZH RoHS complied 
+  
+  
+Outer Diameter: 8.0 ± 0.4mm 
+  
+  
+Max Temperature: -20°C to +75°C  
+  
+  
+Mechanical Test 
+  
+  
+ Should have Pulling force of 100N. 
+  
+  
+Bend Radius:   Installation: <4 X Cable Diameter, 
+  
+  
+Electrical Test 
+  
+  
+D.C. resistance conductor :                     <7.4Ω /100m 
+  
+  
+Resistance Unbalance    2% Max 
+  
+  
+Mutual Capacitance :             < 5.6nF/100m 
+  
+  
+Capacitance Unbalance :   160pF/100m. 
+  
+  
+Propagation Velocity :  64% 
+  
+  
+ETL 4 port channel Test report should be submitted with 800 Mhz  
+  
+  
+Should be ETL Certified 
+  
+  
+OEM shall have RCDD certified manpower in India for design support and validation. Certificate is 
+Mandatory 
+  
+  
+OEM shall  have TIA Steering committee member and must be a member in the BICSI organization. 
+  
+  
+OEM shall provide declaration on conformity of all the passive components to the following standards: a) 
+TIA/EIA 568-C.2 ; b) TIA/EIA 568-C.3 ; c) ISO/IEC 11801 
+ 
+ 
+OEM shall have valid ISO 9001 and ISO 14001 certificate on Design, development and manufacture of 
+Software and Hardware solutions for communication networks. 
+ 
+ 
+All the products must have RoHS Compliance 
+ 
+ 
+• All passive  items such as Fiber cable,CAT6A cable, CAT6A patch cord, fiber patch cord, Jack panel , LIU 
+are must be from same/single OEM for the best compatibility and to maintain the 25 year performance 
+warranty. 
+• Warranty declaration in OEM letterhead mentioning the product Model No. 
+• Compliance in OEM letterhead 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 14  : UTP Patch cord CAT6 A (3Mtr)  
+Patch Cord Length: 3 mtr 
+  
+  
+Standardization: Compliant with Cat.6A, Class EA requirements: ISO/IEC 11801 2.1 Edition Compliant with 
+Cat.6A component 
+  
+  
+Cable shield:  STP/UTP 
+  
+  
+Number of conductors: 8 
+  
+  
+Stranding: 7 x 0.16 mm (26 AWG) 
+  
+  
+Cable jacket characteristics: cable, metal-free 
+  
+  
+Cable overall diameter: 6.0±0.2 mm 
+  
+  
+Tube / Wire type: stranded conductor 
+  
+  
+Insulation: foam skin, polyolefin, 0.98±0.02mm OD. 
+  
+  
+Plug: Feature cable retention, with enhanced pull strength. 
+  
+  
+Cat 6A patch cord plug to have round cable holder and strain relief boot to avoid bending. 
+  
+  
+plug should have high repeatability cross talk performance 
+  
+  
+Plug design should be patented with unique feature 
+  
+  
+
+
+--- Page 66 ---
+ 
+Page 66 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Shall be ETL certified 
+  
+  
+OEM shall have RCDD certified manpower in India for design support and validation. Certificate is 
+Mandatory 
+  
+  
+OEM shall  have TIA Steering committee member and must be a member in the BICSI organization. 
+  
+  
+OEM shall provide declaration on conformity of all the passive components to the following standards: a) 
+TIA/EIA 568-C.2 ; b) TIA/EIA 568-C.3 ; c) ISO/IEC 11801 
+ 
+ 
+OEM shall have valid ISO 9001 and ISO 14001 certificate on Design, development and manufacture of 
+Software and Hardware solutions for communication networks. 
+ 
+ 
+All the products must have RoHS Compliance 
+ 
+ 
+• All passive items such as Fiber cable,CAT6A cable, CAT6A patch cord, fiber patch cord, Jack panel , LIU 
+are must be from same/single OEM for the best compatibility and to maintain the 25 year performance 
+warranty. 
+• Warranty declaration in OEM letterhead mentioning the product Model No. 
+• Compliance in OEM letterhead 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 15 : UTP Patch cord CAT6 A (1Mtr)  
+Patch Cord Length : 1 mtr 
+  
+  
+Standardization: Compliant with Cat.6A, Class EA requirements: ISO/IEC 11801 2.1 Edition Compliant with 
+Cat.6A component 
+  
+  
+Cable shield:  STP/UTP 
+  
+  
+Number of conductors: 8 
+  
+  
+Stranding: 7 x 0.16 mm (26 AWG) 
+  
+  
+Cable jacket characteristics: cable, metal-free 
+  
+  
+Cable overall diameter: 6.0±0.2 mm 
+  
+  
+Tube / Wire type: stranded conductor 
+  
+  
+Insulation: foam skin, polyolefin, 0.98±0.02mm OD. 
+  
+  
+Plug: Feature cable retention, with enhanced pull strength. 
+  
+  
+Cat 6A patch cord plug to have round cable holder and strain relief boot to avoid bending. 
+  
+  
+plug should have high repeatability cross talk performance 
+  
+  
+Plug design should be patented with unique feature 
+  
+  
+Should be ETL certified 
+  
+  
+OEM shall have RCDD certified manpower in India for design support and validation. Certificate is 
+Mandatory 
+  
+  
+OEM shall  have TIA Steering committee member and must be a member in the BICSI organization. 
+  
+  
+OEM shall provide declaration on conformity of all the passive components to the following standards: a) 
+TIA/EIA 568-C.2 ; b) TIA/EIA 568-C.3 ; c) ISO/IEC 11801 
+ 
+ 
+OEM shall have valid ISO 9001 and ISO 14001 certificate on Design, development and manufacture of 
+Software and Hardware solutions for communication networks. 
+ 
+ 
+All the products must have RoHS Compliance 
+ 
+ 
+• All passive  items such as Fiber cable,CAT6A cable, CAT6A patch cord, fiber patch cord, Jack panel , LIU 
+are must be from same/single OEM for the best compatibility and to maintain the 25 year performance 
+warranty. 
+• Warranty declaration in OEM letterhead mentioning the product Model No. 
+• Compliance in OEM letterhead 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 16 : SM LC-LC Duplex FO patch cord  
+Cable : LC-LC 9/125μm OS2 Single mode Duplex Patch Cord Length : 3mtrs 
+  
+  
+Connectors : The optical fiber patch leads shall comprise of Single mode 9/125μm fiber with 2XLC type 
+  
+  
+
+
+--- Page 67 ---
+ 
+Page 67 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+fiber connectors terminated at each end of fiber patch cord. 
+Insertion loss should be better than 0.35 dB 
+  
+  
+Jacket Material : LSZH complying to IEC 61034-1 & 2,IEC-60332-1, IEC-60754-1 & 2 
+  
+  
+Attenuation: 1310/1550 : 0.36/0.22 dB/KM 
+  
+  
+Connector Loss : 0.30dB(max) 
+  
+  
+Operating Temperature : -40°C to +75°C 
+  
+  
+OEM shall have RCDD certified manpower in India for design support and validation. Certificate is 
+Mandatory 
+ 
+ 
+OEM shall  have TIA Steering committee member and must be a member in the BICSI organization. 
+ 
+ 
+OEM shall provide declaration on conformity of all the passive components to the following standards: a) 
+TIA/EIA 568-C.2 ; b) TIA/EIA 568-C.3 ; c) ISO/IEC 11801 
+ 
+ 
+OEM shall have valid ISO 9001 and ISO 14001 certificate on Design, development and manufacture of 
+Software and Hardware solutions for communication networks. 
+ 
+ 
+All the products must have RoHS Compliance 
+ 
+ 
+• All passive  items such as Fiber cable,CAT6A cable, CAT6A patch cord, fiber patch cord, Jack panel , LIU 
+are must be from same/single OEM for the best compatibility and to maintain the 25 year performance 
+warranty. 
+• Warranty declaration in OEM letterhead mentioning the product Model No. 
+• Compliance in OEM letterhead 
+  
+  
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+ BOQ NO – 17 : 24 Port  LIU Loaded   
+Fiber optic patch panel : Fiber optic patch panel FMS Termination Drawer should have sufficient slots to 
+accommodate 3 of 12/16 Port LC Adaptor Plates. The Fiber Tray should support interconnect network 
+topologies Intelligent Fiber Trays for future readiness. Intelligent  Panel should support  Intelligent Patch 
+Cords for  intelligent communication with physical patching. 
+  
+  
+Should have Slide type drawer structure  
+  
+  
+Height: 1 U, 1.75 inches (12 & 24 Ports) 
+  
+  
+Material: Cold Rolled Steel in surface coated by electrostatic epoxy powder 
+  
+  
+Slots: FMS should have sufficient slots to accommodate adaptor plates 
+  
+  
+Empty Slots of FMS should be covered with blank plates. 
+  
+  
+Splice Tray : Splice Tray of ABS, Comply with UL 94V2 material should be supplied with LIU. 
+  
+  
+12/16 Port LC/SC Type Adaptor Plates (Single mode) 
+  
+  
+The adaptor plate should be pre-loaded with LC/SC Type Single mode Duplex Adaptors. 
+  
+  
+Port Density :12/16 LC/SC Single mode Ports 
+  
+  
+All LC adapters should be duplex type with shutter for protection. Adapters should be snap mount for 
+easy insertion and removal. 
+  
+  
+Insertion Loss: <0.2 to <0.1 dB 
+  
+  
+Compliance :RoHS Compliant 
+  
+  
+LC Type 9/125μm OS2 Fiber Optic Simplex Pigtail: 
+  
+  
+Type : 9/125 micron fiber performance 
+  
+  
+Jacket Material : LSZH complying to IEC 61034-1 & 2,IEC-60332-1, IEC-60754-1 & 2 
+  
+  
+Operating Temperature: -40°C to +75°C 
+  
+  
+Connector Insertion Loss: 0.30dB(Max) 
+  
+  
+Attenuation: 1310/1550 : 0.36/0.22 dB/KM 
+  
+  
+OEM shall have RCDD certified manpower in India for design support and validation. Certificate is 
+Mandatory 
+ 
+ 
+OEM shall  have TIA Steering committee member and must be a member in the BICSI organization. 
+ 
+ 
+OEM shall provide declaration on conformity of all the passive components to the following standards: a) 
+ 
+ 
+
+
+--- Page 68 ---
+ 
+Page 68 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+TIA/EIA 568-C.2 ; b) TIA/EIA 568-C.3 ; c) ISO/IEC 11801 
+OEM shall have valid ISO 9001 and ISO 14001 certificate on Design, development and manufacture of 
+Software and Hardware solutions for communication networks. 
+ 
+ 
+All the products must have RoHS Compliance 
+ 
+ 
+• All passive  items such as Fiber cable,CAT6A cable, CAT6A patch cord, fiber patch cord, Jack panel , LIU 
+are must be from same/single OEM for the best compatibility and to maintain the 25 year performance 
+warranty. 
+• Warranty declaration in OEM letterhead mentioning the product Model No. 
+• Compliance in OEM letterhead 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 18 : 24 port loaded Keystone Jack panel  
+Patch panel should be modular design, populates up to 24 UTP/STP keystone-type jacks in 1U.The Copper 
+Frame should support interconnect topology. Intelligent Modular Copper Frames for future integration. 
+The intelligent  panels  should  have  the  necessary  intelligent hardware and light indicators integrated 
+within the panels. Retrofits are not an option for future readiness. 
+  
+  
+Patch panel should be Enhanced with cable strain relief with retention tray; It should be single metal 
+both front panel and rear tray. The Copper Frame should have a single LED above each port for future 
+intelligent integrations and along with should support intelligent interconnect patching for future 
+readiness .The panels should be passive, and the panels should not require any power for operation of 
+the intelligent management solution. 
+  
+  
+Material: sub-rack made of Aluminum with dimension 44.4 mm :  482.6 mm : 105 mm (h:w:d) tray 
+  
+  
+Information Outlet or connection module should comply with the specification mentioned above in 2 
+  
+  
+Standard : Conforms to IEC-60603-7 (603-7) for keystone-type, snap-on apertures 
+  
+  
+Should be RoHS complied 
+  
+  
+OEM shall have RCDD certified manpower in India for design support and validation. Certificate is 
+Mandatory 
+  
+  
+OEM must be a member in the TIA organization. 
+  
+  
+Cat 6A UTP RJ 45 Keystone Jack: 
+  
+  
+RJ45 Jack of Category 6A, for the establishing of transmission channels of class EA with up to 4 plugged 
+connections, complies with Category 6A requirements of the standards ISO/IEC 11801:2.1 edition, EN 
+50173-1 (200X), ANSI/TIA/EIA 568-C.2, backwards compatible with Cat6, Cat.5e and Cat.5. 
+  
+  
+Suitable for 10GBase-T applications in acc. with IEEE 802.3an more than or equal to 800 MHz (ETL test 
+report to be submitted) 
+  
+  
+Compatible with RJ standard plugs (RJ11, RJ12, RJ45), PCB- and tool free  based connection of installation 
+cables AWG 24 – 22 (0.5 mm – 0.65 mm) and flexible cables AWG 26/7 – AWG 22/7. 
+  
+  
+IDC termination should feature nil crossover in acc. with EIA/TIA 568-A/B, Tin phosphor bronze contacts 
+for complying IEC 60603-7 
+  
+  
+Housing material: Polycarbonate (UL-94-V0) 
+  
+  
+Jack Contacts: Phosphor bronze, 50 micro-inch gold plating over nickel 
+  
+  
+Insulation Resistance: >= 500 MΩ 
+  
+  
+Dielectric Withstand Volt: 100VAC RMS 60Hz 
+  
+  
+Contact Resistance: <= 20 mΩ 
+  
+  
+Current Rating: 1.5A at 68°F 
+  
+  
+Plug insertion Life: >=750 times plug in 
+  
+  
+Contact Force: 99.2g (3.5oz) FCC Plug 
+  
+  
+Plug Retention Force:30lb (133n/13.3Kg) 
+  
+  
+Temperature Test: -40 to 150℃ (-40 to 66℃) 
+  
+  
+Keystone should feature with Tool free termination technology 
+  
+  
+Keystone Jack should be available in 8 different color options 
+  
+  
+Material: RoHS complied 
+  
+  
+
+
+--- Page 69 ---
+ 
+Page 69 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Should be be ETL Certified 
+  
+  
+OEM shall have RCDD certified manpower in India for design support and validation. Certificate is 
+Mandatory 
+  
+  
+OEM shall  have TIA Steering committee member and must be a member in the BICSI organization. 
+  
+  
+OEM shall provide declaration on conformity of all the passive components to the following standards: a) 
+TIA/EIA 568-C.2 ; b) TIA/EIA 568-C.3 ; c) ISO/IEC 11801 
+ 
+ 
+OEM shall have valid ISO 9001 and ISO 14001 certificate on Design, development and manufacture of 
+Software and Hardware solutions for communication networks. 
+ 
+ 
+All the products must have RoHS Compliance 
+ 
+ 
+• All passive  items such as Fiber cable,CAT6A cable, CAT6A patch cord, fiber patch cord, Jack panel , LIU 
+are must be from same/single OEM for the best compatibility and to maintain the 25 year performance 
+warranty. 
+• Warranty declaration in OEM letterhead mentioning the product Model No. 
+• Compliance in OEM letterhead 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 19 : Field Termination Plug  for camera end  
+Standardization: Compliant with Cat.6, Class EA requirements: ISO/IEC 11801 2nd Edition backward 
+Compliant with Cat.6 component standards IEC 60603-7-4 and 60603-7-5  
+  
+  
+Cable: UTP/ STP 
+  
+  
+Approval : UL Listed 
+  
+  
+Termination: IDC type Tool less 
+  
+  
+RJ45 Plug Metal covers: Zinc die-casting with nickel plated 
+  
+  
+RJ45 Plug contacts: Phosphor bronze with nickel plated 
+  
+  
+Plastic Wire Organizer: PC, Color: White, UL 94V-0 
+  
+  
+IDC Durability: ≥20 Termination cycles 
+  
+  
+RJ45 Jack Durability: ≥750 Plug-Jack mating cycles per IEC 60603-7-81 
+  
+  
+Operating Temperature: -10 degree C to +60 degree C 
+  
+  
+Patch Cord retention strength: 7.7 Kg Max. according to IEC 60603-7-5 
+  
+  
+Rj45 Plug Insertion force: 3.1 Kg Max according to IEC 60603-7-81 
+  
+  
+• All passive  items such as Fiber cable,CAT6A cable, CAT6A patch cord, fiber patch cord, Jack panel , LIU 
+are must be from same/single OEM for the best compatibility and to maintain the 25 year performance 
+warranty. 
+• Warranty declaration in OEM letterhead mentioning the product Model No. 
+• Compliance in OEM letterhead 
+  
+  
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 20 :  16/6 Amp socket (AIO)  switch with Box  
+Amperes 
+(6-16) A 
+  
+  
+FR Grade 
+Yes 
+  
+  
+Material Grade 
+Poly Carbonate 
+  
+  
+UV stabilized 
+Yes 
+  
+  
+Voltage 
+240 V 
+  
+  
+Shuttered Socket 
+Contact Pins are shuttered which provides safety to the kids 
+  
+  
+ 
+ 
+ 
+
+
+--- Page 70 ---
+ 
+Page 70 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 21 : 9U Rack   
+Cabinet should be  Protek 09U Height 600mmWidth 500mmDepth with Wall Mounting brackets, 2 on LHS 
+and 2 on RHS.   standards, Basic structure of CRCA Steel(  IS 513 Gr D Thickness ± 1mm) , Side Integrated 
+Single Section  single section, wall mountable cable entry provision at the top and bottom , 19"  Recess 
+mounting angles-2Pairs .  
+  
+  
+Salt spray test according to ISO 9227 (NSS test) and IEC EN 60068-2-11 (Ka test) for 168 hours: degree of 
+Rusting Ri1 according to ISO 4628-3, propagation ≤1 mm according to ISO 4628-8.  
+  
+  
+UL approved product as per UL 2416 ISO 9001:2015, ISO 14001:2015,  DIN 41494 
+  
+  
+Epoxy polyester powder coating 60-80 micron thickness 
+  
+  
+Front Door Toughened glass 4 mm thick with easy detachable hings and  lock – should be easily 
+removable type. 
+  
+  
+Double  fan directly mounted on the roof top as an exhaust from the cabinet. Fan should be of AC 230V 
+with flow volume of at least 90CFM 
+  
+  
+Metal Cable Manager - 01U - Plastic Cable Loop's Mountable - Black Fine Tex-1Nos 
+  
+  
+Mounting Hardware Packet { Contains 1 Nos Each Of 3 } - 10 Set -1PKT 
+  
+  
+Cantiliver Tray - 01U - 255D -1Nos 
+  
+  
+Power Distribution Unit - 06/16 Amp Universal - 06/16 Socket - 16 Amp Switch with Indicator - 06/16 
+Amp Fuse - 06/16 Amp 3 Pin Plug with Power Cable 0.75 sq.mm 1.5 meter Length – 1 No. 
+  
+  
+Compliance in OEM letterhead , OEM submit mandatory Manufacturer Authorization Certificates. 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 22 : 17/16U Rack 
+The Floor Standing Racks Moducab 17/16 U 600mm Width 800mm Depth  with openable CRCA Sheet  
+side panel , 1 Top Cover and 1Bottom Cover with gland plate and rubber grommets for cable entry 
+provisions   shall be  basic structure of rack is made up of 4 vertical aluminum alloy extruded members 
+bolted with 4 horizontal aluminum 
+  
+  
+alloy extruded members which forms 2 frame structures which are joined together by 4 depth sections 
+with nut plates as  Assemble/CKD (Complete Knock Down) design for easy accessibility and easy 
+installation at site as and when required 
+  
+  
+Salt spray test according to ISO 9227 (NSS test) and IEC EN 60068-2-11 (Ka test) for 168 hours: degree of 
+Rusting Ri1 according to ISO 4628-3, propagation ≤1 mm according to ISO 4628-8.  
+  
+  
+UL approved product as per UL 2416 ISO 9001:2015, ISO 14001:2015,  DIN 41494. 
+  
+  
+Permissible load bearing  up to 1200 kg 
+  
+  
+Epoxy polyester powder coating 60-80 micron thickness. 
+  
+  
+Front Moducab Front Glass Door – 17/16U - 800W - Cam Lock - Ventilation - Pastal Fine Tex.  -1Nos. 
+  
+  
+RearModucab Rear Single Door – 17/16U - 800W - Cam Lock - Square Slot Ventilation - Pastal Fine Tex.  -
+1Nos. 
+  
+  
+Two Fan Directly top mounted inside the rack-1Nos. 
+  
+  
+Set of 4 Castor 2With BRK /2 without BRK - 1Set 
+  
+  
+Mounting Hardware Packet { Containg 1 Nos Each Of 3 } - 20 Set - 1PKT 
+  
+  
+Metal Cable Manager - 01U - Plastic Cable Loop's Mountable -1Nos. 
+  
+  
+Monitor Tray - Ventilation - 495W - 475D -1Nos 
+  
+  
+Power Distribution Unit - 06 Amp Universal - 06 Socket- 16 Amp Switch with Indicator - 06/16 Amp Fuse 
+- 06/16 Amp 3 Pin Plug with Power Cable 0.75 sq.mm 1.5 meter Length – 1 No - 1Nos 
+  
+  
+Compliance in OEM letterhead , OEM submit mandatory Manufacturer Authorization Certificates 
+  
+  
+ 
+ 
+
+
+--- Page 71 ---
+ 
+Page 71 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 23 : 42U Rack   
+The Floor Standing Racks Moducab 42 U 600mm Width 800mm Depth  with openable CRCA Sheet  side 
+panel , 1 Top Cover and 1Bottom Cover with gland plate and rubber grommets for cable entry provisions   
+shall be  basic structure of rack is made up of 4 vertical aluminum alloy extruded members bolted with 4 
+horizontal aluminum. 
+  
+  
+alloy extruded members which forms 2 frame structures which are joined together by 4 depth sections 
+with nut plates as  Assemble/CKD (Complete Knock Down) design for easy accessibility and easy 
+installation at site as and when required. 
+  
+  
+Salt spray test according to ISO 9227 (NSS test) and IEC EN 60068-2-11 (Ka test) for 168 hours: degree of 
+Rusting Ri1 according to ISO 4628-3, propagation ≤1 mm according to ISO 4628-8.  
+  
+  
+UL approved product as per UL 2416 ISO 9001:2015, ISO 14001:2015,  DIN 41494. 
+  
+  
+Permissible load bearing  up to 1200 kg 
+  
+  
+Epoxy polyester powder coating 60-80 micron thickness. 
+  
+  
+Front Moducab Front Glass Door - 42U - 800W - Cam Lock - Ventilation - Pastal Fine Tex.  -1Nos. 
+  
+  
+Rear Moducab Rear Single Door - 42U - 800W - Cam Lock - Square Slot Ventilation - Pastal Fine Tex.  -
+1Nos. 
+  
+  
+Four Fan Directly top mounted inside the rack-1Nos. 
+  
+  
+Set of 4 Castor 2With BRK /2 without BRK - 1Set 
+  
+  
+Mounting Hardware Packet { Containg 1 Nos Each Of 3 } - 20 Set - 1PKT 
+  
+  
+Metal Cable Manager - 01U - Plastic Cable Loop's Mountable -1Nos. 
+  
+  
+Monitor Tray - Ventilation - 495W - 475D -1Nos 
+  
+  
+Power Distribution Unit - 06/13 Amp Multi-Standard - 10 Socket - Single Pole / Screw Mountable / 16 
+Amp MCB / Alternating Current - 16 Amp 3 Pin Plug with Power Cable 2.5 sq.mm 3 meter Length - 1Nos 
+  
+  
+Compliance in OEM letterhead, OEM submit mandatory Manufacturer Authorization Certificates 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 24 : PVC flexible  
+  Product 
+Category:  
+FRLS PVC Flexible Conduits 
+  
+  
+  Diameter:  
+25mm 
+  
+  
+  Colour:  
+Dark Grey 
+  
+  
+  Length:  
+30 mtr 
+  
+  
+  Material:  
+PVC 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 25 : Camera mounting Box  
+Material 
+PVC 
+  
+  
+Usage/Application 
+Junction Boxes 
+  
+  
+Shape 
+Rectangular 
+  
+  
+Dimension 
+5x5 Inch 
+  
+  
+Mounting Type 
+Concealed Mounting 
+  
+  
+Phase 
+single 
+  
+  
+Dimensions 
+5x5 Inch 
+  
+  
+Cable Entry 
+Bottom Entry, Side Entry 
+  
+  
+Surface Finish 
+Polished 
+  
+  
+Features 
+pipe connections 
+  
+  
+
+
+--- Page 72 ---
+ 
+Page 72 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Door Thickness 
+1.5 mm 
+  
+  
+Packaging Type 
+Box 
+  
+  
+Design 
+rectangular 
+  
+  
+Number Of Locks 
+2 
+  
+  
+Packaging Size 
+10 
+  
+  
+Mounting Plate 
+Thickness 
+1.5 mm 
+  
+  
+Type 
+junction box heavy 20/25 mm 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 26 : HDPE Pipe  
+PLB-HDPE  Telecom  Duct.            
+  
+  
+Specification : TEC/GR/TX/CDS-08/03/MAR-11.  
+  
+  
+Outer  Diameter : 32 mm 
+  
+  
+Inner  Diameter : 26 mm 
+  
+  
+Lubrication : Inner  surface  would  have  uniform  Silicon  lubrication. 
+  
+  
+Length :500/1000  mtrs.  per  coil. As required 
+  
+  
+Colour : any Colour with white  stripes 
+  
+  
+Marking: Pipe  to  be  thus  marked  at  every  meter  -  manufacturer  Name and  type  of  pipe with  
+sequential  length  marking. 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 27 : GI Pipe 
+Shape 
+Round 
+  
+  
+Size/Diameter 
+40 mm 
+  
+  
+Material 
+GI 
+  
+  
+Unit Pipe Length 
+6m 
+  
+  
+Corrosion 
+Resistance 
+Yes 
+  
+  
+IS/1239 ISI Mark C (heavy) 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+ BOQ NO – 28 : 1KVA offline UPS with double battery 
+input  parameters 
+  
+  
+  
+Configuration 
+1 phase, L-N + PE 
+  
+  
+nominal  voltage  
+208/220/230/240 Vac 
+  
+  
+voltage  range 
+170Vac / 150Vac/ 130Vac / 100Vac +/-5% ( based on load percentage 
+100%-80% / 80% -70% / 70-60% / 60% -0) 
+  
+  
+frequency  
+40Hz~70Hz 
+  
+  
+power  factor 
+>= 0.99 @ 220-230 Vac ( I/P Vtg) 
+  
+  
+current  distortion (i-thd) 
+<=5% 
+  
+  
+Bypass 
+  
+  
+  
+Voltage 
+220/230/240 Vac 
+  
+  
+voltage range 
+120VAC~288VAC 
+  
+  
+Frequency 
+50Hz 
+  
+  
+
+
+--- Page 73 ---
+ 
+Page 73 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+frequency  range 
++/-10% 
+  
+  
+output  parameters 
+  
+  
+  
+Capacity 
+1 KVA / 800 W 
+  
+  
+power  factor 
+0.8 
+  
+  
+Configuration 
+1 phase, L-N + PE 
+  
+  
+nominal  voltage  
+220/230/240 Vac 
+  
+  
+voltage  regulation 
++/- 1% (Batt. Mode) 
+  
+  
+voltage  thd 
+ 2% THD, Linear load, 5% THD, Non-Linear load 
+  
+  
+Frequency 
+50Hz / 60Hz 
+  
+  
+Frequency  Regulation -
+(Batt.Mode) 
+±0.25 Hz 
+  
+  
+frequency  regulation  
+(synchronized  range) 
+ 47 ~53 Hz or 57~63 Hz 
+  
+  
+crest  factor 
+3:1max. 
+  
+  
+transient response 
+< 150ms (Up to recover static regulation after full RCD load take 
+on/off) 
+  
+  
+recovery time 
+4 hours to 90% recovery 
+  
+  
+over  load  capacity 
+105% to 125% - 5min to bypass, 125% to 150% - 1min to bypass 
+150% to 200% - 10sec to bypass, >200% up  - 250msec to bypass 
+  
+  
+ac mode  
+86% 
+  
+  
+battery mode 
+83% 
+  
+  
+transfer  time - mains  to battery 
+0 millisecond 
+  
+  
+transfer  time - inverter  to  
+bypass - synchronization  mode 
+4ms max 
+  
+  
+parallel  redundancy 
+NO 
+  
+  
+battery  charger  
+  
+  
+  
+charging voltage 
+27.4 Vdc+/-0.05V 
+  
+  
+maximum  charging current - 
+std./ lb. 
+8 Amp 
+  
+  
+battery  parameters 
+  
+  
+  
+type  
+Sealed, lead-acid, Tubular, LI-ION 
+  
+  
+back up 15 min  
+minimum 900 VAH  
+  
+  
+back up 30 min  
+minimum 1000 VAH  
+  
+  
+back up 1 hr  
+minimum 1800 VAH  
+  
+  
+recharge time  
+for STD model : 5 hours recovers to 90% capacity (typical) / for LB 
+Model : Depending on the capacity of ext. battery. 
+  
+  
+environmental  parameters 
+  
+  
+  
+operating  temperature 
+0 to 40 deg. Centigrade 
+  
+  
+storage temperature 
+-20 to 50 Deg. C 
+  
+  
+relative  humidity 
+20-95 % RH @0- 40 Deg.C 
+  
+  
+noise  level 
+< 50dBA @ 1 mtr 
+  
+  
+temperature derating 
+N/A 
+  
+  
+Altitude 
+IEC 62040-3 The UPS can operate < 4KM 
+  
+  
+mechanical  parameters 
+  
+  
+  
+ depth  x width  x hight (mm)      
+(std  & lb model) 
+380x438x88 (2U) 
+  
+  
+Weight 
+13.2 kg  for STD; 
+9.1 kg for LB model 
+  
+  
+
+
+--- Page 74 ---
+ 
+Page 74 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Ventilation 
+Forced - Air  cooled 
+  
+  
+Cable  Entry 
+Backside 
+  
+  
+Color / Panel  finish 
+IBM black 
+  
+  
+Base  castor  wheels 
+No 
+  
+  
+Protection 
+IP20 
+  
+  
+Communication 
+  
+  
+  
+MONITORING  SOFTWARE 
+SNMP, Relay Card & Modbus Card, View Power  Pro Software 
+  
+  
+STANDARDS 
+EN62040-2 -2006 :EMC, EN 62040-1-1 : 2003 : Safety, IEC / EN 
+62040-3 : Performance 
+  
+  
+Inverter  Devices  
+IGBT 
+  
+  
+Warranty declaration in OEM letterhead mentioning the product Model No. OEM submit mandatory 
+Manufacturer Authorization Certificates 
+  
+  
+Compliance in OEM letterhead 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 29 :  10 kVA UPS   
+Input parameters: 
+  
+  
+  
+Rating 
+10KVA/10kw (3in-1out) 
+  
+  
+Technology 
+IGBT based Double conversion PWM based online UPS 
+  
+  
+Installation mode 
+Tower  
+  
+  
+Rated voltage 
+400VAC  3-phase,4-wire 
+  
+  
+Voltage Range 
+Three phase 175VAC -498VAC  
+  
+  
+Rated Frequency 
+50Hz/60Hz 
+  
+  
+Frequency Range 
+40Hz ~ 70Hz 
+  
+  
+I/p phase reversal 
+protection and 
+correction 
+Yes 
+  
+  
+Power factor 
+>=0.99 for Single Phase/0.95 for Three Phase 
+  
+  
+Output  
+Parameters :  
+  
+  
+  
+Rated power 
+10KVA/10kw  
+  
+  
+Voltage 
+Single Phase 230/220 Vac. 
+  
+  
+Frequency 
+synchronization 
+range 
+Rated frequency±3Hz. Configurable range: ±0.5Hz ~ ±5Hz 
+  
+  
+Rated Power Factor 
+Unity 
+  
+  
+Crest Factor 
+3:1' 
+  
+  
+Voltage harmonic 
+distortion 
+< 2% (linear load) 
+  
+  
+Voltage Regulation 
+0.01 
+  
+  
+Dynamic response 
+recovery time 
+60ms 
+  
+  
+Inverter Overload 
+Capability on utility 
+mode 
+At 25°C: 105% ~ 125%- 5min; 125% ~ 150%-1min; 150%- more than 200ms 
+  
+  
+Inverter Overload 
+Capability on 
+battery mode 
+At 25°C :105% ~125%-60~ 30 s; >125%- more than 200ms 
+  
+  
+
+
+--- Page 75 ---
+ 
+Page 75 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Isolation 
+transformer 
+Inbuilt  at o/p side 
+  
+  
+Bypass: 
+  
+  
+  
+Separate bypass 
+Yes 
+  
+  
+Maintenance 
+Bypass 
+Inbuilt 
+  
+  
+Static bypass 
+Inbuilt 
+  
+  
+Efficiency 
+  
+  
+  
+ECO Mode 
+0.94 
+  
+  
+Online mode (AC-
+AC) 
+> 91%  
+  
+  
+Inverter 
+Efficiency(DC-AC) 
+>88% 
+  
+  
+BATTERY back up 
+on 8 kw  
+  
+  
+  
+Type 
+Sealed, lead-acid,Tubular,LI-ION 
+  
+  
+back up 15 min  
+minimum 6200 VAH  
+  
+  
+back up 30 min  
+minimum 10000 VAH  
+  
+  
+back up 1 hr  
+minimum 15000 VAH  
+  
+  
+Battery charging 
+capacity 
+8A 
+  
+  
+Transfer Time 
+  
+  
+  
+Mains - Battery 
+0ms 
+  
+  
+Inverter-Bypass 
+Synchronous transfer: ≤0ms 
+  
+  
+  
+Asynchronous transfer (default): ≤20ms 
+  
+  
+Noise 
+<65db 
+  
+  
+Panel display mode 
+  
+  
+  
+Display type 
+Graphical LCD display 
+  
+  
+No of events stored  Max 256 
+  
+  
+Orientation 
+Gravity sense  
+  
+  
+Environmental 
+parameter 
+  
+  
+  
+Operating 
+temperature 
+0°C ~ 50°C(2) 
+  
+  
+Storage 
+temperature 
+-40°C ~ +70°C (battery excluded); -25°C ~ +55°C (battery included) 
+  
+  
+Relative humidity 
+5%RH ~ 95%RH, non-condensing 
+  
+  
+Altitude 
+≤3000m; derating when higher than 3000m 
+  
+  
+Mechanical 
+parameter 
+  
+  
+  
+W*D*H (mm) 
+550 X 620 X 700 
+  
+  
+Weight (Kg) 
+138 
+  
+  
+Ventilation 
+Forced -air cooled 
+  
+  
+Ingress protection 
+level 
+IP20 
+  
+  
+Color 
+Powder coated Black Texture finish 
+  
+  
+Cable entry 
+Rear 
+  
+  
+Network 
+Management 
+  
+  
+  
+Smart RS232/USB 
+Supports Windows 2000/2003/XP/Vista/2008,Windows 7,Linux,unix and MAC 
+  
+  
+SNMP 
+Inbuilt  for web monitoring  
+  
+  
+
+
+--- Page 76 ---
+ 
+Page 76 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Optional SNMP 
+Power management from SNMP manager and web browser 
+  
+  
+Management 
+software 
+Site monitor 
+  
+  
+Modbus 
+Inbuilt via multifunction port 
+  
+  
+Certifications 
+  
+  
+  
+Safety (CE) 
+IEC/EN62040-1-1 
+  
+  
+Electromagnetic 
+Compatibility 
+(EMC) 
+IEC/EN62040-2, IEC/EN61000-3-11, IEC/EN61000-3-12, YD/T1095-2008 
+  
+  
+Surge Protection 
+IEC/EN62040-2, meeting IEC/EN61000-4-5 
+  
+  
+Energy star 
+As per UL approved 
+  
+  
+ROHS 
+Yes 
+  
+  
+frost& sulllvan 
+report  
+Yes 
+  
+  
+NABL Approved 
+government lab 
+test report . 
+Yes 
+  
+  
+Warranty declaration in OEM letterhead mentioning the product Model No. OEM submit mandatory 
+Manufacturer Authorization Certificates 
+  
+  
+Compliance in OEM letterhead 
+  
+  
+ 
+Sl 
+No 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+ BOQ NO – 30 :  9 mtr GI pole for camera 
+  
+  
+ 
+General 
+Specifications 
+9Mtr Hot Dip Galvanized Octagonal Pole with Foundation Type Base Plate & 
+Foundation Bolts (Dimensions for pole as Top Diameter 70 mm, Bottom 
+Diameter 155 mm, Section Length- 9000 mm, Thickness-3 mm, Foundation 
+Type Base Plate (250X250X16 mm), Foundation Bolts (M24 X 700/750 
+MM4Nos).with single type arm bracket 1500 mm long made of 60 mm dia 
+pipe ,suitable for PTZ camera fitting 
+  
+  
+ 
+Pole Shaft 
+The pole shaft shall be made from sheet steel confirming to BSEN 10025.The 
+pole shaft shall have octagonal cross section and shall be continuously 
+tapered with single longitudinal welding. There shall not be any 
+circumferential welding. All octagonal pole shafts shall be provided with the 
+rigid flange plate of suitable thickness (as per IS 2062) with provision for 
+fixing 4 foundation bolts. This base plate shall be fillet welded to the pole 
+shaft at two locations i.e. from inside and outside. 
+  
+  
+ 
+Dimension 
+Pole Top Diameter 70 mm, Bottom Diameter 155 mm, Section Length- 9000 
+mm, Thickness-3 mm ,Base Plate (250X250X16 mm), Foundation Bolts (M24 
+X 700/750 MM-4Nos) 
+  
+  
+ 
+Door Opening 
+The octagonal Poles shall have door of approximate 500 mm length at the 
+elevation of 500 mm from the Base plate. The door shall be vandal 
+resistance and shall be weather proof to ensure safety of inside 
+connections. The door shall be flush with the exterior surface and shall have 
+suitable locking arrangement. There shall also be suitable arrangement for 
+the purpose of earthing. The pole shall be adequately strengthened at the 
+location of the door to compensate for the loss in section. 
+  
+  
+ 
+ Material 
+Octagonal Poles -Steel Grade BSEN 10025 - S355J0 or Equivalent 
+Base Plate Fe 410 conforming to IS 226 / IS 2062 
+  
+  
+ 
+ Pole Sections  
+The Octagonal Poles shall be in single section. There shall not be any 
+circumferential weld joint. 
+  
+  
+
+
+--- Page 77 ---
+ 
+Page 77 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+ 
+Galvanization 
+The poles shall be hot dip galvanized as per relevant Indian standards with 
+average coating thickness of minimum 65 micron. 
+  
+  
+ 
+Fixing Type  
+The Octagonal Poles shall be suitable for bolting on a foundation with a 
+set of four foundation bolts for greater rigidity. 
+  
+  
+ 
+Bracket for 
+fixing camera 
+The brackets shall be made of specified size G.I heavy duty pipe with 
+minimum 1500 mm long and minimum 48 mm dia with necessary holding 
+brackets, hold fasts etc suitable for Camera  mounting. 
+  
+  
+ 
+Foundation 
+drawing  
+Attached  
+  
+  
+  
+Compliance in OEM letterhead 
+  
+  
+  
+ 
+ Sl 
+No 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 31 : 16 Amp DP MCB with enclosure BOX 
+  
+  
+  
+Product Category: AC, DP & FP MCB Boxes including 16 Amp MCB 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 32  : HDMI Cable -15 mtr 
+HDMI Version 2.1 male to male Cable 
+  
+  
+Supports Ultra High-speed HDMI cable with Ethernet 
+  
+  
+24K gold plated connector resists corrosion and ensures Maximum signal transfer and minimum data 
+loss 
+  
+  
+Supports Enhanced Audio Return Channel, 3D / 4K x 2K / 8K @ 60Hz Video 
+  
+  
+High quality pure copper conductors 
+  
+  
+High density aluminum shielding 
+  
+  
+Braided cable with cotton mesh 
+  
+  
+Transfer speed of upto 48 GBPS 
+  
+  
+3-year warranty 
+  
+  
+Warranty declaration in OEM letterhead mentioning the product Model No. 
+ 
+ 
+Compliance in OEM letterhead 
+ 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 33 : Mounting Clamp for PTZ   
+Parameter 
+Vertical Pole Mount Bracket 
+  
+  
+Color 
+White 
+  
+  
+Feature 
+Suitable for speed dome pendent mounting 
+  
+  
+Material 
+Aluminum & Steel 
+  
+  
+Dimension 
+117×194×451.3mm 
+  
+  
+Weight 
+2040g 
+  
+  
+The bracket should be installed on plat wall 
+  
+  
+  
+The bracket is suitable for vertical pole mount of 67-127 mm diameter 
+  
+  
+  
+Load capacity of pole should be more than 3 times the weight of camera and bracket 
+  
+  
+
+
+--- Page 78 ---
+ 
+Page 78 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Load capacity of clamp is 30KG 
+  
+  
+  
+ 
+ 
+Feature 
+Specification 
+Complian
+ce 
+ (Yes/No) 
+Remar
+ks (if 
+any) 
+BOQ NO – 34: Server for VMS  
+Server 
+System 
+4LFF NHP Bay 
+  
+  
+Processor 
+Intel Xeon® Silver 4212 12Core 2.2GHz – 2nos 
+  
+  
+Chipset 
+Intel C621 
+  
+  
+SSD 
+1 TB 
+  
+  
+Memory 
+16GB*3 = 48GB, RDIMM 2 Rank 2666MHz 
+  
+  
+Controller 
+SAS RAID 0,1,5 ; 42” FHD; professional 24 x 7 working monitor ; Wireless USB keyboard and 
+USB optical mouse 
+  
+  
+Networking 
+Device 
+1G x 4 Port Network adapter 
+  
+  
+Power 
+Supply 
+750W AC Non-Redundant Power Supply 
+  
+  
+Warranty 
+3 years  
+  
+  
+Warranty declaration in OEM letterhead mentioning the product Model No. OEM submit mandatory 
+Manufacturer Authorization Certificates 
+  
+  
+Compliance in OEM letterhead 
+  
+  
+ 
+Specification 
+Compliance  
+(Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 35  :  Video Management Software 
+ 
+ 
+1.  Central Video Surveillance Management Service 
+  
+  
+  
+Authenticates the Control Client access; manages the users, roles, permissions and monitors 
+devices 
+  
+  
+Provides the interface for third-party system integration 
+  
+  
+VSM which forwards and distributes the video and audio data 
+  
+  
+3rd Party Device Access Gateway : Communication between VSM and third-party device 
+  
+  
+Responds to Control Client’s request and sends real-time messages to Control Client 
+  
+  
+2.  Responds to Control Client’s request and sends real-time messages to Control Client 
+  
+  
+3.    Accessibility and Management Capabilities 
+  
+  
+ Administration functions and operation functions are performed separately in the following 
+clients: 
+  
+  
+  
+1. Web Client: All administration of VMS shall be performed using a web browser client via LAN, 
+WAN or Internet. No client software is required for administration of the system. 
+  
+  
+2. Control Client: All security operator features shall be accessed through the Control Client 
+connected to VMS via LAN, WAN, or Internet 
+  
+  
+4. It Shall support H.264, H.264+, H.265, and H.265+ encoding formats. 
+  
+  
+5. It Shall remotely connect to the VMS server via TCP/IP and perform the following functions: 
+  
+  
+
+
+--- Page 79 ---
+ 
+Page 79 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+  
+1. Add encoding devices to the VMS using the following discovery options: 
+  
+  
+a. IP/Domain 
+  
+  
+b. IP Segment 
+  
+  
+c. Port Segment 
+  
+  
+d. Batch Import 
+  
+  
+2. When adding NVRs and Network Cameras, devices shall have the option to automatically 
+create logical areas by device name or add to an existing area. 
+  
+  
+  a)  Automatically add device’s recording schedule for future remote management. It Shall be 
+able to set and modify NVR recording schedules. 
+  
+  
+  b) When adding an NVR, user can check the online and offline status of NVR channels. 
+  
+  
+3. Once added, shows the online/offline status of devices in both physical view and logical view. 
+  
+  
+4.  Shall remotely configure NVRs and Network Cameras and set all functions that are available if 
+connecting to devices directly. 
+  
+  
+5.  When adding Hybrid SANs, shall be able to set as host server for network camera or as an N+1 
+hot spare for Hybrid SANs recording redundancy 
+  
+  
+6.  it Shall support Cloud Storage Server. 
+  
+  
+7.  Improved security authentication. 
+  
+  
+8. It Shall add up to 8 Smart Walls 
+  
+  
+9. It Shall support the linkage between decoding device’s video outputs and Smart Wall screens. 
+  
+  
+10. It Shall display channels in the same area in alphabetical order 
+  
+  
+11.  It Shall synchronize NVR channel names with the names displayed on the Web Client. 
+  
+  
+6. Recording: Shall have the ability to configure camera recording schedule and Picture Storage. 
+  
+  
+  
+1. Recording Configuration 
+  
+  
+        a. Batch add new recording schedules 
+  
+  
+        b. Delete/modify existing recording schedules 
+  
+  
+        c. Filter recording schedules by customized rules 
+  
+  
+2.  Picture Storage: Shall store the pictures of passing vehicles, events, and alarms on VSM 
+server’s HDD 
+  
+  
+       a. Turn on/off Picture Storage 
+  
+  
+       b. Select picture storage location. 
+  
+  
+3. Recording Template Configuration shall have the ability to: 
+  
+  
+       a. Add multiple recording templates 
+  
+  
+       b. Delete/edit recording template 
+  
+  
+       c. Filter existing recording schedules by customized rules 
+  
+  
+       d. Set recording schedule for channels imported into the Central System from Remote Sites. 
+  
+  
+7 .  Event & Alarm: Shall have the ability to configure the following: 
+  
+  
+To avoid flooding operators with alarms, shall have the option of adding just an event from a device, 
+that will be searchable via the Control Client, but not broadcast as an alarm: 
+  
+  
+a)  Shall batch add the following Video Content Analysis (VCA) events from cameras: 
+  
+  
+  
+Motion detection 
+  
+  
+Line crossing detection 
+  
+  
+
+
+--- Page 80 ---
+ 
+Page 80 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Intrusion detection 
+  
+  
+Region entrance detection 
+  
+  
+Region exiting detection 
+  
+  
+b)   Shall batch add alarm input events 
+  
+  
+c)   Shall batch add Health Monitoring events from Device: 
+  
+  
+  
+ Device Offline 
+  
+  
+ HDD Full 
+  
+  
+ R/W HDD Failure 
+  
+  
+ Video Standard Mismatch 
+  
+  
+ Camera/Recording Resolution Mismatch 
+  
+  
+ Array Exception 
+  
+  
+ Illegal Login 
+  
+  
+d)  Shall batch add Health Monitoring events from servers: 
+  
+  
+  
+Server Exception 
+  
+  
+ HDD Full 
+  
+  
+ R/W HDD Failure 
+  
+  
+ System Temperature Too High 
+  
+  
+ CPU Temperature Too High 
+  
+  
+ Environment Temperature Too High 
+  
+  
+ Memory Exception 
+  
+  
+ Disk Loss 
+  
+  
+ Disk Warning 
+  
+  
+ Bad Disk 
+  
+  
+ Disk Disconnect 
+  
+  
+ Physic Volume Alarm 
+  
+  
+ Array Initialization 
+  
+  
+ Array Rebuilding 
+  
+  
+ Array Explanation 
+  
+  
+ Array Degradation 
+  
+  
+ Array Detection 
+  
+  
+ Array Repair 
+  
+  
+ Array Unavailable 
+  
+  
+ Video Loss Alarm 
+  
+  
+ Recording Exception Alarm 
+  
+  
+e)  If an event is added or batch added and is not configured, the Web Client will offer to activate and 
+remotely configure, if the event type is supported on the NVR or Network 
+Cameras but not configured on the device  
+  
+  
+f)  Shall batch delete all invalid events that are not supported on NVR or Network Camera 
+  
+  
+g)  Shall have the ability to convert any of above stated events into an alarm 
+  
+  
+h)  Shall support email linkage 
+  
+  
+i)  After configuring a recording schedule, video files of events can be searched and played 
+  
+  
+ Alarms: NVR and Network Camera events shall also be able to be added directly as alarms by using 
+the Alarm Configuration tab 
+  
+  
+  
+ Add ANPR events from the VSM 
+  
+  
+i. License Plate Matched Event 
+  
+  
+ii. License Plate Mismatched Event 
+  
+  
+
+
+--- Page 81 ---
+ 
+Page 81 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Alarm Priority shall be configured to one of three levels by default: 
+  
+  
+  
+High 
+Medium 
+ Low 
+  
+  
+o  Shall have the ability to set alarm recipients from users accounts set up in the VSM 
+  
+  
+o  Shall have the ability to associate up to 16 cameras recording with alarm events 
+  
+  
+ o  Shall have the ability to associate a map with an alarm 
+  
+  
+o   Shall have the ability to trigger a pop-up window with an alarm event 
+  
+  
+o  Shall have the ability to lock associated alarm event video footage, so it is not auto erased based on 
+the camera schedule 
+  
+  
+Shall support importing newly-added alarms of Remote Sites, and alarm linkage of popup 
+window, audible warnings, alarms outputs, e-map linkage, Smart Walls, and email 
+linkage 
+  
+  
+Alarm source, trigger events, and alarm priority can also be displayed 
+  
+  
+Shall support site offline alarm for Remote Sites 
+  
+  
+Shall support alarm linkage of Smart Walls;, Smart Walls and screens can be selected 
+  
+  
+Shall support displaying alarms in alphabetical order 
+  
+  
+8. Map: Shall have the ability to create graphical maps and add cameras, alarm inputs and alarm 
+outputs 
+  
+  
+  
+1. Create map by importing images in JPEG, BMP, or PNG format 
+  
+  
+2. Shall have the ability to add “hot region” icon to be able to skip to different layers of maps 
+  
+  
+3. Shall have the ability to add icons representing - 
+  
+  
+a. Camera 
+b. Alarm Input 
+c. Alarm Output 
+  
+  
+Shall have the ability to import image files to create custom map icons 
+  
+  
+Shall support switching to E-map of Remote Site by clicking the Remote Site icon 
+  
+  
+9.Roles and Users : 
+  
+  
+  
+1. Shall have the ability to create user profile groups defined as Roles 
+  
+  
+  
+2. Role shall be able to restrict user profile access for administration functions 
+  
+  
+Resource: Each “Role” can sub-divide the system and shall allow or deny access to the following 
+features on a per-camera basis : 
+  
+  
+  
+1) Live view 
+  
+  
+2) Playback 
+  
+  
+3) Capture and Print Pictures 
+  
+  
+4) Video Search 
+  
+  
+5) Download 
+  
+  
+6) Activate Manual Recording 
+  
+  
+7) Two-Way Audio 
+  
+  
+  
+Tag Video 
+     o Add 
+     o Edit 
+     o Delete 
+     o View 
+  
+  
+
+
+--- Page 82 ---
+ 
+Page 82 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+  
+Lock video so it can’t be overwritten by a schedule 
+o Add 
+o Edit 
+o Delete 
+o View 
+  
+  
+  
+PTZ Control 
+  
+  
+Show Health Status 
+  
+  
+Alarm Output Control 
+  
+  
+  
+Device (NVR, Network Camera) 
+o Access device parameters/settings 
+o Broadcast 
+o Log search 
+o Health Status 
+  
+  
+  
+Show Server health status 
+  
+  
+ Search log by user accounts 
+  
+  
+Shall Control Smart Wall decoders 
+  
+  
+Shall manage the permission of checking, adding, deleting, editing of each module on the Control 
+Client  
+  
+  
+Shall hide modules on the Control Client 
+  
+  
+  
+Alarm Center - 
+  
+  
+i. View 
+  
+  
+ii. Arm and Disarm 
+  
+  
+iii. Delete Alarm 
+  
+  
+iv. Acknowledge 
+  
+  
+v. Trigger Pop-up Window 
+  
+  
+vi. Search Alarm 
+  
+  
+10.Users: shall be able to be added manually 
+  
+  
+  
+a. Create user name 
+  
+  
+b. Default password on for initial login and then user must create a unique password 
+  
+  
+c. Set expiry date of user profile 
+  
+  
+d. Select user status 
+  
+  
+e. PTZ control permission level 
+  
+  
+f. Assign roles to the user 
+  
+  
+g. View role list and detailed information 
+  
+  
+h. Add domain user group 
+  
+  
+i.  PTZ control permission: notify the user with lower PTZ permission that PTZ control has been 
+appropriated by another user with higher permissions 
+  
+  
+11.Security for Users :  
+  
+  
+  
+Lock IP Address - 
+  
+  
+Failed password attempts : 
+  
+  
+Configurable: 1 to 5 attempts 
+  
+  
+Lock for: 10, 20, 30, 40, 50, or 60 minutes 
+  
+  
+Shall enable Maximum Password Age 
+  
+  
+Auto Lock Control Client 
+  
+  
+12.System and Maintenance : 
+  
+  
+  
+1. Shall create a name for the current site 
+  
+  
+2. Shall set a static IP address for the WAN access 
+  
+  
+
+
+--- Page 83 ---
+ 
+Page 83 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+3. The NTP settings shall be able to be set for syncing the time between the VSM and the NTP 
+server 
+  
+  
+4. Shall enable GIS map function and configure the map API URL 
+  
+  
+5. If you have the AD (Active Directory) domain controller which contains the information 
+(e.g.,user data, computer information), you shall be able to configure the settings to get the 
+related information. In this way, you can add the users that belong to an organization unit 
+(e.g., a department of your company) 
+  
+  
+6. The system shall be able to receive the configured generic events 
+  
+  
+7. Shall set transfer protocol as HTTP or HTTPS 
+  
+  
+8. Shall have system hot spare settings 
+  
+  
+9. Shall reset network information of added devices 
+  
+  
+10. Shall set database backup and restore. 
+  
+  
+13.Control Client : 
+  
+  
+  
+The Control Client should be Windows-based software for security operators to access NVRs, 
+Hybrid SANs, and network cameras using authorized client login credentials and view through 
+the VSM. It shall provide multiple operating functionalities, including real-time live view, PTZ 
+control, video playback and download/exporting, alarm management, VCA search, log query, and 
+health monitoring module. 
+  
+  
+Shall have the ability to support login to the Control Client through HTTP or HTTPS 
+  
+  
+ Shall have the ability to turn off and on VCA video overlay for both live and recorded video 
+  
+  
+ Shall have the ability to display the online/ offline status of Remote Sites in Central System 
+  
+  
+14.Shall have the ability to view 3 auxiliary screens on 1 Control Client and shall have the following 
+modules and functions: 
+  
+  
+1)  Live View  : 
+  
+  
+  
+a. Ability to view up to 256 channels 
+  
+  
+b. Ability to auto switch to sub stream of Network Camera, if more than 4 camera tiles are called 
+up 
+  
+  
+c. Ability to display license plate number when viewing ANPR camera after the ANPR function is 
+activated in license 
+  
+  
+d. The following functions are available on the tile toolbar for easy access to operator: 
+  
+  
+i. Capture: ability to save snapshots 
+  
+  
+ii. Print camera image 
+  
+  
+iii. Enable manual recording of displayed Network Camera 
+  
+  
+iv. Enable and utilize two-way audio 
+  
+  
+v. Digital zoom 
+  
+  
+vi. 3D positioning for PTZ camera 
+  
+  
+vii. Activate on-screen PTZ controls 
+  
+  
+viii. Show camera statistics 
+  
+  
+ix. Switch to sub or main stream of camera 
+  
+  
+x. Fisheye expansion 
+  
+  
+
+
+--- Page 84 ---
+ 
+Page 84 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+2)  Playback : 
+  
+  
+a. Ability to play back 1 to 16 cameras simultaneously 
+  
+  
+b. When playing multiple cameras simultaneously, have ability to view in non-synchronized and 
+synchronized mode 
+  
+  
+c. Ability to export one or multiple cameras displayed simultaneously: 
+     i. Set export location 
+    ii. Set whether to download VSPlayer for viewing MP4 files 
+    iii. Export only in MP4 format 
+  
+  
+d. The following functions are available on the camera playback tile toolbar for easy access 
+to operator: 
+  
+  
+  
+i. Capture: ability to save JPEG snapshots 
+  
+  
+ii. Print camera image 
+  
+  
+iii. Clipping: ability to quickly export video clips 
+  
+  
+iv. Add tag to video 
+  
+  
+v. Digital zoom 
+  
+  
+vi. Lock video: to prevent video segments from being over written by schedule 
+  
+  
+vii. Video export 
+  
+  
+viii. Show camera statistics 
+  
+  
+ix. VCA search 
+  
+  
+x. Fisheye expansion 
+  
+  
+e.    Supports channel decoding on the Smart Wall 
+  
+  
+f.   Displays resolution ratio, encoding format, and frame rate of cameras 
+  
+  
+g.   Plays back channels of Remote Sites 
+  
+  
+h. Supports dual-stream playback 
+  
+  
+i. Supports transcoding playback 
+  
+  
+j. Supports AVI format for video file download 
+  
+  
+k. Supports encryption for downloading in MP4 format 
+  
+  
+l. Supports clicking and playing directly after downloading with player in MP4 format 
+  
+  
+m. Supports privacy mask after downloaded and played with VSPlayer 
+  
+  
+n. Supports customizing download time 
+  
+  
+3)  Video Search : 
+  
+  
+  
+a. Ability to search for specific types of indexed video: 
+  
+  
+i. Tag: Video that has been auto tagged or manually tagged at a certain timestamp 
+  
+  
+ii. Lock: Search only video that has been “locked” to not be overwritten by schedule 
+  
+  
+iii. Segment: Ability to search for up to 7 days of video averagely divided into segments from 1 to 
+100 
+  
+  
+iv. Interval: Ability to search for up to 7 days of video divided by intervals from 1 to 60 minutes or 
+seconds  
+  
+  
+v. Transaction Event 
+  
+  
+vi. Supports thumbnails (only searching video files stored in Hybrid SANs supports this 
+function) 
+  
+  
+  
+VCA Search 
+  
+  
+  
+ Support Motion Detection 
+  
+  
+Support Line Crossing Detection 
+  
+  
+ Support Intrusion Detection 
+  
+  
+4) Map : 
+  
+  
+
+
+--- Page 85 ---
+ 
+Page 85 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+  
+View maps created in the Web Client 
+  
+  
+i. Ability to click on camera icons for live view of the camera 
+  
+  
+ii. Ability to click camera and alarm input icons to set Arming Control 
+  
+  
+iii. Ability to click camera and alarm input icons to show the history alarm 
+  
+  
+iv. Dynamic icons that flash based on alarm status 
+  
+  
+v. Ability to click on alarm output icons to turn on alarm output 
+  
+  
+5)  Health Monitoring : 
+  
+  
+a. Ability to monitor all encoding devices, decoding devices, recording servers, Remote Sites, and 
+Streaming Servers associated with VSM and the overall status of VSM itself. 
+  
+  
+b. Overview: Provide status of the following devices and the ability to click on items for a detailed 
+report: 
+  
+  
+  
+i. Camera Offline 
+  
+  
+ii. Signal Exception 
+  
+  
+iii. Getting Signal Failed 
+  
+  
+iv. Recording Exception 
+  
+  
+v. Getting Recording Failed 
+  
+  
+vi. No Recording Schedule 
+  
+  
+vii. Video Surveillance Management Service 
+  
+  
+viii. Recording Server Status 
+  
+  
+ix. Streaming Server Status 
+  
+  
+c. Display host server and spare server when hot spare function is enabled 
+  
+  
+d. Switch to physical view of the encoding devices 
+  
+  
+e. Switch to logical view of cameras 
+  
+  
+f. Get the encoding devices real-time status immediately via refreshing encoding devices 
+  
+  
+g. Display channels of Remote Sites 
+  
+  
+h. Restore the device accessing mode to Automatically Judge mode 
+  
+  
+6)  Log: search and view logs for the following :  
+  
+  
+  
+a. Server Logs - 
+  
+  
+i. Operation Log,  Server Logs -Operation Log 
+  
+  
+ii. System Log, Server Logs - System Log 
+  
+  
+  
+b. Smart Wall Logs 
+  
+  
+c. Device log 
+  
+  
+d. Log searches are based on operation, user, and time interval searches of: 
+  
+  
+i. Today 
+ii. Last 6 hours 
+iii. Yesterday 
+iv. Last 7 days 
+v. Custom time interval 
+  
+  
+ 
+Life time License free , OEM warranty support with free upgradation  
+ 
+ 
+ 
+Compliance in OEM letterhead  
+ 
+ 
+ 
+Featur
+e 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+ 
+BOQ NO – 36 
+Workstation 
+  
+ 
+CPU 
+i9-12900H or better  
+  
+  
+ 
+RAM 
+32GB (1x32GB) 
+  
+  
+ 
+1 TB PCIe NVMe 
+  
+  
+ 
+
+
+--- Page 86 ---
+ 
+Page 86 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Win 11 Pro DG Win10 Pro HIE   720pHD+IR (Genuine licensed) 
+  
+  
+ 
+42” FHD; professional 24 x 7 working monitor  
+  
+  
+ 
+ Wi-Fi 6E + BT  , Wireless USB keyboard and USB optical mouse , minimum 4 USB ports, necessary 
+PCIe slots in the motherboard, suitable VGA/ HDMI/ DP outputs; NIC with  1Gbps ports 
+  
+  
+ 
+Graphics Card : NVIDIA RTX A1000 4G 
+  
+  
+ 
+ 3/3/3+1yrADP 
+  
+  
+ 
+VMS software loaded with all applicable licenses 
+  
+  
+ 
+Antivirus Software compatible with Windows along with update subscription valid till warranty and 
+AMC period  
+  
+  
+ 
+Genuine licensed MS Office 2019 or latest Professional/ Business version 
+  
+  
+ 
+Warranty declaration in OEM letterhead mentioning the product Model No. 
+  
+  
+ 
+Compliance in OEM letterhead  
+  
+  
+ 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 37 USB Based Joystick 
+  
+  
+3D PTZ control and 2 joystick control buttons; 
+  
+  
+10 or above programmable buttons; 
+  
+  
+Support indicators to show the operation status of keyboard; 
+  
+  
+Compatible with a various kinds of client software and platform software; 
+  
+  
+Compatible System :Window XP/7/8/8.1 or above 
+  
+  
+Interface Type : USB 2.0, DirectX 
+  
+  
+Joystick Control : 3-axis control, rotating zoom 
+  
+  
+Operating Temperature & Humidity : -10°C ~ 55°C (14°F ~ 131°F); 10%~90% (Non-
+condensing) 
+  
+  
+Power Supply : 5V DC via USB 
+  
+  
+Consumption : ≤ 5W 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 87 ---
+ 
+Page 87 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 38 – Control Room & Accesorries 
+Wooden 
+Flooring 
+The control room floor shall be Laminated interlocking Wooden  Flooring: 
+with a thickness of 8mm (minimum) ; The core of the laminated flooring 
+shall be made of high-density fiberboard or plywood, with a decorative 
+layer on top that mimics the look of real wood. This decorative layer is 
+protected by a transparent wear layer that provides durability and 
+resistance to scratches and stains; it shall be wear resistance. Area approx. 
+50 SQM. 
+  
+  
+false celling 
+The false celling shall be:  Material – calciumsilicare wih grid ststem   Tiles; 
+Thickness - 8 mm ; size - 595 x 595 mm. Area approx. 50 SQM. 
+  
+  
+Wall Painting 
+All walls of the Control room should be painted with Plastic emulsion Paint 
+of approved brand with minimum two coat. 
+  
+  
+Furniture 
+Two nos  computer table 6ft x 3 ft size with 3 nos. of Operator Chair shall 
+be installed at suitable place in the control room so that cctv operator will 
+control the system easily. 
+  
+  
+Air Conditioner 
+SITC of Two numbers of 4 TR  precission air conditioner with suitable 
+cooling and humidity control will be installed such way  that it will work 
+simultenously on/off automatically with all accessories including 
+ducting/pipeing, electrical cabling/wiring as required for the smooth 
+functioning of the ACs. 
+  
+  
+Electrical 
+Control Panel 
+SITC of Electrical Control Panel (Indoor) with Incommer MCCB of 125 Amp-
+01 no., Outgoing MCCB- 32 Amp-04 nos with digital Voltmeter and 
+ammeter and indication lamp, CT &PT &  suitable alluminium busbar and 
+all connections as per requirement.  
+  
+  
+Retrofit work 
+and MCCB 
+Retrofit work for fixing of 125Amp MCCB in existing Emergency Pannel at 
+nearest electrical room and SITC of 125 Amp MCCB (Make – L&T ) . 
+ 
+ 
+Power Cable 
+Supply & Laynig of 95 sqmm 3.5 core FRLSH arrmoured cable with suitable 
+cable try from nearest Electrical room to the control room panel and end 
+to end  cable termination. Length of the cable appox 100 Meter. 
+  
+  
+DB & Electrical 
+wiring 
+Supply & fixing of suitable size TPN DB with busbar arrangement and 
+wiring for Power points, light points and fan points with suitable size 
+FRLSH cable and proper Conduit. 
+  
+  
+Light & Fan 
+Supply and fixing of 2ft X2ft 36 watt LED recess mount fixture-10 nos & 
+BLDC ceiling fan-04 nos 
+  
+  
+
+
+--- Page 88 ---
+ 
+Page 88 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 39 – Battery 
+Battery Cell 
+Composition 
+Sealed Lead Acid 
+  
+  
+Net Quantity 
+1 count 
+  
+  
+Nominal Voltage 
+12 Volts DC 
+  
+  
+Reusability 
+Rechargeable 
+  
+  
+Battery Type 
+SMF 
+  
+  
+Battery Weight 
+(approx.) 
+13 Kilograms 
+  
+  
+Item Dimensions 
+LxWxH 
+16.5 x 12.5 x 17.5 Centimeters 
+  
+  
+Battery Capacity 
+42 Amp Hours 
+  
+  
+Application of 
+uses 
+Online UPS , Telecom etc 
+  
+  
+Lead Acid Storage 
+Type 
+C20 Rating 
+  
+  
+Warranty 
+3 years 
+  
+  
+Warranty declaration in OEM letterhead mentioning the product Model No.  
+  
+  
+Compliance in OEM letterhead 
+  
+  
+ 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+  
+Remarks 
+(if any) 
+  
+BOQ NO – 40 : 55” TV  
+Display 
+  
+  
+  
+Size 
+55 inch 
+  
+  
+Resolution 
+3840 X 2160 (UHD) 
+  
+  
+Backlight Unit Type 
+Direct 
+  
+  
+Brightness 
+400 
+  
+  
+Dynamic Contrast 
+Ratio 
+(Dynamic MCI (Hz)) 
+1,000,000:1 
+  
+  
+Static (Panel) 
+Contrast Ratio 
+1300:1 
+  
+  
+Refresh Rate 
+60Hz 
+  
+  
+Video 
+  
+  
+  
+HDR (10 Pro / HLG) 
+Yes / Yes 
+  
+  
+Audio 
+  
+  
+  
+Speaker (sound 
+output) 
+10W + 10W 
+  
+  
+Broadcasting 
+System 
+  
+  
+  
+Digital (Terrestrial, 
+Cable, 
+Satellite) 
+DVB-T2/C 
+  
+  
+Hospitality Feature 
+Hotel Mode / PDM / Installer Menu,0ne Channel Map,IP 
+Channel Manager; External Speaker 0ut (Int Variable/Fixed, 3.5mm, Stereo, 
+Single ended Type(GND,L+,R+), 2W+2W with 80) 
+  
+  
+Smart Feature 
+web0S version (web0S 6.0), Smart Home (Launcher 
+Bar), Web Browser Pre-loaded App (YouTube only, ), SDP Server compatibility, 
+Mood Display, Soft AP, Wi-Fi (Version) (802. 11ac), Screen Share (Miracast), 
+  
+  
+
+
+--- Page 89 ---
+ 
+Page 89 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Smart Share, Bluetooth Audio Playback, HDMI-ARC (ARC, HDMI2) 
+Signage Feature 
+Vertical Setup, Fail 0ver, Play Via URL, NTP Server Setting, CISC0 Certi. 
+Compatibility ,Crestron Connected (Network Based Control), DPM (Digital 
+Power management), Time scheduler, RTC (Real Time Clock), NTP sync timer, 
+BEAC0N, Embedded CM (contents manager), Embedded GM (Group manager) 
+  
+  
+SUPERSIGN SW 
+C0MPABILITY 
+Control / Control Plus, CMS(Premium), Simple Editor. 
+  
+  
+Input Interface 
+  
+  
+  
+Set Side 
+HDMI In (3 (2.0)), Headphone 0ut (Phone Jack Type), RS-232C(D-Sub 9pin / 
+Phone jack) (Phone Jack, 4pi) 
+  
+  
+Jack Interface 
+  
+  
+  
+Set Rear 
+USB (2.0), RF In, Digital Audio 0ut (0ptical), External 
+Speaker 0ut(3.5mm phone jack), RJ45 (Usage Purpose) (LAN) 
+  
+  
+DIMENSI0N (UNIT: 
+mm/kg) - or better 
+  
+  
+  
+VESA Compatible 
+300x300 
+  
+  
+Weight without 
+Stand 
+14 
+  
+  
+Weight with Stand 
+14.2 
+  
+  
+Weight in Shipping 
+19 
+  
+  
+Size without Stand 
+1235x715x57.5 
+  
+  
+Size with Stand 
+1235x772x232 
+  
+  
+Size in Shipping 
+1360x810x162 
+  
+  
+Bezel Width 
+(L/R/U/B): 0n 
+Bezel 
+12.8/12.8/12.8/19.9 
+  
+  
+Power : 
+  
+  
+  
+Power Supply 
+(Voltage, Hz) 
+AC 120 V-, 50 / 60 Hz 
+  
+  
+Power 
+Consumption(Max) 
+166.3 
+  
+  
+Power 
+Consumption(Type) 
+140.1 
+  
+  
+Mechanic 
+  
+  
+  
+Standby Power 
+Consumption 
+Under 0.5W 
+  
+  
+Required Listing 
+(Certification) : 
+  
+  
+  
+Safety 
+CB, CU TR 
+  
+  
+EMC 
+CE 
+  
+  
+Accessory : 
+  
+  
+  
+Remote type 
+S-con 
+  
+  
+Power Cable 
+Detached (1.5m, Straight Type) 
+  
+  
+Warranty 
+  
+  
+  
+Onsite 
+3 years 
+  
+  
+Warranty declaration in OEM letterhead mentioning the product Model No. OEM submit mandatory 
+Manufacturer Authorization Certificates 
+  
+  
+Compliance in OEM letterhead 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+
+
+--- Page 90 ---
+ 
+Page 90 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+BOQ NO – 42 : NVR : 16 channel  
+Up to 16-ch IP camera inputs 
+  
+  
+H.265+/H.265/H.264+/H.264 video formats 
+  
+  
+Up to 2-ch@12 MP or 3-ch@8 MP or 6-ch@4 MP or 12-ch@1080p decoding capacity 
+  
+  
+Up to 160 Mbps incoming bandwidth 
+  
+  
+All channels support intelligent learning based Motion Detection 
+  
+  
+Smart search for the selected area in the video, and smart playback to improve the playback 
+efficiency 
+  
+  
+Adopt stream over TLS encryption technology which provides more secure stream 
+transmission service 
+  
+  
+Provide independent HDMI and VGA outputs 
+  
+  
+ HDMI video output at up to 4K resolution 
+  
+  
+16-ch synchronous playback 
+  
+  
+1 self-adaptive 10/100/1000 Mbps Ethernet interface 
+  
+  
+TCP/IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, SNMP, NFS, iSCSI, SISTP, HTTP, HTTPS 
+  
+  
+BIS certifications Model wise, series wise details should be available on the BIS website. 
+  
+  
+OEM should be a Full member of ONVIF. For verification purposes, all the relevant details 
+should be available on the ONVIF website. The OEM should give a declaration about its full 
+membership. 
+  
+  
+MAC address of the cameras must be registered in the name of OEM.  
+  
+  
+Above compliance sheet shall be complied by OEM authorized person in OEM letterhead 
+along with datasheets. Warranty declaration in OEM letterhead mentioning the Product 
+Model No. At the time of delivery must submit Warranty and Test certificate mentioning the 
+Serial No. of respective products in OEM letterhead. 
+  
+  
+Above compliance sheet should be complied by OEM authorized person in OEM letter head 
+along with datasheets. Warranty declaration in OEM letterhead mentioning the product 
+Model No. At the time of delivery must submit Warranty and Test certificate mentioning the 
+Serial No. of respective products in OEM letterhead. 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 43  :  Hard disk 4TB surveillance HDD  
+Capacity 
+4TB 
+  
+  
+Form Factor 
+3.5-Inch 
+  
+  
+Connector 
+SATA 
+  
+  
+Transfer Rate 
+up to 180MB/s 
+  
+  
+Recording 
+Technology 
+CMR 
+  
+  
+Cache Size 
+256MB 
+  
+  
+Weight 
+450gms 
+  
+  
+Operating 
+Temperature 
+0°C to 65°C 
+  
+  
+Non-Operating 
+Temperature 
+-40°C to 70°C 
+  
+  
+Certifications 
+BSMI, ICES-003/NMB-003, CE, FCC, KC, Maghreb, RCM, UKCA, VCCI, CB-
+Scheme, TUV, UL 
+  
+  
+Above compliance sheet should be complied by OEM authorized person in OEM letter head 
+along with datasheets. Warranty declaration in OEM letterhead mentioning the product 
+ 
+ 
+
+
+--- Page 91 ---
+ 
+Page 91 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+Model No. At the time of delivery must submit Warranty and Test certificate mentioning the 
+Serial No. of respective products in OEM letterhead. 
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 44 :  32"  smart TV  
+Display 
+  
+  
+  
+Size 
+32 inch 
+  
+  
+Resolution 
+1366 X 768 
+  
+  
+Refresh Rate 
+60Hz 
+  
+  
+Video 
+  
+  
+  
+HDR (10 Pro / HLG) 
+Yes / Yes 
+  
+  
+Audio 
+  
+  
+  
+Speaker (sound output) 
+5W + 5W 
+  
+  
+Smart Feature 
+web0S ,  Web Browser Pre-loaded App, SDP Server 
+compatibility, Mood Display, Soft AP, WiFi (Version) (802. 11ac), 
+Screen Share (Miracast), Smart Share, Bluetooth Audio 
+Playback, HDMI-ARC (ARC, HDMI2) 
+  
+  
+Input Interface 
+  
+  
+  
+Set Side 
+HDMI In (2.0) 
+  
+  
+Jack Interface 
+  
+  
+  
+Set Rear 
+USB (2.0), RF In, Digital Audio 0ut (0ptical), External 
+Speaker 0ut(3.5mm phone jack), RJ45 (Usage Purpose) (LAN) 
+  
+  
+Power : 
+  
+  
+  
+Power Supply (Voltage, 
+Hz) 
+AC 120 V-, 50 / 60 Hz 
+  
+  
+Standby Power 
+Consumption 
+Under 0.5W 
+  
+  
+Required Listing 
+(Certification) : 
+  
+  
+  
+Safety 
+CB, CU TR 
+  
+  
+EMC 
+CE 
+  
+  
+Accessory : 
+  
+  
+  
+Power Cable 
+Detached (1.5m, Straight Type) 
+  
+  
+Warranty 
+  
+  
+  
+Onsite 
+3 years 
+  
+  
+Warranty declaration in OEM letterhead mentioning the Product Model No.  
+  
+  
+Compliance in OEM letterhead 
+  
+  
+ 
+Feature 
+Specification 
+Compliance 
+ (Yes/No) 
+Remarks 
+(if any) 
+BOQ NO – 45 : wireless mouse & keyboard 
+Wireless Combo brings together cordless freedom with the comfort of a full-sized keyboard 
+and sculpted, compact ambidextrous mouse.  
+  
+  
+Full-size keyboard with number pad and arrow keys 
+  
+  
+The keyboard includes eight media controls 
+  
+  
+Spill resistant 
+  
+  
+
+
+--- Page 92 ---
+ 
+Page 92 
+ 
+Executive Engineer (Elect.)                                 AIIMS/BBSR/ENGG/ELECT/24/2023          (Signature of the Bidder with Seal) 
+ 
+2 adjustable height options 
+  
+  
+Compact ambidextrous mouse 
+  
+  
+1 programmable button Left, right and middle  click mouse buttons 
+  
+  
+Smooth 1000 DPI optical tracking sensor 
+  
+  
+Line-by-line scrolling 
+  
+  
+Logitech Advanced 2.4 GHz wireless provides cordless freedom up to 10 meters (33 feet) 
+  
+  
+On/Off switches 
+  
+  
+Compatibility: Windows® 7, 8, 10 or later Chrome OS™  
+  
+  
+Service Life : 5 million clicks 
+  
+  
+3-year hardware warranty 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

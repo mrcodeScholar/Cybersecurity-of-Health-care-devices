@@ -1,0 +1,81 @@
+--- Page 44 ---
+ 
+ 
+SECTION –XIII 
+ 
+ALL INDIA INSTITUTE OF MEDICAL SCIENCES 
+ANSARI NAGAR: NEW DELHI: 110 029 
+F. No. 21-06/LM/AKM/2015-16 
+ 
+Name of the Item: Three part Hematology Cell counter 
+1. Should be fully Automated three part Haematology Analyzer providing at least 16 
+parameters including a 3 part differential. 
+2. The system should give a % count for Lymphocyte and granulocytes. 
+3. Throughput: System should be capable of processing samples at least 60 
+samples/hour. 
+4. The system should be based upon direct current detection method with coincidence 
+correction or electrical impedance based or lysis based for differentiation of three part 
+differential, RBC count and platelet counts  
+5. System should have auto cleaning mechanism for sample probe to avoid 
+contamination.  
+6. The system should use non cyanide based reagents for Hb estimation with automatic 
+blanking.  
+7. Must have floating threshold to separate overlapping of platelet & RBCs. 
+8. System should have possibility to perform automatic and manual mode of calibration. 
+9. Minimum sample volume required for analysis should be 10ul – 50ul 
+10. Should give various useful pathological flags for abnormal results 
+11. Precision must be as WBC< 2.5% , RBC< 2 % , PLT < 5 % 
+12. System should have bidirectional interfacing option available With LIS & HIS 
+compatibility. Should have built in port to attach hand held bar code scanner 
+13. System should be user friendly with colour touch screen or keypad operation and 
+should have option for inbuilt/ external printer as well as data inter facing.  
+14. System should be US FDA / CE certified. The manufacturing certificate of the model 
+should   be provided. 
+15. The Firm  must have  their own manufactured  quality controls and calibrators 
+16. Online UPS with 60 min back up should be supplied with the instrument. .  
+
+
+--- Page 45 ---
+17. System should have inbuilt memory to save minimum 1000 results with histogram 
+and should have option to store data in external USB drive 
+18. The system should be equipped with shortest fluidics in order to minimize 
+maintenance  
+19. Linearity : 
+i. 
+WBC:  0.0 to 100000/ ul 
+ii. 
+RBC:   0 to 7million/ul 
+iii. 
+Hb   :   0 to 26 g% 
+iv. 
+Hct  :     05 to 60 % 
+v. 
+Platelet: 10000-1000000/ul 
+20. Reagent Consumption: The firm should mention each reagent consumption in ml as 
+i. 
+Start Up cycle consumption (For each regent used Such as Diluent, Lyse, 
+Cleaner etc.) 
+ii. 
+Shut-Down cycle consumption (For each regent used Such as Diluent, Lyse, 
+Cleaner etc.) 
+iii. 
+Per sample cycle (For each regent used Such as Diluent, Lyse, Cleaner etc.) 
+21. Warranty for 5 years & CMC price for next 5 years, which should include cost of 
+labour spares, entire equipment.  
+22. The Firm should provide price for all the reagents and consumables required for next 
+5 years. 
+23. Overall reagent consumption will be taken into consideration while technical 
+evaluation of instrument 
+24. Tender evaluation would be done taking into account the cost of the equipment, cost 
+of calibrators and controls (control frequency 3 level control/ day) and cost of 
+reagents for minimum 20000 tests per annum.  
+ 
+                Specifications are broad based and generalised and does not suit any particular 
+firm. 
+ 
+ 
+ 
+ 
+ 
+
+

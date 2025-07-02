@@ -1,0 +1,130 @@
+--- Page 10 ---
+Tender for Diagnostic Oto Acoustic Emission                                                            Admn/Tender/25-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Diagnostic 
+Oto 
+Acoustic 
+Emission  
+1. DPOAE Specifications 
+ The Stimulus Frequency range should be 500-10000 Hz. 
+ The Frequency step should be 1 Hz.  
+ SPL between 0-75 dB (Dependent on frequency) with Level step of 
+1 dB. 
+ Recording should have  Acquisition time of 204.27ms 
+ A/D resolution should be16 bit. 
+ It should have Pre-programmed and User Defined Protocols  
+ It should have Multiple Normative Data Sets. 
+ It should have Click and/or Chirp calibration features and separate 
+screener 
+2. TEOAE and SOAE specifications 
+ It should have Stimulus of Click . 
+ It should have SPL of 40-90 dB. 
+ It should have Frequency Bandwidth of 450-5000 Hz. 
+ TEOAE: Correlation and SNR (per band, and\or overall) SOAE: 
+Asynchronous and Synchronous (levels btw 40 and 60 dB SPL) 
+measurements. 
+ It should have Pre-programmed and User Defined Protocols. 
+ 
+INSTRUMENT SPECIFICATIONS 
+It should have Power Supply with Lithium-Ion rechargeable 
+It should have a User Interface of OLED/AMOLED/LCD/TFT display with 4-
+button keypad or Touch Screen 
+It should have extra three hand held screeners with rechargeable battery 
+It should be able to perform all types of tests relevant with the otoacoustic 
+emissions test battery. 
+POWER SUPPLY SPECIFICATIONS 
+It should have Output of 5 to 9 V DC 
+It should have Input of 100 V-240 V AC, 50 Hz-60 Hz, 400 mA 
+ 
+PRINTER SPECIFICATIONS 
+The Printer type for the screener component should be Thermal dot matrix. 
+The Speed should be 50 to 80 mm/ second. 
+The Operating Noise should be < 50 dBSPL. 
+The Power Supply should be 7.4 V, lithium battery or mains 100 V to 240 V 
+50/60 Hz. 
+There should be Bluetooth Data Transfer facility. 
+The Printer type for the diagnostic component should be Colour Laser Printer 
+with WiFi connectivity 
+ 
+MICRO-PROBE SPECIFICATIONS 
+Measurement Types should be Distortion Product Otoacoustic Emissions 
+(DPOAE) and Transient Evoked Otoacoustic Emissions (TEOAE). 
+The Frequency Range should be 1.5 kHz to 12.0 kHz for DPOAE and 0.7 
+kHz to 4.0 kHz for TEOAE. 
+The Stimulus Intensity Range should be 40 dB SPL to 70 dBSPL for DPOAE 
+and 83 dB SPL peak equivalents (±3 dB) for TEOAE. 
+The Microphone System Noise should be -20 dBSPL at 2 kHz (1 Hz 
+bandwidth)/ -13 dBSPL at 1 kHz (1 Hz bandwidth). 
+01 
+
+
+--- Page 11 ---
+Tender for Diagnostic Oto Acoustic Emission                                                            Admn/Tender/25-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-II 
+The Cable Length should be 1m and weight should be 28g. 
+GENERAL 
+PC-interface: USB or Bluetooth 
+Accessories: Device with rechargeable Battery, Ear Tip Set (>100 pc.), 
+Replacement Probe Tubes (>10), Carrying Bag, PC Software incl. Database, 
+Power Supply  
+The equipment should have a data storage facility in the form of a laptop 
+computer with Intel Core 17 processor, 16 GB RAM, 1TB SSD Drive. 
+The data storage system must have the relevant software installed on an 
+operating system of Windows 10 or, above 
+ 
+OTHER REQUIREMENTS 
+ Rates of the spares/accessories/consumables which are not covered 
+under guarantee/warrantee should be- quoted individually and by the 
+company (item not mentioned in the list are assumed under 
+comprehensive warranty and company have to provide for proper 
+function of equipment) and should be freezed for five years from the 
+date of installation. Any spares/accessories/consumables not quoted 
+by the company will be presumed to be supplied free by the company. 
+ The instruments might be called for demonstration and approval. It 
+is the sole discretion of the committee to approve or disapprove the 
+quality. 
+ It should be European CE (with a four digit notifiable body) or 
+USFDA approved. 
+ All the equipment including all the accessories should be provided 
+with the detailed data sheet/ along with the original brochure of the 
+quoted model (Photocopies/Print outs are not accepted). 
+ An undertaking to be provided by the principal/manufacturer of the 
+system for availability of spares for 10 years for the date of 
+installation. 
+
+

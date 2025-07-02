@@ -1,0 +1,521 @@
+--- Page 50 ---
+Page 50 of 57 
+ 
+ANNEXURE- XV 
+Specification of Equipments mentioned in schedule of Requirements 
+ 
+Specifications for Tele- PICU Kiosk System 
+Service will be run on hub and spoke model, where ICU SPOKE at district hospitals or medical colleges need to be 
+monitored from hubs (Centre of excellence) and regular eRounds will be taken through dedicated tele-PICU system. 
+It involves operations at hub, spoke and individual doctor level. 
+A. Hardware for setting up tele monitoring facility at district levels 
+B. Dedicated equipment’s and software for monitoring of certain vital parameters and remote viewing of clinical 
+findings and  
+C. Dedicated network, server and cloud for smoothly running eRounds, record keeping and two way 
+communication. 
+Requirement for dedicated hardware solution for PICU E-rounds 
+For Spokes: 
+Central Processing Unit 
+Processor Speed 
+3
+.
+2
+ 
+GHz
+ 
++
+ 
+RAM Size 
+4
+ 
+GB
+ 
+-
+ 
+6
+ 
+GB
+ 
+Memory Technology 
+4
+DDR
+ 
+ 
+Computer Memory Type 
+4
+DDR
+ 
+SDRAM
+ 
+Hard Drive Size 
+1
+ 
+TB
+ 
+Hard Disk Description 
+HDD 
+Hard Drive Interface 
+Serial ATA 
+Hard Disk Rotational Speed 
+7200
+ 
+RPM or
+ 
+More 
+Graphics Card Description 
+Integrated or Additional 
+Graphics RAM Type 
+Shared 
+Graphics Card Interface 
+Integrated 
+Connectivity Type 
+Bluetooth
+ ,
+Wi
+-
+Fi
+ 
+Wireless Type 
+Bluetooth 
+Number of USB 2.0 Ports 
+2 
+Number of USB 3.0 Ports 
+2 
+Number of HDMI Ports 
+1 
+Operating System 
+Ubuntu 20.4 
+ 
+ 
+ 
+ 
+
+
+--- Page 51 ---
+Page 51 of 57 
+ 
+Monitor 
+Hardware Interface 
+VGA
+ ,
+HDMI
+ 
+Response Time 
+4
+ 
+Milliseconds or equivalent
+ 
+ 
+Resolution 
+FHD
+ 
+p or equivalent
+1080
+ 
+ 
+Display Technology 
+LED or equivalent
+ 
+ 
+Standing screen display size 
+5
+.
+21
+ 
+Inches or
+ 
+more 
+Viewing Angle 
+160
+ 
+-
+ 
+180
+ 
+Degrees or equivalent
+ 
+ 
+Image Aspect Ratio 
+9
+:
+16
+ 
+Image Brightness 
+190
+ 
+-
+ 
+250
+ 
+cd
+ 
+ /
+²
+m
+ 
+Max Vertical Resolution 
+1080
+ 
+Pixels
+ 
+Batteries Required 
+No 
+Refresh Rate 
+60
+ 
+-
+ 
+75
+ 
+Hz
+ 
+Mounting Type 
+Wall Mount 
+ 
+Patient Camera 
+Resolution 
+1080p or equivalent  
+Megapixels 
+2.1 - 2.5 
+CMOS 
+Yes 
+Lens 
+Ultra-Wide 95° Lens only 
+Rotation 
+360° Rotation free neck 
+ 
+Enlightened Document Plate with Camera 
+Cam Resolution 
+1
+.
+2
+ 
+-
+ 
+5
+.
+2
+  
+MP
+ 
+Video Capture Resolution 
+1080p 
+Connectivity Technology 
+USB 
+Image Capture Speed 
+Not specific 
+CMOS 
+Required 
+Plate Size 
+50+ cm X 40+ cm 
+Switch for light 
+Required 
+ 
+ 
+Pen Camera 
+Diameter 
+4.5mm - 6.0mm 
+Water resistant 
+IP67 
+Focal length 
+1.4 - 2 cm 
+LED 
+Should be present near the camera (min. 4) 
+
+
+--- Page 52 ---
+Page 52 of 57 
+ 
+ 
+Scope Camera 
+Light Source Type 
+LED
+ 
+(
+min
+ .
+4
+)
+ 
+Magnification Maximum 
+00
+.
+1000
+ 
+Optical Zoom 
+x
+100  
+Power Source 
+AC 
+Connector Type 
+USB only 
+Batteries Required 
+No 
+ 
+Multiparameter Monitor with ECG (Integrated) 
+Operating Temperature 
+5° to 30° C 
+Operating Humidity 
+15% - 80% 
+Input Voltage 
+5V 
+Leads for ECG 
+3 cable 
+Pulse Oxymeter 
+1 cable 
+Temperature 
+1 probe 
+Electrodes 
+60 pcs 
+ECG Operations 
+2 Lead, 12 Lead, Live ECG, HRV Analysis 
+ 
+Remote Stethoscope 
+Sensitivity 
+-47dB±4dB 
+Frequency response 
+100~16kHz 
+Power Source 
+Corded Electric 
+Batteries Required 
+No 
+Connector Type 
+USB 
+ 
+Operator Microphone 
+Sensitivity 
+-47dB±4dB 
+Frequency response 
+100~16kHz 
+Power Source 
+Corded Electric 
+Batteries Required 
+No 
+Connector Type 
+USB 
+ 
+Speaker 
+Connectivity 
+Wired 
+Input 
+10 W 
+ 
+
+
+--- Page 53 ---
+Page 53 of 57 
+ 
+Operator Trolley 
+Material 
+Mild Steel 
+Wheels 
+4 standard medical wheels 
+Power Source 
+Corded Electric 
+Includes 
+Keyboard, mouse, mount for every device, hangers, space for other 
+items, dedicated electrical compartment 
+Paint and colour 
+White powder coating (anti-rust) 
+ 
+Requirement for dedicated software solution for PICU E-rounds 
+For Spokes: 
+Operating System 
+Customizable operating system with open source license which can show the 
+integrated data from E-round devices (e.g. - Ubuntu)  
+UI mode 
+Desktop Launcher/Executable File 
+Application Type 
+Desktop Only 
+Front End technology 
+Any customizable technology (e.g. - PyQt,PySide) 
+Back End Technology 
+Any customizable technology (e.g. - PyQt,PySide,Python, Java) 
+Database 
+Graph generation on selective data technology (e.g. - sqlLite) 
+Server Type 
+Not specific but should be dedicated with good up-time 
+Server Name 
+Virtual Private servers 
+Mode of Communication REST API 
+Dependency 
+Internet 
+Comments 
+Usability of any other application apart from our dedicated software should 
+lead to malfunction of the entire system. This should be treated as a security 
+breach by the system itself and should be reported immediately to the nodal 
+center. 
+ 
+For Hubs: 
+Operating System 
+Customizable operating system with open source license which can be 
+integrated with E-round devices (e.g. - Ubuntu)  
+UI mode 
+Desktop Launcher/Executable File 
+Application Type 
+Desktop Application 
+Front End technology 
+Any customizable technology (e.g. - HTML, CSS, JS) 
+Back End Technology 
+Any customizable technology (e.g. - PHP) 
+Database 
+Graph generation on selective data technology  (e.g. - MySql, sqlLite) 
+Server Type 
+Web servers 
+Server Name 
+Web servers (e.g. - Apache) 
+Mode of Communication Client-server and vice-versa only 
+Dependency 
+Hi-Speed Internet 
+
+
+--- Page 54 ---
+Page 54 of 57 
+ 
+ 
+For Doctors: 
+Operating System 
+Customizable operating system with open source license (e.g. - Ubuntu) and 
+mobile application for ease of access with schedule calendar and going 
+offline/online facility.   
+UI mode 
+Desktop Launcher/Executable File/Mobile Application 
+Application Type 
+Desktop Application/Mobile Application 
+Front End technology 
+Any customizable technology (e.g. - HTML, CSS, JS) 
+Back End Technology 
+Any customizable technology (e.g. - PHP) 
+Database 
+Graph generation on selective data technology  (e.g. - MySql, sqlLite) 
+Server Type 
+Web servers 
+Server Name 
+Web servers (e.g. - Apache) 
+Mode of Communication Client-server and vice-versa only 
+Dependency 
+Hi-Speed Internet 
+Note - The whole system should be dedicated and it should be integrated with all the E round devices which are 
+shown in the hardware requirements attached with this software requirement sheet. The ECG device should be 
+enabled through comport data sharing structure. The oximetry device and the temperature device should be 
+integrated through the comport data sharing structure.  
+Additional features: 
+ 
+At Hub 
+At Spoke 
+For Doctors 
+Data analytical platform: 
+The hub should be aware of how 
+many cases have been treated 
+through the e-round facility. With a 
+detailed structure of gender, age, 
+weight, medical history, medicines, 
+Paediatric triangle, paediatric 
+pentagon and other important data 
+which can be modified as per 
+requirements. 
+Dedicated telemedicine  platform: 
+The spokes should have a dedicated 
+Telemedicine software which should 
+be integrated with all the devices 
+required in the hardware section and 
+should provide data in real-time 
+including admission and monitoring 
+forms for pediatric patients. 
+Dedicated telemedicine  mobile and 
+web application: 
+The doctor should be able to assess 
+the patient through the mobile 
+application for ease of application of 
+the e round facility, The doctor 
+should also have access to our web 
+application through which he/she 
+can assess the patient from a big 
+screen device like laptop or pc. 
+Google Chrome browser should be 
+treated as the primary browser. 
+ 
+Triaging and assessment tools 
+Triaging software/ 
+application for 
+children 
+Risk assessment on the basis of Pediatric triangle: 
+ 
+Level 1 (Resuscitation): 
+Patients requiring immediate intervention to maintain physiological stability and 
+continuous monitoring; e.g., severe respiratory distress, respiratory failure, shock or 
+cardiopulmonary failure/arrest, unconsciousness, seizures, major burns, significant 
+bleeding and severe trauma. 
+ 
+Level 2 (Emergent): Any physiologically unstable patient with moderate respiratory 
+distress, altered sensorium (GSS<13), severe dehydration, and fever. Patients requiring 
+comprehensive assessment and multiple interventions to prevent further deterioration, 
+e.g., sepsis, toxic ingestion/overdose, severe asthma, seizure (post-ictal), DKA, purpuric 
+
+
+--- Page 55 ---
+Page 55 of 57 
+ 
+rash, severe testicular pain, lacerations, dental injury with an avulsed permanent tooth, 
+violent patients and child abuse with ongoing risk.  
+Level 3 (Urgent): Patient who is alert, oriented, well hydrated, minor alterations in vital 
+signs, febrile child >3 months and mild respiratory distress.  
+ 
+Level 4 (Less Urgent): Patient who is alert, oriented, and may have a condition that 
+causes distress and may progress with development of complications, e.g., vomiting / 
+diarrhea without dehydration in a child >2 yrs., fever and simple complaints such as ear 
+pain, sore throat or nasal congestion, simple lacerations/ Sprains/ Strains, or head 
+trauma with no symptoms. 
+ 
+Level 5 (Non-Urgent): Patient who is febrile, alert, oriented, well hydrated, with normal 
+vital signs. Interventions required are usually not other than assessment/ discharge 
+instruction. These patients may be referred to outpatient department (OP) or 
+community healthcare system for management 
+ 
+Ability to classify patients into final Physiological Categorization: 
+● Stable 
+● Respiratory Distress 
+● Respiratory Failure 
+● Compensated Shock 
+● Hypotensive Shock 
+● Primary Brain / Systemic Dysfunction 
+● Cardiorespiratory Failure 
+● Cardiorespiratory Arrest 
+ALS based 
+assessment 
+software/ 
+application 
+Pediatric triangle with risk assessment based on: 
+Appearance 
+Work of breathing  
+Skin circulation  
+Primary Assessment (ABCDE; Assessment Pentagon) based on 
+1. Airway: 
+a. Open & Stable 
+b. Open but Unstable 
+c. Obstructed 
+2. Breathing 
+a. RR:......../min. 
+b. Efforts: Normal/Poor/Increased/Acidotic 
+c. Air Entry: Normal/Poor/Differential 
+d. Auscultation: None/Stridor/Wheeze/Crackles 
+e. Sp02 (room air): ……. SpO2 (40% Fi02).......EtCo2:...............mmHa 
+3. Circulation 
+a. HR:..../min. 
+b. CFT:  ....... 
+c. Central Pulse: Good/Poor 
+d. Peripheral Pulse: Good/Poor 
+e. Skin Temp.: Warm/Cool 
+f. BP:  ……… mmHg 
+4. Disability 
+a. GCS: 
+b. Pupil Size /Reaction: 
+c. Motor Activity:  
+d. Blood Sugar: mg/dL 
+5. Exposure 
+a. Temp: Celcius 
+b. Colour: Normal/ Pallor/ Cyanosis / Ashen Grey Skin 
+c. Surface Findings:  
+ 
+
+

@@ -1,0 +1,106 @@
+--- Page 15 ---
+Tender No.- AIIMS/BPL/HS/CARDIOLOGY /2024/PAC/017 
+ 
+Page 15 of 28 
+ 
+ 
+ANNEXURE-I 
+ 
+Tender for Procurement of “Optical Coherence Tomography (OCT) Machine” for  
+Department of 
+Cardiology under PAC mode at AIIMS Bhopal 
+ 
+Technical Specifications 
+ 
+Sl. No.            Technical Specifications for Optical Coherence Tomography (OCT) Machine 
+1. 
+The OCT machine should be fiber optic based and capable of acquiring and displaying high 
+resolution real time live optical images of the coronary artery using infra-red light. 
+2. 
+The system should be provided with a console that can display live and reference images. 
+3 
+System should be able to perform automate4d pullback. 
+4. 
+System should be able to pull back the catheter to a distance of at least 50 mm within 3 
+seconds. It should be able to acquire at least 180 frames per second with at least5 
+frames/mm. 
+5. 
+System should be provided with a Drive motor and optical controller (DOC) for integration 
+with the console. This should have bedside controls for imaging functions. 
+6. 
+It should be provided with a DOC holster that can be clamped to cath lab bed rail. 
+7. 
+The system should be also able to perform coronary physiology measurement including FFR. 
+All relevant accessories should be provided with machine. 
+8. 
+It  should be possible to set up coronary physiology measurements wirelessly. 
+9. 
+System should be able to identify luminal structures such as external elastic lamina 
+automatically and perform automated analysis of luminal size and diameters. 
+10. System should be able to detect calcium automatically and display relevant parameters. 
+11. System should be able to display coronary stent implant related parameters such as stent 
+apposition and expansion. 
+12. System should be able to compare pre and post stent implant parameters 
+13. System should be able to analyse  stent implant zone. 
+14. System should be able to bookmark user defined sites. 
+S.No. 
+OEM 
+Description   
+Qty 
+(No.) 
+ 
+ 
+ 
+ 
+01 
+ 
+ 
+ 
+ 
+M/s  Abbot Medical, USA 
+ 
+Optical Coherence Tomography (OCT) 
+Machine 
+ Accessories:- 
+1) Coronory OCT 
+ catheters:- Qty-15 
+2) FFR Process Wire:- Qty-05 
+3) Brand Name- OPTISTM Integrate 
+Next Imaging System 
+4) Model No.- 1014933 
+ 
+ 
+ 
+ 
+01 Set 
+The required in-situ works like Electrical/Plumbing/Civil Works and any accessories, if required for Equipment 
+installation, will carried out and borne by the OEM/Authorized Vendor/Agency, and for this purpose no extra 
+payment, whatsoever will not paid by AIIMS Bhopal to any Agency, means the supplier agency deal the 
+Equipment, supply and Installation work on “turnkey basis”.  
+
+
+--- Page 16 ---
+Tender No.- AIIMS/BPL/HS/CARDIOLOGY /2024/PAC/017 
+ 
+Page 16 of 28 
+ 
+15 System should be able to co-register OCT data on cardiac catheterization laboratory system. 
+16. System should be able to display live angiographic data and co-registered data on Cath Lab 
+system. 
+17. System should be  provided with two monitors (≥ 17 inches) for operator and physician 
+review. 
+18. System should be DICOM compatible. 
+19. It should be possible to share OCT image on Cath lab monitor. 
+20. System should be able to import and export data. 
+21. System should have the latest stage-of-art technology including Artificial Intelligence (AI). 
+22. System should have a comprehensive 5-years warranty and 5-years CMC. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+

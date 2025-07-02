@@ -1,0 +1,107 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/OT/328(vi)/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+2. Operational Requirements 
+1. Defibrillator should be Bi- Phasic, light weight and latest model 
+2. Should monitor vital parameters and display them 
+3. Should print the ECG on thermal recorders. 
+4. Should work on Manual and Automated external defibrillation (AED) mode. Manual selection up to 270 J. 
+5. Should be capable of doing synchronized & asynchronized cardio version. 
+6. Can be operated from mains as well as battery 
+7. Should have defibrillator testing facility 
+8. Demonstration of the equipment is a must. 
+3. Technical Specifications 
+1. Should be a Low Energy Biphasic defibrillator monitor with Recorder, having capability to arrest all 
+arrhythmia within a maximum energy of 360 Joules. 
+2. Should monitor ECG through paddles, pads and monitoring electrodes and Defibrillate through pads and 
+paddles. 
+3. Should have Automatic Lead switching to see patient ECG through paddles or leads. 
+4. Have facility for monitoring 12 lead, heart rate, SpO2, NIBP & can be upgraded to CO2. Main stream EtCO2 
+monitoring both for intubated and non-intubated patients. 
+5. Should measure and compensate for chest impedance for a range of 25 to 150 ohms. 
+6. Should have a built in 50mm strip printer/ thermal recorder. 
+7. Should have charging time of less than 3 seconds for maximum energy. Charging indicator should be there. 
+8. Should have bright electroluminescent display for viewing messages and ECG waveform of 4 seconds. 
+9. Should have external & internal paddles with paddles contact indicator – for good paddle contact. Single 
+Adult and pediatric paddles should be available. 
+10. Should have event summary facility for recording and printing at least 250 events and 50 waveforms. 
+11. Should be capable of printing Reports on Event summary, configuration, self test, battery capacity etc. 
+12. Should have facility for self test/check before usage and set up function. 
+13. Should have SP02 and NIBP integrated facility 
+14. Should be capable of delivering energy in increments of 1-2 joules up to 30J and increments of maximum 
+50J thereafter. 
+15. Should have user friendly color coded operation.  
+4. System Configuration Accessories, spares and consumables according as per unit. 
+1. Defibrillator -01 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/OT/328(vi)/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+2. Paddles Adult/Paediatric (pair) -01 
+3. Paddles –Internal (pair) -01 
+4. Patient cable -02 
+5. ECG Rolls -50 
+6. Disposable pads-10 nos. 
+7. NIBP Cuff Adult medium sized - 02 
+8. NIBP Cuff Paediatrics- 02 
+9. NIBP Cuff Infants- 02 
+10. Reusable SPO2 Finger Probe-Adult -02 
+11. Reusable SPO2 Paediatric Finger Probe - 02 
+12. Complete set of ECG Leads- 02 
+5. Environmental factors 
+1. The unit shall be capable of operating continuously in ambient temperature of 10 - 400 C and relative 
+humidity of 15-90% 
+2. The unit shall be capable of being stored continuously in ambient temperature of 0 - 500 C 
+3. and relative humidity of 15-90% 
+4. Shall meet IEC-60601-1-2: 2001(Or Equivalent BIS) General Requirements of Safety for Electromagnetic 
+Compatibility. 
+6. Power Supply 
+1. Power input to be 220-240VAC, 50Hz. Power cable should be fitted with Indian plug and adapter. 
+2. Resettable over current breaker shall be fitted for protection 
+3. Should have a Rechargeable Battery capable of usage for at least 90minutes or 30 discharges. 
+7. Standards, Safety and Training 
+1. Should be FDA approved product. 
+2. Manufacturer should have ISO certification for quality standards 
+3. Electrical safety conforms to standards for electrical safety IEC-60601-1 General Requirements and IEC-
+60601-2-25 Safety of Electrocardiograms. (OR EQUIVALENT BIS Standard) 
+4. Drop Test-Withstands 1 meter drop to any edge, corner or surface. 
+5. Should conform to international test protocols on exposure to shock forces and to vibration forces. The 
+standard should be documented. 
+6. Should meet IEC 529 Level-2 (IP2X) for enclosure protection solid foreign object ingress. 
+7. Should meet IEC 529 Level 3 (IP3X)(spraying water) for enclosure protection, water ingress. 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/OT/328(vi)/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+8. Should have local service facility. The service provider should have the necessary equipments recommended 
+by the manufacturer to carry out preventive maintenance test as per guidelines provided in the 
+service/maintenance manual. 
+9. Comprehensive warranty for 5 years and provision of AMC for next 5 years.  
+8. Documentation 
+1. User Manual in English 
+2. Service manual in English 
+3. List of important spare parts and accessories included in the warranty with their part number and costing 
+4. List of important spare parts and accessories not included in the warranty with their part number and costing 
+5. Certificate of calibration and inspection from factory. 
+6. Log book with instruction for daily, weekly, monthly and quarterly maintenance checklist. 
+7. The job description of the hospital technician and company service engineer should be clearly spelt out 
+8. List of Equipments available for providing calibration and routine maintenance support as per manufacturer 
+documentation in service /technical manual. 
+9. Compliance Report to be submitted in a tabulated and point wise manner clearly mentioning the page/Para 
+number of original catalogue/datasheet. Any point, if not substantiated with authenticated catalogue/manual, 
+will not be considered. 
+10. Must submit user list and performance report within last 5 years from major hospitals. 
+ 
+
+

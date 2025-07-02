@@ -1,0 +1,377 @@
+--- Page 10 ---
+Tender for Pediatrics Simulator                                
+ 
+                      Admn/Tender/67/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty. 
+01. 
+Pediatrics 
+Simulator 
+GENERAL FEATURES: 
+1. 
+The simulator mannequin must be anatomically correct to replicate a 
+real life sized  paediatric patient with anatomical landmarks. 
+2. 
+The simulator must have functional pupils that blink and can be 
+adjusted for pupil dilation and restriction 
+3. 
+The simulator must have automatic physiology response models that 
+can objectively confirm airway management without the need for visual 
+observation by an instructor 
+4. 
+The simulator must have a hematology model for hemorrhage 
+control showing the  impact of progressive blood loss and compensation to 
+the patient in real time 
+5. 
+The simulator must have the capability to integrate a blood / 
+secretions flow model for  
+representation of trauma conditions to the 
+patient 
+6. 
+The 
+simulator 
+must 
+have 
+automatic 
+physiological 
+and 
+pharmacological response models  
+with responses to reflect the actual 
+effects of the drug or multiple sets of drugs 
+7. 
+The simulator and its accompanying components must be portable 
+and easily stored when necessary. 
+8. 
+The simulator must include a simulated patient monitor which has 
+the capability to display the parameters below in addition to custom 
+configurations 
+ 
+ECG I, II, III and V and heart rate 
+ 
+Arterial Blood Pressure 
+ 
+Pulmonary Artery Pressure 
+ 
+Pulmonary Capillary Wedge Pressure 
+ 
+Central Venous Pressure 
+ 
+Mean Arterial Pressure 
+ 
+Non Invasive Blood pressure 
+ 
+CO2 Capnography 
+ 
+SPO2 
+ 
+Heart rate 
+ 
+Thermolidution cardiac output and continuous cardiac output 
+ 
+Blood temperature 
+ 
+Body temperature 
+ 
+AIRWAY 
+1. 
+Simulator must have a life like intubation head with a flexible 
+tongue, epiglottis, aryepiglottic fold, cuneiform tubercle, 
+corniculate tubercle ,laryngeal inlet, vocal cords , esophagus and 
+simulated lungs for spontaneous breathing and realistic chest 
+movement and compressions 
+2. 
+Simulator must have tracheal access through the neck for 
+cricothyrotomy ,tracheostomy  
+3. 
+The simulator must have the following standard ALS airway skills: 
+ 
+Bag/ valve/mask ventilation 
+ 
+Oral  intubation 
+ 
+Nasal intubation  
+ 
+Esophageal intubation 
+ 
+Combitube placement 
+ 
+LMA Placement 
+ 
+Retrograde intubation 
+01 
+
+
+--- Page 11 ---
+Tender for Pediatrics Simulator                                
+ 
+                      Admn/Tender/67/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+Fiber optic intubation 
+ 
+Light wand intubation 
+ 
+Cricothyrotomy 
+ 
+Oropharyngeal and nasopharyngeal airway placement 
+4. 
+Exhaled CO 2 Flow to confirm placement of airway devices with in 
+the trachea 
+5. 
+Signs of spontaneous respiration to include: 
+ 
+Independent right and left chest movement 
+ 
+Exhalation of air from mouth 
+ 
+Exhaled CO2 Capability. 
+6. 
+Simulator must have a respiratory rate that is physiologically 
+modeled or may be  
+manually controlled by an instructor. 
+7. 
+The simulator must be able to accommodate the following airway 
+features: 
+ 
+Pharyngeal obstruction 
+ 
+Multiple levels of swollen tongue 
+ 
+Laryngospasm 
+ 
+Left & right broncheal obstruction 
+ 
+Stomach decompression 
+ 
+Cannot intubate, can ventilate 
+ 
+Cannot intubate, cannot ventilate 
+ 
+CARDIOVASCULAR SYSTEM: 
+1. 
+The simulated patient should generate heart sounds including a 
+range of pathological  ones which are synchronized to the QRS complex of 
+the ECG and should be audible  
+with a standard stethoscope over the 
+left and right upper sternal border, left lower sternal border and apex. 
+2 
+The simulator must have an integrated IV training arm with 
+replaceable skin and veins,  IV insertion into peripheral veins of forearm, 
+anticubital fossa and the dorsum of the hand, simulated blood flash back on 
+cannulation, IV Bolus or infusion. 
+3. 
+A 5 Lead ECG capability emitted from the appropriate positions on 
+the patient’s chest for display on a standard monitor 
+4. 
+Palpable carotid, radial, brachial, femoral, popliteal and pedal pulses 
+which are synchronous to the ECG. 
+5. 
+Simulator pulses must be dependent on BP of the patient and must 
+be independently Controlled on left & right side of the body 
+6.  
+A standard blood pressure cuff and sphygmomanometer can be used 
+to assess systolic blood pressure by palpation or by auscultating Korotkoff 
+sounds. 
+7 
+The invasive hemodynamic monitoring package should provide the 
+capability to measure and monitor the following: 
+ 
+Arterial blood pressure 
+ 
+Left ventricular pressure 
+ 
+Central venous pressure 
+ 
+Right atrial pressure 
+ 
+Right ventricular pressure 
+ 
+Pulmonary artery pressure 
+ 
+Pulmonary artery occlusion (wedge) pressure 
+ 
+Thermodilution cardiac output 
+ 
+TRAUMA FEATURES: 
+Simulator must have the ability to perform the following trauma functions: 
+ 
+Bi-Lateral Pneumothroax needle decompression 
+ 
+Bi-lateral chest tube placement 
+
+
+--- Page 12 ---
+Tender for Pediatrics Simulator                                
+ 
+                      Admn/Tender/67/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+ 
+Blinking eye with adjustable pupil size 
+ 
+Bulging Fontanel 
+ 
+IV DRUG ADMINISTRATION: 
+1. 
+Simulator must have an intensive drug library that includes ACLS 
+drugs. 
+2. 
+The simulators response to drugs administered must be 
+automatically linked to physiology and will not rely on manual input. 
+ 
+CARDIAC FUNCTIONS: 
+1. 
+The simulator package must include an ECG library that contains an 
+extensive library of physiological modeled cardiac rhythm variations 
+2. 
+The simulator must be able to accommodate the following: 
+ 
+Live defibrillation from an AED and a manual defibrillator 
+ 
+Cardiac monitoring with blood pressures and cardiac output 
+ 
+5 Lead ECG Monitoring 
+ 
+External pacing with various pacing threshold 
+ 
+Produce chest compression artifacts on ECG 
+ 
+Show a displayed heart rate and ECG on a compatible 
+simulated monitor 
+ 
+BLOOD PRESSURE: 
+1. 
+The simulator must have a blood pressure that can be taken either 
+automatically, by auscultation or palpated. 
+2. 
+The simulator must include a blood pressure arm that has Korotkoff 
+sounds, which can be used for auscultation and palpation of the blood 
+pressure. 
+3. 
+The blood pressure must be able to be displayed on a compatible 
+simulated monitor. 
+ 
+GENITOURINARY 
+1. 
+The simulator must include both male and female genitalia which 
+are interchangeable  and anatomically correct 
+2. 
+The genitalia must have the ability to be catheterized with the ability 
+to produce urinary output. 
+ 
+NEUROLOGIC SYSTEM 
+1 
+Should model Cardiovascular and respiratory responses to 
+sympathetic and parasympathetic activities  
+ADVANCED CARDIAC LIFE SUPPORT (ACLS) SYSTEM 
+1. Airway Management and Ventilation: Alveolar and arterial gas 
+concentrations should appropriately reflect the efficacy of the 
+employed ventilatory technique, such as mouth- 
+to-mouth,bag-
+valve-mask, endotracheal intubation and transtracheal catheter 
+ventilation. Administration of supplemental oxygen should extract  
+automatic and appropriate patient clinical responses. 
+2. Chest Compression:  Should allow chest compression In 
+accordance with ACLS  
+guidelines, 
+effective 
+chest 
+compression of the patient’s sternum should result in artificial 
+circulation, cardiac output, central and peripheral blood pressures, 
+palpable pulses and  CO2 return and  Pressure fluctuations should 
+be visible  on invasive catheter waveforms.. 
+3. Cardiac Arrhythmias: The instructor should be able to select and 
+maintain a desired arrhythmia and control the simulated patient’s 
+
+
+--- Page 13 ---
+Tender for Pediatrics Simulator                                
+ 
+                      Admn/Tender/67/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 13 
+ 
+response to clinical interventions. 
+4. Electrical Therapy: Both conventional defibrillators and automatic 
+external defibrillators (AEDs) can be applied to the simulator 
+generating appropriate patient response in real-time. Capable of 
+applying  transcutaneous pacemakers  
+5. Pharmacological Therapy: All IV drugs required by the ACLS 
+algorithms should be supported. 
+ 
+SOUNDS AND PHONATION: 
+The simulator must have the ability to produce the following sounds: 
+Speaking through the instructor microphone 
+ Heart sounds which are synchronized with the ECG 
+ Independent left and right sounds 
+ Bowel Sounds 
+ Heart, lung and bowel sounds auscultated with a stethoscope. 
+ Independent volume adjustment 
+ 
+PATIENT & SCENARIOS 
+ Should be delivered with pre-programmed patients. System should 
+have patient  editor software to edit/ modify preconfigured patient 
+profiles or to create new patient profile. 
+ Should be delivered with pre-programmed scenarios. System should 
+have scenario editor software to edit/ modify preconfigured 
+scenarios or to create new  
+scenario. 
+ At any point during a simulation session it should be possible to 
+capture the current state  
+of a patient which can be used as a 
+new patient. 
+ Should be capable of running multiple patients simultaneously to 
+create multiple patient care simulations  
+ 
+EVENT LOG: 
+1. 
+The simulator must include physiological, pharmacological event 
+data that is logged and timed stamped. 
+2. 
+The log must automatically calculate and log the following items: 
+ Alveolar and blood gases 
+ Cardiac Output 
+ Heart rate 
+ SPO2 
+ Invasive blood pressure 
+ Hematocrit and hemoglobin values 
+ Temperatures 
+3. 
+The event long must be able to be saved and printed. 
+ 
+CONTROL SYSTEM: 
+Control system should be comprised of 
+ Instructors wireless remote control capable driving all software 
+programme 
+ Instructor wireless remote control must be expandable for future 
+software up-gradation. 
+ 
+Demonstration should be offered if required. 
+The equipment should be USFDA or European CE approved. 
+
+

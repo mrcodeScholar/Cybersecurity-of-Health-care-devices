@@ -1,0 +1,154 @@
+--- Page 10 ---
+Tender for Inverted Microscope                                
+ 
+                     Admn/Tender/66/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty. 
+01. 
+Inverted 
+Microscope 
+1) Inverted Frame: Motorized Ergonomic Stand with inbuilt Z-focus 
+drive with minimum step resolution of 10-15 nm or better. The system 
+should have a dedicated external TFT/LCD touch screen capable of 
+controlling all motorized functions of microscope. The system should 
+have an IR based Laser/LED focus drift compensator for long term in 
+focus time lapse imaging controlled by both touch screen panel and 
+imaging software at all magnifications.  
+2) Transmitted Light system: 12V100W Halogen Illumination with 
+intensity control through touch panel and imaging software  
+3) Condenser: Motorized Universal Condenser (suitable for all 
+microscopy techniques such as Phase, DIC) with 6 to 7 slots. It should 
+have Phase rings for 10X, 20X, 40X and DIC prisms for 20X, 40X and 
+60X and 100X objectives. Automatic detection of phase ring.  
+4) Eyepiece: 10X with F.O.V 22mm or better eye pieces-2 nos.  
+5) Nosepiece: Six positions motorized revolving nosepiece with Slot for 
+DIC 
+Slider/analyzer 
+to 
+accommodate 
+objectives 
+of 
+different 
+magnifications. 
+6) Stage: Motorized X-Y Stage with multi-site scanning capability, 
+controller and joystick having multiple holders to adapt. The motorized 
+stage should be able hold CO2 incubator with stage inserts for 35 mm 
+plates, 96 Well plates, and Slides. The imaging software should have 
+modules to drive the motorized stage and perform multi well/multipoint 
+imaging and mosaic imaging (Image stitching).  
+7) Objectives: High numerical aperture objectives suitable for bright field/ 
+fluorescence/ DIC observation. Plan fluorite 10X with phase, Plan flour 
+long working distance objective 20X phase with correction collar, long 
+working distance plan flour objective 40X phase with correction collar 
+& fluorescence, High NA Confocal grade plan apochromat objective 
+60X with oil (N.A 1.35 or higher UV-IR Corrected), plan Apochromat 
+100X with oil (N.A 1.40 or higher UV-IR Corrected)  
+8) Fluorescence Module: Motorized fluorescence attachment with built in 
+shutter and a minimum of 6-8 position filter cube slots for band pass 
+(Excitation and Emission) interference fluorescent filters FITC/GFP 
+(Ex465-495, DM 505), TRITC/Rhodamine (Ex 540/25, DM 565,) 
+DAPI/Hoechst (Ex 340-380, DM 400), separate florescence filter for 
+YFP, CFP and Cy5 application should be quoted.  
+9) Fluorescence Light Source: Fluorescence Light Source 120/130 watts 
+metal halide/Mercury lamp with 2000hrs life time (quote 5 spare bulbs) 
+with Light intensity control. The light source should be alignment 
+free/pre-centered to minimize human interference for alignment. The 
+light source should be connected to the microscope with fiber (3m) to 
+avoid direct heat transfer from the Mercury/metal halide lamp. The 
+shutter and the attenuator for the light source be controlled & 
+synchronized by imaging software for time lapse and multi-channel 
+imaging. It should also be controlled by touch screen and software. 
+10)  Camera:  
+(i) A 2/3 inch pettier cooled 12.5 MP colour scientific CCD camera 
+with minimum of 15 FPS for high resolution color imaging and  
+(ii) 2/3 inch 1360x1024 1.4 MP, 6.45 um pixel, 14bit monochrome 
+camera cooled to-10 deg for high sensitive fluorescence live cell 
+imaging should be quoted.  
+01 
+
+
+--- Page 11 ---
+Tender for Inverted Microscope                                
+ 
+                     Admn/Tender/66/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A facility to image both color and fluorescence imaging in sequential 
+mode for HNE and fluorescence image with super imposition should be 
+a part of the microscope. The switching of monochrome and color 
+camera to be done through motorized switching between cameras with 
+100% light distribution in both cameras for sequential imaging of 
+monochrome (fluorescence) and color (HNE) imaging.The bidders can 
+quote for single or two independent cameras meeting all above 
+specifications.  
+11) Software: 
+The 
+imaging 
+software 
+should 
+have 
+an 
+advance 
+multidimensional acquisition, camera control and controlling all 
+function of motorized and coded functions of microscope. It should 
+have automated count & measurement modules, time lapse recording 
+functions, automated five dimension imaging, automated multi-channel 
+fluorescence capturing and merging , fluorescence unmixing, co-
+localization, wide Field basic De-convolution software module . Quote 
+for 3D Blind deconvolution module in option. The software should 
+have function of automated Multi Point/multi well time Lapse Imaging.  
+Branded Data processing unit with i5/i7 Xenon processor with 8 GB 
+RAM, DVD Writer, 1TB or higher HDD, 1280x1024 (min. 1024 
+x768) monitor resolution with Graphic card with separate graphics 
+memory. PCI-Express x1.Compatible with half size or Low-profile 
+PCIe board. Original Window 8 Operating System (64 Bit), Original 
+Anti-Virus with CD, LCD Monitor 23-24 inches. UPS 2 KVA with 30 
+Minutes back up.  
+12) CO2 Top Stage Incubator: comprising of Incubating chamber with 
+glass heated lid, thermal controller, automated CO2 mixer to use 100% 
+CO2 and deliver 5% constant CO2 output with a heated humidifying 
+Module. It requires at least 35mm Petri-dish Plate, glass slide and 96 
+well plate adapters, Air pump and adapter for holding Incubator on 
+motorized XY stage. Separate software for controlling all the above 
+function of the incubator. The incubator should have multiple holes to 
+accept the perfusion tubes and CO2.  
+13) Anti-Vibration table: An active anti-vibration table with pneumatic 
+pump should be supplied. 
+14) ADDITIONAL ITEMS: 
+Fluorescence Light source: Long life (>15000 Hrs) precentred / 
+prealigned bright white light LED light source directly coupled to the 
+microscope with an inbuilt attenuation and shutter. The shutter and the 
+attenuator be controlled & synchronized by imaging software for time 
+lapse and multi-channel imaging.  
+A two channel peristaltic pump system with necessary electronics to 
+synchronise with the acquisition to be quoted in option. 
+15) Should be FDA/ CE/ BIS approved product. 
+16) Should conduct onsite Testing & certification post-installation.  
+
+

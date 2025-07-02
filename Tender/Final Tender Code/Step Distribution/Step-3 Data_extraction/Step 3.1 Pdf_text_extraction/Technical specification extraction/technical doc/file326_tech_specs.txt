@@ -1,0 +1,156 @@
+--- Page 10 ---
+Tender for Gel Doc (Gel Imager)                                                                                    Admn/Tender/22/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Gel Doc (Gel 
+Imager) 
+  
+The complete system is required with necessary hardware 
+including camera, software and printer. 
+1 
+Camera Specifications: 
+  
+16-bit, 5 megapixel or better; thermoelectrically regulated at -
+15 °C (±0.1). 
+  
+Pixel resolution : 2048 x 2048 or better,  
+  
+lens of 50mm, ƒ/0.95,  
+  
+field of view 15.0cm x 15.0cm or better,  
+  
+ports 3 USB, and one network,  
+  
+Image capture modes - Chemiluminescence, UV 
+transilluminator, epi-white light 
+  
+Image exposure modes - Automatic and manual 
+  
+Image file format - TIFF and others 
+  
+Touchscreen display - 10 inch LCD or better. 
+2 
+Should have approximately 200 GB for storage of acquired 
+images, providing storage for more than 200,000 image files 
+captured using the default image acquisition setting (3 x 3 
+binning). 
+3 
+European CE/US FDA/BIS certified. 
+4 
+Documentation system should include 
+User/Technical/Maintenance manuals, List of important 
+spares and accessories with their part number and costing. 
+Log book with instructions for daily, weekly, monthly and 
+quarterly maintenance checklist. 
+5 
+Should have One-touch image acquisition – press any one of 
+several optimized presets in each mode and the imager does 
+all the rest; 
+6 
+Should automatically capture a series of images using up to 
+five different preset or user-defined exposure times. 
+7 
+Multiuser licenses for software and lifetime upgradations of 
+software free of cost. 
+8 
+Shoot-and-preview convenience – imager keeps the last five 
+captured images immediately available in on-screen tabs so 
+you can quickly review, compare, choose and make 
+adjustments to results 
+9 
+Should automatically calculate the exposure time of a Western 
+blot with maximum dynamic range and minimal pixel 
+saturation  
+10 
+Should copy, delete, export and edit image information of one 
+or more image files in multiple gallery folders 
+11 
+Create new dark and bias master files to compensate for noise 
+coming from the CCD camera during image acquisition 
+12 
+Facility to adjust the black, white and gamma levels of 
+acquired images to increase sample visibility 
+01 
+
+
+--- Page 11 ---
+Tender for Gel Doc (Gel Imager)                                                                                    Admn/Tender/22/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Facility to Select a point of interest on the acquired image to 
+view the pixel intensity and pixel coordinates of the 
+corresponding region. 
+14 
+With suitable warranty & well established service network in 
+India. 
+15 
+Accessories: Transilluminators. 
+  
+Densitometer with Computer (Automatic) 
+1 
+Light source: halogen lamp 6v-12v, (l - 40) watt. Operating 
+wavelength: at least 530nm, 570nm and white light Photocell type: 
+silicon photocell or any other equivalent Photometric linearity: 0.00 
+to 2.5 o.d. or better 
+2 
+Programmable scanning length: 120mm or more 
+3 
+Programmable scanning width: 90mm or more should accept all 
+electrophoresis media (including agarose) on plastic or Glass plate. 
+4 
+Editing features: automatic fraction identification, insertion/ 
+deletion, renaming of peaks, addition of fractions, baseline 
+correction. 
+5 
+Monitor: display of graphs and other data. 
+6 
+Printer: built in graphic thermal printer or better. 
+7 
+Software: user programmable tests for different applications 
+including serum/urine/ protein electrophoresis. 
+8 
+Reports: graphs, percentage, g/dl. A/g ratio, patient data. 
+9 
+Memory: storage of result including graphs. 
+10 
+Data management: direct comparison of pathological cases 
+statistical calculation. Serial port: bi-directional 
+11 
+Certifications: European CE/USFDA/BIS certified. 
+ 
+
+

@@ -1,0 +1,53 @@
+--- Page 17 ---
+Tender for Supply, Installation, Testing & Commissioning of Ultra Centrifuge 
+E-Tender No.054 AIIMS/BPL/Stores/CIF/Ultra Centrifuge/2019-20 Dated: 10.12.2019         Page 17 of 39 
+ 
+ 
+Specification Ultra Centrifuge 
+1. The floor model ultracentrifuge system should be compact with minimum of 150,000 rpm or more 
+and 10,00,000 x g (RCF) or more.  
+2. The ultracentrifuge should accelerate the rotor to the top speed of 150,000 rpm in less than 60-120 
+seconds. 
+3. System should have set temperature range 0-40 °C in 1°C increment with an acceleration/ 
+deceleration Profile: 9/9 or more. 
+4. System should have speed control accuracy + 50 rpm. 
+5. Should have high contrast colour LCD panel control interface that is ready to use in less than 9 
+seconds from operation at a nearly silent sound at maximum speed. 
+6. System should have wide volume range up to 4 or more tube x 7-15 mL swinging bucket self-
+locking rotor and up to 6 or more tube x30-50 mL or more fixed angle self-locking rotors. 
+7. Refrigeration: non CFC, thermoelectric module refrigeration. 
+8. System should have imbalance intolerant drive allowing up to +/- 5% opposing load imbalance. 
+9. Maintenance-free brushless drive system and rotor imbalance protection ensure dependable 
+performance 
+10. Should have USB port for output of GMP/GLP compatible run data. User interface offering a 
+controlled access feature restricting access to authorized users with an ID code. A user interface 
+should offering 20 programs in memory, speed and g-force operation, actual run timer, Real Time 
+Clock function, step mode operation, pulse mode operation, 100 case operating history, rotor 
+catalogue, and rotor life management. 
+11. Should supply with self-locking rotors along with necessary tubes and accessories along with the 
+system. 
+a) Fixed angle rotor: 6-12 tube x30-50ml or more along with the tubes: Compatible transparent 
+tube-100 nos. 
+b) Fixed angle rotor: 8-10 tubes x13.0-15 mL along with the tubes: thick walled tubes: 50 nos. 
+and PA tubes: 50 nos.  
+c) Fixed angle rotor: 10 tubes or more x2ml along with the tubes: PA thick walled tubes – 
+100nos and PC thick walled tubes -100nos.  
+d) Swing out rotor: 4 – 8 tubes or more x7-15ml or more along with the tubes: compatible tubes -  
+50nos. 
+12. Should be compatible for the study of viruses, cellular organelles (ribosomes, mitochondria, and 
+microsomes), Lipoproteins, nanoparticles and nucleic acids.  
+13. System should be supplied with accessories such as rotor cleaning kit, rotor cleaning brush and 
+silicone vacuum grease etc. 
+14. After sales service available prompt.  
+15. Supplier should assure the shifting of the equipment to the new lab/building within the warranty 
+period without any additional cost. 
+16. Should be CE/FDA approved product. 
+17. The firm must supply a compatible servo stabilizer with the system. 
+18. Free upgradation of software. 
+19. Instrument shall be supplied with all the accessories required to function. 
+20. The price list of all optional accessories and consumables shall be attached with offer for future 
+reference for purchase. 
+21. 5 years on-site warranty and CMC for subsequent 5 years after successful completion of warranty. 
+ 
+
+

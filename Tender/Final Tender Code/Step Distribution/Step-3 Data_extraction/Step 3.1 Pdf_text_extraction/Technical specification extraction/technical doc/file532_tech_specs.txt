@@ -1,0 +1,344 @@
+--- Page 10 ---
+Tender for USG Machine with Doppler 
+Admn/Tender/40-2/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+USG 
+Machine 
+with 
+Doppler  
+1 System should be the latest "State of the Art" fully digital ultrasound 
+equipment capable of performing Whole Body & OBS-GYN Scanning 
+Procedures  
+2 The system should have the following modes : B-Mode (2D), 
+Conventional M-Mode with varying sweep rates, anatomical M-Mode, PW 
+Doppler with high PRF (PW), CW Doppler imaging (CW), High PRF 
+Doppler Mode , (TD)-Tissue Doppler rmode, color flow Doppler mode 
+(CFM), Power Doppler Mode(PD), Directional power Doppler, HD-Flow 
+Doppler Mode (HD-Flow) and B-Floor (BG), B/Color/FVV  
+3 Power Doppler angio imaging for perfusion studies for visualization of 
+flow in small vessels and should be supported by all transducers  
+4 The System should be having a minimum of 20,10,000 Digital 
+channel processing technology  
+5 Tissue Doppler Mode (TD) - Should allow high frame rate acquisition of 
+tissue motion (up to 400 fps)  
+6 Volume imaging, multislice imaging with variable slice thickness and 
+multiplanar imaging on all types of 3D and 4D modes  
+7 System should have facility for volume 3D/4D with convex and EV 
+probe (on both gray scale and color Doppler modes)  
+8 Should be capable of performing live 4D imaging with volume 
+transducers. 4D imaging should be possible in gray scale, color mode, 
+harmonic mode and with contrast agent imaging. Instant rendering of MPR 
+images should be possible that rival acquired 2D resolution  
+9 Elastrography should be available into the elastography mode. System 
+should have indicator for compression level with side-by side display of 
+2D image and 2D with elastogram images. System should have facility for 
+dynamic range selections, dynamic resolution selection and different 
+optimization for settings for different tissue compositions, color coded 
+display with parametric imaging  
+10 Dynamic range should be 274 dB or more with range adjustability 
+by selecting different dynamic contrast curves. Higher dynamic range 
+will be preferred  
+11 A 2D imaging depth of at least 36cms. More will be preferred  
+12 256 (8 bits) discrete gray levels  
+13 16.8 million color 24 bit  
+14 2D acquisition frame rate more than 500 frames/sec, color Doppler 
+frame rate more than 300/S  
+15 Multiple focal imaging  
+16 Real time compounding with color or power Doppler imaging  
+17 Multiple frequency selection for better penetration and resolution for 
+better tissue differentiation and better contrast resolution  
+18 Post processing tools for annotation, measurement, correction of angle, 
+baseline, sweep speed should be possible on stored images  
+19 System should have multivariate Tissue Harmonic Imaging including 
+pulse inversion phase cancellation technology and coded harmonics on all 
+01 
+
+
+--- Page 11 ---
+Tender for USG Machine with Doppler 
+Admn/Tender/40-2/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+transducers. 
+20 It should be able to operate with compound imaging and speckle 
+reduction algorithm  
+21 System should have on touch tissue contrast resolution adjustment 
+without altering the set presets levels  
+22 System should have real time compounding imaging technology with 
+minimum 9 transmitted lines of sight.  
+23 Real time compound imaging should operates in conjunction with 
+Tissue Harmonic imaging, volume modes, panoramic imaging, and duplex 
+Doppler and in conjunction with speckle reduction imaging  
+24 High resolution algorithms for advanced speckle noise reduction, 
+refined tissue pattern displays and fine border definition.  
+25 Should operate in 2D and 2D/CH/Doppler mixed modes (up to 150 
+frames per second) and with 3D and contrast agent imaging.  
+26 This feature shall have operator selectable settings and capable of 
+displaying in side by side mode with non speckle reduced image  
+27 Should have trapezoidal imaging and steerable imaging for 2D, color 
+and Doppler with linear probe  
+28 Beam steering should be possible with angles up to 30 deg. On linear 
+probe  
+29 Panoramic / extended field of view imaging should be available on 2D 
+as well as color mode on convex and linear transducers.  
+30 This mode should build the extended field of view in a real time 
+manner, showing the image as it builds  
+31 One button automatic adjustment / optimization for 2D mode, color 
+mode and Doppler mode with auto correction of relevant fields of the mode 
+used  
+32 Incorporates advanced pulse shaping, coding excitation using new chirp 
+transmit technology and coded harmonics mode for imaging deeper areas 
+and obese patients. Additionally technology if available for imaging obese 
+patents will be preferred  
+33 The system should have a fast boot up time less than 200 seconds, when 
+switch ON from OFF positional and also less than 60 second from 
+STANDBY position. Specify the system booting time less will be preferred  
+34 System should have high capacity fans with automatic speed for system 
+cooling   
+35 Year of introduction of the specific model - should be as latest as 
+possible, preferably should have been launches with in 2:3 years  
+36 Unique user friendly user interface for comfort and fast throughput  
+SYSTEM CONTROLS  
+37 System should have at least 45 automated and user programmable 
+presents (output power signal processing and calculations)  
+38 System should have facility to adjust 2D performance instantly for 
+different patient types (thin, average, obese)  
+39 The system shall display thumbnails on a clipboard with live gray mode 
+while scanning to facilitate exams  
+40 Pan and zoom facility with high resolution results in both live and 
+
+
+--- Page 12 ---
+Tender for USG Machine with Doppler 
+Admn/Tender/40-2/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+frozen images  
+41 Higher zoom will be preferred with HD zoom functionality up to 
+22xzoom  
+42 Cine loop review facility in individual and mixed modes (frame by 
+frame and in video mode), 2D : up to 10 min (depending on B-Image size 
+and FPS); typical; about 3 min/4000 images (with curved array : 15 cm 
+depth,  
+43 M mode : up to 20 min motion time (depending on sweep speed and 
+depth) 
+44 Doppler mode : up to 10 min motion time (depending on sweep speed)  
+45 Post processing in freeze mode (dynamic Range adjustment, color 
+display on / off, color / Doppler invert, color / Doppler baseline 
+adjustment, sweep speed, measurement, annotation and pictogram). Post 
+processing of B-Mode images with Speckle Reduction Algorithm  
+46 Real time automatic Doppler calculations on touch of a button. Should 
+provide facility to apply automatic Doppler analysis retrospectively to 
+frozen spectral data or date retrieved from Doppler scrolling. Possibility of 
+manual Doppler trace  
+47 System should have at least 8 calipers with depth information and 
+extensive, customizable measurement and report packages including 
+vascular, abdominal, small parts, urology, pediatrics, ortho, neurology, 
+complete obstetrics, multigestational calculations, gynecology, and fetal 
+heart report packages  
+48 Calipers should have minimum precision of 0.1mm , small size calipers 
+for measuring < 5mm  
+49 Calipers of dynamically varying contrast compared to background. 
+Delete last measurement option, curved linear distance measurement  
+50 Measurement (Distance and areas) should be possible in real time ( non 
+frozen) frozen and on saved images as well  
+51 facility to save reports along with patient data which can be retrieved 
+later. Measured parameters must be printed directly in from of a report 
+through laser printer  
+52 System should have facility of electronic biopsy guide and algorithm for 
+clear needle visualization. The system should be capable of displaying 
+biopsy lines (for all transducers) while performing a fusion of B mode and 
+color mode  
+3D / 4D MODE  
+53 Speed adjustment on volume imaging  
+54 different render direction to view the volume image  
+55 Advanced tool for accurate quantification of irregular regions in 3D and 
+automatically calculates the number and volume of hypo echoic structures 
+to speed follicular assessments  
+56 Ability to restrict firing of the probe to a particular slice thickness of the 
+region of interest  
+57 Advanced tool for selection of slice thickness out of complete volume 
+dataset  
+58 4D fetal echo - 2D + color + B Floor, STIC + Power Doppler mode  
+
+
+--- Page 13 ---
+Tender for USG Machine with Doppler 
+Admn/Tender/40-2/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+STIC + CFM Doppler mode, STIC + HD Flow Mode, STIC+CRI  
+STIC + CRI+CFM, STIC+CFI+PD  
+STIC+CRI+HD-flow, STIC + B-Flow  
+STIC + multislice mode with cine movement  
+59 Advanced imaging mode for visualisation of hypo echoic areas and get 
+automatic precise volume  
+60 Simultaneous visualization of 3 planes and 3D to guide the needle to the 
+lesion  
+61 Transforming nuchal thickness measurement with automation  
+62 Should have auto 3D/4D rendering as well to get the best of 3D in 
+fraction of second with one touch  
+63 Advanced Spatio temporal image correlation with STIC anatomical M 
+Mode 
+64 Semi automated tool to provide quantifiable Sono NT measurements  
+65 Automated sonography based technology helps streamline the 
+acquisition of volumetric images of the fetal heart, displaying all 
+recommended views with the push on one button .  
+66 3D automated software dedicated to progression of labor (automatically 
+documents the labor procedure to help users evaluate second stage labor 
+progression  
+67 Soft wares related to Sono AVC follicle, VCAD, Biometry , Advanced 
+VCI , HD Live flow , HD live Silhouette, Advanced 4D , Scan Assist , 
+Render live should be standard part of the Scope of supply  
+PHYSICAL DIMENTIONS  
+67 the equipment should be a room based wheeled unit with integrated 
+brake, foot rest, transducer, cable and gel bottle holder, r and with 
+electronic height adjustment facility for control panel and monitor 
+independently. Transducer and gel bottle holders should be removable  
+68 The monitor should be at least a 23" high resolution LCD /LED 
+Display monitor with articulating arms with resolution FHD up to 
+1920x1080 pixel.  
+It should be have tilt angle of + 10 Deg / (-) 90 Deg. And rotate angle : +/- 
+115 Deg.  
+There's should be a digital brightness and contrast adjustment with 
+preferable three default setting (dark room, semi dark room, bright room)  
+69 The system shall include a touch screen LCD with context sensitive 
+menus to facilitate productivity as well as minimize training 
+requirements. The touch screen LCD should be at least 12.1 " for ease 
+of use  
+70 System should have a full size alphanumeric key board with interactive 
+back - lighting.  
+71 The key board should be floating with rotation of +/- 40 deg from 
+center, and with adjustable height of +200 mm  
+72 Integrated recording keys for remote control of up to 4 peripherals or 
+DICOM devices one dedicated DVD recording key   
+73 The system shall have 4 universal probe ports in a convenient ( 3 active 
+at a time) easy to access location with electronic switching facility  
+
+
+--- Page 14 ---
+Tender for USG Machine with Doppler 
+Admn/Tender/40-2/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 14 
+ 
+IMAGE 
+STORAGE, 
+DOCUMENTATION 
+DEVICES 
+AND 
+CONNECTIVITY ISSUES  
+74 Must allow digital storage of gray scale as well as color images (both 
+frozen and cine loops) Facility of reviewing and exporting in different 
+formats  
+75 System shall support the ability to store digital raw data that allows 
+optimizing imaging parameters such as B Gain, TGC, Color gain, dynamic 
+range, speckle reduction levels, Doppler gain, Doppler base line on image 
+recalled from the image archive  
+76 The system should have on board storage facility for at least 450 GB. 
+The hard drive should be inbuilt. System should store at least 10,000 
+images and additionally at least 30 minute of cine loops can be recorded 
+77 The system shall provide the ability to sort images stored on board 
+based on patient name, exam date, patient id and exam types, patent 
+directly should show network status as print status, archive status, commit 
+status and export to DVD status  
+78 Possibility to modify / edit patient data during and after exam has been 
+completed  
+79 Screen and hard copy image distortion of less than 5%  
+80 Must have integrated CD/DVD writing - burning facility and it could be 
+viewed on any ordinary PC. Machine must have capability to write 
+CD/DVD separately of a previous patient during scanning to save time 
+Should be able to archive data from previously stored CD/DVD  
+81 DVD /CD drive to store / retrieve images in different formats (TIFF / 
+JPF / AVI / DICOM) / patient reports  
+82 System should be DICOM 3.0 (or higher version) ready (Storing, 
+transfer, print record on CD/DVD, DICOM structured reporting for OS and 
+uro gynecology) including modality work list enabled and also to permit 
+communication between devices of various manufacturer (existing in the 
+department) and a facility of connectivity through Web (minimum network 
+connection speed opt 100 Mbits/s) Details to be provided  
+83 USB PORT : Minimum 4 USB ports in machine and must be providing 
+with USB memory stick to transfer reimages  
+84 System should be easily integrated in hospital PACS without any extra 
+costs  
+Images must be printed on ink jet printer / laser printer in format of 4-
+15 spots per page (without using another computer in between). It 
+should send images after each acquire and after end of exam (batch 
+send)  
+TRANSDUCERS AND BIOPSY ATTACHMENTS  
+85 Transducers should be of broadband width with low loss lens and beam 
+former technology for extreme high resolution image.  
+86 Please specify model number, footprint, bandwidth, imaging frequency, 
+Doppler frequency, FOV and weight of each transducer.  
+87 Lightweight transducers with flexible cables will be preferred  
+88 Biopsy guides should allow various size needles (24-16 G)  
+89 Multifrequency 2D convex transducer for obstetrics and gynecology 
+
+
+--- Page 15 ---
+Tender for USG Machine with Doppler 
+Admn/Tender/40-2/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+applications, biopsy needle guide with kit  
+90 2D - Convex Probe with Wide band frequency of 2- 8 MHz  
+91 2D - End cavity Probe with Wide band frequency of 4 - 9 MHz  
+92 2D - Matrix Linear Probe with Wide band frequency of 4 -13 MHz  
+93 4D - Broadband Convex Probe with 2-5 MHz (or) 4-8 MHz small and 
+light weight will be preferred  
+94 4D - Broad band End cavity Probe 6 to 12 MHz for transvaginal 
+examination with reusable biopsy guide  
+ACCESSORIES  
+95 BAN Thermal printer of latest model (with CE or FDA mark) for image 
+printouts. Please specify the brand model and specification details  
+96 Color laser printer for direct printing of images from the system (CE or 
+FDA mark) minimum dpi of 1200 
+97 Latest generation processor PC including software for frame grabbing 
+and image display / storage and printing option.  
+98 It should be able to store patient images for at least 1 year (assuming 40 
+patients and 10 Doppler's per day) HARD DISC  
+99 The unit shall have a gel warmer for the comfort of the patient 
+(integrated gel warmer will be preferred)  
+100 Online UPS with voltage correction and maintenance free batteries of 
+a reputed brand, to support all functions of the equipment and accessories. 
+At least 30 min backup. Please specify the brand, model and details  
+GENERAL INSTRUCTION TO VENDORS  
+1 Supplier must ensure availability of expertise service and maintenance at 
+AIIMS Jodhpur  
+2 Supplier must ensure availability of spare parts and repair for next 10 
+years must be assured 3 All information in the tender document must be 
+supported in the product data sheet  
+4 Compliance statement sheet must quote peg encumber/s as it appears in 
+the product data sheet enclosed by the vendor  
+5 supplier should be able to demonstrate its quoted model when and where 
+required along with quality control programmed for system performance 
+with phantom  
+6 Supplier must attach the list of quoted model installation in reputed 
+government institutions inside India ( at least 2).  
+7 Supplier must attach individual performance report of its quoted model 
+from reputed government institutions mentioned in the list  
+8 Supplier should provide two sets of each operating, training, service 
+manual and CD/DVD in English. Please provide original manufacturer 
+specification data sheet and catalogue  
+
+

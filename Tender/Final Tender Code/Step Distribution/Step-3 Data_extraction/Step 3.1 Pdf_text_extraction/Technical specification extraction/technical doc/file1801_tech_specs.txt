@@ -1,0 +1,547 @@
+--- Page 26 ---
+Executive Engineer (AC&R) NIT No. AIIMS/BBSR/ENGG/ACR/NIT/27    Page 26   (Signature of the Bidder with Seal) 
+ 
+ 
+Technical Specifications for Modular Operation Theatre 
+ 
+ 
+A 
+Walls panels system 
+ 
+ 
+The prefabricated Operating Room shall be of SS Sandwich as per its latest standards 
+Cladding structure shall consist of insulated stainless-steel wall panels with total panel 
+thickness between 50-60 mm. It shall be 0.8 mm thick, 304 grade stainless steel sandwich 
+panel (both side 0.8 mm thick sheet), with core consisting of rigid polyurethane foam injected 
+under high pressure with a minimum density of 40 kg/m3. 
+The individual wall panels shall use the tongue and groove/suitable technology for joining two 
+panels. No welding shall be allowed 
+ 
+It shall have minimum number of junctions. The gaps between panels shall be suitably filled 
+with metal filler/epoxy and sanded flush. 
+ 
+Stainless steel plate shall be finished to fine grain surface, and treated properly to take 
+antifungal paint. Paneling shall be easy to maintain, durable, antistatic/conductive and fire 
+retardant. Clearance between inner panel and outer wall shall be sufficient to allow the 
+maintenance personnel for service. This closed space shall be flushed continuously to 
+eliminate dust and bacterial accumulation. 
+ 
+Anti-bacterial paint shall be coated on the wall. Bidder shall maintain anti-bacterial paint 
+during warranty and comprehensive maintenance period. Wall elements shall be resistant to 
+all standard cleaning agents, disinfectants and fumigation agents. Panels shall be covered 
+with protective sheath to prevent scratch during installation. 
+ 
+The wall panels shall be CE/UL/ETL/US FDA/BIS/DIN 1.4301 certified/listed. Third party 
+test certificate for SS from Government authorized material testing laboratory shall be 
+provided at the time of pre-dispatch inspection/supply. 
+Wall Corner: Angular corners made with a 130°-140° angular modular element with the same 
+finish of the wall panels. Such unit is internally completed by a stainless-steel recovery duct 
+formed by a single sheet/SMS, perfectly integrated and shelled in order to allow the correct 
+element sanitization. A removable front panel allows both access to the canal behind either 
+the regulation of the air flow between the lower and upper opening 
+Sealing Gaskets/Material: Should be non-toxic silicone rubber/material around all the 
+contact perimeters between the various materials, and the hermetically sealed gaps between 
+modules, should ensure optimum space segregation and ensure that sterile air pressure 
+values are maintained in the protected environment, this be being a fundamental prerequisite 
+for guaranteed sterility. Should be seamlessly connected surface 
+B 
+Ceiling Paneling System: 
+ 
+The prefabricated ceiling plates/cassettes shall be made up of SS 304 panels with sheet 
+thickness of at least 0.8 mm sandwich panel (both side 0.8mm thick sheet) of PUF with 
+minimum density 40kg/m3, matte finished and coated with antibacterial paint. It shall be from 
+the same manufacturer as that of wall panel. Total thickness shall be 30- 40mm 
+C 
+Sterile Anti-bacterial Coating 
+ 
+Anti-bacterial and Anti-fungus sterile coating will be applied on the SS finished walls & ceiling 
+with at least 2-3 coats to achieve a thickness of minimum 200 micron. Before application of 
+sterile allocating an appropriate primer will be applied. The Primer will be supplied along 
+with the paint and will be imported. 
+The primer will be applied prior to coating of Anti – bacterial & Anti- Fungus Sterlite paint an SS 
+walls& ceiling. 2 to 3 coats will be applied to achieve a thickness of 200micrones. 
+Sterile coating and primer will be applied on the surface by air-less spray gun. Sterile coating 
+will be to withstand with commonly used cleaners in the operation rooms and even 
+withstanding with regular steam cleaning. 
+ 
+ 
+
+
+--- Page 27 ---
+Executive Engineer (AC&R) NIT No. AIIMS/BBSR/ENGG/ACR/NIT/27    Page 27   (Signature of the Bidder with Seal) 
+D 
+Laminar Air flow system 
+ 
+The ceiling filtration system shall be designed to ensure unidirectional distribution of sterile 
+air in the surgical theatre to ensure cleanliness of all the area covered by the airflow. 
+The laminar flow system shall comprise of thick extruded aluminum profiles frame and 
+sealed gasket. The filters installed in the plenum shall be suitable for application for laminar 
+flow and clean rooms. These filters shall meet following specifications: 
+Separators: continuous thermo plastic chord 
+Sealant: Polyurethane 
+Gasket: 
+One-piece 
+polyurethane 
+MPPS average efficiency: > 99.95% 3 
+Micron DOP efficiency:> 99.99% 
+Final pressure 
+drops: 
+600 
+Pa(maximum) 
+Maximum operating temperature: 600Celsius 
+RH: 40-50% 
+The ceiling system shall be equipped with “H 14” class HEPA filters positioned in the ceiling 
+to achieve 0.25 m/s flow at the diffuser. 
+Filtration ceiling system holding structure, filter frames and top plenum shall be made of
+aluminum/stainless-steel. 
+The filtration ceiling system shall have diffuser/flow equalizer to achieve uniform and 
+constant air distribution over the whole surface. It shall be CE/US FDA/ETL/UL /BIS 
+certified/listed. 
+The air management system shall be designed to achieve class 100 cleanliness with the
+following parameters: 
+Bacteriological class=B (5 CFU/m3) 
+ 
+Particle decontamination kinetics CP=5-minute ISO 
+14644/1 or latest classification= ISO 5 
+Third party validation shall be obtained from Government approved environment 
+laboratory (after installation) 
+Positive pressure shall be maintained inside the MOT to prevent contamination due to air from 
+outside. 
+The supplier shall provide test certificate for HEPA filter and laminar air flow systems from 
+the original manufacturers. 
+Size of laminar airflow system shall be minimum 8 feet X 8feet. 
+It shall be CE/UL/US FDA/ETL /UL/ BIS certified/listed. 
+Note: Prospective bidders are advised to coordinate with HVAC designer for information 
+regarding CMH and AHU capacity. Total flow rate of filter bank shall match the CMH of 
+AHU. 
+ 
+ 
+ 
+ 
+E 
+ 
+ 
+PERIPHERAL LIGHTING AND CLEAN ROOM LUMINARIES (LED TYPE) 
+ 
+To provide peripheral lighting and clean room luminaries with illuminance of minimum 500 
+Lux. These shall be minimum 8 in numbers for each MOT and shall be with optical 
+antiglare system. 
+Luminaries cover shall be made of highly resistant, disinfectant proof laminated safety 
+glass/acrylic with stylish fine-grained surface. 
+The white luminaries’ body shall be made of sheet steel/perfectly powder coated. 
+Recess frames shall be airtight. The fitting shall be flush with the ceiling and shall be 
+removable from top or bottom. The light fitting shall be uniformly and aesthetically 
+distributed on the ceiling to provide uniform illumination in the MOT. Light shall not interfere 
+when green mode endoscopy is performed. 
+Peripheral lighting shall be done according to IP 65regulations. 
+Control equipment for the general lighting and the light dimming shall be provided in the 
+theatre control panel. 
+
+
+--- Page 28 ---
+Executive Engineer (AC&R) NIT No. AIIMS/BBSR/ENGG/ACR/NIT/27    Page 28   (Signature of the Bidder with Seal) 
+ 
+F 
+ 
+TOUCH SCREEN CONTROL PANEL: 30" or more 
+ 
+The control panel shall be touch screen panel. This control panel shall work as the central 
+control panel for the HVAC controls, instruction board, touch screen and ON/OFF of MOT 
+light. It shall be CE/US FDA/ETL/UL/BIS certified/listed. 
+The touch screen shall be wall mounted, stationed in the visibility line of the surgeon and 
+MOT staff. The access height shall be convenient for the nurse to operate. 
+The panel shall accommodate digital clock and the elapsed time indicator. 
+The medical gas alarm shall indicate high and low gas pressures for each gas service 
+(except for vacuum, for vacuum it shall be normal or low) present in the MOT including 
+vacuum. This shall be supported by audible alarm also. The panel shall have an alarm mute 
+(fault annunciation) facility. The sensors (pressure switches) shall be at the nearest isolation 
+valve. 
+It shall have control for general lighting: ON/OFF and dimming controls organized in groups 
+to provide uniform illumination. 
+ 
+On/Off operation of the operating light (major and satellite) shall be 
+provided. Hands free telephone set with memory shall be located at onside. 
+Temperature and humidity control for the room connected to the AHU (adjustable from the 
+panel) shall be provided. There shall be a provision of MOT temperature adjustment from 
+the controller (temp adjustment of +/-50C to be achieved within 5 minutes) wherever 
+separate AHU is provided for each MOT. 
+Digital room pressure indicator in cm of H2O or equivalent shall be provided (signal from 
+pressure sensor shall be provided to indicate pressure differential between MOT and outside). 
+ 
+HEPA filter bank differential pressure indicator shall be provided. 
+The Control Panel shall be able to be integrated with HIS (Hospital Information 
+System)/BMS. 
+The Control Panel shall be able to display the Isolation Panel Alarm Conditions along with 
+MGPS Alarms. 
+ 
+ 
+ 
+G 
+ 
+X-RAY FILM VIEWER 
+ 
+LED type flat panel X-ray viewing panel shall be flicker 
+free. This shall comply with relevant electrical safely 
+codes. 
+Mounting shall be flush with the wall to avoid dust accumulation and growth or organisms 
+between wall and panel. 
+The body shall be of extruded aluminum powder coated with bacteria resistant and 
+disinfectant resistant finish. 
+The diffuser on the front panel shall be a uniformly lit screen. 
+Dimming electronic control shall be enclosed at the bottom of the cabinet. 
+Proper spring-loaded film clip with rollers/holding button shall be provided to hold the films 
+firmly and to remove the film without scratches. 
+It shall consist of dual panel viewing screen (14"x17"each). 
+
+
+--- Page 29 ---
+Executive Engineer (AC&R) NIT No. AIIMS/BBSR/ENGG/ACR/NIT/27    Page 29   (Signature of the Bidder with Seal) 
+H 
+PVC FLOORING WITH SELF LEVELING 
+ 
+Suitable self-levelling shall be done before PVC flooring to avoid undulation within the MOT. 
+It shall be minimum 2 mm thick anti-static seamless PVC flooring. 
+Floor shall be smooth, non-slip, impervious material conductive enough to dissipate static 
+electricity but not conductive enough to endanger personnel from electric shock. 
+Continuous roll of PVC flooring shall be used and joints shall be welded by special PVC 
+thermal welding units using PVC welding bars of same colour. 
+The sheets shall be highly durable and resistant to shock, scratch and indentation. The 
+conductive material shall be uniformly impregnated as grains. 
+It shall be inert to body fluids, chemicals and disinfectants and shall not be affected by 
+temperature variation within the OT. 
+The floor shall efficiently discharge electric charges up to 2kV. 
+Flooring shall be done by skilled workers of accredited agencies authorized by the supplier 
+ofPVCsheets.Theelectricalresistance(pointtoground)shallbewithin2.5x104to5x106 
+Ohms. The floor shall not allow build-up of electrical charge beyond 100 Volts due to 
+antistatic effect. The corners shall not be terminated sharply and concealed cove-former 
+(aluminum) shall be used to overlap the wall panel to a height of approximately 25 mm and 
+sealed perfectly and uniformly. Self-levelling compounds shall be used. 
+The conductive copper grid laid underneath the PVC sheet shall be supported by liquid 
+epoxy compounds allowed to set as a uniform and level surface. The copper strips to be 
+made visible by grinding and no copper strip shall project more than 0.5mm above level 
+surface to avoid damage to the PVC sheet. One earthing lead shall be brought out from 
+every 150 sqft area and attaching it to the main earthing strip/ground. 
+Copper grounding strips (0.5 mm thick, 50 mm width) shall be laid flat on the floor in the 
+conductive adhesive and connected to copper strip of grounding. The connection from 
+copper grid shall be brought out uniformly at places to form equipotential grid. 
+Flooring shall be mechanically shock proof, scratch proof, flame retardant and antimicrobial. 
+Corners shall be uniformly curved. 
+Colour shall be uniform, pleasant and matching with ambience and as approved by the 
+department. 
+ 
+ 
+I 
+HATCH BOX 
+ 
+It shall be provided in each operation theatre to remove waste materials from the operation 
+theatre to dirty linen area/corridor just adjacent to MOT. 
+Each hatch box shall be equipped with two doors and the doors shall be operated 
+electrically/motorized. 
+The hatch shall be designed in such a way that only one door shall be openable at one time. 
+The UV light shall be so installed that it is kept ON while both the doors are closed. This UV 
+light has to be automatically turned off in case of opening of either of the doors. 
+Indicators shall be provided on both sides of the MOT so that door open/close status can be 
+monitored from both sides. 
+Hatch Box material shall be SS 304grade. 
+Length and width of the hatch box shall be minimum 600mm x600mm 
+
+
+--- Page 30 ---
+Executive Engineer (AC&R) NIT No. AIIMS/BBSR/ENGG/ACR/NIT/27    Page 30   (Signature of the Bidder with Seal) 
+J 
+SCRUB STATION (minimum size 1500mm) 
+ 
+Compact surgical scrub sink shall be designed for use in MOT complex for pre-procedural 
+scrub. Double sink combination shall be provided. 
+Each fixture shall be fabricated from heavy gauge type 304 stainless steel (minimum 
+thickness 1.5 mm) and shall be of seamless welded construction, polished to a satin finish. 
+The scrub sink shall be provided with a front access panel which shall be easily removable 
+for access to the water-controlled valve, waste connections, stopper sands trainers. 
+Hands free operation shall include infra-red sensors with programmable adjustment. 
+Thermostatic mixing, valve control shall be located behind the access panel and it shall 
+maintain constant water temperature.  
+Timing shall be adjustable to meet individual application requirements. 
+It shall be provided with infrared sensors; thermostatic control taps with fail safe temperature 
+controls. All units shall have reduced anti- splash fronts. Knee/foot operated switch shall be 
+provided additionally. 
+ 
+ 
+K 
+HERMETICALLY SEALED DOORS 
+ 
+Door sizes shall be as per below option and quantities will be as per BOQ 
+Hermetically sealed doors size: 2.1 m x 2 m with Lead Line (As per AERB Norms) 
+These shall be hermetically sealed, single sliding doors. 
+The controller shall be capable of being operated by elbow switches/foot switches as well 
+as touch less sensor. 
+The track and its cover shall be in single piece of stainless steel/aluminum and the running 
+surface for the top rollers shall be suitably angled to reduce resistance to movement. 
+The door leaf shall be hung by means of hard plastic rollers of high quality with double 
+bearing at the top. Rollers shall be provided under the stainless steel/aluminum track to 
+enable smooth and noiseless movement. 
+Opening and closing of the door shall be microprocessor controlled electro-mechanical 
+movement. 
+The door material shall be of SMS/ HPL. Colour shall match the interior and care shall be 
+taken to make the leaf strong and lightweight. 
+One shall be able to open and close the door effortlessly in case of failure of automatic 
+mechanism. 
+Door opening handle shall be strong and sturdy. Material of the handle shall be of SS 
+(gloss/matte finish). Door shall be provided with high quality cylindrical/ ESPG lock. 
+Door leaf shall have high quality synthetic rubber gasket with long life to ensure hermetic 
+sealing (to maintain air pressure differential) with air tightness of 99.99% at a pressure of 
+minimum 75Pa. 
+The finished floor on either side of the door shall be perfectly level (maximum permissible 
+difference + 1mm). 
+The overall thickness of the finished door shall be 50-60 mm. The inner part of the door 
+shall be filled with CFC free polyurethane foam thickness of about 48 mm. (Sealed airtight 
+to prevent further ingress of any microbial organism). 
+The door and controls shall comply with IEE regulation. All motors used shall be DC 
+brushless/PMDC motors with essential isolation from mains. 
+Door shall be with vision window 300 mm x 300 mm with double glazed panels and 
+hermetically sealed. Door movement shall have minimum noise. 
+The starting time after receiving the signal shall be adjustable between 0.5 to 10seconds. The 
+door controller shall be CE marked. 
+ 
+
+
+--- Page 31 ---
+Executive Engineer (AC&R) NIT No. AIIMS/BBSR/ENGG/ACR/NIT/27    Page 31   (Signature of the Bidder with Seal) 
+Test certificate for hermetically sealed door frame (factory test certificate) shall been closed 
+with the pre-dispatch documents. 
+L 
+MOT LIGHT WITH CAMERA 
+ 
+MOT light –LED 
+MOT surgical lighting system shall provide an ideal combination of brightness, 
+manoeuvrability and shadow resolution without sacrificing colour and accuracy through 
+a consistent LED technology. Such lighting system shall have the following technical 
+specifications: 
+Number of light heads: Two 
+Colour temperature range: 3800oK to 5000oK (±10%)-Variable colour temperature. Field 
+size diameter: 20 to 28cm (+/-10%) 
+Working range: 750 to 1100mm (+/-10%) 
+Illumination level: minimum 160,000 lux (both for major dome and minor dome 
+separately) Controls: control panel (two: one on the wall and other on dome) 
+HD Camera System – 1080p/i 
+Description: Integrated in-light camera system shall be integrated at the centre of one of 
+the domes of this lighting system/third arm in order to capture images and video 
+sequences of the open cases. 
+Such a autofocus–lockable camera shall have the following specifications – 
+a. Signal to noise ratio (S/N Ratio): >50 dB 
+b. 
+CCD/CMOS: 1/3” or1/2.8” 
+c. 
+Optical zoom:10X 
+d. 
+Digital zoom:12-15X 
+e. 
+Video output: HD, DVI, S-video and composite video 
+f. 
+White balance and gain: Automatic/Manual 
+g. 
+MOT light and Integrated Camera shall have a control through touch panel of the 
+control equipment placed inside the operating room. 
+M
+. 
+RECORDING SYSTEM and PACS (picture archiving & communication system) monitor 
+ 
+ 
+ 
+ 
+Recording system shall be offered separately. Recording system shall be having one TB 
+storage space. 
+Data cable for communication from both pendants and monitors shall be laid down up-to 
+outside of MOT in a patch port for future expansion for all MOTs where there is no 
+integration. 
+ 
+Patch panel for power and signal shall be laid down for 48-inch LED monitor at wall of MOT. 
+Recorder shall be capable of recording video from other sources like microscopes, 
+endoscopes etc., suitable provision for the same shall be made. 
+Monitor: It shall be medical grade monitor. Its size shall be minimum 48 inch. It shall be 
+integrated with hospital PACS. The MOT firm shall do the necessary coordination with 
+hospital authorities   for   connecting   the   PACS   monitor   to   the   hospital   PACS.   If 
+hospital/institute PACS is  not  available,  MOT  firm  shall  terminate  all  PACS  monitor 
+connection to switch located in MOT corridor for further connection by the hospital. 
+Monitor shall be flush mounted with suitable frame in MOT wall. Frame shall be 
+openable/serviceable for service. 
+
+
+--- Page 32 ---
+Executive Engineer (AC&R) NIT No. AIIMS/BBSR/ENGG/ACR/NIT/27    Page 32   (Signature of the Bidder with Seal) 
+N 
+HD LED Flat Panel Monitor 
+ 
+ 
+It shall be 30-32” medical grade high-definition progressive scan flat-panel monitors with ceiling 
+mounted spring arm suspension to support high definition/HDTV progressive scan images 
+and shall be able to support and display DVI/HDTV, RGBHV, S-video, composite video 
+signals. Aspect ratio 16:9/16:10. Resolution: 1920X1080 or better. It shall meet IP 54 
+regulations. 
+The flat panel suspension shall be ready with the cables for integration of high-definition 
+digital (DVI/HDTV), RGBHV (high resolution), SVHS(S-video), composite video signals to 
+travel from the various sources of video like endoscopic camera, room camera, in-light 
+camera, high definition flat panel monitors, while assuring apivore solution/signal. 
+Monitor shall be capable of displaying from other sources like endoscope, microscope etc. 
+Necessary provision for the same shall be made. 
+O 
+PENDANTS FOR ANESTHETIST 
+ 
+Double arm moveable pendant for Anesthetist 
+The pendants shall comply with NFPA 99C/HTM 02-01/DIN/EN/ISO 7396-1 as amended up 
+to the last date of receipt of tenders. The support arms shall be extremely robust and 
+revolve on high quality bearings, so that the pendant head glides smoothly and quickly to 
+any desired position. 
+It shall have double moveable arms (any combination) with total coverage of minimum 1800 
+mm and minimum 330o. Each arm shall have ability of horizontal movement. 
+Vertical 
+movement shall be motorized and the arm height shall remain at a height greater than 6 
+feet above floor level. 
+Weight carrying capacity of the arm shall not be less than 180 kg and it shall have 
+electromagnetic brakes. 
+Each arm shall be capable of minimum 330o of rotation, which can be easily adjusted to suit 
+the desired mode of operation. 
+The pendant shall be European CE Certified with 4 digit notified body number/US 
+FDA/ETL/UL/BIS certified/listed. 
+ 
+The Pendant Service Heads shall be modular with minimum 800mm head. The heads shall be 
+capable of accepting a range of shelves, infusion poles, electrical switch/sockets, gas outlets 
+and other required accessories. The Pendant Heads shall support the range of Physiological 
+Monitor Mounting Solutions. 
+The Pendant Service Heads shall be supplied with medical gas terminal units and 5A/15A or 
+6A/16 A hybrid sockets. 
+Pendant shall be supplied with outlets and probes as mentioned below. 
+ 
+Oxygen outlets: 2number Vacuum outlets: 2 number 
+Nitrous oxide outlet: 1 number Air (4 bar) outlets: 2 number AGSS outlet: 1 number Electrical 
+sockets: 10 number 
+Adjustable shelf with two rails one on each side: 3 number IV Fluid Pole with 4 hooks: 1 
+number 
+Data socket RJ-45: 2 number 
+Pendant supplier shall provide cut-outs for Patch Panels in Integrated OTs (only for integrated 
+OT). 
+Anesthetist pendant shall have NIST connection for all gases to connect the MGPS system. 
+ 
+
+
+--- Page 33 ---
+Executive Engineer (AC&R) NIT No. AIIMS/BBSR/ENGG/ACR/NIT/27    Page 33   (Signature of the Bidder with Seal) 
+ 
+P. 
+PENDANTS FOR SURGEON 
+ 
+The Pendants shall comply with NFPA 99C/HTM 02-01/DIN/EN/ISO 7396-1 as amended 
+up to the last date of receipt of tenders. The support arms shall be extremely robust and 
+revolve on high quality bearings, so that the pendant head glides smoothly and quickly to 
+any desired position. 
+Double moveable arms (any combination) with total coverage of min 1800 mm and 
+minimum 330o.Each arm shall have ability of horizontal movement. Vertical movement 
+shall be motorized and the arm height shall remain at a height greater than 6.5 feet above 
+floor level. 
+Weight carrying capacity of the arm shall not be less than 180 kg. It shall have 
+electromagnetic brakes. 
+Each arm shall be capable of minimum 330o of rotation, which can be easily adjusted to 
+suit the desired mode of operation. 
+The pendant shall be European CE Certified with 4 digit notified body number/US 
+FDA/ETL/UL/BIS certified/listed under medical devices directive. 
+The Pendant Service Heads shall be modular with minimum 800 mm head. The heads 
+shall be capable of accepting a range of shelves, infusion poles, electrical switch/sockets, 
+gas outlets and other required accessories. The Pendant Heads shall support the range of 
+Physiological Monitor Mounting Solutions. The Pendant Service Heads shall be supplied 
+with medical gas terminal units and 5A/15A or 6A/16 A hybrid sockets. 
+Pendant shall be supplied with outlets and probes as mentioned 
+below. O2 and MA4: One each 
+Vacuum outlets: 2 number Air (7 bar) outlet: 01 number 
+ 
+CO2 outlet: 01 number 
+Electrical sockets: 10 number 
+Adjustable shelf with two rails one on each side: 3 number 
+Data socket RJ-45: 2 number 
+IV Fluid Pole with 2 hooks: 1 number 
+(Pole shall be capable of stacking 4 syringe pumps) 
+Nitrous oxide outlet: 1number 
+Pendant supplier shall provide cut-outs for patch panels in integrated OTs 
+(only for integrated OTs). 
+Surgeon pendant shall have NIST connection for all gases to connect the MGPS system. 
+ 
+Q 
+PRESSURE RELIEF DAMPERS (PRDs) 
+ 
+Pressure relief dampers or over flow ports shall be provided in each room to prevent 
+contamination of air from clean and dirty areas. 
+Suitably sized air pressure relief damper shall be strategically placed, enabling differential 
+room pressure to be maintained when doors are opened between clean and dirty areas. 
+Counter-weight balancing system shall be provided in the PRD to maintain positive 
+pressure inside the operation room. 
+Air pressure stabilizers shall have unique capability of controlling differential pressure to 
+close tolerance. The PRD shall remain closed at pressure below the set pressure and shall 
+open fully at a pressure only fractionally above the threshold pressure. 
+The frame, body and blade shall be of grade SS 304 stainless-steel. 
+R 
+OPERATING LIST BOARD 
+ 
+It shall be made of ceramic having magnetic properties and shall be flushed to the wall of 
+the MOT 
+ 
+Writing Board as operating list Board of size- 1000x700x60deep 
+
+
+--- Page 34 ---
+Executive Engineer (AC&R) NIT No. AIIMS/BBSR/ENGG/ACR/NIT/27    Page 34   (Signature of the Bidder with Seal) 
+S 
+STORAGE UNIT 
+ 
+The storage unit shall be made with at least 0.8 mm thick SS 304stainless steel 
+panels. The shelves shall be of SS 304 stainless steel and removable for cleaning. 
+The storage unit shall be divided in 2 or more parts and each part shall have individual 
+glass doors with high quality locking system. 
+The overall size shall be 200 cm X 120 cm X 35 cm (approximately). 
+ 
+ 
+T 
+INTERNAL HVAC DUCTING & EXHAUST SYSTEM 
+ 
+ 
+ 
+The MOT firm shall execute all the HVAC ducting, return air grill and inter-connection for 
+supply and return air inside them OT. 
+All the ducting shall be of aluminum, insulated and shall conform to CPWD General 
+Specifications for Heating, Ventilation and Air-Conditioning Works-2017 as amended up to 
+the last date of receipt offenders. 
+The return air cabinets shall consist of an openable grill and shall be 
+cleanable. These cabinets shall have suction from bottom and top also. 
+Designed flow rate shall not be less than 1000 m3/hour. Distribution of exhaust air volume 
+shall be divided between fluff strainers to maintain the required pressure within the theatre 
+without causing turbulence. 
+Return air exhaust cabinet shall be made from SS 304. Also, it shall match perfectly with the 
+ceiling system aesthetically. 
+ 
+Hangers will be provided to ducts & will be suspended be means of G.I. coated rod & these will 
+not be more than 2.5 mtrs apart. Thermal insulation size 19mm for supply and 13mm for return 
+of nitrate with aluminum foil for supply & return air ducts. Joints will be lapped with Nitrile tape 
+for better insulation. (Inside OT & Till AHU only). 
+U 
+Isolation Panel System (IPS) 
+ 
+Isolation Panel System of minimum 20 kVA capacity shall be provided for every operation 
+theatre to ensure the safety of staff and patient. System shall have isolators provided 
+through leakage relays etc., if required, according to IEC recommendation. This unit shall 
+be EN/European CE/UL/BIS/FDA/ETL listed/certified. These systems are to be 
+commissioned by specialists. It shall be medical grade isolation panel. It shall have fault 
+detection feature.  
+It shall be compliant to CEI 64-8/IEC 60364-7-710/BS 7671 Standard as amended up to the 
+last date of receipt offenders. 
+It shall be compact and mountable on wall or flush on brick wall. 
+Isolation panel system shall have facility to detect fault of leakage current for each circuit 
+(minimum 12 circuits) and same shall be integrated with touch screen control panel of MOT 
+and alarm status shall be displayed on the touch screen control panel. 
+   V 
+ 
+ELECTRICAL INSTALLATIONS 
+ 
+Earthed equipment bonding of all exposed metalwork shall be provided. 
+ 
+Power sockets within the Operating Theatres ancillary areas shall be matched to the rest of the 
+hospital. 
+Each wall of MOT shall have minimum 02 number 6A/16A hybrid switch sockets. One 32A 
+
+

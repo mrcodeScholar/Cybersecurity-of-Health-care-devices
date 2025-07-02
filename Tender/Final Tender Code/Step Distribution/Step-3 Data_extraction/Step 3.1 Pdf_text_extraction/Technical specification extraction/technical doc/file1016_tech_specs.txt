@@ -1,0 +1,267 @@
+--- Page 45 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/CCU/FNIRS /2022-23/59/GTE 
+45  
+ 
+ 
+ 
+ 
+SECTION-VII  
+               Technical Specification for  Functional Near Infra-Red Spectroscopy 
+Specification of Monitor for NIRS(Regional Oximetry) , Brain Function , Oxygen 
+Reserve Index, 
+Continuous Haemoglobin, Fluid Responsiveness Monitoring 
+ 
+1. NIRS(Regional Oximetry) monitoring with following features 
+a) Should use Near Infrared Spectroscopy and reflectance Pulse oximetry for accurate 
+monitoring to 
+tissue oxygen saturation in brain. 
+b) Should provide differential analysis of regional to arterial oxygen saturation for reference 
+.SPO2 
+c) Should have numerical Display of Regional oximetry (rSO2), O3 ( Forehead Arterial Oxygen 
+saturation), Spo2, .base ( diff between current rSO2 and user defined baseline), AUC Index ( to 
+quantify depth and duration of patient stay below Rso2 alarm limit), Spo2 
+d) Should provide graphical Trend display for regional Oximetry 
+ 
+2. Monitor for Non invasive Monitoring of brain Function with 4ch EEG Regional Oximetry, Oxygen 
+reserve Index, Continuous Haemoglobin, Fluid Responsiveness, Perfusion Index, Pluse Oximetry and 
+Pulse rate in patients undergoing surgery. 
+ 
+3. Brain function monitoring with following features 
+a) Should provide 4 channel real time EEG simultaneously for continuous assessment of both 
+sides of 
+brain 
+b) Should have continuous numerical display of patient state index (PSI) a processed EEG parameter 
+to help clinician access patient response to anesthesia and depth of anesthesia. 
+c) Should display easy to interpret Density Spectral array representing EEG Power and Bi 
+Hemispheric activity including asymmetry. 
+d) Should also have continuous numerical Display of Suppression Ratio, Artifacts, Spectral edge 
+frequency (Right & Left). 
+e) Should provide customizable Trend and views 
+f) Should have streamlined design easy and quick to apply sensor with plastic disk. 
+ 
+4. Oxygen reserve Index monitoring with following features 
+A) Should provide non-invasive continuous monitoring of oxygen reserve index (ORI) in patient 
+receiving supplemental oxygen to ensure safety of patients 
+B) Should have trend display for ORI and have alarm facility to notify clinicians of changes in 
+patients 
+oxygen index 
+5. Continuous Non Invasive Haemoglobin with following features 
+a) Should be able to measure continuous Non-invasive Haemoglobin, Spo2, Pulse rate, Perfusion 
+Index, Pleth variability and Oxygen Reserve Index through same single finger 
+sensor 
+b) Bedside monitor should have selectable Spo2 averaging Modes – 2,4,8,10,12,14 or 16 seconds & 
+Sensitivity – APOD, Normal and Max 
+c) Should display continuous Haemoglobin trend to enable clinician take quick decision 
+6. Monitor should have Multi touch Backlit TFT LCD Colour Display Atleast 10” size with Adjustable 
+Brightness. Monitor should be high resolution (1280 x 800 Pixels ) 
+7. Should also have an integrated hand held monitor. This monitor should be detachable and usable 
+as a portable independent monitor with inbuilt battery backup for atleast four hours. 
+8. Patient monitor should have rotational colour touch screen with automatic change to horizontal 
+or vertical view 
+9. Patient monitor should have facility to customize display to see parameter, waveforms or trends 
+patient monitor should have trend function with facility to select one or two parameters and move, 
+
+
+--- Page 46 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/CCU/FNIRS /2022-23/59/GTE 
+46  
+ 
+expand or collapse parameter trend for real time analysis 
+10. 
+Should have facility store patient parametric data and display trend up to 96 hours at 2 
+seconds 
+sampling rate 
+11. 
+Should have user configurable display setting and alarms for patient parameters 
+12. 
+Should have Audible and visual alarms for High/Low Haemoglobin (SpHb), High/Low Spo2, 
+High/Low pulse Rate, High/Low PVI, High/Low Oxygen reserve Index, Probe off, cable disconnects 
+and low battery 
+13. 
+Display and Measurement Range 
+ Total Haemoglobin (SpHb ) – 0-25 g/DI 
+ Oxygen Reserve Index – 0.00 – 1.00 
+ Oxygen Saturation (Spo2) – 0- 100% 
+ Pulse Rate (PR) – 25 240bpm 
+ Perfusion Index ( PI) – 0.02 – 20 5 
+ Pleth Variablility Index – 0- 100 % 
+14. 
+Accuracy 
+ Total Haemoglobin : 8-17 g/DI 
+ACCRACY: +-1g/DI 
+ Saturation range : 70 % to 100 % 
+Accuracy: +- 2% 
+ Pulse Rate : 25-240bpm 
+Accuracy: +- 3bpm 
+ Oxygen Reserve Index : 0.00 – 1.00 
+Accuracy : >_ 85 % sensitivity and > 80% specificity to a PaO2 value < 150 mm Hg 
+ Trending Regional Oxygen Saturation (Rso2) ARMS – 3 % 
+ Absolute regional oxygen Saturation (Rso2) ARMS – 4 % 
+15. 
+Resolution 
+ 
+Total Haemoglobin (SpHb) – 0.1 G/DI 
+ 
+Oxygen Saturation (SpO2) – 1 % 
+ 
+Pulse Rate (PR) – 1 bpm 
+ 
+Perfusion Index (PI) – 0.01 5 
+ 
+24 Bits at 250 samples per second- Depth of Sedation Monitoring 
+16. 
+Monitor should meet international quality and safety standards and should be USFDA and 
+European CE approved product 
+17. 
+The vendor should quote price for sensors valid for atleast three years 
+18. 
+The patient monitor should be supplied complete with 
+a) Sensor for continuous Haemoglobin, ORI, PVI, Spo2, PI – 10 nos. 
+b) Sensor for regional Oximetry – 10 nos 
+c) Sensor for Brain function monitoring – 10 nos 
+19. 
+Should be compatible for connectivity with patient safety Remote monitoring and 
+Notification 
+system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 47 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/CCU/FNIRS /2022-23/59/GTE 
+47  
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE 
+document for complete equipment (including Batteries for UPS, other vacuumatic 
+parts wherever applicable) Warranty period will be 5 years from the date of 
+installation, commissioning and Site Modification Work from the date of 
+satisfactory installation, commissioning, trial run & handing over of equipment to 
+Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period 
+by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After 
+sales 
+service 
+centre 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service should 
+be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date of 
+supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian 
+Agents (if they have the requisite know-how) for operation and maintenance of the 
+equipment to the satisfaction of the consignee. The same will be in line with the 
+training modalities as specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ service 
+/operational manual of the manufacturer, labour and spares, after satisfactory 
+completion of Warranty period may be quoted for next 5 years on yearly basis for 
+complete equipment (including Batteries for UPS, other vacuumatic parts 
+wherever applicable) and Site Modification Work (if any). The supplier shall visit 
+each consignee site as recommended in the manufacturer‟s technical/ service 
+/operational manual, but at least twice in six months (i.e. 4 preventive 
+maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of 
+any such stipulation the price will be taken inclusive of such taxes and no claim 
+for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank guarantee 
+for 2.5% of the cost of the equipment as per Section XV valid till 2 months after 
+expiry of entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 
+365 (days) basis, with penalty, to extend CMC period by double the downtime 
+period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee‟s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the 
+Bank Guarantee for Annual CMC. 
+
+
+--- Page 48 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/CCU/FNIRS /2022-23/59/GTE 
+48  
+ 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 49 ---
+                                                                      
+                                                             Tender No. AIIMS/R/CS/CCU/FNIRS /2022-23/59/GTE 
+49  
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to 
+be installed, in consultation with HOD of Hospital/Institution/Medical College concerned. 
+Site Modification Work details of each Hospital/Institution/Medical College are given at the 
+end of Technical Specification. The Tenderer to quote prices indicating break-up of prices of 
+the Machine and Site Modification Work of each Hospital/Institution/Medical College. The 
+Site Modification Work costs to be quoted in Indian Rupee will be added for Ranking 
+Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation 
+the price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer‟s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The 
+tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it‟s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard 
+IEC- 60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is 
+not available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard 
+interface interoperability conditions for networked equipment in hospital 
+management information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period 
+
+

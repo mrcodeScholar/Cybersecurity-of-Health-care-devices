@@ -1,0 +1,125 @@
+--- Page 17 ---
+Page 17 of 40 
+ 
+[Supply, Installation & Commissioning of Digital Physiograph] | 
+[Tender Ref.: AIIMS/BBSR/PHYSIO/2023-24/36] 
+3. Technical Bid (Specification) :  
+ 
+Name of the e -Tender : Supply, Installation &Commissioning of Digital Physiograph  
+at AIIMS, Bhubaneswar. 
+ 
+3.1 Schedule of Requirements: 
+ 
+The institute requires 02 nos. of Digital Physiograph to be used by the Department of 
+Physiology. The equipment is/are to be delivered within 90 days from placing of Purchase 
+Order at the Central Store of AIIMS Bhubaneswar at the quoted/ negotiated price without 
+any additional cost to the institute as per specifications given below. 
+3.2 SPECIFICATIONS OF DIGITAL PHYSIOGRAPH  : 
+ 
+Sl. No 
+Technical Specification 
+Compliance 
+Yes / No 
+Remarks 
+1 
+The wired system should measure ECG, Heart 
+rate, HRV, EMG, EEG, hemispheric EEG, 
+Pulmonary function test, Blood Pressure, Heart 
+sound, EGG (Electrogastrography) from human 
+subject 
+ 
+ 
+2 
+No of channels of the wired system -4 
+ 
+ 
+3 
+Analogue to Digital resolution of the system 
+should be of minimum 24 bit. 
+ 
+ 
+4 
+Sampling rate: 400K samples/second aggregate. 
+ 
+ 
+5 
+Input voltage range should be adjustable from 
+400 mv(microvolt) to 4 V p-p. 
+ 
+ 
+6 
+Analogue voltage output range should be 0 - 10 V 
+with resolution of 16 bit 
+ 
+ 
+7 
+The system should be upgradable to use 
+following parameters at a later date such as EDA, 
+NCV, PPG, reaction time 
+ 
+ 
+8 
+Signal to noise ratio should be 89 dB min i.e 1000 
+samples/sec each channel 
+ 
+ 
+9 
+System should come with recording and analysis 
+software for both teaching and research, and 
+teaching software should have step by step 
+introduction for performing experiment 
+ 
+ 
+10 
+Software should have ability to apply filter like llR, 
+FIR, Low pass, high pass and band pass to 
+acquire the signals of the above mentioned 
+parameter 
+ 
+ 
+11 
+System will be able to check the impedances at 
+ 
+ 
+
+
+--- Page 18 ---
+Page 18 of 40 
+ 
+[Supply, Installation & Commissioning of Digital Physiograph] | 
+[Tender Ref.: AIIMS/BBSR/PHYSIO/2023-24/36] 
+the level of electrodes. 
+12 
+It should be with CE and IEC certified. 
+ 
+ 
+13 
+2 transducers for measuring ECG, EMG, EEG, 
+EGG 
+(electrogastrography), 
+transducer 
+for 
+pulmonary function test, BP & heart sound. 
+ 
+ 
+14 
+One desktop PC ( i5 processor, 4 GB RAM, 1 TB 
+HDD with windows 10 original) compatible with 
+the system 
+ 
+ 
+15 
+Warranty for five years 
+ 
+ 
+16 
+Installation and demonstration at customer point 
+with trained technical staff. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

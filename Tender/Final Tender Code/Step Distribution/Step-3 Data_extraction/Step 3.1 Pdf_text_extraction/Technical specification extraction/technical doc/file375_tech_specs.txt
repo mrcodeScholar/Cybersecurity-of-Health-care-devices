@@ -1,0 +1,120 @@
+--- Page 10 ---
+Tender for Portable Color Doppler Ultrasound Unit                                                Admn/Tender/23-4/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+Color Doppler 
+Ultrasound 
+Unit  
+A state of art fully digital, compact portable Colour Doppler 
+Ultrasound machine with pin less connector is required with following 
+technical features. 
+1. The unit must be compact, portable and lightweight, weighing 
+less than 5.5 kg.  
+2. Imaging modes  Real time 2D, Colour Doppler, Power 
+Doppler, Pulsed wave Doppler, Continuous wave Doppler (on 
+all cardiac transducers), Tissue Doppler Pulsed Wave Doppler 
+(TDI PW) must be available. 
+3. Unit should be able to give very high image quality with 
+advance technologies for better tissue differentiation and edge 
+detection, equivalent to high end cart based systems.  
+4. System should be able to support speckle reduction imaging for 
+better tissue differentiation and edge enhancement. 
+5. The system shall have the ability to enhance tissue margins and 
+improve contrast resolution by reducing artifacts and 
+improving visualization of texture patterns & needle tip within 
+the image, please specify the technology.  
+6. System should have both online (Read) as well as 
+offline(Write) zoom facility  
+7. Imaging modes of Real time 2D, Colour Doppler, Pulsed wave 
+Doppler, Continuous wave Doppler, Power Doppler must be 
+available on all cardiac transducers. 
+8. System must have fast start up to scanning in less than 30 
+seconds from off condition, for use in critical and emergency 
+situations.  
+9. System should support transducer technologies like phased 
+array, convex, linear, TEE etc.  
+10. Cine memory on all modes.  
+11. The system shall process a dynamic range that is at least 
+165db. The system must display at a maximum depth of 35 cm. 
+12. Unit must be sturdy, resistant to breakage & damage on fall/ hit 
+against the wall or hard surface. The certificate must be 
+attached. 
+13. Flat LCD/ TFT monitor of at least 10 inches with flicker free 
+image. 
+14. Alphanumeric soft keys keyboard with easy access scans 
+controls, facility to sanitize the system keyboard to avoid cross 
+01 
+
+
+--- Page 11 ---
+Tender for Portable Color Doppler Ultrasound Unit                                                Admn/Tender/23-4/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+contamination.  
+15. The system must have the ability to function by AC/DC or 
+battery power with the same degree of functionality, the battery 
+life (run time) shall be al least 2 (Two) hours.   
+16. The system must have archive capability for storage and 
+retrieval of images and clips data. 
+17. Data Transfer facility should be available as standard, to 
+transfer images etc. easily onto another system/computer etc. 
+18. System should possess software for Enhanced Needle 
+Visualization to track the needle clearly at steep angles during 
+the procedures while maintaining striking image quality of the 
+target structures and the surrounding anatomy with simple 
+On/Off functionality.  
+19. The system shall support the all DICOM functionality, Storage, 
+Print, and Work List, already to connect to PACS. 
+20. The equipment should be mountable on trolley & locking 
+mechanism should be inbuilt into the trolley for safety & 
+security of the system. 
+21. Unit should be USFDA or European CE Certified (with 4 digit 
+notification number from a notified body). 
+22. The firm must have minimum number of 50 installations in 
+India, attach list of installations, and also provide performance 
+certificates.  
+23. The unit, transducers and all accessories should be covered 
+with 
+comprehensive 
+onsite 
+warranty 
+for 
+five 
+years 
+commencing from the date of issue of installation certificate 
+Transducers & accessories to be supplied as standard:- 
+1. 13-6 MHz 25-mm broadband linear array Musculoskeletal, vascular, 
+nerve, superficial, venous, ophthalmic 
+2.  8-5 MHz 11-mm broadband curved array Abdominal, neonatal, 
+nerve, vascular. 
+3.  8-4 MHz 10-mm broadband phased array Peadiatric cardiology, 
+abdominal, neonatal head 
+
+

@@ -1,0 +1,73 @@
+--- Page 25 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Physio/Digital Langendorff/571/2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 25 
+ 
+Fully Automatic & Compact Langendorff system 
+Technical Specifications 
+ 
+Fully automated, Compact profile system with constantly oxygenated and temperature controlled unit that 
+includes two perfusate chambers, heart chamber, heated junction block and a thermostat controller. It should 
+allow heart perfusion form rat, mouse, rabbit and guinea pig hearts. (Qty 1) 
+ 
+The pump controller should control the peristaltic pump by providing an analog output corresponding to 
+calibrated flow rates. And constant pressure/flow feedback system to the peristaltic pump (Qty 1) 
+ 
+The system should work on Constant flow and Constant Pressure modes. A simple switch should allow 
+switching between both the modes. 
+ 
+It should not have any elevated reservoirs to maintain the pressures Instead it should have a peristaltic pump 
+along with using a pump controller to be connected with the software. (Qty 1) 
+ 
+Parameters measured: - Coronary Vessel Function, Left Ventricular pressure/Developed pressure/Systolic 
+and diastolic pressure, Left Ventricular dP/dt maximum and minimum, perfusate temperature, perfusion 
+pressure, perfusion flow, Cardiac electrical activity and Monophasic action potentials, coronary flow and 
+heart rate. 
+ 
+A High speed USB based Eight Channel DAS with Max Sampling speed 400KHz, ADC 16 Bits. Along with 
+Analysis Software that tabulates the results automatically or generate instantaneous Hill Curves, displays 
+single or multiple dose response curves, calculates EC50 and Hill slopes. Along with HRV, ECG, PEAK 
+Analysis. 
+ 
+It should allow 32 channels of real time analyses along with user to export in file formats like binary, Axon 
+allow, IGOR, MATLAB, Excel, Graph Pad prism, Quick time, Wav, Text Etc. (Qty1) 
+ 
+The System should have independent stimulator outputs with output resolution of 16 bits and software 
+provides Pulse, step Ramp, wave etc. waveforms stimulus generating options. Have an option for Electrical 
+pacing of isolated Heart (Qty1) 
+ 
+The Software controlled amplifier should support software automated zeroing of the offset. It should allow 
+simple two-point calibration and multi point calibration for highly accurate studies. To be supplied with 
+compatible pressure transducers. (Qty2). 
+Latex Balloon (at least 20) along with LVP Catheter. (Qty 1) 
+ 
+Isometric Transducer Should be provided with a range (0-50gms). (Qty 1) 
+ 
+Should be supplied with pH amplifier along with pH electrode. (Qty 1) 
+ 
+The software controlled, high impedance differential Bio-Amplifier with a range of +5 micro V to +100 mV 
+along with compatible crocodile and spring clip electrodes (Qty 1) 
+ 
+Software selectable High pass filters: - 0.1,0.3, 1,3 & 10Hz along with user define digital filters. 
+ 
+Software Controlled temperature preamplifier along and T-Type Thermocouple with an operating range: -
+273 to 150 Celsius & accuracy of -+ 0.1 Celsius for monitor Perfusate Temperature. (Qty 1) 
+ 
+The software should have a free update & upgrades for a period of 5yrs. 
+ 
+Free file sharing facility with distinct user free of cost. 
+ 
+Manufacturer must be ISO 9001:2008 or latest Certified Company & company with safety standards. 
+ 
+Desktop Computers with 19” TFT Monitor, 15 processor 6GB RAM, 1TBHDD, DVDR/W or higher 
+specification of reputed brand not assembled with color laser printer. (Qty 1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,142 @@
+--- Page 11 ---
+Tender for Paediatric Plethysmography Machine                                                              Admn/Tender/75/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Paediatric 
+Plethysmography 
+Machine 
+Requirement 
+Whole body plethysmography machine for measurement of lung 
+volume and airway 
+resistance in newborn, infants, and preschool children. 
+General specifications 
+1. The dimensions of the plethysmographic chamber should be 
+sufficient to accommodate newborn, infants and children up to 
+20 Kgs and 105 Cms length. It should have sufficient space for 
+manipulation of the mask and breathing apparatus while the 
+patient is placed in the chamber. 
+2. The covering of box should be transparent with rapid access to 
+the child 
+3. The compensation chamber should have identical thermal and 
+mechanical characteristics as the plethysmographic chamber 
+4. The box should be made of polycarbonate/ similar materials 
+that ensure adequate heat exchange and should not be 
+excessively insulated. It is desirable that the net loss through 
+the walls should equal net gain from infant and equipment to 
+ensure rapid thermal equilibration. 
+5.  There should be non-compressible objects within the box  
+6. Frequency response (amplitude and phase) should be 
+satisfactory to 10 Hz with the combined time constant should 
+be 10 – 14 s (> 50-60% decay) or a half-life of 6 – 9 s. (Should 
+meet ATS/ERS recommendation) 
+7. There should be a linear response of the box signal to known 
+inputs over a range of appropriate breathing frequencies (e.g. 
+20 – 100 breaths per minute (bpm)). 
+8. It should be able to measure a volume change of as small as 1-
+2 ml during FRC measurements. 
+9. It should be able to measure FRC in range of volumes 30 – 500 
+mL, at frequencies 
+20 – 100 breath per minute. In addition to automatic selection 
+of best curve, the software should preferably permit manual 
+selection also. 
+10. It should preferably provide software for measurement of 
+airway reactance and conductance. 
+11. Machine should have USA FDA/European CE certification. 
+ 
+Specifications for breathing apparatus 
+1. The pneumotachometer (PNT) must be linear over the range of 
+flows encountered and it should remain linear when heated. 
+2. The combined dead space of the PNT and occlusion shutter 
+should be < 2 mL/kg. to minimize dead space. 
+3. The resistance of the combined apparatus should be <20% of 
+the infant’s intrinsic resistance at the highest flow likely to be 
+encountered, i.e. in term neonates, <0.7 kPa.L/sec. at 166 mL/ 
+sec, whereas for a 1-yr-old, it may be 0.5 kPa.L/sec at 500 mL/ 
+sec. 
+4. For airway resistance measurements, a two-valve system 
+should be provided. 
+5. Automated closure should be feasible at end inspiration (EI), 
+end expiration (EE), or other points through the breath as 
+specified by the user. Programmable facility should be 
+01 
+
+
+--- Page 12 ---
+Tender for Paediatric Plethysmography Machine                                                              Admn/Tender/75/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+available. 
+6. Speed of valve opening and closing (excluding any lag time) 
+should be <75 ms. 
+7. The reports of FRC should be based on at least two complete 
+respiratory efforts against the occlusion with the occlusion for 
+at least 10 s. The shutter must be able to withstand pressures of 
+3 kPa without any leaks or compressive effects. 
+8. A "shutter test" should be incorporated within the software and 
+calibration protocol, so that the shutter can be checked prior to 
+each study occasion. 
+9. The shutter must be easy to clean and reassemble. It should be 
+light, with suitable means of support and easy manipulation 
+within the box. 
+10. Activation of the shutter should result in minimal volume 
+change 10-20 ml within the box and be as quiet as possible to 
+avoid disturbing the infant or altering sleep state. 
+Specification for mask 
+1. Dead space should be minimal and < 50% of total volume. 
+2. There should be different size of face masks for newborn, 
+infant and child  
+3. The use of therapeutic putty to achieve a good, airtight seal is 
+recommended 
+Accessories with the equipment 
+Face mask and other disposable accessories should be provided 
+for 300 tests. 
+Training 
+The company should provide an application specialist to train 
+the doctors for caring out test on site.  
+All software should be included in the bid.  
+The software should be upgradeable during the life of the 
+equipment. 
+Demonstration of the equipment is a must. 
+Warranty and CMC 
+1. The bidder must quote for 5-years comprehensive warranty 
+(including all spares, accessories and labour) from the date of 
+completion of the satisfactory installation. The warranty 
+charges should not be quoted separately. 
+2. The bidders should submit their quote (rates) for subsequent 5 
+years Comprehensive Maintenance Contract (CMC) (including 
+all spares, accessories and labour) and these rates should be 
+freeze. 
+Ambient temperature and pressure 
+ 
+As per ATS/ERS recommendation 
+The company should ensure turn key installation 
+
+

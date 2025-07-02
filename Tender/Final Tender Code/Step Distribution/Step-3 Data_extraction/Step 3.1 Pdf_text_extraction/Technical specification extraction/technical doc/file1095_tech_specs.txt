@@ -1,0 +1,201 @@
+--- Page 11 ---
+Tender for High Definition Laparoscopy System at AIIMS Jodhpur                       Admn/Tender/68/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+High Definition 
+Laparoscopy 
+System  
+ 
+ The system should have following features: 
+ It should have Pure digital signal with high definition video of 
+1920x1080p 
+(min)native 
+resolution 
+and 
+progressive 
+scan 
+technology both on camera head and console 
+ It should be compatible with Aspect ratio of 4:3 and 16:9 
+ The system should have Digital and Optical Zoom to enhance the 
+quality of Image size & cross specialty standardization of the 
+camera system, regardless of the telescope used. 
+ Digital zoom, white balance control and two peripheral controls on 
+camera Head 
+ Integrated Gain/Shutter/Enhancement with automatic brightness 
+control 
+ Video Outputs: two DVI, one SVHS and one (optional) direct 
+fiber optic output 
+ The system should automatically optimize all settings. The system 
+should be ready to use as soon as it is connected to the camera 
+control unit. 
+ The system should be Menu driven, thus allowing the surgeon to 
+program the camera head functions as per the surgical needs & 
+requirement. 
+ Should be USFDA & European CE approved. 
+ Technical Specifications: 
+ Image System: 1/3” Progressive Scan CCD 
+ Pixels 1920 X 1080p pixels per chip (min) 
+ Camera Head Weight 150-250 Gms. 
+ AGC: Microprocessor controlled 
+ Signal-to-noise ratio 65-75 dB 
+ Video output: S-video signal 
+ Digital Video Interface 
+ Power Supply 100-240 VAC, 50/60HZ 
+ 
+2. High Resolution Mon :-    Qty-2  
+ The system should have: 
+ HDTV display in original 16: 9 HDTV format. 
+ 1080 p/ 50 & 1080 p/60 displays possible. 
+ Drip water protected, dustproof housing. 
+ LED crystal display. 
+ Max. Resolution of 1920X1080. 
+ Desk top with pedestal. 
+ Should have the facility of PIP mode. 
+ HD medical grade Monitor with screen diagonal “26”, 
+ Aspect Ratio 16:9 HD format 
+ Brightness : 400 cd/m2 
+ Maximum viewing angle : 178° vertical 
+ Contrast ratio: 1000 : 1 
+ Reaction Time – 8ms 
+ Rated power : 115 watts 
+ Power Supply 100-240 VAC 
+ Screen Dimensions : 673 x 418 x 88mm 
+ Video Inputs: 2* DVI, 2* 3G SDI, 1* S Video, 1* SOG, 1* 
+ 01 
+
+
+--- Page 12 ---
+Tender for High Definition Laparoscopy System at AIIMS Jodhpur                       Admn/Tender/68/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+RGB/VGA, 1* RS 232, 1* RJ 45Interface. 
+ Output: 1* DVI , 1* 3G SDI, 1* S-Video 
+ Accessories External 24VDC Power Supply, Mains Cord, Pedstal. 
+ Certified to : EN 60601-1, protection class IPX 1 
+ Should be USFDA & European CE approved. 
+3. LED Light Source :- Qty 1 
+ The system should have: 
+ 300 W 
+ 220 Volts , 
+ Light Engine: Red, Green & Blue LED’s 
+ Increased patient safety & added protection in OR with safelight 
+technology 
+ Intuitive simple user interface with LCD touch screen 
+ Standby Mode 
+ Universal Jaw Assembly to adapt any make of Fiber Optic Cable 
+ More than 5000 Hours bulb life 
+ Light intensity adjustment continuously adjustable from 0 to 100% 
+manually 
+ Should be USFDA & European CE approved. 
+ 
+4. Fiber Optic Light Cable :-   Qty-2 
+ Size should be diameter > 3.5mm, length 300 cm 
+5. Insufflator:   Qty-1 
+ Flow rate 35- 45 Liter/mints 
+ High flow with LCD display 
+ Microprocessor controlled & Software driven for upgradeability 
+ Soft approach pressure control for safe recovery of abdominal 
+pressure 
+ Should have Neonatal mode & visual and audible alarms with min 
+0.1 L flow rate 
+ Internal leakage detection capability 
+ Integrated Gas heating 
+ Having internal venting system for safety 
+ Should have video on screen display 
+ Unit should include heated tubing, hose & yoke 
+ Should be able select either central supply (4.5 kg/cm2) input 
+pressure from central supply as well as direct connection to high 
+pressure co2 cylinder and should indicate the right inlet pressure 
+of co2 gas supply of front panel of machine. Attachments 
+Maintenance free DC brushless motor 
+ 
+6. Laparoscope: Qty-1 Each 
+ Wide Angle Full Screen, Autoclavable, Forward-Oblique and 
+lateral scope 
+ Optimal centre-to-edge resolution for enhanced picture quality 
+ Angle of view:, 30º and 0º of 10 mm diameter 1 each 
+ 5 mm diameter 30 degree 1 
+ Length 30 cm 
+ Fiber optic light transmission incorporated 
+ Standard ocular window for coupling the camera head 
+ Scratch resistance sapphire coated tip lens 
+ Should be USFDA & European CE approved. 
+ 
+ 
+
+
+--- Page 13 ---
+Tender for High Definition Laparoscopy System at AIIMS Jodhpur                       Admn/Tender/68/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. High Definition Digital Documentation System (Recorder 
+System) Qty. -1 
+ The system should have: 
+ High Definition Digital Documentation System (Recorder System) 
+ Should be real time, MPEG 2 HD, 1or 2 compression engine with 
+full IBP encoding 
+ Should have video inputs minimum 2 nos. S-Video, 2 nos. 
+Composite, 1 XGA (1024 X 768) and 1 High-Definition (1280 X 
+1024). 
+ Should have video outputs S-Video, Composite, DVI & XGA 
+(1024 X 768, 1280 X1024, and 1600 X 1200) 
+ Should be capable of Progressive scan image capture: Analog (640 
+x 480), Hi-Res(1024 X 768), and Hi-Def (1280 X 1024) 
+ Should have Stereo audio Input 
+ Should have Disc Capacity of 250 GB/1 Tera bite 
+ Should have touch screen (min 10”) control panel interface 
+ Multi session disc recording capability 
+ Should support file formats for Images: Bitmap (BMP), JPEG, 
+JPEG2K, Tagged 
+ Image File Format (TIFF) Videos: MPEG-1, MPEG-2, and 
+MPEG-4 
+ Should have CD-R, DVD-R, DVD+R (single session), DVD+RW 
+Disc Recording Formats 
+ Real time Broadcasting facilities over internet in HD formats 
+should be there 
+ Should be USFDA & European CE approved. 
+
+

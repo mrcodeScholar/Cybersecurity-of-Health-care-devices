@@ -1,0 +1,71 @@
+--- Page 10 ---
+Tender for Thermal Cycler                                                                                                         Admn/Tender/215/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Thermal 
+Cycler 
+1. System should be 96 well thermal cycler  
+2. Should have ability to run at least six different assays at a time with 
+independently controlled peltier block  
+3. System should be compatible for both 0.2ml tube and PCR plate  
+4. Should provide standard and fast run mode (within 30 min.)  
+ Ramping rate should not be less than 5.000 C/sec  
+5. Each block should accommodate 16 wells and having the ability to 
+set up PCR with a specific temperature differential up to at least 50 C 
+across individual block  
+6. System should have 
+¾ Temperature accuracy: ± 0.250 C (350 C-99.90 C)  
+¾ Temperature range: 40 C-990 C  
+¾ Temperature uniformity: <0.50 C 
+ 
+ 7. Should have on board Tm calculator facility to approximate the 
+optimal annealing temperature  
+8. System should support PCR volumes ranging from 10-30 
+microlitres  
+9.  Memory: choice of saving up to 800 programs or unlimited to the 
+memory stick  
+10. System should have a USB port to transfer programs from 
+machine 
+11. Display: graphical user interface programming & colour touch 
+screen 
+12. Programmable heat lid cover from 500 C to 1050 C  
+13. Power: 220V/50~60Hz compatible  
+14. Online UPS for back up should be provided along with  
+15. Machine should be duly certified/ authorized for PCR process  
+16. Accessories: Necessary optimized reagents and plastic ware for 
+standard and fast thermal cycling reactions to be provided 
+01 
+
+

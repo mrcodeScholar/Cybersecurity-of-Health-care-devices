@@ -1,0 +1,107 @@
+--- Page 13 ---
+
+Configuration of Desktop Computer (with Preloaded Windows O.S)
+S. No.
+Feature
+Technical Specification
+1
+Processor
+Intel® Core i5 or higher
+2
+Chipset
+Intel H370 chipset or H470 Chipset or Higher
+3
+Motherboard
+OEM
+Motherboard
+with
+OEM
+logo embossed on the 
+motherboard (No Sticker)
+4
+Memory
+16 GB DDR4 RAM expandable to 64 GB or higher;
+Minimum Four
+DIMM
+slots;
+5
+Hard Disk Drive
+1TB SATA 
+6
+Optical  Drive
+CD/DVD Writer required
+7
+Graphics
+Dedicated graphics card required
+8
+Audio
+High Definition Integrated Audio with Internal Speaker, Audio in/out, Headphone out 
+and Mike In
+9
+Ethernet
+Integrated  LAN
+10
+Wireless
+Inbuilt with Bluetooth® and Wi-Fi 
+11
+Slots
+Minimum 4 PCl/PCle slots (1x PCle 16,1x PClex4, I x PClex I, or more ) & 2x (M.2 
+PCle)
+12
+Bays
+Minimum 4 bays with at least ( I ) 3.5'' Drive bays & (2) 2.5" drive bay (I ) ODD bay
+Front Pots : 4*USB minimum in which 1*USB 3.1 type-A, 1* USB 3.1 Type-
+C Gen 2 and 2*USB 2.0 or higher type-A in which at least one with Power 
+Share
+Rear Ports:4 *USB minimum in which 2* USB 3.1 type-A and 2* USB 2.0 or
+higher type-A with Smart power on feature
+1* Ethernet (RJ-45), 1* Universal Audio Port, 1* line-out, Optional Serial Port 
+1*Display Port & 1* HDMI Port or 1*VGA Port or 1*Display Port.
+14
+Form Factor
+Tower
+15
+Power Supply
+360 W or higher active PFC Power Supply with 90% efficiency or better
+16
+Keyboard/Mouse
+USB 104 keys keyboard (Same make as PC) USB 2 button 
+Scroll Mouse (Same make as PC)
+17
+Operating System
+Genuine Microsoft Windows 10 Pro 64-bit OEM 
+version(preloaded), shouldn't require activation on 
+reinstallation. Using Opensource OS, warranty should not be
+void in any case.
+18
+Diagnostic Tool
+Inbuilt Pre-Boot BIOS Diagnostics
+19
+Security
+TPM 2.0 Security Chip
+SATA 0, I port disablement (via BIOS)
+Serial, USB 
+enable/disable (via BIOS)
+Solenoid Lock / Hood Sensor/Intrusion Detection
+Support for chassis padlocks and cable lock devices 
+Drive Lock Power On Authentication/ Boot Sectors 
+Protection / Drive Protection System
+20
+Compliance & certification
+Energy Star for the quotes desktop & Monitor
+EPEAT India registered for the quoted desktop & Monitor FCC.CE,RoHS, UL 
+Certificate ISO 900I,14001 or more certifications , Latest TCO certification for 
+the quoted Desktop & Monitor
+21
+Information Accessibility
+Product details, specifications and brochure to be available in public domain
+22
+Support
+Drivers should be available for download from OEM site for at least 5 years from
+the date of purchase order
+23
+Market Credibility
+The OEM vendor should be of positive net worth for the last three years(2016-17
+Onwards) &2019-20 Optional due to extension of Financial Year
+
+

@@ -1,0 +1,63 @@
+--- Page 26 ---
+E-TENDER ENQUIRY Id: AIIMSBPLHOSP181900210012019  ( Pg No. 26  ) 
+Part-I: Technical Specification and Tentative Quantities of requested Equipment:- 
+ 
+S. 
+No. 
+Equipment 
+Name 
+Technical Specification/ Description of the requested 
+Equipment 
+Qty.  
+(Unit) 
+      
+1 
+Deep Oscillation 
+Therapy 
+Equipment 
+Technical Specification:-  
+ 
+ Frequency Band should be between 5 Hz to 250 Hz. 
+ Equipment should able to treat upto 3 Modes of 
+frequency. 
+ Applicator Head should be in 2 sizes   5 cms & 9.5 cms. 
+ Standard indication treatment mode should have 
+indications for clinics and Sports. 
+ Expert’s indication treatment mode. 
+ Video animations for various indications to guide 
+Therapist the right way of Treatment. 
+ Equipment should have Data Selector Control switch . 
+ Equipment should have Intensity Control Knob which 
+can control the intensity up to 10 levels. 
+ Equipment should have Card Reader Slot for Therapy 
+Card. 
+ Equipment should be Such that the Therapist can store 
+Patient Specific Programs on Therapy Card. 
+ Maximum treatment Time should be 40  minutes. 
+ Mobile Trolley System should be provide for carrying 
+various accessories in it. 
+ Main connection 100 - 240 volt. 
+ Power frequency 50 – 60 Hz. 
+ Output 400 Vpeak. 
+ Load impedance   10 Mohm. 
+ Current consumption  0.15A (at -230 V) or 0.3 A ( at 
+115 V) 
+ Impulse -Pause ratio  3 : 1, 2:1, 1 :1, 1:2, 1:3 
+ USFDA/CE(EUROPEAN)/DGCI/BIS/ISI/CDSCO 
+CERTIFIED (which so ever is applicable for Medical 
+Devices/Equipment/Consumables) 
+1 
+ 
+Part II: Required Supply Delivery Time Schedule: 
+ 
+For Indigenous or for imported goods if supplied from India or for imported goods 
+directly from foreign:  Supply, Installation and commissioning to be completed within 60 
+days for Indigenous Items and 90 days for Imported items from the date of NOA or date of 
+opening of LC or date of approval of layout drawing, whichever is later. 
+ 
+Layout drawing for approval, valid Performance Security and Proforma Invoice (in 
+case of LC opening) are to be submitted within 30 days from the date of release of 
+Supply Order by the Supplier Agency to AIIMS Bhopal. 
+ 
+
+

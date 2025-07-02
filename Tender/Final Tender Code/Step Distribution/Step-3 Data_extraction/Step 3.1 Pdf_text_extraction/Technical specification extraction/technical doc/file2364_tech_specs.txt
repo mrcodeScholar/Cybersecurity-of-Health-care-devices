@@ -1,0 +1,252 @@
+--- Page 17 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Obst. & Gynae/398/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 17 
+ 
+ 
+Upon the successful and timely submission of bids (i.e. after Clicking “Freeze Bid Submission” in the 
+portal), the portal will give a successful bid submission message & a bid Tender No. : ................................. 
+summary will be displayed with the bid no. and the date & time of submission of the bid with all other 
+relevant details. 
+ 
+ 
+The bid summary has to be printed and kept as an acknowledgement of the submission of the bid. This 
+acknowledgement may be used as an entry pass for any bid opening meetings. 
+ 
+ASSISTANCE TO BIDDERS 
+ 
+ 
+Any queries relating to the tender document and the terms and conditions contained therein should be 
+addressed to the Tender Inviting Authority for a tender or the relevant contact person indicated in the tender. 
+ 
+ 
+Any queries relating to the process of online bid submission or queries relating to CPP Portal in general may 
+be directed to the 24x7 CPP Portal Helpdesk number 0120-4200462, 0120- 4001002. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Technical Specifications for e4D Ultrasound Machine 
+1. System should be the latest "State of the Art" fully digital ultrasound equipment capable of performing OBS-
+GYN, intra cavitary High resolution scanning specially first trimister scans & Should have Electronic convex 
+
+
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Obst. & Gynae/398/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+4D volume probe 
+2. The system should have the following modes : B-Mode (2D), Conventional M-Mode with varying sweep rates, 
+anatomical M-Mode, PW doppler with high PRF (PW), High PRF Doppler Mode , (TD)-Tissue Doppler mode, 
+colour flow doppler mode (CFM), Power Doppler Mode(PD), Directional power Doppler, HD-Flow Doppler 
+Mode (HD-Flow) and B-Flor (BG), B/Colour/FW, volume modes 3D static , Real time 4D Mode, VCI- A, VCI 
+- Curved/ Omniview, STIC & Advance STIC with AMM, eSTIC , 4D Biopsy, Live Bi-plane. 
+3. Power doppler angio imaging for perfusion studies for visualization of flow in small vessels and should be 
+supported by all transducers. Electronic sector, Electronic Convex, Electronic Linear, Mechanical Volume 
+Sweep, Electronic volume sweep, Matrix technology probe. 
+4. The System should be having a minimum of 46,000,000 system processing channel technology 
+5.  Tissue Doppler Mode (TD) - Should allow high frame rate acquisition of tissue motion (up to 400 fps) 
+6.  Volume imaging, multislice imaging  with variable slice thickness( 0.5 - 10 mm)  and multiplanar imaging on 
+all types of 3D and 4D modes. 
+7. System should have facility for volume 3D/4D with high ultra light  4D convex volume probe  and High 
+Frequency 4D volume EV probe (on both gray scale and colour doppler modes) 
+8.  Should be capable of performing live 4D imaging with volume transducers.  4D imaging should be possible in 
+gray scale, colour mode, harmonic mode and with contrast agent imaging.  Instant rendering of MPR images 
+should be possible that rival acquired 2D resolution 
+9. Elastography analysis & Elastography ratio measurement-should be available into the elastography mode.  
+System should have indicator for compression level with side-by side display of 2D image and 2D with graphical 
+representation, elastogram images, preferred in TV probe. 
+10. System should have facility for dynamic range selections, dynamic resolution selection and different 
+optimization for settings for different tissue compositions, colour coded display with parametric imaging 
+11.  Dynamic range should be 274dB or more with range adjustability by selecting different dynamic contrast curves.  
+Higher dynamic range will be preferred 
+12.  In a  2D  scanning - Min depth  of field 0-1 cm & Max depth of field 0-36 cm (probe dependent) 
+13. 256 (8 bits) discrete gray levels 
+14. system should have 23 inch high resolution LED  display with DVI interface resolution of FHD 1920 X 1080 
+Pixel.High brightness with 300 CD/M2, 
+15. 2D acquisition frame rate more than 500 frames/sec, colour doppler frame rate more than 300/S 
+16. The system should have the latest  platform of  Matrix  technology/ Matrix probe   availability.& Electronic 4D 
+probe  for better Speed and IQ 
+17. Real time compounding with colour or power doppler imaging 
+18. Multiple frequency selection for better penetration and resolution for better tissue differentiation and better 
+contrast resolution. 
+19. Post processing tools for annotation, measurement, correction of angle, baseline, sweep speed should be possible 
+on stored images 
+20. System should have multivariate Tissue Harmonic Imaging including pulse inversion phase cancellation 
+technology and coded harmonics on all transducers. 
+21. It should be able to operate with compound imaging and speckle reduction algorithm 
+22. System should have on touch tissue contrast resolution adjustment without altering the set presets levels. 
+23. System should have real time compounding imaging technology with minimum 9 transmitted lines of sight. 
+24. Real time compound imaging should operates in conjuction with Tissue Harmonic imaging, volume modes, 
+panoramic imaging, and duplex doppler and in conjuction with speckle reduction imaging 
+25. High resolution algorithms for advanced speckle noise reduction, refined tissue pattern displays and fine border 
+definition. 
+26. Should operate in 2D and 2D/CH/Doppler mixed modes (up to 150 frames per second) and with 3D and contrast 
+agent imaging. 
+27. This feature shall have operator selectable settings and be capable of displaying in side by side mode with non 
+speckle reduced image 
+28. Should have trapezoidal imaging and steerable imaging for 2D, colour and doppler with linear probe 
+29. Panoramic / extended field of view imaging should be available on convex and linear transducers. 
+30. This mode should build the extended field of view in a real time manner, showing the image as it builds 
+31. One button automatic adjustment / optimization for 2D mode, colour mode and doppler mode with auto 
+correction of relevant fields of the mode used 
+32. Incorporates advanced pulse shaping, coding excitation using new chirp transmit technology and coded 
+harmonics mode for imaging deeper areas and obese patients. Additionally technology if available for imaging 
+obese patients will be preferred 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Obst. & Gynae/398/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+33. The system should have a fast boot up time less than 200 seconds, when switch ON from OFF position and also 
+less than 60 second from STANDBY position.  Specify the system booting time less will be preferred 
+34. System should have high capacity fans with automatic speed for system cooling 
+35. Year of introduction of the specific model - should be as latest as possible, preferably should have been launches 
+with in 1-2 years 
+36. Unique user friendly user interface for comfort and fast throughput System controls 
+37. System should have at least 45 automated and user programmable presents (output power signal processing and 
+calculations) 
+38. System should have facility to adjust 2D performance instantly for different patient types (thin, average, obese) 
+39. The system shall display thumbnails on a clipboard with live gray mode while scanning to facilitate exams 
+40. Pan and zoom facility with high resolution results in both live and frozen images 
+41. Higher zoom will be preferred with HD zoom functionality upto 22 x zoom 
+42. Cine loop review facility in individual and mixed modes (frame by frame and in video mode), 2D : up to 10 min 
+(depending on B-Image size and FPS); typical; about 3 min/4000 images (with curved array : 15 cm depth, 
+43. M mode : upto 20 min motion time (depending on sweep speed and depth) 
+44. Doppler mode : up to 10 min motion time (depending on sweep speed) 
+45. Post processing in freeze mode (dynamic Range adjustment, colour display on / off, colour / doppler invert, 
+colour / doppler baseline adjustment, sweept speed, measurement, annotationand pictogram).  Post processing 
+of B-Mode images with Speckle Reduction Algorithm 
+46. Real time automatic doppler calculations on touch of a button. Should provide facility to apply automatic doppler 
+analysis retrospectively to frozen spectral data or date retrieved from doppler scrolling.  Possibility of manual 
+doppler trace 
+47. System should have at least  8 calipers with depth information and extensive, customizable measurement and 
+report packages including vascular, abdominal, small parts, urology, pediatrics, ortho, neurology, complete 
+obstetrics, multigestational calculations, gynecology, and fetal heart report packages. 
+48.  Calipers should have minimum precision of 0.1mm , small size calipers for measuring < 5mm 
+49. Calipers of dynamically varying contrast compared to background.  Delete last measurement option, curved 
+linear distance measurement 
+50. Measurement (Distance and areas) should be possible in real time on frozen and on saved images of the old 
+patients data for better comparison and clinical confidence. 
+51. System should have facility to save reports along with patient data which can be retrieved later.  Measured 
+parameters must be printed directly in from of a report through laser printer or any other standard printers easily 
+available in the market 
+52. System should have facility of real time biopsy in 4D mode for the better visualization in 2d as well in all the 
+three necessary plan / Axis.  The system should be capable of displaying biopsy lines (for all transducers) while 
+performing a 2D scan. 
+53. 3D / 4D MODE 
+54. System should have Vol scan size max 64 MB for the grey volumes and max 90MB for the color volumes , the 
+reqd memory space depends on the scanning parameters (vol BOX size and quality ( low, mid, height etc ) 
+typical .8-5MB. 
+55. Volumes - frame/ sec max 359. depending on the scanning parameters . 
+56. Systems should have following  acquisition modes ;- 3D static, 3D (2d incl CRI), 3D /CFM (incl CRI), 3D B 
+Flow, 4D real time  , 4D BIOSPY, STIC & eSTIC , Vci- Omniview . 
+57. Speed adjustment on volume imaging 
+58. Different render direction to view the volume image 
+59. Advanced tool for accurate quantification of irregular regions in 3D  and automatically calculates the number 
+and volume of hypo echoic structures to speed follicular assessments. 
+60. Ability to restrict firing of the probe to a particular slice thickness of the region of interest. 
+61. Advanced tool for selection of slice thickness out of complete volume dataset 
+62. 4D fetal echo - 2D + colour + B Flor, STIC + Power doppler mode 
+63. STIC + CFM doppler mode, STIC + HD Flow Mode, STIC+CRI 
+64. STIC + CRI+CFM, STIC+CFI+PD 
+65. STIC+CRI+HD-flow, STIC + B-Flow 
+66. STIC + multislice mode with cine movement 
+67. Advanced imaging mode for visualization of hypo echoic areas and get automatic precise volume. 
+68. Simultaneous visualization of 3 planes and 3D to guide the needle to the lesion 
+69. Transforming nuchal thickness measurement with automation 
+70. Should have auto 3D/4D rendering as well to get the best of 3D in fraction of second with one touch &  should 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Obst. & Gynae/398/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+have same technology / feature in the real time 4D as well 
+71. Advanced Spatio temporal image correlation with STIC anatomical M Mode , & eSTIC 
+72. Semi automated tool to provide quantifiable NT & IT  measurements. 
+73. Automated sonography based technology helps streamline the acquisition of volumetric images of the fetal heart, 
+displaying all recommended views with the push on one button. 
+74. 3D automated software dedicated to progression of labour (automatically documents the labour procedure to 
+help users evaluate second stage labour progression (optional). 
+75. System should have Volume SRI (V-SRI) which helps to provide a high level of speckle reduction utilizing 
+volume/voxels, versus traditional single slice imaging, it helps improve 3d/4d quality in multi-planar studies and 
+also provides an enhanced smoothing effect on rendered images which helps improve diagnostic confidence. 
+76. System should have free moveable light source around following 3D object , 3D rendering  image , VOCAL 
+object. 
+77. Systems  should have latest rendering modes  like  hdlive silhouette - to show the internal clinical information  
+of the fetus , HD live flow ,  transparerancy modes, max - min  & xray , light. 
+78. System should have the facility of take the Automatic measurement of the AC, BPD, HC, FL  for the better 
+productivity and time save . 
+79. System should have BI- PLANE mode available with electronic 4D probe  with scan angle of B mode angle of 
+75 deg & Bi Plane angle of 90 deg, 
+ 
+         SYSTEM SHOULD HAVE FOLLOWING PHYSICAL  DIMENSIONS 
+80. The monitor should be 23" high resolution LED monitor with articulating arms with resolution of up to 
+1280x1024 pixel. 
+81.  Customizable layout to match  workflow needs 
+82. Report preview enabling facility for  immediate feedback on diagnostic  measurements. 
+83. should have  Image presentation in Standard or XL format to  allow doctors  to see tiny details clearly. 
+84. Should have One touch responsiveness. Simplified workflow. 
+85. should have  12.1” Touch Panel with multi-touch 
+86. should have Electronic TGC and presenting as well for the same 
+87. Should have  Efficient menu navigation with swipe technology 
+88. should have Quick and easy 1-button control panel up/down function movement which allows for optimal 
+ergonomics. 
+89. system should have Probe port illumination which will help in the connectivity and removal of the probe 
+connectors in dark room conditions for the privacy of the patients 
+90. System should have Fast, secure data management for efficient communication, integrated software Digital 
+video recording including USB recording, Fast USB 3.0 connectivity, Easy DICOM integration. 
+91. The equipment should be a room based wheeled unit with integrated brake, foot rest, transducer, cable and gel 
+bottle holder and with electronic height adjustment facility for control panel and monitor independently.  
+Transducer and gel bottle holders should be removable. 
+92. There should be a digital brightness and contrast adjustment with preferable three default setting (dark room, 
+semi dark room, bright room). 
+93. System should have a full size alphanumeric key board with interactive back - lighting. 
+94. The key board should be floating with rotation of +/- 40 deg from center, and with adjustable height of +200 
+mm. 
+95. Integrated recording keys  for remote control of up to 4 peripherals or DICOM devices one dedicated DVD 
+recording key. 
+96. The system shall have 4 universal probe ports in a convenient ( 3 active at a time) easy to access location with 
+electronic switching facility. 
+97. Must allow digital storage of gray scale as well as colour images (both frozen and cine loops). 
+98. Facility of reviewing and exporting in different formats. 
+99. System shall support the ability to store digital raw data that allows optimizing imaging parameters such as B 
+Gain, TGC, Colour gain, dynamic range, speckle reduction levels, doppler gain, doppler base line on image 
+recalled from the image archive. 
+100. The system should have on board storage facility for at least 500 GB. 
+101. The hard drive should be inbuilt. 
+102. The system shall provide the ability to sort images stored on board based on patient name, exam date, patient id 
+and exam types, patent directly should show network status as print status, archive status, commit status and 
+
+

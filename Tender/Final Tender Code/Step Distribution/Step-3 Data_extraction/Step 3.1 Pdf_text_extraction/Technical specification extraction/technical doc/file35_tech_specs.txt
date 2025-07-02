@@ -1,0 +1,67 @@
+--- Page 10 ---
+Tender for Defibrillator Modular Operation Theater and ICU 
+Admn/Tender/08/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Defibrillator  General specifications: 
+1. Defibrillator should be Bi-Phasic. 
+2. Should have a high resolution colour TFT display of minimum 8 
+inch or more  
+3. Should have energy levels for defibrillation: 2 to 200 joules or 
+more. 
+4. Should have automatic as well manual Defibrillation 
+5. Should have direct trim knob and direct function keys for mute 
+and freeze. 
+6. Should be mains and battery operated. Internal battery should 
+provide backup operation of more than 2 hours in monitoring 
+mode or at least 100 defibrillation shocks should be delivered 
+from fully charged battery. 
+7. Facilities of ECG pickup from paddles in case of ECG electrodes 
+are not connected to the Defibrillator. 
+8. Integrated external re-usable adult and paediatric paddles for 
+defibrillation. 
+9. Should have non synchronised and synchronised cardio version. 
+10. System should have 24 hrs graphical as well as tabular memory 
+for all parameters. 
+11. The charging time should be less than 10 seconds for charging 
+upto 200 joules. 
+12. Should have USB/Data Card storage facility wherein data gets 
+recorded & can be retrieved with the help of software on 
+computer. The software should be provided as standard scope of 
+supply 
+13. Should have integrated Printer. 
+a. Should have following additional integrated parameters 
+a. SpO2  
+b. NIBP 
+c. External Pacemaker 
+d. EtCO2 monitoring 
+14. Machine should be European CE Certified 
+15. Required Trolley for mounting the machine should be supplied 
+ 
+24 
+
+

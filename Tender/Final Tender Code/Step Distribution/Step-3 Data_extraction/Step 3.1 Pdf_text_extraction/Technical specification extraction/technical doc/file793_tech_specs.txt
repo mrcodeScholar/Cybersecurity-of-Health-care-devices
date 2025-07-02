@@ -1,0 +1,46 @@
+--- Page 18 ---
+NIT No. : AIIMS/R/CS/Radiotherapy/18/11912/B/OT 
+ 
+Page 18 of 22 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR 
+Marker Free Patient Monitoring System 
+ 
+The  Marker Free Patient Monitoring System should necessarily comply with the following technical 
+specification:. 
+1.The system has to be compatible with the Linear Accelerator (Mode:Versa HD,Make:Elekta) and the CT 
+Simulator Unit (Model:Option CT 580 W,Make:GE) both in terms of  hardware and software and interface 
+to Elekta MOSAIQ for synchronization of patient selection and control.It should also have multi-vendor 
+interface so that it is compitable with LINAC unit of different make and model thay may be procured by the 
+institution in future. 
+2.The system must utilize laser based or optical  non-invasive surface scanning technique using steroscopic 
+cameras/scanning units for tumour  movement tracking during respiration without the use of external 
+fiducials and generating 4D CT images to be used for contouring,planning and final patient treatment.There 
+shall be separate modules for CT simulator & Linac in the Marker Free System. 
+3.For daily patient positioning,optical surface scanning has the potential advantage when compared with the 
+patient positioning  based on skin markers,such as an increased accuracy within the body region where no 
+skin marks are drawn.For DIBH techniques also optical surface scanning enables fast and reliable tratment 
+during daily clinical routine without the need for invasive procedures. 
+4.The system must have all the necessary ancillary  tools including goggles for audio-visual coaching the 
+patient for reproducible gating signals.Also the daily chech QA device for verification of system functioning  
+should be provided.  
+5.Database server software for using the marker free monitoring system in networked multiuser interface. 
+6.Software module for monitoring generating and implementing the gating signal. 
+7.Software module for interactive patient positioning and verification using non-rigid registration with 
+deformable algorithms. 
+8.Software module for tracking of patient motion using non rigid registration with deformable algorithms. 
+9.The system should have DICOM interface to allow import and export of patient images and surface scans. 
+10.The Marker free patient monitoring system should support different gating modes like breathhold,ddep 
+inspiration & coached/free breathing. 
+11.The Marker Free System should exhibit long term stability (submillimeter) in positional accuracy. 
+12.The storage and processing speed of the software module should be sufficient for smooth workflow of a 
+typical busy Radiotherapy department. 
+ Terms and Conditions: 
+1.A minimum of 5 Years CMC  after warranty period  of the equipment must be provided. 
+2.Onsite training and obervational  training to 2  Radiation Oncologists & 1 Medical Physicist. 
+ 
+ 
+ 
+
+

@@ -1,0 +1,84 @@
+--- Page 45 ---
+47 
+ 
+SECTION – VII 
+TECHNICAL SPECIFICATION AND GENERAL POINTS 
+ 
+ 
+Specifications for “A Real time PCR machine qty. 01no.  
+TECHNICAL SPECIFICATION 
+Essential features: 
+ 
+Real time thermal cycler having latest and fast technology is required with following specifications 
+Thermal Unit – 
+• Peltier based 96 well and 384 well block with flexibility to use 96 well plate / 384 well plate / 8 tube 
+strips / single tubes 
+• Suitable adapters for 8 tube strips and single tubes should be provided with equipment 
+• Block ramp rate minimum 3ºC/sec.  
+• Reaction volume 10-30 µl (for 96 well plates) and 5-10 µl (for 384 well plates). 
+• System should be able to run fast chemistry 
+• Easy interchangeability of 384 and 96 well block by the user without need of any calibration. 
+• Change of position, block or chemistry should not require calibration 
+• Temperature row uniformity and resolution should be +0.020 C (Standard deviation) and temperature 
+accuracy should be +0.40 C or better 
+Optical Unit –  
+• Light source - tungsten halogen / LED / xenon / laser  
+• Detection of the signals by CCD camera 
+• Linear dynamic range at least 10 log or more 
+Chemistry – 
+• Open system to use reagents, tubes and plates from any manufacture 
+• Option to multiplex minimum of five common dyes 
+• System calibrated for the common dyes of broader wavelength excitation and emission spectrum 
+• Flexibility to use any new dye with calibration but without addition of any new filter 
+Softwares –  
+• Latest and fast softwares for all common applications till date – absolute and relative 
+quantification, allele / SNP detection, melt curve based and endpoint genotyping, gene 
+expression 
+• Licensed version of gene scanning software (high resolution melt curve analysis), primer and 
+probe designing software 
+• Should be able to run both standard (2 hours) and fast (<40min) reactions  
+• Display option for simultaneous viewing of amplification plots, QC summary, multicomponent 
+plots etc.  
+• System should be able to export data in excel, power point or pdf. 
+Calibration kit – if required, may be supplied by the manufacture for the period of warranty & CMC 
+Compatible plastic wares (to be quoted separately):  
+• 96 well plates –10 packs (10 plates per pack) 
+• 8-tube strips and caps (0.1/0.2 ml) – 1000 strips 
+Compatible UPS with backup of at least 60 minutes   
+Complete warranty for 5 years 
+Comprehensive maintenance for next 5 years 
+ 
+
+
+--- Page 46 ---
+48 
+ 
+Specifications for “A Gradient PCR machine qty.01 no.  
+TECHNICAL SPECIFICATION 
+Essential features: 
+ 
+1. Automated programmable 96-well thermal cycler with heated lid 
+2. Multiple Peltier systems for simultaneously running two or more programs using multiple blocks 
+3. All the block combinations must be quoted separately 
+4. Facility to run multiple programs at a time using multiple blocks 
+5. Block ramp rate 5°C/second or better 
+6. Sample ramp rate 4°C/second or better  
+7. Temperature accuracy: ±0.3°C or better 
+8. Temperature uniformity: ±0.4°C or better 
+9. Temperature range: 4 - 99°C  
+10. Provision to use fast 0.1 ml or standard 0.2 ml tube format  
+11. PCR volume range: 10 to 80 ul 
+12.  Display touch screen for easy operations 
+13. Instrument memory to store 1000 plus protcols 
+14. Power requirement 230 Volts, 50 Hz 
+15. Compatible online UPS with at least 60 minutes backup  
+16. Complete warranty for 5 years 
+17. Comprehensive maintenance for next 5 years 
+18. Compatible 96-well PCR plates – 50 
+19. Compatible 8-tube strip with cap – 1000 strips  
+ 
+ 
+ 
+ 
+
+

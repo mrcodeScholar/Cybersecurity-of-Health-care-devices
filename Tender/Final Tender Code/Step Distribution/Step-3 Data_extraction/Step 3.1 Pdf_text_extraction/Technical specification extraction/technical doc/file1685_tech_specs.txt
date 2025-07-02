@@ -1,0 +1,105 @@
+--- Page 28 ---
+          Tender enquiry No. :   F. No 24/RT/TEE /CTVS/ 663 /2023-RISH (ADMN) 
+ 
+28 
+ 
+Technical Specification of high end 4D Transoesophageal echocardiography machine 
+1. The system must be latest generation, highest & technologically advanced digital 4D (Live 
+3D) TTE & TEE echocardiography system. 
+2. System should have frame rate up to 3500 FPS.  
+3. System must have adult cardiology transducer with broadband technology or equivalent for 
+excellent greyscale image quality on difficult to image patients. Please mention the 
+technology used in the transducer.  
+4. System must be offered with a minimum 22 inch or higher high resolution monitor with 
+infinite position adjustments.  
+5. System should have at-least Three imaging active probe ports with electronic switching 
+facility from key board without probe adapter.  
+6. System should be capable of supporting second generation 4D(Live3D) matrix TEE 
+transducer capable of supporting  exceptional 4D (live 3D) Echo, 4D(Live 3D) zoom. 
+7. System should support boroad band probes spanning a frequently of 1-15 MHz(+-2).  
+8. Image storage facility on in build hard disc with capacity of 1TB. System should have 
+extensive image capability including thumb nail review. Cine loop editing etc. management. 
+Should be offered with (1 TB SSD + 1 TB ) Internal and External. 
+9. System must be offered with speckle reduction imaging: Image processing technique to 
+remove speckles and clutter artifacts. System should have 4D depth rendering technology 
+with light source and transparency to improve regurgitation assessment.  
+10. System should be capable of scanning depth of 30 cm. Scanning Depth should be clearly 
+mentioned in the technical quoted if not mentioned Please attach a letter from 
+manufacturer along with the technical bid clearly stating the scanning depth of 30 cm in the 
+offered system.  
+11. Should be able to perform advanced quantification measurements like Automated strain & 
+CRT quantification. Should measure the myocardial velocity and derives the strain rate and 
+strain along user-defined M-lines, Capable of drawing up to 3 M-lines at a time, Capable of 
+sub-dividing each M-line into 8 sub-regions or according to user-defined sub-region sizes, 
+Point of interest tool obtains values from any point on the M-mode display. In addition to 
+the tissue Doppler based strain system should have 2D based strain like AFl or Automated 
+Strain for LV, LA and RV should be offered. System should have pressure strain curve for 
+better prognostic. 
+12. System should have automated/semi-automated 2D tools for TAPSE, LA Volume, EF 
+assessment. 
+13. System must be offered with user friendly high resolutions user interface touch panel of 
+minimum size of 12.0 inch or intuitive keyboard. User friendliness will be given preference.  
+14. The system should have the facility light source depth rendering technology.  
+15. Contrast Imaging should be offered as standard on the system, with optimization for Low 
+and HI MI applications. Should also have facility of LOW MI with triggered replacement 
+Imaging.  
+16. Integrated stress Echo facility to perform Stress Echo exams. Images can be used later for 
+Strain offline as well. System should have Automated Three-layer strain with Segments 
+approval and deletion. System should have blood pressure compensation mechanism for 
+optimised oncology follow up assessment. 
+
+
+--- Page 29 ---
+          Tender enquiry No. :   F. No 24/RT/TEE /CTVS/ 663 /2023-RISH (ADMN) 
+ 
+29 
+ 
+17. Should have the state of the art Transmit real time compound Imaging Technology with 
+Multiple transmitted lines of sight, wherein multiple coplanar Images from different viewing 
+angels are obtained and combined into a single compound image at real-time frame rates 
+for improved visualization. Should demonstrate and show multiple transmitted line of sight 
+in liner probes.  
+18. System Should have 4D dynamic LV, RV, LA Volume. 
+19. Cardiac Auto doppler with Artificial intelligence. 
+20. Real time triplane 2D imaging in volume probe for visualising all 17 segments. 
+21. Echopac/Tomtec Workstation with same capabilities should be offered on the workstation.  
+22. OFF-CART workstation (both licensed hardware and licensed software) should be  
+quoted and highlighted in the technical bid. The licensed hardware and software licence should 
+support throughout the warranty and CMC period of the echocardiography machine.  The cost should 
+be included in the price bid. The work station should be of highest standard, with  series i9 processor 
+with 10 core or higher version and 10 TB Hard disk. Workstation should be provided with support 
+(Table) to mount it. PC should be offered with a flat panel 17" display monitor. 
+23. System Should be offered with Software beamforming technology. C Sound/n Sight Plus or 
+equivalent. 
+24. 2D AI based measurement should be offered. 
+25. System should offer fusion technology with other modalities. Like Echo navigator or CT 
+Fusion etc. 
+26. Strain Measurement to be offered as standard in the system 
+27. System Should be offered with tomographic representation for Mitral Valve, and Aorta. 
+28. Multislice imaging from 4D with up to 12 Slice.  
+29. Following latest Transducers (Frequency tolerance +/-2MHz ) should be supplied with the 
+system  
+a.) (2-5) MHz Broadband 2d adult echo transducer for adult cardiology imaging. Must have 
+Tissue harmonic Imaging. 
+b.) (2-5) MHz 4D TTE Probe for 4D Adult with Wide Apex in 2D and 4D for Improved Clinical 
+Diagnosis. Offered Probe should be latest with more than 5000 elements.  
+c.) (2-8) MHz latest 4D Adult TEE Transducer with customisable tee probe button. 
+d.) (3-10) Mhz 2D pediatric TEE Transducer. 
+e.) Micro TEE for weight starts with 3 Kg. 
+f.) Pediatric 2D Phased array probe with wider field of view more than 90 degree with z Score. 
+g.) 3 to 12 (± 1)  MHz linear probe- one 
+30. 2 KVA UPS for power back up one in number 
+31. Colour laser printer one number 
+32. Demonstration of the equipment in AIIMS Rishikesh if required. 
+33. Guarantee: Comprehensive Guarantee for five years for parts and labour. All software updates a 
+period of 5 to be provided free of cost. CMC should be unconditional and include all accessories, 
+including all transducers including TEE including third party items. 
+34. Comprehensive Guarantee for parts and labour from year 6 to 10 will also need to be quoted in 
+the price separately and will be taken into account (added in the price bid) while calculating the 
+Final price. CMC should also include all accessories, transducers & third party items. 
+35. 
+Downtime for machine should not exceed 48 hours beyond which 0.01% of the basic cost of the 
+workstation will be imposed as penalty per day beyond this period of 48 hours. 
+ 
+
+

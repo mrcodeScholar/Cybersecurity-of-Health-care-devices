@@ -1,0 +1,156 @@
+--- Page 45 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1158/22/GTE 
+ 
+45
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+                     Specification for ENT Navigation System 
+Sn 
+Description 
+1 
+System Specifications 
+a The system should be easy to set up, user friendly, Intuitive and should work under Windows/ Linux/Unix 
+operating system environment. 
+b 
+The system should be a single cart portable system with wheels so can be easily moved in the OT enviroment and 
+ Dimensions of  system should be around : 250 mm x 250 mm x 180 mm , and should be virtually zero footprint 
+in OT 
+ 
+c 
+The system provides portable iPad Navigation 
+• Remote Control (recordings, interactions, additional screen) ,   Patient Management  
+• Navigation screen 
+d The display should be of full HD resolution of 1920X1080  with monitor size 26" or more. 
+e The system should have Rapid data transfer directly to the navigation station with the option of USB 3.0 port for 
+direct data import and also have direct and seamless integration with the hospitals PACS system 
+f The system should have facility to load patient data into the system through CD or DVD, USB and PACS. 
+g The system should have Wireless or wired options available for connecting to hospital PACS system. 
+h The wireless options should be provided with inbuilt security features such as firewall, encryption and antivirus. 
+i The system should have password protection so  only authorised user can access the systemsoftware. 
+j The system must work on electromagnetic technology and  it must have electromagnetic based dynamic 
+referencing so that registration is not lost even if the patient moves and helps navigate malleable instruments. 
+k The system should provide emitter which can be placed under the patient head or can be mounted on the side bed 
+rail or sensor can be integrated  into headrest for OR table 
+l The system should have inbuilt UPS or should provide external UPS with backup of upto 5minutes incase of 
+power supply failure. 
+m The system should have enough storage space for accessories and should be easily accessible or should provide 
+trolley for storing the accessories. 
+2 ENT Navigation Software Specifications 
+a 
+The ENT navigation software should be user friendly, easy to use and should have capability to alter workflow as 
+per surgeon preference. 
+Additional Option  Ear Navigation Software to support Ear indications, e.g.transmastoidal surgery or endoscopic 
+ear surgery  
+b The software should allow to create multiple surgeon profile and set procedures and settings as per the surgeon 
+requirement. 
+c The software should allow DICOM images in Axial, Sagittal or Coronal planes and should be reconstructed as 
+3D images and advanced planning can be done on any plane which should be adapted to all planes automatically 
+d The software should have Image merge option in order to merge CT and MRI images and use them during 
+navigation as per surgeons choice. 
+e The software should have advanced 3D model building functions which are user friendly. It should have 
+automatic tumor building function using seed points. 
+
+
+--- Page 46 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1158/22/GTE 
+ 
+46
+ 
+ 
+f The software should have option to feature to view orthogonal, axial, coronal and orthogonal cut planes which 
+allows sectional view of 3D models. 
+g The software should have option to use surface trace based registration and touch based using fiducially or 
+anatomic landmark based registration and if required combination of surface and touch registration. 
+h The software should auto detect the fiducials and guide towards touch based registration by default. 
+i The software should display the area of accuracy with the help of sphere or number matrix and it should show 
+which area is not covered during registration inorder for the surgeon to modify registration if required. 
+j The software should be capable of storing previous registrations for that patient. Registration should be recovered 
+even if system switches off. 
+k The software should have facility to store screenshots taken during procedure as well as record the navigation 
+screen for about  30minutes or external video recording should be provided if it is not inbuilt in the system. 
+l The software should have option to perform Standard FESS, Endoscopic Skull base, Coronal flaps and other 
+Skull base procedures. 
+m The software should have option to view endoscopic or microscopic video on the screen 
+n The software should be ready to navigate navigable 0 degree, 12 degree and 40 degree debrider blades. 
+o The software should have virtual endoscopic view feature to view 3D models. 
+p The software should have capability to store registration restore points to regain registration during the procedure 
+to save time in case the refrence is shifted. 
+3 ENT Navigation Instruments and accessories 
+a The system should be provide with flat pannel electromagnetic generator which can be positioned under patient 
+head and / or the system should be provide which can be integrated into head rest for OR tables 
+b 
+The system should be provide with the ENT instruments set of malleable instruments with an outer diameter 
+down to 0.8 mm  which are navigable under electromagnetic technology.The portable navigation provides a  
+ 
+ 
+The system provides a navigated GuideWire with navigation sensor at the tip for the Balloon sinuplasty 
+systems and flexible scopes 
+c The instruments must include but not limit to a straight probe, straight suction, 90 degree curved suction, 70 
+degree curved suction and ostium seeker. 
+d The instruments must be autoclavable sterilised for multiple use and should be covered under warranty. 
+e 
+The instrument consumables required for navigation should be provided along with the system sufficient for 
+about 10 surgeries 
+ 
+f Navigation sensor at the tip of the navigation instruments (to enable intra operative bending without  
+ new calibration ) 
+g They system should have pediatric friendly reference frame  suitable for coronal flap surgeries. 
+h The system should allow connecting upto 4 or more instruments at the same time and navigate them as required. 
+i The system should also have an option to  include automated calibrated Blades for Navigation. The system 
+should be provided with 3 navigable debrieder blades. 
+j Storage device of 1tb-2 & 2 tb-2 
+ 
+k Pointer instruments for Sinus surgery and Plastic reconstruction with:diameter 1.5 or 2.8 mm malleable 
+
+
+--- Page 47 ---
+                                                                  
+                                                         Tender No. AIIMS/R/CS/ENT/1158/22/GTE 
+ 
+47
+ 
+ 
+l Pointer instrument for Ear surgery with:diameter 1.5 mm 
+m Flex Tube (navigated suction and irrigation tubes): 
+n Pointer Shell (navigated adapter for rigid cylindrical instruments), e.g. shaver  blades:For diameters 3 or 4 or 
+5mm or should offer a universal Pointer Shell e.g Shaver blade with other manufacturer can be used . 
+o 
+Systems should be consisting with 2 nos Patient Tracker , 4 nos Instrument Tracker , 1 no Non-Invasive Patient 
+Tracker ,  2 nos, BLADE  Curved 4mm  , 2nos BLADE  Straight  4 mm , 1 no Navigation Pointer,  
+1 no Skull Mounted Patient Tracker, 1 set Fiducial Markers 100 Pack 
+ 
+4 
+Support Specifications 
+a Company should provide proper training on the system for surgeons and technicians at the hospital. 
+b System should be provided with the operating manual. 
+c Company should provide high quality after sales service. 
+d Company should provide BIS/" USFDA & European CE" clearance certificate 
+e 5 years CMC and 5 years warranty is required including all accessories 
+f System should be BIS/ISO/European CE/USFD Approved certificate both standards should be attached with 
+tender 
+g Training for user department, doctors and staff should be provided as per the satisfaction of buyer. 
+h Trolley with wheel from the same manufacturer & storage box for all accessories. 
+ 
+ 
+* Specification 1 (c) (ipad navigation) is optional. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

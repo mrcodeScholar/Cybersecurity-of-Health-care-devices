@@ -1,0 +1,80 @@
+--- Page 10 ---
+Tender for Real Time PCR 
+ 
+ 
+ 
+                                             Admn/Tender/100/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Real-Time PCR  
+Specifications: 
+General: Tender is invited from reputed original manufacture 
+or their authorized agents/dealers only. Information regarding 
+installation in India and satisfactory service and maintenance 
+may be forwarded with all the details for verification. 
+Technical: 
+1) Table top model. 
+2) Complete system including basic system, essential 
+accessories, 
+the 
+state-of-art 
+computer 
+workstation, 
+acquisition and analysis software, startup kit inclusive of 
+calibration standards etc. 
+3) Open system to accommodate Taqman, SYBR green and 
+all other fluorescent dye based chemistries. 
+4) Peltier based 96 well block 
+5) Standard optical 96 well plates, 0.2 ml strips, 0.2ml tubes 
+compatibility 
+6) Minimum sample volume requirement - 5µl 
+7) CCD camera with halogen/LED and at least five excitation 
+and five emission filters 
+8) Multiplexing ability up-to five dyes in a single run, 
+9) Calibrated dyes at installation: FAM/SYBR Green, 
+VIC/JOE, NED/TAMRA/Cy3, ROX/Texas Red®, and 
+Cy5, Should offer flexibility in dye selection. 
+10) Facility to calibrate new dye within the wavelength range 
+without addition of new filters 
+11) Passive reference dye ROX or any other calibrated dye and 
+should be optional 
+12) Option for melt curve analysis 
+13) Temperature range 40C to 1000C 
+14) Sensitivity: Detection of 1 copy of template 
+15) Software applications: Comparative Ct, Standard Curve, 
+Relative Standard Curve, Allelic Discrimination / SNP 
+Genotyping, Plus/Minus, dissociation / melt curve 
+16) Voltage: 220 V /50Hz. All accessories should be provided 
+with latest version of software and upgraded yearly with 
+free of cost. 
+17) The IQ, OQ and PQ of the instrument should be performed 
+at the time of installation.  
+18) CE-IVD compliant along with the tools like security 
+access, auditing and e-signatures.  
+19) Electrical specification: 220 volts, 50Hz. single phase A.C.  
+20) After Sale, Service should be available promptly.  
+21)  Should be CE or FDA or BIS approved product 
+01 
+
+

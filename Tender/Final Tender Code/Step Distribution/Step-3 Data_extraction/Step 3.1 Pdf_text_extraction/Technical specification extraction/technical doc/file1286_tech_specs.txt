@@ -1,0 +1,160 @@
+--- Page 45 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Thermal cycler  
+Page 45 of 66 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Thermal cycler with compatible 
+accessories 
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+TECHNICAL SPECIFICATIONS for “Thermal cycler” 
+ 
+1.  The Thermal Cycler – Quantitative should be Peltier-based 96-well 
+Plate/tube 
+in-built 
+to 
+support: 
+Gene-Expression 
+analysis, 
+SNP 
+Genotyping, Plus/Minus Assays that utilize internal positive control, 
+Dissociation Curve Analysis, Multiplexing and complete End-Point 
+Assays.  
+2.  The system should have 96-wells (0.1 or 0.2 mL) with 06 independent 
+temperature zones.  
+3.  The system should have 6 decoupled filters for Optical Detection.  
+4.  Bright White LED Light Source for excitation.  
+5.  Exitation/Detection range: 450–680 nm/500–730 nm 
+6.  Multiplexing must be up to 6 targets and upto 21 Color combination 
+should be possible.  
+7.  Peltier base Heating and Cooling Method  
+8.  Optical System: Optiflex  
+9.  Imaging System : CMOS  
+10. 
+ Dynamic Range : 10 Log  
+11. 
+ Temperature uniformity : 0.4 °C  
+12. 
+ Temperature Accuracy : 0.25°C  
+13. 
+ System should have Block ramp rate : 6.5 C or more  
+14. 
+ Fast and standard run modes should be available in the system 
+15. 
+ Sensitivity: Detect differences as small as 1.5-fold in target quantities in 
+singleplex reaction.  
+16. 
+ Detection sensitivity: 1 copy  
+17. 
+ Should have total reaction volume range of 10 uL to 100 uL for 96 well 
+plate.  
+18. 
+ The system should allow two ways to interact and analyze your data: Web 
+
+
+--- Page 46 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Thermal cycler  
+Page 46 of 66 
+ 
+browser (Cloud) – based software or desktop analysis software.  
+19. 
+ Application software like dedicated primer and probe design software as 
+well as relative quantitation analysis software to analyze multiple 96-
+well-plates of data simultaneously must be included as standard supply 
+in the quoted price.  
+20. 
+ Should be supplied with suitable desktop computer with latest 
+configuration for operations and 3 KVA online UPS system for least 30 
+minutes backup for the whole system.    
+21. 
+ Should be supplied with IQ/OQ/PQ certificates  
+22. 
+ Should be FDA or CE or BIS approved product 
+ 
+General Conditions  
+23. 
+ Bids should be accompanied by full technical specification of the 
+model/make offered. Price quoted should be inclusive of Comprehensive 
+Warranty (Including all Spares, Accessories and Labour) for 05 years 
+from the date of installation. Also, the bidders are requested to submit 
+their price quote for subsequent 05 years Comprehensive Maintenance 
+Contract (Including All Spares, Accessories and Labour).  
+24. 
+ Bidders should clearly indicate the make and model number of the 
+offered item. The make and model should be verifiable from the 
+manufacture’s official website. (Mandatory: include URL for the quoted 
+instrument in the tender document) 
+25. 
+ The bidder should provide a list and full contact details of Government 
+institutes who are users of the quoted model.  
+26. 
+ The bidder should clearly specify the availability, locations, and address 
+of after sales service centers for the quoted item.  
+27. 
+ Operational onsite training must be provided for the faculty members 
+and technical staffs free of cost 
+28. 
+ Bidders should provide manufacturer’s authorization certificate for the 
+quoted instrument  
+29. 
+ Should be FDA or CE or BIS approved product 
+ 
+• 
+Technical compliance report should be submitted in following format: 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation 
+if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. 
+Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the 
+TE document for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) Warranty period will be 5 years 
+from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & 
+handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty 
+period by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) 
+basis. 
+c) All software updates should be provided free of cost during Warranty 
+period. 
+
+

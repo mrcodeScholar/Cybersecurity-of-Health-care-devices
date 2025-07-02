@@ -1,0 +1,59 @@
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/Pul_Med/Capital/19-20/105/OT/ 
+   
+Page 22 of 25 
+ 
+ 
+ 
+ANNEXURE - I 
+ 
+1. 
+Fractional Exhaled Nitric Oxide (FENO) Monitor 
+ 
+Specifications Requirement 
+Accuracy  
+± 5ppb of measured value ≤50ppb, ± 10% of measured value >50 ppb  
+Operating 
+temp range  
+Up to 45 
+o
+C  
+Other features   The system should be able to measure: Maximal Value of Exhaled NO in 
+ppb, Averaged Expired Flow Rate, and Average expired NO Flow Rate . 
+ It should able to measure nasal, bronchial, alveolar NO concentration by 
+multiple flow rates. 
+ The system should be able to measure exhaled nitric oxide in the range of 1 
+to 300ppb with automated drift compensation to ambient conditions.  
+ The system should be able to perform at any level of ambient NO. It should 
+have an ability to offset the ambient NO by using a scrubber. 
+ The system should have a pressure transducer with a measurement of 
+expired pressure.  
+ Free half-yearly calibration for 5 years  
+ The system should be supplied with standard accessories for measuring 
+nasal NO. 
+ It should have USB connectivity for computer attachment  
+ It should meet all international safety standards, US FDA and European CE 
+for human applications  
+ The software should be latest and original  
+Essential 
+Accessories  
+ Disposable Antibacterial Filters 500  
+ Sensor life should last for three years or 3000 tests  
+Warranty 
+Onsite Comprehensive warranty for 05 year 
+CMC  
+05 Year after warranty  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

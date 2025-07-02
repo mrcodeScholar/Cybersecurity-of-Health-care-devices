@@ -1,0 +1,220 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Micro/17/57/OT 
+ 
+Page 17 of 22 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR 
+INVERTED MICROSCOPES 
+ 
+SPECIFICATION OF INVERTED RESEARCH MICROSCOPE 
+ 
+Microscope stand with quadruple revolving nosepiece with LED transmitted light, true 
+Koehler 
+illumination 
+for 
+bright 
+field, 
+phase 
+contrast 
+and 
+fluorescent 
+microscopy. Optical system must be infinity corrected.  
+ 
+Observation Tube 
+: 
+Trinocular observation tube with Interpupilary distance 
+adjustment (F.N.22). It should have a trinocular port to 
+attach camera.  
+Mechanical Stage 
+: 
+Mechanical Stage with flexible right hand low drive control 
+along with glass slide holder and plate holders. Stage 
+movement should have X=110mm, Y=74mm.          
+Light Source 
+: 
+LED Illuminator with life time of more than 20000 Hours.  
+Condenser                           
+: 
+    Long Working Distance Condenser with 
+BF/Ph, N.A. 0.3 and W.D.    72 mm or better, and free 
+working distance of more than 185mm for cell factories, 
+Phase slider for phase contrast application with single 
+position for 4X-40X Objective. 
+Objectives  
+: 
+Bright field Plan achromatic Phase Objectives 10x (N.A 
+0.25), and Long Working Distance Plan Achromat Phase 
+Objective 20X NA 0.4 & Long working distance Achromat 
+Phase Objective 40X  NA 0.55   
+Eyepieces 
+: 
+Wide-field paired eyepieces 10X (F. N. 22) or better. 
+PHOTOGRAPHY ATTACHMENT & IMAGE ANALYSIS SOFTWARE: 
+Digital Camera:  Color cooled CCD camera capable of handling brightfield, 
+fluorescence images with high density CCD chip with resolution of 
+1.4 million pixels or better, pixel size of 6.45μm X 6.45μm, 14 bit. 
+Cooling 
+up 
+to 
+-12 
+degree 
+Celsius 
+at 
+ambient 
+temperature(Thermoelectric/Peltier). 25 frames per second at full 
+resolution, binning 1X1, 2X2, 4X4, 6X6, 8X8, 12X12, 16X16. 
+IMAGE ANALYSIS SOFTWARE: Should act as an interface between the digital camera 
+and the computer system. It should have the following features  
+ 
+- 
+Acquisition & device control 
+- 
+Filters for Image enhancement 
+- 
+Background & dark field correction 
+- 
+Time lapse acquisition 
+- 
+Manual object counting 
+- 
+Region & Line measurements 
+- 
+Auto calibrate for micrometer  
+- 
+Image annotation 
+- 
+Filters for image enhancement 
+
+
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Micro/17/57/OT 
+ 
+Page 18 of 22 
+ 
+- 
+Report & share 
+- 
+Multiple undo/redo options 
+- 
+Time Lapse imaging 
+- 
+Multi channel imaging with merging and extraction of fluorescence channels 
+- 
+Pseudo color. 
+- 
+Gamma Correction 
+- 
+Dye list for most commonly usable dyes. 
+- 
+Live Histogram 
+- 
+Filters for image enhancements 
+- 
+Measurements for line, line profile, measurements on live images, auto 
+calibrate, interactive measurements data tables, classify line and tag 
+measurements. 
+- 
+Documentation and collaboration. 
+- 
+Region and line measurements 
+- 
+Multiple Image Stitching 
+- 
+Fully compatible for Bright field, Phase Contrast as well as immunofluorescence 
+imaging and analysis 
+- 
+Overlay multiple images, document groups for side by side image comparison. 
+- 
+Touch count/Object Count Facility to count objects, make several classes and 
+name them and export to excel files or workbooks. 
+- 
+Fl. Channel Merging and extraction 
+- 
+Time-lapse imaging at specified interval,  
+- 
+Multiple Image Stitching, 
+- 
+Geometry/combine/filter processing 
+- 
+Manual Z axis imaging 
+- 
+Manual Multiple image alignment, based on live image. 
+ 
+Computer Workstation:  
+ 
+Branded computer with i5 processor or better, 8 GB RAM, 1 GB Graphic Card, Preloaded 
+Anti-virus software, DVD Writer, Original Windows 7 Professional or better, 500 GB HDD, 
+19" TFT Monitor or better, Keyboard & Mouse. 
+ 
+Certification: 
+ 
+The System should have ISO & European CE Certified. 
+ 
+ FLUORESCENCE ATTACHMENT:    
+Reflected light fluorescence illuminator equipped with field stop, minimum 3-position 
+fluorescence slider with Blue excitation filter set FITC, Green excitation filter set 
+Rhodamine and UV filter set forDAPI. 
+Fluorescence Light Source: Lamp House for 100W Mercury burner with power supply 
+for Fluorescence application or better. A separate attachment to blocks out room light / 
+stray light to enhance the contrast of fluorescence, and enable clear fluorescence 
+observation even under bright conditions. 
+Warranty  of 1 year & CMC of 3 years required. 
+ 
+ 
+ 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Micro/17/57/OT 
+ 
+Page 19 of 22 
+ 
+Warranty and CMC: 
+ Should provide CMC period:  CMC for 3 years.  
+ Availability of spares for at least 10 years after date of installation.  
+ Comprehensive  warranty   would  include  all  parts-plastic, metallic,  glass,  batteries  and  
+rubber  (without  any  exclusion)  except the consumable accessories listed above.  
+ Comprehensive warranty  would include periodic checking and  periodic  calibration  of  all  
+parameters  strictly  as  per manufacturer’s  recommendations  (at  least  every  6  month)  
+and  any spares or standards required for that.  
+ Should have online and telephonic registration of the complaints.  
+ Should have resident service engineer available in Raipur within 24 hrs to solve the 
+complaints.  
+ Down  time  of  the  equipment  will  start  from  the  time  of  lodgement  of first complaint.  
+ The company must ensure that the machine remains FULLY functional all the time for the 
+period of warranty and CMC.  
+ No  request  in  this  regard  will  be  entertained  on  the  pretext  of  on availability of items 
+with the supplier/company.  
+  Prices of all consumables and CMC should be quoted separately. 
+ Should have local service facility and should have the necessary equipment’s to carry out 
+preventive maintenance test.  
+ Onsite physical demonstration and training of the equipment to all the end users with all the 
+requested facilities will be mandatory.  
+ Original literature, and not the photocopy, to be supplied with the quotation.  
+ Should provide the preventive maintenance in every 6 month and also calibrate the machine 
+at the time PM if required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

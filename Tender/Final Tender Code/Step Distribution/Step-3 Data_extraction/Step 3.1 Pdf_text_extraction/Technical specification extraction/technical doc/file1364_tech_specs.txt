@@ -1,0 +1,256 @@
+--- Page 51 ---
+ 
+Tender Enquiry No.: AIIMS/BPL/CUSA Machine/Neurosurgery/2024-25/GTE/010, Dated : 27/07/2024 
+ 
+ 
+ 
+ 
+Page 51 of 77 
+ 
+ 
+Technical Specification for CUSA Machine (Cavitron Ultrasonic Surgical Aspirator) 
+ 
+Sl. No. 
+Description of Function 
+1.1 
+Ultrasonic aspirators use mechanical ultrasonic vibration and an irrigation/suction 
+system 
+to fragment and remove soft tissue and high-water-content growths from various 
+parts of 
+the body. 
+2 
+Operational Requirements 
+2.1 
+The system should be quoted with two different frequencies of hand pieces. 
+3 
+Technical Specifications 
+3.1 
+Surgical aspirator should be based on magneto-restriction or piezoelectric technology. 
+3.2 
+The hand piece should have inbuilt cooling mechanism, if required. 
+3.3 
+The hand piece should be autoclavable and can be dismantled completely for cleaning 
+with no inaccessible channels to trap tissue 
+3.4 
+The vacuum pump should provide preferable the suction of > 500mm of Hg. 
+3.5 
+It should have safety features like optical signal for failed hand pieces / malfunction 
+3.6 
+It should have on and off button 
+3.7 
+It should have integral suction with vacuum pressure of 0 to 90 Kpa. In continuous 
+low 
+noise and digital display. 
+3.8 
+It should preferably have 1.5 -2.5 liter capacity container of unbreakable material 
+with 
+level sensor and anti-overflow system. 
+3.9 
+Compatible Hand piece should be light, preferable 20-40 KHz 
+3.10 
+System should be quoted with below mentioned handpieces & Tips: 
+ 
+1. Two hand piece needs to provide 20 numbers of tumour operating tips (Soft 
+Tumour-12 & Hard Tumour-8). Hand piece should be in the frequency range 
+of 
+30-36 KHz. 
+ 
+2. One Separate Endoscopic hand piece needs to be quoted which will pass through 
+Endoscope for removing Ventricular Tumours and Cysts. 
+3.11 
+The irrigation pump should be inbuilt in the unit, the irrigation output 0-25cc/min or more. 
+3.12 
+It is preferable to have option for at least one handpiece to connect with Intra Operative 
+Neuro Monitoring System for dynamic mapping. 
+4 
+System Configuration Accessories, Spares and Consumables 
+4.1 
+ACCESSORIES: 
+1 
+Trolley should be supplied from same principal company 
+2 
+Torque Wrench- 2 
+3 
+Infusion bottle holder-1 
+4 
+Foot switch- 1 No. 
+5 
+Instrument connection cables - 2 nos, if required 
+6 
+Suction / irrigation tubing, silicon twin tube-20 
+7 
+Autoclavable compatible instrument tray – 3 Numbers. 
+8 
+Power cables – 1 
+5 
+Standards, Safety & Training 
+5.1 
+Manufactures/Supplier should have ISO or equivalent certificate to Quality Standard. 
+5.2 
+Should be US FDA or European CE approved product. 
+5.3 
+Comprehensive training for 3 surgeon and 3 assistant services till familiarity with 
+the 
+supplied system at site 
+
+
+--- Page 52 ---
+ 
+Tender Enquiry No.: AIIMS/BPL/CUSA Machine/Neurosurgery/2024-25/GTE/010, Dated : 27/07/2024 
+ 
+ 
+ 
+ 
+Page 52 of 77 
+ 
+ 
+6 
+Documentation 
+6.1 
+User/Technical/Maintenance manuals to be supplied in English. 
+6.2 
+Compliance report to be submitted in a tabulated and point wise manner clearly 
+mentioning the page/ para number of original catalogue/ data sheet. Any point if not 
+substantiated with authenticated catalogue/ manual, will not be considered. 
+7 
+Warranty & CMC 
+7.1 
+Equipment shall be supplied with 05 Years warranty and 05 years Comprehensive 
+Maintenance Contract (CMC) after completion of warranty period.  
+7.2 
+  Warranty as well as Comprehensive Maintenance Contract (CMC) should be inclusive of: 
+ All kinds of sensors, probes, transducers and all accessories. 
+ Printers and imagers including laser and thermal printers with all parts.  
+ Internal battery of the equipment, if applicable. 
+ UPS including replacement of batteries and timely check-ups as per safety 
+standards should be ensured. 
+ Coating/Painting of the equipment (whenever required). 
+ All third party items supplied with equipment. 
+7.3 
+Uptime shall be 98% on 24 (hrs) X 7 (days) X 365 (days) basis. Failing to which, a suitable 
+penalty shall be imposed. 
+7.4 
+Supplier has to provide onsite repair and maintenance of medical equipment under 
+warranty and CMC through authorized service personnel only.  
+7.5 
+If supplier fail to repair the equipment or wants to take equipment out from the AIIMS 
+Bhopal for repair beyond stipulated time period then they should provide stand-by 
+equipment within 7 days. 
+7.6 
+Supplier has to provide annual calibration of medical equipment as per NABH Standards, 
+under Warranty and CMC 
+7.7 
+All instruments/tools used for calibration shall be calibrated and traceability certificate 
+shall also be provided. 
+7.8 
+Calibration reports/certificates shall be submitted in the standard format. 
+7.9 
+Calibration sticker has to be pasted on the each equipment, indicating calibration done 
+date and next calibration due date.  
+7.10 
+Preventive Maintenance Services (PMS) shall be performed by supplier at least once in 
+every 6 months with submission of PMS report. PMS sticker has to be pasted on the 
+equipment, indicating PMS done date and next PMS due date. 
+7.11 
+Hands on training and demonstration shall be provided to the user department/technical 
+staffs during installation and as and when requested by user department 
+7.12 
+Supplier shall provide documents with equipment such as SOP, regulatory clearances, 
+quality/safety/calibration 
+certificates, 
+factory 
+testing 
+certificate, 
+user 
+manual, 
+cleaning/disinfection procedure etc.      
+7.13 
+List of consumable items (which will not cover under Warranty/CMC) with rates shall be provided 
+separately, which may be fixed (RC) for at least 3 years. 
+7.14 
+Supplier has to ensure electrical safety of equipment as per standards and quality 
+assurance of the medical equipment. 
+8. 
+Physical Demonstration of instruments is Mandatory at the time of Technical Bid evaluation stage 
+and will take place at Department of Neurosurgery, AIIMS, Bhopal only 
+ 
+
+
+--- Page 53 ---
+ 
+Tender Enquiry No.: AIIMS/BPL/CUSA Machine/Neurosurgery/2024-25/GTE/010, Dated : 27/07/2024 
+ 
+ 
+ 
+ 
+Page 53 of 77 
+ 
+ 
+ Technical compliance report should be submitted in following format: 
+ 
+Sr. 
+No. 
+Item Description as 
+per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered by Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive warranty as per Conditions of Contract of the TE 
+document for complete equipment (including Batteries for UPS, other vacuum 
+tic parts wherever applicable). Warranty period will be 05 years from the date 
+of installation, commissioning and Site Modification Work from the date of 
+satisfactory installation, commissioning, trial run & handing over of equipment 
+to AIIMS Bhopal 
+b) In-case of complaint, and emergency number to be provided and complaint to 
+be cognizance to be taken within 24 hours of complaint  
+c) 95% up time Warranty of complete equipment with extension of Warranty 
+period by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+d) All software updates should be provided free of cost during Warranty & CMC Period. 
+2. After Sales Service: 
+After 
+sales 
+service 
+centre 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service should 
+be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that 
+the spares for the equipment shall be available for at least 10 years from the date 
+of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian 
+Agents (if they have the requisite know-how) for operation and maintenance of the 
+equipment to the satisfaction of the consignee. The same will be in line with the 
+training modalities as specified in general technical specification. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

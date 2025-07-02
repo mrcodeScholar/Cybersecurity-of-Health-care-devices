@@ -1,0 +1,165 @@
+--- Page 21 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/PMR/272(ii)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+System should be supplied complete with following Orthopedic material  
+68. Patients’ harnesses (adult) in four different sizes for different sized patients- 1 no each 
+69. Cuffs for the upper, middle and lower legs in seven different sizes – I set   
+70. Foot lifter – 1 set. 
+71. The harnesses should be washable at 60°C in the washing machine. 
+72. cushioning material for  back,  gluteus and  shins- 1 set 
+73. Wall mount Orthopedic storage device. 
+ 
+ 
+ 
+Size and dimensions  
+74. The  unit should be compact to be easily installed in a room of size 5.5 L x 3.5 m WX 2.6m H   
+75. The unit should be extendable in height to accommodate patients with more height  
+76. The unit should be suitable for training of patients with height of upto 200 cm  
+Certification and compliances   
+77. It should be USFDA registered device with verifiable documents   
+78. Should be electromagnetic compatibility Class A device (CISPR 11).  
+79. The unit should meet the requirements of EN 60601-1-2., meet the protective class SK 1. 
+80. The unit should be a class IIa device according to the European medical device directive 
+93/42/EC. 
+ 
+System Performance   
+81. The system should be in wide use all over the world with mínimum 500 installations.. 
+82. There should be minimum 5 satisfactory working installation of the system in reputed Govt or private 
+hospitals in India.  
+83. The vendor should provide satisfactory performance certificates from mínimum 3 users from India   
+84. The vendor should demonstrate the quoted system anywhere in India at own expenses to the 
+hospital doctors. Demonstration is a must  
+ 
+B) SELF DRIVEN UPPER EXTREMITY FUNCTIONAL THERAPY SYSTEM  WITH FOLLOWING 
+SPECIFICATIONS   
+1. Instrumented arm orthosis with integrated weight compensation mechanism with Augmented feedback 
+2. The Arm Weight Support should be based on an exoskeleton with integrated spring mechanism for Arm 
+Weight Support.  
+3. The Arm Weight support should be designed to counterbalance (middle length setting / horizontal position) 
+- forearm weight: 0.7 kg - 2.4 kg 
+- upper arm weight: 0.5 kg - 3.8 kg 
+4. The size exoskeleton of the exoskeleton should be adjustable to different arm sizes of adult persons; 
+minimum settings are 
+- forearm lengths (elbow to handgrip): 290 - 390 mm  
+- upper arm lengths (shoulder to elbow): 220 - 310 mm 
+5. The exoskeleton should contain the (lockable) distal degrees of freedom for pro Supination and wrist 
+flexion / extension 
+6. The exoskeleton should be equipped with at least 7 joint angle sensors to detect movements in all 
+relevant degrees of freedom 
+7. The exoskeleton should contain a pressure sensitive handle to detect trace amounts of grasping 
+activity of a patient 
+8. The exoskeleton should be usable for the left and the right arm 
+9. The exoskeleton should contain braces to position the patients’ arms 
+10. The braces should be eudermic and washable 
+11. The exoskeleton should be mounted on an electric lifting column (Adjustable Range: 400 mm) 
+12. The exoskeleton should be mounted on a trolley and be movable by one person 
+13. The electric lifting column should be operated by a remote control (should not be  wireless for safety) 
+14. The Augmented Feedback should contain at least 20 different functional exercises or games 
+15. The Augmented Feedback should contain functional exercises in a 1D, 2D and 3 Dimensional 
+workspace.  
+
+
+--- Page 22 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/PMR/272(ii)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 22 
+ 
+16. The library of Augmented Feedback functional exercises should be filterable according to therapy 
+goals and the joints involved  
+17. The Augmented Feedback workspace for 2D and 3D exercises should be automatically personalized 
+according to the physiological volume reachable by the patient in 3D. 
+18. The Augmented Feedback should contain reach to grasp type exercises (involving Arm and Hand 
+treatment at the same time) 
+19. The Augmented Feedback should contain a user database to manage individual patients’ therapy 
+plans 
+20. The Augmented Feedback should automatically progress through all exercises in patient’s individual 
+therapy plan, without staff intervention.  
+21. The Augmented Feedback should store all therapy activities and contain export routines to access 
+raw data 
+22. The user database should support at least 500 Patients data 
+23. The system should have facility of  automatic backup of user data 
+24. The system should contain inbuilt software recovery tools   
+25. The Augmented Feedback should contain assessment capabilities to quantify  
+i. 
+Patients’ coordination ability  
+ii. 
+Patients’ range of motion in each degree of freedom.  
+iii. 
+Physiological volume reachable by the patient in 3D. 
+26. The level of difficulty of therapy exercises in the Augmented Feedback should be adjustable  
+27. Within each level of difficulty in the Augmented Feedback, there should be multiple exercise levels to 
+allow for gradual progression in exercise challenge.  
+28. The level of visual detail of therapy exercises in the Augmented Feedback should be adjustable to 
+patient’s visual or cognitive impairment.  
+29. The Therapy system should be adaptable to the individual patients’ active range of motion in the 
+impaired arm 
+30. The Augmented Feedback should contain reporting capabilities to automatically generate reports in 
+PDF format with patients’ exercise scores and assessment results over time and  with information 
+about device usage for the hospital managers.  
+31. The system should be operated on Normal Indian Power supply 230 V 50/60 Hz. 
+32. The system should contain PC and a 24’’ screen for visualization of the exercises 
+33. The system should be capable of software updates via USB stick 
+34. A user training by a clinical application specialist should be contained in the scope of delivery 
+35. The Supplier shall guarantee the equipment for a period of 5 years  
+36. Wear parts should be contained in the scope of delivery. 
+37. The therapy system should also be supplied complete with  a hand module for training in grasping 
+function for patients with impaired hand functions     
+38. The hand module should support a hand opening movement with a non-powered spring mechanism 
+The 
+hand 
+module 
+should 
+work 
+in 
+plug-and-play 
+manner 
+during 
+therapy 
+sessions. 
+Hand Module should also have  Augmented Feedback  containing  exercises specifically designed 
+for combined hand and arm control.  
+System Performance   
+39. Application and efficacy of use of the unit should have been proven by minimum of 50 
+studies from independent research groups in  pathologies like stroke, spinal cord injury, 
+traumatic brain injury, multiple sclerosis, Parkinson and in patients with cerebral palsy.  
+40. There should be sufficient Evidence available from trials with the unit showing functional  
+improvement, sustained long term benefits, increase upper extremity capacity as a result of 
+training with the unit . 
+44 The system should be in wide use all over the world with mínimum 500 installations .  
+45 There should be minimum 5 satisfactory working installation of the system  in reputed Govt or private 
+hospitals in India.  
+46 The vendor should provide satisfactory performance certificates from mínimum 3 users from India   
+47 The vendor should demonstrate the quoted system anywhere in India at own expenses to the 
+hospital doctors. Demonstration is a must  
+Certification and compliances  
+48 It should be USFDA registered device with verifiable documents   
+49 The unit should have CE market clearance and should meet the requirements of EN 60601-1 
+standards  
+
+
+--- Page 23 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/PMR/272(ii)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 23 
+ 
+ 
+Installation & Training 
+The vendor should undertake to provide free installation and training for technical and clinical 
+staff at site of installation by their engineer including operation and upkeep of the equipment.  
+Warranty 
+The unit should be covered under warranty for a period of 5 years  
+Compatible software updates should be provided free of charge during the warranty period.  
+The unit’s manufacturer should provide remote technical support and clinical support for 
+questions via email and phone 
+The manufacturer should provide a clinical knowledge platform with latest information about 
+products, state of the art clinical research and the possibility to exchange with other 
+professionals in the community. 
+ 
+ 
+
+

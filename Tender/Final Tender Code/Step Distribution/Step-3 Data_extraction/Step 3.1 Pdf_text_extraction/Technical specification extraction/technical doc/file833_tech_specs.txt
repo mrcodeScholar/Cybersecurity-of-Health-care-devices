@@ -1,0 +1,57 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/COVID ICU/20/OT 
+ 
+Page 18 of 21 
+ 
+ANNEXURE-I 
+Specifications for Central Monitoring System and Remote Viewing Software with 
+Server: 
+1. 
+Central Nursing Monitoring Station for monitors: 
+a. 
+System has 16 beds capability. 
+b. 
+Central station has 24” color display. 
+c. 
+Will be supplied with network laser printer and printing of review/trend data from 
+central station and any bedside monitor connected in network should be possible. 
+d. 
+It has facility to view last 72 hours stored information such as vital sings, alarm 
+status, arrhythmia analysis, trended parameters, patient etc. for any selected bed 
+from the central station. 
+e. 
+It has facility to take NIBP measurement form central station. 
+f. 
+It has default alarm limits and customizable parameter settings. 
+g. 
+Central station has full bed review capability. 
+h. 
+It has two-way communication with bedside monitor, alarm settings should be 
+possible from central station. 
+i. 
+All monitors including central station has similar user interface for easy usage 
+among all clinicians. 
+j. 
+It has capability for HL7 interface. Should be upgradable to monitoring telemetry 
+modules. 
+k. 
+Will be supplied with and on-line suitable UPS with minimum 30 minutes backup. 
+ 
+2. 
+Remote Viewing Facility:  
+a. 
+For 128 bedside monitoring – 1 
+b. 
+Mobile viewer client fior 2 user accounts – 1 
+c. 
+Server PC with – OS: window server 2008 R2 standard (64 bit), CPU: 3.0 GHZ 4 
+core, memory 4 GB RAM (8 GB recommended) storage size: 500 GB hard disk, 
+Other: 2 LAN- network ports – 1 
+d. 
+Power cable 3 meter – 3 
+e. 
+Keyboard  - 1 
+ 
+ 
+
+

@@ -1,0 +1,80 @@
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/OT/CMRS/101/2018 
+ 
+Page 22 of 25 
+ 
+ANNEXURE-II 
+ 
+ 
+2.  (Medical Record Management Software) (Qty. – 01 No.) 
+SPECIFICATION OF THE EQUIPMENT TO BE INSTALLED 
+ 
+Sr. 
+No. 
+Items/work Name 
+Qty. 
+Configuration 
+1 
+Server (Tower)* 
+1 
+ Six core Intel Xeon (expandable to 2 processors) E5-
+2620, 2.4 GHz, FSB 1333 MHz (or latest series) 
+ 64 GB DDR3 RDIMM Memory or higher 
+ 256 Kb L2 Cache or higher 
+ 900 GB * 8 Hot Swappable SAS Hard Drives – 10 
+KRPM or higher 
+ Integrated Hardware RAID 5 SAS Controller 
+ CD RW / DVD Combo Drive 
+ Dual LAN (10/100/1000) Ethernet NIC with asset 
+feature tracking and security management, remote 
+wakeup 
+ Redundant Power Supply 
+ 6 USB, 2 Serial, 1 Parallel Ports 
+ Minimum 3 PCI slots 
+ 101 Keys Keyboard, 2 Button Mouse 
+ 21” TFT / LCD Monitor, 4 port ATEN KVM Switch 
+ 4x4TB Network Storage 
+ OS: 
+Windows 
+Server 
+2012/Red 
+Hat 
+Linus 
+enterprises, SUS E Linux Enterprise Server, Oracle, 
+Solaris (with license). 
+5 years comprehensive onsite warranty (24 X 7) for 
+above items/works (Hardware and software both) 
+followed by 5 years CMC. 
+2. 
+Hard Disc (1 TB)* 
+ 
+Seagate/Western Digital/SCSI/SATA) RAID-5; 1000-
+15000 RPM 
+3. 
+Heavy Duty Staplers 
+ 
+Kangaroo Make No. 1217 or equivalent 
+4. 
+Staplers pins 
+ 
+Kangaroo make of following sizes:- 
+23/8 
+23/10 
+23/13 
+23/15 
+23/17 
+ 
+*Server and hard discs used for backup will be the property of the Institute.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

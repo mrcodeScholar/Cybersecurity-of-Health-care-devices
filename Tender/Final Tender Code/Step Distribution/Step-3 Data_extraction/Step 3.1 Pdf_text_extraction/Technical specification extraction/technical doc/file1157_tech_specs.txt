@@ -1,0 +1,226 @@
+--- Page 10 ---
+Tender for Horizontal Autoclave  
+ 
+                                                           Admn/Tender/96/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Horizontal 
+Autoclave  
+General: 
+ 
+Tender is invited from reputed original manufacture or their authorized 
+agents/dealers only. Information regarding installation in India and 
+satisfactory service and maintenance may be forwarded with all the 
+details for verification. 
+ 
+Technical: 
+1. Stainless Steel of SS-304 grade. 
+2. Triple walled with a steel jacket. 
+3. Jacket and boiler made of stainless steel. 
+4. Low Water cut off. 
+5. Auto safety door lock. 
+6. Mounted on rigid tabular stand. 
+7. Spring loaded safety valve of stainless steel. 
+8. Inner dimensions of chamber: (approx.) cylindrical 600mm 
+diameter x 1100mm deep, 9KW (approx.). 
+9. Electrically heated. 
+10. Working pressure: 1.2 -1.5kg/sq. cm. 
+11. The pressure is adjustable from 5 psi to 20 psi with automatic 
+pressure control switch, which controls the pressure with an 
+accuracy of +/- 1 psi. 
+12. There should be provision for vaccum for drying of racks and 
+porous loads. 
+13. Automatic Pressure Control Switch- To cut-off the current 
+from the heating elements, when the desired/ set pressure value 
+level is attained inside the chamber and restarts the mechanism 
+once the pressure inside the chamber falls from the desired level. 
+14. Automatic Water Cut-off Device – To protect the heaters from 
+running dry and to ensure that the machine is automatically 
+switched off in case the desired water level falls below the 
+prescribed level. 
+15. Temperature Indicator to indicate the temperature inside the 
+chamber. 
+16. Timer with Alarm System - To regulate the sterilization time 
+of the media to be sterilized and when the desired time is passed, 
+with a buzzer, to that the completion of sterilization cycle. 
+17. Should be CE (European) certified or US FDA approved  
+18. Product should confirming to EN -285, EN-554, CE 
+93/42/EEC,CE97/23 
+PID, 
+TUV, 
+Class-IIA, 
+MDD 
+ISO 
+13485:2003, ISO 9001:2000 Certifications. 
+19. Should be a fully automatic Dual PLC microprocessor based 
+High pressure, high vacuum autoclave for sterilizing hospital 
+materials including agars, sterilization of solution in open & 
+closed 
+bottles, 
+disinfection 
+of 
+materials 
+and 
+waste 
+decontamination.  
+20. Should be front loading, have Rectangular, horizontal chamber 
+with well-insulated jacket, chamber volume 450 litter or more. 
+Approx. internal chamber dimension: 700 x 650 x 990 mm approx. 
+(W x H x D)/External dimension: 1900 x1300 X 1300 m approx.). 
+(W x H x D).  
+21. Should have single vertical sliding door to have a pass through 
+01 
+
+
+--- Page 11 ---
+Tender for Horizontal Autoclave  
+ 
+                                                           Admn/Tender/96/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+system. Door should be electrically controlled having fully 
+automatic function with multiple safety arrangements. Sealing 
+system should be based on silicon seal. 6. Should have at least 50 
+mm thick insulation material on jacket and doors to ensure low 
+thermal losses. Working temperature of the door should be less 
+than 45 deg C.  
+22. Should be high-grade stainless steel construction inside and 
+outside including all internal piping and external panels. Chamber 
+& Doors Material: Stainless steel 316 L. Jacket Material 1: 
+Stainless steel 316 Titanium. All Steam piping component and 
+connection Stainless steel AISI 316L grade, External Panel & 
+Frames S.S 304 grade 
+23. Should have a built in colour touch screen of size minimum 
+8.2” user’s interface cum Display for control & display 
+sterilization cycle, parameter values, clear text message and alarm 
+history preview etc.  
+24. Should have audio-visual alarms in case of undesirable 
+situation. All alarm should be with full explanatory Text messages 
+on the display.  
+25. Should have programmable Operators access level.  
+26. Should have at least 8 pre-programmed standard cycles plus 5 
+or more user programmable cycles and provision of chip card port 
+for loading of new programs through chip card.  
+27. Should have temperature adjustable from 121 0C to 135 0C.  
+28. Safe working pressure range should be 15 to 32 PSI (1.1 bar – 
+2.2 bar)  
+29. Should have complete monitoring of cycle operation and 
+provided with at least two pressure sensors and two Temp. Sensors 
+(PT- 100 type) in addition to analog for chamber pressure, jacket 
+pressure and steam generator pressure indication.  
+30. The unit should be equipped with multiple safety mechanisms 
+for Emergency Stop over. Pressure safety valves for chamber and 
+jacket, over temp safety, steam traps and electrical safety.  
+31. Should have maintenance menu for quick trouble shooting by 
+touch screen display interface. All service access should be 
+preferably from the front for space saving.  
+32. Should have provision of getting Printout with positions of 
+component in case of failure and should have integrated schematic 
+diagrams with indications of positions components and with 
+possibility to change positions of components by touch.  
+33. Should have possibility to view the schematic diagrams in 
+service mode during running process with observation of functions 
+of components and progress of values.  
+34. Should have possibility of forced digital increase of pressure 
+for testing of safety components (function of control system, 
+pressure switch, safety valve), Minimum 5 access levels: 
+unauthorized user, authorized user, administrator, service 
+engineer, designer and possibility to print the calibrations and 
+other software settings in service mode  
+35 The unit should include Non fade Built in thermo-recorder for 
+step by step progress values during the cycle with time and date 
+and alarm condition if any. 
+36. Should have High efficiency Double water ring type Vacuum 
+Pump.  
+37. All Valve operation on warm pipes is Pneumatic type. 
+38. Should have 0.02µm Hepa Filter for atmosphere air entry in 
+
+
+--- Page 12 ---
+Tender for Horizontal Autoclave  
+ 
+                                                           Admn/Tender/96/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+the chamber.  
+39. Should be offered with inbuilt electric steam generator made of 
+Stainless Steel AISI 3161 grade or better. It should have automatic 
+water level control function.  
+40. Should have built in feature of Water saving system for water 
+conservation.  
+41. Should be supplied complete with high quality stainless steel 
+trolleys and sterilization baskets: External trolley =01 nos. Internal 
+trolley with steel roller and shelves =01 no. and 2 sets of 
+sterilization baskets.  
+42. Should be offered complete with digital interface facility and 
+software for remote supervision & data storage with provision to 
+enable 
+user 
+make 
+modification 
+of 
+already 
+programmed 
+sterilization programs. Installation should be on turnkey basis 
+following will be the terms and conditions:  
+a) Only water, electricity and drain outlet will be provided 
+available by the department within the room of installation. The 
+supplier shall be responsible for arranging rest of the things for 
+installation and smooth functioning of the equipment on a turnkey 
+basis.  
+b) Following shall be provided by the supplier along with 
+machine:  
+I. Two sets of operating manual.  
+II. Two sets of circuit diagram. III. Service manual. On-site 
+training in operation and day-to-day maintenance to AIIMS 
+Jodhpur CSSD staff. 
+
+

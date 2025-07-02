@@ -1,0 +1,283 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/276(ii)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+S. 
+No 
+Specification 
+1 
+Three Chip High definition Camera System – 01No.  
+ 
+ 
+The system should be truly Digital HDTV endoscopic video camera. The system should have the maximum 
+Resolution of 1920 X 1080 pixels, progressive scan and the consistent use of 16: 9 formats for Input & Output to 
+guarantee genuine HDTV. 
+ 
+ 
+The system should have facility of Optical & Digital Zoom lens to enhance the quality of Image size & 
+cross specialty usage of the camera system, regardless of the telescope used. 
+ 
+USB Port for Capturing FULL HD Videos or HD Stills in External USB drive 
+ 
+Three Chip FULL High definition Camera System for ICG Fluorescence guided imaging by Near Infra 
+Red (NIR) light (or) Optical Contrast Differentiation System (or) it Should have special filter light for 
+observation of capillary vessels and fine patterns in the superficial layer of mucosa for early detection of 
+lesions. 
+ 
+Camera module should be compatible for use with Flexible Video UreteroRenoscope. 
+ 
+The Individual components (Light source, camera system, telescopes and fiber optic cable) are perfectly 
+aligned to ICG HD system/Optical Contrast Differentiation System/special filter light for observation of 
+capillary vessels and fine patterns in the superficial layer of mucosa for early detection of lesions. 
+ 
+Technical Specification for Three Chip Camera Head: 
+ 
+Image sensor: 
+3X1/3’’ CCD-Chip 
+Pixels 
+1920 x 1080 
+AGC: 
+Microprocessor controlled 
+Lens: 
+Integrated Zoom Lens f = 15-31 mm (2x optical 
+zoom) 
+Minimum light sensitivity: 
+1.17 Lux (f = 1.4 mm). 
+Control buttons: 
+3 (2 of them freely programmable). 
+Video output: 
+1 No X DVI-D output, 1 x 3G-SDI/HDSDI output, 
+camera input for communication , 1 or more USB 
+connection. 
+Input: 
+ Keyboard input for character generator. 
+ 5-pole DIN socket. 
+Power Supply 
+ 100-240 VAC 50/60 Hz 
+ 
+Camera head should be compatible for ICG HD fluorescence guided Imaging by Near Infra Red or Optical 
+Contrast Differentiation System (or) it Should have special filter light for observation of capillary vessels and 
+fine patterns in the superficial layer of mucosa for early detection of lesions 
+ 
+Technical Specification for One Chip Camera Head – 1 No. 
+ 
+ 
+Frame rate  
+50/60HZ 
+Image Sensor  
+1 Chip,1/3" 
+Resolution 
+1920*1080 Pixels 
+Scanning Method 
+Progressive scan 
+Focal Length 
+f=16 
+Dimension (w*h*l) 
+35*36*100mm 
+Weight 
+130g 
+cable 
+300Cm 
+Camera head Button 
+Freely programmable 
+Grip mechanism 
+Standard eyepiece adaptor 
+Reprocessing  
+Saokable,gas and Plasma Sterilization 
+protection Classes 
+1,CF-Defib 
+ 
+2 
+High Definition Medical Grade Monitor – 01No. 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/276(ii)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+ 
+The monitor should have: 
+ 
+ 
+FULL High Definition Medical Grade Monitor capable of displaying 2D and 3D Image.-1No’s 
+ 
+HDTV display in original 16: 9 HDTV format. 
+ 
+1080 p/ 50 & 1080 p/60 displays possible. 
+ 
+LED crystal display. 
+ 
+Max. Resolution of 1920X1080. 
+ 
+Screen diagonal – 26”. 
+ 
+Desk top with pedestal. 
+ 
+Should have the facility of PIP mode.  
+ 
+Parallel live display of visualization modes besides white light mode (picture-in-picture) 
+ 
+Specifications 
+HD TFT Flat Screen Monitor with stand size 26", 
+Aspect Ratio 16:9 HD format 
+Brightness : 500 cd/m2  
+Maximum viewing angle : 178° vertical 
+ 
+Contrast ratio: 1400 : 1 
+Reaction Time – 8ms 
+Rated power : 115 watts 
+Power Supply 100-240 VAC 
+Screen Dimensions : 643 x 396 x 87mm 
+Video Inputs : 2* DVI-D , 2* 3G SDI, 1* S Video , Composite 1* RGB/VGA , 1* RS 232 , 1* RJ     45 
+Interface. 
+Output: 1* DVI , 1* 3G SDI, 1* S-Video                            
+Accessories External 24VDC Power Supply, Mains Cord, Pedestal. 
+3 
+Xenon Light Source with Fiber optic cable : 2 Nos. 
+ 
+ Xenon Light Source with ICG HD fluorescence mode (or) special filter light for observation of 
+capillary vessels and fine patterns in the superficial layer of mucosa for early detection of lesions" 
+ Lamp type:  Xenon 15V, 175 Watt or more 
+ 
+ Color Temperatures 6000K 
+ 
+ Light Outlets – 1 
+ 
+ Light Intensity Adjustment: Continuously adjustable either manually or automatically by cameras 
+video output signal. 
+ Should be supplied with Diameter 4.25mm -5 mm, Length 250 cm or more. 
+ Facility of switching between white light and Near Infra Red light (NIR) or to change contrast  
+enhancement for ICG HD/Optical Contrast Differentiation System (or) special filter light for 
+observation of capillary vessels and fine patterns in the superficial layer of mucosa for early detection 
+of lesions 
+ Offer with one spare Xenon Lamp. 
+ 
+ 
+4 
+ 
+VIDEO TROLLEY:2 Nos 
+ 
+ 
+Video trolley to be supplied for mounting equipment’s having minimum four self in addition to with one 
+drawer, with antistatic wheel casters, front lockable, high grade of electrical insulation and earth protection. 
+5 Ampere sockets, 10Nos, inbuilt with trolley to connect all electronic devices. CO2 bottle stand should be 
+integrated with trolley. Potential equalization connection to be provided at least 10 points. Powder coated 
+good quality rust free and should be able to take load minimum up to 70 Kg. Should be medical grade, 
+Imported and from same manufacturer. 
+ 
+5 
+Co2 Insufflator 
+ 
+Should have maximum flow rate of 30L/min or more 
+ 
+Should have digital display of set and actual flow 
+ 
+Should have digital display of total gas consumed 
+ 
+Should have optical and acoustical warning signals for pressure exceeding oven set limit 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/276(ii)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+ 
+Should have heating element for preheating gas to body temperature 
+ 
+Should be supplied with CO2 Cylinder, connecting pipe, mains cord, silicon tubing set autoclavable, 
+wrench and CO2 gas filter (disposable) compatible with the system 
+ 
+It should have initialization mode for establishing pneumoperitoneum at a pre-set insufflation of 
+15mm and a gas flow rate of 1 L/min with warning function. 
+ 
+It should have sterilizableoptitherm heating element for pre-heating gas to body temperature to 
+prevent peritoneum for cooling down. 
+ 
+It should have touch keys for precise pre selection of set values. 
+ 
+5Kg CO2 Cylinder-02No. 
+ 
+6   
+Flexible Video UreteroRenoscope for access to entire intrarenal collecting system:- 2 nos. 
+ 
+Scope should have the latest state of the art CMOS technology for image transmission for better resolution of 
+image. 
+Scope should have inbuilt LED light source located at the hand piece of the scope, with no external light 
+cable required for it. 
+Should be ready to use after direct   Plug in to Camera Control Unit. 
+Scope deflection should be logical i.e. when lever is in down position the tip gets  deflected to down position. 
+The torque  ratio should be 1:1, i.e. there should be 1 to 1 response of the tip,showing high torque stability. 
+Working length of 67cm-70cm. 
+Outer diameter of the shaft should not exceed 8.5 Fr . 
+It should have an instrument channel between 3Fr  to 4 Fr. 
+Direction of view should be 0 degree.  
+Angle of view should be  80- 90 degree. 
+Maximum angle of deflection upto 270 degree downward and 270 degree upward is needed. 
+It should have a ceramic liner in the distal end of the working channel to protect it from thermal or 
+electrocautery damage. 
+Should be water proof and fully immersible in solution. 
+It should adhere to sterilization method with ETO, FO gas, Steris &Sterrad. Should  have programmable  
+buttons on  head. 
+Following compatible accessories should be supplied with this instrument – Grasping forceps, case for the 
+instrument, Pressure compensation cap, and leakage tester and cleaning brush. 
+ACCESSORIES: 
+Nitinol Core wire guide with hydrophilic coating and should have the ability of being straight at one end and 
+angled at other end,length 150cm Biwire.  : 10 Nos. 
+Ureteral Access sheath with inner diameter 12/14fr and length of 35cm and 45 cm :  10 Nos. 
+ 
+ 
+The following accessories should be included, 
+ 
+ Carrying Case : 2 Nos 
+ Biopsy Forceps & Grasping forceps ,single  action jaws, flexible diameter 5 fr, length 73cm x  2 
+Nos  each. 
+ Coagulating Electrode , unipolar 4 Fr., length 73 cm along with compatible HF cord : 2 Nos. 
+ Pressure compensation cap : 2 Nos. 
+ Leakage tester : 2 Nos. 
+ Cleaning brush : 2 Nos. 
+ Bottle of instrument oil 50 ml : 2 Nos. 
+ Cleaning adapter : 2 Nos. 
+ Video Connecting Cable to be used with HD CCU 
+Should be supplied with endo-vision System with features : 2 Nos. 
+ UPS: Compatible online UPS with 30Min back up :  1 Nos. 
+ 
+ 
+ 
+All items should be from same manufacturer except CO2 Cylinder & UPS.  
+ 
+All items should be USFDA &European CE. 
+7 
+Rigid telescope 30 ° 
+a) Straight forward/ telescope (HD) 30 degree, enlarged view, 10mm, length 31cm, Autoclavable, white 
+light, fiber optic light transmission incorporated.  1 Nos. 
+
+
+--- Page 21 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Urology/276(ii)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+b) HD Telescope 5mm, 30 degree : 1 No. 
+- 
+Completely distortion free 
+- 
+Quick lock for attachment of video adaptors 
+- 
+Large field of view and depth of focus 
+- 
+Autoclavable 
+- 
+Should have high quality optics 
+ 
+ 
+ 
+ 
+
+

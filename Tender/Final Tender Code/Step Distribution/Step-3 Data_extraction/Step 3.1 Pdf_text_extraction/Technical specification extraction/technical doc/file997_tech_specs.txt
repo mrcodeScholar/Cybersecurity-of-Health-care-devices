@@ -1,0 +1,143 @@
+--- Page 62 ---
+ 
+ 
+ 
+SECTION – VII 
+TECHNICAL  SPECIFICATIONS  
+Specifications of Electro Physiology (EP) System 
+ 
+1. The System hardware should consist of- 
+a. System should be 08 channels EMG, NCV & EP system with individual touch proof & DIN 
+connectors. 
+b. System should be European CE with 4 digit notified body Or USFDA approved and meet 
+international safety standards like IEC and Class IIb. 
+c. The amplifier should have USB powered and enabling the amplifier to be connected to any 
+PC/Laptop and transfer data through same USB. 
+d. There must be 1 trigger IN/OUT socket to connect stimulators of third-party firms. 
+e. The system should be supplied with Headphone for AEP, LED Goggle & 17” Pattern simulator for 
+VEP. 
+f. The system should have wireless control panel for easy operation. 
+ 
+2. (EMG/NCV/EP) 08 Channels specification: 
+a. Common mode input impedance > 200 Mohms 
+b. Sampling Rate – 40-KHz - 160KHz 
+c. A/D convertor – 16-18  bits 
+d. High pass Filter from 0.02 Hz to 3 KHz 
+e. Low pass Filter from 10 Hz – 10 KHz 
+f. CMRR > 100 dB 
+g. Noise Level(RMS) < 0.5 µV 
+h. Notch filter ; 50Hz, 60 Hz on or off 
+i. 
+Electric stimulus duration should be 0.05 to 5 mS, Electric stimulus amplitude should be 1 to 100 
+mA and Electric stimulus frequency: 0.1 to 100 Hz in Repetitive stimulation. 
+ 
+3. EMG/NCV/EP should have following test modules: - 
+a. Motor & Sensory NCV with automatic marking 
+b. Motor and Sensory inching  
+c. Motor and Sensory collision study  
+d. Tremor analysis 
+e. F wave with split screen display with automatic marking of F responses showing the Max F, Min F 
+and F block values. 
+f. H Reflex with Pair study ,Blink Reflex, Sacral Reflex, Bulbocavernous Reflex, T Reflex, Galvanic 
+Skin Response, RR-interval 
+g. Repetitive Stimulation 
+h. Insertional /Spontaneous EMG recording for unlimited duration on hard disk for 10 minutes buffer 
+storage. 
+i. 
+Quantitative EMG test features must be included. 
+j. 
+EMG replay of stored EMG data from hard disk with audio 
+k. Multiple/Single Motor unit Analysis 
+l. 
+Jitter analysis for single fiber and stimulated single fiber test must be included. 
+m. Incremental MUNE & MUNE (MUP Decomposition) 
+n. Macro EMG 
+o. Short-, middle- and long-latency auditory EP 
+p. Short- and long-latency somatosensory EP 
+
+
+--- Page 63 ---
+ 
+ 
+q. Auditory stimulation with clicks and tones. 
+r. Visual evoked potentials: Pattern reversal, appearance, disappearance VEP (with Fully, quarterly & 
+half-quarterly), Flash VEP, Goggle VEP- Flash and pattern reversal 
+s. Should have MRCP, CNV, MMN, VEMP tests. 
+t. Should have Visual and Auditory P300 programmed tests. 
+u. Should have a facility of recording Bereitschafts Potentials for pre-movement cortical activity and 
+motor planning, including automatic analysis of late BP, early BP & peak BP.   
+v. Should have tools like averaging, rectifying, smoothing, subtraction, and summation of recorded BP 
+waveforms to clear out the noise. 
+ 
+4. EMG/NCV/EP Software should have following features:- 
+a. Automatic rapid report generation with unlimited user templates 
+b. Facility of comparing patient data with normative data & to flag abnormal values automatically. 
+c. Supplied with HD-USB camera and software with facility to record Video of the patient while doing 
+any test specially Pattern VEP, this option is useful to watch a patient’s eyes focusing on the fixation 
+point, later on video frame can be copied to an exam report, to an additional information window or 
+to a file. 
+d. The Video Capture Module for Lab Chart is used for simultaneous recording and synchronization of 
+a digital video and a Lab Chart data file. 
+e. Report generation to be customizable and in MS word format. 
+f. Must be operating on Windows 10. 
+g. Should have Microsoft SQL-server, MDB, and My’s-sql-server database software. 
+h. Facility of including the waveform & numerical data as per user requirement in patient report. 
+i. 
+Automatic export feature in the software to save the report in any drive or networked computer for 
+future record.  
+j. 
+Traces can be export to EDF, BDF, text & XML format for analysis in 3rd party software. 
+k. Should have facility of customized protocols for all tests. 
+l. 
+Provision for hard copy output of recordings on a laser printer of 600 dpi resolution. 
+m. Dedicated control panel can function via Bluetooth & USB interface both. 
+n. Possibility to connect a Magnetic stimulator in future and able to perform the research test protocols 
+in-built in the EMG software like CMCT, Triple stimulation, Silent period, IHI etc. 
+o. Possibility to upgrade it to ERG (Electroretinograpghy) studies in future with Genzfield & Penlight 
+stimulators within the same software. 
+ 
+5. Set of EMG electrodes and stimulators to be supplied along with system:- 
+a. Surface electrode – 4 pairs. 
+b. Stimulating bar electrode with replaceable steel and felt stimulation pads – 2 no. 
+c. Ring electrode – 2 pair. 
+d. Ground electrode with cable (paediatric)-2 no. 
+e. Ground electrode with cable (adult)-2 no. 
+f. Disposable concentric needle electrode – 25 pcs. 
+g. Adapter for needle electrode connection – 1 no. 
+h. Disposable surface electrode- (set of 100 pcs.) 
+i. 
+Adapter for disposable electrodes connection with Alligator clip (20 cm) – 2 pcs. 
+j. 
+Gold plated cup electrode – 20 pcs. 
+k. Jumper Electrode (Pup-jack linker) – 8 pcs. 
+l. 
+Electrical Handheld stimulator-2 no. 
+m. Visual stimulator (LED goggles)-2 no. 
+n. 17” TFT monitor for VEP-1 no. 
+o. Auditory stimulator (headphones)-1 no. 
+ 
+
+
+--- Page 64 ---
+ 
+ 
+6. The system should be supplied with: 
+a. (Branded Laptop) Intel Core i7 processor with 8GB RAM, network card, multimedia speakers, 
+mouse, keyboard, minimum 1TB hard disk for storing 
+b. Laser Printer (B/W) 
+c. Movable Trolley. 
+d. User manual 
+ 
+7. Safety and Electromagnetic Compatibility:- 
+a. System should be European CE with 4 digit notified body Or USFDA approved and meet 
+international safety standards like IEC and Class IIb. 
+b. Electromagnetic compatibility (EMC) is provided by IEC 60601-1-2:2007 requirements Fulfilment. 
+c. The digital system is intended for operation in electromagnetic environment. As for safety, the digital 
+system satisfies IEC 60601-1:1988 + A1:1991 + A2:1995, IEC 60601-1-1:2000 and IEC 60601-2-
+40:1998 requirements. 
+d. The electronic unit is supplied by regulated power supply through USB interface, it has double 
+isolation and BF type work parts according to IEC 60601-1. 
+ 
+ 
+
+

@@ -1,0 +1,268 @@
+--- Page 45 ---
+                                                                  
+                                                               
+                                                           Tender No. AIIMS/R/CS/PATHO/18/01/GTE 
+45 
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+Specification for Image Analysis Tools & Automated Cell 
+Viability Analyzer 
+General specifications and terms 
+1. 
+The system should be a modular/integrated system for reporting WHO parameters 
+including 
+sperm 
+count, 
+sperm 
+motility, 
+vitality, 
+viability, 
+sperm 
+morphological 
+measurements, biochemical measurements, DNA fragmentation. 
+2. 
+The system should offer high-end performance all the while maintaining its ease of use. The 
+manufacturer should offer all the reagent kits & consumables necessary for the tests. 
+3. 
+There should be facility to calculate mean value of different forms of sperm velocity. 
+4. 
+System should report all the WHO parameters by automatic mode within  10 minutes. 
+5. 
+The system should show adherence to latest WHO based standard classification norms with 
+molecular level testing of DNA fragmentation with inner core diameter & outer core 
+thickness with ratio. 
+6. 
+The system should have facility of integration with patient database for complete reporting 
+and data for patient registration, samples collection, and slide preparation. This must be 
+supported by individual barcode. 
+7. 
+Facility of storage of image, videos or sequences for archiving or future verification is a must 
+for every patient analysis. 
+8. 
+Should have customizable reporting via user defined report templates. 
+9. 
+Automated system should report Sperm Conc., agglutination, Total motility, Prog. Motility, 
+Non Prog. Motility, Immotile, Sperm Normal forms, MSC, PMSC, Functional Sperm. 
+10. 
+Analysis of multiple fields / multiple species should be available. 
+11. 
+Macros for different sperm types/ sample conditions should be available. 
+12. 
+Facility for determination of % Total motility, % Progressive motility, % Non Progressive 
+motility, % Norm morphology, Sperm count, Motile sperm concentration, Progressive motile 
+concentration, Functional sperm concentration, Velocity, Sperm Motility index and total 
+ejaculation report. 
+13. 
+Facility for determination of linear and curvilinear velocities should be available. 
+14. 
+Facility for determination of velocities- VCL, VSL, VAP, ALH, Linearity, STR, BCF & wobbling 
+should be available. 
+15. 
+Facility for automated morphology measurements as per WHO parameters including display 
+of sperm parameter i.e. head, length, width, regularity, % acrosome, neck width, insertion & 
+no. of tail & length of tail should be available. 
+16. 
+Classification of detected features into user definable classes using a combination of any 
+measurement parameters including biomarker like fructose, zinc, and alpha-glycosidase 
+should be desirable. 
+17. 
+There should be facility for transfer of all data/results to MS excel, word or pdf. 
+
+
+--- Page 46 ---
+                                                                  
+                                                               
+                                                           Tender No. AIIMS/R/CS/PATHO/18/01/GTE 
+46 
+ 
+18. 
+In built report generator for generating custom reports complete with data tables, 
+histograms, images & videos should be available. 
+19. 
+All data should be stamped with date, time, and magnification and calibration information. 
+20. 
+All-in-one system should be supplied with branded computer system with window 10 or 
+more to support application and camera Interface, 2 GHz multi core i7 processor, 2TB hard 
+drive, 16 GB RAM, DVD+RW, USB 3.0 and HDMI port, 24” TFT/ LED Monitor (1920 x 
+1200), wireless keyboards, mouse, and appropriate barcode reader 
+along with 
+multifunctional color laser duplex printing printer with consumables (2 cartridges) with 
+2000 sheets of A4 size paper should be provided. 
+21. 
+Microscope should have sextuple nosepiece and multiple wavelength filters for using 8 or 
+more fluorescence filters including DAPI FITC and TRITC suitable for semen analysis. 
+Should be trinocular with camera adaptor with facility for positive phase contrast and 
+option to upgrade to DIC. Camera adapter, 4 X, 10x phase, 40X, 100x plan-achromat 
+objectives, wide field eyepiece with 20 a field of view, illuminator should be of 12-15 W LED 
+Light source equivalent of 12V-100W halogen with life span of minimum 50000 hours. 
+22. 
+The camera should be Hi Speed shuttered USB 3.0 camera for Sequence capturing with: 
+Global shutter, color, 1280 x 1024. 60 frames/sec. CCD Camera to support for 60-90 
+Fbs/sev. 
+C/CS mount USB connector seamlessly interfaced to Software 
+23. 
+The calibration, IQ, OQ and PQ of the instrument should be performed at the time of 
+installation and certificates should be provided. 
+24. 
+Yearly calibration certificate including temperature calibration verification, test temperature 
+non-uniformity test and performance diagnostic test within warranty as well as in CMC 
+should be provided. 
+25. 
+Sperm chamber and Sperm meter with 10 μ depth not requiring semen dilution should be 
+provided. 
+26. 
+Heating Stage Ambient to 55 ºC fixed to microscope stage should be provided.  
+27. 
+System should be CE-IVD or FDA or BIS approved product. 
+28. 
+Branded Online UPS of 3KVA for one hour backup should be provided. 
+29. 
+Start-up kit for at least 100 tests including all consumables (slide, cover slips etc.) should 
+be provided free of cost for pH, viscosity, morphology and vitality; and 10 Tests of DNA 
+fragmentation, antisperm antibody, nucleoprotein, HOS, fructose, α- glycosidase and zinc. 
+(may be done manually) 
+30. 
+Appropriate anti-vibration table with granite top of standard make should be provided to 
+accommodate the instrument, computer system and accessories.  
+31. 
+Document or order copy supporting satisfactory performance from AIIMS/ institute of 
+national importance (minimum one) should be provided.  
+
+
+--- Page 47 ---
+                                                                  
+                                                               
+                                                           Tender No. AIIMS/R/CS/PATHO/18/01/GTE 
+47 
+ 
+32. 
+Support for induction and follow up training of technical staff, on-site standardization 
+trouble shooting of procedures/tests to be provided by the company. 
+33. 
+Five (5) years warranty and Five (5) years CMC should be provided.   
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE 
+document for complete equipment (including Batteries for UPS, other vacuumatic 
+parts wherever applicable) Warranty period will be 5 years from the date of 
+installation, commissioning and Site Modification Work from the date of 
+satisfactory installation, commissioning, trial run & handing over of equipment to 
+Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period 
+by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After 
+sales 
+service 
+centre 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service should 
+be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date of 
+supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian 
+Agents (if they have the requisite know-how) for operation and maintenance of the 
+equipment to the satisfaction of the consignee. The same will be in line with the 
+training modalities as specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ service 
+/operational manual of the manufacturer, labour and spares, after satisfactory 
+completion of Warranty period may be quoted for next 5 years on yearly basis for 
+complete equipment (including Batteries for UPS, other vacuumatic parts 
+wherever applicable) and Site Modification Work (if any). The supplier shall visit 
+each consignee site as recommended in the manufacturer‟ s technical/ service 
+/operational manual, but at least twice in six months (i.e. 4 preventive 
+maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of 
+any such stipulation the price will be taken inclusive of such taxes and no claim 
+for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank guarantee 
+for 2.5% of the cost of the equipment as per Section XV valid till 2 months after 
+expiry of entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 
+365 (days) basis, with penalty, to extend CMC period by double the downtime 
+period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee‟ s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+
+
+--- Page 48 ---
+                                                                  
+                                                               
+                                                           Tender No. AIIMS/R/CS/PATHO/18/01/GTE 
+48 
+ 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the 
+Bank Guarantee for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 49 ---
+                                                                  
+                                                               
+                                                           Tender No. AIIMS/R/CS/PATHO/18/01/GTE 
+49 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to 
+be installed, in consultation with HOD of Hospital/Institution/Medical College concerned. 
+Site Modification Work details of each Hospital/Institution/Medical College are given at the 
+end of Technical Specification. The Tenderer to quote prices indicating break-up of prices of 
+the Machine and Site Modification Work of each Hospital/Institution/Medical College. The 
+Site Modification Work costs to be quoted in Indian Rupee will be added for Ranking 
+Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation 
+the price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer's attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). The 
+tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it's tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard 
+IEC- 60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is 
+not available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard 
+interface interoperability conditions for networked equipment in hospital 
+management information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period. 
+
+

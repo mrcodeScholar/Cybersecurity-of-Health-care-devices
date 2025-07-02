@@ -1,0 +1,319 @@
+--- Page 38 ---
+ 
+Tender Enquiry No.: AIIMS/ BPL/ Urology/ESWL/24-25/GTE/…… 
+ 
+ 
+Page 38 of 62 
+ 
+ 
+SECTION - VII:  
+TECHNICAL SPECIFICATIONS for Integrated Extracorporeal Shock Wave Lithotripter (ESWL)  
+Integrated Extracorporeal Shock Wave Lithotripter (ESWL) 
+For treatment of urinary stones in adult and children, and CBD and pancreatic duct stones 
+Integration is defined as when all the components of the ESWL (Shock wave generator, imaging system, 
+and patient table) are all built into a single, cohesive system and this includes mechanical and functional 
+integration. 
+The system should provide Anesthesia free treatment and should have integrated X-ray and ultra- sound 
+localization facilities. The system should comprise the following: 
+ 
+Shock Wave Source 
+ 
+Stone localization system 
+ 
+ECG Monitor 
+ 
+Patient Information management system 
+ 
+Treatment table and accessories 
+ 
+Hand Control Unit 
+ 
+Separate Remote Console 
+Shock Wave Source: 
+1. Should have Electro Magnetic Shock Wave Emittertechnology. 
+2. Membrane based dry/wet coupling. 
+3. The Shock head should have a penetration depth of 170mm or more. 
+4. Shock wave head should have facility for variable energy level for facilitating low energy treatments for 
+pediatric patients and high energy treatments for hard stones. 
+5. Should enable under and over table treatments for all the treatments in comfortable supine position and 
+should have facility of seamless multiple therapy window angles. 
+6.Shock wave head and C-Arm fluoroscopy should be mounted inline such that both should have same 
+axis of rotation. 
+7.  Should have variable levels of energy at least in 11 steps. 
+8. Adjustable step-wise frequency shock release should be minimum 30 or less and maximum 100or more 
+shocks per minute, in increment of 10, with facility of ECG triggering. (+/- 10%) 
+9. Should automatically adjust to the patient body contour even on slightest patient movements during the 
+treatment. 
+10.Should have imaging technology to view the patient contact interface from within the therapy head. 
+11. Unified hand control should control all the parameters of shock wave, movement of Shock wave 
+source, C- Arm and Table. The display of Unified hand control should also indicate the coupling pressure 
+for shockwave release. Unified hand control should have image oriented movement mode for X ray guided 
+ESWL to enable precise movement of target to the focus with pictorial guidance 
+12. Movement of Shock wave source should be motorized, in all the required axes (viz. X and Y) to enable 
+precise movement of the focus to the target. The under the table and over the table positions of the Shock 
+wave source should also be motorized. 
+Stone Localization System: Integrated, isocentric fluoroscopy and ultrasonography: 
+1.  Localization and treatment using simultaneous dual imaging (ultrasound as well as X ray Fluoroscopy) 
+should be possible. 
+2.  Both the imaging systems should be iso-centric to the Focus. 
+ 
+
+
+--- Page 39 ---
+ 
+Tender Enquiry No.: AIIMS/ BPL/ Urology/ESWL/24-25/GTE/…… 
+ 
+ 
+Page 39 of 62 
+ 
+ 
+Integrated X-Ray: 
+1.  Should have completely integrated, iso-centric and motorized X-ray C-arm localization and targeting 
+system. 
+2.  15 kw or more X-ray capability to allow all endo- urological interventions 
+3.  High frequency X-Ray generator, double focus X-Ray tube and flat panel detector 
+4. X-Ray C-Arm should move iso-centric to the shock wave source in both lateral directions to achieve 
+two positions to localize the stone in three dimensions. 
+5.  AP "0" degree and both CC directions i.e. CC+ and CC-30 degree (+/-10%) 
+6.  At least two medical grade, minimum 17-inch monochrome monitor should be supplied 
+7. All movements of the C-arm should be motorized and controlled through the unified hand control  
+Ultrasound System: 
+1.  A color ultrasound should be supplied. 
+2.  Should have a 15" or bigger flat panel monitor 
+3. Should have 1 -7.0 MHz multi-frequency transducer for lithotripsy with urological software package. 
+4. Localization should be done through integrated and articulating ultrasound arm iso-centric to the shock 
+wave source with outline transducer for best image quality. 
+5.  Should have curvilinear and linear probe. 
+ECG Triggering: 
+1. Should supply a compatible ECG monitor for monitoring as well astriggering of shock wave release. 
+Patient Information Management System: 
+1.  Workstation 
+2.  Live X-Ray Image Acquisition/Processing 
+3.  Features: Last image Hold, window and level control, Horizontal reverse, vertical reverse, Grey level 
+invert 
+4.  Image Format/Storage 
+5.  Export Function 
+6.  System Backup: CD-R/DVD-R, Patient data / image archive, CD-R or DVD-R/-RW 
+7.  Print Functions 
+DICOM 3.0 Services: 
+ Media Interchange. 
+ Work list Management. 
+ Storage System 
+ Basic Print 
+Advanced Patient Data Management: 
+Features: User defined templates for diagnosis and therapy, indication of calculi on image for easy 
+documentation, patient history record and acquisition of therapy data, data analysis and statistics. 
+Treatment table & accessories: 
+1.  Ergonomically designed patient table usable for both for ESWL and endourological procedures by 
+allowing full patient access. 
+2.  Should have a 3-Way motorized treatment table with extensions and basic accessories for patient 
+positioning and comfort. 
+3.  Table should be completely integrated with system. 
+
+
+--- Page 40 ---
+ 
+Tender Enquiry No.: AIIMS/ BPL/ Urology/ESWL/24-25/GTE/…… 
+ 
+ 
+Page 40 of 62 
+ 
+ 
+4. Table movements should be possible with the same hand control unit which is for shock wave release. 
+5. Design should accommodate the C-arm movement on both CC (+ 30 degree and -30 degree) directions. 
+6.  In case of an emergency, the same table should be used for transportation of patient. 
+Hand Held Control Panel: 
+1. Should have unified hand control unit to have all the movements of table, C-arm, shockwave parameters 
+and shockwave release from the same. 
+Remote Console: 
+Separate remote console with facility for controlling imaging, stone localization, targeting, shockwave 
+parameters and patient monitoring. 
+Terms & Conditions: 
+1.  ESWL system should be BIS/CDSCO approved. 
+2.  Should have installation within India of the quoted/similar model, for spot evaluations, if needed. 
+3.  Bidder should facilitate to get the NOC to import the machine and to operate from AERB. 
+4.  Suitable indigenous UPS with 30 minutes battery backup for complete load of the ESWL machine as 
+per actual requirement. 
+5.  The system should be upgradable and all spare parts should be available for next 10 years after 
+Commissioning. 
+General Requirements: 
+i).Warranty: Five years from the date of installation. 
+ii). CMC: Five years after warranty. 
+Common Terms & Conditions for Warranty and CMC: 
+1) Uptime shall be 98% on 24 (hrs) X 7 (days) X 365 (days) basis, failing to which, a suitable penalty shall 
+be imposed. 
+2) 5 years Standard Warranty + 5 years CMC prices should be fixed. 
+3) List of consumable items (which will not cover under Warranty/CMC) with rates shall be provided 
+separately, which may be fixed (RC) for at least 3 years. 
+4) Supplier has to provide onsite repair and maintenance of medical equipment under warranty and CMC 
+through authorized service personnel only.  
+5) If supplier fail to repair the equipment or wants to take equipment out from the AIIMS Bhopal for repair 
+beyond stipulated time period then they should provide a stand-by equipment within 7 days. 
+6) Supplier has to provide annual calibration of medical equipment as per NABH Standards, under 
+Warranty and CMC. 
+6. a) All master instruments/tools used for calibration shall be calibrated and traceability certificate shall 
+also be provided. 
+6. b) Calibration reports/certificates shall be submitted in the standard format. 
+6. c) Calibration sticker has to be pasted on the each equipment, indicating calibration done date and next 
+calibration due date.  
+7) Preventive Maintenance Services (PMS) shall be performed by supplier at least once in every 6 months 
+with submission of PMS report. PMS sticker has to be pasted on the equipment, indicating PMS done date 
+and next PMS due date. 
+8) Onsite hands on training and demonstration shall be provided to the user department/technical staffs 
+during installation and as and when requested by user department. 
+9)  Supplier shall provide documents with equipment such as SOP, regulatory clearances, 
+quality/safety/calibration certificates, factory testing certificate, user manual, cleaning/disinfection 
+
+
+--- Page 41 ---
+ 
+Tender Enquiry No.: AIIMS/ BPL/ Urology/ESWL/24-25/GTE/…… 
+ 
+ 
+Page 41 of 62 
+ 
+ 
+procedure etc.      
+10) Supplier has to ensure electrical safety of equipment as per standards and quality assurance of the 
+medical equipment. 
+11) Warranty as well as Comprehensive Maintenance Contract (CMC) should be inclusive of 
+All kinds of sensors, probes, transducers and reusable accessories. 
+Printers and imagers including laser and thermal printers with all parts.  
+Internal battery of the equipment. 
+UPS including replacement of batteries and timely check-ups as per safety standards should be ensured. 
+Coating/Painting of the equipment (whenever required). 
+All third party items supplied with equipment. 
+Turnkey work (Civil, Electrical, AC & R), Furniture and all other items supplied under Purchase Order 
+shall be covered under Warranty and CMC, if applicable.       
+ 
+Scope for Turnkey Work 
+Sl. 
+No. 
+Specification 
+1 
+Break wall and room construction of the proposed ESWL site as per AERB norms. 
+2 
+Partition/modification of room to make console room. 
+3 
+Lead glass window in ESWL Procedure room. 
+4 
+Anti skid tiles. 
+5 
+Adequate LED lighting. 
+6 
+Wooden doors with lead shielding as per AERB norms for ESWL Procedure room and console room. 
+7 
+Electrical: Power will supplied by the Hospital authority to UPS room after that all necessary work will be 
+done by Vendor, adequate light and power point to be considered in whole area 
+8 
+Earthing: 1 separate copper plate earthing 
+9 
+Air Conditioning: The entire carpet area should be air conditioned with AC machine of appropriate 
+tonnage to maintain temperature 20 to 22 degree Celsius. 
+10 
+UPS: 20 KVA online UPS with 30 minutes battery backup 
+11 
+Wooden table for Console room – 1 Nos. 
+12 
+Revolving chairs on wheels with arm rest – 2 Nos.  
+13 
+Cup Board in console room - 2no 
+14 
+Lead Apron -15 Nos. 
+15 
+Lead Thyroid shield – 15 Nos. 
+16 
+Lead Apron holder – 5 Nos. 
+17 
+Color compatible laser printer with 5 additional cartridge 
+18 
+Black and white compatible laser printer with 5 additional cartridge 
+19 
+Led Apron holder (wall Mounted or wheel mounted) -2 Nos. 
+20 
+Office chairs-6 Nos. 
+
+
+--- Page 42 ---
+ 
+Tender Enquiry No.: AIIMS/ BPL/ Urology/ESWL/24-25/GTE/…… 
+ 
+ 
+Page 42 of 62 
+ 
+ 
+21 
+Centre table - 2  Nos. 
+22 
+Computer table-2 Nos. 
+23 
+Stools-10 Nos. 
+24 
+Glass almirah-2 Nos. 
+25 
+Iron Almirah-2 Nos. 
+26 
+Foot step- 2 Nos. 
+27 
+Patient medication trolley- 5 Nos. 
+28 
+Iv stand-5 Nos. 
+29 
+Patient Multipara monitor 
+30 
+LED X ray view box – 3 Nos. 
+31 
+3 Seater patient waiting chairs – 4 Nos. 
+32 
+Shoe rack for patients and staff – 3 Nos. 
+33 
+QA Test of C Arm as per AERB guideline. 
+ 
+ 
+ Technical compliance report should be submitted in following format: 
+ 
+Sr. 
+No. 
+Item Description as 
+per Tender 
+Complied 
+Yes/No 
+Item Description 
+offered by Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive warranty as per Conditions of Contract of the TE document for complete 
+equipment (including Batteries for UPS, other vacuum tic parts wherever applicable). Warranty 
+period will be 05 years from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & handing over of equipment 
+to AIIMS Bhopal 
+b) In-case of complaint, and emergency number to be provided and complaint to be cognizance to 
+be taken within 24 hours of complaint  
+c) 98% up time Warranty of complete equipment with extension of Warranty period by double the 
+downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+d) All software updates should be provided free of cost during Warranty & CMC Period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical College on 24 
+(hrs) X 7 (days) X 365 (days) basis. Complaints should be attended properly, maximum within 8 hrs. 
+The service should be provided directly by Bidder/Indian Agent. Undertaking by the Principals that 
+the spares for the equipment shall be available for at least 10 years from the date of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents (if they 
+have the requisite know-how) for operation and maintenance of the equipment to the satisfaction of 
+the consignee. The same will be in line with the training modalities as specified in general technical 
+specification. 
+ 
+Section – VIII 
+
+

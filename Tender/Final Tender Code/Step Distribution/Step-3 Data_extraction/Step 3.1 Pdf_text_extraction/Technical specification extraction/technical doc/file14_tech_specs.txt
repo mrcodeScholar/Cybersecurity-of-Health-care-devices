@@ -1,0 +1,149 @@
+--- Page 10 ---
+Tender for Portable Colour Doppler Ultrasound Machine 2D ECHO                        Admn/Tender/02-3/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable Colour 
+Doppler 
+Ultrasound 
+Machine 2D 
+ECHO    
+ 
+1. The system must be fully digital technology equipment  
+2. System must be offered with abdominal and thoracic ultrasound 
+imaging, Echocardiography and should be upgradeable to TEE 
+Imaging. 
+3. The System should not weigh more than 10 kgs.  
+4. System must be offered with a minimum of 200000 digital 
+processed channels per image frame or 128 physical channels or 
+advanced equivalent technology. Technical data sheet should be 
+enclosed in technical bid to support the number of channels on the 
+systems. If not mentioned Please attach a letter from manufacturer 
+along with the technical bid clearly stating the dynamic range of the 
+offered system. 
+5. Convex probe should be with either single crystal technology or 
+purewave technology or high density for excellent Image quality on 
+Difficult to image patients. Please mention the above technology 
+used in the transducer. System offered with normal transducers on 
+convex are liable for rejection. 
+6. System must be offered with a minimum 12 inch High Resolution 
+Flat Panel Display monitor.  
+7. System 
+must 
+be 
+offered 
+with 
+frequency 
+compounding 
+facility/Equivalent Technology. Processing technology in technical 
+bid should be highlighted. 
+8. System must be offered with needle visualization tool to enhance 
+the presentation of the needle without degrading the surrounding 
+tissue. 
+9. System must be offered with Speckle Reduction Imaging to remove 
+speckles and clutter artifacts 
+10. Should have the state of the art Transmit Real Time Compound 
+Imaging Technology with Multiple transmitted lines of sight, 
+wherein Multiple Coplanar Images from different viewing angles 
+are obtained and combined into a single compound Image at real-
+time frame rates for improved visualization. This should be 
+demonstrated in convex, linear and endocavity  probes. 
+11. System must be offered with a very high dynamic range of at least 
+170 db (±10%) to pick up subtle echoes. Dynamic range in db must 
+be clearly mentioned in the technical quote. If not mentioned Please 
+attach a letter from manufacturer along with the technical bid clearly 
+stating the dynamic range of the offered system. 
+12. Frequency processing facility for the transducers should be 1 - 15 
+MHz This must be available without the need for frequency 
+switching. 
+13. System must be offered with Eight-slide physical pot control 
+adjustment of TGC curve. 
+14. Independently selectable gain Control in Lateral plane. (Better 
+technology can also be offered). 
+15. Triplex Imaging should be standard on the system. 
+16. System must be offered with a 2D frame rate of at least 750 
+frames/second. Acquisition frame rate should be clearly mentioned 
+in the technical quote If not mentioned Please attach a letter from 
+manufacturer along with the technical bid clearly stating the 
+dynamic range of the offered system. 
+01  
+
+
+--- Page 11 ---
+Tender for Portable Colour Doppler Ultrasound Machine 2D ECHO                        Admn/Tender/02-3/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17. Must be offered with a single button control for automatic 
+optimization and adjustment of TGC and Receiver Gain to achieve 
+optimal uniformity of image quality and faster scans. This should be 
+demonstrated to the users during technical discussions. 
+18 System must be offered with Enhanced Tissue Harmonic Imaging 
+should be standard on the system. This should be based on a real – 
+time digital signal storage and phase cancellation technique to 
+enhance axial and Contrast resolution. 
+19. The should have minimum hard 80GB disk drive space 
+20. System should have extensive image management capability 
+including thumb nail review, Cine loop editing etc. 
+21. System should have facility to transfer images to an integrated CD 
+writer/USB ports, without any interfacing. 
+22. Print – Should have direct connectivity to printer for printing 
+images. 
+23. System should be ICE Compatable. 
+24. The system must be US-FDA certified 
+ 
+System Must Be Supplied With the Following Transducers 
+1.  Wide-band linear array transducer with 15.0–6.0 (±2) MHz 
+Imaging Frequency for Intraoperative, vascular, musculoskeletal, 
+nerve block, small parts, and pediatric patients 
+2. Wide-band hockey stick- linear array transducer with 13.0–5.0 
+(±1) MHz Imaging Frequency for Peripheral vascular, small parts, 
+musculoskeletal, nerve blocks, superficial thoracic/pleural, needle 
+guidance 
+3. Wide-band phased array transducer with 5.0–1.0 (±1) MHz 
+Imaging Frequency for Adult and paediatric cardiac, abdomen, 
+OB/GYN, thoracic/pleural 
+4. Wide-band convex array transducer with 5.5–2.0 (±1) MHz 
+Imaging Frequency for Abdomen, OB/GYN, hip, spine, bladder, 
+conventional musculoskeletal. 
+ 
+System should be supplied with the following peripheral devices 
+ 
+1. Thermal B/W Printer. 
+2. Dockable cart must have at-least 3 Imaging universal active probe 
+ports with electronic switching facility from key board without 
+probe adapter. 
+ 
+
+

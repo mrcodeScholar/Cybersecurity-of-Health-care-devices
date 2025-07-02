@@ -1,0 +1,119 @@
+--- Page 10 ---
+Tender for Advanced Electro Surgical Unit 
+Admn/Tender/02/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Advanced 
+Electro 
+Surgical 
+Unit  
+ An integrated system with 300W output generator and a single 
+touch screen for Monopolar, Bi-Polar and Vessel Fusion 
+integrated in one generator. 
+ The system must be micro-processor controlled which should 
+identify the tissue type with a feedback of at least 430000 
+times/second on real time basis, and adjust the power to get the 
+desired surgical effect on the tissue. 
+ System should have 2 monopolar output, 1 Bipolar output and 1 
+Vessel Sealing output. 
+ The Monopolar output must have Cut, Blend, “Haemostasis with 
+division(HWD)”, Soft Coag, Fulgurate and Spray mode.  
+ The Bi-Polar must have Low, Standard and Macro mode with 
+Auto Bi-Polar control. 
+ System should have separate monopolar, bipolar & Vessel 
+Sealing foot pedal. 
+ The system should have one different Vessel Fusion output 
+which should be able to seal artery, veins along with tissue 
+bundle up to and including 7mm in diameter, and fused vessels 
+should be able to withstand more than 3 times of normal systolic 
+blood pressure. 
+ The Vessel seal system should be of minimum of 300W at a 
+rated load of 20 ohms. 
+ The vessel sealing system should have simple audio visual 
+feedback display from the generator. This should include : 
+ System should have System Error Indicator 
+ System should have System status indicators such as Self test, 
+ready for use, ready for sealing/seal cycle complete, sealing in 
+process 
+ Seal cycle incomplete alert,  
+ System should have usage limit indicator 
+ System should have instruments status indicator. 
+ Demonstration of equipment is must. 
+ The vessel sealing system should support open and laparoscopic 
+hand instruments 
+ The vessel sealing hand instruments should have cutting 
+independent of sealing. 
+ There should be an option of enabling or disabling the 
+footswitches. 
+ Surgeon should have the facility to control the power from the 
+sterile zone with a sliding control 3- button hand switching 
+device. 
+ The system should have demo mode facility and recall facility to 
+recall the last setting used by user.  
+01 
+
+
+--- Page 11 ---
+Tender for Advanced Electro Surgical Unit 
+Admn/Tender/02/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System should have bipolar resection with saline facility in-built 
+in the integrated in main unit software without any interfacing 
+cable. 
+ Selectable range of bipolar cut initiation. 
+ Should have six combination of cutting and coagulation settings 
+ Should be compatible with Storz and Wolf Resectoscope.  
+ System should be compatible of REM polyhesive contact quality 
+monitoring  
+system. 
+ System should have audio-visual alarm facility, to indicate any 
+breakage of direct contact between the patient and patient plate. 
+ All open surgery including head and neck and thyroid can be 
+precisely controlled with very less thermal spread by using 
+sealing technique. 
+ Integrated seal with choice of cut of 10 mm and 5 mm should be 
+there. 
+ System should have 5 mm vessel sealing electrical instrument 
+with Blunt tip for dissection and faster procedure. 
+ Both Footswitch and hand control mode should be available. 
+ System should have both reposable open surgical instruments for 
+Vessel Sealing purposes. 
+ System should be Compatible with Argon Coagulator and smoke 
+evacuator 
+ System should be US FDA approved. 
+ The system should be upgradable and should have RS232, USB, 
+Ethernet port for on field software downloads, upgrades and 
+serviceability. 
+ The system should be compatible with argon machine & smoke 
+evacuation system.  
+ Monopolar/Bipolar/Vessel sealing footswitch. 
+ Three Button Hand switching pencils 
+ Contact quality monitoring return electrode 
+ Bayonet Bipolar forceps with cord 
+ Universal adaptor-1no. 
+ Open & laparoscopic 10mm and 5mm seal and cut instrument 
+with hand switch activation capability should provide with the 
+system -1no each.  
+ 36mm jaw length, 180 degree rotatable instrument with curved 
+blade for large volume tissue- 1 
+ 5mm multifunctional laparoscopic device for tissue fusion and 
+dissection- 1   
+
+

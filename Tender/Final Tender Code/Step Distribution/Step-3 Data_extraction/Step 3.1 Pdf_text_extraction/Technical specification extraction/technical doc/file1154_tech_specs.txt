@@ -1,0 +1,82 @@
+--- Page 10 ---
+Faculty Microscopes 
+ 
+                         
+ 
+ 
+`                      Admn/Tender/95/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Faculty Microscopes  Specifications: 
+ 
+General: Tender is invited from reputed original manufacture 
+or their authorized agents/dealers only. Information regarding 
+installation in India and satisfactory service and maintenance 
+may be forwarded with all the details for verification 
+ 
+Technical: 
+02 
+Optical system: Infinitely corrected system 
+ 
+Focus: Vertical stage movement 24 mm or more for course 
+stroke vertical stage movement 1micron or less for fine stroke. 
+ 
+Illuminator: Lamp house for LED illumination /100 watts 
+halogen lamp with DIC upgradable. 
+ 
+Revolving nose piece: Reversed sextuple revolving nose piece 
+should be upgradable to DIC in future 
+ 
+Objectives: Plan achromatic 2X/2.5X N.A 0.06 
+                     Plan achromatic 4X/5X N.A 0.10 
+                     Plane achromatic 10X N.A 0.25 
+                     Plane achromatic 40X N.A  0.65 (spring) 
+                     Plane achromatic 100X N.A 1.25 ( spring & oil) 
+ 
+Observation field:  Wide field trinocular eye piece tube with 
+10X eye pieces of 23 to 25mm or more F.O.V 7 
+ 
+Stage:  Ceramic coated surface mechanical stage with right 
+hand low drive controlled with left hand for two specimens. 
+ 
+Camera & software:  Dedicated Microscopy Digital 
+CCD/CMOS Color Camera with 4MP/5MP Resolution 8/10 bit 
+Digitalization at 2560 X 1920 or better Pixel resolution 
+Software should be able to capture and image analysis with 
+capability of Measurement, Manual counting, Intensifier and 
+merging of two and more than two channel at a time. Exposer 
+time 6 minutes. With USB/ Fire wire Port. 
+ 
+
+

@@ -1,0 +1,74 @@
+--- Page 11 ---
+Tender for Target Controlled Infusions System                                                         Admn/Tender/55/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Target 
+Controlled 
+Infusions 
+System 
+1.  Flow rate range from 0.1 to 200 ml/h (up to 1200 ml/h 
+programmable). 
+• Micro-mode : from 0.01 to 9.99 ml/h (increment of 0.01ml) 
+• Syringe list: 5cc, 10cc, 20cc, 30cc and 50/60cc 
+• Infusion mode - ml/h 
+• Dose rate: ng, μg, mg/kg/hror24hr 
+• Drugs in TCI (Propofol, Remifentanil, Sufentanil) 
+2.  Approx. Dilution: Propofol (1 or 2%), Remifentanil (50 μg/ml), 
+Sufentanil (5 μg/ml) 
+3.  Approx. Target: Propofol (15 μg/ml), Remifentanil (20 ng/ml), 
+Sufentanil (3 ng/ml) 
+4.  Modes:- Prime, Programmed bolus and Loading dose, continuous, 
+Fast start 2 KVO adjustable and storable 
+5. Alarms: End of infusion separate “silence alarm” key 
+6. On/off key on backside 
+7. Weight per default adjustable 
+8. Pause adjustable on the front panel and in the menu 
+9. Data log event: up to 1500 events 
+10. Advanced night mode with screen, green LEDS brightness and key 
+beep adjustable in a time range 
+11. Modes available: No drug, drug labelling, TIVA and TCI 
+• Drug labelling: initial drug list of 50 drug names stored per 
+default in the device 
+• TIVA: Drug library of 50 drugs to be created and adjustable.  
+• Up to 120 drugs totally storable in 4 different drug libraries (30 
+drugs in each drug library) 
+• TCI: Initial drug library of 3 drugs adjustable. 
+12. • Pressure Management 
+• Mode variable and pre-set mode (3 levels) 
+• DPS system: Dynamic Pressure System 
+• Graphic icon and green LEDS for pressure monitoring 
+13. Self-stackable devices 
+• Handle to transport the devices 
+• Smart versatile clamp (pole - rail) 
+• ABS material that is chemical resistant 
+• A helmet protecting major components 
+• Chassis conception that is shock resistant 
+• With an accessory (data modem): RS232, USB, Ethernet, 
+• Nurse call 
+• 12 VDC converter connectable 
+• IP 22, 2150 g 
+14. • TCI infusion mode 
+• TCI history 
+02 
+
+

@@ -1,0 +1,200 @@
+--- Page 8 ---
+ 
+Installation 
+and 
+Commissioning 
+Shall be done at the earliest but not later than 45 days of 
+delivery of goods at site or date of handing over the site for 
+installation, whichever is later. 
+Scope of Incidental Services 
+Installation & Commissioning, Supervision, Demonstration, 
+Trial run and Training etc. 
+Turnkey Work (if any) 
+As per details in Technical Specification 
+ 
+24. Technical Specifications: 
+Technical Specifications of Ventricular assist device system – 01 Nos in CNC Department  
+General requirements for the vendor: 
+1. Warranty of the equipments should be 5 years 
+2. After warranty period of 5 years, CAMC (Comprehensive Annual Maintenance Contract) with 
+labour should be quoted for next 5 years (from 6 to 10 years). 
+3. All the installation and assembly should be done with existing power supply 
+4. Suitable electric wiring should be provided from the distribution box (DB) point through the 
+existing system as per the load requirement 
+5. The vendor will have to certify the minimum local content of the whole requirement in keeping 
+with Order No. P-45021/2/2017-PP (BE-II) dated 04th June, 2020 issued by Ministry of 
+Commerce and Industry, department for Promotion of Industry and Internal Trade (Public 
+Procurement Section). 
+6. There should be adequate provision and all preventive measures should be taken to 
+prevent entry of rats and insects through the duct or drainage system. 
+ 
+Specification : 
+ 
+Category One : 3rd Generation (for small and large adults, BSA 1.2 or more) 
+1. 
+The pumps should be capable of being used in patients with BSA of 1.2 and more. 
+2. 
+Should allow complete intrapericardial implant.  
+3. 
+VAD pump should be of continuous flow and centrifugal type. 
+4. 
+VAD pump volume to be 50cc, weight not more than 160gms and inflow diameter not more than 50 
+mm. 
+5. 
+VAD pump flow range 0 to 10 l/m 
+6. 
+VAD outflow graft 10 -14 mm  
+7. 
+VAD pump design to be based on two stators. 
+8. 
+VAD pump should be of contactless design and moving part should not have any mechanical bearings. 
+9. 
+VAD pump should have an inbuilt speed variation for better washing of the left ventricle. 
+10. 
+Implantation should not involve any abdominal surgery and no pump pocket need to be made. 
+11. 
+Monitor should show real time waveforms for flow and power to constantly monitor patient. 
+12. 
+Display of trend screen flow/speed, flow/ power should be available up to 30 days. 
+
+
+--- Page 9 ---
+ 
+13. 
+Two batteries together should be able to support up to 14 hours. 
+14. 
+Batteries should not need any calibration and should have a life of 500 cycles. 
+15. 
+Batteries connected should be used sequentially (one at a time) and not simultaneously by the 
+system. 
+16. 
+Controller used should be microprocessor based and have LCD screen displaying pump parameters, 
+alarms and recommended trouble shooting. 
+17. 
+The backup controller should match the primary controller for patient safety. 
+18. 
+Redundancies should be built in throughout the system which focus on essential performance of 
+running the pump-motor drive power source and independent processors redundancy.   
+19. 
+There should be no graft at the inflow. Graft should only be at the outflow. 
+20. 
+The input cannula should have design specification to avoid tissue growth. 
+21. 
+LVAD implant should be suitable for sternotomy as well as thoracotomy. 
+22. 
+The Vendor will provide the Proctor and support team for the implantation. 
+23. 
+A product specialist would be available in house for at least 48 h after implantation.  
+24. 
+Any future upgrades to the software will be provided by the vendor free of cost. 
+3rd generation left ventricular assist device – Technical Specifications  
+(Category 2: for adults with large body surface areas ) 
+ 
+ 
+The Pump should have a full magnetic levitation technology  
+ 
+Pump should be approved by FDA for intention to provide long term hemodynamic support in patient with 
+advanced, refractory left ventricular Heart failure for either as temporary support such as bridge to cardiac 
+Transplantation (BTT), bridge to myocardial Recovery (BTR) or as a permanent destination Therapy (DT). 
+ 
+The pump should be capable of supporting patients with BSA of 1.3 m2 or more 
+ 
+It should be able to generate artificial pulsatility & should have textured surface in inflow & out flow conduit 
+of the pump 
+ 
+Pump should be light weight not more than 200 gms. 
+ 
+External diameter should be less than 70 mm 
+ 
+Pump should be able to display flow between 2.5-10 LPM 
+ 
+Pump rotor should be completely suspended by magnetic forces, preventing surface to surface contact 
+ 
+Pump should be able to run between 3000 to 9000 RPM & should be able to change speed with 100 RPM 
+ 
+Monitor should be able to show pump parameters like RPM Flow, Power, PI, history & ability to save the data 
+from controller & pump 
+ 
+Monitor should be able to provide information of Back up batteries for controller & alarms. 
+ 
+Controller used should be microprocessor based, & have LCD display pump parameters, alarms, 
+recommended trouble shooting 
+ 
+The backup controller should match to primary controller for patient safety 
+ 
+Controller of the pump should be able to display last 6 alarms. 
+ 
+System controller monitors performance of system, communicates to implanted VAD pump. It should 
+continuously be able to check driveline, performs data processing & storage, fault detection & alarms.  
+ 
+2 Batteries together should be able to support for more than 16 hours 
+ 
+The Driveline should consist of two cables: the Pump Cable and a replaceable Modular Cable. 
+ 
+The drive line should be thin & covered with Woven polyester which encourages tissue ingrowth, reducing the 
+possibilities of infection. 
+ 
+The pump should be able to be used in any of two configurations via line power or portable Battery power. 
+
+
+--- Page 10 ---
+ 
+ 
+The pump should be provided with 8 Li Ion batteries, Battery charger, line power source (mobile power unit), 
+2 battery clips, shower bag & consolidated bag. 
+ 
+Complete team training, proctor back up preimplant, intra operative support & post-operative log file analysis 
++ support should be available 24*7*365 days 
+ 
+The Vendor will provide the Proctor and support team for the implantation. 
+ 
+A product specialist would be available in house for at least 48 h after implantation.  
+ 
+Any future upgrades to the software will be provided by the vendor free of cost. 
+ 
+Demonstration:  If requested, the Technical Specification & Evaluation Committee can call the 
+demonstration of quoted product by the firm to verify the technical specification/features of 
+quoted product by the firm for selection/rejection before financial bid opening. Failure to 
+arrange the demonstration if asked, shall leads to disqualification of the bid. 
+Certifications 
+1. It is confirmed that the pre-requisite requirement such as site, power, water, space, manpower, 
+electricity etc for installation of the equipment have been decided/ earmarked and will be ready 
+before arrival of the equipment, in order to obviate any delay in installation of the equipment 
+and the equipment will be installed immediately after receipt at AIIMS. 
+2. The specifications are General, Broad based and not suited in favour of any particular 
+company/ brand. 
+3. It is certified that the required item is not available on GeM Portal with required specifications 
+and other standard tender terms like warranty, CAMC, and Payment etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+25. 
+Warranty: 
+a) The bidders must quote for Five years Comprehensive Warranty for complete equipment 
+(Including all spares, labour and third party items) and Turnkey Work (if required) from 
+the date of satisfactory installation, commissioning, trial run, handing over and acceptance 
+of the goods by the User Department. 
+b) The warranty charges shall not be quoted separately. 
+c) During the Warranty period, desired Uptime of 95% of 365/366 (Leap Year) days (24 hrs), 
+if downtime more than 5%, the warranty period will be extended by double the downtime 
+period. In addition, a penalty equal to amount of 0.25 % of the total cost of equipment per 
+day will be liable for the excess downtime period but not more than 5% of the equipment 
+cost. Complaints should be attended properly, maximum within 8 hrs. The firm must 
+ensure provision of quality post sale service with 95% uptime of the equipment. The firm 
+has to provide a replacement unit (same model) in case the time taken for repair is long. 
+d) All software updates should be provided free of cost during Comprehensive Warranty 
+period. 
+26. 
+After Sales Service: 
+a) After sales service centre should be available at the city of Institution on 24 (hrs) X 7 (days) 
+X 365 (days) basis. Complaints should be attended properly, maximum within 8 hrs. The 
+service should be provided directly by Bidder/Indian Agent.  Undertaking by the Principals 
+in the “Manufacturer Authorisation Form” that the spares for the equipment shall be 
+available for the lifetime of the equipment.  
+b) Warranty as well as Comprehensive Annual Maintenance Contract will be inclusive of all 
+accessories and turnkey work and it will also cover the following,  wherever applicable:-  
+
+

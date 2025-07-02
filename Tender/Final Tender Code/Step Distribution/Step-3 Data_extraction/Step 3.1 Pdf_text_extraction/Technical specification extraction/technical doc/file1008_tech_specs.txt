@@ -1,0 +1,159 @@
+--- Page 62 ---
+ 
+ 
+ 
+SECTION – VII 
+TECHNICAL  SPECIFICATIONS  
+1.       The machine should be based on the principle of freezing point measurement 
+2.        Measurement range: Between 0 and 2500 mosm / kg or more 
+3.       Sample volume requirement: 100 µl or less 
+4.       The machine should have facility for three point calibration for better accuracy and reliable results and with selectivity   
+        for two point as a standard feature. 
+1. Provision should exist for automatic calibration which must be easy to perform, and calibration should be stable for a 
+long period. 
+6.       The measurement should be completed within 2 minutes for handling higher workloads and serial measurements 
+7.       Should have LCD graphic display with touch option for easy control and convenience in operation. 
+8.       Should have automation with (i) the initiation of the crystallization, (ii) detection of the measuring value, (iii) storage  
+        and (iv) calibration for precise and reproducible results. 
+9.       The reproducibility should be within ±0.5% / ±1.5 mOsm/kg or better 
+10.   Should have a measurement memory for 200 or more measurements 
+11.   Should not require extra water supply. 
+12.   Blocking of measuring tube or needle by freezing in stand-by mode can be counteracted by regular automatically  
+        defrosting 
+13.   Should have provision for built-in printer and scanner for sample and result documentation. 
+14.   The machine should have standard equipment features communication through DTR RS232 serial port and USB port 
+thereby offering extensive and flexible data handing possibilities. 
+15.   Should have integrated real time clock to sort measurements and calibrations 
+16.   Access to instrument can be code protected if wanted. 
+17.   Power supply:  230V AC / 50 Hz 
+18.   Should be USFDA or European CE or BIS approved product 
+19.   Should be brand new and unused. 
+20.   The system should have minimum 2 years warranty. 
+21.  Should be supplied with accessories including: plastic tubes (minimum 50), standard solutions (including 300 and  
+       900 mosm / kg), spare thermistor, spare needle, spare fuses, cleaning fluid, data transmitting cable RS232 / USB, MS- 
+       Windows software, spare paper roll. 
+ 
+a. Reaction Tubes (1.5ml)                      - 2500 nos. 
+b. Osmolality Standards (300 mosm)  - 30 vials 
+c. Osmolality Standards (900 mosm)  - 30 vials 
+d. Printer Paper Roll                               - 15 rolls 
+e. Freezing Needle                                 - 1 nos. 
+f. 
+Thermistor Probe                              - 1 nos. 
+ 
+ 
+ 
+22. Rate for consumables for 5 years will be considered for comparative pricing. Also the cost incurred for CMC for 5 years    
+(after excluding the warranty) should be included. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 63 ---
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE document 
+for complete equipment (including Batteries for UPS, other vacuumatic parts wherever 
+applicable) Warranty period will be 5 years from the date of installation, commissioning 
+and Site Modification Work from the date of satisfactory installation, commissioning, 
+trial run & handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period by 
+double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After sales service centre should be available at the city of Hospital/Institution/Medical 
+College on 
+24 (hrs) X 7 (days) X 365 (days) basis. Complaints should be attended properly, maximum within 
+8 hrs. The service should be provided directly by Tenderer/Indian Agent. Undertaking by the 
+Principals that the spares for the equipment shall be available for at least 
+10 years from the date 
+of supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian Agents (if 
+they 
+have the requisite know-how) for operation and maintenance of the equipment to the satisfaction 
+of the consignee. The same will be in line with the training modalities as specified in general 
+technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site Modification 
+Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes preventive 
+maintenance including testing & calibration as per technical/ service /operational manual 
+of the manufacturer, labour and spares, after satisfactory completion of Warranty period 
+may be quoted for next 5 years on yearly basis for complete equipment 
+(including Batteries 
+for UPS, other vacuumatic parts wherever applicable) and Site Modification Work (if any). 
+The supplier shall visit each consignee site as recommended 
+in the manufacturer‟s technical/ 
+service /operational manual, but at least twice in six months (i.e. 4 preventive maintenance/ 
+year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender Opening. 
+The taxes to be paid extra, to be specifically stated. In the absence of any 
+such stipulation 
+the price will be taken inclusive of such taxes and no claim for the same 
+will be entertained 
+later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be taken at Net 
+Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory completion of said 
+period, duly certified by end user on receipt of bank guarantee for 2.5% of the cost of the 
+equipment as per Section XV valid till 2 months after expiry of entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 365 (days) 
+basis, with penalty, to extend CMC period by double the downtime period. 
+f) During CMC period, the supplier is required to visit at each consignee‟s site at least twice in 
+6 months (i.e. 4 preventive maintenance/ year) apart from all breakdown visits, commencing 
+from the date of the successful completion of warranty period for preventive maintenance 
+of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the Bank 
+Guarantee for Annual CMC. 
+i) The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 64 ---
+ 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, wherever 
+required. The Tenderer shall examine the existing site where the equipment is to be installed, in 
+consultation with HOD of Hospital/Institution/Medical College concerned. Site Modification Work 
+details of each Hospital/Institution/Medical College are given at the end of Technical Specification. 
+The Tenderer to quote prices indicating break-up of prices of the Machine and Site Modification Work 
+of each Hospital/Institution/Medical College. The Site Modification Work costs to be quoted in Indian 
+Rupee will be added for Ranking Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation the price 
+will be taken inclusive of such duties and taxes and no claim for the same will be entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderers attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer 
+is to provide the required details, information, confirmations, etc. accordingly failing which 
+it‟s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of equipment 
+for carrying out routine and preventive maintenance wherever asked 
+for and should 
+make sure that Electrical Safety Analyzer / Tester for Medical equipment to periodically 
+check the electrical safety aspects as per BIS Safety Standards IS-13540 which is also 
+equivalent to IEC electrical safety standard IEC- 
+60601 is a part of the equipment s. If the 
+Electrical Safety Analyzer/Tester is not available they should provide a commitment to get 
+the equipment checked for electrical safety compliance with Electronic Regional Test Labs 
+/ Electronics Test and Development Centres across the country on every preventive 
+maintenance call. 
+Note 3: Adequate training of personnel and non-locked open software and standard interface 
+interoperability conditions for networked equipment in hospital management information 
+system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost technical 
+training for personnel involved in the use and handling of the equipment on site at the 
+institute immediately after its installation. The company shall be required to train the 
+institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and CMC 
+period 
+
+

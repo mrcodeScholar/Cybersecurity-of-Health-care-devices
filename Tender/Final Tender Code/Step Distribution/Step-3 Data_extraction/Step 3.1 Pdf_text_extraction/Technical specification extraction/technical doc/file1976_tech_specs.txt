@@ -1,0 +1,270 @@
+--- Page 17 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neuro/295(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 17 
+ 
+ 
+Upon the successful and timely submission of bids (i.e. after Clicking “Freeze Bid Submission” in the 
+portal), the portal will give a successful bid submission message & a bid Tender No. : ................................. 
+summary will be displayed with the bid no. and the date & time of submission of the bid with all other 
+relevant details. 
+ 
+ 
+The bid summary has to be printed and kept as an acknowledgement of the submission of the bid. This 
+acknowledgement may be used as an entry pass for any bid opening meetings. 
+ 
+ASSISTANCE TO BIDDERS 
+ 
+ 
+Any queries relating to the tender document and the terms and conditions contained therein should be 
+addressed to the Tender Inviting Authority for a tender or the relevant contact person indicated in the tender. 
+ 
+ 
+Any queries relating to the process of online bid submission or queries relating to CPP Portal in general may 
+be directed to the 24x7 CPP Portal Helpdesk number 0120-4200462, 0120- 4001002. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A mobile C-arm Image Intensifier with integrated cables and electromagnetic brakes is required for Neuro surgery  
+1. 
+System should be ECE&US FDA approved. 
+
+
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neuro/295(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+2. 
+AERB approved 
+3. 
+Having ISO certification 
+4. 
+The C arm should have rotational movements and all the movements should be counterbalanced. 
+5. 
+The continuous fluoroscopy, digital pulsed fluoroscopy and digital radiography operating modes are to be 
+supported.  
+6. 
+The C arm should have the facility to produce instantaneous coronary, saggital and axial images of the 
+scanned parts as per case. 
+7. 
+Should have technology to produce optimal high quality image even if the region of interest is not in the 
+centre of image intensifier i.e. multiple matrixes. 
+8. 
+It should be possible to Display dose reporting also. 
+9. 
+The camera system should be based on maintenance free CCD technology with a digital imaging system 
+for fluoroscopy and radiography, with TV matrix at least 1K2 & digital image rotation of 360 Degrees. 
+10. 
+Image archiving on USB & DVD (DVD read/write) with it’s genuine viewer software and Image storage 
+of at least 10000 or more images is mandatory- give details of storage of 2D images. 
+11. 
+It must be equipped with latest DICOM interface. (view,store, print, worklist) 
+12. 
+System should be ready to connect with HIS/PACS. 
+13. 
+Noise filter with on screen indicator. 
+14. 
+Should be capable of integration with leading neuronavigation systems- (eg Brain lab/Medtronics) 
+15. 
+Entire system should be computer controlled and software upgradable. 
+16. 
+There should be programs to reduce dose during fluoroscopy. Patient dose should be displayed on the 
+monitor. 
+17. 
+It should be possible to carry out continuous fluoroscopy for prolonged procedures.  
+18. 
+Cassette exposures should also be possible. 
+19. 
+The C arm should  have the following movements: 
+a. 
+Motorized Vertical Movement : 40 cm or more 
+b. 
+Horizontal travel : 20 cm or more  
+c. 
+Angulation : +90°, -25° degrees or more 
+d. 
+Orbital movement: 170 degrees or more movement. Motorised movements during 3D is preferable. 
+e. 
+Source –I.I. distance 95 cm or more 
+f. 
+ Vertical free space- 75 cm or more  
+g. 
+ Beside above give details of depth and swivel angles. 
+20. 
+X-ray generator : 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neuro/295(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+The X-ray generator should use high frequency technology, should be controlled by microprocessor and the output 
+should be 15 kW or more. 
+Pulse fluoroscopy should be offered as a standard. The output should be as follows: 
+a. 
+Pulsed Fluoroscopy : 110 kV or more and 40 mA or more 
+b. 
+Digital Radiography : 110 kV and greater than 75 mA 
+c. 
+Organ specific user programs should be present 
+d. 
+Possibility to have various dose options during fluoroscopy 
+e. 
+Automatic Dose Rate controlling should be done to prevent over exposure. Laser based targeting devices 
+should be present to reduce radiation during centring. 
+21. 
+X-ray tube : 
+Rotatory anode X-ray tube with dual focal spots. The focal spot size should be 0.3mm or less for small focal spot 
+and 0.6 mm or less for large focal spot.  Inherent filtration 3.0 mm AI or better. The tube should have over load 
+protection. 
+22. 
+Collimation : 
+Iris collimation should be present and it should be possible to operate the collimator without radiation, 360 degree 
+rotation should be possible; Indication for LIH. 
+23. 
+Image Intensifier system: 
+12 inch image high resolution intensifier with triple field zoom. Image rotation should be possible without giving 
+radiation to the patient. Input screen should be cesium iodide for excellent resolution and minimum noise. Electron 
+optics should allow consistent high resolution across the entire Image field -Give details. 
+ Give details about the grid. 
+24. 
+Patient data Management: 
+It should be possible to maintain a complete data base of the patient with easy retrieval. It should be possible to 
+make additions or make changes to the patient data at a later stage. 
+25. 
+Monitors : 
+2 no. medical grade TFT monitors with diagonal size of 19 inch or more. The display should be of 1K matrix with 
+256 gray shades. Resolution min 1024×1024 or better, wide viewing angle.  
+26. 
+Image display: 
+It should be possible for having 2 nos. screen displays (give details). Last Image Hold should be standard. 
+Simultaneous display of old and new reference images. 
+27. 
+Image Processing : 
+a) 
+Manual contrast and brightness adjustment, Edge enhancement, zooming, digital Image rotation, 
+horizontal and vertical flip.  
+b) 
+Alphanumeric keyboard for entering patient data and for image annotation etc. 
+c) 
+Digital Shutters (Image cropping). 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neuro/295(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+d) 
+Digital measurement functions for distances & angle measurement (post processing)  
+e) 
+Annotation should be possible. 
+f) 
+Save and auto-save feature. 
+g) 
+Swap and auto-swap feature. 
+28. 
+The machine should be capable of real time Digital Subtraction Angiography (DSA) with the following 
+features: 
+a) 
+Acquisition frame rate: 25 frames/sec or more 
+b) 
+Storage rate: 10 fps or more 
+c) 
+Auto request for contrast injection 
+d) 
+Roadmap technique for dilatation 
+e) 
+Pixel shift, variable landmark and remasking should be possible 
+f) 
+Peak opacification 
+g) 
+Movie function with START/STOP function 
+h) 
+Lookup tables 
+i) 
+Magnifying glass 
+j) 
+Interactive zoom 
+29. 
+Accessories to be supplied- 
+a) 
+Lead-free light-weighted aprons for radiation protection (all round protection) with 0.5mm lead 
+equivalence certified by BARC/ AERB & ISO – 08. 
+b) 
+Lead-free light-weighted aprons for radiation protection (front protection) with 0.5mm lead equivalence 
+certified by BARC/ AERB & ISO – 08. 
+c) 
+Thyroid shields – 08 
+d) 
+Lead-aprons hanger – 01. 
+e) 
+Any other required accessory for DSA imaging 
+30. 
+Onsite comprehensive training for staff for a period of three months from date of installation or till the 
+time staff is trained in usage as well as maintenance of equipment. 
+31. 
+Warranty & CMC 
+a) 5 year comprehensive onsite warranty of entire system (Spares and labour) including X-ray tube and all 
+accessories and civil, electrical and air conditioning works followed by 5 year CMC. 
+b) 
+Company should confirm the availability of spare parts for 10 years from the date of supply of the 
+equipment. 
+c) 
+Company should have 24 x 7 call support facility  
+d) 
+List of spare parts with cost must be provided. 
+
+
+--- Page 21 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Neuro/295(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+32. 
+Power Supply 
+a) 
+Power input to be 200-240VAC, 50Hz, Fitted with Indian type plug. 
+b) 
+Resettable over current breaker/ANY other protection device shall be fitted for protection. 
+33. A high end MACINTOSH BASED COMPUTER with at least 8 GB RAM,  GRAPHICS,  with installed 
+GENIUNE VIDEO EDITING SOFTWARE  TO RUN AND EDIT DSA IMAGES AND VIDEOS SHOULD BE 
+SUPPLIED, PLUS 2 TB OF EXTERNAL HARD DRIVE (not requiring external power) should be supplied 
+34. Compliance statement should be presented in a tabulated manner- mentioning the page/para number of original 
+catalogue/data sheet. Any point not substantiated with authenticated catalogue/manual will not be considered. 
+35. Please make sure to submit copies of all certifications- USFDA/ECE/AERB & ISO + LIST OF 
+INSTALLATIONS in India with performance and after sale service records at time of submission of bids only to 
+save tender processing time. 
+ 
+
+

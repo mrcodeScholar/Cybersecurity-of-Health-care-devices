@@ -1,0 +1,1471 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 19 of 43 
+ 
+ANNEXURE-I 
+Detailed Technical Specification for Establishing Genetics Lab 
+ 
+1. FULLY AUTOMATED GEL DOCUMENTATION SYSTEM with inbuilt CCD Camera 
+ 
+1. System should be capable for Chemiluminescent and Fluorescent Western blot imaging, DNA, RNA 
+gel and colorimetric and fluorescent protein gel imaging. 
+2. System should utilize Smart Exposure algorithm that determines optimal exposure times while 
+eliminating saturation. System should also have facility to display a preview simulated image that 
+responds to time adjustments to help determine & further refine conditions before exposure if desired. 
+3. System should automatically detect the sample and its size; automatically move the camera towards or 
+away from sample to “zoom” into the correct position to maximize the utilization of the field of view.  
+4. System should have the facility that the sample should be automatically & mechanically rotated to 
+help ensure square images that do not require digital rotation. 
+5. System should have light path that maximizes sample viewing area in a small instrument design. System 
+should provide a field of view 21 x 16 cm or more, enough for 4 mini gels. 
+6. System should have 8 MP CCD camera or more, chip dimensions 16 mm diagonal or more, at-least 
+3.69x2.69 um pixel size. Images generated in a 16 bit format that allows 65,000 gray scales or more and 
+dynamic range of > 4.5 OD. 12.5x10mm chip utilizes Micro lens surface technology to maximize light 
+capture. 
+7. The CCD chip should provide a 75% peak quantum efficiency QE @525 nm and broad-spectrum 
+detection for increased sensitivity across applications. 
+8. 1x1, 2x2, 3x3, 4x4, 5x5, 6x6 and 8x8 binning options should be available for increased sensitivity and 
+flexibility across applications.  
+9. All internal components should be chemical resistant and the internal light tight chamber should be black 
+power coated material to minimize auto fluorescent and reflections. 
+10. System imagers should be cooled to approximately -30C below ambient temperature to minimize the 
+time required before operation caused by higher levels of cooling. 
+11. Additional cooling should not be utilized due to the low noise levels of the camera (< 0.005 e- 
+12. /pixel/sec a -10°C). 
+13. System should come with a 25mm F/0.95 aperture lens that allows fast light capture and a large field 
+of view. 
+14. System should not utilize UV lighting to minimize health and environmental hazards. 
+15. DNA and protein gels should be visualized using a bright green LED array with and exciting range of 
+480-530nm. 
+16. System should have technology, which allows 4-plex imaging and combination of RGB and near-IR 
+imaging on the same blot. 
+17. Gel documentation system should contain an epi white and epi IR light source and a 7-position 
+motorized filter wheel in which the following excitation filter options allows for dye flexibility of 
+different fluorescent stains:  
+a. EX1 455–485 
+b. EX2 515–545 
+c. EX3 610–635 
+d. EX4 655–680 
+e. EX5 745–765 
+18. The system should be upgradable and there should be flexibility to add filters. 
+19. System should have built-in computer and touch screen interface. In addition, external software 
+should be freely available on cloud that can be accessed and utilized form any computer with network 
+access. 
+20. At least 3 USB and 1 network port should be in the system and the system should get directly 
+connected to the printer. 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 20 of 43 
+ 
+21. System should have capacity that Image output can be in several formats- TIFF, JPG, PNG, and PDF 
+and should also have facility to generate raw data which cannot be manipulated and can be used for 
+authentication. 
+22. System should be cloud connected analysis software for molecular weight calculation, relative and 
+absolute quantitation, and normalization. Personal data should be accessed and analyzed from any 
+computer and any location. 
+23. Software should be regularly upgraded. Cloud software updates should occur automatically. 
+24. System imagers should support multiframe detection where an individual image can be divided into 
+independent regions. This allows automated analysis of multiple samples in one image. 
+25. Should have European CE or US FDA certification or BIS approved. 
+26. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation and 
+certificates should be provided. 
+27. Should be supplied with branded all-in-one computer system with at least Core i7 processor, 8GB 
+RAM, 1TB HDD, DVD R/R, 21” or better LED Monitor, Genuine Windows 10 or more, A4 size 
+multifunctional colour laser duplex printer and appropriate bar code reader. 
+28. UPS of 3 KVA with 60 minutes back up should be provided. 
+29. Appropriate anti-vibration table with granite top of standard make should be provided to 
+accommodate the instrument, computer system and accessories.  
+30. Document supporting track record and satisfactory performance from institutes of national importance 
+(minimum one) should be provided. 
+31. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+32. Five (5) years warranty and Five (5) years CMC should be provided. 
+2. 
+REAL TIME PCR SYSTEM 
+1. Should be an automated system for both real-time PCR and post-PCR (end-point) analysis using 
+in-built Peltier based block with full license for PCR process. 
+2. The system should be capable of applications such as absolute quantitation; simultaneous analysis 
+of data for relative quantitation for 10 plates of 96 wells each; multiplex-PCR up to 6 targets, 
+allelic discrimination (SNP), miRNA profiling, dissociation curve analysis, copy number variation, 
+pathogen detection and plus/ minus assay using internal positive control. 
+3. The normalization of reaction due to non-PCR related fluctuations such as pipetting variations 
+should be possible by using ROX™ or any calibrated dye.   
+4. Should have a Peltier based 96x 0.2ml well thermal cycle. 
+5. Should have temperature range of 4 oC-100 oC. 
+6. Should have block ramp rate of 6.5 deg C/ sec or more. 
+7. Should have excitation range between 450nm - 680nm and emission range between 500-730nm. 
+8. Should have reaction volume of 10-100 µL and should use universal thermal cycling conditions.   
+9. Should have standard transparent 96-well plates or individual transparent PCR tubes or 8 strip 
+tubes compatibility. 
+10. Should have run time of less than 30 minutes for 40 cycles in fast mode.  
+11. The system should be combined with 6 decoupled excitation and emission filter sets to enable 
+collection of up to 21 unique combinations of wavelengths during a single run for multiplexing on 
+the 96-well block instrument. 
+12. Should have dynamic range up to 10 orders of magnitude. 
+13. Should have six independent Peltier blocks to provide six independent temperature zones to run six 
+different assays with varying annealing temperature at the same time. Each block having the ability 
+to set up PCR with specific temperature differential of up to 5 degree centigrade between blocks 
+and 25 deg. from one end to another.   
+14. The instrument should include a heated lid assembly that heats the top half of the sample plates and 
+provides an effective seal to minimize reaction mixture evaporation. 
+15. The excitation should be done by White LED light source & should come with a >05 years lifespan 
+and detection should be done by sCMOS / CCD. 
+16. System should collect data for all filters for all wells regardless of plate setup.  
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 21 of 43 
+ 
+17. System should be capable for detection of dyes like FAM/ SYBR Green, VIC/ JOE/ HEX/ TET, 
+ABY/ NED/ TAMRA/ Cy3, JUN, ROX/ Texas Red, Mustang Purple, Cy®5/LIZ™, Cy®5.5 on a 
+single plate. 
+18. System should have Factory-calibrated dyes like FAM/ SYBR Green, VIC/ JOE/ HEX/ TET, 
+ABY/ NED/ TAMRA/ Cy3, JUN, ROX/ Texas Red, Mustang Purple, Cy®5/LIZ™, Cy®5.5. 
+19. The data collection and instrument control software should provide multicomponenting algorithm 
+for de convolution of multiple dye signal with minimum cross talk. 
+20. It should be possible to alter the plate setup after the completion of run. 
+21. System should have option like Stand-alone, PC connected, or direct connection to cloud via LAN 
+or Wi‑Fi. 
+22. The instrument online software should allow users to batch analyze up to 500 experiments 
+simultaneously. 
+23. The instrument should be UL, CE, C-TICK, WEEE, and MIQE compliant and features to assist 21 
+CFR part 11 compliance. 
+24. System should be an open platform enabling use of various chemistries without hardware change.  
+25. It should be standardized for Taqman-MGB Probe based 5’ Nuclease Assay and SYBR Green 
+Chemistry, to be set-up on single plate with seamless switchover during the run. 
+26. Pre-validated and functionally tested Taqman Gene Expression Assays as well as Taqman SNP 
+Genotyping Assays should be readily available. 
+27. System should be CE IVD approved and certified. 
+28. System should be quoted with 2 KVA online UPS with 60 minute s back up. 
+29. Should have European CE or US FDA certification or BIS approved. 
+30. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided. 
+31. Should be supplied with Branded computer system with at least Core i7 processor, 8 GB RAM or 
+more, 1 TB HDD or more, DVD R/R, 21” or better LED Monitor, Genuine Windows 7 or more, 
+A4 size laser colour duplex printer and appropriate bar code reader. 
+32. Start-up kit for at least 200 tests should be provided free of cost. 
+33. Should be supplied with a set of ‘variable volume pipettes’ of standard make with following 
+specifications: 
+a) Should have volume gearing mechanism for accuracy and precision. 
+b) Should be fully autoclavable for protection. 
+c) Should have soft-touch tip ejector for light tip ejection. 
+d) Should have large display for better vision ergonomics. 
+e) Should have very light pipetting forces. 
+f) Four  Pipettes from 0.2 to 1000μL should be provided as follows in set: 
+i. 0.2-2μL 
+ii. 2-20μL  
+iii. 20-200μL 
+iv. 100-1000μL 
+a. Should be supplied with following type of microtips (in mentioned quantity) along with microtip 
+box should also be provided:  
+i. Size: 10, 12 x 96; Qty.: 500  
+ii. Size: 2 x 96; Qty.: 500 
+iii. Size: 1 x 96; Qty.:500 
+b. F-stand should be provided with pipette set of above four types. 
+c. Good Laboratory Pipetting Guide should be provided. 
+d. Reagent reservoir demo pack should be provided. 
+34. Appropriate anti-vibration table with granite top of standard make should be provided to 
+accommodate the instrument, computer system and accessories.  
+35. 
+Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+36. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+37. Five (5) years warranty and Five (5) years CMC should be provided. 
+
+
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 22 of 43 
+ 
+3. Conventional Thermal Cycler/ PCR System 
+ 
+1. The system should be Peltier based PCR system for high throughput amplification. 
+2. The system should have gradient block with sample capacity 3 x 32 x 0.2 ml PCR tubes. 
+3. The system should allow user to set temperatures in gradient mode. 
+4. The system should have temperature range 4 - 99 0C with temperature accuracy of +0.2 0C to 
++0.3 0C 
+5. The system should have a ramp rate at least 60C /s and 40C /s or more for cooling & heating 
+respectively, 
+6. The system should have adjustable ramp rate to meet critical amplification conditions. 
+7. Sample ramp rate should be at least 40C. 
+8. The heated lid should accommodate both flat & dome capped tubes. 
+9. Instrument should be usable by three different users simultaneously or exclusive of each other 
+with two temperatures selectivity for individual user. 
+10. The block should be interchangeable to set more than 96 samples. 
+11. User should be able to set different temperatures in lanes in gradient mode. 
+12. The system should have a gradient range of 30-99 °C and range of gradient span should be 
+10°C-24 °C. 
+13. The system should have pre-programmed template for easy selection from different temperature 
+protocols viz. 2 step, PCR, 3 Step PCR, Gradient PCR, Long Range PCR, Low volume PCR, 
+RT, RT-PCR, Incubation, Cycle sequencing, Touchdown PCR, Hot Start PCR, Hot Start PCR 
+manual, Large volume PCR, Nested cycles, reduced ramping etc. 
+14. Should have “Touch Screen” or high-resolution LCD display for programs. 
+15. Should have intuitive graphical interface for rapid input of protocols and easy file management. 
+16. Should have capacity to store minimum 500 to more programs, different login levels (i.e. 
+administrator, guest and user). 
+17. Should have two or more USB ports to attach mouse and/or memory stick.  
+18. Three Multi-channel Electronic Micropipettes should be provided with following features: 
+a) Should be 08 channel electronic micropipettes with variable volume ranges of: 
+ 
+1-10 µL 
+ 
+5-50 µL 
+ 
+100-1200 µL 
+b) Should have easy to read and intuitive menu navigation. 
+c) Should have multilingual user interface options. 
+d) Should have ten pipetting options including forward, reverse, diluting, stepper pipetting, 
+mixing, sequential stepping, and more. 
+e) Should have nine aspirate/dispense speeds. 
+f) Should be able to save at least 9 programs with most common protocols. 
+g) Should be eight multichannel version with color coding by volume for easy recognition. 
+h) Should have full size backlit screen which eliminates surrounding light reflections and 
+improves contrast in low-light conditions. 
+i) Should have quick in-lab calibration for accuracy and precision. 
+j) Should have fully autoclavable tip cone ensuring sterility and avoiding cross-
+contamination 
+k) Should have long-life battery with approximately 4000 pipetting operations; recharged 
+in about one hour 
+l) Should have ergonomic design with extremely lightweight construction. 
+m) Should have trigger-action pipetting—index finger controls dispensing with just soft 
+press of a button 
+n) Should have 120° adjustable finger rest for balance and comfort 
+
+
+--- Page 23 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 23 of 43 
+ 
+o) Should have soft-touch tip ejection minimizing thumb strain; should be operated by 
+either hand. 
+p) Two years warrantee should be provided. 
+q) Should be CE IVD certified. 
+r) The calibration certificates of the instrument should be provided. 
+s) Stand(s) for the same should be provided. 
+t) Appropriate microtips should be provided as follows: 
+ 
+Small; Qty.: 1000 nos. 
+ 
+Large; Qty.: 1000 nos. 
+19. System should be quoted with 2 KVA online UPS with 60 mins back up. 
+20. System should have interchangeable block option. 
+21. System should have cloud connectivity. 
+22. Should have European CE & US FDA certification or BIS approved. 
+23. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided. 
+24. Start-up kit for at least 200 tests should be provided free of cost. 
+25. Appropriate anti-vibration table with granite top of standard make should be provided to 
+accommodate the instrument, computer system and accessories.  
+26. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+27. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+28. Five (5) years warranty and Five (5) years CMC should be provided. 
+4. 
+VORTEX MIXER 
+1. Should have brushless DC Motor. 
+2. Should have orbital diameter of 4 mm or more. 
+3. Should have speed selection from 400 RPM to 4000 RPM or better. 
+4. Should have touch, standby and continuous modes with status on LED. 
+5. Should have digital display which can switch between speed and time. 
+6. Should have timer setting of 1 to 900 mins. 
+7. Should have inbuilt counter balance. 
+8. Should be able to take maximum load of 500 gms. 
+9. Should have pulse mode programming feature. 
+10. Should have attachments for low speed shaking with Microplate, Microtubes & 250 ml 
+flask. 
+11. Should have European CE & US FDA certification or BIS approved. 
+12. The calibration of instrument should be performed at the time of installation and 
+certificates should be provided. 
+13. Document supporting track record and satisfactory performance from institutes of 
+national importance (minimum one) should be provided. 
+14. Support for induction and follow up training of technical staff, on-site standardization 
+and troubleshooting of procedures/ tests should be provided by the company.  
+15. Five (5) years warranty and Five (5) years CMC should be provided. 
+5. 
+Class II, Type A2 Bio Safety Cabinet 
+ 
+1. 
+The Bio safety cabinet should be Class II, Type A2 in which 70% Air should be re-circulated and 
+30% of the air should be exhausted. 
+2. 
+The Bio Safety Cabinet must include DC motors. 
+
+
+--- Page 24 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 24 of 43 
+ 
+3. 
+In order to ensure consistent and reliable down flow velocity across the supply HEPA filter, the 
+cabinet must use a pressure sensor (rather than anemometer) to detect pressure drop across the 
+supply filter. 
+4. 
+The microprocessor must display the airflow velocities in real-time on an LED display. 
+5. 
+The Biosafety Cabinet should have microprocessor controller, which should be easy to see and 
+reach from a seated working position. 
+6. 
+The cabinet Should be provided with Microprocessor controller and large LED display for inflow 
+and Down flow air velocity and hours of operation, Audible and visual Alarms for HEPA filter 
+failure, blower failure, airflow speed failure, Incorrect window position. 
+7. 
+The Cabinet should have provision to fit taps for Vacuum, Water and Non Combustible Gas. 
+8. 
+Approximate Dimensions: Exterior 1500 H x 1300 W x 800 D; Interior 750 H x 1200 W x 500 D. 
+9. 
+The manufacturer should provide a certified copy of the personnel, product, and cross 
+contamination (biological) tests, equivalent to or more demanding than as specified in NSF 
+International Standard 49, performed on the unit selected from the corresponding statistical 
+sample. 
+10. Cabinet should have momentum air curtain down flow velocity profile, i.e., a higher velocity of 
+down flow behind the view screen relative to down flow velocity over the work surface for added 
+personnel and product protection. 
+11. High-velocity return air slots should be located at each end of the front access opening. These slots 
+help to prevent contaminated air from being drawn into the work area along the edges of the side 
+wall and from escaping the work area to the ambient environment. 
+12. High-velocity return air slots should also be located behind the view screen on the top edge for 
+enhanced containment and product protection. 
+13. Cabinet should be capable of automatically handling a 300% minimum increase in filter loading 
+without reducing total air delivery by more than 10%. Test data to verify these capabilities should 
+be available upon request. 
+14. Intake velocity through the front access opening should be a minimum of 100 FPM. 
+15. Each unit, before shipping, should have a complete physical test to assure cabinet meets Class II 
+requirements. A copy of this test will be provided with the operator manual shipped with the unit. 
+16. The unit should have standard HEPA filter of the class H14 EN 1822 or better for a protection 
+effectiveness of 99.99% on 0.3-micron size particles by DOP test. Filters should be serviceable 
+from front of cabinet. 
+17. The cabinet should have a reduced airflow energy-saving mode, which is active when the view 
+screen is closed. This mode of operation should reduce energy consumption by at least 50% and 
+still meet the product and personnel protection testing requirements of NSF/ANSI 49. Particle 
+testing while the cabinet is in this mode should exceed the requirements for ISO Class 5 conditions 
+for 0.3-micron particles. A connection should be provided for indicating the Ready SAFE status to 
+the facility building management system. 
+Construction: 
+a. The vertical sliding view screen should be slanted at an angle of 10° from vertical, capable of 
+moving to a fully closed position during shutdown periods. 
+b. View Screen should be constructed of laminated safety plate glass, with a maximum opening of 
+20" for equipment loading. 
+c. All biologically contaminated ducts, plenums, and work area side walls shall be permanent metal 
+construction and maintained under negative pressure or enclosed within a negative-pressure zone. 
+d. Interior work area should be 277⁄16" high. 
+e. Cabinet should have exclusive design to provide more uniform airflow to the supply filter. 
+f. Supply and exhaust filters should be frontloading. 
+g. A telescoping plenum assembly should be provided to allow the filters to be directly clamped to 
+the plenum against a closed cell neoprene gasket. Plenum applies force should apply to full 
+perimeter of filters, rather than point force. 
+h. Unit should have an audible alarm and a flashing LED to indicate when the sliding view screen is 
+in an unsafe position. An alarm mute switch should be provided on the front-mounted cabinet 
+control panel to allow the operator to mute the alarm tone for brief adjustments. The alarm should 
+automatically reactivate after 5 minutes if the view screen remains in an unsafe position. 
+i. 
+Cabinet exterior construction: seal panels and dress panels of 16-gauge cold-rolled steel, powder 
+coated finish, painted Perma White. 
+
+
+--- Page 25 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 25 of 43 
+ 
+j. 
+Cabinet interior (work area) construction: one-piece, 16-gauge, Type 304 stainless steel, with a 
+smooth, 7⁄16" radius between rear and side walls, and easily cleanable, the work surface tray. 
+k. Work area side walls and rear wall to be one-piece construction. A straight back wall should be 
+provided to maximize work area and easily accommodate laboratory equipment. 
+l. 
+Cabinet should be double-wall construction with negative-pressure airflow between the walls, 
+from drain pan to top, surrounding the sides and back of work area and cable port. 
+m. Bottom of access opening should be aerodynamic airflow design directing airflow into the front 
+grille to improve access opening containment capability and bypass armrest. 
+n. Cabinet should have a unitized drain pan with 7⁄16" radius on all sides and a fully removable 
+work surface and work surface supports to facilitate cleaning. 
+o. Cabinet should be equipped with a stainless steel ball valve to allow safe and effective draining of 
+spills. 
+p. Stainless steel air diffuser and filter protector provided in work area. Filter protector on top of 
+cabinet is cold-rolled steel with a powder coated finish. 
+q. Externally adjustable internal damper provided to compensate for changing resistance of exhaust 
+and supply filters during certification. 
+r. One petcock and one plugged penetration should be provided as standard on the right side wall. 
+Left side wall is pre punched for optional/additional plumbing connections. 
+s. All external plumbing connections to the petcocks should be made through the bottom or back of 
+the cabinet and not the sides, allowing zero clearance between the unit and the building walls or 
+equipment to its right and left. 
+t. 
+The unit is available with an optional stand, which includes telescoping legs that allow the work 
+surface height to be set from 30." to 325⁄8" and 361⁄8" to 385⁄8". 
+u. View screen guide design should be a counterweighted pulley system allowing ease of movement 
+up and down. 
+Electrical: 
+a. Complete unit should be listed as certified by Underwriters Laboratory for electrical, fire, and 
+personal safety. 
+b. Cabinet should have a micro processor based control system with an easy-to clean membrane 
+control panel mounted on the front of the cabinet facing down towards the user when sitting at the 
+unit. 
+c. Cabinet should have adjustable timers for fluorescent lights, outlets and optional UV lights. 
+Timers operate in 15-minute intervals. 
+d. Work area should be provided with two GFCI-protected duplex outlets, with drip proof covers 
+and should be protected by a self-resetting circuit breaker. 
+e. A single 14' power cord and plug should be provided for electrical power source. 
+f. The unit should have optional UV light with a shutoff safety feature when the view screen is 
+raised. 
+g. The unit should have electronic ballasts for UV and fluorescent lighting to provide longer life and 
+lower heat output. 
+h. Cabinet should have an externally mounted fluorescent light fixture with electronic ballasts 
+producing an average of 125 foot-candles illumination at work surface. 
+i. 
+Other fittings required for Attaching auxiliary services: Electrical outlet socket (5 ampere rating) 
+qty: 2 nos. Prefilter:- one. 
+18. The Biosafety Cabinet should be tested and comply with the following requirements (at site): 
+ Down flow velocity and Volume Test. 
+ Inflow Velocity Test. 
+ Airflow Smoke Pattern Test. 
+ HEPA Filter Leakage Test. 
+ Cabinet Leakage Test. 
+ Electrical Leakage: Ground Circuit Resistance and Polarity Test 
+ Lighting Intensity Test. 
+ Vibration Test. 
+ Noise Level Test. 
+ UV Lamp Intensity Test. 
+ Alarms and indicators test (if provided). 
+ The differential pressure gauge should be calibrated. 
+19. Spare accessories: HEPA Filter (one)-dimensions same as above, prefilters (two). 
+
+
+--- Page 26 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 26 of 43 
+ 
+20. Should have European CE or US FDA certification or BIS approved. 
+21. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided. 
+22. A suitable servo stabilizer with high and low voltage protection should be provided. 
+23. Appropriate workbench/ stand should be provided for the instrument. 
+24. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+25. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company. 
+26. Five (5) years warranty and Five (5) years CMC should be provided, including replacement of 
+cartridges/ prefilters/ filters & other spare parts. 
+ 
+6. Non -Refrigerated Table Top Centrifuge 
+1. The centrifuge should have max capacity of 4x145ml. 
+2. The centrifuge should have max speed of 17,200 RPM or better. 
+3. The centrifuge should have max RCF: 29,000 x g or better 
+4. The centrifuge must offer swinging bucket, fixed angle and microplate rotors. 
+5. The system should be microprocessor controlled and should have direct, brushless induction    
+      drive. 
+ 
+6. Time range should be 99Hours, 59 minutes plus continuous operation. 
+7. Rotor should have auto locking system. Rotor shall be installed and removed with no tools in less  
+     than 5 seconds. 
+8. The centrifuge should be supplied with fixed angle rotor capacity (places x volume, mL) - 48 x   
+      1.5/2; Max Speed (rpm) – 11,000 or more, RCF (x g) – 15000 x g or more. 
+9. The centrifuge must be supplied with fixed angle rotor 6 x 50 ml tubes, 8000 rpm or more, 10000  
+      x g or more. 
+10.The centrifuge must be supplied with swinging bucket rotor, 90°, 30 x 15 ml tubes, 4000 rpm or  
+      more, 2500 x g or more. 
+11. The buckets and rotor sealing lids must be certified for bio-containment by a 3rd party lab of   
+       worldwide recognition. 
+12. Bucket lids should be operated in a safe manner without spring clips or metal components. 
+13. The centrifuge should be CE marked, IVD compliant, UL listed- for safety containment. 
+14. Should be supplied 10 KVA servo stabilizer with high and low voltage protection. 
+15. Should have European CE or US FDA certification or BIS approved. 
+16.The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation   
+      and certificates should be provided. 
+17. Document supporting track record and satisfactory performance from institutes of national  
+    importance (minimum one) should be provided. 
+18.Support for induction and follow up training of technical staff, on-site standardization and     
+     troubleshooting of procedures/ tests should be provided by the company.  
+19.Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+ 
+
+
+--- Page 27 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 27 of 43 
+ 
+ 
+7. 
+Refrigerated Table Top Centrifuge 
+ 
+1. The centrifuge should have max capacity of 4x145ml or better. 
+2. The centrifuge should have max speed of 17,200 RPM or better. 
+3. The centrifuge should have max RCF: 29,000 x g or better 
+4. The centrifuge should be supplied with swinging bucket, fixed angle and microplate rotors. 
+5. The system should be Microprocessor controlled and should have direct, brushless induction drive.  
+6. Should have temperature range of -10°C to 40°C. 
+7. Should have time range 99Hours, 59 minutes plus continuous operation. 
+8. Rotor should have auto locking system. Rotor shall be installed and removed with no tools in less 
+than 5 seconds. 
+9. The centrifuge should be supplied with fixed angle 45o rotor, with capacity - 48 x 1.5/2 (places x 
+volume, mL); Max Speed (rpm) - 12,500. Max RCF (x g) – 17700 x g. 
+10. The centrifuge should be supplied with fixed angle rotor 8 x 50 ml tubes, 5500 rpm, 4900 x g, angle 
+of the rotor 25°, with adapter for 15 ml conical tubes. 
+11. The centrifuge should be supplied with swinging bucket rotor, 90°, Max Speed (rpm) - 4,000 / 
+Max RCF (x g) - 2,500. Centrifuge 4 standard microplates or 2 midi-deep well plates, ideally 
+suited for quick spins. 
+12. The buckets and rotor sealing lids should be certified for bio-containment by a 3rd party lab of 
+worldwide recognition. 
+13. Bucket lids should be operated in a safe manner without spring clips or metal components. 
+14. The centrifuge should be CE marked, IVD compliant, UL listed for safety containment. 
+15. Should have European CE or US FDA certification or BIS approved. 
+16. Should be supplied 10 KVA servo stabilizer with high and low voltage protection. 
+17. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation and 
+certificates should be provided. 
+18. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum three) should be provided. 
+19. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+20. Five (5) years warranty and Five (5) years CMC should be provided. 
+8.  Laboratory Ultra-Pure Water Purification System 
+1. The Complete Ultrapure Water system must give ASTM Type II pure and Type I ultrapure water 
+from a single system. 
+2. Pre Filter should be customized based on feed water quality test report. It should be from the same 
+manufacturer. Should provide product water that qualifies feed water requirement of the system 
+3. System should consist of dual pass, 2 individual RO Membrane in parallel operation (i.e. not in 
+series).  
+4. Automatic Back Flush for the Dual RO Membrane should be only from RO permeate water. 
+5. RO Membrane should not get rejected water from another RO Membrane. It should work on a parallel 
+series. 
+6. Should continuously regenerate ion exchange resins to remove ion. 
+7. Softner should be present before EDI.  
+8. Innovative software must be present in the system to optimized water consumption economically. 
+9. Serial Interface RS-232 & PLC interface for external communication must be present in the system. 
+10. System should have an integrated TOC monitor.  
+11. System should be able to provide 10lit/hr of Type II water and 120lit/hr of Type I water. 
+12. System should have unique flexible glass touch display with intuitive menu navigation. 
+13. Carbon-resin technology to produce ultrapure water with Resistivity up to 18.2 Mohm x cm should be 
+available. 
+14. System should have Top Down Flow technology inside the cartridge. 
+15. System should have an integrated horizontal UV oxidation chamber with dual wavelength 185 and 
+254nm capable of reducing TOC levels< 2ppb. 
+16. Should have facility of wall mounting when needed. 
+17. Should have touch screen function and self-diagnostic facility. 
+
+
+--- Page 28 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 28 of 43 
+ 
+18. Final Filter should be 0.45+ 0.2µm pleated double-layered, sterile grade PESU membrane and should 
+be validated according to HIMA & ASTM F-838-83 guidelines. 
+19. System should be designed, developed and produced under DIN/ISO 9001 certificate quality 
+management system by an ISO-9001 certified company. 
+20. Detailed data documentation with SD Card, PC or Printer should be available. 
+21. System should have facility to dispense water through manual, time, volume controlled dispenser. 
+22. Should provide ergonomic water dispensing gun with 3.5 m or more, working radius. 
+23. Water dispensing flow rate should be adjustable between 0.1- 2lit. /min. 
+24. PIN protection for settings and service functions should be available. 
+25. Display should show measured values for feed water, product water, temperature, total dispensed 
+water, count down for next recommended consumable replacement, user-friendly alert management 
+with follow up function etc.  
+26. EDI water storage tank with following features should be available: 
+a. Storage of 50 litres with integrated distribution pump.  
+b. Storage tank must have an integrated vent filter with check-valve. 
+c. There should be no-time consuming sanitization process and no use of chemicals involved. 
+d. Maximum water dispensing flow rate with pump from the tank should be 3.0 lit/hour. 
+27. Should have European CE or US FDA certification or BIS approved. 
+28. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation and 
+certificates should be provided. 
+29. Document supporting track record and satisfactory performance from institutes of national importance 
+(minimum one) should be provided. 
+30. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+31. Five (5) years warranty and Five (5) years CMC should be provided. 
+32. Product water quality should satisfy the following criteria: 
+ 
+ 
+ 
+ 
+Product Water Quality 
+Technical Specifications 
+Type II 
+Type I 
+Output upto 
+10lit/hr 
+120lit/hr 
+Water dispensing flow rate 
+≤ 3lit/min 
+≤ 2lit/min 
+Volume controlled output 
+ 
+2lit/min in 100ml 
+Resistivity 
+>5Mohm.cm compensated 
+to 25°C 
+18.2Mohm.cm compensated to 
+25°C 
+TOC  
+<50ppb 
+<2ppb 
+Microorganism content 
+<1cfu/1000ml 
+<1cfu/1000ml 
+Particle content 
+<1/ml 
+<1/ml 
+Retention of dissolved organic 
+substances, particle, 
+microorganism 
+>99% 
+ 
+Typical ion retention 
+>98% 
+ 
+Endotoxins,  
+    --- 
+0.001 EU/ml 
+Bacteria 
+    --- 
+< 1 cfu/100ml 
+RNase 
+    --- 
+2.9 × 10-10 KunitzU/μl 
+DNase 
+    --- 
+< 1.0 × 10-5 U/μl 
+
+
+--- Page 29 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 29 of 43 
+ 
+ 
+ 
+9. 
+Digital Dry Bath (Heating Block) 
+ 
+1. 
+Should have microprocessor based digital control panel. 
+2. 
+Should have heating temperature range around +30-120°C, temperature resolution 0.1°C or better, 
+temperature uniformity 0.2°C or better.  
+3. 
+Should have control accuracy ±0.5°C or better, & should provide precise, accurate control over user 
+desired temperature.  
+4. 
+Should have advance internal temperature sensing probe for outstanding temperature accuracy and 
+control. 
+5. 
+Should be ideal for molecular biology work of DNA denaturation.  
+6. 
+Should be provided with following blocks: 28 x 1.5 ml block, 28 x 2.0 ml block, 40 x 0.5 ml block, 1 
+x 96 well ELISA block. 
+7. 
+All the samples should receive the same temperature treatment regardless of their position in the 
+block.  
+8. 
+Should have timer & around 4.3 inch LED touch screen display. 
+9. 
+Operating voltage should be 200-240 V, Frequency- 50 Hz. 
+10. 
+Easy user calibration facility should be available. 
+11. 
+Should have time setting range 1-99h 59min & operation type continuous/ timed operation. 
+12. 
+Should have in-built over temperature protection. 
+13. 
+Protection class should be according to DIN EN60529. 
+14. 
+Should be CE cULus RoHs certified. 
+15. 
+Should have European CE & US FDA certification or BIS approved. 
+16. 
+The calibration of the instrument should be performed at the time of installation and certificates 
+should be provided. 
+17. 
+Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+18. 
+Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+19. 
+Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+ 
+   
+ 
+ 
+
+
+--- Page 30 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 30 of 43 
+ 
+ 
+10. HORIZONTAL GEL ELECTROHORESIS SYSTEM WITH POWER SUPPLY  
+1. System should have at least two comb slots on the U.V. Transmissible (UVT) gel tray. 
+2. UVT gel trays should be silk screened with a florescent ruler for easy measurement of bands. 
+3. System should be supplied with two combs, 12 & 20 well, double-sided, 1.0/1.5 mm thick. 
+4. System should have flexibility to run 8 to 48 samples on 1 gel.  
+5. There should be power-off memory which retains settings after shut-down. 
+6. There should be soft-touch keypad allowing quick set-up. 
+7. Should have non-skid rubber feet to provide stability. 
+8. There should be a display for voltage or current. 
+9. Timer should range from 0 to 999 minutes. 
+10. Should be supplied with compatible power supply and necessary accessories, 5000V, 1000V max 
+one each. 
+11. Should have European CE or US FDA certification or BIS approved. 
+12. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided. 
+13. A 5 KVA servo stabilizer with high and low voltage protection should be provided. 
+14. Appropriate anti-vibration table with granite top of standard make should be provided to 
+accommodate the instrument, computer system and accessories.  
+15. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+16. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+17. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+11. VERTICAL ELECTROHORESIS SYSTEM WITH POWER SUPPLY 
+ 
+1. The system should runs two 10 x 10cm gels or one gel when used with blocking plate; 
+accommodates 8 x 10cm gels utilizing the provided adapter 
+2. The system should allow gels to easily be placed into the device 
+3. The system should have wedge placed in front of the cassettes, to provide even pressure against 
+the leak-proof gasket, places the cassettes in proper running position. 
+4. The system should have two sizes of wedges accommodate varying thickness of precast gels. 
+5. The system should be flexible; use precast polyacrylamide gels or hand cast gels. 
+6. The system should not require cooling. 
+7. The system should have measurements for chambers as follows: 
+a. Double Sided Vertical System, 8-10 x 10cm gel system, 150mL to 300mL buffer volume. 
+b. Length (Metric) Gel; 8 to 10cm 
+c. Width (Metric) Gel; 10cm 
+d. Volume (Metric) Lower Buffer Chamber Max; 300ml 
+e. Volume (Metric) Lower Buffer Chamber Min; 150ml 
+f. Volume (Metric) Upper Buffer Chamber; 150ml 
+8. The system should have facility of power-off memory retains settings after shut-down. 
+9. The system should comply with following power supply ranges; Voltage 230V, max. Voltage 300V, 
+max. Current 400 mA, Hertz 50/60 Hz, 03 sets of input jacks, display voltage or current & timer 0 to 
+999min. 
+10. The system should have soft-touch keypad to allow quick set-up. 
+11. The system should have non-skid rubber feet provide stability. 
+12. Should have European CE or US FDA certification or BIS approved. 
+13. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided. 
+14. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+
+
+--- Page 31 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 31 of 43 
+ 
+15. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+16. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+12. -80 deg. Deep Freezer 
+1. The freezer should be constructed using 1” thick vacuum panel insulation in conjunction with 
+environment-friendly water blown foam. 
+2. Freezer door gasket should provide 7 independent insulation zones along with 4 points of contact 
+to ensure sample security. 
+3. Freezer should have 4 or more internal storage compartments with a minimum of 4 polystyrene 
+insulated inner doors to ensure sample security. 
+4. Freezer should have an automatic heated pressure equalization port, which allows for rapid re-
+entry to cabinet.  
+5. Freezer should have a RS485 output, dry contacts and 4-20mA output for remote monitoring 
+purposes. 
+6. Freezer capacity should be 525 liters or more. 
+7. Freezer pull down time (to-80°C) should be less </= 6 Hours. 
+8. Freezer should have 1-min door opening recovery to -75°C (min) in 20 mins or less. 
+9. Freezer should have energy consumption at high performance </= 14 kW-hr/day. 
+10. Freezer should have average temperature uniformity at -80°C – 6 °C or less. 
+11. Freezer should have average temperature stability at -80°C – 3.5 °C or less. 
+12. Freezer should allow for set-point security control that blocks specific users from changing 
+freezer set point or alarms through the use of a user name and password control. Unit should allow 
+for up to 100 users or more. 
+13. Freezer should have an on-board data logger that allows for a minimum of 4GB of data storage. 
+14. Data should be available from the display for a minimum of 7 days. Data should also be 
+downloadable via a USB port. Power management system should show incoming line voltage, 
+indicate low or high line voltage, and provide voltage correction of up to +/- 10% of rating. Line 
+voltage should be logged for a period of up to 12 years or more and be downloadable via a USB 
+port. 
+15. Freezer shall have adjustable power recovery time delay that allows user to set a time delay 
+between 1 second and 20 minutes after power failure. 
+16. Freezer should have a graphical display of temperature in the form of a graph that is adjustable for 
+a period of 2, 4 or 6 hours. 
+17. Freezer should have a screen auto-off selection that allows the screen to darken between the hours 
+of 9pm and 6am. 
+18. Freezer should display temperature of evaporator inlet, evaporator outlet, heat exchanger, first 
+stage suction, second state suction, second stage sump, liquid line and condenser air inlet. This 
+display should be in a graphical view to allow for diagnostic troubleshooting. 
+19. Freezer should use only natural, commercially available refrigerants (hydrocarbon) with no 
+special blends. 
+20. Freezer should be built to and contain the registration mark for UL, cUL, and CE standards for 
+safety and performance 
+21. Freezer should be supplied with a 10 KVA Online UPS with 120 mins back up. 
+22. Freezer should be quoted with suitable racks and boxes. 
+ 
+ 
+ 
+ 
+
+
+--- Page 32 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 32 of 43 
+ 
+13. Deep Freezer -400C 
+1. Freezer should have HFC refrigerants. 
+2. Freezer should have low voltage surge protection. 
+3. Freezer should have washable filter to protect the condenser from dust, minimizing the possibility of 
+reduced refrigeration performance or increased risk to samples. 
+ 
+4. Freezer capacity should be 450 Liters or more. 
+5. Freezer should have triple-point door gasket providing longer holding time in the event of a door opening. 
+6. Freezer should have Non-CFC 120 mm or more polyurethane insulation, which reduces power 
+consumption and maintains temperature set point. 
+7. Freezer should have rugged, heavy gauge, cold-rolled steel cabinets that resist chipping and rust. 
+ 
+8. Freezer should have powder coat galvannealed interior.  
+9. Freezer should have four inner doors to reduce cold air loss and improve temperature recovery after door 
+openings. 
+10. The unit should have down-feed evaporator. 
+11. The unit should have fixed stainless steel shelving. 
+12. The unit should have triple-sealing silicone door gasket. 
+13. Freezer pull down time to-80°C, should be less </= 6 hours. 
+14. Freezer should have 1 minute door opening recovery to -38°C, of 20 minutes or less. 
+15. Freezer should have energy consumption at high performance </= 10 kW-hr/day. 
+16. Freezer should have average temperature uniformity of –3 °C or less. 
+17. Freezer should have average stability of –2.5°C or less. 
+  
+18. Freezer should have two tube axial fans to provide maximum cooling of the compressor housing. 
+ 
+19. Freezer should have heavy-duty dual wheel swivel locking casters.  
+   
+20. Freezer should have service valves to allow easy recovery of refrigerants and field servicing.  
+ 
+21. Should have hinged grill swings out for easy access to filter and battery.  
+ 
+22. A vacuum relief port should allow easy re-entry after door openings. 
+ 
+ 
+23. Temperature control: 
+ 
+a. Freezer should have microprocessor controller and must monitor in one degree C increments, 
+with digital display.  
+ 
+b. Freezer operating range should be  –10°C to –40°C or better 
+ 
+c. Freezer temperature probe should be positioned to ensure the alarm sounds before the 
+stored product can be affected by a rise in temperature.  
+ 
+d. Freezer should have battery back-up for the alarm monitoring system. 
+ 
+e. Freezer should have both visual and audible alarms and must alert operator of over and under 
+temperature, power fail, door ajar and low battery conditions.  
+ 
+24. Dry contacts should be included for connection to optional remote alarms. 
+25. The 
+system 
+should 
+be 
+provided 
+with 
+2 
+external 
+‘Thermohygrometers’ 
+of 
+standard 
+make 
+date/time/temperature/humidity display. 
+26. Should be built to and contain the registration mark for UL, cUL, and CE standards for safety and performance. 
+27. Should be manufactured by an ISO-9001 certified company.  
+28. Should have European CE or US FDA certification or BIS approved. 
+29. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation and certificates sh
+be provided. 
+30. UPS backup of 3 KVA, adequate for 1 hour back-up should be provided. 
+31. Document supporting track record and satisfactory performance from institutes of national importance (minimum o
+should be provided. 
+32. Support for induction and follow up training of technical staff, on-site standardization and troubleshooting of 
+procedures/ tests should be provided by the company.  
+33. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+ 
+
+
+--- Page 33 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 33 of 43 
+ 
+14. Laboratory Water Bath 
+1. Should be rugged, high performance water bath, should maintain water temperature from ambient 
+to 100°C.  
+2. Should have over-temperature safety circuitry designed to prevent thermal runaway, while auto-
+on and auto-off timers allow to optimize operation schedules.  
+3. Should be chemical and corrosion resistant, with epoxy powder-coated exterior, and easy cleaning 
+of the chamber with seamless stainless-steel interior. 
+4. Should have smaller footprint for benchtop use. 
+5. Should have advanced microprocessor controller designed for extended functionality. 
+6. Should protect work with audible alarms. 
+7. Should conveniently save commonly used settings with four temperature presets. 
+8. Bath should come with clear polycarbonate gable cover, diffuser tray, drain hose and rubber duck. 
+9. Chamber capacity should be approx. 20 Litre. 
+10. Temperature range should be ambient to 100°C. 
+11. Should be a precision water bath with temperature stability/ uniformity @ 70°C: ±0.1°C / ±0.2°C. 
+12. Work area measurement should be around (L x W x H): 11.7 x 19.7 x 5.9 in. (297 x 500 x 150 
+mm). 
+13. Should be able to work on global voltage: 100-115V/200-230V, 50/60Hz. 
+14. Heater output should be approx. 1200W. 
+15. Should be offered with stainless steel test tube rack & concentric ring cover. 
+16. Should be UL Listed. 
+17. Should have European CE or US FDA certification or BIS approved. 
+18. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided. 
+19. Should be provided with 3 KVA servo stabilizer for high and low voltage protection. 
+20. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+21. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+22. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+15. Laboratory Refrigerator 
+1. Temperature setting range should be approx. +1ºC to +12ºC (factory pre-set at +4°C) 
+2. Should have automatic defrost mechanism and should be frost-free. 
+3. Should have double insulated glass doors, hinged at the ends and lockable. 
+4. Should have capacity of 375 litres or more. 
+5. Should have at-least 790 watts (1HP) industrial compressor (hermetically sealed) to provide fast 
+cooling capacity. 
+6. Should have 12 shelves/ drawers or more. 
+7. Should have interior finishing with antioxidation & antimicrobial high strength plastic steel & 
+exterior finishing with painted cold rolled steel. 
+8. Pull down time should be 9 min or better for 15o C-4o C. 
+9. Should have the facility of ‘temperature holding’ during power failure for at-least 2 hrs. 
+10. Avg. uniformity should be +/- 1.01°C or better, on empty chamber. 
+11. Central air peak variation should be +/- 2.93°C or better, on empty chamber. 
+12. Should have in-built 12-volt battery to supply power to essential components during power 
+failure. The battery should supply power to the alarm for 18~24 hours in case of power outage. 
+13. Units should come with two fans for uniform and maximum forced air circulation, to ensure 
+maximum uniformity of temperature throughout the chamber. 
+14. Should have at-least one 25 mm access port at the backside of the cabinet. 
+15. The controller should have three temperature probes, three relay outputs, a door switch and a door 
+open alarm buzzer (independent of the general alarm buzzer). 
+16. Should have ISO 13485 and European CE or US FDA certification or BIS approved. 
+17. A suitable UPS with 60 minutes back up should be provided.  
+
+
+--- Page 34 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 34 of 43 
+ 
+18. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+19. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+20. Five (5) years warranty and Five (5) years CMC should be provided. 
+16. Incubator 
+1. Should have dual convection capability for versatility of application, fan speed adjustable from 0 
+to 100%. 
+2. Should have advanced digital timer for daily or weekly on/ off cycles. 
+3. Should have stainless steel interior (1.4301) and should be easy to clean and corrosion resistant. 
+4. Should have stainless steel exterior. 
+5. Should have broad temperature range from 5°C above ambient to 105 °C; should be even suitable 
+for drying application. 
+6. Instrument should temperature uniformity as good as ± 1 °C or better when fan is off. 
+7. Temperature stability should be ± 0.2 °C or better. 
+8. Should have capability of turning on & off the unit at specific time, chosen from real time or hour 
+settings. 
+9. Should have maximum spatial temperature deviation at 37 °C:  ± 1 °C or better. 
+10. Should have maximum temperature deviation over time at 37 °C:  ± 0.2 °C or better. 
+11. Instrument should have lockable door with alarm for restricted access. 
+12. Instrument should have facility for decontamination within a 8 hours or better heating cycle. 
+There should be no need for autoclaving of the inner fittings for decontamination. The 
+decontamination process should be certified by microbiological institute. 
+13. Should have a small footprint of equal to or less than 5.5 sq. ft.  
+14. Chamber volume should be 160 L or more.  
+15. Number of detachable shelves supplied should be 4 or more. 
+16. Max. shelf load kg should be 22 kg or more. 
+17. Instrument rated voltage / frequency should be V / Hz: 230 / 60. 
+18. Instrument rated power / max. current should be 1300 / 5.7. 
+19. Energy consumption at 37 °C should be 40 W or less. 
+20. The system should comply with European CE or US FDA or BIS approved.  
+21. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided.  
+22. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided.  
+23. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company. 
+24. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+17. Oven 
+1. Instrument should be based on Convection technology - Gravity convection. 
+2. Chamber volume should be L / cuft: 160 Liters / 6.0 or more. 
+3. Instrument should have stainless-steel interior for easy clean and corrosion resistant (steel quality 
+AISI 304 or better). Exterior should also be superior quality stainless steel. 
+4. Instrument should have facility to turn on or off at pre-set times. 
+5. Instrument should have door lock to prevent disruption, tampering or accidental opening. 
+6. Instrument should have facility of door alarm to notify the operator when door is left open 
+accidentally. 
+7. Instrument should have standard over-temperature alarm and an additional under-temperature 
+alarm to ensure that the samples are kept at the correct temperature. 
+8. Instrument should have temperatures range: +50°C to 330°C or better. 
+9. Spatial temperature deviation should be at 150 °C: ± 2.7 °C or better. 
+10. Temperature deviation over time should be at 150 °C: ± 0.4 °C or better. 
+
+
+--- Page 35 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 35 of 43 
+ 
+11. Number of shelves supplied should be 4 or more.  
+12. Max. shelf load kg should be 22 kg or more. 
+13. Rated voltage / frequency should be: V / Hz 230 / 50/60. 
+14. Rated power / max. current should be: W / A 3100 / 13.8.  
+15. Energy consumption at 150° C should be W: 430 or better. 
+16. Instrument should have programmable controller for temperature ramps and dwells. 
+17. Instrument should have facility to save up to 10 programs or more. 
+18. Instrument should have electronically controlled fan speed and damper position facility. 
+19. Instrument should have facility that programs can be repeated automatically. 
+20. Instrument should have access ports to allow the introduction of sensors for independent data 
+monitoring. 
+21. Instrument should have simple calibration routine, to ensures temperature accuracy over time. 
+22. Instrument should have function that enables rapid heating. 
+23. The system should comply with European CE or US FDA or BIS approved.  
+24. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided.  
+25. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided.  
+26. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company. 
+27. Five (5) years warranty and Five (5) years CMC should be provided. 
+18. WEIGHING BALANCE 
+ 
+1. The unit should be semi microbalance with motorized auto calibration & adjustment.  
+2. The unit should have built-in plug & play for direct data transferring system to Microsoft 
+Windows programs (GLP/GMP compliance).  
+3. The unit should have self-explanatory icons and plain-text prompts on the large touch screen to 
+show all the information (touch screen display). 
+4. The unit should have manually operated ergonomic draft shield. 
+5. The unit should comply with following technical requirements: 
+Readability  
+: 0.01/0.01/0.1 mg 
+Weighing Capacity  : 40/60/120 gm 
+Repeatability  
+: 0.02/0.04/0.07 mg 
+Linearity  
+ 
+: 0.1/0.1/0.2 mg 
+Weighing Pan  
+: 80 mm dia  
+Response Time  
+: 6 / 6 / 2 (s) 
+ 
+6. Should have European CE or US FDA certification or BIS approved. 
+7. The calibration of the instrument should be performed at the time of installation and certificates 
+should be provided. 
+8. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+9. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company. 
+10. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+ 
+ 
+
+
+--- Page 36 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 36 of 43 
+ 
+ 
+19. TISSUE HOMOGINIZER 
+1. 
+It should be able to produce rapid & highly efficient, homogenized & emulsified samples from 
+variety of solid tissues (muscle, liver, breast tissue, etc.)  in 0.2 to 1000 ml of liquid in eight to thirty 
+seconds. 
+2. 
+It should be easy to hold and light weight for one hand operation. 
+3. 
+It should have autoclavable stainless steel probes and all probes should be interchangeable and six 
+narrow slits in the stator for efficient performance.                                                                       
+4. 
+It should have high-speed motor of 230v A.C & 138 watts, low wattage. 
+5. 
+It should have variable speed from 6000 to 35000 rpm with 4500 to 5000 increment. 
+6. 
+Weight should be approx. 1 to 1.5 Lbs, easy to hold, could be mounted on stand. 
+7. 
+Probes should be made up of type 316 Stainless Steel & Fluorocarbon bushings. 
+8. 
+Noise Level should be <= 200 dB. 
+9. 
+It should be supplied with two Stainless steel probes, 1. (0.5 – 50.0 ml, 6.5- 7.5 mm dia and 8-8.5 
+cms length); 2. (0.2 – 5.0 ml,   4-5 mm dia, 4.5-5 cms length). 
+10. Should have European CE or US FDA certification or BIS approved. 
+11. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+12. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests to be provided by the company.  
+13. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+20. Spectrophotometer 
+ 
+1. Should be a spectral scanning unit for UV-visible-Near IR wavelength range, with dedicated cuvette 
+port (with no extra attachments) and should able to read 96 & 384 micro well plate format. 
+2. Should work as a standalone system without computer and able to run with computer controlled 
+software.  
+3. Analysis software should be supplied with unlimited user license.  
+4. Instrument should able to read  at least  16 low volume samples of 2µl-10µl using low volume 
+analysis plate in case of DNA/ RNA purity & concentration check indirectly with standalone mode . 
+5. System should able to run in stand-alone mode using 7 inch or more touch screen for quick usage.  
+6. The instrument should have a memory of 90 or more inbuilt protocols in stand-alone mode.  
+7. The system should have communication options, at-least 4 USB ports to PC/ printer and other data 
+transfer devices and 1 Ethernet port. Should be able to connect Wi-Fi dongle. 
+8. The system should have facility to access data via cloud-based capabilities, wired or wireless 
+network connection. 
+9. Instrument should be able to provide the wavelength range from 200nm to 1000nm with 1 nm steps.   
+10. Performance specifications should be as: Bandwidth:  < 2.5 nm or better and Xenon flash lamp life 
+should be for 10 million 96 well microplates or more.  
+11. The instrument should have inbuilt incubation and linear shaking options for longer kinetic assays 
+etc. 
+12. Incubation temperature should be from ambient +2o C to +45o C. 
+13. Spectral scanning speed from 200 to 1000 nm should be 10 sec. or less.  
+14. Measurement speed should be 6 sec. for 96 well and 10 sec. for 384 well plate. 
+15. System should have power save function for reduced energy consumption when the instrument is 
+‘on’ but not in use.  
+16. Visualize data in both numerical mode and heat-map/ virtual image of plate. 
+17. Data analysis software should be provided with the system & software should allow multiple 
+absorbance /photometry steps in a single program to differentially analyse assays, including plate out 
+option during the program to add required compounds and then continue the program for further 
+analysis. 
+
+
+--- Page 37 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 37 of 43 
+ 
+18. Should be database-based software to run backups of all data & restore back up data (in case of 
+hardware failure of original computer). 
+19. Should have spectral scanning facility for all 96 samples or 384 samples & should be able to view in 
+single graph plot.  
+20. Should be able to export data as pdf, excel, xml and note format. 
+21. Should have CE or US FDA or BIS certification. 
+22. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation and 
+certificates should be provided. 
+23. To be supplied with Branded computer system with at least Core i7 processor, 8GB RAM, 1TB 
+HDD, DVD R/R, 21” or better LED Monitor, Genuine Windows 10 or more, A4 size laser printer 
+and appropriate bar code reader. 
+24. UPS backup adequate for the duration of one cycle of processing should be provided. 
+25. Appropriate anti-vibration table with granite top of standard make should be provided to 
+accommodate the instrument, computer system and accessories.  
+26. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+27. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+28. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+21. ICE FLAKER 
+ 
+1. 
+Should have capacity of 100 kg/24 hour or more. 
+2. 
+Should have auto microcomputer control and run.  
+3. 
+Should have ice storage capacity of 25kg or more. 
+4. 
+Should have water consumption (L/H) </= 4.5. 
+5. 
+Should have wind cooling condensation process. 
+6. 
+Should have high quality stainless steel interior and exterior, anti-corrosion and durable. 
+7. 
+Should have high efficiency CFC-free R134a compressor. 
+8. 
+Power overloading protection device should be there in the system. 
+9. 
+Water shortage auto-detecting should be there in the system. 
+10. Ice storage full control device should be there in the system. 
+11. Should make small, granular snow ice for laboratory use. 
+12. Should have full display including, lack of water, too cold protection & fault warning.  
+13. The machine should have protective automatic shutdown with full/lack of water, automatic boot when 
+failure removed, automatic memory & recovery function. 
+14. Should have European CE or US FDA certification or BIS approved. 
+15. Document supporting track record and satisfactory performance from institutes of national importance 
+(minimum one) should be provided. 
+16. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+17. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+22. pH/mV/TEMP METER 
+ 
+1. Should have multi-point push button calibration with auto buffer recognition. 
+2. Should have display of pH or mV with temperature. 
+3. Should have selectable USA or NIST buffer standards as follows: USA; pH 1.68, 4.01, 7.00, 
+10.01, 12.45; NIST; pH 1.68, 4.01, 6.86, 9.18, 12.45. 
+4. Should have built-in electrode stand and electrode arm. 
+5. Resolution/Accuracy should be 0.01 pH/± 0.01 pH. 
+6. mV Range should be ± 1999 mV. 
+7. Resolution should be 0.1 (± 199.9 mV) / 1 mV (> ± 199.9 mV); Accuracy should be ±0.2(± 199.9 
+mV)  /±2 mV  (> ± 199.9 mV). 
+8. Temp. Range should be 0.0 to 100.00 C. 
+9. Resolution/Accuracy should be 0.1 0 C/ ±  0.3 0 C. 
+10. Should have ATC 0 to 100 0 C. 
+11. Should have 05 no. of pH Calibration Points. 
+12. Should have multiple buffer options. 
+
+
+--- Page 38 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 38 of 43 
+ 
+13. Should give self-diagnostic messages. 
+14. Should store up to 100 sets of data. 
+15. Should give 3 years warranty on meter against manufacturing defect and 6 months for electrode 
+16. Should have European CE or US FDA certification or BIS approved. 
+17. The calibration of the instrument should be performed at the time of installation and certificates 
+should be provided. 
+18. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+19. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests to be provided by the company.  
+ 
+23.   MAGNETIC STIRRER - 
+ 
+1. 
+System should have brushless DC motor for quiet operation and maintenance free long life. 
+2. 
+System should have capacity of 10 litres (water) stirring. 
+3. 
+System should have 5 position stirring with 2 litres stirring for each station. 
+4. 
+System should have corrosion resistant SS top surface for better chemical resistance. 
+5. 
+System should have microprocessor-controlled stirrer with variable speed and time setting along 
+with last run memory feature. 
+6. 
+System should have adjustable speed from 100 to 2000 RPM in steps of 10 RPM. 
+7. 
+System should have long timer ranges up to 99 hours and 59 minutes & infinite mode. 
+8. 
+System should have programmable Pulse mode for homogenous stirring in clockwise and 
+counter-clockwise direction. 
+9. 
+System should have low aspect ratio (just 45 mm thick or less). 
+10. System should have software driven gradual acceleration. 
+11. System should have universal power supply - small wall mount adaptor. 
+12. System should have IP-42 compliant design. 
+13. Should have European CE or US FDA certification or BIS approved. 
+14. The calibration certificates should be provided at the time of installation and thereafter yearly 
+calibration should be performed for a period of five years. 
+15. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+16. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+17. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+24.  Liquid Nitrogen Container 
+ 
+1. 
+The system should have 40-50 litres or more capacity container, which can accommodate six 
+stainless steel manual filled canisters, to accommodate 1.2/2/5ml vials. 
+2. 
+Canisters should be colour coded to simplify sample identification. 
+3. 
+Container should be made of durable aluminium construction and vacuum insulation. 
+4. 
+System should have narrow mouth design to minimize LN2 evaporation. 
+5. 
+System should have secure locking clasp. 
+6. 
+Static evaporation rate should not be more than: 0.5 litres/day. 
+7. 
+System static holding time should be approx: 110 days. 
+8. 
+System should have neck diameter approx: 120 cm. 
+9. 
+System should have low-level alarm and sensor facility.  
+10. The system should be CE or US FDA or BIS certified. 
+11. Suitable elbow length 100 Cryo gloves (small, medium & large size) and 100 aprons (small, 
+medium & large size) should be provided with the system. 
+12. Appropriate standard quality anti-vibration laboratory work bench/ stand should be provided for 
+the system. 
+13. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+14. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company.  
+15. Five (5) years warranty and five (5) years CMC should be provided including yearly calibration 
+of the instrument. 
+ 
+
+
+--- Page 39 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 39 of 43 
+ 
+25.   Nucleic acid extraction System 
+1. The principle should be magnetic bead based, to purify nucleic acids, proteins, cells, bacteria in a 
+convenient, rapid and reproducible manner from different starting materials with high quality and 
+yield. 
+2. The processing volume should be flexible for all type of sample volumes from 30ul – 5000ul 
+(microlitre). 
+3. The instrument should have option to run 6, 12 or 24 samples per run. 
+4. The instrument should be an open system, able to accommodate any kit from any manufacturer.  
+5. The particle collection efficiency should be >95% for better yield.  
+6. The instrument should have an option of stand-alone mode and PC controlled mode. 
+7. The system should have a memory for 200 internal protocols in stand-alone mode. 
+8. The instrument should be open system for any magnetic bead based kits. 
+9. The instrument should have an option of heating and cooling from +100C to +750C in RT. 
+10. Eluted DNA from samples in strip Block temperature should be from +4˚C to +75˚C in RT. 
+11. The instrument should be upgradable for Barcode reading option. 
+12. The instrument should have UV light inside the system for decontamination process. 
+13. The instrument should have easy protocol import / export option using USB stick. 
+14. The software and computer should be supplied with the instrument and the software should have 
+unlimited users’ access.  
+15. Should have European CE or US FDA certification or BIS approved. 
+16. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided. 
+17. To be supplied with Branded computer system with at least Core i7 processor, 8GB RAM, 1TB 
+HDD, DVD R/R, 21” or better LED Monitor, Genuine Windows, A4 size laser printer and 
+appropriate bar code reader. 
+18. UPS backup adequate for the duration of one cycle of processing should be provided. 
+19. Start-up kit or consumables for at least 200 tests should be provided free of cost. 
+20. Appropriate anti-vibration table with granite top of standard make should be provided to 
+accommodate the instrument, computer system and accessories.  
+21. Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+22. Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests to be provided by the company.  
+23. Five (5) years warranty and Five (5) years CMC should be provided. 
+26. Autoclave 
+1. 
+The Vertical Autoclave should have Chamber Capacity of: Effective volume 113 litres or more. 
+2. 
+The chamber of Vertical Autoclave should be manufactured as per ASME standards and comply 
+with Pressure Equipment Directive. 
+3. 
+The Vertical Autoclave should work on the domestic power supply of : 230 V AC, 50 HZ, Single 
+phase. 
+4. 
+The Vertical Autocalve's internal chamber, cover lid and all wetted parts should be fabricated 
+from stainless steel of 304 grade. 
+5. 
+The Vertical Autoclave outer body should be of SS 304.  
+6. 
+Temperature range should be up to 135°C and pressure up to 30 psi. 
+7. 
+The Vertical Autoclave’s all joints should be smooth finished for crevice free internals. 
+8. 
+The chamber should be hydro statically tested at 1.5 times of its working pressure and certificate 
+should be supplied for the same. 
+9. 
+The lid should be equipped with single lever lock mechanism and lever handle moulded from 
+industrial plastic. 
+
+
+--- Page 40 ---
+Tender No. : AIIMS/R/CS/GeneticsLab/19/OT 
+ 
+Page 40 of 43 
+ 
+10. 
+The lid should be provided with auto purge cum vacuum breaker valve and a manually operable 
+valve for exhaust. 
+11. 
+The unit should have a solenoid valve for auto purging of air & normal exhaust. 
+12. 
+The Vertical Autoclave should have stainless steel pressure gauge with dual range dial display in 
+KPA and PSI along with a co-related temperature scale for steam in degrees Celsius. 
+13. 
+The operations of the unit should be controlled by touchscreen programmable logic controller 
+with 4 temperature channels & 1 pressure channel inbuilt. 
+14. 
+The Autoclave should be equipped with Touch screen HMI PLC. 
+15. 
+Controlling of chamber temperature should be on all 4 temperature channels. 
+16. 
+To Ensure proper sterilization cycle autoclave should have facility of connecting external printer 
+which can give instant print of all cycle data – customer and operator name , equipment number, 
+recipe, hold time, batch number, date & time, temperature set-point, readings of at least four 
+temperature sensors, pressure channels F0 summation and cycle status. 
+17. 
+Inbuilt 6 recipes for different load should be available. 
+18. 
+Provision of automatic water filling should be available. 
+19. 
+The timer should be retentive & settable up to 95 mins. 
+20. 
+Power fail restoration facility: in case of power failure, the Autoclave should give option of 
+resuming cycle with automatic adjustment of sterilization hold time.  
+21. 
+The unit should have safety valve to protect the equipment in case of over pressurization. 
+22. 
+The Lid should be equipped with pressure interlock device to avoid opening under pressure. 
+23. 
+Lid should be equipped with door switch to avoid cycle start if door is not locked properly. 
+24. 
+To ensure effective sterilization, if temperature falls below temperature set point the sterilization 
+timer should get automatically adjusted. 
+25. 
+The unit should be provided with independent safety cut-out for high temperature. 
+26. 
+The unit should give indication by audio-visual alarm on completion of set autoclave cycle. 
+27. 
+The electrical safety should be ensured by inbuilt MCB. 
+28. 
+The unit should be mounted on 04 Nos. PU coated castors out of which atleast 2 should have 
+locking mechanism 
+29. 
+The Vertical Autoclave should be PED certified and the same should be provided. 
+30. 
+Manufacturer shall be ISO 13485 certified & should submit photocopy for the same. 
+31. 
+Local service setup should be available for prompt and efficient post-sales support. 
+32. 
+Autoclave should have service & calibration reminder facility. 
+33. 
+Autoclave should have the provision of password protection so that unauthorized people cannot 
+access the equipment or cannot change the critical set parameters. 
+34. 
+Calibration reports should be provided with NABL traceability. 
+35. 
+Autoclave should have option for (to be quoted separately) 
+1) 
+Air Ballast 
+2) 
+Positive Pulsing 
+3) 
+Drain Cooling. 
+36. 
+Should have European CE or US FDA certification or BIS approved. 
+37. 
+The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation 
+and certificates should be provided. 
+38. 
+Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+39. 
+Support for induction and follow up training of technical staff, on-site standardization and 
+troubleshooting of procedures/ tests should be provided by the company. 
+40. 
+Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+ 
+
+

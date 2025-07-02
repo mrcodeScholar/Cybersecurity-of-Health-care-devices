@@ -1,0 +1,186 @@
+--- Page 11 ---
+ Tender for Impulse Oscillometry Spirometer                                                             Admn/Tender/109/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Impulse 
+Oscillometry 
+Spirometer 
+ 
+A computerized impulse oscillometer which also include spirometer and 
+diffusion measurement apparatus is required for Pediatrics Department.  
+ 
+1) Operational Requirements  
+1.1). The parameters should be actually measured and not derived ones. 
+1.2) The system should be an economically oriented lung function 
+measuring system for the determination of the static and dynamic lung 
+volumes using the classical FRC-Helium rebreathing and the Diffusion 
+Capacity by using the single Breath technique. It should also be possible 
+to measure Diffusion Capacity (DLCO) by the Rebreathing/ Intrabreath 
+technique for patients with distribution impairments of the lungs, to 
+minimize patient co-operation. 
+1.3) Indian predictive values should be available for all measurement 
+and both methods of estimation of lung diffusion. The proper medical 
+reference from where these values have been incorporated should be 
+clearly mentioned. 
+ 
+2) Technical Specification 
+2.1) The system should measure the following: 
+a) Slow and forced spirometry (Inspiratory and Expiratory Flow 
+Volume Curve) 
+b) Lung sub volumes - Functional Residual Capacity (FRC) Residual 
+Volume (RV). Total lung capacity (TLC) by FRC-Helium multiple 
+breath technique. 
+c) Diffusion capacity of the lung, by single breath technique. 
+d) Diffusion capacity of the lung by the multiple breath technique. 
+e) Respiratory impedance & small airway obstruction by Impulse 
+Oscillometry requiring minimal patient co-operation. 
+ 
+2.2) The system should measure the following parameters: 
+a) Slow and forced Spirometry VT, BF, MV, ERV, FVC, FEV1, VCin, 
+VCex, MEF 50, MEF 75, PEF, MVV etc. 
+b) Lung Sub volumes: FRC, RV, TLC, RV%TLC etc. 
+c) Diffusion capacity of the lungs: DLCO-SB, DLCO-RB. 
+d) Impedance at specific frequencies like R5, R20 + -1 Hz should be 
+demonstrated. 
+ 
+2.3) The system should have an easy to exchange, bidirectional 
+heated pneumotach with the following specifications: 
+Range-Should be 0 to 20 lit/sec 
+Accuracy – Should be +/-2% 
+Resistance – Should be less than 0.05 KPa/lit/sec 
+ 
+2.4) The system should have carbon monoxide analyzer, He 
+analyzer and O2 Analyzer or any other suitable gas analyzer with 
+the following specifications: 
+01 
+
+
+--- Page 12 ---
+ Tender for Impulse Oscillometry Spirometer                                                             Admn/Tender/109/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+a) Carbon monoxide analyzer 
+Range-Should be from 0 to 0.4% 
+Resolution/Accuracy should be 0.0002%/0.0003% 
+Reproducibility should be 0.0006% 
+ 
+b) He analyzer : 
+Range – Should be 0 to 9.5% 
+Resolution / Accuracy should be 0.05% / 1.0%  
+Reproducibility should be 0.1% 
+c) 02 analyzer : 
+Range – Should be 0 to 100% 
+Resolution / Accuracy should be 0.05% / 1.0%  
+Reproducibility should be 0.1% 
+2.5) The system should have a demand valve unit for direct breathing 
+(no inspiratory bag) from pre-mix gas container, to minimize wastage of 
+gas. 
+ 
+2.6) The computer system should have the following specification: 
+Latest Pentium processer, 8GB RAM, 19” LCD Monitor with inbuilt 
+Speakers, wireless keyboard and mouse, 01 TB HDD, Dual layer DVD 
+writer based on latest Window Software, Color laser printer & 1.5 KVA 
+UPS with battery backup of at least 15 minutes. 
+ 
+2.7) System software should have facility for entry of patient data and 
+saving of this information in a data base system. Software should be 
+based on latest MS-windows. It should be possible to configure different 
+report output formats. 
+ 
+2.8) It should be possible to upgrade the system to the following: 
+a) Airway resistance by shutter method. 
+b) Respiratory muscle strength, Respiratory drive. 
+c) Compliance – Static / Dynamic system  
+d) Body Plethysmography 
+e) Aerosol Provocation system 
+f) Ergospirometry & stress test ECG. 
+g) Breathing Analysis for children. 
+ 
+2.9) The system should have fully computerized calibration procedure 
+for flow sensor and gas analyzers. The system should also have a check 
+procedure during start-up. 
+ 
+2.10) It should be possible to integrate/connect the system in a local 
+Area Network (LAN). The data base must be accessed in a novel 
+authorized operating system. 
+ 
+3) Spares and consumables 
+1. Disposable filters (paed.) with mouth pieces – 1000 nos 
+2. If pneumotach uses wire mesh – 10 wire mesh 
+
+
+--- Page 13 ---
+ Tender for Impulse Oscillometry Spirometer                                                             Admn/Tender/109/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Suitable gas mixture cylinder – 02 nos gas mixture 
+ 
+4) Environmental factors 
+5.1 The unit shall be capable of being stored continuously in ambient 
+temperature of 0-50 deg C and relative humidity of 15-90%. 
+5.2 The unit shall be capable of operating continuously in ambient 
+temperature of 0-50 deg C and relative humidity of 15-90% 
+ 
+5) Power Supply 
+5.1 Power input to be 220-240 VAC, 50Hz 
+5.2 Suitable UPS with maintenance free batteries for minimum 15 
+minutes back-up should be supplied with the system. 
+ 
+6) Standards, Safety and Training 
+7.1 Should be certified to be meeting ATS/ERS Standards. 
+7.2 Should be USFDA / CE approved product.  
+7.3 Manufacturer should be ISO certified for quality standards. 
+7.4 Comprehensive warranty for 5 years and 5 years CMC after 
+warranty period. CMC rates to be quoted in price bid separately. 
+7.5 Comprehensive onsite training on after installation. 
+7.6 Should have local service facility. The service provider should have 
+the necessary equipments recommended by the manufacturer to carry 
+out preventive maintenance test as per guidelines provided in the 
+service/maintenance manual. 
+ 
+7. Documentation 
+8.1 User/Technical/Maintenance manuals to be supplied in English. 
+8.2 Certificate of calibration and inspection. 
+8.3 List of important spare parts and accessories with their part number 
+and costing 
+ 
+
+

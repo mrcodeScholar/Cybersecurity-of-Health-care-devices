@@ -1,0 +1,351 @@
+--- Page 11 ---
+Ultrasound Simulator for Training of TEE,TTE & Fast 
+ 
+ 
+         Admn/Tender/78/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+ 
+ 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Ultrasound 
+Simulator for 
+Training of 
+TEE,TTE & Fast    
+Training Modules: 
+ Trans Esophageal Echocardiography – TEE : System should have at 
+least 30-40 basic task training exercises for students such as: 
+a) Basic Probe Movement & Orientation: Time bound exercise, 
+with/without the aid of reference image to help understanding 
+of basic probe handling and movements with metrics.  
+b) Setting, Adjustment: Facilitate trainees to optimize best image 
+settings for different views, with adjustments of DOF, Beam 
+angle, Gain & Contrast. Expert can verify the outcome after 
+completion of exercise.   
+c) Target Cut Plane: Trainees recognize standard views with this 
+exercise and after completion expert can evaluate the 
+performance.  
+ Transthoracic Echocardiography – TTE: System should have at least 
+60-70 basic task training exercises such as 
+a) Basic Probe Movement & Orientation: Time bound exercise, 
+with/without the aid of reference image to help understanding of 
+basic probe handling and movements with metrics. 
+b) Measurement: Facilitates the trainees to get the idea about how 
+to use different measurement tools, with/without reference 
+image.   
+ Abdominal: System should have at least 10-15 basic task training 
+exercises such as 
+a) Basic Probe Movement & Orientation: Time bound exercise, 
+with/without the aid of reference image to help understanding of 
+basic probe handling and movements with metrics.  
+ Pleural Module: The Pleural Add-on Module provides lung 
+pathologies featuring fully animated lung respiration and respiratory 
+variation of the inferior vena cava (IVC) 
+ FAST – (Focus Assessment with Sonography for Trauma) –to see 
+the fluid around several organs in the abdomen includes the 
+perihepatic space, the perisplenic space, the pericardium and the 
+pelvis. 
+ 
+Multimedia Training Course – System should be endorsed and 
+recognized by the reputed and renowned international societies for the 
+standardized courseware 
+1. Focused Transthoracic Echo Curriculum- System should have at 
+least 7-8 hours of course content covering principals and 
+applications of TTE examinations to provide learning in a 
+systematic, organized way, the elements of echocardiography that 
+are required in order to achieve competence in focused transthoracic 
+echocardiography. 
+2. Focused TEE Curriculum- System should have at least 7-8 hours of 
+course content covering the principles and application of TEE 
+examinations to provide learning in a systematic, organized way, the 
+elements of transesophageal echo that are required in order to 
+achieve competence in focused transesophageal echocardiography. 
+3. Assessment of Pleural Space and Lung- System should have at least 
+2-3 hours of course content covering the principles and applications 
+of pleural ultrasound to provide learning in a systematic, organized 
+way, the elements of pleural ultrasound that are required in order to 
+01  
+
+
+--- Page 12 ---
+Ultrasound Simulator for Training of TEE,TTE & Fast 
+ 
+ 
+         Admn/Tender/78/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+achieve competence in pleural ultrasound. 
+ 
+4. System should have the following features for ultrasound scanning: 
+ 3D animated augmented reality feature shows ultrasound beam 
+and target structures. 
+ Spilt screen display with corresponding 2D image. 
+ Realistic scanning environment(Apart from heart it should renders 
+the liver, ribs, sternum, superior and inferior vena cava, aorta, 
+lungs and vertebral bodies. 
+ Surrounding anatomical structures (i.e. liver, lungs, and sternum 
+artifacts) are displayed and may be toggled on and off depending 
+on learner’s level of comfort.  
+ Software includes tutorial features to help users identify 
+anatomical structures on augmented reality display.   
+ Heart rate modification on the fly. 
+ Should Include single lead ECG tracing. 
+ 2D, Bi-Plane and M-Mode Views  
+ Adjustable image settings (depth, viewing angle, gain, contrast)  
+ Color Doppler, Continuous Wave Doppler and Pulsed Wave 
+Doppler of the Heart 
+ Target Cut Plane feature to allow learners to visualize corrects 
+probe positioning.  
+ Matrix for evaluation of student’s performance. 
+ 3D view including animated display of organ being scanned, 
+surrounding structures, and 360° view 
+ Toggle on/off of Lung and rib artifacts 
+ Ability to load pathologies in stealth mode to hide the name of the 
+pathology from learners 
+ Software should include tutorial feature to help users identify 
+anatomical structures 
+ Software should include supporting content for pathologies such 
+as case presentations, medical references 
+ Intuitive instructional content menu with self-directed learning 
+exercises including probe movement 
+ Export of Metrics, reports, images, and video captures to a USB 
+storage device 
+ Multimedia ICCU course on point of care ultrasound included 
+with the simulator.  
+ Mannequin should have ability to be placed in the tilted left lateral 
+decubitus position.  
+Realistic Echo Environment: 
+ Electronic calipers 
+ Area measurements 
+ Contour Measurement 
+ Circumference Measurement 
+ Gain and contrast settings 
+ Depth of field adjustment 
+ Angle Settings 
+System must have following Cardiac Pathologies Simulation: 
+ Dilated Cardiomyopathy – Severe Biventricular Systolic 
+Dysfunction 
+ Hyperdynamic Left Ventricular Systolic Function 
+ Normal Heart 
+ Recent Anterior Myocardial Infarction with Pericardial Effusion 
+
+
+--- Page 13 ---
+Ultrasound Simulator for Training of TEE,TTE & Fast 
+ 
+ 
+         Admn/Tender/78/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page13 
+ 
+ Anterior Myocardial Infarction in a COPD Patient 
+ Biologic Prosthetic Valve in Aortic Position 
+ Dilated Cardiomyopathy – Mild Left Ventricular Systolic 
+Dysfunction 
+ Dilated Cardiomyopathy – Very Severe Left Ventricular 
+Systolic Dysfunction in a COPD Patient 
+ Left Pleural Effusion 
+ Left Ventricular Apical Aneurysm with Thrombus 
+ Mechanical Prosthetic Valve (Bileaflet) in Aortic and Mitral 
+Position 
+ Mechanical Prosthetic Valve (Tilting Disk) in Mitral Position 
+ Normal Heart in a COPD Patient 
+ Tamponade 
+ Acute Anterior Myocardial Infarction 
+ Acute Lateral Myocardial Infarction in a COPD Patient 
+ Aortic Valve Infective Endocarditis 
+ Coarse Ventricular Fibrillation 
+ Dilated Cardiomyopathy – Very Severe Left Ventricular 
+Systolic Dysfunction 
+ Dilated Cardiomyopathy – Mild Left Ventricular Systolic 
+Dysfunction in a COPD Patient 
+ Coarse Ventricular Fibrillation 
+ Fine Ventricular Fibrillation 
+ Pulmonary Hypertension 
+ Pulmonary Hypertension in a COPD Patient 
+ Acute Inferior Myocardial Infarction 
+ Acute Lateral Myocardial Infarction 
+ Acute Right Ventricular Myocardial Infarction 
+ Aortic Dissection – Type B 
+ Aortic Stenosis - Valvular 
+ Ballooning Mitral valve – two leaflets 
+ Bicuspid Aortic Valve 
+ Dilated Cardiomyopathy – Severe Left Ventricular Systolic 
+Dysfunction 
+ Myxoma 
+ Right Pleural Effusion 
+ Acute Inferior and Right Ventricular Myocardial Infarction with 
+Ventricular Septal Defect 
+ Acute Inferior Myocardial Infarction with Right Ventricular 
+Myocardial Infarction 
+ Aortic Insufficiency 
+ Atrial Septal Defect - small 
+ Ballooning Mitral Valve 
+ Cardiac Arrest Standstill in a COPD patient 
+ Coronary Artery Disease – Wall Motion Abnormalities in the 3 
+Coronary Territories 
+ Dilated Cardiomyopathy – Moderate Biventricular Systolic 
+Dysfunction 
+ Left Atrial Appendage Thrombus 
+ Thrombus in Transit Patent Foramen Ovale 
+System must have following Lung Pathologies Simulation: 
+ Bilateral Diaphragmatic Dysfunction 
+ Bilateral Pulmonary Edema 
+
+
+--- Page 14 ---
+Ultrasound Simulator for Training of TEE,TTE & Fast 
+ 
+ 
+         Admn/Tender/78/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page14 
+ 
+ Central Pneumonia 
+ Complete Pleural Effusion 
+ Empyema 
+ Pneumonia 
+ Pneumothorax 
+ Small Pleural Effusion 
+ Unilateral Diaphragmatic Dysfunction 
+System must have following Abdominal Pathologies Simulation: 
+ Normal Abdomen 
+ Hydatid Cyst of the Liver 
+ Multilocular Intra-Abdominal Abscess 
+ Liver Hepatocellular Carcinoma Hypoechoic 
+ Acute Cholecystitis 
+ Angiomyolipoma 
+ Bacterian Hepatic Abscess 
+ Cholecystitis with Gallstone 
+ Choledocolithiasis 
+ Exophytic Renal Cyst 
+ Hepatomegaly 
+ Kidney Stones 
+ Pancreatic Pseudocyst 
+ Splenomegaly 
+ Chronic Pancreatitis 
+ Gallbladder Polyp 
+ Hepatic Haemangioma 
+ Hepatic Heterogeneous Metastases 
+ Hepatic Homogeneous Metastases 
+ Hepatic Steatosis 
+ Large Gallbladder Polyp 
+ Renal Cyst 
+ Splenic Cyst 
+ Splenic Haemangioma 
+ Bochdalek Hernia - Left Side 
+ Cholelithiasis 
+ Gallstones 
+ Hepatic Cirrhosis with Portal Hypertension 
+ Liver Hepatoma 
+ Heterogeneous Lesion 
+ Pancreatitis 
+ Pyelonephritis 
+ Renal Abscess 
+ Renal Cyst Rupture 
+ Schlerosing Cholangitis 
+ Adenocarcinoma of the Gallbladder 
+ Bochdalek Hernia 
+ Calcified Granulomas 
+ Focal Nodular Hyperplasia 
+ Hepatic Cirrhosis 
+ Hepatic Cirrhosis with Ascites 
+ Left Hydronephrosis 
+ Liver Adenoma 
+ Liver Hepatocellular Carcinoma Hyperechoic 
+ Liver Hepatoma Hyperechoic Lesion (Large) 
+
+
+--- Page 15 ---
+Ultrasound Simulator for Training of TEE,TTE & Fast 
+ 
+ 
+         Admn/Tender/78/2018-AIIMS.JDH 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AAA - Medium Suprarenal 
+ AAA - Small Renal 
+ AAA - Medium Renal 
+ Left Iliac Artery Aneurysm 
+Each AAA pathology should have following modalities options: 
+ Digestive system gas 
+ Dissection 
+ Free fluid 
+ Mural Thrombus 
+ Pericardial Fluid 
+System must have following FAST Pathologies: 
+ Free Fluid - Hepato-Renal Reflection (Morrison's Pouch - 
+Small) 
+ Free Fluid - Retro-Vesical Reflection (Large) 
+ Free Fluid - Splenal-Renal Reflection (Medium) 
+ Free Fluid - Retro-Vesical Reflection (Small) 
+ Free Fluid - Retro-Vesical Reflection (Medium) 
+ Free Fluid - Splenal-Renal Reflection (Small) 
+ Free Fluid - Supra-Splenal 
+ Free Fluid - Above the Spleen with Hemothorax 
+ Free Fluid - Bilateral Renal Reflection (Small) 
+ Free Fluid - Hepato-Renal Reflection (Morrison’s Pouch - 
+Large) 
+ Left Lateral Trauma 
+ Spleen Rupture 
+ Small Pericardial Effusion 
+Basic Equipments (Hardware): 
+ Mannequin 
+ Computer – Including keyboard, mouse, cable and screen 
+ 21” TFT monitor 
+ Transducers:    
+a. Phased Array Transthoracic Echocardiography (TTE) Probe 
+b. Trans Esophageal Echocardiography (TEE) Probe       
+c. Curvilinear Probe (For FAST, Abdomen & Pleural 
+Modules) 
+ 
+Mannequin: Should have realistic tactile features for enhance learning, 
+depressible abdomen, palpable ribs and sternum & depressible 
+interspaces. Should have ability to be placed in the tilted left lateral 
+decubitus position 
+Downloadable Software Upgrades: 
+• Capable of downloading automatic software updated from the central 
+server. 
+ 
+
+

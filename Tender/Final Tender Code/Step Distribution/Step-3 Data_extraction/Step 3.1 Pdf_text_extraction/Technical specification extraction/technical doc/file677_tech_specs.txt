@@ -1,0 +1,795 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 18 of 38 
+ 
+Annexure-I 
+ 
+Specifications for Cranial and Spinal Surgery Set with HD CAMERA SYSTEM 
+ 
+General specifications and terms 
+ 
+● All units/ items including accessories should have quality certificate such as 
+BIS/ISO/USFDA/European CE certified.  
+● 5 year warranty & 5 year CMC (wherever applicable) should be included. 
+● Principal Company should have registered Office and Service Network in India, preferably 
+Central India for better service support. 
+● User manuals should be in English. Provision of trained manpower support for at least for 
+initial 6 months after installation or up to a period when the staff/technicians at AIIMS Raipur 
+are trained in handling, storage and proper sterilization methods of supplied equipment has to 
+be ensured by the bidder. 
+● Compliance statement should be submitted in a tabulated and point wise manner. 
+● Should have supplied quoted endoscopy instruments to AIIMS, PGI, and NIMHANS; and 
+should submit satisfactory performance certificate from the institute. 
+● All firms are required to submit their catalogue along with tender clearly marking the quoted 
+items and number with highlighter. If necessary demonstration will be taken to ensure product 
+quality. 
+● All items under particular serial number will be purchased together from single manufacturer. 
+● Product quality certificate required. 
+ 
+● 
+Part 1A – HD Endoscopy Camera System  
+ 
+S. 
+No 
+Specification 
+ 
+Three Chip High definition Camera System 1 qty 
+ 
+The system should be truly Digital HDTV endoscopic video camera. The system should have the 
+maximum Resolution of 1920 X 1080 pixels, progressive scan and the consistent use of 16: 9 
+formats for Input & Output to guarantee genuine HDTV. 
+● 
+The system should have facility of Optical & Digital Zoom lens to enhance the quality of 
+Image size & cross specialty usage of the camera system, regardless of the telescope used. 
+● 
+USB Port for Capturing FULL HD Videos/ HD Stills in External USB drive and direct 
+interface of USB Printer to facilitate direct printouts. 
+● 
+System should have facility of controlling additional equipment like light source/ and 
+recording device from the camera head.   
+● 
+ System should have facility to offer various visualization modes for surgery and diagnosis 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 19 of 38 
+ 
+by shifting the color spectrum like BLUE & GREEN light for recognition of the finest tissue 
+Structures and their differentiation.  
+● 
+Parallel live display of visualization modes besides white light mode (picture-in-picture). 
+● 
+Modular design: Digital FULL HD camera module should be compatible for use with video 
+flexible GI endoscopes. 
+● 
+Upgradable to be used with 3D endoscopic camera heads and scopes 
+Technical Specifications: 
+Image sensor: 3X1/3’’ CCD-Chip. 
+Pixels - 1920 x 1080 
+AGC: Microprocessor controlled 
+Lens: Integrated Zoom Lens f = 15-31 mm (2x optical zoom) 
+Minimum light sensitivity: 1.17 Lux (f = 1.4 mm). 
+Control buttons: 3 (2 of them freely programmable). 
+Video output:   2 x DVI-D output, 1 x 3G-SDI output, 3 x camera input for communication with 
+compatible camera modules, LAN   connection, 4 x USB connection (2 x front, 2 x back). 
+Input: Keyboard input for character generator. 
+Power Supply:-   100-240 VAC 50/60 Hz 
+ 
+ 
+ 
+ 
+High Definition Medical Grade Monitor 32’’ capable of displaying 2D & 3D image – 1qty 
+ 
+● 
+LCD Panel 32 inch ( 16:9 aspect ratio) 
+● 
+High Definition 1920*1200 pixel resolution 
+•    Various signal inputs: DVI-D for 3D signal DVI-D for 2D signal in HD, HD-SDI for 2D signal 
+in HD, S-Video for 2D signal in standard resolution 
+•  viewing angle- Horizontal: 178 degrees, Vertical: 178 degrees (3D: TBD) 
+● 
+Contrast 1000:1 
+● 
+Should be able to display 3D and 2D image. 
+ 
+Xenon Light Source 300 Wats- 1 qty  
+ 
+● 
+Lamp type:-  Xenon  300 Watt  
+ 
+● 
+Color Temperatures 6000K 
+ 
+● 
+Light Outlets – 1 
+ 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 20 of 38 
+ 
+● 
+Light 
+Intensity 
+Adjustment: 
+- 
+Continuously 
+adjustable 
+either 
+manually 
+or 
+ 
+automatically by cameras video output signal. 
+● 
+Should be supplied with Fiber Optic Light Cable of Diameter 3.5 mm, Length 300cm. – 1 no 
+IMAGE/VIDEO RECORDING AND DATA ARCHIVING SYSTEM capable of record in 3D and 2D 
+ 
+ 
+ State of the art user friendly Medical grade system (certified to be used in OT) should be offered 
+with following features, 
+● 
+User should have full control of the system from the sterile field via camera head buttons, 
+optional touch screen, and optional foot switch. 
+● 
+Parallel (synchronic or independent) recording of two image sources. 
+● 
+Still images and videos (optional with audio) in 2D FULL HD or 3D (with optional 3D-
+camera system). Water mark feature. 
+● 
+Intelligent, adaptive storage management. 
+● 
+Storage location is freely definable and configurable. 
+● 
+Storage on internal memory (2 TB, FIFO), USB storage media via 2.0 and 3.0, optical 
+media (DVD writer, Blu-ray reader), network drive, FTP or via DICOM. 
+● 
+Automatic storage in the background to reduce the time between the interventions. Easy 
+management and overview of open/automatic save processes. 
+● 
+Import of patient data via keyboard or DICOM work list. 
+● 
+Intra- and postoperative printing via optional printer (local or network). 
+● 
+Various adaptable templates for printing to choose from. 
+● 
+Integrated surgical checklist following the WHO standard or customizable. Basic functions 
+for the editing of still images and videos. 
+● 
+Playback of 2D and 3D content on separate monitor (optional 3D-system required). 
+● 
+Integrated file-viewer for still images, videos and checklists from diverse data sources. 
+● 
+Integrated security software as a protection against malware, independent from security 
+patches of the operating system and it is only possible to run certified software. 
+● 
+Structured and clear user guidance, optimized for touch screen control. 
+● 
+Scalable range of functions. 
+● 
+Low noise generation and fast system start due to SSD-technology. 
+● 
+Should have seamless USB silicone keyboard with touch pad to enter details 
+● 
+Controllable via 12’’ inbuilt touch screen 
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 21 of 38 
+ 
+● 
+Input Voltage: 100-240 VAC. 
+● 
+Input Frequency: 50 - 60 Hz. 
+● 
+Power output: 350 Watt. 
+● 
+CPU: Intel® Core™ i7-2600 @ 3.4GHz. 
+● 
+Internal memory: SSD (70GB) | HDD (2 TB). 
+● 
+Memory RAM: 8GB. 
+● 
+Connectors: 3 x 1 GB Ethernet (RJ 45), 6x USB 2.0, 2x USB 3.0. 
+● 
+Image format: BMP, JPG, JPG2000. 
+● 
+Video format: MPEG-4, MPEG-2, MOV. 
+● 
+Video signal inputs: 2 x DVI-D. 
+● 
+Color system: PAL, NTSC. 
+● 
+Resolution still images: up to 1920x1080, Aspect ratio 16:9. 
+● 
+Resolution videos: up to 1920x1080 Progressive Scan for 25/30 frames. 
+● 
+Preinstalled printer: SONY UP-DR80MD. 
+● 
+Type approval: IEC 60601-1-1, EN60601-1, EN60601-2. 
+The DICOM 3 interface shall be installed to the system in order to allow the surgeon to view all the 
+DICOM 3 images stored in the PACS system on a digital light box within the operating rooms. 
+Furthermore, all intra operative images recorded can be sent via the DICOM 3 interface to the 
+PACS system for further processing. 
+Imported Endoscopic Trolley – 1 Qty 
+ 
+Equipment Cart, rides on 4 antistatic dual wheels equipped with locking brakes, central beam with 
+integrated electrical sub-distributors with 6 sockets, grounding plugs, modular in nature (should be 
+able to add shelves and components later if required). 
+ 
+Should have central monitor holder to mount monitor with height adjustable, swiveling and tilting, 
+swivel range approx. 360°, loading capacity max. 18 kg, with monitor mount VESA 75/100. 
+ 
+It should consist of: 4 shelfs with capacity of keeping min 3 machines on each shelfs. Should have 
+1 lock and key drawer , 1 camera holder, Isolation transformer of 2000VA, counter balance plate, 
+Monitor holding arms (lateral)  
+ 
+
+
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 22 of 38 
+ 
+ 
+Part 1 B – Intracranial Neuro Endoscopy Set For Adult / Pediatric 
+patients. 
+  
+Surgical Write Up   
+Neuroendoscope for Intracranial Procedures for Adult And pediatric Patient 
+Set must perform full range of endoscopic brain operations, enabling all 
+forms of obstructive hydrocephalus, intraventricular tumors, cysts and 
+intraparenchymal cysts to be treated. 
+  
+The set must perform below procedures: 
+Ventriculostomy, Aqueductoplasty, Aqueduct stenting, Septostomy, 
+Foraminoplasty, Tumor Biopsy and Tumor Resections as well as Cyst 
+Evacuation and Resection of Cyst Membranes.  
+ 
+Neuroendoscope for Intracranial Procedures for Pediatric Patient 
+Set must perform endoscopic brain operations, enabling obstructive 
+hydrocephalus, intraventricular tumors, and cysts. 
+  
+The set must be suitable for below procedures: 
+ 
+Ventriculostomies, Septostomies, Tumor Biopsy and Cyst. Fenestration 
+Endoscopy . 
+ 
+TECHNICAL SPECIFICATION FOR ADULT / PAEDIATRIC 
+INTRACRANIAL NEURO ENDOSCOPY SET 
+  
+● Operating telescope with minimum 3 working channels with angle 
+of view from 4 degree to 6 degree with angled eye piece.  
+● Outer diameter of scope should be between 6 to 6.2 mm, length of 
+scope should be minimum 17 to 18cm. main working channel of 
+operating scope should be 2.8 to 3 mm. 2 side working channel 
+should have diameter 1.5 to 1.6mm.   
+● Scope should be autoclavable.  
+● Scope Should have inbuilt light transmission   
+1 
+● Zero degree diagnostic telescope with enlarged view.  
+● Diameter of scope should be 1.9 to 2mm.  
+● Length of scope should be 25 to 26cm.  
+● Scope should be autoclavable.  
+● Scope Should have inbuilt light transmission   
+1 
+● 30 degree telescope with enlarged view. 
+● Diameter of scope should be 3.2 to 3.3mm.  
+● Length of scope should be minimum 24 to 25cm.  
+● Scope should be autoclavable.  
+● Scope Should have inbuilt light transmission   
+1 
+● 45 degree telescope with enlarged view.  
+● Diameter of scope should be 3.2 to 3.3mm.  
+● Length of scope should be minimum 24 to 25cm. 
+● Scope should be autoclavable.  
+● Scope Should have inbuilt light transmission   
+1 
+● Sheath to be used with operating telescope.  
+● Sheath should be rotating with outer diameter from 6.7mm to 
+6.8mm.  
+● Working length of sheath Should be 12.5 to 13.5cm 
+1 
+● Obturator to be used with sheath.  
+● Should be fixed with sheath for entry into ventricle. 
+1 
+1 
+
+
+--- Page 23 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 23 of 38 
+ 
+● Obturator  to be used with 0 degree diagnostic scope  
+1 
+● Scissors, pointed, should be rotating, Should have single action 
+jaws,  
+● Should have diameter 1.9 to 2 mm, Should have working length 29 
+to 30 cm  
+1 
+● Biopsy Forceps Should be rotating, Should have both jaw moving,  
+● Should have diameter 1.9- 2 mm, Should have working length 29 to 
+30 cm 
+2 
+● Grasping Forceps, Should have  rotating option, Should have 
+double action jaws, Should have diameter 1.9 to 2 mm, Should have 
+working length 29 to 30 cm  
+1 
+● Forceps, for ventriculostomy with separation outside of jaw,  
+● Should have double action jaws,  
+● Should have diameter maximum 1 mm, 
+● Should have working length 29 to 30 cm, 
+●  forceps Should be flexible to be used working channel 
+2 
+● Scissors, Should have pointed tip,  
+● Should have lightly curved jaws, Should have  double action jaws,  
+Should have  diameter 1,7 to 1.8 mm, Should have  length 29 to 30 
+cm 
+2 
+● Grasping Forceps, forceps Should be flexible to be used with 
+working channel,   
+● Should have double action jaws,  
+● Should have  diameter maximum 1 mm,   
+● Should have working length 29 to 30 cm  
+2 
+● Monopolar Coagulating Electrode, Should be Semi-rigid,  
+● Should have diameter 1.3 to 1.4 mm,  
+● Should have  working length 29 to 30 cm 
+2 
+● Bipolar Coagulation Electrode, Should have  diameter 1.7 to 1.8 
+mm,  
+● Should have  working length 29 to 30 cm 
+2 
+● Bipolar Forceps, with 2 long, flat jaws, 
+● Should have  outer diameter 2.4 to 2.5mm,  
+● Should have minimum 5 bipolar insert with bipolar.  
+2 
+● Unipolar High Frequency Cord, with 4 mm plug, length minimum 
+300 cm, For use with HF units. 
+2 
+● Bipolar High Frequency Cord, with 2 x 4 mm banana-plug to 
+Coagulator, length minimum 300 cm 
+2 
+● Articulated Stand, holding arm should be mechanical L shaped.  
+● Should have one mechanical central clamp for all minimum five or 
+more joints joint moving functions, Should have height 48 to 50 cm,  
+Should have operating range 50 to 52 cm 
+1 
+● Socket to clamp on the operating table,  
+● Should be able to use with European and United States standard 
+rails,  
+● Should also be suited for rails from 25x10 up to 35x8 mm, with 
+lateral clamping element for height adjustment of the articulated 
+stand 
+1 
+● Clamping Jaw, Should be of metal, Should be for use with 
+instrument and telescope sheaths, clamping range 4.8 up to 12.5 
+mm,. 
+1 
+● Adaptor autoclavable should be used to keep telescope head in 
+sterile condition in situation where more than one scope is used in 2 
+
+
+--- Page 24 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 24 of 38 
+ 
+one surgery.  
+● Or need to change scope between the surgeries. 
+● Plastic Container for Sterilization and Storage of Variable 
+Instrument Sets,  
+● Should be perforated, should be with silicone mat, should be having 
+two-level storage, and should have minimal external dimensions (w 
+x d x h): 545 x 260 x 115 mm, the plastic containers Should be 
+suitable for steam, gas and hydrogen sterilization. 
+2 
+PAEDIATRIC VENTRICULOSTOMY SET SPECIFICATION. 
+ 
+● Ventriculoscope, small, Wide Angle Straight Forward Telescope 6°, 
+with angled eyepiece, outer diameter 3.6 mm, length 18, working 
+channel diameter 1.6 mm, with suction and irrigation channel 
+diameter 0.8 mm, autoclavable, with irrigation adapter, fiber optic 
+light transmission incorporated, for use with: small operating 
+sheath. 
+1 
+● Forward Oblique- Telescope 0°, enlarged view, diameter 2 mm, 
+length 26 cm, autoclavable, and fiber optic light transmission 
+incorporated. 
+1 
+● Obturator, for use with operating sheath. 
+1 
+● Obturator, for use with operating sheath and 0 degree diagnostic 
+scope 
+1 
+● Operating Sheath, small, outer diameter 4.5 mm, working length 
+13.3 cm. 
+1 
+● Biopsy Forceps, double action jaws, diameter 1.3 mm, working 
+length 30 cm 
+1 
+● Scissors, single-action jaws, semi-rigid, diameter 1.3 mm, working 
+length 30 cm 
+1 
+● Unipolar Coagulating Electrode, semi-rigid, diameter 1.3 mm, 
+working length 30 cm 
+1 
+● Bipolar Coagulation Electrode, diameter 1.3 mm, working length 30 
+cm 
+1 
+● Grasping Forceps, double-action jaws, semi-rigid, diameter 1.3 mm, 
+working length 30 cm 
+1 
+● Bipolar Coagulation Electrode, semi-rigid, O.D. 1.3 mm. 
+1 
+Part 1 C– Skull base Endoscopy Surgery Set 
+ 
+SURGICAL WRITE UP:  
+● Endoscopic  management  of  CSF  rhinorrhoea , Optic  Nerve  
+decompression, Pituitary  macro and micro  adenomas  transclival  
+chordomas and far extended approaches for all lesions from Crista 
+galie to CV junction using transclival  transplanum transcribriform 
+approach. 
+ 
+  
+TECHNICAL SPECIFICATION  
+ 
+● Straight Forward Telescope 0°, Should be with enlarged view,  
+● Should have diameter 4 mm, Should have length 18 cm, Should be 
+autoclavable,  
+● Should have fiber optic light transmission incorporated 
+1 
+● Forward-Oblique Telescope 30°, Should have  enlarged view with 
+diameter 4 mm, Should have length 18 cm Should be  autoclavable, 
+● Should have fiber optic light transmission incorporated 
+1 
+● Suction and Irrigation Sheath for 0°  and 30 degree scope ,  
+● Should be vertical oval in shape with diameter 4.8 mm x 6 mm,  
+1 each 
+
+
+--- Page 25 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 25 of 38 
+ 
+● Should have separate channel for suction and irrigation 
+● Straight forward Telescope with straight eye piece of scope,  
+● Should have diameter 4 mm. 
+●  Should have length 18 cm. 
+● Should be autoclavable. 
+● Should have Angle of view - 15 or 20 or 30 Degree, Should have 
+Angle of view - 45 Degree, Should have Angle of view - 70 Degree, 
+Should have Angle of view - 90 Degree,  
+                   
+                                      OR  
+ 
+● one single telescope diameter 4mm length 18cm with variable 
+direction of view from 15 degree to 90degree,  adjustment knob for 
+selecting the desired direction of view, fiber optic light transmission 
+incorporated, 
+2 each 
+● Irrigation and Suction Sheath, Should have outer diameter 4.8 x 6 
+mm, working length 14 cm 
+1 
+● Straight Forward Telescope 0° & 30 degree, Should have enlarged 
+view , Should have diameter 4 mm,  
+Should have length 30 cm, Should be autoclavable, fiber optic light 
+transmission incorporated 
+1 each 
+● Suction and Irrigation Sheath 0° & 30 degree, Should have vertical 
+oval shape , 
+● Should have diameter 4.8 mm x 6 mm,  
+● Should have separate channel for suction and irrigation 
+1 each 
+● Telescope lens tip cleaning system, should have suction and 
+irrigation option with one push button.  
+Irrigation should be active only when desired by either mechanical 
+push button or with electrical on/off foot switch. 
+1 
+ 
+ 
+● Nasal Forceps, 45° upturned, size 1, with cleaning connector,should have  
+working length 12 to 13 cm 
+● Nasal Forceps, straight, size 1, with cleaning connector, should have working 
+length 12 to 13 cm 
+1 
+● Nucleus Cutting Forceps, single action jaws, jaw should be opening upwards, 
+forceps diameter should be 3.5 mm, should have working length 19 to 20 cm 
+1 
+● Spoon Forceps, spoon size 3 x 10 mm, single action jaws, working length 17 
+cm 
+1 
+● Round Knife 0°, width 2 mm, working length 13 cm, total length 23 cm 
+1 
+● Round Knife 90°, width 2 mm, working length 13 cm, total length 23 cm 
+1 
+● Dissector, tip 45°, width 1 mm, working length 13 cm, total length 23 cm 
+1 
+● Dissector, tip 90°, width 1 mm, working length 13 cm, total length 23 cm 
+1 
+● Dissector, sharp, round spatula, tip angled 45°, size 2 mm, with round handle, 
+length 25 cm 
+1 
+● Hook, 90°, blunt, length 25 cm, with round handle 
+1 
+● Micro Raspatory, 2 mm wide, curved, left, length 27 cm 
+1 
+● Micro Raspatory, 2 mm wide, curved, right, length 27 cm 
+1 
+● Elevator, double-ended semi-sharp and blunt, length 26 cm 
+1 
+● Elevator, double-ended, angled end shovel-shaped, semisharp, blunt end 
+slightly curved, length 26 cm 
+1 
+
+
+--- Page 26 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 26 of 38 
+ 
+● Elevator, double-ended, blunt end angled, semisharp end slightly curved, 
+graduated, length 26 cm 
+1 
+● Scissors, straight, should have small handle, with cleaning connector, working 
+length 18 cm 
+1 
+● Scissors, curved to right, should have small handle, with cleaning connector, 
+working length 18 cm 
+1 
+● Scissors, curved to left, should have small handle, with cleaning connector, 
+working length 18 cm 
+1 
+● Scissors, curved upwards, should have small handle, with cleaning connector, 
+working length 18 cm 
+1 
+● Scissors, upturned 45°, delicate, should have sheath 360° rotatable, with 
+cleaning connector, working length 18 cm 
+1 
+● Nasal Forceps, with extra fine flat jaws, through-cutting, tissue sparing, width 
+of cut 1.5 mm, straight sheath, straight jaws, with cleaning connector, working 
+length 18 cm 
+1 
+● Nasal Forceps, with extra fine flat jaws, through-cutting, tissue sparing, width 
+of cut 1.5 mm,  
+● straight sheath, jaws angled upwards 45°, with cleaning connector, working 
+length 18 cm 
+1 
+● Forceps, very delicate, oval cupped jaws 0.9 mm, straight, working length 18 
+cm 
+1 
+● Forceps, very delicate, oval cupped jaws 0.9 mm, curved upwards, working 
+length 18 cm 
+1 
+● Miniature Grasping Forceps, serrated, straight, working length 18 cm 
+1 
+● Minature Forceps, through- cutting, with fine flat jaws, bite 1 mm, straight, 
+working length 18 cm 
+1 
+● Minature Forceps, through- cutting, with fine flat jaws, bite 1 mm, curved up, 
+working length 18 cm 
+1 
+● Retractable knife with handle and push button for straight cut knife blade and 
+sickle shape knife blade 
+Set of 2  
+(1 Knife each) 
+● Curette, round spoon, tip slightly angled, size 2 mm, with round handle, length 
+25 cm 
+1 
+● Ring-Curette, round wire, ductile, ID 3 mm, tip angled 45°, with round handle, 
+● length 25 cm 
+1 
+● Ring- Curette, round wire, ID 3 mm, tip angled 90°, with round handle, length 
+25 cm 
+1 
+● Curette, round wire, Id 5 mm, tip angled 90°, with round handle, length 25 cm 
+1 
+● Curette, round wire, ID 3 mm, distally curved shaft, with round handle, length 
+25 cm 
+1 
+● Curette, round wire, ID 5 mm, tip laterally angled 90°, with round handle, 
+length 25 cm 
+1 
+● Curette, bendable up to 90°, round spoon, size 3.5 mm, working length 20cm, 
+with LUER lock adaptor for cleaning, consisting of: Metal Handle without 
+ratchet,  
+● Outer Tube with Insert 
+1 
+● Curette, round, benable up to 90°, size 3.8 mm, working length 20 cm, with 
+LUER lock adaptor for cleaning, consisting of: Metal Handle with  ratchet ,  
+● Outer Tube with Insert 
+1 
+● Suction- Curette, with round wire, ID 5 mm, tip angled 45°, LUER, length 25 
+cm 
+1 
+● Suction, Curette, basket-shape, round wire, size 5 mm, rotating tubing- 
+connector, LUER, length 25 cm, 
+1 
+
+
+--- Page 27 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 27 of 38 
+ 
+● Ring-Curette, bayonet-shaped, round wire, Id 5 mm, tip angled 90° upwards, 
+with round handle, length 25 cm 
+1 
+● Ring Curette, bayonet-shaped, blunt, tip angled upwards 45°, outer diameter 4 
+mm, with round handle, working length 25 cm 
+1 
+● Ring Curette, bayonet-shaped, blunt, tip angled to left 90°, outer diameter 3.3 
+mm, with round handle, working length 25 cm 
+1 
+● Bipolar Forceps, rounded tip, width 2 mm, outer diameter 3.4 mm, working 
+length 20 cm, consisting of:  Bipolar Ring Handle, Outer Sheath, Inner Sheath, 
+Forceps Insert 
+1 
+● Bipolar Forceps, should have tip 1 mm with delicate jaws, should have distally 
+angled 45°, horizontal closing, outer diameter 3,4 mm, working length 20 cm. 
+2 
+● Bipolar Forceps, should have tip  2 mm ,should have distally angled 45°, 
+horizontal closing, outer diameter 3.4 mm, working length 20 cm. 
+1 
+● Bipolar Forceps, should have tip 4 mm, should have distally angled 45°, 
+horizontal closing, size 3.4 mm, working length 20 cm. 
+1 
+● Bipolar High Frequency Cord, length 300cm 
+2 
+● Coagulation Ball Electrode, diameter 2 mm, laterally curved, working length 13 
+cm 
+2 
+● Unipolar High Frequency Cord,  length 300 cm 
+2 
+● Suction Tube, with cut-off hole, drop-shaped, with distance markings, LUER, 
+conical distal end, tip curved upwards, ball end, 2.4 mm, working length 15 cm 
+1 
+● Suction Tube, with cut-off hole, drop-shaped, with distance markings, LUER, 
+conical distal end, malleable, 6 Fr., working length 15 cm 
+1 
+● Suction Tube, malleable, with conical tip, with elongated cut-off hole and 
+stylet, LUER, working length 12 cm, 6 Fr. 
+1 
+● Suction Tube, malleable, with conical tip, with elongated cut-off hole and 
+stylet, LUER, working length 18 cm, 6 Fr. 
+1 
+● Insulated Cannula for suction and coagulation, O.D.: 3 mm, 90° curved, 
+working length 16cm 
+1 
+● Insulated Cannula for suction and coagulation, O.D.: 3,6 mm, 90° curved, 
+working length 16cm 
+1 
+● Bone Punch, should be detachable, rigid, up biting 60° forward cut, size 1 mm, 
+working length 17 cm 
+1 
+● Bone Punch, should be detachable, rigid, up biting 60° forward, size 2 mm, 
+working length 17 cm 
+1 
+● Bone Punch, should be detachable, rigid, down biting 60° forward, size 1 mm, 
+working length 17 cm 
+1 
+● Bone Punch, should be detachable, rigid, down biting 60° forward, size 2 mm, 
+working length 17 cm 
+1 
+● Plastic Container for Sterilization and Storage of Variable Instrument Sets, 
+perforated, with transparent lid, with silicone mat, two-level storage,  
+● (1 additional insert), external dimensions (w x d x h): 545 x 260 x 115 mm 
+consisting of: 2x 39360 AP Snap 
+2 
+● Plastic Container for sterilizing, suitable for steam, gas, and hydrogen peroxide 
+(Sterrad®) sterilization and storage, perforated, with lid, external dimensions 
+● (w x d x h): 321 x 90 x 45 mm for use with two rigid endoscopes up to max. 20 
+cm working length 
+2 
+ 
+ 
+ 
+
+
+--- Page 28 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT/A 
+ 
+Page 28 of 38 
+ 
+Part 
+1 
+D: 
+Specification 
+of 
+Flexible 
+video 
+neuroscope 
+for 
+complete 
+visualisation/inspection of ventricles and aqueduct, treatment of aqueductal 
+stenosis, placement of stents.           -                               
+1 
+● Neuro video flexible Endoscope should be able to transmit outstanding image 
+quality when complained with HD camera system neuro flexible video 
+endoscope. 
+● Should 
+be 
+able 
+to 
+use 
+in 
+tight 
+spaces 
+like 
+aqueduct 
+stenosis. 
+Neuro flexible video endoscope 
+● Should be able to perform endoscopy of the subdural and subarachnoid space. 
+● Video flexible neuro endoscope must be single piece flexible scope and camera 
+head.  
+● An inbuilt camera head must be in flexible scope and the same must be used with 
+camera trolley directly in video processor of camera trolley. 
+● Should have infinitely variable deflection feature variable deflection up to 
+minimum 270 degree both side up & down. 
+● Should have excelled image quality with light cables incorporated in scope 
+● Should feature digital zoom minimum up to 2x magnification to be able to 
+improve detail resolution for high precision work. 
+● Should have integrated working channel to allow intraoperative use of flexible 
+instrument size up to 1mm. 
+Technical specification: 
+● Should be flexible,  Should be steerable, direction of view 0°, angle of view 90°,  
+● Should have working channel maximum size 3.5 Fr to 3.6 Fr. ( approx. 1.2mm) 
+● Should have sheath size maximum sheath size 8.4 Fr to 8.5 Fr., (approx. 2.8mm) 
+● Should have Working length 32 to 35 cm  
+● Should be supplied with storage case. 
+● Should be GAS and plasma sterilisable 
+● Plastic container for flexible scope sterilisation and storage 
+ 
+ 
+Instruments to be used with flexible videoscope neuro- 
+ 
+1. Grasping Forceps, Should be double action jaws, Should be flexible with 
+diameter maximum 1.0 mm and  length minimum 60 cm 
+ 
+2. Biopsy Forceps should have double action jaws, should be flexible, should have 
+diameter maximum 1.0 mm, should have length minimum 60 cm 
+ 
+3. Coagulating Electrode  Unipolar, flexible, 1.0 mm, length 73 cm                   
+ 
+4. Unipolar High Frequency Cord, with 4 mm plug, length minimum 300 cm, For 
+use with HF units                                                                                                     
+1 each 
+Video 
+processor 
+link 
+to 
+connect 
+the 
+videoscope 
+with 
+main 
+camera 
+unit                                                                                                                                 
+Link to connect the flexible videoscope with main camera processor for high quality HD 
+picture quality comparable to rigid endoscopes 
+1 
+Adaptor to connect the existing Carl Zeiss microscope with the endoscopy tower for 
+display, recording, broadcasting in full HD quality. 
+  
+1. TV Adaptor, for CARL ZEISS operating microscopes, f=55 mm recommended 
+for 
+endoscopy 
+camera 
+heads              
+                                                
+-
+                               
+2. Adaptor for use with endoscopy Camera Heads with a Grasping Mechanism to 
+connect with a C-MOUNT thread   
+ 
+1 
+
+

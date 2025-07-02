@@ -1,0 +1,59 @@
+--- Page 16 ---
+Tender No. : AIIMS/R/CS/OT/DST Project/02/2017 
+ 
+Page 16 of 19 
+ 
+ 
+ANNEXURE-I 
+TECHNICAL SPECIFICATIONS FOR EQUIPMENT FOR DST PROJECT 
+ 
+1. (PCB Prototype Machine) (Qty. – 01 Set.) 
+ 
+Setup Includes: 
+ 
+1. Working area : 220x200 mm  
+2. Min. drill hole size : 0.3 mm  
+3. Min. Cutting trace/space : 0.2 mm  
+4. Spindle speed (Max. rpm) : 25000 rpm spindle  
+5. Motor : BLDC Motor  
+6. Miling depth sensing : Automatic  
+7. Tool change : Manual  
+8. Tool Holder : 1/8 inch 
+9. X/Y/Z driver : Stepping  
+10. Software CD  
+11. Learning Material CD  
+2.  (3D Printer: Paramaan Platinum) (Qty. – 01 Set.) 
+Pramaan Platinum is an industrial grade large format 3D Printer meant for 
+Manufacturing Enterprises and professional users. It is a double nozzle printer with a 
+build volume of 50x50x50 cm3 and with all the connectivity features available with 
+Pramaan N2/N2+. 
+ 
+Mechanical 
+ 
+Build: Aluminum Extrusions 
+ 
+Product Footprint: 92cm x 72 cm x 85 cm 
+Printing 
+ 
+Maximum Object Build Volume: 50 cm x 50 cm x 50 cm 
+ 
+Printable Materials: PLA, ABS, Nylon, Flex, HIPS, PVA, Metal Fills etc. 
+ 
+Nozzle Type: Hardened Steel 
+ 
+Nozzle Diameter: 0.8 mm/ 0.6mm/ 0.4mm. 
+ 
+Number of Nozzles: 2 
+ 
+Resolution: 50 microns 
+Connectivity 
+ 
+USB 
+ 
+SD Card 
+ 
+Wi-Fi 
+ 
+Etherne 
+
+

@@ -1,0 +1,136 @@
+--- Page 15 ---
+Tender No. : AIIMS/R/CS/CTVS/18/179/OT 
+ 
+ 
+Page 15 of 19 
+ 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR  “SUPPLY & INSTALLATION OF 16 HIGH END 
+MULITPARA MODULAR MONITOR SYSTEM WITH CENTRAL MONITORING STATION” FOR 
+CARDIOVASCULAR & THORACIC SURGERY (CTVS) DEPARTMENT AT AIIMS RAIPUR. 
+S. 
+No. 
+Item Description 
+Qty. 
+1. 
+16 High End Multipara Modular Monitor System: 
+1. Multipara monitor 12” TFT color display with touch screen facility with resolution of 800 X 
+600 dots. It should have HL7 gateway to connect the HIS & CIS.  
+2. Monitors will be installed at bedside (Wall mount) as well as the central nursing station with 
+capability of storage of all patient data and printing facility.  
+3. The monitors should have monitor to monitor overview facility and data transfer over the 
+network.  
+4. Communications with information management system: to provide HL-7 compatible server for 
+sending and receiving information to and from the monitoring network to and from hospital 
+information system, laboratory information etc. for integration of various information 
+5. Monitor must be capable of simultaneously monitoring the following parameters which should 
+be present as standard in all monitors: ECG, NIBP, SpO2, respiration, dual temperature, HR, 
+Dual IBP, non-invasive cardiac output, invasive cardiac output through thermodilution. 
+6. All monitors should have port available for ETCO2 measurement. 
+7. ETCO2 technology should be mainstream ETCO2 
+8. Both invasive & non-invasive method of ETCO2 measurement should be available 
+9. Monitor should be future upgradable to up to 4 Invasive blood pressure simultaneously. 
+10. Drug calculation lung function, hemodynamic data and Oxy CRG screen should be available as 
+standard. 
+11. Monitor should have facility to display at least 8 waveforms 
+12. Patient modes adult, pediatric & Neonate 
+13. ECG 3/6L Input: isolated and floating 3/6 leads. Product against surges produced by electro 
+surgical and defibrillator potentials. 
+14. Monitor should have facility to monitor 12 leads ECG through 10 lead ECG cable 
+15. All automatic arrhythmia detection & ST analysis should be available. 
+16. Monitor should have facility for full disclosure of ECG and 4 other parameters of last 24 hours. 
+17. Monitor should have facility of ST recall 
+18. Monitor should have facility of interbed display up to 20 beds. 
+19. Heart rate range adult 30-200 bpm, child and neonate -30 to 250 beats/min. 
+20. PR source : auto/ SpO2/NIBP 
+21. Respiration range : 0-150 breaths/min 
+22. Temperature- measurement range :1 C-45 degree C, Unit : C or F, user selectable  
+23. SPO2:  measurement technology : Masimo / Nihon Kohden / Fast 
+Measurement method: 0-100% accuracy adults: 70-100% +/- 2 digit, 0-69% unspecified. 
+Accuracy Neonates : 70-100% +/- 3 digits, 0-69 % unspecified, pulse rate range 30 to 300 bpm. 
+24. Monitor should display perfusion index (PI%) from SPO2 as an indication of pulse strength at 
+the sensor site. 
+25. NIBP Method: oscillometric, Display: systolic, Diastolic and mean, Modes: manual, auto, stat 
+& Venous puncture mode. Auto intervals: 2,4,5,10,30,60,90,120,240, and 360 mins. Unit : 
+mmHg or kPa, Range 0-300 mmHg, accuracy : +/- 3 mmHg 
+26. Alarms : equipment alarms : Audio ( Alarm beep) Visual (Flashing Blue LED), patient alarms : 
+audio (Alarm Beep), Red LED (High Priority) Yellow LED (Medium Priority) 
+27. Alarms suspend: continuous RED LED with display of alarm crossed bell. 
+28. Invasive blood pressure (IBP) – calculation = CPP,PPV,SPV,CVP-ET 
+Auto zero balancing range +/- 200 mmHg auto 
+Zero balancing accuracy: +/- 1mmHg 
+29. ETCO2- main stream-CO2 measuring range – 0 to 100 mmHg 
+30. CO2 value display update cycle every 4 sec or when alarm is generated. 
+31. Trends-Data storage: 24 Hrs up to 6 parameters can be user selectable for 3 separate graphical 
+windows. 
+16 
+Nos. 
+
+
+--- Page 16 ---
+Tender No. : AIIMS/R/CS/CTVS/18/179/OT 
+ 
+ 
+Page 16 of 19 
+ 
+ 
+S. 
+No. 
+Item Description 
+Qty. 
+32. Graphical trends : 
+33. Tabular trend : 30 sec 1 min, 2 min, 4min, 8min, 15min, 30min, & 60min 
+34. Alarm trend (Recall) : minimum 8000 events 
+35. Battery backup- minimum 1 hours 
+36. Include laser printer and dual channel strip chart recorder. 
+37. Web browsing facility to review each networked monitors data through hospital LAN via office 
+PC on hospital LAN network and/ or through dial up facility from remote location. 
+38. To provide suitable facility for sending and receiving DICOM compatible radiological image 
+like ultrasound X-Ray etc to and from the monitoring network to and from hospital information 
+system radiology information system etc for integration of various information   
+39. Monitor should have following certifications- 
+40. It should be BIS/ ‘European CE and USFDA’. 
+41. IEC60601-1-2:2001 
+42. Following accessories need to be supplied per 16 units of monitor 
+1. 16 units of ECG Cable 
+2. 16 units of SPO2 sensors 
+3. 16 units of NIBP cuff 
+4. 16 units of NIBP tubing 
+5. 32 units of IBP cable 
+6. 16 units of skin temperature probe 
+7. 16 units of rectal temperature probe 
+8. 5 units of ETCO2 sensors 
+Warranty for 5 years. 
+Comprehensive Maintenance Contract (CMC) for 5 years. 
+2. 
+16 Bed central Nursing Monitoring Station 
+1. System should have minimum 16 beds capability and upgradeable to 48 beds 
+2. Central station should have 24” or more color display 
+3. Must be supplied with network color printer & printing of review/trend data from central 
+station should be possible. 
+4. It should have facility to view last 72 hours stored information such as vital signs, alarm status 
+arrhythmia analysis trended parameters patient data etc. for any selected bed from the central 
+station. 
+5. Should have facility to take NIBP measurement from central station. 
+6. Should have default alarm limits and customizable parameter settings. 
+7. Central station should have full bed review capability. 
+8. Should have two-way communication with bedside monitor alarm setting should be possible 
+from central station. 
+9. All monitors including central station should have similar user interface for easy usage among 
+all clinicians. 
+10. Should have capability for HL7 interface. Should be upgradable to remote viewing of entire. 
+11. Should be supplied with an On-Line suitable UPS with minimum 30 minutes backup. 
+12. The system should have facility to view the data remotely on iPad or iPhone. It should be 
+supplied with atleast one i-pad. Please quote the option separately.  
+13. CNS should be BIS/ European CE or FDA approved. 
+14. Demonstration of equipment is a must. 
+Warranty for 5 years. 
+Comprehensive Maintenance Contract (CMC) for 5 years. 
+01 
+No. 
+ 
+ 
+ 
+
+

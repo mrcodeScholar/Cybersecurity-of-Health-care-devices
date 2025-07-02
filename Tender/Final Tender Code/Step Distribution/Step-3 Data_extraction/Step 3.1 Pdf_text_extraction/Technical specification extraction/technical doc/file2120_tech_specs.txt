@@ -1,0 +1,57 @@
+--- Page 26 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/CTVS/ACT/597/2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 26 
+ 
+ 
+ 
+Specifications of ACT Machine 
+1. Real time clot detection 
+2. Liquid suspended kaolin activator for uniform mixing with blood sample. 
+3. Room temperature storage 
+4. multiple testing applications 
+5. serial data port: 19200 bauds, 8 data bits, 1 spot bit, no parity 
+6. downloads data to a USB device 
+7. voltage: 220-240 V, 50 Hz Single ~ Phase 
+8. Temperature: 14 degrees C to 32 degrees C (57 degrees F to 90 degrees F) 
+9. Humidity: 10% to 90%, non-condensing 
+10.  Installation and training. 
+11.  It should be compact & portable for bed-side testing. 
+12.  It should have inbuilt mechanism to heat the cartridge. 
+13.  It should require less than 2 ml of blood for each test. 
+14.  It should be capable of displaying two reports at one time. 
+15.  Two Hundred cartridges for each test to be supplied with machine. 
+16.  There should be five years’ warranty of the machine. 
+17.  Measurement range 0-1500 sec. 
+18.  LED/LCD based screen for displaying results (fully digital display screen) 
+19.  Data transfer capability: Printer option available facility to store view multiple 
+patient data. 
+20.  One Button Operation- Easy to Use. 
+21. Should be US FDA/EUROPEAN CE/BIS approved. 
+22.  System should be microprocessor controlled designed to determine coagulation end 
+points in whole blood, Citrated blood and plasma samples. 
+23.  Dual well testing method. 
+24.  Accepts actalyte ACT tubes with celite, glass bead activator, MAX ACT tubes with 
+blended activator; all international technidyne Hemochron tubes. 
+25.  List of consumables with price frozen for 5 years should be quoted separately. 
+26.  List of users must be enclosed. 
+
+
+--- Page 27 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/CTVS/ACT/597/2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 27 
+ 
+27.  In case of malfunction/breakdown, the company should provide temporary back-up 
+support within 24 hrs of registering the complaint till the time machine is repaired 
+and returned. 
+28.  It should have a battery backup of 2 hrs. 
+29.  Desirable: Rate of Actual Clot Formation (CR, Clot Rate: Thrombin Activity, Low 
+Molecular Weight Heparin Management). 
+30.  Machine demonstration has to be done in the AIIMS, Rishikesh. Time and date of 
+demonstration will be as per department decision. 
+ 
+
+

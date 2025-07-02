@@ -1,0 +1,129 @@
+--- Page 10 ---
+Tender for Portable Digital X-ray 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+Digital X-ray GENERAL DESCRIPTION 
+High-capacity mobile X-ray machine for application in the intensive 
+care, Neonatal emergency wards, and in the operation theatre to enhance 
+the speed of diagnosis and eliminate dark room technique. The machine 
+should be self-calibrating and should have a microprocessor controlled 
+high-frequency generator of atleast 33kW. The unit should be battery-
+powered for exposures and also for drives. Low space requirement and 
+high maneuverability are extremely essential.  
+ 
+The machine should have integrated TFT touch-screen to enable 
+immediate image viewing and image processing (brightness, contrast, 
+edge enhancement, etc.) at the system and in the patient’s presence 
+immediately following the exposure. The memory should be sufficient 
+for storage of up to 2000 exposures which can be recalled afterwards for 
+further transfer to the hospital’s IT systems or network drives. The unit 
+should be fully DICOM compatible and and should support PACS 
+networks. 
+  
+Input of patient data from the patient database via a DICOM work list or 
+manual data input should be possible in case no network is available. 
+ 
+A large number of predefined user programs for a wide variety of 
+acquisition situations should be provided to simplify the work flow. 
+ 
+Power connection should be compatible with any standard wall outlet. 
+The battery should be able to fully charge in 5-6 hours. 
+ 
+The machine should be have rotating anode tube with a revolving 
+collimator and bright light. There should be a tilt angle indicator and 
+measuring tape on the tube unit. The machine should have articulated 
+fully counterbalanced arm on which tube is fitted.  
+There should be a hand brake to stop the unit whenever required. 
+The Tube & Generator should be from the same vendor. 
+ 
+Detailed specifications: 
+X-ray generator: The X-ray generator should be atleast 33 kW. The 
+maximum kV should be 125kV or more. The maximum mAS should be 
+300mAS or more. The maximum tube current should be atleast 400mA. 
+All the parameters should be adjustable from the control panel. 
+ 
+X-ray tube: The X-ray tube should house the transformer assemble and 
+should have a rotating anode tube. The focal spot should be les than 
+1mm and anode speed should be atleast 8000 rpm. The tube unit should 
+have an attached rotatable collimator unit, It should have also have a tilt 
+angle indicator and measuring tape. 
+ 
+Solid State Flat Detector: The Flat detector should be of the size 13x17 
+inch or 34 x 42 cm. The detector should be wire less. The detector 
+image size should be atleast 2.3K x 2.8 K. The machine should have 
+detector storage compartment. The image viewing time after exposure 
+01 
+
+
+--- Page 11 ---
+Tender for Portable Digital X-ray 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+should not be more than 10 seconds.  
+ 
+Battery: The machine should run fully on battery and the battery charge 
+time should not be more than 6 hours from a normal 15A 230 V single 
+phase socket. After charging the machine should be capable of giving of 
+atleast 100 exposures. The battery should also provide power for the 
+motor to move the machine. If the battery is fully drained out the 
+machine should be ready to work on direct mains.  
+ 
+Workstation: The machine should have an integrated workstation with 
+a TFT monitor of 17-inch.touch screen. The workstation should enable 
+to view the image, and provide post processing features, using touch 
+screen. The post processing features should include, zoom, contrast and 
+brightness adjustment, storage of image with a memory of atleast 2000 
+images. The workstation should have organ programming module and 
+also soft keyboard for data entry 
+ 
+Connectivity: The machine should be fully network compliant and it 
+should be possible to transfer images and patient data from the Hospital 
+network using LAN connectivity and wireless LAN. Its should be 
+possible to recall earlier images and then transfer them to the network. 
+ 
+Miscellaneous: The machine should have a small footprint and should 
+not weigh more than 400kg. It should work on 230V single phase power 
+line. It should be easily movable even without the battery drive.  
+ 
+An Independent Workstation with all post processing and printing 
+facility should be quoted with storage capability of 10,000 or more 
+images with ability to review and report X Rays independent of main 
+console. 
+ High speed intel Xeon processor based (Z400 workstation) CPU 
+(3.0 GHz or higher processing speed) with post processing 
+capability 16 GB RAM or more 
+ Should have its independent memory and hard disk of atleast 1TB 
+ Should have a high-resolution medical grade LCD colour monitor of 
+19” or more. 
+ Image display matrix should be of high resolution, minimum of 1.5 
+K x 1.5 K 
+ Post-acquisition image processing, viewing, reprocessing, hard copy 
+documentation and onward transmission should be possible. 
+ Image processing functions like rotate, mirroring, zoom, move, and 
+windowing filter should be possible. There should be facility for 
+measurements. 
+ Should be connected to a dry chemistry Camera of 500 DPI or more. 
+ Multiformat printing should be possible with user selectable options. 
+ It should be possible to create alphabetical, date wise and exam 
+based, work list 
+ Work list should be auto refreshing  
+Accessories 
+1. Four light weight zero lead aprons of 0.5mm lead equivalence 
+with thyroid shield collar. 
+ 
+The machine should be FDA approved and should have CE 
+certificate. 
+
+

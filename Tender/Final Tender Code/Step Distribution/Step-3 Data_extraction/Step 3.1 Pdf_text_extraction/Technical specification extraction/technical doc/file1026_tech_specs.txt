@@ -1,0 +1,1054 @@
+--- Page 45 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+45
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION – VII  
+     Technical Specifications For Electrophysiology- Equipment for - Electrophysiology Lab 
+ 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 05 years against  manufacturing defect and 05 Year CMC 
+2. All instruments should be corrosion resistant, autoclavable, BIS/European CE certified/USFDA 
+approved.  
+3. Manufacturer should be ISO certified. 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly marking the 
+Quoted item and no. with a highlighter. 
+5. User manual should be in English.  
+6. Provision of trained manpower support for at least for initial 5 year after installation or up to a period 
+when the staff/technicians at AIIMS Raipur are trained in handling, storage and proper sterilization 
+methods of supplied equipment has to be ensured by the bidder. 
+7. Compliance statement should be submitted in a tabulated and point wise manner. 
+8. All the components of item under a particular serial no. will be purchased together from a single 
+vendor. If necessary demonstration will be taken to ensure product quality. 
+9. All firms should have supplied the quoted instruments to the reputed government hospitals like 
+AIIMS/PGI and should submit a certificate of satisfactory working from the concerned government 
+hospital. 
+10. Produce quality certificate required. 
+GENERAL SPECIFICATIONS OF Electrophysiology-Equipment for-Electrophysiology Lab- 
+LANGUAGE MAPPING INTRA-OPERATIVE Electrocorticography (256 channel) with built in 
+Cortical Stimulation, handle electric stimulation and evoked potential machine 
+Sl. No. 
+Description 
+Qty. 
+A 
+256 Channel Video EEG with Cortical Stimulator 
+1 
+ 
+Amplifier inputs : 256 channel  with 16 DC channels 
+Input Impedance : 200  M ohms -  1 GὨ 
+Sensitivity  : at least 1 to 1000 micro volt per mm 
+Noise : 1.5 to 1.8  UV 
+A/D Conversion : 24 
+Calibration Signal: Built in manual / automatic sine / square wave 
+calibration  
+CMRR: 110 dB 
+Low Filter Setting  (inclusive of ultra slow wave): Low filter: 0.05 Hz to 5 
+Hz 
+High Filter Setting (for HFO & ripples) wideband analysis & DC shift 
+analysis HFO detection with software to be provided: High Filter: 5 Hz to 3  
+KHz or above  
+Bandwidth : 0.01 Hz to 3 KHz (or 1/3rd of sampling rate selected) 
+Notch Filter : 50 Hz / 60 Hz 
+Input Range : +/- 3.2 mV  
+Impedance Check Range : 2-50 Kohm or above 
+Sampling Rate : 10 KHz or above 
+Reference Electrodes: Laplacian, A1®A2, A1¬A2, A1«A2, A1+A2, VX, 
+AV, BN, Aav, Org and SD 
+Auto Archiving of data to specified path:  
+ 
+
+
+--- Page 46 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+46
+ 
+ 
+Support specialized Laplacian montages 
+Superimpose traces for comparison (optional) 
+Allow fine-tuned playback of video synchronized with EEG to help view 
+and identify events with video recording software  allow zoom in and zoom 
+out 
+Facility for viewing several recordings in tiled or cascading windows. 
+ 
+Specifications for the Acquisition PCs. 
+ i5/i7 Based wall mounted monitor  
+8 GB RAM 
+1-2 TB HDD 
+Interface by LAN  
+Windows 10 O/S 
+Monitor Size 23 inches 
+UPS with 20 minutes back up 
+PORTABLE system  
+BW Printer Networked 1 review station 
+ 
+ 
+Specifications for the SERVER PC 1* in nos 
+Server : ProLiant ML350 Gen10 Tower Server or equivalent with - 1 x 
+Intel Xeon 2nd Gen Scalable Processor Bronze-3204 
+(1.90GHz/6C/8.25MB/85W) / 16GB (1x16GB) HPE Smart Memory-2TB 
+DDR4 RAM in 24 DIMM Slots ECC Memory Support / 4LFF, 3.5inch 
+Drive Bays with Embedded SATA cable Kit/ 1x 500W Power Supply, 21” 
+Monitor, Optical Mouse, Keyboard, Online UPS of compatible rating with 
+at least 45 minutes of power back up for PC. 
+ 
+ 
+Licensed Version of BESA Epilepsy EEG source localisation software for 
+Source Localisation 1 for each system, Facility for online fusion of MRI 
+with ESI training of this to be provided by a hands on workshop 
+ 
+ 
+Review and monitor live data simultaneously 
+Remotely monitor on one or multiple monitors and workstations 
+Highlight preserves the entire record while you click between marked areas 
+Band Power, Envelope Trend, Spectrogram and Spectral Entropy Trend 
+ 
+ 
+Review station: 1  review stations : 32 inch LED Screen of monitor to be 
+digitally caliberated and networked  with review software 1 each in each  
+must have facility to observe the seizure video and EEG  simultaneously 
+live. Review stations should be able to view the same time with only few 
+minutes lag. 
+ 
+ 
+Video Cameras 
+ 
+ 
+1.  Telemetry Bed camera portable and roof/wall mountable with built in 
+infrared with capability to acquire in 1080 pixels in HD video and auto-
+switching to infrared  Qty 01 
+2).  Full HD Camera complete with Infrared Illuminator with cable and 
+associated accessories with high configuration of the camera system 
+1 
+ 
+True Day/Night Mode  
+Auto-focus Zoom Lens pan & tilt  
+Optical zoom 20x. 
+Horizontal viewing angle 57.8 to 1.7 degrees  
+Minimum object distance upto 1500mm (tele)  
+Pan angle 340 degrees  
+CONDUCTING PASTE: 15-30 NOS. 
+NuPrep 114 gm   : 10-50 TUBES 
+Gold/Silver Cup EEG electrodes 10mm dia with 1.5-meter sturdy silicon 
+wire 500 pcs. 
+ 
+
+
+--- Page 47 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+47
+ 
+ 
+Pulse Oximetry Finger Probes Adult 6 pcs and Paediatric 2 pcs. 
+CORTICAL Stimulator   inbuilt in the system software digital access and 
+control  for motor cortex mapping 
+Current Range : +/‐  0.1 to 15 mA or more, 0.01 mA steps 
+Stimulus Mode : Mono, Bi‐Phasic, Alternating 
+Stim Pulse Width :  100 µS to 1000 µS (limited to the  maximum energy 
+per pulse) 
+Stim Train Length :  User specified: 0.2‐30 or more seconds 
+Frequency : 1 - 60 Hz or more 
+ 
+Digital Switch Matrix (Hardware and software to be included)- It will 
+allow to stimulate from any recording electrode rather than cortical  
+stimulator, allowing ease of switching of electrodes. 
+ 
+ 
+EEG and Video Data should be ported to an external storage media (PEN 
+drive/cd/dvd/hard disk) for reviewing in any PC with reformatting and 
+remontaging without the use of any additional software 
+ 
+ 
+It should have facility for acquisition and review mode by split screen and 
+at least 4 EEG review simultaneously 
+ 
+ 
+System should have multi window review facility to review same event in 
+different montages with simultaneous scroll. 
+ 
+ 
+System should have facility of integration of vital sign parameter i.e. 
+Capnography, temperature, BP. 
+ 
+ 
+System should be able to display individual traces or more on the screen 
+with a maximum sweep of 5 minutes per screen 
+ 
+ 
+Should have the option of viewing the data on any Windows based PC 
+without need of software 
+ 
+ 
+The system should have the following minimum features in-built as 
+standard acquisition, Review, Patient Data base, Data review during 
+acquisition, File Append, Montage Map, Note window in EEG, Portable 
+EEG data in CD 
+ 
+ 
+Programmable portable Automatic Photic Xenon/LED Stimulator 1 Stim 
+rate 0.5 to 60 Hz, Modes Automatic, Manual and Single, Duty cycle 5 min 
+continuous operation in 30 min and Stim and pause time of 1 to 60 seconds 
+or more  
+ 
+ 
+Amplifier and Patient Electrode connection box must be two separate 
+devices connected with cable so that least damage happens to amplifier 
+when mishandling of electrode connection box happens.There should be 
+automatic magnetic homing in of the cables and connectors with 
+intelliconnect  to any point of any channel of the montage with 
+autoconfiguration. 
+ 
+ 
+Facility to combine all user defined settings into templates or protocol, for 
+use in different applications 
+ 
+ 
+Facility for Individual Channel Control, Customization of Montages, along 
+with Remontage Capabilities 
+ 
+ 
+facility to display montage image and also of montage name in montage 
+selection list. 
+ 
+ 
+Facility to click any point to display corresponding traces & Slide pointer 
+to change displayed duration of the Overview 
+ 
+ 
+facility of automatic transfer of recorded data from recording station to 
+server/review station immediately after closing the study. 
+ 
+ 
+Facility for sortable list of all events placed in the recording, both 
+automatically and manually.  
+Facility to review and add events to recorded traces.  
+ 
+
+
+--- Page 48 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+48
+ 
+ 
+ Facility to choose Low & High Cut Filters.  
+User friendly marking of events during recording/review. 
+Split screen capabilities to view live as well as review data. 
+Complete digital control over sensitivity filter settings and photic 
+stimulator sequences. 
+Facility of configurable Time Base.  
+Paging facility as Automatic Paging, Mouse controlled Paging and/ or 
+Keyboard Paging.  
+Playback of EEG for one or more channels.  
+ Facility for Zoom/ Magnify EEG trace,  
+Facility for Automatic generation of reports. With complete available 
+updated software of autotyped terminologies and reports embedding  
+ Facility for viewing several recordings in tiled or cascading windows.  
+Waveforms freeze facility with simultaneous background recording. 
+ 
+ECG Elimination filters in both acquisition and review mode.  
+Hiding selected channels and different colors for each trace. 
+ Display modes: Overwrite and Page-by-page. 
+Video data editing capabilities with and without EEG data. 
+Should be connected through LAN 
+Network integration to hospital information and report networks. Facility 
+for online fusion of MRI with ESI 
+ Network supported patient and test management software for patient 
+administration, exam scheduling network connectivity, launch of data 
+acquisition, review. Should support multiple user support with 
+individualized settings.Networked to online imaging data and software of 
+the institute in the neuroradiology department for import of MRI for ESI. 
+Should be HIS/HL7 compliant. 
+Should have function for audit trail. 
+Should be able support multiple patient reviews simultaneously on a single 
+screen. 
+Should be able to generate report from any system with all patient data. 
+ Should have option for patient information transfer on the 
+network.Integrated facility for antivirus with free timely updates and also 
+free software update of EEG 
+ 
+ 
+Associated level 1 polysomnography software and electrodes and hardware 
+titration facility software/ hardware with a poly (cpapbipapavaps). tcCO2 
+optional  
+ 
+ 
+Automatic Spike & Seizure Detection Software 
+ 
+B 
+EPILEPSY SEEG DEPTH ELECTRODES & ANCILLARIES 
+ 
+ 
+1.1 Depth Electrodes - Standard (Ring Contact Size = 2 mm) 
+ 
+1.1.1 One-piece body construction. 
+1.1.2 Outer diameter (distal end) less than or equal to 0.8 mm. 
+1.1.3  Ring Contact Size = 2 mm for standard monitoring. 
+1.1.4  Platinum/Irridium contacts of different numbers as indicated below 
+in quantity. 
+1.1.5  Ability to perform bi-polar thermo coagulation. 
+1.1.6  Highly resistant to breaking. 
+1.1.7  Anchor bolt cap included with the electrode. 
+1.1.8   Sterile; single-use only 
+1.1.9 Sizes and Quantities required as below:- 
+ 
+1 
+5 CONTACT DEPTH ELECTRODE 
+20 
+2 
+5 CONTACT EXTENTION CABLE 
+5 
+
+
+--- Page 49 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+49
+ 
+ 
+3 
+8 CONTACT DEPTH ELECTRODE 
+20 
+4 
+8 CONTACT EXTENTION CABLE 
+5 
+5 
+10 CONTACT DEPTH ELECTRODE 
+25 
+6 
+10 CONTACT EXTENTION CABLE 
+4 
+7 
+12 CONTACT DEPTH ELECTRODE 
+25 
+8 
+12 CONTACT EXTENTION CABLE 
+4 
+9 
+15 CONTACT DEPTH ELECTRODE 
+10 
+10 
+15 CONTACT EXTENTION CABLE 
+2 
+11 
+18 CONTACT ELECTRODE   
+10 
+12 
+18 CONTACT EXTENTION CABLE 
+2 
+ 
+GUIDANCE SCREW 
+ 
+13 
+30mm guidance screw, pack of 10 
+2 
+14 
+35mm guidance screw, pack of 10 
+2 
+15 
+Stylet with stopper - OD 0.8mm L>120mm 
+5 
+ 
+Coagulation electrode 
+ 
+16 
+30mm straight coagulation electrode 
+2 
+17 
+Drill SEEG L=250 
+10 
+18 
+THERMAL COAGULATOR (CONNECTING BOX) 
+ 
+a) Able to connect depth electrodes with any compatible RF Generator or 
+any compatible EEG monitor 
+b) Ability to transmit electric current with minimal alteration from the RF 
+generator to 2 contiguous contacts of a depth electrode for coagulation 
+c) Ability to allow the quick and efficient selection of the 2 contiguous 
+contacts between which the coagulation is due. 
+d) Ability to transmit the EEG signal with a minimum of change from the 
+connector to the EEG output connector. 
+e) Portable 
+f) 2 functioning modes are available: COAG and EEG• 
+1 
+19 
+Epilepsy Lesion Electrodes for Brain Lesioning 
+ 
+1 
+Brain Lesion Electrodes, Shaft length: 300mm , Gauge: 16 Ga., Tip :5mm 
+1 
+2 
+Brain Lesion Electrodes, Shaft length: 300mm , Gauge: 16 Ga., Tip :3mm 
+1 
+3 
+Disposable Corded Patient Plate , box of 50  
+2 
+4 
+Smart Intermediate Cable  
+2 
+5 
+Adaptor  
+2 
+ 
+Manufacturer should be USFDA/European CE Certified 
+ 
+ 
+All Items should be quoted and no partial offer will be entertained 
+ 
+ 
+All the above items will be procurred as a set. 
+ 
+ 
+OPTIONAL ACCESSORIES (PRICES SHOULD BE QUOTED SEPARATELY) 
+ 
+ 
+5 contacts depth electrode 
+ 
+ 
+8 contacts depth electrode 
+ 
+ 
+10 contacts depth electrode 
+ 
+ 
+12 contacts depth electrode 
+ 
+ 
+15 contacts depth electrode 
+ 
+ 
+18 contacts depth electrode 
+ 
+ 
+3x5 contacts sp. 7mm depth electrode 
+ 
+ 
+3x5 contacts sp. 11mm depth electrode 
+ 
+ 
+3x6 contacts sp. 11mm depth electrode 
+ 
+ 
+HIGH RESOLUTION DEPTH ELECTRODES:- 
+ 
+ 
+12 contacts high resolution electrode step 2mm 
+ 
+ 
+15 contacts high resolution electrode step 2mm 
+ 
+
+
+--- Page 50 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+50
+ 
+ 
+ 
+18 contacts high resolution electrode step 2mm 
+ 
+ 
+Micro Macro Range Depth Electrodes 
+ 
+ 
+Micro-macro depth electrode - 5 macro & 9 micro contacts Type 6 
+ 
+ 
+Micro-macro depth electrode - 8 macro & 6 micro contacts Type 6 
+ 
+ 
+Micro-macro depth electrode - 8 macro & 9 micro contacts Type 6 
+ 
+ 
+Extension cable 
+ 
+ 
+5 contacts braided extension cable 
+ 
+ 
+8 contacts braided extension cable 
+ 
+ 
+10 contacts braided extension cable 
+ 
+ 
+12 contacts braided extension cable 
+ 
+ 
+15 contacts braided extension cable 
+ 
+ 
+18 contacts braided extension cable 
+ 
+ 
+9+9 contacts Braided/shielded cable for micro-macro electrodes 
+ 
+ 
+Guidance screws 
+ 
+ 
+15mm guidance screw 
+ 
+ 
+20mm guidance screw 
+ 
+ 
+25mm guidance screw 
+ 
+ 
+30mm guidance screw 
+ 
+ 
+35mm guidance screw 
+ 
+ 
+10mm short guidance screw 
+ 
+ 
+15mm short guidance screw 
+ 
+ 
+20mm short guidance screw 
+ 
+ 
+25mm short guidance screw 
+ 
+ 
+30mm short guidance screw 
+ 
+ 
+  
+ 
+ 
+Stylet with stopper - OD 0.8mm L>120mm 
+ 
+ 
+  
+ 
+ 
+SEEG ruler 
+ 
+ 
+Ancillaries for guidance screws 
+ 
+ 
+Short screwdriver 
+ 
+ 
+Long screwdriver 
+ 
+ 
+Wrench 
+ 
+ 
+Short screwdriver for short guidance screw 
+ 
+ 
+Long screwdriver for short guidance screw 
+ 
+ 
+Wrench for short guidance screw 
+ 
+ 
+Screwdriver for short guidance screw cap 
+ 
+ 
+Clamp 
+ 
+ 
+Coagulation electrode 
+ 
+ 
+30mm straight coagulation electrode 
+ 
+ 
+20mm conical coagulation electrode 
+ 
+ 
+Drills 
+ 
+ 
+Drill SEEG L=200 
+ 
+ 
+Drill SEEG L=200 conical tip 
+ 
+ 
+Drill SEEG L=200 conical H06 
+ 
+ 
+Drill SEEG L=250 
+ 
+ 
+Drill with fixed guide and stopper - OD 2.9mm Length 250mm 
+ 
+ 
+Drill with fixed guide and stopper - OD 4.0mm Length 250mm 
+ 
+ 
+Drill L=LLL - OD body 2.45mm - cut OD 2.45 long 14mm straight 
+ 
+ 
+Drill L=LLL - OD body 2.50mm - cut OD 2.50 long 14mm straight 
+ 
+ 
+Drill L=LLL - OD body 2.50mm - cut OD 2.50 long 20mm straight 
+ 
+ 
+Hexagonal bit 
+ 
+
+
+--- Page 51 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+51
+ 
+ 
+ 
+Reusable Electrodes to be used in SEEG procedures 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 21 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 21 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 21 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm.  Gauge: 21 Ga.. Tip:5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 20 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm  Gauge: 20 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm  Gauge: 20 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm  Gauge: 20 Ga.. Tip:5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm Gauge: 19 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 19 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 19 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm.  Gauge: 19 Ga.. Tip:5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 18 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 18 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 18 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 18 Ga.. Tip:5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 17 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 17 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm.  Gauge: 17 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 17 Ga.. Tip:5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm.Gauge: 16 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 16 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm. Gauge: 16 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 190 mm.  Gauge: 16 Ga.. Tip:5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 21 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 21 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 21 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 21 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 20 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 20 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 20 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 20 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 19 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 19 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 19 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 19 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 18 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 18 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 18 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mmGauge: 18 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+
+
+--- Page 52 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+52
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 17 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 17 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 17 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 17 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 16 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm.  Gauge: 16 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 16 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 250mm. Gauge: 16 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm. Gauge: 19 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm.  Gauge: 19 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm. Gauge: 19 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm. Gauge: 19 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm. Gauge: 18 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm.  Gauge: 18 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm.  Gauge: 18 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm Gauge: 18 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm.  Gauge: 17 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm.  Gauge: 17 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm. Gauge: 17 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm. Gauge: 17 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm. Gauge: 16 Ga.. Tip: 2mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm.  Gauge: 16 Ga.. Tip: 3mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm. Gauge: 16 Ga.. Tip: 4mm 
+ 
+ 
+Brain Lesion Electrodes. Shaft length: 300mm. Gauge: 16 Ga.. Tip: 5mm 
+ 
+ 
+ 
+ 
+ 
+Reusable Trigeminal Electrodes 
+ 
+ 
+Gasserian Ganglion RF Probe/Temperature Sensor. Includes: Electrode 
+ 
+ 
+Gasserian Ganglion Straight Lesion Electrode/RF Probe 
+ 
+ 
+Gasserian Ganglion Curved Lesion Electrode/RF Probe 
+ 
+ 
+GASSERIAN GANGLION R.F. INSULATED CANNULA for use with Trigeminal RF 
+probes 
+ 
+ 
+GASSERIAN GANGLION RF FULLY INSULATED CANNULA for use with Straight and 
+curved Trigeminal Probes 
+ 
+ 
+ 
+ 
+ 
+Reusable DREZ Electrodes 
+ 
+ 
+DREZ Lesion Electrode with 2mm exposed tip. 0.4mm diameter. includes: 
+Electrode. Protector Tube 
+ 
+ 
+  
+ 
+ 
+Corded GD-pads. box of 50 
+ 
+ 
+Non-Corded GD-pads. box of 250 
+ 
+ 
+Adaptor Cable  
+ 
+ 
+Firm may be called for demonstration if required 
+ 
+ 
+ 
+ 
+
+
+--- Page 53 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+53
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the TE 
+document for complete equipment (including Batteries for UPS, other vacuumatic 
+parts wherever applicable) Warranty period will be 5 years from the date of 
+installation, commissioning and Site Modification Work from the date of 
+satisfactory installation, commissioning, trial run & handing over of equipment to 
+Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty period 
+by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) basis. 
+c) All software updates should be provided free of cost during Warranty period. 
+2. After Sales Service: 
+After 
+sales 
+service 
+centre 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service should 
+be provided directly by Tenderer/Indian Agent. Undertaking by the Principals that the 
+spares for the equipment shall be available for at least 10 years from the date of 
+supply. 
+3. Training: 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ Indian 
+Agents (if they have the requisite know-how) for operation and maintenance of the 
+equipment to the satisfaction of the consignee. The same will be in line with the 
+training modalities as specified in general technical specification. 
+4. Annual Comprehensive Maintenance Contract (CMC) of subject equipment with Site 
+Modification Work: 
+a) The cost of Comprehensive Maintenance Contract (CMC) which includes 
+preventive maintenance including testing & calibration as per technical/ service 
+/operational manual of the manufacturer, labour and spares, after satisfactory 
+completion of Warranty period may be quoted for next 5 years on yearly basis for 
+complete equipment (including Batteries for UPS, other vacuumatic parts 
+wherever applicable) and Site Modification Work (if any). The supplier shall visit 
+each consignee site as recommended in the manufacturer‟ s technical/ service 
+/operational manual, but at least twice in six months (i.e. 4 preventive 
+maintenance/ year) apart from all breakdown visits, during the CMC period 
+b) The cost of CMC may be quoted along with taxes applicable on the date of Tender 
+Opening. The taxes to be paid extra, to be specifically stated. In the absence of 
+any such stipulation the price will be taken inclusive of such taxes and no claim 
+for the same will be entertained later. 
+c) Cost of CMC will be added for Ranking/ Evaluation purpose. The same will be 
+taken at Net Present Value with a 10% discounting factor each year. 
+d) The payment of CMC will be made on six monthly basis after satisfactory 
+completion of said period, duly certified by end user on receipt of bank guarantee 
+for 3% of the cost of the CMC as per Section XV valid till 2 months after expiry of 
+entire CMC period. 
+e) There will be 95% uptime warranty during CMC period on 24 (hrs) X 7 (days) X 
+365 (days) basis, with penalty, to extend CMC period by double the downtime 
+period. 
+f) 
+During CMC period, the supplier is required to visit at each consignee‟ s site at 
+least twice in 6 months (i.e. 4 preventive maintenance/ year) apart from all 
+breakdown visits, commencing from the date of the successful completion of 
+warranty period for preventive maintenance of the goods. 
+g) All software updates should be provided free of cost during CMC. 
+h) Failure of the above [4. e) to 4. g)] by the supplier, may lead to the forfeiture of the 
+
+
+--- Page 54 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+54
+ 
+ 
+Bank Guarantee for Annual CMC. 
+i) 
+The payment of CMC will be made as stipulated in GCC Clause 21. 
+
+
+--- Page 55 ---
+                                                                  
+                                             Tender No. AIIMS/R/CS/Neuro/1173/23/GTE/A 
+ 
+55
+ 
+ 
+5. Site Modification Work: 
+Site Modification Work is indicated in the technical specification of the respective items, 
+wherever required. The Tenderer shall examine the existing site where the equipment is to 
+be installed, in consultation with HOD of Hospital/Institution/Medical College concerned. 
+Site Modification Work details of each Hospital/Institution/Medical College are given at the 
+end of Technical Specification. The Tenderer to quote prices indicating break-up of prices of 
+the Machine and Site Modification Work of each Hospital/Institution/Medical College. The 
+Site Modification Work costs to be quoted in Indian Rupee will be added for Ranking 
+Purpose. 
+The taxes to be paid extra, to be specifically stated. In the absence of any such stipulation 
+the price will be taken inclusive of such duties and taxes and no claim for the same will be 
+entertained later. 
+The Site Modification Work should completely comply with AERB requirement, if any. 
+Note 1: Tenderer‟ s attention is drawn to GIT clause 18 and GIT sub-clause 11.1 A (iii). 
+The tenderer is to provide the required details, information, confirmations, etc. 
+accordingly failing which it‟ s tender is liable to be ignored. 
+Note 2: General: Bidders are requested to make sure that they should attach the list of 
+equipment for carrying out routine and preventive maintenance wherever asked 
+for and should make sure that Electrical Safety Analyzer / Tester for Medical 
+equipment to periodically check the electrical safety aspects as per BIS Safety 
+Standards IS-13540 which is also equivalent to IEC electrical safety standard 
+IEC- 60601 is a part of the equipment s. If the Electrical Safety Analyzer/Tester is 
+not available they should provide a commitment to get the equipment checked for 
+electrical safety compliance with Electronic Regional Test Labs / Electronics Test 
+and Development Centres across the country on every preventive maintenance 
+call. 
+Note 3: Adequate training of personnel and non-locked open software and standard 
+interface interoperability conditions for networked equipment in hospital 
+management information system (HMIS). 
+The successful tenderer will be required to undertake to provide at his cost 
+technical training for personnel involved in the use and handling of the equipment 
+on site at the institute immediately after its installation. The company shall be 
+required to train the institute personnel onsite for a minimum period of 1 month 
+All software updates should be provided free of cost during warranty period and 
+CMC period 
+
+

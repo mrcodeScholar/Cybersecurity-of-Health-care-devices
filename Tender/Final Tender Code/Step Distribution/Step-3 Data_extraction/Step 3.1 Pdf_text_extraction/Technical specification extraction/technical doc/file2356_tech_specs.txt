@@ -1,0 +1,186 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology/ 456 /2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+ 
+ 
+ SPECIFICATION FOR  FOR WEIGHT BEARING MRI WITH TILTING HYDROLIC MAGNET MECHANISM 
+FROM 00 – 900 FOR MSK MRI for Radiology Department. 
+These specs are for dedicated musculoskeletal MRI system. The MRI should cover all applications: 
+foot/ankle, knee, hip L&C spine,head screening , shoulder, elbow, and hand/wrist. The magnet can be 
+tilted from the horizontal to vertical position which enables the imaging of the patient in the weight 
+bearing position, which allows visualizing the actual condition of the pathologies.  
+ 
+THE SYSTEM SHOULD MEET THE BELOW MENTION SPECIFICATION 
+1. MRI system 
+ 
+MRI system should have Tilting, Weight-Bearing MRI functionality for C spine, L spine ,shoulder, 
+and lower extremities and routine MRI examinations for all extremities.  
+ 
+MRI system should have complete system, magnet, electronics and console can be installed in a 
+single room of 28 m2 
+ 
+Total system weight of the magnet  not exceeding 9000 Kg. (19841 lbs) 
+ 
+The system must be capable of performing supine , sitting (C spine)and standing MRI and should 
+be based on magnet tilting mechanism. 
+ 
+System operation should be free of consumable gas. 
+ 
+The open permanent magnet should not consume than 5KVA of power in normal 220/110V 
+power outlet. 
+ 
+2. Magnet systems 
+ 
+MRI system should have Open design C type permanent magnet system enabling MRI 
+examinations also of claustrophobic patients.  
+ 
+Tilting/rotating Magnet design for the study of the joints and of the most important spine 
+segments.   
+ 
+The strength of the open permanent magnet should be at least 0.25 Tesla field or more. 
+ 
+MRI system should have real time positioning display on the magnet. 
+ 
+3. Gradient system: 
+ 
+ System should offer Gradient Strength of  at least 15mT/m , Gradient Rise Time from -20mT to 
+20mT of the magnet should be  less than  1 msec and Gradient Slew Rate  of at least 40  
+mT/m/ms. 
+  
+4. Radiofrequency system:Coils 
+ 
+The MRI system should be offered with the complete set of dedicated optimized coils. 
+ 
+The MRI system should have receiving coils with automatic recognition; 
+ 
+Coils should have the ability for the true anatomical position and multi angle position. 
+ 
+Dedicated coils for every anatomical MSK district as mentioned below  
+o C spine routine & with flexion/extension 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology/ 456 /2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+o Lumbar spine multichannel  
+o Shoulder, Elbow, Wrist & hand, knee, Ankle, Foot, Hip joint. 
+o Head screening if possible should be quoted optional  
+o Spine quantitative analysic tool  
+o Dynamic MRI tool   
+ 
+ 
+5. Computer system: 
+ 
+The console computer should have  12 GB RAM or higher and with, at least, a 512GB hard or 
+higher disk drive; 
+ 
+CD/DVD R/W archiving system. 
+6. Operating console: 
+ 
+The MRI system should have Monitor specifications: color LCD panel, TFT 24" or more with high 
+resolution; 
+ 
+User access: ergonomic and Windows-like operator interface. 
+7. Image acquisition:  The system should have as mentioned below 
+ 
+Oversampling technique for increasing the quality of the image; 
+ 
+Offered with Full set of sports medicine MSK pre-defined sequences and protocols. 
+ 
+User defined sequences and with customized examination protocols. 
+ 
+Required Sequences: 
+o Spin-Echo,  
+o Spin-Echo Half Echo,  
+o Spin-Echo Half Scan,  
+o Half Fourier, 
+o Turbo Spin-Echo,  
+o Multi-Echo,  
+o Turbo Multi-Echo; 
+o Inversion Recovery; 
+o Short Time Inversion Recovery; 
+o Short Time Inversion Recovery Gradient Echo; 
+o Gradient Echo; 
+o Turbo Spin-Echo; 
+o Fast Spin-Echo; 
+o 3D sequences Hybrid Contrast Enhanced; 
+o Fast STIR; 
+o Sequences with Dixon reconstruction (water and fat suppression) X bone T1/T2; 
+o Turbo 3D T1; 
+o Steady state sequences: HYCE, SHARC, SST1, SST2 
+o Real Time; 
+ 
+Should have Software for cinematic acquisition;  
+ 
+Should have MAR technology (Metal Artifacts Reduction) 
+ 
+Should have TR reduction, Speedup technology, Geometric distortion correction method  
+ 
+Should have Minimum Slice thickness:  
+o From 4mm in 2D; 
+o From 1mm in 3D. 
+ 
+Should have Acquisition matrix: from 128x128 to 512x512. 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology/ 456 /2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+ 
+8. Processing system and operator interface: 
+ 
+Should have Control panel located on the magnet with real time management of acquisitions and 
+facilitating patient positioning easier. 
+ 
+Image processing: 
+o Reconstruction time: should not exceed 10 minutes; 
+o Registration, transparency and difference functions. 
+9. Patient table:  
+ 
+Should have Large Ergonomic patient table for maximum comfort. 
+ 
+Should have Patient positioning and fixation suitable for Weight-Bearing MRI 
+10. Image hardcopy :  
+ 
+Should have connectivity to the  DICOM printer 
+11. Image transfer & networking :  
+ 
+Should have connectivity to the DICOM/ Networked storage servers/PACS. 
+12. Image storage and archiving 
+ 
+Should have Possibility to create patient CD/DVD including viewer 
+ 
+Should have internal at least 256 GB hard disc  
+ 
+Local archiving system : hardware and software functionality for management of a local 
+independent archive & retrieve, independently from PACS (local PACS function).  
+  
+      14.Post installation technical support and service: 
+1. MRI Should be quoted with  1 year warranty and 4 years of CMC  
+2. Facility for software up gradations free of cost during CMC  period  
+13. Company should provide CE / USFDA certificate. 
+ 
+ 
+14. THE MRI Project should be offered with following turnkey arrangements:  
+ 
+                         Turnkey  (Scope of work) 
+A CIVIL 
+ 
+A-MAGNET & CONSOLE ROOM:    
+1-Site survey for AC, DC noise and vibration test at Proposed site will be performed before quoting the tender 
+and after tender awarded. 
+2-Floor leveling in magnet room. 
+3-Radio Frequency testing of RF cage will be performed after making the cage and certificate of the same will be 
+released. 
+ 
+
+

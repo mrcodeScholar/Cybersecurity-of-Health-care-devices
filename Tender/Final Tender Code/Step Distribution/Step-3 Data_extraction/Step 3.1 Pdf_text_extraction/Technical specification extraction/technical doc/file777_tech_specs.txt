@@ -1,0 +1,182 @@
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/URO/19/106/OT 
+ 
+ 
+Page 17 of 22 
+ 
+ANNEXURE-I 
+Technical Specification 
+Sl. 
+No. Item Descriptions 
+1 
+ 
+Technical specification of Advanced Electrosurgical Unit: 
+ 
+1. An integrated system of Electrosurgical generator with Monopolar, Bipolar energy 
+delivery features in a single generator. 
+2. Maximum Output Power: 300 W or better 
+3. The system should be micro-processor controlled which should identify the tissue type 
+with an impedance feedback on real time basis and adjust the output power to get the desired 
+surgical effects on the tissue. 
+4. Number of Electrosurgical Mode Outputs: System should have at least two monopolar 
+outputs & one bipolar output. 
+5. Energy Output Controls & Settings: 
+A. Screen display (Touch Screen/ LCD display with soft keys/knobs) for Monopolar & 
+Bipolar energy effect controls. 
+B. Energy settings can be modified according to need. 
+6. Minimum RF Output Modes: 
+A. “Monopolar CUT” Modes: 
+i) PURE CUT: provides a clean, precise cut in any tissue with little or no haemostasis. 
+ii) BLEND CUT: conventional blended waveform that provides slower cutting with 
+simultaneous haemostasis. 
+iii) SOFT CUT: precise and smooth cutting specifically for the use with wire or needle 
+electrodes. 
+B. “Monopolar COAG” Modes: 
+i) SOFT/ CONTACT COAG: desiccates tissue at a relatively slower rate with deeper thermal 
+penetration typically performed with a ball electrode. 
+ii) FULGURATION/ FORCED PREP: coagulates tissue by sparking from the active 
+electrode, through air to the patient tissue. 
+iii) SPRAY: non-contact surface coagulation with shallow penetration & the affected tissue 
+area is larger than with the FULGURATION mode. 
+iv) IMPROVED HAEMOSTASIS/ URO COAG: It should deliver modified energy for 
+improved haemostasis; more efficient dissection & less tissue drag compared to traditional 
+Coagulation Mode. 
+C. Bipolar Output Modes: 
+i) LOW/ MICRO COAG: It delivers low-voltage output for precise control of the amount of 
+desiccation typically used with small-surface area instruments. 
+ii) STANDARD/ MACRO COAG: It is a conventional bipolar output typically used with 
+medium-surface area electrodes. 
+iii) HIGH/ NEPTUN: Power remains constant over a wide range of tissue types and may be 
+used for large electrodes. 
+D. Auto Bipolar Mode: Automatically senses tissue impedance between the two bipolar 
+electrodes with contact of any material, then uses the impedance information to automatically 
+start or stop bipolar energy delivery. 
+7. Foot Controls: 
+A. System should have separate monopolar & bipolar foot pedals. 
+B. Should have an option of enabling or disabling the footswitches. 
+8. Patient Return Electrode Contact Quality Monitoring System: When the measured 
+Contact Resistance exceeds the standard range of safe resistance or when the measured 
+contact resistance increases above a threshold over the baseline, the alarm is activated and 
+energy output is disabled for patient safety. 
+
+
+--- Page 18 ---
+NIT No. : AIIMS/R/CS/URO/19/106/OT 
+ 
+ 
+Page 18 of 22 
+ 
+9. Audio-Visual Indicators & Alarms: 
+A. Should have system status indicators such as self-test, ready for use etc. 
+B. Should have different visual indicators with audible activation tones for different energy 
+mode settings. Activation tone volume should be user adjustable. 
+C. Alarm for “patient return electrode monitoring system” error. 
+D. System should have attached instruments status indicator. 
+E. Should have system error indicator. 
+10. The unit should have temperature sensing cooling system, which should operate 
+automatically to protect generator from thermal damage. 
+11. Upgradation facility: 
+A. System should be updatable &upgradable by updating required software. 
+B. System should have RS232/ USB/ Ethernet port or any other computer connectivity for on 
+field software upgrades and serviceability. 
+12. Connection to External Systems: 
+A. Should have Interlink cable ports (RS232/ equivalent ports) to provide to signal other 
+devices for integration. 
+B. Should be compatible for integration with following external systems: 
+i) Smoke Evacuation Unit (with automatic function synchronised with activation of ESU). 
+ii) Argon Plasma Coagulator 
+iii) Integration with existing integrated OR system, Karl Storz OR1™ installed in Urology 
+OT of the institute. 
+iv) Integration with Robotic Instruments. 
+13. Should be compact and light weight, weighing less than 12 kg for installation on 
+Operating Room ceiling mounted boom system. 
+14. Input Power Requirement: 
+A. Input Power: 220–240 VAC, Power Cable minimum 5 meters long with 6A three pin 
+plug. 
+B. Backup Power: Should continue to operate normally within specifications with no errors 
+or system failures when transfer is made between Mains AC line and an emergency hospital 
+backup power source during power failure. 
+15. Environmental Parameters: 
+A. Transport and Storage: Temp range: -10 to +60 degree C, RH range: 15% to 90%. 
+B. Operation: Temp range: 10 to 40 degree C, RH range: 30% to 75%. 
+16. System should be BIS/ European CE with four-digit certificate no./ US FDA 
+approved for the intended use. 
+17. Electrical Safety: 
+A. Leakage Currents and Patient Auxiliary Currents (IEC 60601-1): 
+i) Device must be tested for Touch Current, Earth Leakage Current, Patient Auxiliary Current 
+& Total Patient Leakage Current under Normal Condition and Single Fault Condition (as 
+defined in IEC 60601-1).  
+ii) It should meet all pertinent clauses of IEC 60601-1 latest edition. 
+iii) Testing certificate must be attached from a reliable standard testing laboratory for 
+the supplied electrosurgical unit at the time of delivery. 
+iv) Earth Leakage Current:  
+-absolute upper limit of 500 µA (Normal condition).  
+-absolute upper limit of 1000 µA (Single Fault Condition).  
+v) Touch current: 
+- absolute upper limit of 100 µA (Normal condition). 
+- absolute upper limit of 500 µA (Single Fault Condition). 
+vi) Patient leakage current: must comply to clauses of IEC 60601-1 latest edition. 
+B. High Frequency Leakage (IEC 60601-2-2):  
+- It should meet all pertinent clauses of IEC 60601-2-2 latest edition. 
+- Testing certificate must be attached. 
+C. Protection Class I Equipment (IEC 60601-1): 
+
+
+--- Page 19 ---
+NIT No. : AIIMS/R/CS/URO/19/106/OT 
+ 
+ 
+Page 19 of 22 
+ 
+- Accessible conductive parts cannot become live in the event of a basic insulation failure 
+because of the way in which they are connected to the protective earth conductor. 
+D. Application part Type CF Equipment/Defibrillator Proof (IEC 60601-1, IEC 60601-
+2-2 and equivalent standard): 
+- Should have high degree of protection against electric shock regarding allowable leakage 
+currents. Can be used for procedures involving the heart. 
+18. Ingress Protection (IEC 60601-1 & IEC 60601-2-2): IP21 or better. 
+19. Electromagnetic Compatibility (IEC 60601-1-2 and IEC 60601-2-2):  
+- Should complies with the appropriate IEC 60601-1-2 and 60601-2-2 specifications 
+regarding electromagnetic compatibility. 
+20. Electrosurgical Unit Accessories: 
+A. Monopolar Foot switch: Qty.01 
+B. Bipolar Foot switch: Qty.01 
+C. Universal active adaptor: Qty.01 
+D. Monopolar accessories: 
+i). Monopolar Cord for Bugbee electrode/ Laparoscopy instruments: Qty.02 
+ii). Electrosurgical Pencils: Qty. 10 
+iii). Electrosurgical Electrodes, Blade-tip: Qty. 10 
+E. Patient Return Electrodes: Single use, corded patient return electrodes: Qty. 10 
+F. Bipolar accessories: 
+i). Bipolar cord for bipolar forceps: Qty.02 
+ii). Reusable Bipolar Straight Forceps, 12-14cm, (Tip: 0.5-0.6mm): Qty. 02 
+iii). Reusable Bipolar Straight Forceps, 15-17cm, (Tip: 0.6-0.7mm): Qty. 02 
+21. All equipment should be mounted on lockable four wheel based cart manufactured 
+by the original equipment manufacturer (OEM). 
+22. General Requirements: 
+i) All quoted equipments, instruments & accessories must be from a single 
+manufacturer. 
+ii) Along the Bid all the firms are required to submit copy of manufacturer catalogue 
+with clear marking of each quoted item and catalogue No. with a highlighter to avoid 
+discrepancy.  
+iii) Warranty: Five years from the date of installation (including all spares and labour). 
+iv) CMC: For 6th to 10th year, after expiry of warranty period (including all spares and 
+labour). 
+v) All firms should have supplied the quoted equipments & instruments to AIIMS/ PGI/ 
+JIPMER/ SGPGI or other central institutes and should submit a certificate of satisfactory 
+working from the concerned Govt. Hospital. 
+23. Demonstration of bipolar instruments if required during evaluation. 
+24. All required quality & electrical safety testing certificates, brochures, user manual, 
+service manual & safety checklists & required maintenance schedule must be supplied in 
+original during installation. 
+ 
+Instructions for Online Bid Submission: 
+The bidders are required to submit soft copies of their bids electronically on the CPP Portal, using 
+valid Digital Signature Certificates. The instructions given below are meant to assist the bidders in 
+registering on the CPP Portal, prepare their bids in accordance with the requirements and submitting 
+their bids online on the CPP Portal.  
+More information useful for submitting online bids on the CPP Portal may be obtained at: 
+https://eprocure.gov.in/eprocure/app. 
+REGISTRATION 
+
+

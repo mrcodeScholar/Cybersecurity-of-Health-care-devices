@@ -1,0 +1,268 @@
+--- Page 10 ---
+Tender for 4K Ultra High Definition Laparoscopy Imaging System with ICG compatibility 
+Admn/Tender/39/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+4K Ultra 
+High 
+Definition 
+Laparoscop
+y Imaging 
+System 
+with ICG 
+compatibilit
+y    
+A 4K Ultra High Definition Laparoscopic Imaging system will consist of 
+the following items: 
+ 
+All items should be Medical Grade. It should provide 4 times more 
+information than Conventional Full HD imaging system. The complete 
+optical chain should be 4K for optimized imaging. 
+ 
+1. Full 4K video image processor 
+2. Powerful 300W Xenon light source 
+3. Light Guide Cable 
+4. 4K camera head 
+5. 31” or more 4K – UHD medical grade monitor 
+6. Ultra Telescopes  
+7. High Flow 45 litres insufflator  
+8. Image management system 
+9. Trolley 
+10. UPS (ISO certified) 
+ 
+01) 
+Full 4K High Definition Video Image processor: 
+i. 
+A full 4K high definition video processor should have native 
+resolution of 4096 x 2160 pixels system with facility for ICG 
+fluorescence guided imaging by near infra-red light - Quantity-1    
+a) Should also provide 3840 x 2160 or 1920 x 1080 should also be 
+selectable (Should provide both 4K output and HD output) 
+b) Video processor & Monitor having BT 2020 video format to display 
+true 4K color format. 
+c) Should have touch panel operation for easy control 
+d) Should provide colour gamut of ITU-BT2020  
+e) Should have AE (Automatic Exposure) – Iris function. 
+f) Picture in picture visualization modes 
+g) System settings should be held in memory even after video system 
+processor is switched OFF. 
+h) Should have compatibility for selecting 3G-SDI or HD-SDI signal 
+output (transmission method). 
+i) System should be ready to be used with video choledocoscope or 
+other flexible endoscopes. 
+ 
+02)   Powerful 300W or more Xenon Light Source or Equivalent: 
+i. 
+Should be compatible with 4K system and for fluorescence imaging 
+for ICG application- Quantity 1 
+a) A Powerful 300 Watt Xenon Lamp with emergency lamp facility 
+b) Automatically adjusts light intensity to achieve ideal illumination 
+c) Built-in special filter for early cancer detection 
+d) Backlit front panel indicators. 
+e) 300W Xenon light source with emergency spare lamp having " NBI 
+technology" or equivalent. 
+f) Automatic switching to emergency lamp 
+ 
+ 
+03) Light Guide Cable: 
+i. 
+Should be compatible with existing working 4K Ultra High 
+Definition Laparoscopic   System and for ICG applications- 
+01 
+
+
+--- Page 11 ---
+Tender for 4K Ultra High Definition Laparoscopy Imaging System with ICG compatibility 
+Admn/Tender/39/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+Quantity 2 
+a) High Resistance protection tube and must be autoclavable 
+b) Reduced diameter (4mm) with high fiber density and 300cm in 
+length. 
+c) Small bending radius for comfortable use 
+d) Should be ROHS compliant. 
+ 
+04)  Full 4K Camera head: 
+a) Camera head should incorporate optical fiber transmission 
+providing 4K resolution through thin cable. 
+b) System should have facility for optical contrast differentiation 
+system and it should have special filter for observation of capillary 
+vessels and fine patterns in the superficial layer of mucosa for early 
+detection of lesions. 
+c) Should have Xmor-R CMOS sensor providing high sensitivity and 
+less noise for clear image 
+d) Should provide One-touch Auto focus function 
+e) Should provide electronic Zoom Function (button controlled) – x 
+2.0 electronic zooming in 6 steps (x1.0, x1.2, x1.4, x1.6, x1.8, x2.0) 
+f) Should be immersible in disinfectant solution and sterilization 
+through ETO  
+g) Should have focal length f = 18 mm or more 
+h) Capable of displaying ICG application 
+ 
+05)    4K Medical Grade Monitor:  
+a) 4K medical grade 31 inch or more UHD LCD/LED backlit monitor 
+with ultra -high definition resolution 3840x2160.  
+- 
+Compatible with all processor of displaying 4K and ICG 
+application  
+b) Should have multi-image display format 
+c) Picture-out-picture and flip pattern to rotate the image. 
+d) Should have various input/output terminals, including 3G/HD/SD 
+SDI, DVI-D, BNC (x5) and HDMI. 
+e) Monitor should have Opti-contrast Panel providing higher contrast 
+image and less color blurring. 
+ 
+06) 
+Ultra Telescope: 
+a) 4K Ultra Telescope having ED glass lenses for distortion free and 
+razor sharp images, with wide field of view and fully autoclavable 
+b) Compatible for both 4K and ICG application 
+c) 10mm - 0 degree and 30 degree; Working Length: 290mm and 
+above  
+d) 5mm - 0 degree and 30 degree; Working Length: 290mm and above 
+e) Homogenous light distribution in the peripheral region. 
+f) Eyepiece type connection – for uniform compatibility. 
+ 
+Quantity Required:  
+1) 5mm Ultra Telescope 0 degrees - 1 No. 
+2) 5mm Ultra Telescope 30 degree - 1 No 
+3) 10mm Ultra Telescope 0 degrees -1 No. 
+4) 10 mm Ultra Telescope 30 degree - 2 No 
+ 
+ 
+07) High Flow CO2 Gas Insufflator with Automatic smoke evacuation 
+
+
+--- Page 12 ---
+Tender for 4K Ultra High Definition Laparoscopy Imaging System with ICG compatibility 
+Admn/Tender/39/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+facility with existing energy system- (Quantity 1) 
+a) Should be digital, microprocessor controlled & automatic type 
+b) Large digital display on front panel for status checking 
+c) Powerful Insufflation flow rate of 45 L/min required 
+d) Automatic feedback control for any malfunction. 
+e) Should have automatic smoke evacuation facility with existing 
+energy source in the OT  
+f) It should have CO2 gas cylinder switching valve to allow freely 
+switch between two gas cylinders without the hassle of replacing 
+cylinders (Optional) 
+g) Need to provide a pin type CO2 hose plug which can be connected 
+to Pin type CO2 cylinders- 2 No’s  
+ 
+08)  Image and Video recording and data archiving management 
+system: (01 in No.): 
+a) Digital storage of still image, video sequences and audio files 
+b) Should be a 4K UHD, 3D & full HD medical grade video and still 
+images recorder 
+c) Should have full featured graphical user interface 
+d) Should have US FDA or European CE certification 
+e) Recording media: Internal HDD (1 TB or above), External USB and 
+DVD-R 
+f) Should have dual channel simultaneous recording for 4K UHD & full 
+HD 
+g) Should have customized windows based operating system. 
+h) Should have simultaneous recording and playback feature. 
+i) Should have facility of patient’s data 
+j) Should have integrated CD/DVD player and writer. 
+k) USB support for storage on USB device. 
+l) Input / recording resolution: 4K UHD, 3D ,1080p ,1080i, 720p, NTSC 
+& PAL 
+m) Compatibility with HIS/DICOM/PACS. 
+n) User should have full control of the system from the sterile field via 
+camera head buttons, optical touch screen, optical foot switch. 
+o) Should have support for physician print, media, annotations, patients 
+field, procedure settings and individual surgeon profile & preferences. 
+p) Connectors; 
+a. Input/output: DVI, S Video, 3G HD –SDI, composite & audio 
+b. Other interfaces: USB 2.0, USB 3.0 RJ-12, network RJ-45 and 
+Remote control 
+c. All necessary cables should be supplied 
+q) should have following additional features; 
+a. foot pedal control 
+b. endoscopy remote head trigger 
+c. microscope RS-232 communications 
+r) following accessories should be supplied; 
+a. Cordless mouse and cordless silicone keypad -01 in no. 
+b. foot pedal control -01 in no. 
+c. endoscopy remote head trigger -01 in no.  
+d. remote control-01 in no. 
+s) All the necessary cable should be supplied. 
+t) Color laser printer (ink-tank)- compatible with above system. 
+ 
+09) Trolley – (Number -1) Imported endoscopic trolley compatible with 
+
+
+--- Page 13 ---
+Tender for 4K Ultra High Definition Laparoscopy Imaging System with ICG compatibility 
+Admn/Tender/39/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the above system from the same manufacturer should be provided 
+ 
+10) 1KVA- online UPS. 
+NOTE: Any other essential hardware/software/items required to make 
+all above things functional should be quoted, otherwise it will be 
+treated that same will be supplied free of cost. 
+All products should be same manufacturer & should be US FDA or 
+European CE approved (with four digit notified body number) 
+
+
