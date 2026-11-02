@@ -1,0 +1,187 @@
+--- Page 17 ---
+____________________________________________________________________________________ 
+11035/029/AIIMSBBSR/PSYCHIATRY/2023-24/24     Dated.16-11-2023  P a g e  17 | 40 
+ 
+3. Technical Bid (Specification):  
+ 
+Name of the E-Tender: Supply, Installation & Commissioning of Repetitive 
+Transcranial Magnetic Stimulator (RTMS) at AIIMS, Bhubaneswar. 
+ 
+3.1 Schedule of Requirements: 
+ 
+The institute requires 01 Nos. of Repetitive Transcranial Magnetic Stimulator (RTMS) to be 
+used by the Department of Psychiatry. The equipment is/are to be delivered within 90 days 
+from placing of Purchase Order at the Central Store of AIIMS Bhubaneswar at the quoted/ 
+negotiated price without any additional cost to the institute as per specifications given 
+below. 
+ Specification of Repetitive Transcranial Magnetic Stimulator (RTMS): 
+Sl 
+No 
+Specification 
+Complied/Not- 
+complied 
+Remarks 
+Repetitive Transcranial Magnetic Stimulator (RTMS), Make-                              Model-     
+1 
+The system should be able to deliver the following waveforms and 
+pulses through a single unit- 
+a) Biphasic 
+b) Biphasic Burst 
+c) Monophasic 
+d) Theta Burst 
+e) Quadri-pulse (biphasic and monophasic pulses) 
+ 
+ 
+2 
+System should be able to deliver Single, Paired, Half sine, Twin and 
+Dual pulses through the same unit. 
+ 
+ 
+3 
+It should be able to provide a repetitive pulse of frequency from 1 
+to 100 Hz: Same device should also be upgradeable to 250 Hz. 
+ 
+ 
+4 
+The system should have up to 4 Tesla peak magnetic fields at 
+100% output at 25 Hz without the need of additional units. 
+ 
+ 
+5 
+It should have the possibility of providing three (3) minutes per 
+session of theta burst stimulation with advanced burst sequencing. 
+ 
+ 
+6 
+It should be able to perform ITBS and CTBS protocols in 30 Hz or 50 
+Hz. 
+ 
+ 
+7 
+Stimulator should have the feature of electronically selecting the 
+current direction from normal or reverse without changing the coil 
+position. 
+ 
+ 
+8 
+The stimulator should be upgradable for interleaved TMS/MRI 
+study. 
+ 
+ 
+9 
+It should have options to block/unblock amplitude to prevent 
+unintentional adjustment of protocol setting and amplitude output 
+during running trains.  
+ 
+ 
+10 
+It should be supplied with a 2ch MEP module to check for motor 
+threshold detection. It should be supplied with a therapeutic 
+software with the facility of assessing motor threshold detection, 
+MEP, SICI, LICI etc. 
+ 
+ 
+11 
+The machine should be supplied with the static/dynamic liquid 
+cooling system with the coil provided as 
+a) One liquid cooled angulated figure of eight coil 
+FDA/CE Stimulation capacity of at least 5500 pulses. 
+b) One Cooled Big ring coil. 
+ 
+ 
+
+
+--- Page 18 ---
+____________________________________________________________________________________ 
+11035/029/AIIMSBBSR/PSYCHIATRY/2023-24/24     Dated.16-11-2023  P a g e  18 | 40 
+ 
+c) One Sham Coil. 
+12 
+Coils should have a sensor built into measure the Realized display 
+of the actual current gradient in di/dt (A/us) value, should display it 
+on the stimulator and not just a calculated value. 
+ 
+ 
+  13 
+Cooled coils should be able to show the number of remaining 
+stimuli within the coil to determine the lifespan of the coil.  
+ 
+ 
+14 
+The system should stop stimulation if the cod heats up to 41-
+degree temperature. 
+ 
+ 
+15 
+It should be supplied with a 360-degree rotation coil stand and a 
+comfortable patient chair. 
+ 
+ 
+16 
+The system should be supplied with a desktop/Laptop (15 
+Processors, 8GB RAM, 1 TB SDD) for operating the magnetic 
+stimulator along with Therapeutic Software. 
+ 
+ 
+17 
+There should be inbuilt software to provide different treatment 
+protocols (Including FDA-Certified protocols) with the option of 
+editing them or creating new protocols. 
+ 
+ 
+18 
+The stimulator must be US FDA/CE/BIS Certified. 
+ 
+ 
+19 
+The existing stimulator should be upgradeable with any neuro-
+navigation system. 
+ 
+ 
+20 
+The system should have a trigger in/out facility to connect to a 
+third-party system. 
+ 
+ 
+21 
+Physical demonstration is compulsory during the technical 
+evaluation. 
+ 
+ 
+22 
+System must have a warranty of 5 years & CAMC for Five Years 
+after completion of the warranty. 
+ 
+ 
+23 
+Bidders should provide price list of all types of coils and other 
+accessories and consumables & spare parts that should be valid for 
+the warranty and CAMC period. If the price of any stem is not 
+quoted in the price list, firm has to provide the item free of cost for 
+the life of the equipment (Warranty + CAMC). 
+ 
+ 
+24 
+The firm must ensure to provide quality post sale service with 95% 
+uptime of the equipment per year. In case downtime exceeds 5% in 
+a calendar year, a penalty of 5% of the total cost of the tender shall 
+be levied. 
+ 
+ 
+25 
+The response time to a complaint should not be more than 48 
+hours. Delay beyond 48 hours shall invite a penalty of 0.1% for the 
+1 week, which shall be doubled by the passage of every week (i.e. 
+0.2% in 2 weeks, 0.4% in 3 weeks, 0.8% in 4 week and so on). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

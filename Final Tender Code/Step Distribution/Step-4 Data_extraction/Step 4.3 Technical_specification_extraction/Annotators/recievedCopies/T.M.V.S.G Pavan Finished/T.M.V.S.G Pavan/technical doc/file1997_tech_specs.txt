@@ -1,0 +1,41 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Anaesthesia/322/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+ 
+Specifications for Defibrillators 
+ 
+1. Biphasic Defibrillation Technology 
+2. Automatic and manual mode of defibrillation 
+3. Color TFT display minimum 7” diagonal 
+4. Resolution of display min 800 x 480 pixels 
+5. Minimum three waveform display 
+6. Charging time less than 5 sec 
+7. 5 Lead ECG & Respiration facilities with display waveforms 
+8. Standard external defibrillation 
+9. Optional internal defibrillation 
+10. Slide-off adult electrodes to expose internal pediatric paddle 
+11. Detachable paddles 
+12. Paddle has energy selection option 
+13. Energy level from min 1 Joule to max 360 joules 
+(1,2,3,4,5,6,7,8,9,10,15,20,30,50,70,100,150,170,200,300,360J) in Biphasic waveform. 
+14. Automatic external defibrillation (AED) facility with voice and text prompt facility & energy level 100 to 
+360J configurable. 
+15. Fully annotation recorder/printer 
+16. Facility for storage of upto 24 hrs of continuous ECG waveforms, 100 patient profiles, 1000 events for one 
+patients, 72hrs tabular trends, 60min voice recording for each patient & data can be export to PC through 
+USB flash memory. 
+17. Battery capacity of at least 2.5 hrs monitoring with ECG & SPo2 
+18. Impedance compensation 20-200 Ohm 
+19. Use of pacing paddle even after defibrillation 
+20. Should have automated self test (hourly, weekly and monthly) with storage of results + print out and 
+manual routine operational checks 
+21. Weight – Max 7 kg 
+22. Optional external pacing facility 
+23. Optional SpO2 with digital pulsating bar graph for pulse 
+24. Optional NIBP facility.    
+ 
+
+

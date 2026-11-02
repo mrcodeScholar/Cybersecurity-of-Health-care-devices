@@ -1,0 +1,212 @@
+--- Page 11 ---
+Tender for Echocardiography Machine (High End)                                                       Admn/Tender/110/2016-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Echocardi
+ography 
+Machine 
+(High 
+End) 
+1. Latest generation, highest end & technologically advanced Digital Live 3D 
+Echocardiography system for Transthoracic adult, paediatric cardiac 
+applications. System should be capable of LIVE 3D imaging in 
+transesophageal applications. Any other model other than the highest end 
+and latest version is liable for rejection. 
+2. System should have minimum 100,000 or more digitally scalable channels 
+for simultaneous formation, acquisition and processing of multiple 
+ultrasound beams and has a system architecture to process an entire 
+bandwidth of frequencies from 1MHz to 17 MHz. System should support 
+pulse coding and pulse shaping technologies. Please mention number of 
+digital channels in technical bid. Please attach a letter from manufacturer 
+along with the technical bid clearly stating the number of digitally 
+processed channels on the offered system, failing which the bid is liable 
+for rejection. 
+3. System should have a dynamic range of minimum 180 dB so that variety 
+of patient sizes can be handled without compromise. Please mention 
+dynamic range in the technical bid with supporting specification sheet. 
+4. System should be capable of supporting LIVE 3D matrix transducer 
+capable of supporting upto 2000 elements for exceptional LIVE 3D image 
+quality on the matrix array transducer. Separate LIVE 3D Matrix 
+Transducers for both adult and pediatric applications should be offered as 
+standard. The footprint size of the pediatric matrix transducer should be 
+lesser than the adult matrix transducer and frequency of the paediatric 
+matrix transducer should be higher. 
+5. System should be capable of scanning depth of 30 cm. Scanning depth 
+should be clearly mentioned in the technical quote. 
+6. System should offer LIVE X – Plane imaging with manipulation of 
+orthogonal plane-lateral, elevation and rotation should be possible. 
+Elevation beam steering should be possible so that ideal en-face views for 
+measurements can be obtained without moving the transducer. 
+7. System should have LIVE- 3D Echocardiography capability with Color 
+Flow Imaging. 
+8. System should have extremely high Resolution 2D Imaging, Colour Flow 
+Imaging, M Mode, PW Doppler, CW Doppler, Duplex & Triplex Modes. 
+9. Should have good Tissue Harmonic Imaging for improved Image quality. 
+10. Should have the state of the art Transmit Real Time Compound Imaging 
+Technology with Multiple transmitted lines of sight, wherein multiple 
+Coplanar Images from different viewing angles are obtained and combined 
+into a single combined image at real-time frame rates for improved 
+visualization & better image quality in vascular Imaging & to virtually 
+clean up the images of artifacts. 
+11. Should have advanced Image Processing algorithms to analyse between 
+targets and artifacts so as to sharpen target anatomy and reduce the speckle 
+& artifacts for improved image quality. 
+12. Should have advanced Tissue Doppler imaging with high frame rate 
+acquisition of more than 300 frames per second. 
+13. Should be able to perform advanced quantification measurements like 
+strain & Strain Rate Quantification. Should measure the myocardial 
+velocity and derives the strain rate and strain along user defined M-lines, 
+capable of drawing up to 3 M-lines at a time, capable of sub-dividing each 
+M-line into 8 sub-regions or according to user defined sub-region sizes, 
+point of interest tool obtains values from any point on the M mode display. 
+In addition to the Tissue Doppler based strain system, should have 2D 
+01 
+
+
+--- Page 12 ---
+Tender for Echocardiography Machine (High End)                                                       Admn/Tender/110/2016-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+Based strain like VVI, AFT and TMQ should be offered. These should be 
+offered both OFF-LINE as well as online. OFF-LINE workstation (Both 
+hardware and software) should be offered and highlighted in the technical 
+bid. 
+14. Should be able to perform MPR views for Quantification from 3D Imaging 
+on Volume measurements like LV volumes, Ejection fraction from 3D 
+Image, etc. Also should offer 3D synchronicity indicates to measure and 
+compare timing of maximum contraction of regional LV volumes to 
+determine those patients who will best benefit from CRT system. Should 
+display global LV volume and should provide simultaneous display of 17 
+regional volume waveform. This should be offered both OFFLINE as well 
+as online. OFF-LINE workstation (Both hardware and software) should be 
+offered and highlighted in the technical bid. 
+15. The quantification capabilities should be offered OFF-LINE only as 
+system time doesn’t get blocked. The system images should be transferred 
+through DICOM to the OFF-LINE licensed workstation. The workstation 
+should have a DICOM Image Management System Software loaded so as 
+to print images through a Colour laser printer. 
+16. Should have great ergonomic design, with dual touch control panel of 
+minimum size 10-11 inches, which is comfortable and convenient to avoid 
+user muscle strain & stress injuries. System should have a 19-inch high 
+resolution flat panel medical grade display monitor with nearly infinite 
+position adjustment. 
+17. System should have at least four imaging universal active probe ports with 
+electronic switching facility from keyboard without probe adaptor. 
+18. Should have on-board workstation for storage and review of all exams, 2D, 
+3D Images, loops, etc 
+19. System should have DICOM 3.0 print and store service classes with 
+support for modality, work list, perform procedure set up, storage commit. 
+20. System should allow storing of cropped 3D images which can be recalled 
+and re-cropped later. 
+21. System should have inbuilt Image Management facility with facility for 
+direct storage of Images and loops in the Hard Disk Drive and also 
+thumbnail review to view & edit Images, loops and also reports. 
+22. System should have storage facility of images, loops in the hard disk drive 
+of 5 TB or more. System should be able to transfer Images & clips to CD 
+& DVD media. 
+23.  Should be offered with the following: 
+a. Adult Echo Transducer with frequency ranging from 1-5 MHz. 
+This transducer should have either single crystal technology or pure 
+wave technology for excellent Image quality on difficult to image 
+patients. Please mention the crystal technology used in the 
+transducer. Systems offered with normal transducers for adult echo 
+are liable for rejection. 
+b. Pediatric Echo Transducer with frequency ranging from 3-8 MHz. 
+c. Neonatal Echo Transducer with frequency ranging from 4-10 MHz 
+d. Linear Array Transducer with frequency ranging from 3-11 MHz 
+for vascular applications. 
+e. Convex Array Matrix Transducer for adult LIVE 3D with 
+frequency ranging from 1-5 MHz. 
+f. Live 3D Echo Matrix Transducer for Adult LIVE 3D with 
+frequency ranging from 1-5 MHz. 
+g. TEE transducer for Adult (Live 3D/4D) & Pediatric (2D) 
+Echocardiography - 01 No. transducer each. 
+h. Integrated stress echo facility to perform stress echo exams. 
+i. Contrast Harmonic Imaging should be offered as standard on the 
+
+
+--- Page 13 ---
+Tender for Echocardiography Machine (High End)                                                       Admn/Tender/110/2016-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 13 
+ 
+ 
+ 
+ 
+system, with optimization for Low and HI MI applications. Should 
+also have facility of Low MI with triggered replenishment Imaging. 
+j. Latest PC (off-line licensed workstation) with licensed software for 
+analyzing and quantification of 2D and 3D data sets, CD writer 
+with Image Management Software and colour laser Printer should 
+be offered. PC should be offered with a flat panel 17 inch display 
+monitor. (Hardware essential for OFFLINE Quantification) 
+k. Latest B/W Thermal Printer. 
+l. 3KVA online UPS with a backup of 30 min minimum, from any 
+reputed brand. 
+m. Spare parts and maintenance should be available for at least 10 
+years from the manufacturer. 
+n. Local service facility should be available in Jodhpur or Jaipur. 
+ 
+Terms and Conditions: 
+1. The system should be US FDA approved. 
+2. Warranty: -There would be warranty for five years. If any part of the 
+equipment is not covered under warranty the vendor must provide advance 
+information.  The cost of disposable accessories (if any) should be quoted 
+separately.  The Quoted price will be fixed for a period of five years. 
+3. Comprehensive Maintenance Contract:  In addition to warranty for five 
+years, the vendor should quote the price of comprehensive Maintenance 
+Contract (labour + spares) (CMC) for five years post warranty.  The price 
+quoted for the 5 years CMC would be considered for the comparison of the 
+total price and to determine the inter-se ranking of the bids.  However, the 
+CMC price will only be paid during the actual period of service under 
+contract. 
+4. It will be responsibility of the vendor to submit proposal of CMC at least 6 
+months before expiry of warranty of previous CMC. 
+5. In the technical bid, the product should be quoted with a set of standard 
+accessories.  The price bid must clearly state the accessories included.  The 
+price of optional accessories should be quoted separately. 
+6. The product or its earlier model should have been marketed in the national 
+and international market for at least 5 years. 
+7. The parent company should certify that the quoted product is not going to 
+be out of assembly line for at least three years from date of quotation. 
+8. The parent company should give the undertaking to provide the spares 
+during the warranty and CMC period if required. 
+9. If the equipment is software based, and the new software is introduced 
+within five years the up gradation will be provided free of cost 
+10. Demonstration: The Department may ask for demonstration of actual 
+quoted product or even for trial use. 
+11. Training: The necessary training of the personnel for the use of the 
+equipment will be provided by the company/vendor.  The vendor must 
+mention the type of training i.e. on site or abroad and number of persons. 
+12. Compliance statement.  The vendor must provide, in tabular form a 
+comparative chart of the required technical specification and technical 
+specification of the quoted product.  The vendor must give the relevant 
+page number and paragraph number, in their literature regarding that 
+technical information in the technical bid.  Merely stating “complies” or 
+“meets requirement” will lead to assumption that the quoted product does 
+not have the required feature. 
+
+

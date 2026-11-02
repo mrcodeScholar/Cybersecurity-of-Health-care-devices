@@ -1,0 +1,74 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Micro/18/55/A/OT 
+ 
+Page 18 of 23 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR 
+Real Time PCR Machine  
+ 
+Technical Specification: 
+ 
+1. Open system capable of performing both real time PCR and end point analysis. 
+2. Peltier-based system.  
+3. 96 well block (Compatible to both fast and standard mode with multiplexing capability). 
+4. Supported volume range:10µl to 50µl. 
+5. Filters (wide band) – Five-excitation filters,five-emission filters. 
+6. Excitation source- LED/ Xenone.  
+7. Detection: CCD/PMT/CMOS.  
+8. Any periodic calibration pertaining to the optics should be taken care by the vendor at lea
+next 5 years.  
+9. Block ramp rate (at peak):≥ 5   C 
+10. Temperature Range: 4  C- 99  C 
+11. Should be factory calibrated for handling all commonly used fluorescent dyes such 
+as SYBR Green, FAM, VIC, JOE, HEX, TET, NED, TAMRA, ROX, Texas 
+Red,Cy3,Cy5,Quasar 670,705 etc for Real Time PCR applications for diagnosis of 
+human infectious diseases and calibration for any other dye in the wavelength of 450-
+730nm should be possible without any additional filter sets. 
+12. Reaction should be run in the form of plate,individual tube and tube strips with 
+optical flat caps. 
+13. Should have feature of performing relative and absolute quantitation, Melting curve 
+analysis (at high resolution),gradient/primer optimization and multiplex-PCR up to 6 
+target/channels, SNP analysis, dissociation curve analysis, pathogen detection and 
+plus/minus assays etc. 
+14. Data Collection: 
+ 
+Standard:Collect data for all 5 filters for all wells regardless of plate setup. Plate setup may 
+altered after run completes. 
+Expert: Colect datew for selected individual filter or group of filters for all wells regardless o
+plate.Plate setup may be altered after run completes. 
+15. Details of data acquistion during run for all dyes shuold be provided and ensured 
+Temperature accuracy: Maximum (+/- 0.25  C of set point/display temperature,measured 
+at 3 minutes after clock start). 
+16. Run Time: ~40 min (fast mode-expert), <2 hrs (Standard ) for 40 cycles. 
+17. Software should ensure minimal crosstalk when using multiple fluorophores for 
+multiplex assays. 
+18. Dedicated licensed full version software for primer and probe design with 
+comprehensive assay design and development guidelines for quantitive and qualitative 
+real-time assays should be provided to enable designing of custom oligo assays.  
+19. Software for analysis of comparative Ct,Standard curve,relatvie standard curve,allelic 
+discrimination/SNP genotyping. 
+20. Must be supplied with laptop having features of i3 processor,1TB hard disk with 4GB 
+RAM, Window 10. 
+21.Must be supplied with UPS (3KVA online UPS with 1 hour back up). 
+22.The IQ,OQ and PQ of the instrument should be performed at the time ofinstallation. 
+23.BIS/European CE-IVD/FDA certificates may be enclosed. 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Micro/18/55/A/OT 
+ 
+Page 19 of 23 
+ 
+24.There should be 21CFR compliant software to get feature like security access,auditing 
+and e-signatures. 
+25.Electrical specification: 200 Volts, 50 Hz.Single phase A.C. 
+26.It should be supplied with a warranty of 3 years and CMC  of 5 year after expiry of 
+warranty period0 
+27.Video demonstration/submission of valid document are required for confirmation 
+of each of the above mentioned specification.A user list to be enclosed. 
+ 
+ 
+ 
+
+

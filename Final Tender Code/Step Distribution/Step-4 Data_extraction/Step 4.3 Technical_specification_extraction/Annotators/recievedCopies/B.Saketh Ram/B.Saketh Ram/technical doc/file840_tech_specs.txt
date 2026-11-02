@@ -1,0 +1,57 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Patho/18/05/OT/B 
+ 
+Page 19 of 22 
+ 
+ANNEXURE-I 
+      DETAILED SPECIFICATION FOR HYBRID CAPTURE (HC 2) SYSTEM  
+ 
+1. The 
+instrument 
+should 
+be 
+a 
+luminometer 
+that 
+automates 
+amplified 
+chemiluminescent signal detection and results reporting for HC2 assays, 
+including the HC2 High-Risk HPV DNA Test.  
+2. The instrument should be a benchtop, computer- controlled instrument 
+designed for measuring and analyzing light produced by the glow-type 
+chemiluminescence used in HC2 technology.  
+3. The instrument should be able to measure light in the visible spectrum (300–
+650 nm) and chemiluminescence from opaque microplates. 
+4. The instrument should have spectral sensitivity range of 350–650 nm. 
+5. The dynamic range should be around 10 to 5 x 106 RLU. 
+6. Cross-talk should be less than 4.0 x 10–5 RLU. 
+7. The system should have 96 well, 1 microplate heater, 1 rotary shaker, 1 HC2 
+wash apparatus and 1 specimen collection rack. 
+8. The calibration. IQ, OQ and PQ of the instrument should be performed at the 
+time of installation and certificates should be provided. 
+9. Yearly calibration certificate within warranty as well as in CMC should be 
+provided. 
+10. The system should be supplied with branded computer system with window 8 
+or more to support application and camera Interface. 
+11. All-in-one system should be supplied with branded computer system with 
+window 10 or more to support application and camera Interface, 2 GHz multi 
+core i7 processor, 2TB hard drive, 16 GB RAM, DVD+RW, USB 3.0 and HDMI 
+port, 24” TFT/ LED Monitor (1920 x 1200), wireless keyboards, mouse, and 
+appropriate barcode reader along with multifunctional color laser duplex 
+printing printer with consumables (2 cartridges) with 2000 sheets of A4 size 
+paper should be provided. 
+12. System should be CE-IVD or FDA or BIS approved product. 
+13. Branded Online UPS of 3KVA for one hour backup for the duration of one cycle 
+of processing to be provided. 
+14. Start-up kit for at least 100 tests should be provided free of cost for HPV testing. 
+15. Appropriate anti-vibration table with granite top of standard make should be 
+provided to accommodate the instrument, computer system and accessories.  
+16. Document or order copy supporting satisfactory performance from AIIMS/ 
+institute of national importance (minimum one) should be provided.  
+17. Support for induction and follow up training of technical staff, on –site 
+standardization trouble shooting of procedures/tests to be provided by the 
+company. 
+18. Five (5) years warranty and Five (5) years CMC should be provided.  
+ 
+
+

@@ -1,0 +1,199 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/PMR/272(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+ 
+Technical Specification 
+Gait and Motion Analysis System 
+ 
+Component systems:- 
+1.  Infrared Camera system to acquire Motion Analysis   
+1. No. of IR cameras 12 (Twelve) 
+2. Should be expandable up to 16 digital cameras 
+3. Gigabit Ethernet communication 
+4. Type may be infrared cameras or CMOS cameras 
+5. Cameras should operate at 500Hz with full resolution 
+6. Camera resolution: Minimum 2048 x 2048 Pixel or higher 
+7. Maximum acquisition frequency  upto 2000 fps 
+8. Accuracy < 0.1 mm on a volume of 6x6x3 m 
+9. Marker detection system. 
+10. Processing:  On Camera 
+11. Camera Power: Directly supplied by the Data Station 
+12. System must be able to acquire complex movements in both indoor and outdoor conditions 
+13. System should be able to capture the marker trajectory (Unlimited number of markers) 
+14. System should be supplied with markers to capture both upper limb and lower limb bilaterally and 50 
+spare markers to be supplied alongwith the equipment. 
+15. System should be supplied with markers suitable for both paediatric as well as adult population 
+16. Should be integratable with other kinetic and kinematic data 
+17. Should be wall mountable and securable (to avoid in advertent calibration errors) or mountable on a light 
+weight tripod. Eight (8) tripods must be provided for portability needs. 
+18. Necessary calibration apparatus. Bar based calibration for a fast system set up even with obstacles in 
+the field of view. 
+19. System should be supplied with the evaluation of the spatial-temporal gait parameters with the following 
+features: Sensor Typology: Tri-axial accelerometer, Tri-axial magnetometer, Tri-axial gyroscope. 
+Connectivity: Bluetooth, Frequency: upto 200Hz,Battery: rechargeable via USB 
+2. Video cameras: 
+1. Digital video base system to support the movement analysis 
+2. Standalone- Four (4) digital color cameras with interchangeable lenses CS- Mount, acquisition 
+frequencies 25/30 fps, time/color and saturation software control. 
+3. Capable to merge four views in a single video 
+4. Synchronized video capture, playback, slow motion, frame by frame Integratable with other data. To be 
+able to save video picture on MPEG format. 
+5. Provision for upgradeability 
+6. Data transmission by IP protocol 
+3. Force platforms: 8 Nos 
+1. Sensing area 2400mm x 800mm  
+2. Should be able to acquire static and dynamic forces in x, y, z axes 
+3. Digital output via Ethernet 
+4. Self-calibration of platform position.  
+5. Integratable software with kinematic and EMG data 
+6. Platform should have the facility of measurement in real time the ground reaction forces overlaid on the 
+video shoot of the moving patient. 
+7. Upgradability to unlimited number of platforms 
+4. Foot Pressure Plate for Plantar Pressure: 
+1. The system should be able to capture multiple sequential foot strikes of humans for analysis of foot 
+function and gait. 
+2. Should display spatial and temporal parameters of speed, cadence, step length, stride length, step 
+width, gait cycle duration, stance duration, swing, single and double support. 
+3. 
+The unit should have 200cm in length and 50 cm in width with 5 mm thickness. 
+4. 
+The system should have minimum 9000 sensors 
+5. 
+It should be able to identify plantar pressure profile discrepancies between left and right feet during 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/PMR/272(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+ 
+static & dynamic plantar support. 
+6. It should be able to monitor improvements in balance, sway, strength & weight bearing. 
+7. The system should be based on resistive sensor technology. 
+8. Should be upgradeable for increasing sensing areas. 
+9. Should display 2-D and 3-D real-time and recorded data 
+10. Should have automatic stance detection 
+11. Should be able to provide averaged pressure profile display for selected multiple foot strikes 
+12. The software should have the ability to save data in commonly used formats. 
+13. Pressure profiles should be transferrable in common formats. 
+14. Should be able to import and export client movie files 
+5. Surface EMG system (16 wireless EMG channel) 
+A. Wireless probes: 
+1. Should be surface electrodes: variable geometry electrodes with mounting clip 16 bit resolution- 
+acquisition frequency upto 4 KHz 
+2. Data transmission should be wireless (probes-receiving unit) 
+3. Probes- receiving unit up to 50 metres (160 feet) in free space 
+4. Memory on board solid state buffer memory system 
+5. Weight <10 grams, including battery and satellite electrode identification labels 
+B. Mobile receiving unit 
+1. EMG channels upto 16 wireless probes on each receiving unit 
+2. Data transmission wireless WiFi (receiving unit- workstation) 
+3. Display 4” VGA touch screen 
+4. Recording duration upto 9 hours with a single battery 
+5. Range receiving unit- workstation up to 30 metres (100 feet) indoor- up to 350 metres (380 yards) 
+outdoor. 
+6. Weight 325 to 375 grams. 
+C. Software 
+1. Should have a dedicated software for data acquisition, display and analysis 
+2. Analysis of localized myoelectric muscular fatigue phenomena 
+3. Oscilloscope for the real time viewing of the  signals 
+4. Database for data storage 
+5. Integratable with kinematic, force platforms, and video systems on  real time basis 
+6.  Software and system specifications 
+1. To integrate, analyze, store, reproduce and report 3D motion analysis, video picture, kinematic, kinetic 
+(force plate) and EMG data in the same control system. Simultaneous visualization of all the above data 
+in graphs. Long duration motion captures facility. 
+2. Free software updates mandatory 
+3. Real time visualization of all integrated devices data 
+4. Immediate upload of data to workstation and storage 
+5. Easy drag and drop data processing software package for protocol creation, without any programming 
+language knowledge. 
+6. To differentiate stance phase and swing phase kinematics, kinetics, EMG. Display of full perspective 3D 
+representation of work space, markers and trajectories (mouse controllable). 
+7. Auto 3D reconstruction of marker trajectories.  
+8. Quick setup calibration, even with some obstacles partially obstructing camera view. 
+7.     Virtual Reality system: Virtual reality interactive system for the therapeutic and rehabilitation process of 
+patients affected by Neuro-motor diseases by multi sensory stimulation. 
+1. The unit should have two marker-less infra red sensors 
+2. The infra red sensor should be a digital board camera with minimum 400 Mbps speed 
+3. The camera should be CCD sensor type camera with minimum of 30 fps speed 
+4. The camera strobes should have high radiation power LED with minimum of 850 nm web length. 
+5. The camera should work on fire wire data transmission technology. 
+6. The work station of the unit should have a touch screen facility with software to simplify the patient 
+database management. 
+7. The unit should have two projectors (more than 4000 lumen) for both wall and floor projection. 
+8. The unit should have ceiling mount for both camera and project. 
+9. The unit should have webcam to record the therapy session for future assessment. 
+10. The unit should be supplied with memory card to store the medical record of the patients. 
+11. The unit should have an audio and visual bio feedback. 
+12. The unit should have three kinds of typologies 1.) Motion 2.) Hunt 3.) Games. 
+13. The unit should be compatible for wall projection, floor projection and table projection. 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/PMR/272(i)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+14. The system should have a facility to do both upper limb and lower limb exercise therapy. 
+15. The unit should have a real time visualization of video recording. 
+16. The system should be able to perform at the distance of 8 feet for the wall projection and 9 feet for the 
+floor projection. 
+8.  System Necessities  
+1. 
+Service backup, with response time of 48 hours. 
+2.  The supplier will be responsible for the compatibility of all components in a single system 
+3. Supplier would be responsible for providing civil/electrical requirement for successful installation of Gait 
+& Motion Analysis Lab at earmarked space. 
+4. Supplier would be required to provide necessary furniture for the lab (Table, Chairs, Shoe rack, Cabinet 
+for UPS, etc.) 
+5. Should be provided with one additional remote display/LCD monitor of 50 inch to be used as reference 
+system/ teaching. 
+6. Certificate regarding satisfactory performance to be furnished from minimum of three reputed Indian 
+institutions using the same system. 
+7. 
+Acceptance and compliance of the tendered technical  specifications are required from the parent 
+manufacturing company 
+8. 
+The full Gait/Motion Analysis System should be quoted as a full single-package of one-manufacturer as 
+designed for the present site. 
+9. 
+System should be CE/FDA approved. 
+ 
+Specification of Gait Lab 
+1. AIR CONDITIONED  / 3 AC OF 1.5 T EACH 
+2. ELECTRICAL FITTING OF AC 
+3. UPS OF 6 KVA RATING WITH 1.5 HR OF BACKUP ON FULL LOAD 
+4. SEPARATE EARTHING SOURCE REQUIRED 
+5. RAW POWER POINT, 3 POINTS OF 6A & 15A 
+6. UPS POWER POINT, 3 POINTS OF 6A & 15A 
+7. CEILING LIGHTS RE-ARRANGEMENT REQUIRED & IT SHOULD BE ON UPS  
+8. WOODEN RAMP / DIGGING FOR THE WALKWAY CONSISTING PLATFORM. 
+9. VINYL FLOORING , FULL ROOM / WALKWAY AREA 
+10. MATT FINISH LAMINATION FOR GLASS 
+11. SINGLE DOOR FOR  DRS ENTERENCE & FOR CHANGING ROOM 
+12. 1 MAIN ENTRANCE DOOR  - GLASS DOUBLE DOOR 
+13. 1 DOUBLE DOOR FOR PATIENT ENTERENCE 
+14. 1 L SHAPE OFFICE TABLE – SPECIFIED SIZE AS 6X2.5.MAIN  3X1.5 SIDE & 2 CHAIRS 
+15. 1 RECEPTION TABLE WITH 2 CHAIRS  
+16. HEIGHT MEASUREMENT & WEIGHT MEASUREMENT INSTRUMENTS REQUIRED 
+17. POSTERS FOR PATIENT INFORMATION & AWARENESS 
+18. ALMIRAH TO KEEP CONSUMABLES ETC. – 3X6 RECOMMENDED 
+19. PATIENT COUCH, ELECTRICAL, 3 SECTIONAL – HEIGHT ADJUSTABLE RECOMMENDED. 
+20. PATIENT WAITING BENCH, 2 NOS 
+21. ETHERNET POINT, 2 NOS 
+22. FIRE ALARM POINTS TO BE REMOVED / CLOSED 
+23. CEILING FAN FOR WORKSTATION AREA AND FOR PATIENT CHANGING ROOM ON UPS. 
+24. CEILING LIGHT FOR CHANGING ROOM ON UPS 
+25. WHITE BOARD FOR TEACHING AIDS 
+26. DB PANEL SHOULD BE OUTSIDE THE ROOM AND SHOULD INCLUDE ALL THE MCB FOR AC 
+LIGHTS FANS STABILISERS. ALSO THE UPS SHOULD BE INSTALLED OUTSIDE THE LAB.  
+27. THERE SHOULD BE MCB FOR AC AND UPS IN THE CONCEALED BOX NEAR THE WORKSTATION. 
+
+

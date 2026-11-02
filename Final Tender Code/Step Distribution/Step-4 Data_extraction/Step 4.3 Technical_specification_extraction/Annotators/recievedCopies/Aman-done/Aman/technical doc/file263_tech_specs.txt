@@ -1,0 +1,152 @@
+--- Page 10 ---
+Tender for Chemiluminescence Gel Doc System 
+Admn/Tender/20/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Chemiluminesce
+nce Gel Doc 
+System 
+ 
+• Computer controlled Chemiluminescence Western blot, Trans-UV for 
+DNA, RNA gel and colorimetric protein gel imaging system with 
+extensive analysis tool for molecular weight calculation, band distance, 
+colony counting, etc.  
+• System must have fluorescence based imaging and multiplexing 
+application with the choice of UV, visible (Red, Green, Blue), near IR, 
+IR and deep IR spectral excitation.  
+• Scientific Grade CCD camera with sensor size of 1 inch or better.  
+• System must have f0.84 or better aperture must for high sensitivity 
+and extremely high level of resolution  
+• Camera should give minimum 6.3 megapixels native and 20 
+megapixels extended with image resolution of 2838 x 2224 densities  
+• Camera must be a cooled CCD with -55°C maximum cooling from 
+the ambient and with -30°C absolute and regulated cooling by three 
+stage pettier thermoelectric cooler.  
+• Interface must be USB 3.0 for faster image transfer to help image 
+before signal gets weaker.  
+• Should be a lab proof compact design, require minimal bench space, 
+robust and chemical resistant system made of Stainless steel, aluminum 
+and steel.  
+• Superbright Technology to visualize faint bands thereby increased 
+sensitivity with no visible light background while performing gel 
+documentation  
+• High sensitivity reading technology for isolation of the electronic 
+components of the camera during the light capture in order to avoid 
+noise  
+• Should have smart auto exposure mode with optimum exposure time 
+calculation by the software based on the signal output from the sample  
+• System should provide options for 1x1, 2x2, 3x3, 4x4 binning.  
+• 4- 8 position filter wheel allows for dye flexibility of different 
+fluorescent stains.  
+• Pre-calibrated focus for all defined sample height. Easy and 
+convenient adjustment of lens settings  
+• Light safety switch override for safety and for preparative work when 
+the door is open  
+• Software should be provided for analysis and must include features 
+for auto exposure and 3D Dynamic scan.  
+• Software should have Apps Studio with library of applications for 
+better ease of use  
+• Must be supplied with branded ( Dell / HP) desktop computer to 
+operate the system as well as for image analysis.  
+• Must include multiuser licensed image analysis software.  
+• Interference Filter Emission maxima to acquire image from gel 
+stained with dyes, Ethidium bromide, Gel Red, Gel Green, SYBR 
+Green, SYBR Safe, lumitein, SYPRO Ruby, etc.  
+• UV / WL Conversion Screen Qty-01 Nos.  
+• User List and performance certificate must be attached. 
+ 
+01  
+
+
+--- Page 11 ---
+Tender for Chemiluminescence Gel Doc System 
+Admn/Tender/20/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+Annexure-II 
+ 
+TECHNICAL BID 
+ 
+Name of Firm/Contractor/Supplier 
+ 
+ 
+Complete Address & 
+Telephone No. 
+ 
+ 
+ 
+Name of Proprietor/Partner/Managing 
+Director/Director. 
+ 
+ 
+Phone No:- 
+Mobile No:- 
+Email Id:- 
+ 
+ 
+Name and address of service centre nearby 
+Jodhpur. 
+ 
+ 
+Whether the firm is a registered firm 
+Yes/No (attached copy of certificate). 
+ 
+ 
+PAN No. 
+(enclose the attested copy of PAN Card). 
+ 
+ 
+GST IN 
+(enclose the attested copy of GST Registration 
+Certificate). 
+ 
+Whether the firm has enclosed the Bank Draft/Pay 
+Order/Banker’s cheque of Earnest Money Deposit. 
+ 
+ 
+ 
+ 
+Whether the Firm/Agency has signed each and 
+every page of Tender/NIT. 
+ 
+Please provide full list of consumables. 
+ 
+Any other information, if necessary. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Authorized signatory of the bidder with seal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

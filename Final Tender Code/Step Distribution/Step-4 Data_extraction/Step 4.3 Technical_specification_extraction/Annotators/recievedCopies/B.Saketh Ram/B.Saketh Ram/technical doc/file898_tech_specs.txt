@@ -1,0 +1,112 @@
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/URO/20/31/OT 
+ 
+Page 22 of 25 
+ 
+ 
+ANNEXURE-III 
+ 
+Technical Specifications for Endoscopic Tissue Morcellator for Urology: 
+S. No. Specifications 
+1. 
+[A] General requirements 
+1. The Tissue Morcellator should provide rapid endoscopic removal of soft tissue and should 
+havea compatible suction-irrigation pump for continuous irrigation and aspiration of irrigation 
+fluidand enucleated tissue. 
+2. All above instruments must be from a single original equipment manufacturer (OEM). 
+3. All equipment supplied must be the latest models of the quoted versions. 
+4. Warranty: Five years from the date of installation (including all spares and labour). 
+5. CMC: For 6th to 10th year, after expiry of warranty period (including all spares and labour). 
+6. Along the Bid all the firms are required to submit copy of manufacturer catalogue with 
+clearmarking of each quoted item and catalogue No. with a highlighter to avoid discrepancy.  
+7. All the firms should have supplied the quoted instruments to other Central Institutes/ Govt. 
+Institutesand should submit a certificate of satisfactory working from the concernedInstitution. 
+8. Physical Demonstration is required for technical evaluation in case of discrepancy. 
+9. All required quality & electrical safety testing certificates, brochures, user manual, service 
+manual & safety checklists & required maintenance schedule must be supplied in original during 
+installation. 
+[B] Tissue Morcellator Control Unit: Qty. 01 Set 
+1. Power control generator unit including footswitch, 50/60Hz, 100-240 V.A.C. 
+2. Maximum number of revolutions can be pre-set. 
+3. Processer controlled RPM & motor torque. 
+4. Clear display of operating parameters. 
+5. Compatible suction control unit with foot switch to be provided. 
+[C] Morcellator Hand piece: Qty. 01 Set 
+1. Ergonomic adjustable handpiece with central straight suction channel. 
+2. Suitable cleaning adaptors should be provided. 
+[D] Morcellator Blades: Qty. 03 set 
+1. The morcellator Blades should be autoclavable, reusable&side cutting. 
+2. Noiseless running. 
+3. Cutting action should be oscillating type. 
+4. Should be provided with cleaning brushes and sterilization tray from same OEM. 
+[E] Morcelloscope: Qty. 01 Set 
+1. The morcelloscope should be of Wide-Angle Straight Forward Telescope 6-12degrees,with 
+parallel eyepiece, autoclavable, with LUER-Lock connection for inflow,with instrument channel, 
+fibre optic light transmission incorporated. The workinglength should be at least 25cm. 
+2. Should be compatible with provided Resectoscope sheaths. 
+3. Should be provided with all connectors/adaptors for using the sheath withMorcelloscope. 
+[F] Laser Resectoscope Set: Qty.01 Set 
+1. Forward oblique 30-degree telescope, 4 mm diameter, autoclavable, length 30 cm, fibre optic 
+light transmission incorporated- 01 pc. 
+2. Cystoscope-Urethroscope sheath, 22 Fr, with obturator and 2 Luer-lock connectors- 01 pc. 
+3. Telescope bridge with single lockable working channel- 01 pc. 
+4. Monopolar Passive Working Element- 01 pc. 
+5. Rotatable Outer sheath, 26 Fr and Inner Sheath for use with 26Fr Outer Sheath with obturator- 
+01set. 
+6. Compatible Visual Obturator- 01 pc. 
+
+
+--- Page 23 ---
+Tender No. : AIIMS/R/CS/URO/20/31/OT 
+ 
+Page 23 of 25 
+ 
+7. Monopolar HF-Cable- 01 pc. 
+8. Monopolar Cutting loop electrode- 05 pc. 
+9. Monopolar Coagulation roller electrode- 05 pc. 
+10. Monopolar Collins/ Needle electrode- 05 pc. 
+11. Sachse/Optical Urethrotome Set: The set should have a 21Fr Urethrotome sheath with 
+obturator and channel for Urethrotome working element. There should be a telescope bridge for 
+use with the Urethrotome sheath with a 5 Fr working channel for instruments. A supplementary 
+half-moon sheath, that slips on the Urethrotome sheath and is side-open for introduction of the 
+balloon-tipped catheter, should be included. It should be compatible with provided passive 
+working element. The set should be provided with cold knifes- 10 no. [Straight/Lancet type- 5 pc, 
+Half-moon/ Semi-circular type- 5 pc.] 
+12. Laser Working Element, compatible with exchangeable Laser Guide Probes & provided 
+Resectoscope Sheaths-01 pc. 
+13. Laser Guide Probe, with retracting beaks, inner diameter 0.8mm, exchangeable- 01 pc. 
+14. Laser Guide Probe, with retracting beaks, inner diameter 1.5mm, exchangeable- 01 pc. 
+ 
+[G] Suction-Irrigation Pump Unit: Qty. 01 Set 
+1. It should be use as Suction device/Suction control device for Morcellationprocedure.Suction 
+pump/Control unit for suction and continuous aspiration of irrigation fluid and enucleated tissue. 
+2. It should be usable with normal Vacuum device and central Vacuum. 
+3. It should be controlled manually as well as by foot switch. 
+4. It should be supplied with following accessories: 
+(i) Power supply: 100-240 VAC, 50/60 Hz. 
+(ii) Sterilizable Tubing Setfor suction: Qty. Two set 
+(iii) A mainpower cable. 
+(iv) Connecting cable, length 100cm. 
+(v) It should have integrated tissue collection disposable kit: Qty. 20 
+[H] Standards & Safety requirements: 
+1. Manufacturer/ Supplier must have ISO certificate or equivalent to quality standard. 
+2. Must be compliant with IEC 60601-1 (or, any international equivalent e.g. EN/ UL 61010) 
+covering safety requirement for medical electrical equipment. 
+3. Product must be BIS or European CE with 4-digit notified body no. and US FDAapproved for 
+the intended use. 
+ 
+Instructions for Online Bid Submission: 
+The bidders are required to submit soft copies of their bids electronically on the CPP Portal, using 
+valid Digital Signature Certificates. The instructions given below are meant to assist the bidders in 
+registering on the CPP Portal, prepare their bids in accordance with the requirements and submitting 
+their bids online on the CPP Portal.  
+More information useful for submitting online bids on the CPP Portal may be obtained at: 
+https://eprocure.gov.in/eprocure/app. 
+REGISTRATION 
+1) Bidders are required to enroll on the e-Procurement module of the Central Public Procurement 
+Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on the link “Online bidder 
+Enrolment” on the CPP Portal which is free of charge. 
+2) As part of the enrolment process, the bidders will be required to choose a unique username and 
+assign a password for their accounts.  
+
+

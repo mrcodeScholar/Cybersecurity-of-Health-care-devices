@@ -1,0 +1,399 @@
+--- Page 11 ---
+Tender for Neonatal Multipara Monitor at AIIMS Jodhpur     
+                              Admn/Tender/40/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Neonatal Multipara 
+Monitor Set    
+Distribution outline: 
+ Basic parameters (ECG/heart rate, O2 saturation, NIBP, respiration 
+& temperature) – in all monitors 
+ Invasive BP module: in all monitors 
+ Microstream end tidal CO2 module: in 2 monitors 
+ 
+General: 
+ Upgradable Modular system, capable of being connected to a 
+central station 
+ The equipment should come with all standard accessories 
+required to run all parameters. 
+ Waveform display:  at least 6 channels, user selectable 
+ Digital display: Heart rate, respiratory rate, oxygen saturation, 
+temperature, Blood Pressure (systolic, diastolic, mean), 
+EtCO2(wherever applicable) 
+ Should be upgradable for measurement of cardiac output/SvO2 
+ Should be possible to move the Microstream end tidal CO2 
+module from one monitor to another. 
+ Should be able to remotely access the patient monitoring 
+system via internet 
+ System should be compatible with HIS and be HL-7 compliant 
+ Ready to run web based applications like HIS, PACS, RIS, LIS 
+etc on patient monitor screen itself without need of additional 
+server/PC hardware and software as standard supply. 
+ 
+Individual Monitors:  
+ Wall mountable and pivotable 
+ Medical grade, TFT Flat screen, slim size, at least 19‖ display 
+ Screen resolution at least 1280x1024 pixels 
+ Clear bright color display with large character size 
+ Should have both remote/ mouse control and knob control/ 
+touch screen 
+ Viewing angle at least 90o 
+ Adjustable contrast and brightness 
+ Ability to zoom any parameters  
+ Ability to adjust individual alarms  
+ Ability to change color of the trace by user 
+ RS 232C interface for data communication 
+ UPS system with at least 1 hour backup time 
+ Should provide a high quality thermal recorder interchangeable 
+module, 1 no with each monitor. 
+ Store and review trends for at least 24 hours 
+ 
+1. Parameters monitored : 
+The following modules complete with their accessories: 
+ Heart rate/ECG 
+ Respiration 
+ Oxygen saturation 
+ Temperature 
+ Non-invasive Blood pressure  
+ Invasive blood pressure 
+09 
+
+
+--- Page 12 ---
+Tender for Neonatal Multipara Monitor at AIIMS Jodhpur     
+                              Admn/Tender/40/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+ Microstream EtCO2 (2 monitors) 
+ 
+2. Heart rate/ECG: 
+ 
+At least 3-lead selectable ECG 
+ 
+Built in arrhythmia monitoring in all leads 
+ 
+Inbuilt ST segment analysis and arrhythmia detection facility 
+ 
+Display of 2 ECG leads simultaneously at a time 
+ 
+Heart rate range 20-240 bpm 
+ 
+Accuracy + 5 bpm 
+ 
+Display sweep speeds 12.5, 25 mm/sec (user adjustable) 
+ 
+Averaging time: user selectable up to 8 seconds 
+ 
+ECG amplitude user adjustable 
+ 
+Defibrillator protected 
+ 
+3. Respiratory rate 
+ 
+Measured by transthoracic impedance using the same ECG lead 
+ 
+Range 0 to 150 breaths/min 
+ 
+Accuracy + 2 bpm 
+ 
+Display sweep speeds 6.25, 12.5 & 25 mm/sec (user adjustable) 
+ 
+Averaging time: user selectable up to 8 seconds 
+ 
+User selectable apnea alarm time 
+ 
+4. Oxygen Saturation  
+ Masimo-SET technology to take care of low perfusion states 
+and motion artefacts.   
+ Dual wavelength LED pulse oximetry 
+ Range 1 to100% 
+ SpO2 accuracy : + 2 % ( 70-100% range) 
+ Averaging time: user selectable up to 8 seconds 
+ Plethysmographic waveform display 
+ 
+5. Temperature 
+ 
+Skin type capable of recording both central and peripheral skin 
+temperature 
+ 
+Continuous digital display of two site temperatures 
+ 
+Range: 25-50 degree Celsius 
+ 
+Resolution: ± 0.1 degree Celsius 
+ 
+Accuracy: + 0.1 degree Celsius 
+ 
+6. Non-invasive Blood pressure :  
+ 
+Capable of measuring blood pressure in neonates weighing 400 
+g to 5000 g 
+ 
+Microprocessor software with unit in mmHg 
+ 
+Oscillometric technique  
+ 
+Manual, auto and time limited stat modes 
+ 
+User selectable automatic time intervals  
+ 
+Display systolic, diastolic and mean BP 
+ 
+Blood pressure range  
+Systolic BP: 30-150 mm Hg 
+Diastolic BP: 10-100 mm Hg 
+Mean: BP 20 – 100 mmHg 
+ 
+Pulse rate range : 20-240 bpm 
+ 
+Cuff : auto deflate with over pressure protection 
+
+
+--- Page 13 ---
+Tender for Neonatal Multipara Monitor at AIIMS Jodhpur     
+                              Admn/Tender/40/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page13 
+ 
+ 
+Should automatically establish zero reference after each reading 
+ 
+7. Invasive Blood pressure  
+ 
+At least 2 channels 
+ 
+Compatible with reusable and disposable pressure transducers 
+ 
+Transducer should allow continuous infusion into the artery 
+through an infusion pump while pressure is simultaneously 
+displayed 
+ 
+Input through pressure transducer that functions through a fluid 
+filled catheter system  
+ 
+Unit: mmHg 
+ 
+Should allow continuous fluid infusion into the artery /vein 
+through an infusion pump without any volume limitation 
+ 
+Compatible with arterial BP, CVP, pulmonary artery pressure 
+and intracranial pressure monitoring catheters 
+ 
+Range 0-300 mmHg 
+ 
+Display resolution: ±1 mmHg 
+ 
+Accuracy ± 1mmHg 
+ 
+Digital waveform display 
+ 
+User selectable pressure channel display 
+ 
+8. Microstream end tidal capnography (EtCO2) 
+ Module should be interchangeable with any of the 6 monitors  
+ Microstream technology with neonatal mode 
+ Display of both waveform and numerical values 
+ Should be usable in intubated neonates  
+ Measured parameters: EtCO2, CO2 waveform, Respiratory rate 
+ CO2 range – 0-150 mmHg 
+ Respiratory rate – 0-150 breaths / min 
+ Display – in mmHg and % 
+ Accuracy - ±2 mmHg (0-38 mmHg) 
+ 
+9.   User selectable alarms 
+ 
+High and low heart rate  
+ 
+High and low respiratory rate 
+ 
+Apnea with adjustable time 5-20 seconds 
+ 
+High and low saturation 
+ 
+High and low SBP 
+ 
+High and low DBP 
+ 
+High and low MAP 
+ 
+High and low EtCO2 
+ 
+Probe failure 
+ 
+Poor signal 
+ 
+Power failure 
+ 
+Audio & visual alarms with message 
+10. Trends  
+ Memory storage : at least 24 hours 
+ Data display interval : not more than 20 sec 
+ Display range : last ½  hour to 24 hours 
+ Graphical and tabular format of display of variables 
+11. Power  
+220/240 V 
+50/60 Hz AC 
+
+
+--- Page 14 ---
+Tender for Neonatal Multipara Monitor at AIIMS Jodhpur     
+                              Admn/Tender/40/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page14 
+ 
+Rechargeable internal battery with a back up of at least 1 hr. 
+ 
+ 
+12. Manuals:  Operator & service manuals 
+13. Should be approved & certified by FDA (USA) and European CE  
+(certificate to be submitted)  
+14. Manufacturer should have ISO certification for quality standards 
+15. Shall meet the safety requirements as per IEC 60601-2-27:1994—
+Medical electrical equipment—Part 2: Particular requirements for 
+the safety of electrocardiographic monitoring equipment 
+16. Warranty and CMC would include the periodic calibration of all 
+parameters strictly as per manufacturer’s recommendations and 
+any spares or standards required for that should be borne at their 
+end 
+17. Onsite physical demonstration of the monitor with all the 
+requested modules will be mandatory 
+18. Should have local service facility  
+19. Essential Accessories  
+   The following quantities are to be supplied with the initial order 
+(Total/overall quantity): 
+ECG/Respiration 
+ 
+ECG patient cable : 18  
+ 
+Disposable small ECG electrodes for preterm neonates:   200 
+sets (set of 3) 
+ 
+Oxygen saturation 
+ 
+Patient extension cables: 27  
+ 
+Reusable neonatal wrap around probes: 90 
+ 
+Temperature 
+ 
+Reusable surface (skin) temperature probes: 2  
+ 
+NIBP 
+ Patient extension cable  – 10  
+ Disposable NIBP cuffs of sizes suitable for neonates  
+ <750 gm: 100 
+ 750-1000 gm: 200 
+ 1000-2000g: 200 
+ 
+>2000 g: 100 
+IBP 
+ 
+Transducer connecting cables which are compatible with 
+Edward Lifesciences disposable pressure transducers for 
+invasive BP monitoring:                                                        9 
+(Nine) 
+ 
+Disposable pressure transducer of Edward Lifesciences :  50                           
+                                                                                                                               
+Microstream capnography (EtCO2) 
+ Disposable EtCO2 sensors: Through ET tube: 75  
+ 
+20. Prices of above consumables and accessories should be quoted 
+separately in the financial bid. Company should ensure the supply 
+of consumables and accessories for the period of warranty and 
+CMC.  
+21. Shall meet IEC-60601-1-2:2001(Or Equivalent BIS) General 
+Requirements of Safety for Electromagnetic Compatibility. Or 
+
+
+--- Page 15 ---
+Tender for Neonatal Multipara Monitor at AIIMS Jodhpur     
+                              Admn/Tender/40/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+should comply with 89/366/EEC; EMC-directive 
+22.  The unit shall be capable of being stored continuously in ambient 
+temperature of 0-50deg C and relative humidity of 15-90% 
+23. The unit shall be capable of operating continuously in ambient 
+temperature of 10 -40 deg C and relative humidity of 15-90%   
+24.  Should have local service facility  
+25. User/Technical/Maintenance manuals to be supplied in English. 
+26. Certificate of calibration and inspection. 
+
+

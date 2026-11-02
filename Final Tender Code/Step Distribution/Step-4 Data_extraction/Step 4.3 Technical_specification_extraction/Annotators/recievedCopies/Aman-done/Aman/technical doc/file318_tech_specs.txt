@@ -1,0 +1,98 @@
+--- Page 28 ---
+ 
+Tender Enquiry No. F.No.24/ Obs & Gynae/ 214(III)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 28 
+ 
+ 
+DICOM compatible fully digital, compact portable Colour Doppler Ultrasound machine 
+is required with the following technical features: 
+ 
+1. The unit should be compact, lightweight and portable. Weight should not exceed 8kg excluding 
+cart and accessories.  
+2. It should be suitable for Gynecology, Obstetrics, abdominal, small parts and vascular 
+applications in adults and pediatric patients.  
+3. Multiple preloaded as well as user configurable application presets should be available.  
+4. Transducers: Three (1) Convex 5-2 MHz for abdominal imaging, (2) Linear 5-12 MHz for intra-
+op imaging (3) Endocavitory 8-5 MHz for transvaginal and transrectal ultrasonography and end 
+firing biopsy-one each.  
+5. All transducers should be lightweight digital phased array broadband type transducers with at 
+least 128 elements.  
+6. Detachable needle guide should be available with convex and endocavitory probes.  
+7. Imaging modes of Real time 2D, Colour Doppler, Pulsed wave Doppler, Power (energy) Doppler and 
+triplex Doppler should be available.  
+8. Advanced features such as tissue harmonic imaging with contrast media and beam forming 
+technology should be quoted as standard.  
+9.  Controls for 2D mode: Total gain, depth, TCG, dynamic range, acoustic power output, number for 
+position of focus.  
+10.  Controls for Colour Doppler: PRF, colour gain, position and size of ROI, steering of ROI, colour maps 
+and colour invert.  
+11.  Controls for pulsed Doppler: variable sample volume size from 1 to 5mm or more, steer, PRF, 
+baseline,gain angle correction, spectral invert, duplex/triplex on/off  
+12.  Measurements for 2D mode: Multiple distances, area and volume.  
+13.  Measurements for Doppler modes: Stenosis quantification in percentage, diameter, PSV, EDV, 
+mean,PI, RI, floor volume, acceleration time and index. Automatic and manual measurements and 
+display of pulsed Doppler Calculations should be possible.  
+14.  Cineloop memory of minimum 30 seconds on all modes.  
+15.  Flat LCD/TFT monitor of 10 inches or more.  
+16.  Alphanumeric soft keys keyboard with easy access scans controls  
+17.  Onboard storage of at least 1000 images. Storage in JPEG and AVI format should be possible.  
+18.  A. Sorting of data base with patient name and date should be possible.  
+ B.  All standard measurements, calculations & report formats should be available for vascular, 
+Gynae & Obs and abdomen applications.  
+19. . USB port connectivity to printer or computer.  
+20. . Facility for storage on CDR/DVD should be available. Data should be transferable through the 
+network to any other workstation.  
+21. Unit should be compatible with 200-240V, 50 Hz with Indian power requirement.  
+22. In built battery backup for at least 60 minutes use should be available.  
+23. The unit should be compatible with DICOM3 or more and it should be possible to connect to the 
+Hospital network through suitable LAN port. It will be the responsibility of the supplier to ensure 
+hassle free networking as and when requested.  
+24.  Essential accessories: Thermal colour printer, UPS, mobile cart with transducer holder, jelly bottle 
+holder and space for printer.  
+25.  Paper and cartridges for 1000 image printouts should be provided.  
+26.  The unit should be light weight and sturdy.  
+27.  The unit offered in the tender will require technical demonstration.  
+
+
+--- Page 29 ---
+ 
+Tender Enquiry No. F.No.24/ Obs & Gynae/ 214(III)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 29 
+ 
+28. List of users of unit offered should be enclosed along with the tender. The list should not contain 
+names of users of units other than the one quoted.  
+29. Price of the main unit and accessories to be quoted separately.  
+30.  Warranty: The unit, transducers and all accessories should be covered with comprehensive onsite 
+warranty  
+31. Suitable LASER colour printer should be provided. (Separate price to be quoted).  
+32. The system to be USFDA or European CE approved.  
+33. The bidder is expected to demonstrate the system when requested. However the necessary 
+documents should have been submitted with the technical bid.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,95 @@
+--- Page 11 ---
+Tender for Nerve Simulator                                                                                                Admn/Tender/51/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Nerve 
+Simulator 
+1. 
+The nerve stimulator should have nerve mapping facility. 
+2. 
+The nerve stimulator should have Remote control for sterile one 
+handed operation. 
+3. 
+The stimulator should work on 9V alkaline battery. 
+4. 
+The Power consumption should be 8mA max 
+5. 
+Stimulation current: 5 mA max  
+ 
+ 
+6. 
+Stimulation Voltage: 95V 
+7. 
+Stimulation frequency: 1Hz/2Hz  
+ 
+ 
+8. 
+Allowable load impedance: 0 kohms -12kohms 
+9. 
+Stimulus duration: 1.0ms to 0.05ms range 
+10. Current measuring accuracy: +/-0.02 mA 
+11. Impedance measuring range: 1 KOhms – 90 Kohms for target 
+stimulation current >0.5 mA  
+12. Weight: 250 g maximum 
+ 
+Free of Cost Accessories: 
+S. No   Product Description  
+Qty  
+1 
+Nerve stimulation needles 24G; 25mm 
+3 
+3 
+Nerve stimulation needles 22G; 50mm 
+3 
+3 
+Nerve stimulation needles, 21G; 100mm 
+3 
+4 
+Nerve stimulation needles 20G; 150mm 
+3 
+5 
+Nerve stimulation needles 18 G, 55mm 
+length with 40cm length catheter set 
+15 
+6 
+Nerve stimulation needles 18 G, 110mm 
+length with 100cm length catheter set 
+15 
+ 
+02 
+
+

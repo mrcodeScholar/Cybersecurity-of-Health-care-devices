@@ -1,0 +1,128 @@
+--- Page 16 ---
+NIT No. : AIIMS/R/CS/Micro/17/32/PAC 
+ 
+Page 16 of 20 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR 
+AUTOMATED RAPID MYCOBACTERIAL CULTURE & SENSITIVITY SYSTEM 
+(Make-BD,Model-BACTEC MGIT 960) 
+ 
+S. 
+No. 
+Item Description 
+ 
+   1 
+System should be capable of performing rapid culture,differentiation and sensitivity 
+testing for Mycobacterial. 
+ 
+2 
+System should be based on non-invasive technology; ensuring no bottle puncturing 
+during sample analysis. 
+3 
+System-working principle should be on non-radiometric technology. 
+4 
+System should be able to process minimum 15 fresh samples per day with standard 
+international negative protocol of 6 weeks. 
+   5 
+Should have more than 900 sample positions with compact space-saving design. 
+6 
+System should be able to monitor growth of organisms in each sample positions continously 
+7 
+System should have continous online automatic quality control check coupled with Barcode 
+Scanner. 
+8 
+System should not involve use of any sharp at the time of sample inoculation to avoid any 
+needle stick injury to user. 
+9 
+System should be capable of performing tests to differentiate typical and atypical 
+mycobacterial within 3-4 days’ time.  
+10 
+System should be able to process both respiratory & non-respiratory samples. 
+11 
+System should have the additive reagents – to make isolation media selective and enriched for 
+better isolation. 
+12 
+Company should have its own ready –to-use digestion and decontamination kit for better 
+sample processing and reduced contamination rate. 
+13 
+System should be supplied along with ready-to-use lyophilized drug vial for entire range of 
+1st Line Drug Sensitivity testing – S,I,R,E,P with certificate of analysis from manufacturing 
+units. 
+14 
+System should be supplemented with ready-to-use Pyrazinamide Test media to avoid any 
+false results in sensitivity testing. 
+15 
+Company should have its own factory certified drug kit for 1st Line Drug Sensitivity Testing 
+for 5 drugs along with Pyrazinamide  Drug Media. 
+16 
+System should have a validated protocol to perform 1st Line Drug Sensitivity Testing. 
+17 
+First Line Drug Kit /Media and its protocol should be FDA cleared and approved. 
+18 
+SYSTEM SHOULD BE ABLE TO GENERATE THE INTERPRETATION OF 1ST LINE DRUG 
+SUSCEPTIBILITY TESTING,AUTOMATICALLY. 
+19 
+System should be able to perform second drug sensitivity testing and should have a validated 
+protocol to perform 2nd Line Drug Sensitivity Testing. 
+20 
+System should be supplied along with additional computer for data storage. 
+21 
+Suitable online UPS (warranty from due of installation) with maintenance free batteries with 1 
+hour back-up to be supplied along with the system. 
+22 
+System should have provision for furture software upgradation. 
+23 
+System should be approved by Central TB Division, GOI for liquid Culture Facility. 
+24 
+Consumable  for at least 200 samples each should be provided free of charge along with kit 
+for rapid identification of isolates. 
+25 
+Latest  work-Station with relevant software should be provided with computer system having 
+
+
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/Micro/17/32/PAC 
+ 
+Page 17 of 20 
+ 
+S. 
+No. 
+Item Description 
+ 
+latest Microsoft Windows Professional Operating System with Licensed MS Office(Standard 
+2010 version), Intel core i7 processor,8 GB RAM, 2GB graphic, 1TB Hard Disk, Cd/DVD 
+Writer, Wireless Keyboard, Wireless Mouse, and Full HD 23” LED of reputed make and 
+suitable online UPS capable of 1 hour power back-up.The software should be equipped with 
+latest version of a reputed (Norton,McAfee,Kaspersky,Avira)antivirus program with 
+subscription for 5 years 
+26 
+System should be supplied with high end database management system which can 
+integerated to Hospital/Lab information system for bi-directional information flow 
+for patient data and information. 
+27 
+System should be supplied along with additional Laser-Jet Printer with minimum 
+output of 3000 pages with single cartridge. 
+28 
+The supplier should provide comprehensive training to users on operation of the 
+instrument,software and application support onsite as per specifications. 
+29 
+The equipment should come with 5 years’ warranty and 5 years’ CMC after the lapse of the 
+warranty period. 
+30 
+The cost of calibration, including  consumables required for callibration, should be included 
+within the warranty. 
+31 
+Certifications – CE(EU)/US-FDA. 
+ 
+ 
+Store Officer 
+AIIMS, Raipur 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

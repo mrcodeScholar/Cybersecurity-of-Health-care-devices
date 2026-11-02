@@ -1,0 +1,327 @@
+--- Page 58 ---
+47 
+ 
+SECTION – VII 
+TECHNICAL SPECIFICATION AND GENERAL POINTS 
+ 
+Intra-operative Neurosurgery Monitoring System for all types of 
+monitoring 
+ 
+1) 
+Should have Amplifier with at least 32 recording channels with the option to upgrade up to 48 
+channels. 
+2) 
+Stimulation and recording boxes should have color coding for ease of use and connectivity. 
+3) 
+Should have monitoring capability of EMG (Electromyograph), CMAP (Continuous Muscle 
+Action Potential), NAP (Nerve Action Potential), MEP (Motor Evoked Potential), SSEP (Somato-
+Sensory Evoked Potential), AEP (Auditory Evoked Potential), VEP (Visual Evoked Potential), TOF 
+(Train of four), EEG (Electroencephalograph), PUSEP (Phase-reversal SEP), Spine. 
+4) 
+Should have monitoring capability for vegetative functions and blader pressure monitoring. 
+5) 
+The Notebook should have at least Intel® i5-6440HQ, 8GB RAM, 500GB, 1920x1080, 
+Windows 7, 1xUSB 2.0, 2xUSB 3.0, 1xLAN, 1xCOM, 1xDisplay port, 1xAudio. 
+6) 
+Should have Amplifier Bandwidth in the range of 0.5Hz-5 kHz. 
+7) 
+Should have maximum input noise level of ≤1.5µVEFF (30Hz-2.5 kHz). 
+8) 
+Should have impedance measurement simultaneously on all input channels possible. 
+9) 
+Should have Constant current/voltage stimulator, charge balanced. 
+10) 
+Should have Controlled discharge stimulation pulse for optimizing the stimulation artifact 
+reduction during recording of corticobulbar MEPs and D-waves. 
+11) 
+Should have at least 12+1 channels for Stimulation (in which 1 channel is dedicated for DNS). 
+12) 
+Should have minimum of 0.05mA and a maximum of 5mA current range for DNS and for other 
+stimulation channels with a maximum of 25mA for probe stimulation. 
+13) 
+Should have 0.2mA to 250mA or more current stimulation for MEPs. 
+14) 
+Should have stimulation pulses in the range of 1-9 pulses. 
+15) 
+Should have stimulation frequency in the range of 0.2 – 450Hz. 
+16) 
+Should have pulse width of 60µs – 1500µs. 
+17) 
+Should have External Stimulator trigger via Foot/Hand switch or TTL trigger (at least 
+available for EMG). 
+18) 
+Should have at least two stimulators can be in use at the same time and all the stimulation 
+outputs could be controlled separately. 
+19) 
+Both the Referential amplifier (for recording EEG/SEP/AEP/VEP) and differential recording 
+(for recording EMG/MEP) should be available with the system. 
+20) 
+Future upgrades in hardware and software should be modular and automated within minutes, 
+without further installations, possible. 
+21) 
+Should have automatic storage of all recorded responses. 
+22) 
+Should have pre-installed templates for different applications and easy programming of user 
+defined measurement programs. 
+23) 
+Measurement programs should be editable at any time during the measurement. 
+24) 
+Should have both hardware and software mute function to reduce HF artifacts. 
+25) 
+Should have simultaneous video and audio integration of up to four external sources. 
+26) 
+Should be capable of generating the patient report with all recorded measurements and 
+patient details in a PDF/word format which could be accessible at any time. 
+27) 
+Should have complete range of accessories for recording and stimulation for all application 
+fields. 
+28) 
+Should be supplied with:  
+a. Monopolar stimulation probe Reusable/disposable – 1 no’s/10 no's respectively 
+b. Bipolar stimulation probe Reusable/disposable – 1 no’s/10 no's respectively 
+c. Subdermal needle electrodes Reusable/disposable – 20 no’s/ 60 no's respectively 
+ 
+ 
+d. Corkscrew electrodes – 60 no’s  
+ 
+ 
+e. D-wave electrode - 5 no's 
+
+
+--- Page 59 ---
+48 
+ 
+ 
+29)     Should have possibility to record the whole screen including video and audio signal and storage on to 
+ 
+ 
+the PC or to the network. 
+ 
+30)  Must be European CE or US FDA approved. 
+ 
+31) The supplier need to provide the individual prices of all reusable and disposable consumables required 
+ 
+for operation of the system. 
+ 
+32) Should have 3 years warranty (wherever applicable) & 05 Years CMC. 
+ 
+33) In case of reusable consumables declaration from the OEM has to be provided for their reusability at least 
+ 
+up to 30 times. 
+ 
+34) Preferably Make in India under Class II. 
+ 
+35) Each System will be evaluated in OR with live cases for at least 3 different cases to check potential and 
+ 
+user friendliness for technical evaluation. 
+ 
+SPECIFICATIONS FOR PORTABLE HIGHEND COLOR DOPPLER ULTRASOUND  
+ 
+Essential features/minimum specifications: 
+ 
+1. 
+General: 
+o 
+The system should be Premium End Multi-Disciplinary Digital Architecture suitable for applications 
+including complete General Imaging, tcd ,vascular, Intra operative capabilities, adult tee. 
+o 
+System should be capable of supporting broad band transducers with frequency range from 1-23 (+1 
+or -1) MHz 
+o 
+System should be compatible DICOM 3.0 or higher ready for connecting to HIS, RIS, PACS and DI-
+COM enabled printing devices. 
+o 
+System should be offered with inbuilt Wi-Fi connectivity. 
+o 
+System should have touch panel control for ease of operation. 
+o 
+System should have inbuilt 2 universal transducer ports connectivity. 
+o 
+System should have full alphanumeric keyboard. 
+o 
+System should have multidirectional wheels with locking system. 
+o 
+System should be portable weight less than 5-8 Kgs and should have in built battery backup of at-
+least 2hrs and in-built AC charger for charging the battery. 
+ 
+2. 
+System Operating Modes and features: 
+o 
+The system should be capable of operating in following modes: 
+o 
+Operating system should be Microsoft window 10 
+o 
+B Mode 
+o 
+M Mode (including colour M- Mode) 
+o 
+Colour Doppler 
+o 
+Power Doppler- Directional 
+o 
+Pulsed Wave Doppler mode 
+o 
+Duplex and Triplex modes 
+o 
+Tissue Harmonic imaging 
+o 
+Special Image Enhancement Software for brilliance imaging 
+o 
+Software for Speckle Noise Reduction with multiple steps 
+o 
+Software for Compound Imaging to acquire several coplanar scans of an object from different 
+views. 
+o 
+Vascular automatic optimization that corrects the position and angle of the colour box & position 
+and sample volume following the course of the sample 
+o 
+System should be Capable of upgrading 3D/4D. 
+o 
+System should be supplied with inbuilt learn & perform critical care & feature like E fast, vascular 
+access and QIMT 
+
+
+--- Page 60 ---
+49 
+ 
+3. 
+Display Monitor: 
+o 
+15” inch high resolution LCD monitor or more inbuilt. 
+o 
+It should be adjustable with tilt and swivel facility. 
+o 
+It should have tablet- style touch screen inbuilt 7.5 inches or more for easy and fast workflow. 
+4. 
+Transducers: 
+o 
+Multi frequency electronic convex array with frequency range of 1-8MHz  
+o 
+4-15MHz( +1 or -1) Broadband linear probe 
+o 
+Phase array PROBE 1-5 MHZ for TCD. 
+ 
+               Rates of following items to be quoted individually as optional: 
+ 
+1. 5mhz blind doppler cw probe 
+2. 5-13mhz small footprint phase array probe 
+3. Tee probe 3-7 mhz 
+ 
+5. 
+Measurement, Calculation, and reports: 
+o 
+Trackball with multiple sets of calipers for measurements. 
+o 
+Standard measurements like depth, distance, area, circumference, volume, ratio, angle, slope, time, 
+velocity, heart rate, etc. At least six distance measurements should be possible on one image with auto 
+repeat of measurement function. 
+o 
+Equipment should have multi-measurement and reporting capability in same examination. Meas-
+urements should be automatically reflected in the report page. 
+o 
+Automatic waveform trace in Doppler mode with display of calculated values and indices in real 
+time and frozen images. 
+o 
+Should have facility to characterize thyroid & breast nodule or mass using TiRads & Bi-
+Rads.(optional) 
+ 
+6. 
+Control Panel Software and other features: 
+o 
+At least 300000 digital processing channels 
+o 
+System dynamic range of 250dB or more and Fate rate of 1400 hz or more 
+o 
+User programmable presets for different types of examinations. 
+o 
+Automatic optimization function that optimizes system parameters for B- Mode and Doppler Mode. 
+This should be in addition to the presets for various examinations. 
+o 
+Multiple pre and post processing functions and colorize options. 
+o 
+Onboard archival facility with easy and rapid retrieval of images in the form of integrated DVD/CD 
+writes. Should be able to store static images and cine clips in system hard disc and in on board archival 
+devices. 
+o 
+Data archival should be possible to export data on DVD/CD, USB and Networking. 
+o 
+System should be provided with a highly advance software for review, post-process and printing of 
+exams on a PC workstation and should be capable to import native machine’s file formats. This software 
+should have the capability to perform various measurements and add annotations on the added data. 
+o 
+System should have more than 500 GB hard disc in built. 
+o 
+System depth should be up to 400 mm. 
+o 
+System should have upgradable to 3D/4D. 
+o 
+It should be possible to annotate and perform measurement function on recalled images. 
+o 
+Image display modes: Dual B+B, simultaneous B+B, 4B, Simultaneous B+ Colour, and display of B+M 
+and B+ colour + Doppler in various size combinations. 
+o 
+Application specific programmable annotations and body marks with image plane orientations. 
+
+
+--- Page 61 ---
+50 
+ 
+o 
+Ethernet port for networking and USB port. It should be possible to transfer images to desktop PC. 
+o 
+Free software upgrade of the equipment to be provided during the warranty and AMC period. 
+7. 
+Certifications: 
+The system should be European CE or US FDA certified. 
+8. 
+Warranty: 
+o 
+The system should have complete warranty of 3 years including transducers. 
+o 
+Warranty will commence after complete and successful installation of the main equipment and all 
+the supplied accessories. 
+o 
+Comprehensive annual maintenance for the system to be quoted for the next 5 years after expiry of 
+warranty periods. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

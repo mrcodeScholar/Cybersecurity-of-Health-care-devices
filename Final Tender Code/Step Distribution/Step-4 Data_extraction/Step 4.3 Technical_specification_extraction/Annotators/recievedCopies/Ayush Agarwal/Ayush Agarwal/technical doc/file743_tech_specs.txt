@@ -1,0 +1,158 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/21150/OPTH/18/OT/A 
+ 
+Page 19 of 23 
+ 
+ 
+ANNEXURE-I 
+SPECIFICATION FOR VITREO-RETINA UNIT WITH INTEGRATED 
+PHACOEMULSIFICATION FOR OPHTHALMOLOGY 
+Fluidic System 
+- 
+Venturi Pump – should have capacity to generate vacuum upto 650 mm Hg through 
+cassette system having 2 independent aspiration ports 
+- 
+Multiple duty cycles – Surgeon control. 
+Mode 
+- 
+IOP controlled infusion with noninvasive flow sensors. 
+- 
+Auto- venting 
+- 
+Preop, self-testing & reset functions. 
+Control 
+- 
+Control panel with touchscreen monitor 
+- 
+Storage of setting values for multiple surgeons. 
+- 
+Audio responsive with voice confirmations 
+Pedal 
+- 
+Watertight design 
+- 
+Wireless/ Wired to the console via electrical cable with multifunctions. 
+- 
+Integrated laser control. 
+Anterior segment 
+Phaco Functions 
+- 
+Multiple programme memories. 
+- 
+Ultra Sound phaco with autotunning 
+- 
+Submodes --  
+ Burst, pulsed, continuous 
+ Hand piece with Longitudinal and torsional movement 
+I/A function 
+- 
+Multiple programme memories  
+- 
+Continuous irrigation 
+Anterior segment Vitrectomy 
+- 
+Multiple programme memories 
+- 
+Submodes – Wet, Dry 
+- 
+Cut rate – 0 to probe maximum 
+- 
+Pedal control 
+- 
+Irrigation/ Aspiration/ Cut 
+Posterior Segment Vitrectomy  
+- 
+Multiple programme memories 
+- 
+Submodes – 3D, momentary – should have capacity to linearly control vacuum and cut 
+rate simultaneously in vitrectomy mode 
+- 
+Dual Pneumatic cutting capability    - 20G / 23G /25G compatibility  
+- 
+Linear/ progressive 100 – 5,000 cuts/ min or comparable 
+- 
+-MIVS options  - should have capacity to support MIVS like 27G and 25 G+ 
+ 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/21150/OPTH/18/OT/A 
+ 
+Page 20 of 23 
+ 
+Endoillumination 
+- 
+Xenon light source preferably with mirrors for uniform co-illumination with 2  or more 
+than 2 ports. 
+- 
+Fiber probe. 
+- 
+System should have ability to monitor the bulb life 
+- 
+System should have RFID capacity , which recognizes the probe connected and 
+automatically load the settings 
+Endolaser 
+- 
+Should have integrated green advanced laser  
+- 
+Preferably should have dual laser port 
+- 
+Should have voice confirmation 
+- 
+Should have fiber probe 
+- 
+Aiming beam -  635 nm  , class 2 or comparable 
+- 
+Treatment beam – 532 nm , class 4 or comparable 
+Air 
+- 
+Low pressure air source  
+- 
+Fluid/ Air exchange, automated function 
+- 
+Alarm function 
+- 
+Constant pressure control 
+Diathermy 
+- 
+Output power – 10 Watts maximum or comparable 
+- 
+Frequency 1.5 MHz or comparable 
+Gas 
+- 
+Auto gas filling (C3F8 & SF6) option  
+Stop-work 
+- 
+Auto stop cock 
+Fragmentation  
+- 
+Handpiece 
+- 
+Submodes – Linear, Fixed, Momentary 
+- 
+Pulse rate range – 0 to100 PPS 
+Reflux  
+- 
+Proportional & continuous reflux 
+- 
+Micro reflux 
+Viscous fluid control 
+- 
+Submodes – Inject, Dual, Extract  
+- 
+Extract vacuum – 0 to 650 mmHg 
+- 
+Pedal control 
+Others   –  
+- 
+The system should have automated silicone oil injection capability 
+- 
+Should have the facility for the extrusion of subretinal fluid 
+- 
+Should have the facility to use variety of phaco tips  
+- 
+Should have automate IOP control system. 
+- 
+Vitrectomy packs at least 50. 
+
+

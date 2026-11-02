@@ -1,0 +1,229 @@
+--- Page 35 ---
+Tender No-AIIMS-NAG/Radiology/Ultrasound/GTE/2023-24/21                                           Dated- 30/03/2024 
+Page 35 of 57 
+ 
+SECTION – VII 
+ 
+TECHNICAL SPECIFICATIONS FOR HIGH END COLOR DOPPLER ULTRASOUND SYSTEM 
+ 
+Sr.no.  HIGH END COLOR DOPPLER ULTRASOUND SYSTEM  
+1 
+The equipment must be robust state of art, fully digital high end latest Color Doppler Ultrasound 
+System must be capable of performing imaging applications in abdominal, obs/gynae, Fetal Heart, 
+musculoskeletal, small parts, Urology, Breast, Pediatric etc. 
+It should be capable of operating in B-Mode, M-Mode, Color Doppler, Color Flow and Power 
+Doppler Modes, Contrast microbubble ultrasound & 3D / 4D Volume Scanning, Real time 2D 
+Shearwave and strain elastography & Fusion capabilities. 
+2 
+It Should support transducers with single crystal/Matrix/ Pure wave/Equivalent technology. 
+Further include full array of measurements and calculation packages. The specific minimum 
+requirements for this equipment are as follows 
+3 
+System should have the latest technology to automatically focus the entire field of view on all 
+the probes. 
+4 
+The console should be height & rotation option adjustable. 
+5 
+The system monitor size should not be less than 23” and should have LED/OLED and 
+FHD/QHD/ LT HD resolution flat panel monitor. 
+6 
+The monitor shall be mounted on an articulating arm that moves side-to-side, forward, and 
+backward. 
+7 
+The system should have colour touch panel of minimum 13 inch or more with Fully customizable as per 
+multiple end user requirements for ease of use. 
+8 
+The system shall have minimum Four active universal probe Ports & at least 1 parking port to 
+be provided. 
+9 
+System shall have image management features that store images by patient and include the 
+ability to review images from different exam dates. 
+10 
+System shall support the ability to store digital data in that allows optimizing imaging 
+parameters such as B Gain, TGC, Color Gain, Dynamic Range, Speckle Reduction levels, 
+Doppler Gain, Doppler Base Line on old Images & old loops recalled from the image archive. 
+11 
+System shall allow for live image and archive images side-by-side or quad display on a single 
+monitor. This display shall allow any type of image – B-Mode, Color, or power Doppler on 
+either side. 
+12 
+Similarly, System should have upgradability option for Spatio Temporal Image Correlation tool (STIC) for Fetal
+Echo. 
+System should have option for structured reporting of Breast & Thyroid Lesions using BIRADS & 
+TIRADS scoring. 
+ 
+13 
+System should have Shear-wave Elastography with Convex, Linear and endocavitory Probe. System 
+should have Shear-wave/ strain Elastography with endocavitory Probe. System should have real time 
+color coded 2D Shear-wave in Abdomen, Breast, application. It should have real time color coded shear-
+wave/ strain elastography for prostate application. System should have Breast, Thyroid, Cervical and 
+prostate elastography with quantification. System should be capable of shear-wave liver fat 
+quantification/estimation for measuring & analyzing Hepato-Renal Index, with ratio of interquartile 
+range and median displayed on the screen along with attenuation value simultaneously, the values being 
+interpreted in m/s and Kpa. 
+14 
+Contrast Ultrasound Capability (CEUS) with Time Intensity Curve Graphs. 
+15 
+System should have the capability to compare previous patient images during live scan 
+16 
+System should have the capability of micro vessel flow imaging to visualize circulation micro 
+vessels without using the contrast.  
+17 
+System should have the capability to measure the area of lesions/Cyst automatically 
+18 
+Fusion and Navigation should be available for Advanced Intervention applications like Liver ablation 
+and Prostate Biopsy. 
+Fusion Imaging should be capable of allowing Patient Body Motion Tracker and Auto Registration. 
+Fusion Imaging should be available on Convex, Linear and Endo cavitary probes with reference images 
+
+
+--- Page 36 ---
+Tender No-AIIMS-NAG/Radiology/Ultrasound/GTE/2023-24/21                                           Dated- 30/03/2024 
+Page 36 of 57 
+ 
+of CT, MRI & PET. 
+ 
+19 
+System should be compatible or upgradable with Biplane Transrectal Transducers (Convex + Convex 
+and Convex +Linear) for Advanced Prostate Imaging. (May be optional) 
+20 
+System should have an AI feature in doppler studies which automatically places the color box 
+by understanding the location and direction of the vessels. 
+21 
+The system shall allow for Post-Storage image manipulation to provide maximum image 
+flexibility, review and productivity. It shall include the ability to change all following on 
+recalled old Stored Images/Loops: 
+a) Overall B-Mode gain, dynamic range and gray scale maps 
+b) Overall Doppler gain, base line shift, sweep speed and inverted spectral waveform 
+c) Anatomical M-Mode 
+22 
+The system shall provide a display zoom function on frozen images. 
+23 
+The system should have minimum 4,000,000 (Four Million) digital system processing 
+channels. (Please attach a letter from manufacturer clearly stating the digital processed channels of the 
+offered system. ) 
+24 
+The system shall possess the ability to control speckle through the use of a speckle reduction 
+algorithm that enhances borders, reduces speckle artifact and improves detail and contract 
+resolution in gray scale with compatibility in Color mode, 3D and side-by-side display. This 
+feature shall have operator selectable settings and be capable of displaying in side-by-side 
+mode with non-speckle reduced image. 
+25 
+The system shall provide scan depths from a minimum of 2 cm to a maximum of at least 35 
+cm. 
+26 
+System should have frame rate not less than 1900f/s. 
+27 
+System should have 256 gray shades 
+28 
+B-Mode / M-mode Imaging 
+29 
+The system shall provide the capability for coded tissue harmonic imaging on all offered 
+transducers. 
+30 
+Color flow/Bi -Directional Power Doppler/Pulse Wave Doppler  
+31 
+Measurements and Calculations 
+32 
+Measurements should be possible on frozen images as well as on images recalled from the 
+image archive. 
+33 
+The system shall provide a comprehensive set of obstetrical and gynecologic calculations and 
+vascular calculations with summary reports. 
+ 
+Image Archive and Networking 
+34 
+The device should store images onto an integrated DVD-R Multidrive and a USB port storage 
+device. 
+35 
+The system shall include at least 1TB HDD with 800GB space to store images. With 1TB 
+external storage hard disk. 
+36 
+The device should store images in DICOM, JPG, WMV and AVI or equivalent formats for 
+maximum flexibility. 
+37 
+DICOM Connectivity will be standard. Images should be transferable to PACS/external 
+devices. 
+38 
+Transducers 
+A 
+System should be able to handle frequencies from 1-18MHz 
+B 
+1 to 7 MHz +/-1 MHz Frequency Single Crystal/Equivalent technology convex probe for 
+Abdomen imaging with Shear-wave Elastography. 
+C 
+5-9 MHz Broad band – Single Crystal/Equivalent technology Linear probe for Abdomen, 
+Vascular, Small Parts with Shear-wave Elastography. 
+D 
+5-9 mHZ broad band –TV/TR probe for Gynec studies with Shearwave and Strain 
+Elastography. 
+E 
+4-9 Mhz Volume TV/TR Probe 
+F 
+3-10 MHz Single Crystal/Equivalent technology Micro Convex probe for pediatric 
+
+
+--- Page 37 ---
+Tender No-AIIMS-NAG/Radiology/Ultrasound/GTE/2023-24/21                                           Dated- 30/03/2024 
+Page 37 of 57 
+ 
+applications. 
+G 
+Single Crystal/Equivalent technology 2-6 mHZ volume convex probe for 4D/OBS application 
+H 
+8-18 MHz Hockey Stick musculo-skeletal probe 
+I 
+System should be able to use with TEE probe 
+J 
+The softwares supplied should be available and compatible with all probes for a period of 10 
+years. 
+K 
+The system should be USFDA/ European CE/ISO/BIS certified. 
+39 
+System should be supplied with the following accessories:  
+1. Biopsy guide compatible with TV/TR Probe (two quantities). 
+2. UPS with 30 min or more back up time should be provided for USG equipment.  
+3. Signage as per the PC-PNDT guidelines and approved by the state PCPNDT authority.  
+4. Appropriate probe cleansing solution / alcohol free wet vipes adequate for one year (50 
+packets).  
+5. Customised suitcases for keeping probes for storage.  
+6. Heavy duty covers for cables of probes to safeguard against rodent damage.  
+Kindly note: The vendor will have to ensure that the ultrasound scanner has GPS and 
+tracker enabled as per PC-PNDT requirements. The same should also be maintained till 
+the total warranty period and additional CMC period from date of installation. 
+7. The machine maintenance must be done by parent company only through its qualified 
+employee only and not through authorized dealer/distributors/franchisee/third party. 
+40 
+The system should be supplied with warranty of 5 year and CMC of 5 years after the warranty.  
+41 
+The system should be supplied with following standard accessories : 
+1. One desktop of latest configuration with 21.5” or more screen size,16 GB RAM with 1 
+TB SSD (Windows 10) with Sono Care / Similar imaging Software. 
+2. One laser color printer with scanner which will be compatible with printing colored 
+ultrasound images. 
+3. Revolving, ergonomic, smoothly rolling, height adjustable high quality foam executive 
+chairs (2 nos.) 
+ 
+      Technical compliance report should be submitted in following format 
+Sr. 
+No. 
+Item Description as 
+per Tender 
+Complied 
+Yes/No 
+Item Description 
+offered by Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

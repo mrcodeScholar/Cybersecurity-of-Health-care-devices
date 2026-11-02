@@ -1,0 +1,116 @@
+--- Page 10 ---
+   
+Tender for 3D OCT                                                                            Admn/Tender/44/2016-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+Technical Specifications for 3D OCT 
+ 
+1 
+Observation & photography of 
+fundus 
+  
+2 
+Picture angle 
+45° 
+3 
+Operating distance 
+40.7mm (in fundus photography) and 63.7mm (in 
+anterior segment photography)* 
+4 
+Photographable diameter of pupil 
+  
+5 
+Retinal camera 
+45°: Ø 4.0mm; smaller pupil diameter: Ø 3.3mm or 
+more 
+6 
+Optical Coherence Tomography 
+Ø 2.5mm or more 
+7 
+Observation & photography of 
+fundus / Anterior segment tomogram 
+  
+8 
+Scan patterns (Recommended) ** 
+  
+9 
+Macular: 3D Scan 
+512×128 ( 128 horizontal scan lines comprised of 
+512 A-scans ), 6×6mm Approx. 
+10 
+Macular: Radial Scan 
+1024×6 or 12 ( 6 or 12 radial scan lines comprised of 
+1024 A-scans ), 6mm Approx. 
+11 
+Disc: 3D Scan 
+512×128 ( 128 horizontal scan lines comprised of 
+512 A-scans ), 6×6mm Approx. 
+12 
+Disc: Circle Scan 
+ø3.4mm, 1024 A-scans Approx. 
+13 
+7 Line Raster 
+4096 A-scans per B-scan, 146mm Approx. 
+14 
+Scan speed 
+50,000 A-scans per second Approx. 
+15 
+Scanning range (On Fundus) 
+8.2×3mm, 6×6mm, 4.5×4.5mm, 3×3mm Approx. 
+16 
+(On Cornea)* 
+6×6mm, 3×3mm Approx. 
+17 
+Lateral resolution 
+<20μm Approx. 
+18 
+In-depth resolution 
+5 μm~6 μm Approx. 
+19 
+Observation & photography of 
+Fundus Image / Fundus Tomogram 
+  
+20 
+Internal fixation target 
+Matrix LCD (The display position can be changed 
+and adjusted. The presenting method can be 
+changed.) 
+21 
+Power source / supply 
+  
+22 
+Power source 
+Voltage 100/110/120/220/230/240V 
+23 
+  
+Frequency 50-60Hz 
+24 
+Power supply 
+200VA (max 400VA) 
+25 
+Dimensions / weight 
+  
+26 
+Dimensions 
+W545 × D535 × H600-630 mm Approx. 
+27 
+Weight 
+35 kg Approx. 
+28 
+  
+*With anterior segment attachment. 
+29 
+  
+**More variable scan patterns available with a 
+combination of different pixel and scan range. 
+ 
+ Ø –size of aperture 
+ US FDA/EUROPEAN CE required. 
+ 
+ 
+ 
+
+

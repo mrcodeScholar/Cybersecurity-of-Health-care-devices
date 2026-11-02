@@ -1,0 +1,94 @@
+--- Page 10 ---
+Tender for Neuro-Biofeedback   
+                                                                            Admn/Tender/24-2/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+NEURO-
+BIOFEEDBACK 
+It should have minimum 6 channels to maximum 32 channels like 
+EEG, EMG, EKG/ECG, Pulse/Heart Rate, Respiration, Temperature, 
+Skin Conduction, HRV Analysis & Neurofeedback should have 
+SMR Activity, Delta, Theta, Alpha, SMR, Mid-range Beta, High 
+Beta frequency bands, 3D brain maps. 
+- 
+It should have external and internal sensors. 
+- 
+High sensitivity USB interface connection with computer. 
+- 
+All channels can be used with any combination of sensors 
+- 
+The reading of subject's physiological data should be captured 
+through user friendly, light weight sensor modules and transmitted to 
+the PC using state-of-art technology. 
+- 
+A variety musical variation/ pre-defined programs to modify the 
+levels of relaxation. 
+Audio Visual feedback 
+- 
+Shall have a range of (>10) picture animations, videos 
+- 
+Modular system to enable use of parameters of choice at a 
+particulars time. 
+- 
+Simultaneously display of readings — the system should be able to 
+give differential readings from one person for different parameters at 
+same time. 
+- 
+Temperature module: The module shall measures skin temperature. 
+It shall be possible to attach temperature sensor used for measuring 
+temperature to hand or forehead with help of a headband or Velcro 
+strap. 
+- 
+Pulse module: The module shall measures pulse amplitude and 
+frequency. It shall be possible to attach pulse sensor to hand or 
+forehand with help of a headband or Velcro strap. 
+- 
+GSR module: The module shall measures skin conductance. It shall 
+be possible to attach Velcro strap to palm or finger/s. 
+- 
+Respiration module: The module shall measures breathing pattern. It 
+shall be possible to fasten the breathing belt around thorax or 
+abdomen. 
+- 
+EMG Module: The EMG signals detected with silver electrodes 
+(surface electrode) and amplified by a low noise pre- amplifier shall 
+be projected on monitor and available for recording. 
+-EEG Feedback: It shall be recorded by at least 6 channels. 
+Certification 
+1.The machine shall conform to the ISO & CE conditions 
+2.It shall also have electrical safety standard certificate 
+Computer & printer specifications 
+1. Desktop or Laptop (preferable) with Intel Core-i3 processor, 2.5 
+GHz or above. Memory- 
+4-8 GB DDR 2 RAM or higher, Hard 
+Drive — 500 GB 
+or higher Optical Drive — 16 x DVD(RW) and 
+headphone 
+2. Operating System: Windows 8 and above 
+Should have separate 15 inch TFT monitor for animation picture and 
+video animation games 
+Accessories 
+2 set of GSR Electrodes, 2 set of EMG Electrodes, 2 nos. of pulse 
+Transducer, 2 nos. of Temperature Transducer, 50 nos. of EEG 
+gold plated electrodes, conduction gel/paste, Earthing Wire & 
+User's Manual. 
+01 
+
+

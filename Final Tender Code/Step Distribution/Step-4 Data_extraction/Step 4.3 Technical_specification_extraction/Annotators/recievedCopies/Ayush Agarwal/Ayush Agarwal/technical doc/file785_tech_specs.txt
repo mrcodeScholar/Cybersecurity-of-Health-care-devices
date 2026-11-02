@@ -1,0 +1,40 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Nu.Med./19/347/A/OT 
+ 
+Page 17 of 22 
+ 
+Annexure - I 
+TECHNICAL SPECIFICATION Well Counter 
+ FOR NUCLEAR MEDICINE DEPAERMENT  
+ 
+Well Counter   
+1.Performance : Type : Drilled well crystal, Nal (T1) scintillator; Crystal Dimensions: 
+3.8 cm (1.5’’)* 4.4cm (1.75”); shielding: 1.3 cm (0.5”) lead. 
+2.Shielding: 2.7m (9ft) interconnecting cable; Channels: 256; Counting Rate: 100,000 
+cps, max. 
+3.Display Screen: type: 8” VGA LCD  color touch screen display; Bq/Ci Reading: User 
+selectable or fixed; Activity Display: Selected radionuclide ,efficiency, mewasured 
+activity and idsplay units (Bq/Ci); Count Rate Values: Wipe and lab test results. 
+4.Printer: RS-232 & USB Ports. 
+5.Tests:Diagnostics: Full Test of program, system memories. 
+6.Cable: Printer (Optional): 1.8m (6 ft); Power: 1.8m (6 ft) Display Unit Dimensions: 
+9.5” H*9.0” W*10.5” D (42*23*27 cm): Weight: 7.5Ib (3.4kg). 
+7.Well Counter Dimensions: 9.38” H *6” D *.67” Well Dia * 1.5” Well D (23.8 * 15.2 * 
+1.7* - 3.8 cm); Weight: 15.2Ib (6.9Kg); Cable Lenght 9ft. (2.7m ) – longer cables are 
+available.Consult factory. 
+8.Desktop Computer System 
+9.MCA interface PC Board : 1024 Channels, 
+10.Maximum count rate of 100,000 cps. 
+11.ROI’s are automatic or manual. 
+12.Preset live time,real time or total counts. 
+13.Automatic peak finding. 
+14.Flat field collimated to meet ANSI N44.3 – 1973. 
+15.Drilled well with 1” lead shielding (optional 2” shielding available) and brass liner. 
+16.Callibration sources: Cs-137 and Eu-152 (calibrated exempt sources provided at no 
+charges) 
+17.Power requirements: (With circuit protection,line filter and  isolation transformer) 
+18.Standard: 115V 90-127V 50-60HZ 
+19.Optional:220V 180-250V 50-60HZ. 
+ 
+
+

@@ -1,0 +1,125 @@
+--- Page 45 ---
+47 
+ 
+SECTION – VII 
+TECHNICAL SPECIFICATION AND GENERAL POINTS 
+ 
+ 
+Specifications for “Inverted Fluorescence Advanced Research Microscope with Imaging and 
+Microplate Facility” qty. 01 no.  
+ 
+ 
+TECHNICAL SPECIFICATION 
+ 
+Essential features: 
+1) A compact integrated unit, which includes microscope, digital camera, computer and 
+high-power lighting system for fluorescence imaging.  
+2) Should be equipped with an automated X-Y axis scanning stage and compatible with 
+microplate of different well types i.e., 96 well, 24 well and 6 well plates along with 
+opening and accessory vessel holders.  
+3) Should be capable of imaging in different modes essentially including fluorescence, 
+brightfield, color brightfield & phase contrast. The machine must include automated 
+objective turret, filter and condenser. The machine should be able to acquire images 
+simultaneously with at least three separate fluorescence channels plus one 
+transmitted light channel. 
+4) The system should also simultaneously accommodate at least 3 independent LED-
+based light cube illuminators with integrated hard coated fluorescence band-pass 
+excitation and emission filters for each cube plus a dedicated transmitted light slot. 
+5) The light cube should be interchangeable and free from calibration. Machine should 
+automatically recognize the installed and/or reinstalled light cubes and readjust 
+accordingly for the image capturing. 
+6) Lifespan of the fluorescence LED illuminators: More than 50,000 hours at 100% 
+power.  
+7) Minimum Required light tubes:  
+ DAPI (357/44, 447/60)  
+ GFP (470/22, 525/50) and  
+ Texas Red (585/29, 628/32)  
+8) Machine should be capable of accommodating minimum 5 objectives simultaneously. 
+Required objectives 
+ 4X   Fluorite or Apochromat, LWD, phase-contrast, 0.13NA/10.58WD" 
+ 10X Apochromat, LWD, phase-contrast, 0.30NA/7.13WD" 
+ 20X Fluorite, LWD, phase-contrast, 0.45NA/6.12WD 
+ 100X Apochromat, coverslip-corrected (Oil Objective) 
+ 
+9) The system should be equipped with 2 separate monochrome and CMOS cameras 
+with auto-switching capabilities and following features. 
+ Camera-1: Integrated high‐sensitivity with minimum 3.2 MP (2048 x 1536) 
+monochrome CMOS sensor and 3.45 μm pixel resolution. 
+ Camera-2: Integrated high-sensitivity with minimum 3.2 MP (2048 x 1536) color 
+CMOS sensor and 3.45 μm pixel resolution. 
+10) The system should be able to capture images in the single color, multicolor, area scan 
+(montage and tile), time lapse, Z-stacking and movie mode. 
+ 
+11) The system should be able to autofocus and provide a 1-click RGB channel overlay. 
+
+
+--- Page 46 ---
+48 
+ 
+ 
+12)  The system should allow image acquisition in standard field mode and in area mode 
+in which an 
+entire sample vessel sector is visible.  
+13) The system should allow identification and selection of a sample area of interest at 
+low magnification in area mode and automatically scanning the selected area at 
+higher magnification.  
+14) The system should be capable of automated full plate scanning in time-lapse and/or 
+area scan modes.  
+15) Minimum requirement of image analysis software included with machine:  
+• 
+Lifetime multiple user professional software, which is freely upgradable 
+• 
+Preconfigured and optimized analysis templates for common applications with tools 
+such as distance, region, angles, and area.  
+• 
+Should be capable of the time-lapse experiments for tracking cell movement or 
+migration.  
+• 
+Can track intensity changes over time, such as in cell death or target gene expression 
+studies. 
+• 
+Report can be generated in block diagram, graph, heat map, histogram, pie chart, 
+scatter plot.  
+16)  Desktop Computer with minimum following features:  
+Operating system: macOS; Screen size: minimum 24 inch; RAM: minimum 8 GB; 
+Storage: SSD 1TB, with wireless keyboard and mouse. Printer: Inktank color 
+printer with auto duplex and network connectivity.  
+17) Warranty and Training: Minimum One Year Complete warranty on all accessories, 
+lens and light source. On-site two trainings within warranty should be provided.  
+18) On-site demo, if required 
+ 
+ 
+ 
+Bidders must consider & upload the following documents in the Technical 
+bid & price bid. 
+1. 
+Tender acceptance Form (as per bid format) 
+2. 
+Manufacturers Authorization Certificate (As per bid format) 
+3. 
+Country of origin of quoted product. 
+4. 
+Product brochure 
+5. 
+Technical bid (with Make, Model and detailed scope of supply) 
+6. 
+Technical Compliance Statement (in tabular form) 
+7. 
+Product Certifications. 
+8. 
+Complete terms & conditions (Including warranty, CAMC, bank details, 
+mode of shipment, taxes, etc.) 
+9. 
+Product HSN Code & Sellers GeM ID number must be mentioned in 
+the technical bid. 
+10. 
+Details of Service Centre, (Complete Address) 
+11. 
+Bidders Registration Certificate, GST certificate, drug license (if applicable). 
+12. 
+Financial bids should be in the format provided in the CPP portal and no 
+other format is acceptable. If the price bid has been given as  a  standard BoQ 
+format with the tender document, then the same is to be downloaded and 
+to be filled by all the bidders. 
+
+

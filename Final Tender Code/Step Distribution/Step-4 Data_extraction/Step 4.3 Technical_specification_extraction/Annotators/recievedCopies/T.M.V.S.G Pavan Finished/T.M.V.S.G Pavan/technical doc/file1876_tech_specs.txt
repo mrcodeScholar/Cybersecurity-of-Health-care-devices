@@ -1,0 +1,317 @@
+--- Page 10 ---
+   
+Supply, Installation and Commissioning of Equipment required in Obstetrics & Gynecology Department 
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty. 
+1. 
+IUI Equipments: 
+ 
+ 
+a 
+Trinocular 
+Research   
+Microscope 
+a) High quality research microscope 
+b) Mechanical Tube Length 160 mm. 
+c) Negative phase contrast condenser 
+d) objectives 10X, 20X, 40X & 100X, with anti fungal treatment. 
+e) 45o inclined with 3600 Rotatable Trinocular head. 
+f) Camera port ready.(can be connected with a PC / monitor) 
+g) Camera should be of high resolution CCD camera 
+h) Co- axial built in Mechanical stage 125 x 150 mm with fine vernier 
+graduation, designed with convenient coaxial adjustment on ball 
+bearing guide ways for smooth slide manipulation through 50 x 70 
+mm. 
+i) Dust proof Quadruple ball bearing revolving nose piece with positive 
+click stops. Co-axial course & fine focusing adjustment knobs. Fine 
+motion graduated to .002mm. Sub stage abbe type N.A. 1.25 
+condenser focusable with rack & pinion, continuously variable iris 
+diaphragm with built in swing out filter holder. Heavy rectangular 
+sturdy base, with built in illumination 6V – 20W 
+halogen lamp/LED. With dust proof cover packed in Styrofoam 
+packing. 
+j) TFT monitor  : should be of 17” monitor 
+k) Should be USFDA or European CE approved product. 
+1 
+b 
+Centrifuge 
+Machine 
+a) Maximum speed of 4000 rpm or more 
+b) It has swing out head with 8X15 ml tubes with digital 
+c) speedometer and timer 
+d) Should be USFDA or European CE approved product. 
+1 
+c 
+Laminar 
+Air Flow 
+a) 99.97% filtration efficiency 
+b) Class 100 environment, fully operated inn plc with touch TFT/Button 
+operated LCD/LED display. 
+c) Table top stainless steel  
+d) Main frame crca power coated mild steel or wooden frame cover with 
+industrial laminated sheet  
+e) Washable prefilter 0.5 micron and high technology HEPA filter  
+f) 4feet X 2 feet X 2 feet with S.S. top , horizontal/ vertical, 0.33 
+microns 
+g) ULPA filters/ HEPA filters, UV LIGHT  
+h) Should be USFDA or European CE approved product. 
+1 
+2 
+Operative Laparoscopic Set 
+c 
+Ultrasonic 
+Cutting 
+Device 
+& 
+Vessel 
+Sealing 
+System 
+ 
+ Technical Specification of Generator for Ultrasonic Cutting and 
+Coagulation and advanced RF Energy device for Open and 
+Laparoscopic Surgery 
+ System should have a universal connector to connect Ultrasonic 
+energy and Advanced RF energy instruments. 
+ System should have automatic instrument recognition. 
+ System should be European CE or US FDA approved. 
+ System should have a touch screen display for fast and setup, 
+operation and onscreen diagnostics. 
+ System should have a high-resolution display with wide viewing 
+angles. 
+ System should have the ability for software updates via USB/ 
+memory stick/LAN/ HDMI Ports 
+1 
+
+
+--- Page 11 ---
+   
+Supply, Installation and Commissioning of Equipment required in Obstetrics & Gynecology Department 
+AIIMS-Jodhpur 
+Page 11 
+ 
+ System should be a generator that provides Ultrasonic energy and 
+Advanced RF energy technology for soft tissue dessication and seal 
+vessel upto 7 mm 
+ System should have a potential equalization terminal for 
+compatibility with other medical systems requiring such connections 
+ System should conform to the following international standards EN 
+(IEC) 60601-1, EN(IEC) 60601-1-2, EN (IEC) 60601-2-2, EN (IEC) 
+60601-1-8 
+ System should provide Class 1 protection against electric shock 
+ System should have a single footswitch for operating ultrasonic 
+energy or advanced RF energy instruments 
+ System should have the ability to select hand switch or footswitch 
+activation or both for Ultrasonic and advanced RF energy 
+instruments and the ability to change selection during use 
+ System should have English language as default 
+ System should not have minimal lateral thermal spread more than 1 
+mm. 
+ System should not have an auto switch off mechanism. 
+ System should have standby mode to ensure safety. 
+ System should come equipped with system diagnostics and 
+troubleshooting guide to pin point any problems in the systems. 
+ System should have onscreen warning display system for generator 
+overheating, generator software upgrade, hand piece errors and 
+instrument errors 
+ System should be able to power ultrasonic energy instruments with 
+45 – 57 KHz frequency. 
+ The hand piece for the system should come with an inbuilt 
+transducer. 
+ System should be compatible for open surgery and for laparoscopic 
+surgery. 
+ System should have various power settings levels with power level 
+display for ultrasonic energy instruments. 
+ System should be able to power energy instruments with 
+microprocessor controlled bipolar electrosurgical radiofrequency 
+technology with a quasi-sinusoidal forced impedance output. 
+ System should be equipped with smart advanced RF energy 
+technology to measure the tissue impedance and control the power 
+delivery. 
+ System should be equipped to simultaneously seal and transect 
+vessels up to and including 5mm, large tissue pedicles and vascular 
+bundles. 
+ System should be equipped with advanced RF energy technology 
+that provides temperature controlled energy delivery. 
+ System should have Advanced RF Energy hand instruments with a 
+unique electrode configuration to minimize the lateral thermal 
+spread. 
+ System should have Advanced RF Energy hand instruments with 
+technology to deliver high compression uniformly across seal area. 
+ System should have Advanced RF Energy hand instruments that 
+provide tissue /vessel seal strength to withstand bursting pressure of 
+minimum 5 times the systolic pressure. 
+ All hand probes for open and lap procedures should be able to 
+simultaneously cut and coagulate tissues. 
+ System should be able to power advanced RF energy hand 
+
+
+--- Page 12 ---
+   
+Supply, Installation and Commissioning of Equipment required in Obstetrics & Gynecology Department 
+AIIMS-Jodhpur 
+Page 12 
+ 
+instruments of 5mm shaft diameter for both open & laparoscopic 
+procedures with round tip (5mm tip width) in the following shaft 
+lengths (13 mm – 48 mm) and should be both hand & foot activated. 
+ Systems should be able to power ultrasonic energy hand instruments 
+of 5mm shaft diameter for both open & laparoscopic procedures 
+with the following specifications 
+ System should be USFDA and European CE approved. 
+ Open Surgery Instruments: 
+2. 17cm – 20 cm long shaft, curved/ straight tip for precise 
+dissection, seals 5 mm vessels or more, triggers support multiple 
+hand positions. 
+ 4. Curved Blade having telescoping shaft (10cm-14cm) with 
+integrated hand activation control buttons. 
+ 6. 18cm shaft hand activated straight coagulating shears capable of 
+sealing blood vessel upto 5mm. 
+ Laparoscopic Surgery Instruments: 
+1. 5mm Lap Hand or Foot Activated Curved/ straight Coagulating 
+instruments capable of sealing blood vessels upto 5mm in diameter, 
+35- 36 shaft length, ergonomic handle. 
+ System should comprise of the following 
+ Hardware: 
+ 1 Generator 
+ 2 Footswitch & Cable 
+ Accessories: 
+ 1 Handpiece (Transducer) 
+ 2 Handpiece 
+ 3 Generator Cart 
+3 
+COMPACT OFFICE HYSTEROSCOPY SET 
+ 
+ 
+a 
+OFFICE HYSTEROSCOPE TELESCOPE WITH INTEGRATED INFLOW 
+CHANNEL: 
+The Integrated Examination Hysteroscope should be a  having 25-30° telescope 
+with lens size 2.9-3.0 mm , Size with inbuilt  irrigation channel  , length between 
+22- 26 cm, with irrigation adaptor, autoclavable, fiber optic light transmission 
+incorporated. The telescope should have   inbuilt inflow channel and does not 
+require any assembling in its single flow version. 
+1 
+ 
+b 
+DIAGNOSTIC OFFICE HYSTEROSCOPE SHEATH: 
+Hysteroscope sheath for diagnostic continuous irrigation should be of  size 3.6-
+3.8mm, length 18-20 cm, with suction adaptor, for use with 2.9-3.0mm 
+hysteroscope telescope with integrated inflow channel and the sheath should be 
+usable in active and passive positions. 
+1 
+ 
+c 
+CONTROLLED IRRIGATION UNIT FOR HYSTEROSCOPY 
+IRRIGATION: 
+CONTROLLED 
+IRRIGATION 
+UNIT 
+FOR 
+OPERATING 
+HYSTEROSCOPE 
+TO 
+MAINTAIN 
+INTRAUTERINE 
+CAVITY 
+PRESSURE 
+AS 
+DESIRABLE 
+BY 
+SURGEON. 
+PRESSURE 
+OF 
+IRRIGATION TO BE MAINTAINED BETWEEN:   
+(PRESSURE 0-200mmHg). FLOW TO BE MAITAINED BETWEEN:  (& 
+Flow between 0-500ml/L.)   
+AUTOMATIC DOME DETECTION FACILITY. 
+Should be supplied along with following accessories: 
+ HYSTEROSCOPE reusable Tubing Set, 2 Nos. 
+Reusable Pressure dome 2 Nos. 
+Suction bottle 5.0L 2 Nos. 
+Suction bottle cap with stand 
+Suction tubing set reusable 2 Nos. 
+1 
+ 
+d  
+COMPACT COMBINED UNIT FOR CAMERA, LIGHT SOURCE , 
+1 
+
+
+--- Page 13 ---
+   
+Supply, Installation and Commissioning of Equipment required in Obstetrics & Gynecology Department 
+AIIMS-Jodhpur 
+Page 13 
+ 
+SPECIFICATIONS: 
+1. The Instruments quoted should be of high quality and standard.  
+2. The Instruments should have European CE or USFDA certification.  
+3. Copy of the European CE certificate or USFDA certificate should be enclosed.  
+4. The Instruments must be ISO certified ISO 7153 and copy should be enclosed.  
+5. The Instruments should preferably have a certificate of Primary Passivation Process. 
+ 
+Administrative Officer  
+AIIMS, Jodhpur 
+MONITOR AND USB RECORDING 
+COMPACT ENDOVISION CAMERA SYSTEM 
+The Camera system should be compact and portable suitable for a variety of 
+endoscopic applications from physician’s offices to operating room.   
+ 
+The all-in-one unit should consist of everything needed for Endoscopic 
+imaging, Video recording, and viewing of saved Videos, the monitor, 
+camera, and light source. It should have camera head with optical zoom 
+facility with universal Telescope coupler. It should have horizontal 
+resolution of more than 450 Lines. 
+ 
+Should have two to six USB ports and SD Card slot  for documentation 
+purpose. 
+DISPLAY: should be Crystal clear  
+- 
+Minimum 15" LCD display  
+- 
+Image rotation   
+- 
+DVI video output for brilliant transmission quality 
+ 
+Easy and reliable control - Should have keyboard with hot keys for rapid and 
+direct manipulation - Arrow buttons for intuitive control. 
+ 
+Natural illumination - Metal halide Hi-Lux 50 Watt/ 150 Watt LED high-
+performance  light source  - Color temperature similar to daylight   - Should 
+have Long lamp life  
+ 
+e 
+VIDEO MOBILE TROLLEY SUITABLE FOR OFFICE 
+HYSTEROSCOPE EQUIPMENT. 
+Video trolley to be supplied for mounting equipments having minimum four 
+shelf in addition to with one drawer, with antistatic wheel casters, front 
+lockable, high grade of electrical insulation and earth protection. 5 Ampere 
+socket, 10Nos, inbuilt with trolley to connect all electronic devices. IV stand 
+should be provided. Potential equalization connection to be provided at least 
+10 points. Powder coated good quality rust free and should be able to take 
+load minimum up to 70 Kg. Should be medical grade. 
+1 
+ 
+f 
+ADVANCE AUDIO VIDEO RECORDING AND DATA 
+DOCUMENTATION 
+The Full High-Definition Documentation System (certified to be used in OT) 
+designed specifically for recording, managing, and archiving surgical images 
+and video in native full HD resolution. The captured full high-definition, 
+images & videos can be accessed from the hard drive for printing or saving 
+onto multiple forms of external media which includes CD-DVD, USB Flash 
+Drive (2.0 & 3.0) & Hospital network through FTP.   
+System should have 2 DVI inputs for dual video recording.   
+The hardware of computer system should be latest technology. It should have 
+built in touch screen. 
+ALL ITEM SHOULD BE EUROPEAN CE or USFDA CERTIFIED 
+PRODUCT. 4 
+1 
+
+

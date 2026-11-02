@@ -1,0 +1,181 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT 
+ 
+Page 18 of 37 
+ 
+recording device from the camera head.   
+● 
+ System should have facility to offer various visualization modes for surgery and diagnosis 
+by shifting the color spectrum like BLUE & GREEN light for recognition of the finest tissue 
+Structures and their differentiation.  
+● 
+Parallel live display of visualization modes besides white light mode (picture-in-picture). 
+● 
+Modular design: Digital FULL HD camera module should be compatible for use with video 
+flexible GI endoscopes. 
+● 
+Upgradable to be used with 3D endoscopic camera heads and scopes 
+Technical Specifications: 
+Image sensor: 3X1/3’’ CCD-Chip. 
+Pixels - 1920 x 1080 
+AGC: Microprocessor controlled 
+Lens: Integrated Zoom Lens f = 15-31 mm (2x optical zoom) 
+Minimum light sensitivity: 1.17 Lux (f = 1.4 mm). 
+Control buttons: 3 (2 of them freely programmable). 
+Video output:   2 x DVI-D output, 1 x 3G-SDI output, 3 x camera input for communication with 
+compatible camera modules, LAN   connection, 4 x USB connection (2 x front, 2 x back). 
+Input: Keyboard input for character generator. 
+Power Supply:-   100-240 VAC 50/60 Hz 
+ 
+ 
+ 
+ 
+High Definition Medical Grade Monitor 32’’ capable of displaying 2D & 3D image – 1qty 
+ 
+● 
+LCD Panel 32 inch ( 16:9 aspect ratio) 
+● 
+High Definition 1920*1200 pixel resolution 
+•    Various signal inputs: DVI-D for 3D signal DVI-D for 2D signal in HD, HD-SDI for 2D signal 
+in HD, S-Video for 2D signal in standard resolution 
+•  viewing angle- Horizontal: 178 degrees, Vertical: 178 degrees (3D: TBD) 
+● 
+Contrast 1000:1 
+● 
+Should be able to display 3D and 2D image. 
+ 
+Xenon Light Source 300 Wats- 1 qty  
+ 
+● 
+Lamp type:-  Xenon  300 Watt  
+ 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT 
+ 
+Page 19 of 37 
+ 
+● 
+Color Temperatures 6000K 
+ 
+● 
+Light Outlets – 1 
+ 
+● 
+Light 
+Intensity 
+Adjustment: 
+- 
+Continuously 
+adjustable 
+either 
+manually 
+or 
+ 
+automatically by cameras video output signal. 
+● 
+Should be supplied with Fiber Optic Light Cable of Diameter 3.5 mm, Length 300cm. – 1 no 
+IMAGE/VIDEO RECORDING AND DATA ARCHIVING SYSTEM capable of record in 3D and 2D 
+ 
+ 
+ State of the art user friendly Medical grade system (certified to be used in OT) should be offered 
+with following features, 
+● 
+User should have full control of the system from the sterile field via camera head buttons, 
+optional touch screen, and optional foot switch. 
+● 
+Parallel (synchronic or independent) recording of two image sources. 
+● 
+Still images and videos (optional with audio) in 2D FULL HD or 3D (with optional 3D-
+camera system). Water mark feature. 
+● 
+Intelligent, adaptive storage management. 
+● 
+Storage location is freely definable and configurable. 
+● 
+Storage on internal memory (2 TB, FIFO), USB storage media via 2.0 and 3.0, optical 
+media (DVD writer, Blu-ray reader), network drive, FTP or via DICOM. 
+● 
+Automatic storage in the background to reduce the time between the interventions. Easy 
+management and overview of open/automatic save processes. 
+● 
+Import of patient data via keyboard or DICOM work list. 
+● 
+Intra- and postoperative printing via optional printer (local or network). 
+● 
+Various adaptable templates for printing to choose from. 
+● 
+Integrated surgical checklist following the WHO standard or customizable. Basic functions 
+for the editing of still images and videos. 
+● 
+Playback of 2D and 3D content on separate monitor (optional 3D-system required). 
+● 
+Integrated file-viewer for still images, videos and checklists from diverse data sources. 
+● 
+Integrated security software as a protection against malware, independent from security 
+patches of the operating system and it is only possible to run certified software. 
+● 
+Structured and clear user guidance, optimized for touch screen control. 
+● 
+Scalable range of functions. 
+● 
+Low noise generation and fast system start due to SSD-technology. 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Neuro /87/18/OT 
+ 
+Page 20 of 37 
+ 
+● 
+Should have seamless USB silicone keyboard with touch pad to enter details 
+● 
+Controllable via 12’’ inbuilt touch screen 
+● 
+Input Voltage: 100-240 VAC. 
+● 
+Input Frequency: 50 - 60 Hz. 
+● 
+Power output: 350 Watt. 
+● 
+CPU: Intel® Core™ i7-2600 @ 3.4GHz. 
+● 
+Internal memory: SSD (70GB) | HDD (2 TB). 
+● 
+Memory RAM: 8GB. 
+● 
+Connectors: 3 x 1 GB Ethernet (RJ 45), 6x USB 2.0, 2x USB 3.0. 
+● 
+Image format: BMP, JPG, JPG2000. 
+● 
+Video format: MPEG-4, MPEG-2, MOV. 
+● 
+Video signal inputs: 2 x DVI-D. 
+ 
+● 
+Color system: PAL, NTSC. 
+● 
+Resolution still images: up to 1920x1080, Aspect ratio 16:9. 
+● 
+Resolution videos: up to 1920x1080 Progressive Scan for 25/30 frames. 
+● 
+Preinstalled printer: SONY UP-DR80MD. 
+● 
+Type approval: IEC 60601-1-1, EN60601-1, EN60601-2. 
+ 
+The DICOM 3 interface shall be installed to the system in order to allow the surgeon to view all the 
+DICOM 3 images stored in the PACS system on a digital light box within the operating rooms. 
+Furthermore, all intra operative images recorded can be sent via the DICOM 3 interface to the 
+PACS system for further processing. 
+Imported Endoscopic Trolley – 1 Qty 
+ 
+Equipment Cart, rides on 4 antistatic dual wheels equipped with locking brakes, central beam with 
+integrated electrical sub-distributors with 6 sockets, grounding plugs, modular in nature (should be 
+able to add shelves and components later if required). 
+ 
+Should have central monitor holder to mount monitor with height adjustable, swiveling and tilting, 
+swivel range approx. 360°, loading capacity max. 18 kg, with monitor mount VESA 75/100. 
+ 
+
+

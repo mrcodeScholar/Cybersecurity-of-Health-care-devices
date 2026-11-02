@@ -1,0 +1,129 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Micro/18/08/OT 
+ 
+ 
+Page 19 of 24 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR 
+CHEMI DOC IMAGING SYSTEM 
+ 
+Specification for Chemi Doc Imaging System 
+ 
+1. Sensitive, autofocus, multimode image capture and analysis via an intuitive 
+touchscreen 
+interface 
+with 
+the 
+application 
+of 
+Chemiluminescence, 
+Fluorescence, Colorimetry and Gel Documentation to analyze  western blots, 
+Stained Nucleic acid Gels, Stained protein gels and Nucleic Acid Blots, 
+molecular weight calculation, band distance, colony counting, merge marker 
+etc.  
+2. Motorized fixed lens optics with F/0.70 aperture. 
+3. Should have motorized 7-position filter wheel for dye flexibility of different 
+fluorescent stains and for multiplexing. 
+4. Should have scientific 6 CCD camera with sensor size of 1 inch must for high 
+sensitivity and extremely high level of resolution  
+5. Camera should give 6.3 megapixels native and 20 megapixels of motorized 
+zoom lens with -55˚C maximum differential cooling from the ambient with -
+30˚C absolute and regulated cooling by three stage peltier thermoelectric 
+cooler. 
+6. Auto Focus: System should have precalibrated focus for any zoom setting or 
+sample height 
+7. Image output should be of publication quality TIFF format 16-bit with 65,536 
+gray scales and dynamic range of > 4.8 OD 
+8. System must have native binning mode 1 x 1 to achieve 6.3 megapixels 
+native image and subsequently 2x2, 3x3, 4x4, 8x8 
+9. System should automatically take a corresponding visible white image with 
+every chemiluminescent image exposure and should allow overlay/merge 
+alignment with pre-stained MW markers.  
+10. System should not have any plastic cabinet to avoid auto fluorescence from 
+dark room. 
+11. The complete capability to replace a Dark Room.  
+12. The Exposure time should be from 40 milliseconds to 120 minutes or less.  
+13. Illumination source should be 302 or 312 nm trans UV and LED epiwhite. 
+Should have minimum of 10.4 inch touchscreen display with an integrated / 
+external computer with >200GB hard drive. To operate the touchscreen 
+interface, a stylus should be provided along with the system.  
+14. All mini/midi and large gels should be imaged in the system. Image are at 
+least 16 X 20 cm.  
+15. The System should create Dark and Biased Master files to compensate for 
+the noise coming from the CCD Camera during Image Acquisition.  
+16.  The capability to automatically capture a series of images using preset or 
+user defined exposure times. 
+17. Innovative molecular weight overlay/merge feature where colorimetric 
+molecular weight marker can be overlaid onto a chemiluminescent image for 
+molecular weight determination without compromising the underlying 
+chemiluminescent densitometry data. 
+18.  System have the technology to visualize faint bands thereby increased 
+sensitivity 
+with 
+no 
+visible 
+light 
+background 
+while 
+performing 
+gel 
+documentation.  
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Micro/18/08/OT 
+ 
+ 
+Page 20 of 24 
+ 
+19. Should have light safety switch override for safety and for preparative work 
+when the door is open.  
+20. Software should be multi-user licensed provided for analysis and must 
+include features for auto exposure and 3D Dynamic scan. 
+21. System must have in-built Red, Green & Blue LEDs along with emission 
+filters one each for Red, Green & Blue excitation to support multiplexing 
+studies. 
+22. The Software should be able to calculate sample purity automatically 
+based on band and lane intensity and should be able to calculate the 
+Relative and Absolute quantity of the unknown proteins samples. 
+23. Should be an open platform to accept standard image file types (i.e., TIFF, 
+JPEG, PNG, GIF, BMP files).  
+24. The Software should be able to edit the Images and Text Annotation option 
+should also be there.  
+25. The Software should perform Lane Profile Densitometry (Lane and Band 
+Identification) and it should also analyze Molecular Weight; determine the Rf 
+and Molecular Weight of protein or Nucleic Acid Bands using Installed or 
+Custom MW Markers  
+26. Software should have highest level of automation in hardware calibration, image 
+optimization, capture, and analysis. 
+27. Should have automated image capture driven by a selected gel or blot application.  
+28. Software should have automated normalization feature for normalizing western 
+blot signals of target band with either a housekeeping protein band or total 
+protein load of a sample.  
+29. Software should have feature for Automatic print when only imaging and printing 
+is required. 
+30. Software should have unlimited undo and redo functions to easily correct for any 
+missteps with additional features like easy copy/paste, crop, zoom, 3D viewer and 
+colors. 
+31. Should be single software for acquisition and analysis with no requirement for any 
+license or registration. 
+32. Free life time upgrade for acquisition and analysis software should be available 
+freely on the internet.  
+33. System should be supplied with reagents for initial demonstration and training 
+(Pre stained protein marker 500µl, Unstained protein marker 1ml, ECL substrate 
+300ml) 
+34. Should be supplied with suitable computer(core i5 CPU, 4GB RAM, 1TB HDD, 
+18.5” monitor, 6th generation motherboard) and 1KVA online UPS with 30mins 
+back up.  
+35. Electrical specification: 220 volts, 50Hz. single phase A.C.  
+36. System must have European CE/ FDA. 
+37. Should be supplied with warranty of two years. 
+38. AMC for 3 years. 
+ 
+Note: Compliance of the technical specification will be determined by the 
+technical committee from a brief 10 minute power point presentation by the 
+manufacturer/ representatives justifying the compliance to each of the above 
+mentioned specifications with documentary proof. 
+
+

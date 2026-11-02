@@ -1,0 +1,133 @@
+--- Page 9 ---
+Tender for Server hosting Computerised Patient Management System and other applications 
+Admn/Tender/21/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 9 
+ 
+Annexure-1 
+ 
+Sr. No Item 
+Server Configuration 
+Qty 
+01. 
+Server 
+hosting 
+CPMS & 
+other ap-
+plications 
+Four (4) Non-Windows Servers inter connected dedicated Server to 
+each other for processing data. WHM (root) Access will be under 
+Chairperson IT-Cell. Tenure (02 years) 
+Technical Specifications for the servers are as follows: 
+First Dedicated Server  
+1. Intel® Xeon® Processor E5 or above with 16 Physical CPU Cores 
+(Minimum 2.0 Ghz or above with HT Technology) 
+2. 128 GB DDR4 RAM 
+3. 6 TB HDD with Enterprise SATA with RAID 1 
+4. Unlimited Data Transfer 
+5. Dedicated IP's 3 in No.'s 
+6. NGINX Basic License (Paid Version) 
+7. Priority Support (1-5 Minutes Response Time) 
+8. External Backup Of Last Three Days With Three Restore Points 
+(Both At Remote Location & Local) 
+9. C Panel (Control & Access Portal) 
+10. Fully Managed Server 
+11. DDOS Protection 
+12. 99.5% Up-time 
+13. 3 GBps Dedicated Line Internet Connectivity 
+14. 4 GBps VLAN  Ports (2 No.s) (Connecting All Three Servers) 
+15. Regular Monitoring 
+16. Hardware Firewall. 
+01 
+2 
+ 
+Second Dedicated Server 
+1. Intel® Xeon® Processor E5 or above with 28 Physical CPU Cores 
+(Minimum 2.0 Ghz with or above HT Technology) 
+2. 256 GB DDR4 RAM 
+3. 1 TB SSD or SSD NVMe with RAID 1 
+4. Unlimited Data Transfer bandwidth 
+5. Dedicated IP's 3 in No.'s 
+6. NGINX Basic License (Paid Version) 
+7. Priority Support (1-5 Minutes Response Time) 
+8. External Backup Of Last Three Days With Three Restore Points 
+(Both At Remote Location & Local) 
+9. C Panel (Control & Access Portal) 
+10. Fully Managed Server 
+11. DDOS Protection 
+12. 99.5% Up-time 
+13. 3 GBps Dedicated Line Internet Connectivity 
+14. 4 GBps VLAN  Ports (2 No.s) (Connecting All Three Servers) 
+15. Regular Monitoring 
+16. Hardware Firewall 
+01 
+
+
+--- Page 10 ---
+Tender for Server hosting Computerised Patient Management System and other applications 
+Admn/Tender/21/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+3 
+ 
+Third Server Dedicated Server 
+1. Intel® Xeon® Processor E5 or above with 28 Physical CPU Cores 
+(Minimum 2.0 Ghz with HT Technology) 
+2. 256 GB DDR4 RAM or above 
+3. 1 TB SSD or SSD NVMe with RAID 1 
+4. Unlimited Data Transfer Bandwidth 
+5. Dedicated IP's 3 in No.'s 
+6. NGINX Basic License (Paid Version) 
+7. Priority Support (1-5 Minutes Response Time) 
+8. External Backup Of Last Three Days With Three Restore Points 
+(Both At Remote Location & Local) 
+9. C Panel (Control & Access Portal) 
+10. Fully Managed Server 
+11. DDOS Protection 
+12. 99.5% Up-time 
+13. 3 GBps Dedicated Line Internet Connectivity 
+14. 4 GBps VLAN Ports (2No.s) (Connecting All Three Servers) 
+15. Regular Monitoring 
+16. Hardware Firewall 
+01 
+4 
+ 
+Fourth Server 
+1. Intel® Xeon® Processor E5 or above with 24 Physical CPU Cores 
+(Minimum 2.0 Ghz with or above HT Technology) 
+2. 64 GB or above DDR4 RAM 
+3. 6 TB Solid State Drive with RAID 1 
+4. Unlimited Data Transfer 
+5. Dedicated IP's 3 in No.'s 
+6. NGINX Basic License (Paid Version) 
+7. Priority Support (1-5 Minutes Response Time) 
+8. External Backup Of Last Three Days With Three Restore Points 
+(Both At Remote Location & Local) 
+9. C Panel (Control & Access Portal) 
+10. Fully Managed Server 
+11. DDOS Protection 
+12. 99.5% Up-time 
+13. 3 GBps Dedicated Line Internet Connectivity 
+14. 4 GBps VLAN Ports (2 No.s) (Connecting All Three Servers) 
+15. Regular Monitoring 
+16. Hardware Firewall 
+01 
+ 
+ 
+Storage Space/Server For Daily Incremental Backup 
+ 
+ 
+ 
+Storage Space/Server For Daily Remote Incremental Backup In Different 
+Seismic Zone 
+ 
+ 
+ 
+Backup (External) 6 TB (At Remote Location and Server) - Backup for 
+each server should be two to three times the HDD capacity since this is a 
+critical application and backup should be maintained in a different conti-
+nent/seismic zone. 
+ 
+
+

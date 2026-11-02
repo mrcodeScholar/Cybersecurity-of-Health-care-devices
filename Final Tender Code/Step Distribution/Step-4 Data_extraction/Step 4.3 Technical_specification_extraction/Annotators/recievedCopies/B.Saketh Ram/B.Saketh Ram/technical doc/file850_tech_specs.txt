@@ -1,0 +1,49 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/39506/OPTH/19/OT/A 
+ 
+Page 18 of 21 
+ 
+ 
+ 
+ANNEXURE-I 
+ 
+DETAILED TECHNICAL SPECIFICATION FOR KERATO 
+REFRACTOMETER 
+1) Certification: BIS / ISO / European CE / US FDA approved product. 
+2)  Refractive power measurement range:  
+I. Spherical refractive power: -25 D to + 22 D  
+II. Cylindrical refractive power : -10D to +10 D (Steps of 0.12D/0.25D) 
+III. Astigmatic axial angle : 10 to 1800 (Steps of 10  /50) 
+3)  Keratometry measurement range :  
+I. Corneal curvature radius : 5.00 mm to 10.00 mm (Step of 0.01 mm) 
+II. Corneal refractive power : 67.50 D to 33.75 D (Steps of 0.12 D/ 0.25 D) 
+III. Corneal astigmatic refractive power : 0D to ± 10D (Steps of 0.12 D/ 0.25D) 
+IV. Corneal astigmatic axial angle : 10  to 1800  (Steps of 10  /50)  
+V. Should take Peripheral Keratometry with the Central Cornea 
+4)     PD measurement range : 20 mm to 85 mm (Steps of 1 mm) 
+5)     Minimal measurable pupil diameter : 2mm 
+6)     Display System: 
+I. 
+Tilltable and rotatable monitor, rotation less than 360° acceptable 
+II. 
+Color touch screen panel 
+III. 
+Screen Size > 7inches for comfortable to read. 
+7)      Control System: Fully automated. 
+8)      Data transport terminal: USB (Import), RS – 232C (Export), LAN (Export). 
+9)      Dimensions: 286 ⁓ 326m (W) x 445 ⁓ 526mm (D) x 466 ⁓ 615 mm (H). 
+10) 
+Weight < 25.0 kg. 
+11) 
+Power supply : 100 – 240V AC, 50 – 60Hz, 75V A. 
+12) 
+The feature of auto tracking and auto shooting should be available. 
+13) 
+Motorised table with a thermal printer is preferable. 
+14) 
+Upgradation of Software with new and latest facilities. 
+ 
+ 
+ 
+
+

@@ -1,0 +1,131 @@
+--- Page 16 ---
+Tender No. : AIIMS/R/CS/Bio/18/03-126/OT 
+ 
+ 
+Page 16 of 19 
+ 
+ 
+ANNEXURE-I 
+Specification for Supply & installation of “Fully Automatic Chemiluminescence 
+Immunoassay Analyzer” for Department of Biochemistry at AIIMS Raipur 
+Required Quantity- 01 No. 
+ 
+Specification:  
+1. 
+System should be fully automated random access chemiluminescence’s immunoassay 
+analyzer using the principle of continual glow enzyme mediated chemiluminescence’s 
+technology. 
+2. 
+System should have assay kits of more than 100 different parameters like all hormones, 
+tumor markers, cardiac markers, skeletal markers etc. 
+3. 
+The system should be capable of testing and reporting all the required parameters for 
+Double Marker, Triple Marker and Quadruple Marker and speciality parameters like 
+Anti-Mullerian hormone (AMH), P2PSA, Inhibin A, unconjugated estriol E3, estradiol 
+etc. 
+4. 
+System should be able to perform Routine & STAT assays. 
+5. 
+The Equipment should have a Throughput of not less than 200 tests per hour. 
+6. 
+Should have at least two Precision Syringes for accurate delivery of Samples and 
+Reagents.  
+7. 
+System should have unique aliquot capability to improve lab workflow and prevent 
+reloading of samples. Facility for onboard dilution and reflex dilution for high and 
+abnormal sample. 
+8. 
+System should have Load ‘On the Fly’ concept for continuous Loading of Samples and 
+Reagents.  
+9. 
+System should have on-board refrigeration of reagents with at least 30 reagent positions. 
+At least 30 parameters can be done at one time. 
+10. System should have barcode facility for reagents and samples. 
+11. To minimize evaporation effects in case of reagents, the reagent bottle should be 
+automatically opened and closed onboard the analyzer after use. 
+12. System should have short incubation (not more than 20 minutes) and small sample 
+volume.  
+13. System should have facility to process various body fluids like serum, plasma, urine etc.  
+14. System should have facility for detection of clot, bubble, viscosity, inadequate sample or 
+obstruction detection for primary pipettor. 
+15. System should have disposable tip sampling system/effective wash technique to prevent 
+carry over.  
+16. System should have on-board inventory management and must have a low consumable 
+cost. Consumable cost required for 100 samples, inclusive of calibration and QC, for 30 
+parameters may be provided. 
+17. Inbuilt QC system to monitor the quality of result obtained. 
+18. Should have the self-diagnosis and error recovery system with on board operation guides 
+for efficient trouble shooting purpose. 
+19. Equipment must have an integrated Water and Probe Wash system. Centrifugal Washing 
+technique and Automatic reagent level indication by Sensors. 
+20. System should have Audible and Visual Alarms for all error messages. 
+21. Firm should include startup kits of fT4, fT3, TSH, PSA, B12, folic acid, cortisol, ferritin, 
+CA 125 each of 100 test along with calibrators, control & standard accessories for 
+standardization of instrument. 
+22. The Equipment should have flexible Windows based software; LIS interface and real 
+time system monitoring. Optional Bar Coding & Color Coding with State of the Art 
+Software. The Equipment should be managed by a Computer and have RS232 interface, 
+software for control. Date evaluation & management. Extensive QC graphics including 
+L-J plots QC management. The Specification of the computer should be having a 
+
+
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Bio/18/03-126/OT 
+ 
+ 
+Page 17 of 19 
+ 
+ 
+microprocessor of speed not less than 3.0 GHz, 4 GB RAM, 500 GB HDD, scroll mouse, 
+CD/DVD R/W Drive with 17” TFT/LCD Color Monitor with Windows Operating 
+system and compatible Laser jet printer for documentation having minimum 600 DPI 
+resolution, not less than 12 pages per minute speed. 
+23. System should be provided with Compatible on line UPS with at least one hour battery 
+backup along with appropriate Laser printer. 
+24. System should store up-to 200000 test results for easy access to patient information. 
+25. The price of all consumables, system configuration accessories and spare parts should be 
+quoted separately unit wise and the price should be frozen for the next 5 year along with 
+pack size. 
+26. Power Supply - Power input to be 220-240V AC, 50Hz. 
+27. Environmental factors - The unit shall be capable of operating in ambient temperature of 
+5-400 C and relative humidity of less than 70%. 
+28. Standard, Safety and Training - Attach original manufacturer’s product catalogue and 
+specification sheet. Photocopy/computer print will not be accepted. All technical data to 
+be supported with original product data sheet. Please quote page number on compliance 
+sheet as well as on technical bid corresponding to technical specifications.  
+29. Certification - Should have BIS/European CE/USFDA certification. 
+30. The analyzer should be provided with R.O. System. 
+31. Installation and demonstration of the analyzer, R.O. System and UPS with batteries 
+should be done by the vendor.  
+32. Must support remote monitoring and e-service facility. 
+33. Warranty period of 5 years followed by CMC for 5 years (spare parts and 
+maintenance) of the Analyzer, RO water plant and UPS with batteries provided with 
+it. 
+34. The system should be provided with R.O. system and its installation and daily 
+maintenance must be taken care of by the vendor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

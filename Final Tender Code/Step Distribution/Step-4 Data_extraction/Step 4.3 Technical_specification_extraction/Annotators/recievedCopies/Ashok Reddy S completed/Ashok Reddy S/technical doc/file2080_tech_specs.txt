@@ -1,0 +1,108 @@
+--- Page 25 ---
+ 
+AIIMS Rishikesh tender enquiry No. T.No. 24/RT/CTVS/Cell Saver/         /2020-RISH (ADMN) 
+  Technical Specification of Cell Salvage & Scavenging System (Cell Saver), 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Specification for Cell Salvage & Scavenging System (Cell Saver) 
+ 
+ System should be capable of processing blood collected from a surgical site to 
+produce washed red blood cell to return to patient later on.  
+1. System should work on centrifuge principle and should operate on 0- 60000 rpm with 
+variable speed wash.  
+2. System should have a smaller foot print with big lockable castor wheel and weight 
+should be less than 100 Kg (inclusive of accessories and cart) for ease of mobility.  
+3. System should be fully automated with single button operation with self-start 
+capability and absolutely minimal user intervention.  
+4. The system has an in-built and regulated vacuum suction.  
+5. Centrifugal bowl capacity should be 100-250ml with two stage filling cycle.  
+6. The system has variable speed pulse wash cycle.  
+7. System should be approved by FDA/BIS for autologous blood transfusion.  
+8. Three Suction options, on board: 
+i.  SMART SUCTION TECHNOLOGY (volume based)  
+ 
+ 
+ 
+ 
+ 
+ii. Regulated on board suction,  
+iii.Post-op suction.    
+9. A built in barcode reader to record disposable set, solutions and operator / patients 
+information. 
+10. The ability to download data using a USB flash drive.   
+11. A color touch/soft key screen display.   
+12. The noise level of the device should be < 70 db.   
+13. Device should have effluent line sensor, reservoir level sensor and automatic bowl 
+identification program.   
+14. RBC recovery should be more than 90%.  
+15. The device should have post-operative mode to work even after surgery by collecting 
+the blood from the disposable tubing placed in the wound.   
+16. Completely automated postoperative operation.   
+17. The device generates the suction in the reservoir.  
+18. The device begins the processing cycles when an appropriate amount of blood solution 
+collects in the reservoir.   
+19. System specification:  
+i. Electrical Specification: Class I, type B, Ordinary, Continuous operation  
+ii. Power-    
+a. Voltage: 110/120 or 220/240 V  
+            b. Cycles: 50-60 Hz.  
+ 
+c. Phase- Single  
+d. Current- 11.6/0.8 amps (depending upon voltage selection)  
+
+
+--- Page 26 ---
+ 
+AIIMS Rishikesh tender enquiry No. T.No. 24/RT/CTVS/Cell Saver/         /2020-RISH (ADMN) 
+e. Fuses- 4AT/240V  
+f. Power cord: 2 wire ground (earth) connection, 3 prong hospital grade.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii. Speed and flow rate specifications-  
+a. Centrifuge- 0-10,000 rpm.  
+b. Pump- 0-600 ml/min (+/-5%)   
+iv. Vacuum- 200-280 mbar  
+ v. Temperature Limit  
+a. Operational: 10-30°  
+b. Storage: 5-30° 
+vi. Humidity Range  
+a. Operational 10-95% non-condensing  
+b. Storage 10-95% non-condensing  
+ 
+20. Should be supplied with 10 sets of consumable accessories in addition to the offered 
+disposable accessories by Supplier along with the one pack of machine.   
+ 
+21. Offered, all-inclusive accessories in one pack of machine should be specified and 
+highlighted.   
+ 
+22. Rates of consumable items should be quoted separately and the company would undertake 
+to supply at the same price for two years, the same would be included in calculation of 
+financial bid.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

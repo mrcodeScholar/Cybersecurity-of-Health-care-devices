@@ -1,0 +1,1254 @@
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 21 of 38 
+ 
+ 
+ 
+Annexure-1 
+Technical Specification for 3M RFID System 
+ 
+1. Book Label RFID Tag 
+No 
+Item 
+Description 
+Compliance 
+(Y/N) 
+1 
+Dimensions 
+RFID Tag size 50 x 80 mm or comparable 
+ 
+2 
+Thickness 
+350um Max 
+ 
+3 
+Memory 
+Not less than 2048 bits 
+ 
+4 
+Data Processing 
+Rate 
+26Kbps Minimum 
+ 
+5 
+Frequency 
+13.56 MHz 
+ 
+6 
+Standard 
+ISO 15693 and 18000-3; ICODE SLIX2 
+ 
+7 
+Type 
+Read/Write Lockable with unlimited Number 
+of read/write cycles and must be re-writable 
+ 
+8 
+Distance for 
+Tag detection 
+36” Minimum 
+ 
+9 
+Operation Mode 
+Passive 
+ 
+10 
+Functionality 
+Both Security & Inventory Control 
+ 
+11 
+Adhesive 
+The proposed system tags is adhesive-backed 
+and one piece (tag and label integrated into 
+one piece) to adhere to file materials without 
+addition of an adhesive cover label. The 
+proposed system tag uses a low acid, or 
+neutral pH, adhesive. 
+ 
+12 
+Operating 
+Temperature 
+Range 
+-25°C to +70°C approximately 
+ 
+13 
+Other Features 
+a. A single tag for Identification, 
+automation and Anti-theft must be read 
+even if not visible and must be read 
+inside the file; temper proof and has 
+guarantee for the life of the item on 
+which it is originally affixed.  
+b. The proposed system tags enable the 
+AFI security status to be stored directly 
+on the tag and trigger an immediate 
+alarm if an item not charged is read by 
+the detection system. 
+c. The proposed system tag is guaranteed 
+for the life of the item on which it is 
+originally affixed. Lifetime guarantee 
+assures about the quality of the product 
+offered and future replacement of the 
+RFID tags which are found un-
+operational, without any extra cost.   
+d. The tag supplied should have a 
+branding of the OEM on the chip side 
+e. The RFID tag and Book Label (EM Tag) 
+should be from the same OEM 
+ 
+14 
+Antenna Type 
+Aluminium  
+ 
+15 
+Samples 
+Tag samples to be provided with the technical 
+bid 
+ 
+ 
+
+
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 22 of 38 
+ 
+ 
+2. Multi-Layered Optically Watermarked Sticking Labels with Institute Logo 
+No 
+Item 
+Description 
+Compliance (Y/N) 
+1 
+Dimensions 
+70 x 70 mm or comparable 
+ 
+2 
+Thickness 
+350um Max 
+ 
+3 
+Paper 
+UDV Paper 
+ 
+4 
+Printing 
+Color Printed 4 + 0 
+ 
+5 
+Finishing 
+Die Cutting in roll form and not in 
+sheets 
+ 
+6 
+Logo 
+Color Printed Logo 
+ 
+7 
+Adhesive 
+Strong, Non Removing Adhesive 
+ 
+8 
+Other feature 
+Optical Watermark with Library 
+Branding 
+ 
+9 
+Samples 
+Tag samples to be provided with 
+the technical bid 
+ 
+ 
+3. Book Labels – EM 
+No Description 
+Compliance 
+(Y/N) 
+1 
+The Size of the Security Strip should be minimum 160 mm X 3 
+mm for hardbound books, soft bound books and periodicals; 
+  
+2 
+Strips must be guaranteed to perform for life time of the object in 
+which they are placed.  
+  
+3 Strips once applied on material should be hidden in nature.   
+  
+4 
+The security strips shall be one-piece, flexible, thin, non-rusting 
+metallic alloy coated with an adhesive film. The film shall not 
+discolor or lose its adhesive or cohesive strength with age. The 
+strips shall require no moisture, heat or additional glue, or 
+adhesive for affixing to library materials.  
+  
+5 
+The strips shall be virtually unaffected by any shielding devices 
+such as gum, cigarette wrappers, aluminium foils, human body, 
+or by items held back-to-back or cover-to-cover, or concealed in 
+briefcases or backpacks.  
+  
+6 
+Manufacturer shall warrant that the strips will be free of defects 
+in materials & manufacture for the lifetime of the strip 
+  
+7 
+The RFID tag and Book Label (EM Tag) should be from the same 
+OEM 
+  
+7 Vendor shall supply samples with the technical bid  
+  
+ 
+4. Job Work - Data Entry Minimum 20 Book Fields 
+No Description 
+Compliance 
+(Y/N) 
+
+
+--- Page 23 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 23 of 38 
+ 
+1 
+The details of the book need to be entered in to the software 
+system in MARC 21 format 
+  
+2 All the fields to be entered into the system, minimum 20 fields 
+  
+3 100% reconciliation with Accession Register 
+ 
+ 
+5. Job Work – Tagging of RFID, EM and Labels & Programming of Tags 
+No Description 
+Compliance 
+(Y/N) 
+1 All books need to be tagged  
+  
+2 Affix EM Tag 
+  
+3 Affix RFID Tag 
+ 
+4 Affix Sticking Label 
+ 
+5 Programming of the Tags 
+ 
+ 
+6. Staff Station for Personalization & Circulation of books and cards 
+No 
+Description 
+Compliance 
+(Y/N) 
+1 
+For circulation and conversion operations at the staff desk. It 
+physically should consist of a combined hybrid station unit from 
+the manufacturing level. There should be no separate Reader & 
+Antenna. Only data and power cables should be connected to the 
+unit. Single unit should be able to process EM and RFID tags in 
+one go. 
+ 
+2 
+The RFID antenna shall be fully shielded, i.e. not read items 
+placed under the table and on the side of the antenna pad 
+ 
+3 
+The unit shall be fabricated in transparent Plexiglas with 
+integrated LED’s showing the operational status 
+ 
+4 
+The staff station shall be able to program and verify multiple RFID 
+tags placed on the antenna 
+ 
+5 
+The staff station will enable the security status of the tag to be 
+changed without interaction with the LMS 
+ 
+6 
+The staff station connects to the PC via USB only 
+ 
+7 
+Suitable software for integrating the RFID functions into the 
+circulation workflow and for tagging library items will be provided 
+with the equipment 
+ 
+8 
+Design: Easy to use space-saving, ergonomic design and interface 
+and should Include feedback indicators 
+ 
+9 
+Software for Circulation of the items using SIP2 only without any 
+middleware 
+ 
+10 
+Software for Circulation should not be through keyboard input or 
+screen mapping into the LMS software. It should be an 
+independent software which can be used for Circulation using 
+Card Reader for patron Identification and RFID reader for Book 
+Identification 
+ 
+11 
+The software system provided should be able to provide the 
+detailed MIS for the tagging. It should be able to generate the lists 
+ 
+
+
+--- Page 24 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 24 of 38 
+ 
+for the tagging of the items with the time stamp, Accession No & 
+Tag Id 
+12 
+For circulation processes the software should be able to provide 
+an MIS for all the checked out and checked in items with patron 
+details 
+ 
+13 
+Energy Profile: 200-240 VAC, 2.0/1.0 A, Single phase 
+ 
+14 
+Staff station should also support patron card reader for ISO 
+14443A cards with application for card programming and 
+reprogramming. Standards & Protocols: ISO 14443 A/B with up 
+to 848 kbps transmission rate (depending on card), ISO 15693 
+with up to 26 kbps transmission rate (depending on card), T=CL 
+ 
+15 
+Staff station should have an STQC certified Biometric Scanner 
+integrated with the application software.  
+ 
+16 
+It should be possible to use the circulation software after doing 
+the biometric based authentication as well. Biometric device to be 
+supplied for the authentication along with the computer 
+application and PC. 
+ 
+ 
+7. Smart Cards, printer and consumables, pre-printed with Original NXP 
+Mifare 4K Chip 
+No 
+Description 
+Compliance 
+(Y/N) 
+1 
+Smart Cards with Original NXP Mifare 4K Chips, 1000 nos to 
+be supplied 
+ 
+2 
+Pre-printed with the Institute Approved Design (Static text) 
+ 
+3 
+Programmed with Institute provided details (software 
+application to be supplied) 
+ 
+4 
+Memory of Cards: Minimum 4K 
+ 
+5 
+Size of Cards: ISO ID Card Standard 
+ 
+6 
+ISO Standard: ISO 14443A/B 
+ 
+7 
+Only original NXP Mifare 4K Chips to be provided. 
+Genuineness of the NXP cards will be validated using the Tag 
+Info app provided by NXP, downloaded from NXP website. 
+Samples to be provided with the technical bid. 
+ 
+8 
+Only first sector to be used for the library setup. The 
+remaining space will be used by the institution for future 
+multiple applications. Vendor has to supply the software 
+application for the printing and programming of the cards 
+ 
+9 
+Printer with dual side color printing technique and system 
+control display 
+ 
+10 
+Consumables to print 1000 cards including 1000 cards, 
+sufficient ribbons and cleaning kits 
+ 
+11 
+Printer should be connected through USB only 
+ 
+12 
+Printer should have inbuilt capability to print and program 
+the cards in a single process. Printer encoding should support 
+Mifare 4K chips. No external device to be connected.  
+ 
+ 
+8. Electromagnetic Detection Gate System 
+No Description 
+Compliance 
+(Y/N) 
+1 Detect genuine Tattle-Tape™ products in any orientation 
+  
+2 External devices, such as CCTV and/or barriers can be connected  
+  
+
+
+--- Page 25 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 25 of 38 
+ 
+3 The system incorporates visual and audible alarms 
+  
+4 
+The alarm system has flexible light in 7 different colours: Red, cyan, 
+magenta, blue, green, yellow, white 
+  
+5 
+The visual alarm can be configured to flash corridor specific or give a full 
+system alert 
+  
+6 The audible alert has a variable alarm pattern and adjustable volume 
+  
+7 
+The system detects direction specific and can be configured for incoming, 
+outgoing and Bi-directional 
+  
+8 
+The gates shall incorporate a people counter based on double sensor 
+technology 
+  
+9 
+The system should have an integrated LED display for alert information 
+and counts 
+  
+10 
+The integrated LED display should show incoming, outgoing and Bi-
+directional people counting information 
+  
+11 
+The system should incorporate an energy saving function that can 
+remain in a low energy state until the people counter detects movement 
+  
+12 The gates shall provide full detection from 0 to 100cm 
+  
+13 
+It shall obtain optimal detection performance at a pedestal distance of 
+100cm 
+  
+14 
+The system should be provided with ‘False positive filtering’, reducing 
+false alarms caused by foreign objects 
+  
+15 
+The system shall be built on a master – slave principle with up to 6 
+pedestals (5 gates) in one single system 
+  
+16 The system shall provide multiple gate installation up to 5 gates 
+  
+17 
+One electronics chassis should support a minimum of three antennas (2 
+gates). 
+  
+18 
+The people counter display should be located on the electronic chassis so 
+figures can be easily seen 
+  
+19 The antenna´s mounting points must be easy to install 
+  
+20 
+The antenna´s shall have the following dimensions H 1786 x W 597cm for 
+optimal detection 
+  
+21 
+The system shall provide an optional Baseplate for easy install available 
+for single or dual gate installations 
+  
+22 
+The antennas shall have side panel designed for applying customizable 
+vinyl graphics for promotion activities. The institute will provide the 
+content which is to be printed on these panels. Printing & application in 
+  
+
+
+--- Page 26 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 26 of 38 
+ 
+the vendors scope.  
+21 The weight per gate should not be more than 36.3 KG 
+ 
+23 
+The system should be connected through TCP/IP and the people count 
+should be available directly through TCP/IP 
+ 
+ 
+9. Hybrid Self Check In Check Out System 
+No Description 
+Compliance 
+(Y/N) 
+1 The kiosk shall be free standing 
+  
+2 The housing shall be made of metal / wood 
+  
+3 
+The housing covers computer hardware, wiring and power supply and 
+can be locked. No wires or peripherals should be accessible from outside   
+4 
+The system shall have minimum 2 external USB connectors for service 
+& maintenance  
+  
+5 The system shall have a 22” portrait positioned touch screen 
+  
+6 
+The system shall have LED Light-based indicators to guide the patron 
+through the process 
+  
+7 
+The system shall have an easy accessible integrated printer in a metal / 
+wood housing that can be locked 
+  
+8 
+The system should support barcode identification from mobile phone 
+screens 
+  
+9 
+The system shall have a thermal printer that can print paper rolls with 
+a maximum width of 80mm  
+  
+10 
+The system shall be able to check in and out library items based on 
+RFID and barcode 
+  
+11 
+The system shall have a V shape coil to support check-in and check-out 
+using the combination RFID or barcode and EM strips 
+  
+12 
+The system shall have V shape coil supports a maximum item size of 
+275mm 
+  
+13 
+The system shall be able to detect multiple EM items and secure single 
+item processing 
+  
+14 
+All user elements should be placed within DDA/ ADA range (for wheel 
+chair drivers) 
+  
+15 
+The system shall Identify users with Barcode, RFID, Mifare and 
+biometrics 
+  
+
+
+--- Page 27 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 27 of 38 
+ 
+16 
+The system should have an optional payment module for cash (coins & 
+notes) and chip & pin cards which can be connected for future use. 
+  
+17 
+The kiosk shall have a side shelf (on the right side) for placing bags, 
+belongings or books while using the system 
+  
+18 
+The system shall be audio enabled to have the possibility for extended 
+communication with the patron 
+  
+19 
+The kiosk shall have a graphic wrap. Content for the graphic wrap will 
+be provided by the library, however its printing and application will be 
+in vendors scope. 
+  
+20 
+The software shall enable checking library items in and out based on a 
+SIP2 connection to the library management system 
+  
+21 
+The software shall enable patrons to check their account (items 
+borrowed and expiration per item, fees and fines) and to prolong (if the 
+library choose to allow for it) 
+  
+22 
+When processing library items (checking in-or out) the status of each 
+item shall be displayed ((incl. the setting of the security bit and type of 
+item (i.e. books, CD, DVD’s, Blu-ray and games) 
+  
+23 
+The software shall allow to integrate payment functionality at a later 
+stage (cash (coins & notes) and chip & pin cards, without software 
+charges. 
+  
+24 
+The software shall allow the library to choose between several standard 
+themes designs, also children’s themes. 
+  
+25 
+The software shall allow the library to optional chose a customised 
+theme 
+  
+26 
+The screen can display more than 10 languages that patrons can chose 
+from for communication 
+  
+27 
+The software allows the patron to switch language whenever he/she 
+wants to – also in the middle of a check-in / check-out session 
+  
+28 
+The software enables a patron to complete all functions (check in, check 
+out, check account, payments) under one login, making the transaction 
+process easy and smooth. 
+  
+29 
+The software shall have a possibility to display/promote Library 
+activities  
+  
+30 
+The software can be configured to continue working in offline mode, 
+when the connection to the LMS has failed.  The software shall continue 
+to let patrons borrow and return items to provide a continuous service; 
+then once the connection to the LMS has been restored, all offline 
+transactions shall be automatically uploaded to the LMS ensuring that 
+all transaction history has been updated. If transactions fail to upload 
+  
+
+
+--- Page 28 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 28 of 38 
+ 
+correctly then the staff will be alerted automatically 
+31 
+The software shall provide relevant book recommendations to the users 
+during the check-out process to improve circulation and improve library 
+experience 
+  
+32 
+The software provides the opportunity to print a receipt with selected 
+book recommendations  
+  
+33 
+The software can recommend books from the physical and digital book 
+collection  
+  
+34 
+The software allows patrons to borrow digital books from selfservice 
+units 
+  
+35 
+The software contains a communication link to an intranet based 
+monitoring system and will cope with the requirements defined for that 
+system. 
+  
+36 
+The software contains a tool to customize and run detailed reports from 
+one location 
+  
+37 
+The system should have an inbuilt UPS backup to support the kiosk for 
+minimum 4 hours in case of power failure. The UPS should be inside 
+the kiosk and should not be external 
+ 
+ 
+ 
+
+
+--- Page 29 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 29 of 38 
+ 
+10 Patron Traffic Counter 
+No Description 
+Compliance 
+(Y/N) 
+1 
+The Patron Traffic Counter terminal shall be in a Metallic Kiosk of 
+1.6mm thickness form which should be able to capture all the inward 
+and outward traffic in the Library 
+  
+2 
+Patron Identification should be possible using Mifare and Biometric and 
+Barcode 
+  
+3 System height should be around 5 ft 
+  
+4 System should have a touch screen interface 
+  
+5 
+System should have inbuilt 2D Barcode Scanner, Biometric Scanner 
+and Smart Card Reader  
+  
+6 System should be able to hold minimum user data of 20,000 patrons  
+  
+7 
+System should be able to hold minimum transaction data of 10 million 
+records 
+  
+8 
+Smart Card Interface should have Standards & Protocols: ISO 14443 
+A/B with up to 848 kbps transmission rate (depending on card), ISO 
+15693 with up to 26 
+kbps transmission rate (depending on card), T=CL 
+  
+9 
+Biometric Scanner should have active platen areas of 0.96 x 0.64 in., 
+480 x 320 pixels 
+  
+10 
+Biometric Scanner should be certified by STQQC and with minimum 
+FAP20  
+  
+11 Biometric Scanner should have a minimum resolution of 500dpi 
+  
+12 
+Barcode Scanner should have a Scan Pattern Area Image 640 x 480 
+pixel array 
+  
+13 
+The system shall have minimum 2 USB connectors for service & 
+maintenance 
+  
+14 
+The system shall have an easy accessible metal housing that can be 
+locked 
+  
+15 The system supports barcode identification from mobile phone screens 
+  
+16 
+The system shall be able to check in and out patrons based on Mifare 
+Cards, Biometrics & Barcode based ID Cards 
+  
+17 
+The system shall be audio enabled to have the possibility for extended 
+communication with the patron 
+  
+18 The system software shall enable patrons to check in and checkout of 
+the library using Mifare or Biometric or Barcodes or a combination of 
+  
+
+
+--- Page 30 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 30 of 38 
+ 
+any of these 
+19 
+The system should have an easy to use user interface with an option to 
+select Hindi Language 
+  
+20 
+The MIS software should be able to display the Library Usage statistics 
+for usage by different Users, Branches & Departments 
+  
+21 
+The MIS software should be directly interfaced with KOHA LMS so that 
+Library does not have to make multiple entries in different systems 
+  
+22 Reporting of the system should be directly available in KOHA LMS 
+  
+23 
+The system should be in a single kiosk and peripherals should all be 
+inside the kiosk. Only LAN cable and power cable should be output from 
+the system 
+  
+24 
+The system should provide details of all the patrons which are inside the 
+library currently 
+  
+25 
+It should be possible to customize the user interface so that Patrons can 
+select the reason for which they are visiting the library, like Fine 
+Payment, Circulation, Renewal, etc 
+  
+26 
+It should be possible to manually checkout patrons in case of any 
+exceptions 
+  
+27 
+The software shall have a possibility to display/promote Library 
+activities with an inbuilt Digital Signage System whenever the system is 
+in idle mode 
+  
+28 
+It should be possible to create a playlist of the various items to be 
+displayed on the screen remotely through centralized software.  
+  
+29 
+It should be possible to display automated content on the system 
+through automated cloud based contents like “Thought of the day”, 
+“This day in History”, “Latest News”, “Word of the Day” etc 
+  
+30 
+It should be possible to display ppt, audio, video, text etc on the display 
+screen in idle mode through Digital Signage 
+  
+31 
+The system should have an inbuilt UPS backup to support the kiosk for 
+minimum 4 hours in case of power failure. The UPS should be inside 
+the kiosk and should not be external 
+  
+ 
+ 
+11 Book Drop System 
+No Description 
+Complianc
+e (Y/N) 
+1 The drop box should be aesthetically designed and must comply with 
+  
+
+
+--- Page 31 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 31 of 38 
+ 
+internationally recognized standards for RFID based self-return 
+system. It should have mechanism to disable both EM and RFID tags. 
+2 
+Drop box must be integrated with ILM software through SIP2/NCIP 
+protocol 
+  
+3 
+Drop must able to connect to the library's Ethernet network via an 
+RJ45 connector and/or secured wireless network 
+  
+4 
+RFID Drop box should come with double/dual security system; first 
+door  should  open  after showing /validating the right book reading 
+the RFID tag on the book or right library users by reading the RFID 
+smart Card and/or Pin Number and/or biometric reading; once the 
+validation is done and first door/shaft / is opened user should be able 
+to place the book/s (1 or multiple of books); after a few second the 
+first door should close and once the item in the library is confirmed, 
+second door/shaft is opened and book is dragged inside on conveyer 
+belt to single/multiple bin. It should prevent the users from removing 
+the checked out books from the drop box. 
+  
+5 Once the transaction is complete system should be able to generate a 
+slip confirming the transaction. 
+  
+6 
+Client software for checking-in facility and communicating with KOHA 
+software / ILM Software with provision for E-mail/SMS confirmation 
+  
+7 
+If there is fine on the book, suggested notification should be alerted to 
+users and instruct the user to pay the fine in the library within the 
+library. Library should be able to customize the information on the 
+slip as per library's requirements. 
+  
+8 Drop box should be upgradable in future to support multiple bins. 
+  
+9 
+Drop box should be able to accept all types of library's RFID tagged 
+items including but not limited to books, journals, bound volume, 
+CDs, DVDs, etc. 
+  
+10 
+If the item does not belong to the library, Drop box should not accept 
+the item. But if the item is placed along with the valid library item, 
+drop box should accept all items 
+  
+11 
+Drop box should be with in-built RFID Card / Biometric Reader / 
+Virtual Keyboard / Number Keypad for validation of the user details 
+as per library's current or future requirements 
+  
+12 
+Drop box comes with inbuilt slip generator with standard slips. 
+Library should be able to procure the printer cartridge and paper from 
+any other third party vendor. Bidder will share the details of the 
+cartridge, paper, etc and make sure both are supported with open and 
+international standard. 
+  
+13 
+Drop box should easily integrate with web-based application for 
+remote as well as within campus monitoring of the performance of the 
+system, alert for paper out or cartridge failure, or any kind of system 
+failure, 
+  
+
+
+--- Page 32 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 32 of 38 
+ 
+alerts, etc. 
+14 
+Drop box should be inbuilt with industrial PC and minimum 19 
+inches Touch Screen for smooth operation. Bidder shall submit the 
+relevant documents/ certificate / brochure / etc for the same. 
+  
+15 
+The drop box software should be customizable      as       per client's 
+requirements both at the interface level and functional/feature level. 
+  
+16 
+The drop box should have book drop system with collection of books 
+minimum of 100 items.  
+  
+17 
+Return bin of the drop box should have proper system to minimize the 
+book damage. It should have a hydraulic mechanism to ensure that 
+the panel drops down as the weight of the books increases.   
+  
+18 
+The system must automatically switch into store mode the check-in 
+data when the system goes offline due to ILM software being in 
+backup mode or the network being down etc. 
+  
+19 
+If the multiple items are processed, progress should be clearly 
+reported to the users on screen. 
+  
+20 
+The system should have an inbuilt UPS backup to support the kiosk 
+for minimum 4 hours in case of power failure. The UPS should be 
+inside the kiosk and should not be external 
+  
+ 
+ 
+12. 
+All interrelated Software’s & Integrations 
+Description 
+Complianc
+e (Y/N) 
+Any software or integration which might be needed for smooth functioning of 
+the system. The vendor has to ensure all integrations without any 
+middleware. The institution may ask for integrations with the related 
+hardware items anytime. 
+ 
+ 
+ 
+ 
+13. 
+Koha Software with Online Software Catalogue 
+ 
+Description 
+Compliance 
+(Y/N) 
+1 
+Latest Version of Koha Software installed on a latest branded Linux 
+Server with minimum 4GB RAM, 500 GB Hard disk. 100,000 sms 
+pack included for alerts and reminders. 
+ 
+2 
+OPAC hosted on internet website, hosting to be provided for first 2 
+years free of cost. 
+ 
+3 
+Customized website for Library with customized mobile app 
+ 
+4 
+The following list of features is meant to be used as a brief overview 
+but is in no way comprehensive: 
+1. OPAC/Public Catalog  
+ 
+Fully responsive theme should adjust properly on all 
+devices  
+ 
+
+
+--- Page 33 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 33 of 38 
+ 
+ 
+Keyword and advanced searching  
+ 
+Search filtering by location, item type, subjects etc  
+ 
+Cover images from over 5 popular services  
+ 
+Enhanced OPAC content from external products such as 
+Open Library, Syndetics, Baker & Taylor, Library Thing, 
+Novelist Select and iDreamBooks  
+ 
+Tagging, commenting and star ratings  
+ 
+Availability and online resource links shown on search 
+results  
+ 
+Virtual shelf browser  
+ 
+Social network share buttons  
+ 
+Permanent URLs throughout  
+ 
+Overdrive API Integration  
+ 
+Personalized patron experience:  
+ 
+Ability to place, suspend and cancel holds  
+ 
+List of current and past checkouts  
+ 
+Account history (fines and payments)  
+ 
+Private lists  
+ 
+Ability to register for a library card online  
+ 
+Access to account information  
+ 
+Subscribe/Unsubscribe to/from library notices via email, 
+SMS and/or phone  
+ 
+Make purchase suggestions  
+ 
+2. Circulation  
+ 
+Check in and out with a barcode scanner or manually  
+ 
+Enter calendar of closings for calculating fines and due 
+dates  
+ 
+Book drop mode to backdate check ins  
+ 
+Ability to forgive fines on check in  
+ 
+Holds pull list generated on your schedule  
+ 
+Course reserves  
+ 
+Offline circulation for Windows and/or Firefox  
+ 
+Place, suspend and cancel holds for patrons  
+ 
+Transfer materials between branches  
+ 
+Set circulation, fine and holds rules for each branch  
+ 
+Perform collection inventory  
+ 
+POS connectivity  
+ 
+Communication with collection management companies  
+ 
+Web-based self-check out module  
+ 
+Checkout by keyword, title, call number, etc  
+ 
+3. Patrons  
+ 
+Upload patrons in bulk  
+ 
+Upload patron images individually or in bulk  
+ 
+Create patron cards  
+ 
+Batch modify patrons  
+ 
+Run reports on circulation custom to your library  
+ 
+Search patrons by phone, email address, name and more  
+
+
+--- Page 34 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 34 of 38 
+ 
+ 
+Browse patrons by name  
+ 
+Connect children to guardians and see an entire family’s 
+current checkouts on one screen  
+ 
+Set rules to prevent check out of inappropriate materials 
+to children  
+ 
+Add custom searchable fields to patron records  
+ 
+4. Cataloging  
+ 
+Add bibliographic and authority records by batch 
+uploading  
+ 
+Add bibliographic and authority records by copy 
+cataloging with a built in Z39.50 search engine  
+ 
+Add bibliographic and authority records using the OCLC 
+Connexion client  
+ 
+Add bibliographic and authority records using original 
+cataloging  
+ 
+Add and modify items individually or in a batch  
+ 
+Add and link to authority records  
+ 
+Duplicate bibliographic records for sudo-original 
+cataloging  
+ 
+Catalog following AACR2 or RDA rules  
+ 
+Create custom cataloging templates with pre-set values 
+for efficient cataloging  
+ 
+Built in links to Library of Congress cataloging help  
+ 
+Create spine and barcode labels  
+ 
+Batch modify and delete item records  
+ 
+Create public lists of records at the library  
+ 
+Technical processing and database development  
+ 
+Standards supported  
+ 
+Import of MARC-21 records  
+ 
+Editing records using the: MARC-21 template  
+ 
+Editing Authority Files  
+ 
+Advance Searching the Catalogue  
+ 
+5. Reports  
+ 
+Complete access to all data stored in Koha; write any 
+report you want  
+ 
+Custom reports shared publicly on the Koha wiki  
+ 
+Easily run any saved report at any time  
+ 
+Group reports by branch, category or any custom criteria  
+ 
+Enter filters on reports to run them on for specific item 
+types, branches, patron categories, time frames and so 
+much more  
+ 
+Search reports for easy access  
+ 
+6. Acquisitions  
+ 
+Enter budgets and funds  
+ 
+Duplicate budgets and funds for the following year  
+ 
+Keep track of all vendor information  
+ 
+Order from vendor files  
+ 
+Order using EDI  
+ 
+Order multiple copies  
+
+
+--- Page 35 ---
+Tender No. : AIIMS/R/CS/LIB/19/410/OT 
+ 
+ 
+ 
+Page 35 of 38 
+ 
+ 
+Order copies of existing records  
+ 
+Order by searching Z39.50 targets  
+ 
+Track order status  
+ 
+Generate late reports and claim letters  
+ 
+Track budget encumbrances and expenditures  
+ 
+Create ‘on order’ items to allow patrons to place holds  
+ 
+Accept purchase suggestions and keep patrons notified 
+as the item moves through the Acquisitions process  
+ 
+Importing and overlaying of pre-processing records  
+ 
+7. Serials  
+ 
+Create subscriptions with full prediction patterns  
+ 
+Receive issues one at time or in bulk  
+ 
+Barcode serials on receipt if desired  
+ 
+Generate late issue reports and claim emails  
+ 
+See full serial history  
+ 
+Print routing lists for each subscription  
+ 
+Duplicate subscriptions for multiple branches  
+ 
+Library defined numbering frequencies and patterns  
+ 
+ 
+14. 
+Trainings, Deployment and any other related hardware/software/service 
+Description 
+Compliance 
+(Y/N) 
+System installation with 10 days training, deployment of all software and 
+hardware systems  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

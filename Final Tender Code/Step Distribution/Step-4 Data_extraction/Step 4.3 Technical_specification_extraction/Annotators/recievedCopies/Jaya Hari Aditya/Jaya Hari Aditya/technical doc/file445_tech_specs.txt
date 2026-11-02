@@ -1,0 +1,130 @@
+--- Page 10 ---
+Tender for Portable PTA with Tympanometry                                                               Admn/Tender/27-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+PTA and 
+Portable 
+Tympanom
+eter  
+ It should have Xenon light and fibre optics to enable brilliant view 
+of tympanic membrane and ear canal before and during screening. 
+ It should be Portable, lightweight air conduction hearing screener. 
+ It should take approximately 30-60 seconds to do a full screening 
+on both ears 
+ It should test three screening levels: 
+20dB HL at 500Hz is excellent for school screening 
+25dB HL at 1000 or 2000Hz works for most types of patients 
+40dB HL at 4000Hz is perfect for age-related hearing loss 
+ It should have a built-in 1000 Hz pre-tone that lets patients 
+“practice” listening first 
+ It should be able to emit pure tone signal from 15 to 50 dBHL 
+ It should have dedicated headset 
+ It should have Lithium ion rechargeable batteries with a battery 
+indicator 
+Stimulation Type Pure tone 
+Test Frequencies 500, 1000, 2000 and 4000 Hz 
+Dynamic Range 15 to 50 dBHL 
+Level Steps 5 dB 
+Accuracy ± 4 dB 
+Distortion less than 3 % 
+POWER SUPPLY  
+2 AA batteries  
+Automatic start / break of the battery power supply 
+BATTERY LIFE 
+Standby - 6 months, depending on the battery self-discharge 
+Standby Current < I μA 
+STANDARDS 
+Safety Standards    EN 60601-1 
+Electromagnetic Compatibility   EN 60601-1-2 
+Other Requirements: 
+ Rates of the spares/accessories/consumables which are not covered 
+under guarantee/warrantee should be- quoted individually and by 
+the company (item not mentioned in the list are assumed under 
+comprehensive warranty and company have to provide for proper 
+function of equipment) and should be freeze for five years from the 
+date of installation. Any spares/accessories/consumables not quoted 
+by the company will be presumed to be supplied free by the 
+company. 
+ The instruments might be called for demonstration and approval. It 
+is the sole discretion of the committee to approve or disapprove the 
+quality. 
+ It should be European CE (with a four digit notifiable body) or 
+USFDA approved. 
+ All the equipment including all the accessories should be provided 
+with the detailed data sheet/ along with the original brochure of the 
+quoted model (Photocopies/Print outs are not accepted). 
+01 
+
+
+--- Page 11 ---
+Tender for Portable PTA with Tympanometry                                                               Admn/Tender/27-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-II 
+ An undertaking to be provided by the principal/manufacturer of the 
+system for availability of spares for 10 years for the date of 
+installation. 
+ Portable light weight tympanometer with 256 Hz and 1 KHz probe 
+tones, -300 to +300 daPa pressure range, 500, 1000, 2000, 3000, 
+4000Hz, BB, HP, LP acoustic reflex stimuli, ipsilateral and 
+contralateral reflexes (provide headsets also), touch sensitive 
+display, Internal memory for measurement results. Workflow 
+including tympanometry and reflex, Direct Print of screening 
+results, TOPAE, DPAOE, Data export to a computer. 
+ Other requirements — Add "Both the portable audiometer and 
+portable tympanometer should be from the same OEM and suitable 
+computer software for both should be provided 
+
+

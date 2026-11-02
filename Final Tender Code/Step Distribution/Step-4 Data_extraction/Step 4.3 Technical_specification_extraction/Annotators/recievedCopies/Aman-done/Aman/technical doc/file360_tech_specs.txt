@@ -1,0 +1,77 @@
+--- Page 11 ---
+Tender for Dialysis Reprocessing unit                                                                               Admn/Tender/225-3/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+Annexure-I 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Dialysis 
+Reprocessing 
+unit 
+Dialyzer Reprocessing System  
+1. Fully automated/ computerized dialyzer reprocessing system.  
+2. High standardization in cleaning, volume measuring, leak testing and 
+chemical disinfecting.  
+3. No external dilution / minimize chemical contact. 
+4. Simultaneously and independently re-process one dialyzer at the time.  
+Dialyzer Reprocessing 
+1. Reprocessing process: Automatic cleaning, Volume measuring, Leak 
+testing and chemical filling.  
+2. Should be able to process all types and brands of dialyzers.  
+Electricity Requirement  
+1. 100-240 VAC, 50-60 Hz. 
+Water Requirement  
+1. RO or DI water in accordance with AAMI standard for 
+haemodialysis.  
+2. Input pressure 25-30 psi.  
+3. RO Water requirement should be as low as 14 to 18 liters/ dialyzer. 
+Display 
+1. LCD Display/ Digital Display  
+2. Data  Ability to store, display and print/ dialyzer and Patient 
+History data and with printer facility 
+3. Failure Message Status.  
+Chemical Requirement  
+1. Should be able to use eligible and authorized disinfectant   
+2. Quantity consumed to be specified for dialyzers. Safety Alarms, 
+Audible & Visible Alarms.  
+Other requirement  
+1. Loose connector.  
+2. Dialyzer volume priming failure.  
+3. Leak test failure.  
+4. Empty Solution.  
+5. Self-test and disinfection interlock.  
+6. Priming volume lower than limit. 
+7. Incoming water pressur  e failure.  
+8. Date & Time: Reprocessing Time  
+9. 8-13 minutes/ dialysis   
+10. Data management system.  
+11. Sterilant volume indicator cartridge. 
+12. Machine demonstration has to be done in the AIIMS, Jodhpur. Time 
+and date of demonstration will be as per department decision. 
+13. Facility to check fiber bundle leakage at 250mm hg 
+14. Inbuilt dedicated software and facility to upgrade software 
+15. To test blood port connection and dialyzer header caps for proper 
+fittings 
+16. Provision to pressure gauge 0-100 PSI and drip tray 
+17. Provision of disinfectant uptake tube assembly, drain out let pipe 
+18. To use disinfectant cold reprocessing and sanitization 
+19. Separate cycle for water sample collection 
+20. RO water requirement should be as low as 14-18 liters per dialyzer 
+21. No pre dilution of disinfectant and to use negative pressure test on 
+fiber 
+22. Filling of bundle volume should be 3 times. 
+       US FDA and European CE approved. 
+02 
+
+

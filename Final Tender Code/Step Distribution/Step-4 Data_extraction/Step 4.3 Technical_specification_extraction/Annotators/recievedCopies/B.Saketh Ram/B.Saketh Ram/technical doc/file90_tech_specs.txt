@@ -1,0 +1,147 @@
+--- Page 10 ---
+ Tender for Portable Colour Doppler Ultrasound Machine with 2D ECHO              Admn/Tender/118/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable 
+Colour 
+Doppler 
+Ultrasound 
+Machine with 
+2D ECHO 
+1. Fully digital, compact, portable colour Doppler ultrasound 
+machine with pin less connector, weight less than 5 kg.  
+2. Unit should be able to give very high image quality with advance 
+technologies like compound imaging for better cardiac contrast 
+resolution, tissue differentiation and edge detection, equivalent to 
+high end cart based systems.  
+3. System should be able to support speckle reduction imaging for 
+better tissue differentiation and edge enhancement. 
+4. The system shall have the ability to enhance tissue margins and 
+improve contrast resolution by reducing artifacts and improving 
+visualization of texture patterns & needle tip within the image, 
+please specify the technology.  
+5. Imaging modes of Real time 2D, Colour Doppler, Pulsed wave 
+Doppler, Continuous wave Doppler, Power Doppler must be 
+available on all cardiac transducers. 
+6. System must have fast start up to scanning in less than 30 seconds 
+from off condition, for use in critical and emergency situations.  
+7. System should support transducer technologies like phased array, 
+convex, linear, TEE etc.  
+8. Cine memory on all modes.  
+9. The system shall process a dynamic range that is at least 165db. 
+The system must display at a maximum depth of 35 cm. 
+10. The system must have a dedicated cardiac calculation packages 
+with PISA, TDI calculation packages, vascular calculations 
+package. 
+11. The unit must be compact, portable and lightweight, weighing less 
+than 5 kg.  
+12. Unit must be sturdy, resistant to breakage & damage on fall/ hit 
+against the wall or hard surface for out of the hospital use.  
+13. Flat LCD/ TFT monitor of at least 10 inches or more with flicker 
+free image. 
+14. Alphanumeric soft keys keyboard with easy access scans controls, 
+facility to sanitize the system keyboard to avoid cross 
+contamination.  
+15. The system must have the ability to function by AC/DC or battery 
+power with the same degree of functionality, the battery life (run 
+time) should be at least 2 (Two) hours, this needs to be 
+demonstrated.   
+16. The system must have archive capability for storage and retrieval 
+of images and clips data. 
+17. Data Transfer facility should be available as standard, to transfer 
+images etc. easily onto another system/computer etc. 
+18. System 
+should 
+possess 
+software 
+for 
+Enhanced 
+Needle 
+Visualization to track the needle clearly at steep angles during the 
+procedures while maintaining striking image quality of the target 
+structures and the surrounding anatomy with simple On/Off 
+functionality. This Facility should be available on both High 
+frequency Linear and Curvilinear probes for superficial as well as 
+deeper blocks. 
+19. Unit must be sturdy, resistant to breakage & damage on fall on 
+hard surface.  
+20. The system should support all the DICOM functionality, Storage, 
+Print, and Work List, also ready to connect to PACS. 
+01 
+
+
+--- Page 11 ---
+ Tender for Portable Colour Doppler Ultrasound Machine with 2D ECHO              Admn/Tender/118/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21. The manufacturer shall provide a loaner system in case of failure 
+of system.   
+22. The equipment should be mountable on trolley & locking 
+mechanism should be inbuilt into the trolley for safety & security 
+of the system. 
+23. The system and transducers should be USFDA & European CE 
+certified. 
+ 
+Transducers to be supplied as standard   
+1. 12-6 MHz broadband linear array with less than 30 mm 
+size for Musculoskeletal, vascular, nerve, superficial 
+,venous, ophthalmic 
+2. 8-3 MHz  broadband phased array with less than 12 mm 
+size  cardiology, abdominal, neonatal head application 
+3. 8-5 MHz broadband curved array with less than 13 mm 
+size for Abdominal, neonatal, nerve, vascular. 
+4. 5-1 MHZ broad band phased array transducer with 18-22 
+mm size  for cardiac applications 
+5. Mobile Cart with transducer holder & space for printer. 
+
+

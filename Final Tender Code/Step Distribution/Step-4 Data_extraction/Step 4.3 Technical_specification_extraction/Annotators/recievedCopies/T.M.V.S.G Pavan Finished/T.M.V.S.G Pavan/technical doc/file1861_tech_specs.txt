@@ -1,0 +1,115 @@
+--- Page 11 ---
+Tender for KOHA, Dsapce and RFID                                             Library/Tender/01/2023-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+Annexure I 
+DSpace Installation and configuration at Cloud Server (Vendor) 
+Sl No. Item Name 
+Quantity Unit 
+1. 
+ 
+Supply, Installation & Configuration of DSpace at cloud server with 
+Home page design as per standard Up to 150 GB Cloud Data Storage 
+For Central Library 
+2. 
+Additional Data Storage per month (If required) 
+ 
+ 
+Koha Library Management Software at Cloud Server (Vendor) 
+Sl. No 
+Details 
+Units 
+01. 
+Supply, installation & Configuration of Koha Open Source Library 
+Management Software at Cloud Server.  Customization of OPAC & staff 
+interface of KOHA (LMS)  Library Web Page Design and Web OPAC   
+Offsite Support and help desk facilities for library staff for day-to-day use of 
+Koha LMS, Automatic database backup. 
+One 
+Library 
+02. 
+Data Migration from Excel to KOHA 
+Per Record 
+03. 
+Thermal Barcode Printer 
+01. 
+04. 
+Barcode Scanner 
+01. 
+05. 
+Polyester Label for Printing Labels, 2 Labels Per Book Required (Size: - 
+50mm X 25mm) 
+01. 
+06. 
+Resin Ribbon, 1 Roll Prints around 7000 - 8000 Labels (Size: - 110mm X 
+300mts) 
+01. 
+ 
+RFID (Radio-frequency identification) 
+S.No 
+Equipment Type along with Description of the Hardware 
+Qty 
+A 
+Software 
+ 
+1 
+Standard RFID Middle Ware Application for Integration with KOHA 
+Library Management Software 
+01 
+B 
+Hardware and Consumables 
+ 
+1 
+Staff Station Reader for Circulation Desk, RFID Reader with a middleware 
+01 
+2 
+Security Gate Antenna System: Security gates are placed at the entry and 
+exit of the library to keep a check on unauthorized books going outside 
+(Two Pedestals / One Lane) 
+ 
+01 
+3 
+RFID Handheld Reader for Stock verification 
+01 
+4 
+RFID Tags - Books 
+Per book 
+5 
+Anti-Theft Sticker to protect RFID Tag 
+Per book 
+6 
+RFID 1Kb Mifare Smart Card - Plain without Printing 
+Per card 
+7 
+RFID 1Kb Mifare Smart Card - Plain with Printing on both side 
+Per card 
+8 
+Smart Card Printing System (Includes Card Printer, web camera, Pen, Card 
+Printing Software with Printing Ink which can print 250 cards) 
+ 
+01 
+9 
+Smart Card Printer ink Ribbon (One ribbon can print 125 cards only on 
+both side) 
+01 
+C 
+Related Services / Job Works 
+ 
+1 
+Job of Tagging Books on Site 
+Per book 
+D 
+Optional Product/Services 
+ 
+1 
+RFID Book Drop Box Station 
+01 
+2 
+RFID Enabled Self-Check-Out Kiosk: RFID enabled self-check-in/out 
+system is an independent touchscreen-based kiosk for borrowers to perform 
+issue-return functions on their own 
+ 
+01 
+
+

@@ -1,0 +1,134 @@
+--- Page 10 ---
+Tender for Portable X-ray with CR facility 
+Admn/Tender/25/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Portable X-
+ray with CR 
+facility 
+State of Art High frequency microprocessor controlled Portable X Ray 
+system with integrated Computed Radiography system having following 
+features: 
+ Compact, lightweight, easily transportable mobile High 
+Frequency X-Ray unit with integrated CR system suitable for 
+bedside x-rays, trauma, Intensive care units, Operations theatres 
+and Radiology department. 
+ The unit should be fully counterbalanced and can be positioned 
+to suit different bed heights. The unit should have facility of 
+vertical swing and horizontal rotation of the tube head to ensure 
+X - Ray of any anatomy even within limited space. 
+ The unit must have an effective braking system for parking and 
+transport. 
+ The unit must have intelligent graphical Touch screen display 
+with atleast 60 user-configurable anatomy presets for ease of 
+operation to the operator. 
+ The exposure release switch should be detachable with a cord of 
+sufficient length (atleast 3 m) 
+ 
+ 
+The Generator: 
+a. Microprocessor controlled high frequency / inverter type 
+of high frequency (40 KHz or more) for constant output. 
+b. It should have power rating of atleast 4 kW or more 
+c. It should have a digital display of mAs and kV. 
+d. KV range : 40 KV to 100 KV or more 
+e. mA range: 10 mA to 100 mA or more 
+f. KV selection: 40 kV to 100 kv, selectable in 1 kV steps 
+g. mAS selection: 0.1 to 250 mAS 
+h. It should have over loading protection. 
+i. It should have APR feature 
+j. It should have inbuilt Processor and large touch screen 
+display for ease in operation of X-Ray system and the 
+CR system 
+ 
+ 
+X-Ray Tube and Collimator: 
+a. Stationary / Rotating anode having focal spot size less 
+than 2mm  
+b. Output of tube should match with that of generator. 
+c. Light Beam diaphragm / Double layer Collimator with 
+auto cut off switch. The light intensity shall be at least 
+160 lux at 1 mtr distance from focal spot. 
+ The unit should operate on single phase power supply and 
+should have plug in facility to any standard wall outlet with 
+automatic adaptation to line voltage 200 to 240 volts, 15 Amp 
+plug. 
+ The Leakage radiation level at 1 meter from the focus should be 
+less than 70 mR. Products having minimal leakage radiation 
+level will be preferred. (Please attached relevant test report) 
+ 
+The Systems should be fully safe with respect to 
+a. Over current 
+02 
+
+
+--- Page 11 ---
+Tender for Portable X-ray with CR facility 
+Admn/Tender/25/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. Over Voltage 
+c. Maximum loading of tube 
+ 
+ The System should be supplied with Computed Radiography 
+system having following features: 
+a. High resolution CR system should be completely integrated 
+with the main mobile X Ray unit. 
+b. CR should be mounted on the main Mobile X-Ray unit & the 
+total combined weight of unit should be less than 170 kgs 
+c. Should have imaging plates fixed to rigid back panel and 
+nothing touching the active area of phosphor plate to ensure 
+superior image quality and durability of the system. 
+d. The inbuilt processor should have comprehensive software 
+with facility of smart search, sort, filter options, full set of 
+annotations, measurement tools and user preferred settings, 
+selectable from the touch screen display. 
+e. CR system should be fast enough to scan 40 plates per hour 
+or more 
+f. Grayscale resolution: 16 bits/Pixel source file or more, 
+65536 shades of Grey  
+g. Data acquisition process should be True Flat Scan Path or 
+better 
+h. Image access time: 60 seconds or less  
+i. The system should be DICOM & PACS compatible 
+ 
+ Power input to be 220-240VAC, 50Hz fitted with Indian plug. 
+ The product should be CE or USFDA approved. 
+ Should be an AERB approved product  
+ 
+ Essential Accessories: The following essential accessories to be 
+provided with the unit. 
+a. Online UPS of required capacity, compatible with the 
+unit, to take care of the power failure, for at least 30 
+Minutes back up for the whole system, the capacity of 
+the UPS should be specified. 
+b. CR compatible Cassettes - Two each of size  10” X 12” 
+(25X30cm) and 14” X 17” (35X43cm) 
+c. Inkjet / Laser printer for printing patient reports & X – 
+Ray films on coated transparency sheets / on normal 
+paper 
+d. AERB certification to be done by the vendor. 
+ 
+
+

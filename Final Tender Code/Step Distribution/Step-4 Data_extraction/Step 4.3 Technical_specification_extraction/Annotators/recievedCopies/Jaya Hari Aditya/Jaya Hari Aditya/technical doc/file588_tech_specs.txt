@@ -1,0 +1,121 @@
+--- Page 25 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/RT/CTVS/ECMO/550/2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 25 
+ 
+ 
+ 
+Specification of Portable ECMO 
+1. Centrifugal Pump (Console with its Accessories) 
+a) Should work on power supply 100 V to 240 V, 50Hz to 60 Hz and 11V to 28 V DC 
+b) Should generate 0 to 50000 RPM 
+c) Should be able to flow 0.1 to 9.99 Litres per minute. 
+d) Should have compact, lightweight console (approx. 10 kg weight) 
+e) Should have LCD display screen (5 .5” -7”) 
+f) Should display following parameters or should provide additional monitor for monitoring 
+-04 no’s of External Pressures (Measuring Range – 50 to 900 mm Hg) 
+-03 no’s of Internal Pressures (Measuring Range – 50 to 900 mm Hg) 
+-02 no’s of External Temperatures (Measuring Range – 10 to 45oC) 
+-02 no’s of Internal Temperatures (Measuring Range – 10 to 45oC) 
+-01 no Venous Blood Oxygen Saturation (SvO2) (measuring range – 40 to 100%) 
+-01 no Hemoglobin (Measuring Range 05 to 15 gm/d) 
+-01 no Hematocrit (Measuring range 15 to 50%) 
+-01 no flow sensor with integrated Bubble sensor which measures Blood Flow Rate and Bubbles 
+respectively 
+-01 no Bubble sensor measuring Bubbles in the Blood Stream 
+g)  Portable Emergency Hand Crank 
+h) Back Flow Prevention mode (Zero Flow Mode) 
+i) Recording of Data, I the unit (interval – 3 sec’s to 10 mins) and retrieval of the same into a USB memory 
+stick or into a Computer. 
+j) 03 no’s of resettable Clock Timers.  
+k) 01 no of Countdown Timer 
+l) 03 modes of Application 
+-Operating Room mode 
+-Intensive Care Unit mode 
+-Transport mode 
+m)  03 modes of Control 
+-LPM mode 
+-RPM mode 
+-Night mode 
+n) Battery Backup 90 mins. 
+o) 01 no. connection for alarm output (Ward Call) 
+p) 01 no. connection for Ethernet Cable 
+q) 01 no. connection for External Drive 
+r) 01 no. connection for ECG signal 
+s) Should have Road and Air Transport Approval 
+2. Heating Unit with its accessories 
+a) Temperature range setting form 33oC to 39oC 
+b) Digital display for set temperature and outlet temperature 
+c) Compact & light weight console (9 kg weight) 
+d) To work on power supply 230 V, 50 Hz 
+e) Should generate 03 to 05 LPM, 0.34 bar pressures 
+f) Water Capacity 0.7 to 1.4 Ltrs. 
+g) Heat resistant Tubings with Hansen Coupling for quick connection  
+3. Sprinter Cart 
+
+
+--- Page 26 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/RT/CTVS/ECMO/550/2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 26 
+ 
+a) Advanced card design maximizing safety and convenience to move compete anywhere 
+b) Infusion pole mast (Height adjustable) 
+c) Gas Cylinder holder for better portability  
+4. Air-Oxygen Blender: 
+a) Mechanical air oxygen blender with hoses 
+5. Disposables: 
+Kit should include or should be provided with 
+a) Hollow fiber Diffusion membrane oxygenator (Poly Methyl Pentene Fiber) with 30 day CE certification 
+for usage 
+b) Centrifugal Pump Head or any rotary pump 
+c) PVC tubing which make a circuit with 30 days CE certification of usage 
+d) Tip to tip Bioline Coating (Albumin + Heparin) or any Coating 
+e) Oxygenator unit includes a hollow fiber Heat Exchanger with very less pressure drop 
+f) Circuit minimized to its basic minimum components.  
+g) De-airing membrane in oxygenator 
+h) Integrated Sensors for Pressures (Venous Arterial and Internal) and Temperature (Arterial and Venous) 
+monitoring.  
+i) Should have integrated Measuring Cell for Venous probe to measure Venous Oxygen saturation (SvO2), 
+Hemoglobin, Hematocrit and Venous Temperature 
+6. The quoted price should include the cost of the basic unit   and cost of five set of disposable kit.  (four full 
+kit for use in an adult patient + one full kit for use in Paediatric patient) 
+7. Rates of the chargeable accessories should be quoted for the total period 5 years and should be frozen for 
+that duration. 
+8. Five set of disposables should be supplied with machine for smooth starting of ECMO program.   
+ 
+ 
+General Conditions applicable to each tendered equipment: 
+ 
+(i) 
+There would be guarantee (with spares) for five years and additional warranty for five years. 
+(ii) 
+The product should be quoted with all the accessories. The price of all the accessories should also be 
+quoted separately.  
+(iii) 
+The price of major spares parts should be quoted separately. The price would be fixed for the warranty 
+period.  
+(iv) 
+The product or its earlier model should have been marketed in international market for at least 4 years. 
+(v) 
+If the equipment is software based, and new software is introduced within five years, the up gradation 
+will be provided free of cost. 
+(vi) 
+The department may ask for demonstration of actual quoted product or even for trial use. 
+(vii) 
+If necessary, training of the personnel for the use of the equipment will be provided by the company 
+vendor. 
+9. Compliance Statement: The vendor must provide, in tabular form a comparative chart of the required 
+technical specification and technical specification of the quoted product. The vendor must give the relevant 
+page number and paragraph number, in their literature regarding that technical information in the technical 
+bid. Merely stating “complies” or meets requirement” will lead to assumption that the quoted product does 
+not have the required feature. 
+10. We need FDA/CE/BIS approval. 
+ 
+ 
+ 
+ 
+
+

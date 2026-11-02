@@ -1,0 +1,111 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Micro/17/41/Tender 
+ 
+ANNEXURE-1 
+Technical specifications – PCR Workstation 
+ 
+Main specifications  
+ Class 100 vertical laminar flow air 
+ Exterior dimensions (H × W × D): approximately 30”x 32”x 24”  
+ Interior working area (W × D): approximately 25”x 22” 
+ Exterior: stainless steel or epoxy powder-coated metal.  
+ Interior: stable formed stainless steel.  
+ UV shelf with integrated pipette holder 
+ Side panels transparent, able to absorb wavelengths below 400 nm.  
+ Overhead UV light for DNA decontamination of 15W/254 nm 
+ Timer and key lock for UV lamp; timer operates only when key lock is on.  
+ Overhead white light; 15 W; at least 800 lux.  
+ At least two plug outlets built into the chamber; AC 110 ± 10 V; 60 Hz; 5A fuse.  
+ Should come with support stand with castor wheels 
+Electricity requirements  
+ Supply voltage: 230 ± 10 V, AC, 50/60 Hz. 
+ Voltage and plugs to be adapted to meet the country requirements. The line cord / Power 
+cord supplied with the equipment shall be of acceptable durability, length, and current 
+carrying capacity complying with Indian Standards.  
+ Power consumption: Depends on the electrical equipment used inside the workstation; 
+maximum 1200 W.  
+ Conform to electrical safety standards IEC 60601–1, UL 61010–1, EN 61010–1.  
+ Protection class (in accordance with EN 60529).  
+ Designed not to interfere with circuit radio (in accordance with EN 55014).  
+Documentation  
+ Manufacturer’s certificate  
+ The manufacturer must have a management system certified to ISO 9001 and a type-test 
+certificate of relevant optical and mechanical tests.  
+ Quality and safety standards met by the product must be listed.  
+Operation, maintenance and installation  
+ Operation and maintenance manual  
+ At least one set of operation, maintenance and service manuals written at least in English 
+and preferably also in the official national language of the country requesting the 
+workstation.  
+ Installation and maintenance  
+o The bidder must arrange for the equipment to be installed by certified or qualified 
+personnel; any prerequisites for installation to be communicated to the purchaser 
+in advance, in detail.  
+o The bidder to also provide user training (including how to use and maintain the 
+equipment) and a comprehensive maintenance plan. The cost of the maintenance 
+plan to be defined and guaranteed over the period of warranty.  
+o The supplier to provide an after-sale service.  
+o The service to have competent staff, adequate infrastructure and sufficient spare 
+parts to be able to respond to any complaints and to repair or replace the 
+workstation within 14 days.  
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Micro/17/41/Tender 
+ 
+Standard maintenance tools  
+ All standard accessories, consumables and parts required to operate the equipment, 
+including all standard tools and cleaning and lubrication materials, to be included in the 
+offer. Bidders to specify the quantity of every item included in their offer (including items 
+not specified above).  
+Spare parts  
+ Each workstation to be accompanied by an authorized list of accessories and spare parts.  
+ Set of fuses for the workstation.  
+ Two UV lamps.  
+Warranty: 5  years. 
+ Warranty period starts from successful installation at site  
+ Breakdown calls to be attended as and when required  
+ Preventive Maintenance to be carried out annually.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

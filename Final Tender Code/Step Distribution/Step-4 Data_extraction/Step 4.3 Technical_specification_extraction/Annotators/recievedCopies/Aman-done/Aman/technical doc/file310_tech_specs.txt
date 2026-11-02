@@ -1,0 +1,84 @@
+--- Page 10 ---
+Tender for Osmometer 
+Admn/Tender/21/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Osmometer 
+ 
+Measuring Principle 
+Osmometer should operate on the vapor 
+pressure depression principle 
+Sample Volume 
+It shall be capable of routine osmolality 
+determinations on sample volumes of 10 
+microliters and still lower volumes upto 2 
+microlitre using special adapters. 
+Measurement process 
+Measurement should be performed 
+automatically once the chamber is 
+closed after addition of sample. 
+Sample type 
+It should be able to use any biological 
+specimen, viscous samples, or  thin slices of 
+tissue sample (both animal & plant). 
+Measuring Range 
+It should have a measuring range covering 
+20 to 3200 mmol/kg with a linearity of ± 5% 
+Routine Maintenance 
+The osmometer shall have an automated 
+thermocouple cleaning cycle and not require 
+any routine maintenance 
+Measurement 
+resolution 
+Results should be expressed in a minimum 
+of 1 mmol/kg resolution. 
+Calibration process 
+It should have automatic calibration using 
+maximum 3 different standards 
+Compact design 
+The system should be a single integrated 
+unit having measuring , controlling and 
+result output modules as one system 
+Display Screen 
+Device should have inbuilt screen to display 
+results 
+Speed of result 
+Measuring time per sample : approx. 90 sec 
+Auto-repeat 
+It should be able to take upto 10 repeat 
+measurements on same sample and display 
+statistical data after each assay for accuracy 
+checks 
+Low running cost 
+It should use minimal consumables for 
+routine operations 
+Operating 
+Temperature 
+The device should be capable to be used in 
+temperature range of 15° to 37 °C 
+ 
+01  
+
+

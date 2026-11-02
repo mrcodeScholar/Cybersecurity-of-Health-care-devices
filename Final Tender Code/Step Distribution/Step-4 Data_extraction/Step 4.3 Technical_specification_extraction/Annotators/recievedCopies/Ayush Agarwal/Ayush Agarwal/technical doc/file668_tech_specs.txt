@@ -1,0 +1,157 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Neuro/18/254/OT 
+ 
+Page 17 of 21 
+ 
+ANNEXURE-I 
+Specification (with OR accessories) Mobile CT scanner 
+General specifications and terms 
+ All units/ items including accessories should have quality certificate such as BIS/ 
+USFDA/European CE certified.  
+ Manufacturer should be ISO certified 
+ 5 year warranty and 5 years AMC should be provided. 
+ Principal Company should have registered Office and Service Network in India. 
+ User manuals should be in English. Provision of trained manpower support for at least for 
+initial 5after installation or up to a period when the staff/technicians at AIIMS Raipur are 
+trained in handling, storage and proper sterilization methods of supplied equipment has to be 
+ensured by the bidder. 
+ Compliance statement should be submitted in a tabulated and point wise manner. 
+ Should have supplied quoted instruments to AIIMS/PGI/NIMHANS/any central institute; and 
+should submit satisfactory performance certificate from the institute. 
+ Firm are required to submit their catalogue along with tender clearly marking the quoted 
+items and number with highlighter. If necessary demonstration will be taken to ensure 
+product quality. 
+ All items under particular serial number will be purchased together from single manufacturer. 
+ Product quality certificate required. 
+ 
+Technical specification (with OR accessories) Mobile CT scanner for Neurosurgery specifications 
+ 
+S.No. 
+Specification 
+1. Mobile CT scanner for Neurosurgery  
+A COMPACT, PORTABLE, BATTERY & LINE POWERED MULTI-SLICE CT SCANNER IS 
+REQUIRED FOR CRANIAL AND CERVICAL SPINE APPLICATIONS IN NEUROSURGERY 
+ICU, OT & TRAUMA  
+THE EQUIPMENT SHOULD BE FDA APPROVED  
+A 
+X-RAY GENERATOR AND TUBE:  
+ 
+1. 
+Should have multi-slice capability with minimum of 8 slices per rotation  
+2. 
+The tube voltage should vary from 100-140 KV 
+3. 
+Tube cooling should occur in less than 15 minutes  
+4. 
+X-RAY tube should be fixed anode or better  
+5. 
+Should have solid- state detectors  
+B 
+GEOMETRY:  
+ 
+1. 
+Should have A minimum patient opening of 30 CM  
+2. 
+Image field of view should be at least 250 MM 
+C  
+IMAGE PROCESSING: 
+ 
+1. Should have capability to perform non contrast CT (axial), CT angiography (helical) 
+and 3 D CT reconstruction  
+ 
+2. Should allow volumetric data acquisition  
+
+
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Neuro/18/254/OT 
+ 
+Page 18 of 21 
+ 
+D 
+IMAGE QUALITY: 
+ 
+1. The reconstruction matrix should be at least 512x512 
+E 
+CONNECTIVITY : 
+ 
+1. Should have dicom functions and full dicom 3 compatibility, gigabit Ethernet 
+connectivity is essential and wireless connectivity is desirable. The vendor has to 
+connect the equipment with the existing pacs network of the hospital compatible 
+with the department of neuroradiology.  
+F  
+ELECTRICAL SUPPLY: 
+ 
+1. Should be able to run on single phase 220V AC 
+ 
+2. Should have an internal automatic voltage regulator to protect against voltage 
+fluctuations and power surges  
+ 
+3. Should be supplied with Indian plug  
+G 
+PORTABILITY: 
+ 
+1. Should be compact and portable with ability to move with in elevators and through 
+normal sized doors  
+ 
+2. Should have battery backup for at least 2 scans  
+H 
+SAFETY: 
+ 
+1. Should be safe enough to be used in environments such as ICU and OT 
+ 
+2. Shielding upgrade if available should be provided  
+ 
+3. Should satisfy international radiation safety requirement and type approved by 
+AERB, govt. of India  
+I 
+WORKSTATION: 
+ 
+1. A mobile workstation with all image processing software loaded should be 
+provided 
+ 
+2. PACS compatibility machine should be compatible with all pacs solution and 
+should interface directly with any pacs solutions in the hospital  
+J 
+ESSENTIAL ACCESSORIES FOR USE IN OPERATION THEATER & FOR 
+GENERAL USE  
+a 
+Skull clamp including  
+ 
+ 
+Park bench base unit & spindle adaptor   
+ 
+ 
+150mm extension bars  
+ 
+ 
+1 box of titanium pins   
+ 
+ 
+Torque wrenches -2 
+b 
+CereTom surgical drapes  
+c 
+OT table adaptor  
+d 
+Silhouette scan board (OR) 
+e 
+Navigation adaptor  
+f 
+Gel Pads ( 1 Set ) 
+g 
+Pressure Injector 
+h 
+Lead Apron-6nos 
+i 
+Thyroid Lead Shield- 6 Nos 
+j 
+Manpower to operate the CT during warranty period should be provided  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

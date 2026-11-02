@@ -1,0 +1,138 @@
+--- Page 10 ---
+Tender for Automated ELISA readers with washer                                                   Admn/Tender/61/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty. 
+01. 
+Automated 
+ELISA 
+readers with 
+washer 
+ELISA Reader and washer 
+1. Should have reading capability of 1 to 96 wells individually.  
+2. Should have a linear measurement range of 0 to 3.000Abs. 
+3. Should have wavelength range from 340 to 750nm.  
+4. Should have a photometric accuracy of ± 2% or better.  
+5. Should have a resolution of 0.001Abs.  
+6. Should have variable speed plate shaking capability.  
+7. Should have easy access 8 position filter wheel  
+8. Machine should be supplied with 6 standard filters.  
+9. Should have automatic filter selection.  
+10. Should have automatic calibration before each reading.  
+11. Should have at least 6 second reading speed.  
+12. Should have facility for storage of calibration curves.  
+13. Should have different types of blanking facility like air wise and well 
+wise.  
+14. Should be capable of reading U.V and flat type wells  
+15. Should be capable of reading 8 or 12 well strip plates.  
+16. Should use halogen light source and two spare bulbs should be 
+provided.  
+17. Should have internal thermal printer and 5 rolls of thermal should be 
+supplied along with the unit.  
+18. Should have external printer connectivity option.  
+19. Firm will have to supply compatible UPS with minimum half hr backup 
+along with the equipment free of cost.  
+20. Original literature of equipment and consumables should be submitted.  
+21. User’s list should be attached with satisfactory report for the last three 
+years from three blood bank users with contact details.  
+22. Demonstration of performance of equipment is compulsory in nearby 
+area for technical evaluation failing to which will be a disqualification.  
+23. Centrifuge should be FDA approved or European CE  
+24. Electrical: The equipment should be able to run on the existing 
+electrical provision  
+B) ELISA Plate Washer  
+1. Should have capability to wash flat, U or V bottomed micro plates or 8 or 
+12 well strip plates.  
+2. Should have 8 or 12 way manifold.  
+3. Should have 25 wash program memory or more.  
+4. Should have programmable washing time, volume and soaking time.  
+5. Should have minimum 6 wash cycles. 6. Should have continuous 
+operating cycle.  
+7. Should have residual volume less than 2µl.  
+8. Should have removable and autoclavable plate carrier. 
+ 9. Should have in-built vacuum and dispensing pumps to ensure accurate 
+and quite washing.  
+10. Should have waste bottle with full bottle alarm or sufficient mechanism 
+to avoid spillage and damage to equipment  
+11. Should work with input 200 to 240Vac 50 Hz supply.  
+12. Should have safety certificate from a competent authority European CE 
+/ FDA (US) / STQC CB.  
+13. Certificate / STQC S/IEC EN 61010-1 certificate or valid detailed 
+electrical and functional safety test.  
+14. Report from ERTL. Copy of the certificate / test report shall be 
+produced along with the technical bid.  
+01 
+
+
+--- Page 11 ---
+Tender for Automated ELISA readers with washer                                                   Admn/Tender/61/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15. Firm will have to supply compatible UPS with minimum half hr backup 
+along with the equipment free of cost.  
+16. Original literature of equipment and consumables should be submitted.  
+17. User’s list should be attached with satisfactory report for the last three 
+years from three blood bank users with contact details.  
+18. Demonstration of performance of equipment is compulsory in nearby 
+area for technical evaluation failing to which will be a disqualification.  
+19. Electrical: The equipment should be able to run on the existing 
+electrical provision 
+ELISA reader 
+ Should be fully automatic, able to support all plate formats U bottom, V 
+bottom and flat bottom 96-well micro plates.  
+ PC based system.  
+ Optical systems: LED lamp/ UV Xenon flash lamp.  
+ Detection: Absorbance based.  
+ Reading Time: <15 Seconds for 96-wells. 
+ Wavelength range: 340nm to 750nm or more. 
+ Wave length selection should be double monochromatic with 1nm 
+increment 
+  System should have capability to do qualitative, quantitative, kinetics 
+with any formulae including validation, transformation, and factors and 
+floating cut off. 
+ Absorbance Range: 0- 4 OD 
+ Resolution: 0.001 Abs. 
+ Accuracy: 1% +/- 0.010 OD 
+ Repeatability: 0.5% + -0.005 OD 
+ System should perform self-check before every measurement Power 
+requirements: 220V-50/60Hz PC Requirements (All in one PC) : Intel 
+core i7 processor, 4 GB RAM, 2 GB graphic, 1 TB hard disc, Full HD 
+LED monitor 17”, DVD writer, Wi-Fi, Wireless key board and mouse, 
+64 bit and latest version of Microsoft Window, with MS office licensed, 
+Laser Printer (>20pages/min.) 20pages/min.) >5000pages/refilling of 
+cartridge 
+  Inbuilt shaking mode.  
+ PC Software packages (windows ® compatible) for on board data 
+analysis.  
+
+

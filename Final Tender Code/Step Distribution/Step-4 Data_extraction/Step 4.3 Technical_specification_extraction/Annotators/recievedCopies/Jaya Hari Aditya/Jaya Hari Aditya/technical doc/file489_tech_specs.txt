@@ -1,0 +1,137 @@
+--- Page 10 ---
+Tender for Automated DNA Sequencer (8 channel) with capacity of up gradation to 24 capillary 
+Admn/Tender/34/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Automated 
+DNA 
+Sequencer (8 
+channel) 
+with 
+capacity of 
+up gradation 
+to 24 
+capillary  
+1. Fully automated capillary, fluorescence-based DNA Sequencer  
+2. Certification: CE/BIS/FDA and IVD certified  
+3. Number of capillaries: 8 Capillaries operating in parallel and must 
+be upgradable to 24 capillaries to meet future throughput. Employ 
+capillary arrays with a useful life that exceeds 160 runs.  
+4. Applications: Should be able to perform de novo sequencing, EST 
+analysis, SAGE analysis, gene regulation studies, microbial 
+diversity analysis, epigenetic change analysis, Re-sequencing, Long 
+Read Sequencing, comparative sequencing, Fragment analysis 
+applications like SSR, ISSR, AFLP Plant & Microbial Finger 
+printing, Microsatellite, Long Sizing, SNP Validation and screening, 
+Linkage analysis, Allele calling.  
+5. Must be able to detect and analyze at least 6 fluorescent dyes 
+simultaneously for DNA fragment analysis.  
+6. Heating/cooling: Active temperature cooling/heating that can 
+maintain capillary temperatures from 18°C to 70°C.  
+7. System should be capable of both 96 and 384 well sample plate 
+option.  
+8. Sequencing throughput: ≥180 samples/day having ≥500bp read 
+length with quality ≥ QV20.  
+9. System should support read length more than 850 bases per reaction.  
+10. Sequencing software: The vendor must supply licensed software that 
+are optimized for the instrument in the area of de novo, Re-
+sequencing, Long Read Sequencing, and comparative sequencing, 
+Fragment analysis applications like SSR, ISSR, AFLP Plant & 
+Microbial Finger printing, Microsatellite, Long Sizing, SSCP, SNP 
+Validation and screening, Linkage analysis.  
+11. Real time analysis: System software should allow real-time date 
+quality evaluation providing immediate access to base-called or size 
+called date to make decision about the quality of data as it is 
+generated.  
+12. Desktop computer for data analysis: Computer system should have 
+at least Intel Core 16GB DDR4 RAM, 2 TB GB HD, DVD-RW, 
+Gigabit Ethernet, USB Keyboard, USB Optical Scroll Mouse, Intel 
+HD Graphics 2500, 23" Wide TFT monitor, latest Licensed 
+Windows, Latest licensed Microsoft Office, and antivirus software 
+(perpetual license).  
+13. Applications-specific kits and reagents required to perform 
+sequencing and fragment analysis should be available from the same 
+supplier.  
+14. Suitable UPS for running the system with minimum of 30-min 
+backup.  
+15. Electrical requirement: 220 volt, 50 Hz.  
+16. Starter reagents for 500 full sequencing reactions & fragment 
+analysis (DNA standards for 1000 fragment analysis samples).  
+17. Consumables for 3,000 full sequencing reactions and sufficient 
+number of capillary arrays, and all other consumables to run 20,000 
+samples should be included in the offer & supplied in 4 instalments 
+over a period of 05 years as and when required. All consumables for 
+sequencing and fragment analysis should be quoted separately and 
+the prices of all the items should be frozen for seven years.  
+18. Warranty: Five years.  
+01 
+
+
+--- Page 11 ---
+Tender for Automated DNA Sequencer (8 channel) with capacity of up gradation to 24 capillary 
+Admn/Tender/34/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19. CMC for five years after warranty period  
+20. Turnkey: Temperature and humidity control device to be quoted. 
+IMPORTANT CLAUSES  
+1. Detailed literatures (all originals) with technical specifications 
+and features to be sent along with the offer.  
+2. Complete installation and testing of the equipment to its 
+specifications and operator training by vendor service engineer to be 
+done at the site of installation free of cost on the operation of the 
+instrument, chemistry options and software. 
+ 3. Vendor should have at least 10 installations in India.  
+4. Availability of local service support and response time for a 
+service call during and after warranty should be specified.  
+ 5. List of users of the quoted model along with their full contact 
+details (including telephone numbers and email IDs) should be 
+enclosed with the offer. 
+
+

@@ -1,0 +1,98 @@
+--- Page 10 ---
+Tender for Fluorescence Microscope for Research Project 
+Admn/Tender/46-3/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Fluorescence 
+Microscope 
+Optical system-   Infinity corrected system 
+Focus - Vertical stage movement up to 25mm per coarse stroke 
+ Vertical stage movement 1micron per fine stroke 
+ Stage rotation of 240 degrees 
+Illuminator - Long life transmitted LED illumination having long life 
+more than 40,000 hrs Light intensity LED indicator. 
+Revolving nosepiece -  Nosepiece: 6x revolving nosepiece (capable of 
+accommodating up to 6 objectives) mounted on ball bearing with 
+highly precise click stops and should have slots for upgradation for 
+DIC. 
+Objectives – 
+ Plan   Apochromat  1X/1.25X, Plan Achromat 2X, 4X 
+ Plan Fluorite 10X, 20X 40X, 60X& Plan Apo 100XO N.A 1.40 
+with correction collar. 
+Observation tube – 
+ Wide field Trinocular head with Field No. 22mm. with three 
+ways light path selection with possibility of 100% light to Eye 
+and Camera. 
+Stage – Anodized coaxial stage with right hand low drive Control. 
+Condenser - Swing out condenser (applicable for all objectives) 
+Fluorescence Attachment 
+ Filters 
+should 
+be 
+DAPI/Hoechst, 
+FITC/GFP, 
+TRITC/Rhodamine, Cy5, Cy3 & Texas Red dyes. 
+ Microscope should have 5/6/8 position filter turret along with 
+Fluorescence 
+Bandpass 
+filters 
+for 
+DAPI, 
+GFP/FITC, 
+TRITC/Rhodamine. 
+Camera: 
+Peltier cooled (-20 below ambient) CCD/CMOS camera having dual 
+mode Mono & Colour with true 5 MP resolution. Exposure time - 1 
+msec –600 second or better, Pixel size of approx.3.4μm x3.4μm. 
+Imaging System - Image analysis Software for counting & 
+Measurements, Time lapse, Z stack, Multichannel Fluorescence 
+Capture, it should be capable of Controlling the camera and 
+Microscope. 
+i.    Processor: 3.2GHz 6M (with i5 processor) and 8 GB RAM, 
+ii.   Memory: 500 GB HDD 
+iii.  1GB Graphic card 
+iv.  4 USB Ports and an Inbuilt Removable disc drive: DVD RW 
+Drive 
+v.   Interface of PC: at least 24 inch TFT Monitor with Keyboard 
+and Mouse 
+vi.   Operating System: Window 10 Professional (64 bit) 
+vii.  1KVA online UPS should be provided. 
+Application - Light and Fluorescence Microscopy of Cell and tissue 
+section   
+Eyepiece –  10 x 
+Miscellaneous - Dust cover, all wires, cords, connector and standard 
+accessories needed for proper functioning of the microscope 
+01 
+
+
+--- Page 11 ---
+Tender for Fluorescence Microscope for Research Project 
+Admn/Tender/46-3/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+UPS - At least 01-hour power backup for both Microscope and 
+Computer. 
+Training and Demonstration - Training of students / staff/ faculty in 
+equipment maintenance by the certified company engineer and the 
+specifications quoted should be demonstrated on site at the time of 
+installation. 
+Installation, commissioning, training etc. free of cost. One additional 
+training session to be done during the three years of warranty period. 
+This training session is in addition to the first training done after 
+installation. 
+The training must demonstrate all the techniques mentioned in the 
+specification or additional if applicable. 
+Warranty-  Five (5) years 
+
+

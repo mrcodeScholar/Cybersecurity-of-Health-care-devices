@@ -1,0 +1,42 @@
+--- Page 15 ---
+NIT No. : AIIMS/R/CS/Dermato/17/07/OT/A 
+15 | P a g e  
+ANNEXURE-I 
+Technical Specification of Phototherapy unit (Full body) 
+ 
+1. Full body cabinet with combination of 24 high pressure NB UVB and 24 UVA 100  watts lamps 
+with double door design with standard accessories including 5 UV protective goggles and 
+stable platform for convenient patient orientation 
+2. Rust proof cabinet outer body. 
+3. Mirror coated Lamps safety grills. 
+4. Rapid start ballast / choke (without starter) with international standard electrical safety 
+features. (for less power loss, does not produce heat & consumes up to 40% less current + up 
+to 35% increase in lamp life) 
+5. High loss Aluminium Reflector inside the cabinet. 
+6. Discrete observation UV Protective window (to see inside the chamber when treatment is on) 
+7. Unit / Cabinet can be remotely located anywhere up to a convenient distance from the 
+desktop computer control. 
+8. Built-in most recent UV software program / pre-programmed with the desk to computer. 
+9. Built in UV power meters & Integrated Dosimetry control system with UV Sensors. 
+10. Build-in treatment protocols, customizable, with automatic dosage calculation (The system 
+with built-in protocols, automatic metering, a data storage capacity for patients records) 
+11. In case of software updates, no extra charges will be tendered. 
+12. Patient database with space for managing of patient records. 
+13. User accountability and tracking with lamps power output & usage hours information 
+14. Notepad for patients specific comments, Keyless operation. 
+15. Comprehensive messaging system with voice announcements. 
+16. Printable patient records (Printable reports including Device Data Report and Daily 
+Summary) 
+17. Open top, space efficient design with reliable cooling system. 
+18. Power requirement 3 KVA (when you switch on either UVA or NB UVB) appropriate stabilizer 
+to be supplied) 
+19. Electronical Specification 200-240 Volts AC, (as per Indian / international electrical standard) 
+20. Warranty will be for a period of 05 years with 5 years AMC after expiry of warranty including 
+all the parts (excluding lamps) lamps should carry a warranty of atleast 01 year alongwith a 
+freeze in pricing of lamps for 5 years. 
+21. Unit Dimension in inches Width: 40, Depth: 40 & Height: 80 inches (all approximately) 
+22. An on-site demonstration of equipment is mandatory, prior to approval. 
+ 
+ 
+
+

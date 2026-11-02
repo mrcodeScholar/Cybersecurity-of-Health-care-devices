@@ -1,0 +1,109 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Pul-Med/18/012/OT/A 
+ 
+ 
+ 
+Page 18 of 23 
+ 
+Annexure - I 
+TECHNICAL SPECIFICATION FOR 
+“TARGET CONTROLLED INFUSION PUMP”          
+ FOR DEPARTMENT OF ANAESTHESIOLOGY 
+ 
+1. The pump should be IEC compliant, USFDA/CE approved. 
+2. Should have a medical grade display not less than 3 inches with both text and 
+graph display for plasmatic and effect site concentration. 
+3. Preferably MRI compatible and defibrillation resistant. 
+4. Should be able to easily assemble / stackable and release multiline pumps 
+together. 
+5. Should have a stand (Pole mounting) with wheels associated with brake. 
+6. Should have both TIVA/TCI mode. 
+7. Should be able to recognize syringes from at least three international 
+manufactures. 
+8. Should be Completed with 10,20,50 ml syringes: 5 ml syringe compatibility is 
+desirable. User-defined syringe brands and size entry ability is desirable. Able to 
+automatic detect syringe sizes. 
+9. Automatic pressure compensation for resistance to infusion. 
+10. Battery operation time> 10hours is desirable; autonomy should not be less than 
+1 hour. 
+11.  Battery Charging: Should be able to recharge to 100% within 6 hours(maximum) 
+12. Bolus enable and disable facility should be there. Purge facility should be there. 
+13. Able to switch between TIVA and TCI mode 
+14. Should be able to display drug dose summary or history record, save for few 
+days/ preferable downloadable. USB communication port is desirable. 
+15.  Should have both plasma TCI and effect site TCI mode and be able to 
+interchange. 
+16. Should be able to prompt/alert when set value, rate, dose etc. are beyond alert 
+level with a facility to override it. 
+17. Should have algorithm for propofol 1 %, propofol 2%, Remifentanyl, Sunfentanyl, 
+Alfentanyl Option is desirable. 
+18. Time to reach the Plasma target should be adjustable. 
+19. Should be able to work in TCL mode for 16 years to 100 years, Below 16 years is 
+desirable. 
+20. Should be able to work in TCI mode for 30 Kg to 150 Kg, below  30 kg is 
+desirable. 
+21. Water (Splash) profess is desirable. 
+22. Should be able to work in range of 100 to 240 volt AC.AC power cable to be 
+supplied. 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Pul-Med/18/012/OT/A 
+ 
+ 
+ 
+Page 19 of 23 
+ 
+23.  Technical alarms like main supply, battery, malfunction, overload etc. is must. 
+Both visual and acoustic alarms are required. Pre-alarms before the syringe or 
+battery is empty should be there. 
+24. Weight preferably within 2.6 Kg. per pump. 
+25. Should be able to work within 10-40 degree Celsius temperature. 
+26. Both flash/ gradual induction mode is desirable. 
+27. Automatic calculation of infusion rate facility should be there with prompt for 
+over and under dosing. 
+28. Rate mode, Time mode, body weight mode – all three is expected. 
+29. A flow rate of 0.1 -1200 ml/hour is required. Flow rate above 1200ml/hour is 
+desirable. Accuracy of ≤ ± 2% for flow above 1 ml/ hr and  ≤ ± 5% for flow rate 
+below 1 ml/hr. 
+30.  Pharmacokinetic models: for Propofol: Marsh and ± Schnider; Sufentanil: Gepts; 
+Remifentanil: Minto; Alfentanil: Scott.        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

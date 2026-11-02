@@ -1,0 +1,178 @@
+--- Page 15 ---
+AIIMS/BBSR/Neo&Paedia/2023-24/37(STORE-54/1/23) 
+ 
+P a g e  15 | 37 
+ 
+3. Technical Bid (Specification): 
+ 
+Name of the e-Tender: Supply, Installation & Commissioning of Near-Infrared Spectroscopy 
+System(NIRS) at AIIMS, Bhubaneswar. 
+ 
+3.1 
+Schedule of Requirements: 
+ 
+The institute requires Two (02) nos. of Near-Infrared Spectroscopy System(NIRS). The 
+equipment is/are to be delivered within 90 days from placing of Purchase Order at the 
+Central Store of AIIMS Bhubaneswar at the quoted/ negotiated price without any 
+additional cost to the institute as per specifications given below: 
+                 
+Sl No 
+Technical Specification 
+Compliance 
+Yes / No 
+Remarks 
+1 
+It should be non-invasive. NIRS technology  should detect changes in 
+regional blood oxygen saturation (rSO2) in the brain and skeletal 
+muscles (somatic tissue ). 
+ 
+ 
+2 
+Monitor should have provision of two and four channels. 
+ 
+ 
+3 
+Should be user friendly with pre-calibration and ready to use in 
+30 seconds. 
+ 
+ 
+4 
+Technology should have two or more  wavelengths of near 
+infra-red lights. 
+ 
+ 
+5 
+It should give rSO2 values with 25% arterial and 75% venous oxygen 
+saturation of the tissue. 
+ 
+ 
+6 
+Specific spacing between light emitting diode and detectors 
+with clinical back up. 
+ 
+ 
+7 
+Physical Dimensions: Height 24cm (9.5”), Width 29cm (11.25”), 
+Weight should be less than 5 kgs. 
+ 
+ 
+8 
+Preamplifier cable length 4.5meters (15 feet),Soma sensor cable 
+length 1.5 m(5 feet). 
+ 
+ 
+9 
+rSO2 range should be 15- 95 with an update every 5-6 seconds. 
+ 
+ 
+10 
+Alarm Limit Range of High: 20 – 95; Low : 50 - 90 
+ 
+ 
+11 
+ Sensors should be available for all patient categories; adult > 40 kg, 
+Pediatric  ≥5 <40 kg, Neonate cerebral >2.5 kg and Neonate Somatic 
+> 2.5 kg 
+ 
+ 
+12 
+Infant/Neonatal Sensor Length should be 2.72” ( 6.9cm),width of 
+0.97” ( 2.5cm) and depth (thickness) Should be 0.1005” ( 2.55cm) 
+ 
+ 
+13 
+ Infant/Neonatal Sensor Cable Length should be 5Feet ( 1.5 
+meters) 
+ 
+ 
+14 
+Infant/Neonatal Sensor’s adhesive should be Hydrocolloid ( 
+Medical Grade) 
+ 
+ 
+15 
+Sensors self-calibration automatically by the system 
+ 
+ 
+16 
+Should be able to perform automatic self-test 
+ 
+ 
+17 
+Power requirement: 100-240 VAC, 50/60 Hz, 1.0A – 0.5A with 
+connects for external AC mains and battery      
+ backup of approximately 20 minutes. 
+ 
+ 
+18 
+It should have a trend memory of 24 hours at 2 samples per 
+minute with a maximum of 30 cases saved 
+ 
+ 
+19 
+Digital out-put:- RS232 communications& USB 2.0 flash memory 
+ 
+ 
+
+
+--- Page 16 ---
+AIIMS/BBSR/Neo&Paedia/2023-24/37(STORE-54/1/23) 
+ 
+P a g e  16 | 37 
+ 
+20 
+USFDA/CE/BIS/ISO approved 
+ 
+ 
+21 
+Consumables should be clearly mentioned and  Rate contract 
+for consumables should be fixed for next 5 years 
+ 
+ 
+22 
+Parts/accessories not covered under warranty must be clearly 
+mentioned with the cost. 
+ 
+ 
+23 
+Each unit should be supplied with pediatric sensors-50, 
+neonatal sensors-50. 
+ 
+ 
+24 
+It should have 5 years of warranty and 5 years of CMC after 
+expiry of warranty period. 
+ 
+ 
+25 
+Satisfactory working certificate from other reputed hospital in 
+India (of last 2 years) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

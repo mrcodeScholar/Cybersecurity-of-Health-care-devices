@@ -1,0 +1,76 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Micro/18/55/A/OT 
+ 
+Page 18 of 23 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR 
+Next Generation Sequencer (with accessary equipments-fragment analyser & Qubit 
+fluorometer),Real Time PCR Machine & Bio Safety Cabinet Type II A2 
+ 
+ 
+A. Next Generation Seqencer(NGS) 
+1. Intended applications for the instrument. The system should be a single, 
+integrated bench top instrument capable of performing real time sequencing of 
+DNA, PCR amplicon, cDNA, targeted RNA, micro RNA, de novo and re-
+sequencing of whole genome of virus, bacteria, fungi and yeast. System must 
+also be able to perform target exome or whole exome and transcriptome 
+sequencing, detection of low frequency variants, full length transcript 
+sequencing and micro RNA sequencing etc. 
+2. Clonal amplification of DNA template should be fully automated on the 
+sequencer or using ancillary equipment. It must provide sequence both sense 
+and antisense strand. 
+3. The chemistry should allow for highly accurate sequencing through minimum 
+8 hohopolymeric regions. 
+4. The sequencing workflow should allow fully automated, walk-away operation, 
+without user intervention, from template amplification to analyzed data on a 
+single machine or by attaching ancillary systems. 
+5. System should generatre data of up  to 7.5 Gb of 25 million paired end reads 
+of high-quality data passing filter. 
+6. NGS should generate accurate base calls and data should be error free with 
+greater than 80% bases with high quality Q30 score at minimum 2x150 bp read 
+length,derived directly from intensity data and from a reference sequence. 
+7. The system should be offered with integratedd paired-end fluidics on the 
+instrument,supported with fully automated paired-end chemistry,without user 
+intervention. 
+8. System should be offer barcode for multiplexing. 
+9. The vendor must provide the basic ancillaries required to perform QC check i.e. 
+an instrument that can perform fdregment analysis and QC check in terms of 
+nucleic acid quality and quantity along with NGS platform.  
+10. The system should have an option of integrating with a cloud-based computing 
+environment,for data storage ,sharinf and secondary /teritary lelvel data 
+analysis. 
+11. The sequencing chemistry should be robust and globally proven,demonstrated 
+with at least 100 peer reviewed publications. 
+12. System should be accompanied by either on board or additional good  reputed 
+quality work station having minimum CPU-2.6GHz or above 2 with octa core 
+processor, RAM-32 Gb, Storage- 2-3 Tb. Data sharing and storage should be 
+enabled with ease with a secure and safe environment. 
+13. Should be provided with 2 KVA UPS for 1 hour backup. 
+14. Should have warranty of three years and CMC of five years after expiry of the 
+warranty period. 
+15. Instrument should be supplied with intial complete set of reagents for start-up 
+of the system for at  least 100 sequencing reactions,comprising of 20 samples 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Micro/18/55/A/OT 
+ 
+Page 19 of 23 
+ 
+for viral genome, 40 samples for trageted PCR amplicon, 20 for micro RNA and 
+20 for 16s rRNA. 
+16. All regeants for calibration and quality control and also for initial installation 
+and training shuold be supplied with the equipment0 
+17. User friendly software to analyze the sequences in the standard format of 
+FASTA and FASTQ.All future software upgradation should be supplied free of 
+cost within warranty period. 
+18. On-site trainings should be provided for wet lab and bioinformatics for easy 
+understanding of function of the equipment of the equipmenttill the user gets 
+confidence to run the applications on his own and later on remote support 
+basisi as and when required. 
+19. A user list to be enclosed of installations in India.  
+ 
+ 
+
+

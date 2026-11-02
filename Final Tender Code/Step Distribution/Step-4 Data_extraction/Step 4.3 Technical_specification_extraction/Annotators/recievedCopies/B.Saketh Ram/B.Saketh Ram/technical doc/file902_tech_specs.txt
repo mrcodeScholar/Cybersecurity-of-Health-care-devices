@@ -1,0 +1,236 @@
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/Pul_Med./18/009/OT/AA 
+ 
+Page 21 of 25 
+ 
+ 
+Annexure - I 
+        TECHNICAL SPECIFICATION  
+ 
+        “EBUS TBNA/ BIOPSY SYSTEM” 
+FOR DEPARTMENT OF PULMONARY MEDICINE 
+ 
+ 
+GROUP 
+ITEM DESCRIPTION 
+QUANTITY 
+1 
+ENDOBRONCHIAL ULTRASOUND SYSTEM 
+ 
+1. 
+Digital Ultrasound Scanner 
+ 
+B-mode and Doppler mode 
+ 
+Hi support –automatically optimize the B-mode and Doppler image.   
+ 
+Parameters (gain, baseline, PRF etc.) latest Tissue harmonic 
+imaging and tissue elastography.  
+ 
+Picture in picture for both ultrasound and endoscopic image 
+ 
+Simultaneously High resolution imaging 
+ 
+Ergonomic operation keyboard 
+ 
+User programmable calculation package 
+ 
+Annotation, arrow mark and pointer display 
+ 
+The whole system should function on 50Hz/220V A 
+ 
+2. EBUS-SCOPE 
+ 
+Field of view At least 80o (at least 35o forwarded oblique) 
+ 
+Depth of field Approximately 2-50 mm 
+ 
+Tip deflection: Up at least 1200 Down at least 900 
+ 
+Rigid distal width: Probe not more than 6.5 X 7.5mm  
+                                                Optic not more than 7.5 mm 
+ 
+ 
+Insertion tube outer diameter Not more than 6.5 mm 
+ 
+Instrument channel width at least 2 mm  
+ 
+Working length at least 600 mm  
+ 
+Total length not more than 900 mm  
+ 
+Acoustic frequency 5-10 MHz switchable 
+ 
+Scan Direction Longitudinal 
+ 
+Scan System Convex 
+ 
+Scan Angle approx 600 
+ 
+3. DIGITAL COLOR VIDEO PROCESSOR r (Quote separately for each type 
+and watt of  light source) 
+I. 
+Single CCD color. 
+II. 
+Atleast 300W xenon lamp (Lamp life 300-500 hrs) with back up 
+lamp. 
+III. 
+Video output – RGBs connectors, Y/Connectors, composite video 
+connector & HDTV. 
+IV. 
+Facility to connect other equipment like printer, image filing 
+system 
+V. 
+Facility to store still images and videos 
+VI. 
+It should have HD Video output. 
+VII. 
+It should preferably have NBI. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. MONITER- MEDICAL GRADE 
+ 26 Inch WXGA LCD panel (at least 1280 x 768 pixels. 
+ Full  range of analog SD input – composite NTSC and PAL, S-Video, 
+RGB, HDTV 
+ High purity color filters & high- brightness and contrast (at least 
+16.7 million colors) 
+1   Set 
+
+
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/Pul_Med./18/009/OT/AA 
+ 
+Page 22 of 25 
+ 
+ 
+ 
+5. ESSENTIAL ACCESSORIES  (Part of main equipment – separate quotation 
+for each of the following item, quantity may be increased or decreased 
+proportionately) 
+I. 
+Set of accessories with above scope – Free of cost 
+a. Channel opening cleaning brush -2Pcs 
+b. Channel cleaning brush – 5 Pcs 
+c. Water resistant cap with chin -1 Pcs each 
+d. Biopsy valve set -10 Pcs 
+e. Suction valve – 10 Pcs 
+f. 
+Suction cleaning adapter – 1 Pcs 
+g. Balloon for the scope – 50 Pcs 
+h. Balloon applicator -5 Pcs 
+II.         EBUS puncture needle -100 Pcs 
+III. 
+Light source cleaning kit 
+IV. 
+Leakage tester 
+V. 
+Carrying case for the scope & essential accessories 
+VI. 
+UPS for backup of the whole system including ultrasound  
+              generator 
+VII.  
+Mobile original manufacture trolley to mount the EBUS system 
+and ultrasound 
+VIII. Mobile Manual disinfector trolley & tray with integrated hand  
+             pump, 2 in no. ◊fluid containers 
+IX. 
+Computer – Intel i7 3.2 GHz processor or better (3rd  generation), 
+at least,  2 Terabyte hard disk, at least eight GB DDR3 RAM, DVD 
+writer, at least 19” TFT monitor, at least  four USB 3.0 ports, 
+original Window 7, UPS with power backup of at least 20 
+minutes. 
+ 
+X.        Original software from scope manufacturing company for     
+                                  image capture, documentation and reporting.  
+          
+6.  RADIAL ENDOBRONOCHIAL(EBUS) 
+I .          Probe driving unit should support various endoscopic and 
+endobronchial ultrasound procedures. 
+II.          Frequency range should be up to 20 MHz to enabling resolution of 
+superficial airway layers and peripheral lung nodules 
+III.        PROBES 
+a. Balloon contact method probe – 1 No. Maximum diameter 
+along with balloon sheath should be less than or equal to 2.6 
+mm to allow smooth passage through a 2.8 mm channel scope 
+Frequency- 20 MHz with 360 degree B- Mode mechanical radial 
+scanning. Working length should be more than 2000 mm. 
+b. Direct contact probe (20MHz) with guide sheath 
+Compatibility – 1 No. Maximum diameter of 2.0 mm 
+maximum that should easily fit through a 2.2 mm channel 
+endoscope 
+Frequency – 20 MHz with 360 degree B- Mode mechanical 
+radial scanning. Working length should be more than 2000 mm. 
+c. Direct contact method probe (20 MHz) with guide sheath  
+Compatibility – 1 No. Maximum diameter of 1.8 mm maximum 
+that should easily fit through a 2.0mm channel endoscope  
+Frequency – 20 MHz with 360 degree B- Mode mechanical 
+radial scanning. Working length should be more than 2000 mm 
+ 
+IV.         ACCESSORIES 
+a. Dedicated Balloon sheaths for balloon contact probe – 1 No. 
+b. Dedicated Balloon connector for balloon contact probe – No. 
+
+
+--- Page 23 ---
+Tender No. : AIIMS/R/CS/Pul_Med./18/009/OT/AA 
+ 
+Page 23 of 25 
+ 
+c. Guide sheath kits with biopsy forceps and cytology brush for 
+2.0 mm direct contact probes -10 No. 
+d. Guiding Device Curette – 2 in no 
+ 
+V. 
+OTHERS 
+a. Warranty for five years and CMC for 5 years after the expiry of 
+the warranty (CMC rates to be quoted separately) 
+b. Hands on training of two faculty members from the department 
+of pulmonary medicine within the country of abroad within 2 
+months of installation of the equipment. 
+c. The whole system should function on 50Hz/220V AC 
+d. All metallic instruments and accessories should be autoclavable  
+e. Should be BIS/ISO/CE/USFDA approved. 
+f. Demonstration will be provided at AIIMS, Raipur Whenever 
+asked for the department of pulmonary medicine. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

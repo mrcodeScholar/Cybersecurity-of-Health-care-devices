@@ -1,0 +1,157 @@
+--- Page 14 ---
+Tender Ref.: AIIMS/BBSR/Paediatrics/2023-24/25 
+ 
+P a g e  14 | 36 
+ 
+ 
+ 
+ 
+3. Technical Bid (Specification): 
+ 
+ 
+Name of the e-Tender: Supply, Installation &Commissioning of Equipment at AIIMS, 
+Bhubaneswar. 
+3.1 
+Schedule of Requirements: 
+ 
+The institute requires ___ nos. of equipment to be used by the Department of _________. The 
+equipment is/are to be delivered within 90 days from placing of Purchase Order at the 
+Central Store of AIIMS Bhubaneswar at the quoted/ negotiated price without any 
+additional cost to the institute as per specifications given below: 
+3.2 
+SPECIFICATIONS OF Equipment/instruments: 
+Specifications for Equipment for diffusion studies (pulmonary function) in children 
+The equipment is required for performing following tests on children: 
+1. 
+Spirometry Tests:  
+a) 
+It should be suitable for tests in children including those as young as 4 years  
+b) 
+Should measure Forced Vital Capacity (FVC), Forced Expiratory Volume in 1 sec (FEV1), 
+FEV1/FVC, Peak Expiratory Flow (PEF), Forced expiratory flow (FEF)25-75, FEF25, 
+FEF50, FEF75, Slow Vital Capacity, Maximum Voluntary Ventilation 
+c) 
+All parameters should be measured pre and post bronchodilation and report should 
+show pre, post and difference between two. 
+d) 
+There should be references standard for Indian children. 
+e) 
+There should be provision to view the curve while child is performing the test (A screen 
+showing the curve) 
+f) 
+There should be provision for visible incentive for children to get cooperation  
+g) 
+Should have capacity to store>1000 tests and transfer of data to other PC 
+h) 
+It will be desirable if the data can be exported to Excel spread sheet for analysis and 
+seeing trends. 
+  
+2. 
+Lung Diffusion Capacity Tests: it should be able to perform by following methods in 
+children including those as young as 4 years:  
+a) 
+Single breath 
+b) 
+Intra breath 
+ 
+3. 
+Rebreathing (on tidal breathing; No need to hold the breath): It should be able to 
+provide maximum inspiratory pressure(MIP) and maximum expiratory pressure(MEP), 
+maximum nasal inspiratory pressure (SNIP), p0.1  
+ 
+4. 
+Flowmeter: 
+a)  
+Bidirectional Re-usable  
+b)  
+Flow range 0.02 - 16 l/s 
+c)  
+Accuracy ±2%, 
+d)  
+Resistance <1 cm H2O/l/s @ 10-14 l/s 
+ 
+5.  
+Breathing Valves:  
+a) 
+The operation of breathing valves during tests should be fully automated 
+b) 
+ The breathing valve should be designed to be easily dismounted for complete 
+sterilization 
+c) 
+It shall be supported by flexible table arm during test 
+ 
+6.  
+Gas Analysers: 
+
+
+--- Page 15 ---
+Tender Ref.: AIIMS/BBSR/Paediatrics/2023-24/25 
+ 
+P a g e  15 | 36 
+ 
+a) 
+CO Analyzer:  Range 0–0.4%, 
+b) 
+Accuracy ±0.003%   
+c) 
+Should work independent of CO2 in gas sample 
+d) 
+ Inert gas analyser:  Range 0 – 0.35% 
+e) 
+Accuracy ±0.003% 
+ 
+7.  
+It should have predicted values for Indian/Asian children. 
+8.  
+Environmental Sensors: The system should have temperature, Barometric and 
+Humidity Sensors. 
+9.  
+Test should be simulated without using gas for training of patient before actual test. 
+10.  
+Power Supply: The operating AC Voltage range should be 100-240V 
+11.  
+Interface: It should have interface for connecting to a computer 
+12.  
+Essential Accessories: The system should be supplied in plug and play configuration 
+with all essential accessories required to run the machine including: 
+a) Compatible Desktop PC core i7, 1TB HDD, DVD RW, USB 3.0 (one in no.) 
+b) Laser Colour Printer (one in no.)  
+c) UPS (should last at least 2 hours to run the machine) (One in no.) 
+d) Mobile Trolley (One in no.) 
+e) Diffusion Test gas cylinder (02 Nos) with regulator (One in no.), 
+f) Bacterial Filters (200 nos.),  
+g) Silicon Mouthpieces (200 nos.),  
+h) Nose clips (100 nos.). 
+ 
+13.  
+Up-gradation: The system should be upgradable to measure following lung volumes: 
+Total lung capacity, Functional Residual capacity (FRC), Residual Volume, Impulse 
+oscillometry, Body box plethysmography 
+14. 
+Quality Assurance: The manufacturer should have CE (European)/US FDA/BIS 
+certifications 
+15.  
+The system must meet latest ATS/ERS standardization guidelines 
+16.  
+Should be supplied with list of spare parts and consumables with price fixed for next five 
+years 
+17.  
+It should have warranty of five years and CMC for 5 years after warranty 
+18.  
+Quotes should include costs of basic equipment along with all software 
+19.  
+Provision for training of personnel by an expert who has performed tests in children 
+20.  
+Demonstration of item is required during technical evaluation 
+The company should indicate the number and cost of “Diffusion Test Gas Cylinders” required 
+for period of 5 years for performing approx. 100 tests / year.  
+ 
+3.3 
+Technical Bid (Submission Format): 
+ 
+The Scanned copies of the following Mandatory documents to be uploaded on e-Tendering 
+Portal in the following format: 
+ 
+ 
+
+

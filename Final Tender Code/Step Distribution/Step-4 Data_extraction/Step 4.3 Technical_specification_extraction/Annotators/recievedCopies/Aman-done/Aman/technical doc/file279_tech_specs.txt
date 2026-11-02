@@ -1,0 +1,230 @@
+--- Page 15 ---
+ 
+AIIMS BATHINDA                                                                                                                                                                  Page 15 
+ 
+ 
+ 
+                      
+ 
+                  List of Items for which rate contract is sought with specification and the make wherever applicable 
+ 
+ 
+SR.NO 
+ITEMS 
+NAME  
+                                            SPECIFICATION 
+Qty 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Synchronized 
+Multiple 
+Visualizer 
+System 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1. System should have high resolution full Male and full Female 
+segmented real human tissue content with full annotations developed by 
+OEM. 
+  
+2. System should have at least 4 full body cadavers; two Males and two 
+Females;1 Caucasian pair and 1 Asian pair. With real human tissue data 
+3. System should have 20 or more photorealistic regional sections with 
+real human tissue data 
+4. Real tissue visualization system should have 31-week fetus, which 
+should simulate uteroplacental circulation and explicitly show vascular 
+and nervous system of the fetus and other anatomical features of the fetus 
+5.The system should have the capability for window dissection in any 
+shape. 
+6.The system should have the capability for layer-by-layer removal of 
+structures 
+7. The system should have the capability to segment the cadaver in any 
+plane and at any angle 
+8. System should be able to display male and female body side by side 
+simultaneously. 
+9. System should have feature to visualize histology in various stains and 
+resolutions related with the gross anatomy structure side by side 
+simultaneously 
+10. System should have feature to compare up to 4 histology slides side by 
+side. 
+11. System should have the feature to review CT/ MRI cases with gross 
+anatomy on system side by side simultaneously. 
+12. The system should come with FDA approved software with 
+capabilities to convert CT / MRI data offline into 3D interactive data in 
+colour that can be zoomed in and out and can also be segmented in any 
+plane and at any angle 
+13. The 3D volume rendered data should have the ability to be viewed in 
+Ultra High-Quality Mode, Opaque Hard Tissues, Transparent Soft Tissues, 
+Greyscale, X-Ray, Transparent Hard Tissue modes 
+14. System should have 50 or more photo-realistic prosections images 
+from various regions of human anatomy with normal and pathologic tissue 
+15. Readymade and customized quizzes should be available in system with 
+possibility to generate multiple student score automatically during 
+classroom test. 
+16.System should have more than 30 animal cadaver data for comparative 
+study with human body 
+17. System should have accurate cadaver heart with detailed cardiac nerve 
+innervation 
+18.System should have capability to simulate heart valve motion and 
+vascular connectivity 
+19. System should have detailed distribution of sensory and motor nerves 
+20.System should have feature to simulate endoscopic procedures in gross 
+anatomy major body systems 
+21. System should have more than 10 different pathways for visualization 
+of anatomy and physiologic pathways 
+22. System should have at least 02 Video output for external projection 
+23. Real tissue visualization system should be provided with projection 
+screens for total display size up to 110 inch  
+24. System display should have multi touch point capability with a single 
+touch screen of 81" or better size such that the formfactor is similar to 
+actual dissection table. 
+01 
+
+
+--- Page 16 ---
+ 
+AIIMS BATHINDA                                                                                                                                                                  Page 16 
+ 
+ 
+ 
+25. System should be provided with 4 high-definition touch screens of 
+minimum size 65 inches to view accurate 3D anatomy simultaneously 
+with multi touch interactivity. 
+26. At least four synchronized 65” touch vertical interactive side by side 
+display with life sized display system for anatomy education should be 
+provided. 
+27. System software should be able to display skeletal, muscular, 
+cardiovascular and nervous system side by side on different screens with 
+single selection. 
+ 
+28. System should have synchronized rotation feature on all screens with 
+single touch screen 
+ 
+29. System should be provided with additional 65inch or better size 
+interactive display including curriculum resources  
+30. System should be provided with 25 iPads with a real tissue digital 
+Cadaver with features like 2300 segmented and annotated structures, 
+major anatomical systems including Cardiovascular, Nervous, Skeletal, 
+Endocrine, Reproductive and Skin, exploring real human anatomy through 
+rotating and zooming. Removing, adding, and isolating anatomical 
+systems and structures. Drawing and erasing with a touchscreen pen with 
+curriculum resources 
+31. Online UPS should be provided with the system. 
+ 
+32. Single OEM software should have Gross Anatomy, CT/MRI 
+Communication System, Offline CT/MRI 3D Conversion, Histology and 
+Prosection feature. 
+33. System should have collection of Histology slides showing various 
+physiological and pathological examples with the use of various 
+microscopic and staining techniques 
+34. System should have photo-realistic prosections images from various 
+regions of human anatomy and case examples for normal and pathological 
+tissue 
+35. Operating Temperature of the system should be within range 0 to 40 
+degree Celsius or better 
+36. Operating Humidity range should be 10 to 60% or better 
+37. Bidder should have at least 01 installation of the offered model in a 
+Government Institution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

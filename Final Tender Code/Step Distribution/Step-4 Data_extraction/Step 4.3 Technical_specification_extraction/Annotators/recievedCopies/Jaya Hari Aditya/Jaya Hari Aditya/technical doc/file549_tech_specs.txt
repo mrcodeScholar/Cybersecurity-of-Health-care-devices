@@ -1,0 +1,765 @@
+--- Page 14 ---
+  
+AIIMS Rishikesh tender Enquiry No. 24/Communication/458/2018-Rish(Admn) 
+ 
+AIIMS, Rishikesh  
+Page 14  
+  
+ Alerts handling 
+ Emergency, speed, Geo-fencing (go/no-go zones)  
+ Record and Replay / Report / Export  
+ Multi-organizations support  
+ High resiliency thanks to geo-redundancy solution  
+ All services full integration  
+ API for 3rd party systems  
+ Control Room Integration 
+  
+TECHNICAL SPECIFICATIONS OF MAIN COMPONENTS 
+ 
+A. THE MAIN SERVER: 
+ 
+Technical specifications 
+ 
+1. 
+Standard hardware redundancy: 
+  
+ 
+1 pcs HP DL380 G9 server 
+ 
+1 pcs MGate32 
+ 
+2. 
+The MGate32 unit should provide reliable and instant voice routing towards: 
+ 
+ 
+Base stations   
+ 
+Command and control rooms 
+ 
+External interfaces, as PABX 
+ 
+Recorder 
+ 
+Analog networks  
+ 
+3. 
+The Mgate32 should also provide: 
+  
+ 
+dedicated, secure hardware for Authentication and Air-interface-Encryption key management. 
+ 
+4. 
+Capacity 
+ 
+ 
+Base stations: 25 
+ 
+Carriers : 50 
+ 
+Max Subscribers: 10000 
+ 
+Dispatchers: 64 
+ 
+Smart Phone APP subscribers: 200 
+ 
+5. 
+Characteristics 
+ 
+ 
+Graphical interface for fast deployment 
+ 
+Communications covering the entire network – seamlessly 
+ 
+Includes the complete set of system features from all system software releases 
+ 
+Geo-redundancy when needed 
+ 
+Authentication and encryption 
+ 
+Fast and secure data services  
+ 
+Smart Phone APP server providing system services to smartphones and other smart devices 
+equipped with the relevant application 
+ 
+Remote network management 
+ 
+Easy and low cost maintenance 
+ 
+New functionality can be added without hardware upgrades 
+ 
+
+
+--- Page 15 ---
+  
+AIIMS Rishikesh tender Enquiry No. 24/Communication/458/2018-Rish(Admn) 
+ 
+AIIMS, Rishikesh  
+Page 15  
+  
+ 
+6. 
+Design 
+ 
+ 
+The components can be installed into any 19-inch rack suitable for the setup and site. 
+ 
+B. Data Distribution Server  
+ 
+1. Characteristics  
+ 
+ 
+Hardware specifications for HPE DL 380 Gen 9 server:  
+ 
+Internal disks: 2x300 GB per node  
+ 
+Ethernet network ports: 8 x 10/100/1000 Mbps  
+ 
+Processor: 8-core 2.85 Ghz Intel  
+ 
+Memory: 16 GB  
+ 
+Power supply: two hot swappable AC power modules (DC possible)  
+ 
+Server unit supply voltages:  
+ 
+100 to 264 (VAC)  
+ 
+Dimensions:  
+ 
+Height: 8.71 cm  
+ 
+Width: 44.5 cm  
+ 
+Depth: 67.6 cm  
+ 
+Weight (without rack): 17.6 kg  
+ 
+Ambient temperature: +5 to +45°C  
+ 
+Relative humidity: 10 to 85 % non-condensing  
+ 
+Altitude: 0 to +4000 m  
+ 
+C. Hybrid Handset:  
+ 
+The hybrid handset should fully rugged smartphone. it should also offer the special multi-purpose push-to-talk 
+buttons for easy operation and comfortable in even prolonged use. 
+ 
+1. 
+Network 
+ 
+ 
+Frequency: 380 – 430 MHz, Compliant EN300392-2 power class 3L 
+ 
+2G bands: 
+ B3 – 1800 MHz 
+ B8 – 900 MHz 
+ 
+ 
+3G bands:  
+ B1 – 2100 MHz 
+ B8 – 900 MHz 
+ 
+ 
+LTE bands:  
+ B3 – 1800 MHz 
+ B7 – 2600 MHz 
+ B20 – 800 MHz 
+ B28 – 700 MHz 
+ B40 – 2300 MHz 
+ 
+ 
+UMTS/HSxPA, HSPA+, DC-HSPA+, LTE 
+ 
+LTE Cat 4, data transfer up to 150Mbit/s 
+ 
+WIFI a/b/g/n/ac: 2.4 & 5.0GHz 
+ 
+ 
+ 
+
+
+--- Page 16 ---
+  
+AIIMS Rishikesh tender Enquiry No. 24/Communication/458/2018-Rish(Admn) 
+ 
+AIIMS, Rishikesh  
+Page 16  
+  
+2. 
+Body 
+ 
+Large PTT button  
+ 
+Emergency key 
+ 
+2 x functional buttons 
+ 
++/- buttons 
+ 
+Power on/off 
+ 
+Weight: 375g (with Antenna and battery) 
+ 
+Dimensions: ~155 x 79 x 28 mm with a standard battery 
+ 
+3. 
+Platform 
+ 
+OS: Android 6.0 Marshmallow 
+ 
+Chipset: Qualcomm snapdragon 652 
+ 
+CPU: Octa-core ARM Cortex up 1,8GHz 
+ 
+GPU: Adreno 510 
+ 
+Internal memory: 16 GB Flash, 3 GB RAM 
+ 
+Card slot: microSD up to 128 GB 
+ 
+GPS with A-GPS, Glonass, Beidou 
+ 
+2 SIM card slots: wireless and 3GPP network  
+ 
+Sensors: accelerometer, gyrometer, proximity, compass 
+ 
+Ambient Light Monitoring 
+ 
+4. 
+Audio 
+ 
+Top microphone 
+ 
+Front- down microphone 
+ 
+Noise reduction 
+ 
+Earspeaker 
+ 
+Loudspeaker, top location (close to ear in shoulder carrying),  
+ 
+Clear speech output 
+ 
+High sound pressure 
+ 
+ 
+5. 
+Connectors 
+ 
+Bluetooth v4.2, HS,EDR, BLE 
+ 
+NFC for provisioning 
+ 
+Micro USB: full/high, OTG, v2.0 
+ 
+3.5mm audio jack (four connectors, CTIA standard) 
+ 
+Backside connector: Data, Charge, Mount 
+ 
+ 
+6. 
+Security  
+ 
+Android hardening 
+ 
+Secure boot 
+ 
+Trusted execution environment 
+ 
+VPN always on 
+ 
+Enforced content encryption for internal memory and SD card 
+ 
+Accessory whitelisting 
+ 
+Wi-Fi network whitelisting 
+ 
+Dedicated HW for wireless voice and messaging 
+ 
+Air Interface Encryption (AIE) security classes:  
+ Class 1: Clear 
+ Class 2: SCK 
+ Class 3: DCK/CCK 
+ 
+Application control and signing 
+
+
+--- Page 17 ---
+  
+AIIMS Rishikesh tender Enquiry No. 24/Communication/458/2018-Rish(Admn) 
+ 
+AIIMS, Rishikesh  
+Page 17  
+  
+ 
+Temporary disable/enable (Stun) 
+ 
+Permanent disable (Kill) 
+ 
+End to end encryption with smart card (option) 
+ 
+7. 
+Display 
+ 
+Capacitive, multi-touch 
+ 
+Gloves usage enabled 
+ 
+Usable in wet environment 
+ 
+Resolution: 720 x 1280 pixels 
+ 
+Colors: 16.7 M 
+ 
+Bright display: up to 480cd/m2 
+ 
+Optimized readability in daylight 
+ 
+8. 
+Camera 
+a) Back camera: 16 MP, LED Flash 
+b) Front camera: 5 MP 
+ 
+9. 
+Durability 
+ 
+IP65 and IP67 certified 
+ 
+Withstands drops from a height of 150cm according to MIL STD 810G standard 
+ 
+Tested in 200 consecutive 1m tumbles 
+ 
+Operating temperature: -20°C to +55°C* 
+ 
+Storage temperature: -40°C to +85°C 
+ 
+Robust touch panel 
+ 
+Protected for humidity, salt, vibration, ESD, Solar radiation, liquids, heat cycles, mechanical 
+pressure 
+ 
+10. 
+Safety 
+ 
+Man down alarm 
+ 
+Emergency key 
+ 
+Textiled buttons for eyes-free operations 
+ 
+PTT, functional buttons, volume accessible by one hand 
+ 
+11. 
+Battery 
+ 
+Standard : Li-Po 4600 mAh  
+ 
+Changeable battery 
+ 
+Estimated time with standard battery (wireless 10/30/60): 16h 
+ 
+Estimated stand by time: 36h 
+ 
+12. 
+Wireless Network 
+ 
+Direct mode 
+ 
+Trunk mode 
+ 
+Sharing location over SDS/LIP 
+ 
+Call log view 
+ 
+Priority scanning 
+ 
+Voice override in group calls (pre-emption) 
+ 
+13. 
+Accessories 
+ 
+Micro USB charger 
+ 
+Standard capacity battery  
+ 
+High capacity battery 
+ 
+Vehicle mounting and charging system 
+ 
+Belt carrying case 
+
+
+--- Page 18 ---
+  
+AIIMS Rishikesh tender Enquiry No. 24/Communication/458/2018-Rish(Admn) 
+ 
+AIIMS, Rishikesh  
+Page 18  
+  
+ 
+Shoulder carrying case  
+ 
+Strap 
+ 
+Industry leading accessories for Headsets 
+ 
+Loudspeakers  
+ 
+External microphones 
+ 
+External PTT 
+ 
+D. Handheld terminal  
+ 
+1. 
+Frequency bands 
+ 
+380 – 430 MHz 
+ 
+806-825 MHz, 851-870 MHz 
+ 
+2. 
+Power class 
+ 
+Compliant EN300392-2 power class 3L(Power class 3L as an option) 
+ 
+Receiver class A and B 
+ 
+RF power control, 4 steps of 5 dB, and 1 step of 2,5 dB (option) 
+ 
+3. 
+Size 
+ 
+Weight: 160 g 
+ 
+Dimensions: 116 x 55 x 19 mm  
+ 
+4. 
+Durability 
+ 
+Water, dust, according to IP65 class  
+ 
+Free fall IEC 60068-2-32 Ed (1,5m)  
+ 
+Vibration resistant IEC-60068-2-6, IEC 60068-2-64, Fh broad-band  
+ 
+Solar radiation resistant IEC-60068-2-5 
+ 
+Temperature changes IEC-60068-2-14 Na 
+ 
+Exposure to UV-C radiation  
+ 
+5. 
+Display 
+ 
+Transflective full-color QVGA display 
+ 
+Up to 262144 colors, 240 x 320 pixels 
+ 
+Display backlight off by single key press 
+ 
+Display reverse (180 degrees by single key press) 
+ 
+Display texts in more than 25 languages 
+ 
+Night vision mode 
+ 
+Grid menu as default at power-on 
+ 
+6. 
+Keypad / controls 
+ 
+Alphanumeric keypad 
+ 
+4 navigation keys, 3 selection keys 
+ 
+Combined Duty key HI/LO key  
+ 
+Power-on key, red function key, fast menu key, combined volume control and group selector with 
+back key  
+ 
+7. 
+A-GPS / GNSS receiver 
+ 
+A-GPS receiver in 380-430 MHz version 
+ 
+GNSS receiver in 800 MHz version 
+ 
+Internal memory 
+ 
+Power save mode 
+ 
+Positioning activity indicator 
+ 
+Sensitivity -162 dBm / -167 dBm 
+ 
+Simultaneous satellites up to 12  
+
+
+--- Page 19 ---
+  
+AIIMS Rishikesh tender Enquiry No. 24/Communication/458/2018-Rish(Admn) 
+ 
+AIIMS, Rishikesh  
+Page 19  
+  
+ 
+Cold start accuracy (open sky)*- 2,5 meters / 2,0 metres CEP 
+ 
+Cold start , time to first fix (open sky)*- < 30 seconds / < 26 seconds* measured at -130 dBm / 
+GPS+Glonass 
+ 
+SBAS augmentation systems (WAAS, EGNOS, MSAS, GAGAN)  
+ 
+8. 
+A-GPSS/GNSS features 
+ 
+Automatic position saving 
+ 
+Position information sending on request or on triggers (e.g. time, distance, status message) 
+ 
+Position information sending during red key calls and public emergency calls 
+ 
+Waypoints, waypoint guidance 
+ 
+Showing caller’s distance and direction during a call (‘Where are you’ feature) 
+ 
+Saving own or caller’s waypoint with one key press for Waypoint guidance 
+ 
+Support for ETSI location information protocol 
+ 
+9. 
+Network features  
+ 
+Multiple network support  
+ 
+ISI support 
+ 
+Clock synchronisation with network and/or GNSS time 
+ 
+Transmission barring (Tx inhibit) 
+ 
+Load Directed Roaming (LDR) 
+ 
+Alert for out of network coverage 
+10. 
+Direct mode features 
+ 
+Up to 1500 DMO groups 
+ 
+500 DMO channels 
+ 
+DMO repeater type 1A and 1B communications support, and acting itself as type 1A repeater 
+(optional) 1BTMO-DMO via Gateway communications support, but not as a Gateway itself 
+ 
+Scanning 
+ 
+DMO individual call 
+ 
+Red key call to DMO group 
+ 
+Red key call to TMO within network coverage 
+ 
+Public emergency call within network coverage 
+ 
+DMO SCK encryption, encryption classes 2A, 2B and 2C 
+ 
+DMO status messages 
+ 
+DMO SDS messages 
+ 
+Network monitoring while in DMO 
+ 
+11. 
+Call types  
+ 
+Phone calls in owned & public networks 
+ 
+Express and group calls in owned network  
+ 
+Emergency calls 
+ 
+Public emergency calls  
+ 
+12. 
+Group communication 
+ 
+Up to 3 000 groups 
+ 
+Up to 200 group folders 
+ 
+Up to 200 talk group sub folders with 3 layers 
+ 
+Up to 400 groups per folder 
+ 
+Dynamic Group Number Assignment (DGNA), up to 200 DGNA groups 
+ 
+Up to 10 background groups 
+ 
+Priority scanning 
+ 
+Scanning list up to 59 groups 
+ 
+Voice override in group calls (pre-emption) 
+ 
+Late entry 
+
+
+--- Page 20 ---
+  
+AIIMS Rishikesh tender Enquiry No. 24/Communication/458/2018-Rish(Admn) 
+ 
+AIIMS, Rishikesh  
+Page 20  
+  
+ 
+13. 
+Messaging 
+ 
+Status messages 
+ 
+Text messages with concatenation 
+ 
+Situation indicators to a predefined address 
+ 
+Flash messages 
+ 
+Call-out 
+ 
+Predictive text input T9 for most languages 
+ 
+Unit alert (Selective alert) 
+ 
+SDS polling 
+ 
+14. 
+Personal Safety  
+ 
+Lifeguard – an advanced man down alarm 
+ 
+Where are you? – Showing caller’s distance and direction during a call  
+ 
+Work Alone 
+ 
+Position sending during red key calls and public emergency calls  
+ 
+Configurable emergency button 
+ 
+Night vision mode 
+ 
+15. 
+Security 
+ 
+Authentication and Mutual authentication 
+ 
+Air Interface Encryption (AIE) security classes:Class 1: Clear 
+ Class 2: SCK 
+ Class 3: DCK/CCK 
+ --Class 3G: (requires SIM card) 
+ 
+Phone and Security code 
+ 
+Temporary disable/enable (Stun) 
+ 
+Permanent disable (Kill) 
+ 
+Optional Support for smart card based end-to-end encryption  
+ 
+16. 
+Optional SIM support  
+ 
+SIM card with subscriber identification information (ITSI and authentication key K)  
+ 
+Easy to move subscriber information with security SIM card from one radio to another 
+ 
+17. 
+Wireless data 
+ 
+IP packet data 
+ 
+WAP 2.0 over wireless network  
+ 
+XHTML colour browser 
+ 
+AT-command interface for applications 
+ 
+Java™ MIDP 2.0 platform  
+ 
+18. 
+Interfaces 
+ 
+Side connector for audio and data accessories, programming and carkit 
+ 
+Bottom connector for charging  
+ 
+Interface for automatic carrying mode recognition 
+ 
+Internal smart card slot 
+ 
+Connector for external antenna 
+ 
+USB flashing  
+ 
+19. 
+Battery 
+ 
+Lithium-Ion 1590 mAh  
+ 
+Estimated values:  
+ Up to 15,5 h (5/5/90) 
+
+
+--- Page 21 ---
+  
+AIIMS Rishikesh tender Enquiry No. 24/Communication/458/2018-Rish(Admn) 
+ 
+AIIMS, Rishikesh  
+Page 21  
+  
+ Up to 13 h (10/30/60) 
+ Up to 20 h (standby) 
+ 
+ 
+Heavy Duty Battery Lithium-Ion 3180 mAh  
+ 
+Estimated values: 
+ Up to 27 h (5/5/90) 
+ Up to 22 h (10/30/60) 
+ Up to 36 h (standby)  
+ 
+ 
+Charging time 2-3 h (ACP-12, power off)  
+ 
+20. 
+Usability 
+ 
+500 phone book entries with 2500 unique numbers 
+ 
+8 user profiles: General, Silent, Meeting, Outdoor, Pager, Active holder, Headset and Monophone 
+ 
+Aliasing – call routing service 
+ 
+Voice feedback 
+ 
+Configurable main menu and fast menu 
+ 
+Configurable function keys 
+ 
+Speed dialling (locations 2-9) 
+ 
+DTMF tone dialling 
+ 
+Any key answer 
+ 
+Duplex call barring 
+ 
+Energy economy 
+ 
+Remote control through SDS or status 
+ 
+Vibration alert 
+ 
+Secondary Control Channel (SCCH) 
+
+

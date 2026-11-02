@@ -1,0 +1,74 @@
+--- Page 10 ---
+Tender for Data Acquisition System (for recording of ERPs with programme software) for Research Project                    
+Admn/Tender/233-2/2017-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Data 
+Acquisitio
+n System 
+(for 
+recording 
+of ERPs 
+with 
+program
+me 
+software) 
+for 
+Research 
+Project 
+1. The system should have 4 channels and be able to record Event Related 
+Potentials including P300, Auditory Brainstem Response, Visual 
+Evoked Potentials etc. 
+2. Hardware Specifications: 
+ A/D Sampling Resolution: 24-bit 
+ Voltage Output: Range -10 V to +10 V  
+ Sampling rate - 100k samples/sec each channel. 
+ System should have inbuilt impedance checker for electrodes 
+for ERP. 
+3. Software Specifications: 
+ The software should allow to view, measure, transform, replay, 
+and analyze data. 
+ It should support Windows 10 or Mac OS X 10.11 and above. 
+ Online analysis settings, filters, and transformations along with 
+off-line analysis tools should be available. In addition Multiple 
+display options should be available during and after acquisition. 
+4. Features in software: online calculations, filtering, measurements, grid 
+options, graph templates, Digital filtering, preview recorded data, 
+annotation, event markers, peak detection, printing options, sample data 
+files etc. In built instruction for experimental setup and design should 
+be available. 
+5.  Able to export data/ compatible data with Excel, Matlab, and other 
+common formats. 
+6. A stand-alone system to measure subject responses to visual or auditory 
+stimuli. It should present visual stimuli on a computer screen, or 
+auditory stimuli via headphones or speakers, and simultaneously send 
+trigger signals for data synchronization and collection purposes to a 
+Data Acquisition System (for recording of ERPs with programme 
+software) for Research Project. 
+7. The system should be supplied with SuperLab/ E-prime or other 
+similar software for designing experiments including Stroop task etc, 
+software to change the placement of visual stimuli on the screen, 
+change the screen's background color, choose from a variety of input 
+and timing options, and provide feedback to subjects based on either 
+response or reaction time. Different trigger channels should be paired 
+to different visual or auditory stimuli to perform sophisticated evoked 
+response averaging tests. 
+8. The system should include a module providing an optically isolated 
+connection between the computer that is running the visual presentation 
+program and the Data Acquisition System (for recording of ERPs with 
+programme software) for Research Project.  
+9.   A digital I/O card in case of using Laptop instead of computer should 
+be supplied with other required accessories. 
+There should be two computer systems- one for running the 
+programming software like Superlab/E-prime etc and another for 
+simultaneous recording of evoked potentials. 
+01 
+
+

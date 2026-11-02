@@ -1,0 +1,137 @@
+--- Page 11 ---
+Tender for Multiparamonitor                                                                                              Admn/Tender/34/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-I 
+ 
+S. 
+No 
+Item 
+Technical Specification 
+Qty 
+01. Multipara 
+monitor 
+1. The equipment should come with all standard accessories required 
+to run all parameters, suitable for all patient categories, ie. infants, 
+children and adolescents. 
+2. Should be US FDA and European CE certified. 
+3. Waveform display: at least 4 channels, user selectable. 
+4. Digital display with parameters monitored: ECG, Heart rate (HR), 
+respiratory rate (RR), Oxygen saturation (SpO2), Non Invasive 
+Blood Pressure (NIBP). 
+5. The monitor should be upgradable to one (1) IBP monitoring. 
+6. The monitor should be HIS/HL7 compatible. 
+7. Medical grade, TFT Flat screen, slim size, at least 10 inch display. 
+8. Screen resolution at least 640 x 840 pixels. 
+9. Clear bright color display with large character size 
+10. Adjustable contrast and brightness 
+11. Ability to zoom/magnify any parameter. 
+12. Ability to adjust individual alarms 
+13. Ability to change colour of trace by user 
+ 
+14. Heart rate/ECG: 
+ 
+14.1  At least 3-lead selectable ECG 
+14.2  Built in arrhythmia monitoring in all leads 
+14.3 Heart rate range: 30-300 beats per minute. 
+14.4 Inbuilt ST segment analysis and arrhythmia detection facility 
+14.5 Display sweep speeds 12.5, 25 mm/sec (user adjustable) 
+14.6 Averaging time: user selectable up to 8 seconds 
+14.7 ECG amplitude user adjustable 
+14.8 Defibrillator protected 
+ 
+       15    Respiratory rate: 
+ 
+       15.1 Respiratory rate: Measured by transthoracic impedance using the 
+same ECG lead 
+       15.2 Respiratory rate range: 6 to 120 breaths per minute (bpm); 
+Accuracy ± 2 bpm 
+       15.3 Display sweep speeds 6.25, 12.5 & 25 mm/sec (user adjustable) 
+       15.4 Averaging time: user selectable up to 8 seconds 
+       15.5 User selectable apnea alarm time 
+        
+16. Oxygen Saturation 
+ 
+       16.1 Range 1 to100% 
+       16.2 SpO2 accuracy ± 2% (70 to 100%) 
+       16.3 Averaging time: user selectable up to 8 seconds  
+ 04 
+
+
+--- Page 12 ---
+Tender for Multiparamonitor                                                                                              Admn/Tender/34/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+ 
+ 
+ 
+ 
+ 
+       16.4 Plethysmography waveform display  
+ 
+ 
+ 
+       17.  Noninvasive Blood pressure : 
+   
+       17.1 Capable of measuring blood pressure in infants, children and 
+adolescents. 
+       17.2 Microprocessor software with unit in mmHg 
+       17.3 Oscillometric technique 
+       17.4 Manual, auto and time limited stat modes 
+       17.5 User selectable automatic time intervals 
+       17.6 Display systolic, diastolic and mean BP 
+       17.7 Cuff: auto deflate with over pressure protection 
+       17.8 Should automatically establish zero reference after each reading 
+   
+     18.    Alarms: 
+      18.1 Audio & visual alarms with message. 
+      18.2 Alarm for high and low respiratory rate. 
+ 18.3 Apnea alarm with adjustable time 5-20 seconds 
+ 18.4 Alarm for high and low oxygen saturation. 
+ 18.5 Alarm for high and low Systolic, Diastolic & Mean BP. 
+ 18.6 Alarm for poor signal, probe and power failure. 
+ 
+19. Trends 
+20.  Memory storage: at least 24 hours 
+    21.  Data display interval: not more than 20 sec 
+22. Display range : last ½ hour to 24 hours 
+23. Graphical and tabular format of display of variables. 
+24. Power: 220/240 V; 50/60 Hz AC; Rechargeable internal battery with 
+a back up of at least 1 hr. 
+25. Essential Accessories for each monitor: The following quantities are 
+to be supplied with each monitor:                                             
+         i) ECG patient cable: 2.                                                                                                 
+         ii) Oxygen saturation: Patient extension cables: 2.         
+ iii) Oxygen saturation probes for infants, pediatric and adult patients: 5 
+each.                                                                                                                                  
+iv) NIBP: Patient extension cable: 2.                                                                               
+       v) Reusable NIBP cuffs of infant, pediatric and adult size: 2 each with 
+each monitor. 
+26. Cost of consumables/accessories should be frozen for the period of 
+warranty and CMC. 
+   27. It should have local service facility .The service provider should have 
+the necessary equipments                      recommended by the 
+manufacturer to carry out preventive maintenance 
+28. User/Technical/Maintenance manuals to be supplied in English. 
+29. Certificate of calibration and inspection. 
+30. List of important spare parts and accessories with their part number 
+and costing. 
+ 
+
+

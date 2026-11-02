@@ -1,0 +1,89 @@
+--- Page 19 ---
+                                                                  Tender No. : AIIMS/R/CS/PMRD/2018/012/OT 
+ 
+Page 19 of 24 
+ 
+Technical Specification for MUSCULO-SKELETAL USG MACHINE: : 
+A state of art fully digital, compact Color Doppler Ultrasound machine is required with 
+following technical features: 
+1. Unit should be able to give very high image quality with advance technologies like 
+compound imaging for better contrast resolution, tissue differentiation and edge 
+detection, equivalent to high end cart based systems. Please specify the technology. 
+2. Unit should be compact, durable &amp; less than 5 kg in weight. 
+3. Imaging modes of Real time 2D and M mode must be available. Also Colour Doppler, 
+Power Doppler, pulsed wave Doppler, Continuous wave Doppler preferably be available. 
+4. Standard tissue harmonic imaging should be available in the probe. 
+5. System should have both online (Read) as well as offline (Write) zoom facility. 
+6. Post processing features should be possible on freeze and cine images i.e., zoom, gray 
+maps and measurement, reports, pictograms and annotations. 
+7. Zoom facility should be available with real time, frozen image and including cine 
+replay. Up to X 20 should be available. 
+8. System must have fast start up to scanning in less than 30 seconds from off condition, 
+for use in critical care environment and emergency field situations. 
+9. System should support transducer technologies like phased array, convex, linear & 
+amp; TEE format. 
+10. The system should have a broadband architecture with an operating frequency of at 
+least 1 to 15 MHz 
+11. Cine memory should be available on all operating modes. 
+12. The system shall process a dynamic range that is at least 165db. The system must 
+display at a maximum depth of 35 cm. 
+13. The offered unit must have Flat LCD/ TFT monitor of at least 12 inches with Anti-
+glare coating and flicker free image. 
+14. Alphanumeric soft keys backlit and splash resistant keypad with easy access scans 
+controls, facility to sanitize the system keyboard to avoid cross contamination. 
+15. The system must have the ability to function by AC/DC or battery power with the 
+same degree of functionality, the battery life (run time) shall be at least 2 (Two) hours, 
+this need to demonstrate. 
+16. The system must have archive capability for storage &amp; retrieval of images and 
+clips. It should have at- least 2 USB slots, which allow for direct sharing of images 
+(JPEG) and clips (AVI) to a PC. 
+17. Unit &amp; transducers must be rugged, resistant to breakage &amp; damage on 
+fall/hit so as to withstand busy & field situations. 
+18. The system must have in-built memory of at least 16 GB for storing Patient data 
+&amp; studies. 
+19. The system shall support the all DICOM functionality, Storage, Print, and Work List, 
+also ready to connectto PACS. 
+20. Should operate on 220v 50 Hz AC. 
+
+
+--- Page 20 ---
+                                                                  Tender No. : AIIMS/R/CS/PMRD/2018/012/OT 
+ 
+Page 20 of 24 
+ 
+21. System should have both European CE and US FDA quality certification. 
+Transducers &amp; other accessories to be supplied as standard: 
+1. 6-13 MHz (±1 MHz) multi-frequency, broadband linear array, 50 mm (+/- 5 mm) 
+transducer for vascular, venous, small parts, musculoskeletal, Lung, nerve imaging with 
+less than 40mm size. Higher frequency will be preferred 
+2. A trolley stand must be available to store and/or transport the system. 
+3. Triple Transducer Connector with electronic switching facility to toggle between 
+transducers. 
+4. Thermal Printer (Black and white) 
+5. Needle visualization software which can dynamically optimize the image to give the 
+best possible view of the needle in real time. 
+WARRANTY: 
+Main unit and transducers should be covered with comprehensive onsite warranty for 
+five years commencing from the date of issue of installation certificate. 
+ESSENTIAL REQUIREMENT: 
+Onsite training to 2 doctors and education material must be provided post installation 
+of the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

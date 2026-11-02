@@ -1,0 +1,213 @@
+--- Page 10 ---
+Tender for EMG/EP System 
+  
+ 
+                                                            Admn/Tender/103/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+EMG/EP 
+System  
+ 
+ 
+ 
+ 
+ Specifications  
+1. 6-8 channel equipment with software for NCV, EMG, VEP, BAER, 
+SSEP, SSR, RNST, single fibre EMG, tremor analysis 
+2. System should have head montage junction box with user 
+configurable channels.  
+3. Should have NCS, F wave, H reflex, Collision, Blink reflex, SSR, 
+RR interval, RNST, Inching studies with temperature probe  
+ 
+4. .Should have qualitative EMG, quantitative EMG, motor unit 
+number estimate, single fibre EMG software  
+5. Should have pattern, flash and goggle VEP, hemifield VEP, ERG, 
+BAER, SSEP software 
+6. Should have tremor analysis software  
+7. Sensitivity: 1 microvolt per division to 10 millivolt per division  
+8. Input impedance: above 100 Mohms differential mode. Noise < 0.6 
+microvolt RMS  
+9. Display (Sweep speed): 0.2 ms — 12 sec/div  
+10. Common mode rejection ratio: above 112 dB isolation mode  
+11. Low filter settings: 0.01 Hz to 3 KHz and high filter settings: 10 Hz 
+to 20 KHz with AC interference notch filter 50 Hz  
+12. Averager: Dual buffer alternate averaging preferred  
+13. Electrical Stimulator: monophasic / biphasic, constant current with 
+artifact compensation  
+14. Should have compact stimulating electrode with convenient dials 
+for stimulation intensity adjustment and delivery of electric 
+stimulation with user configurable switches. 
+15. User should be able to open at least 8 test protocols simultaneously.  
+16. System should have at least 1 triggers input / output, upgradable to 
+6 Triggers.  
+17. Should have EMG (Free run needle EMG, MUAP analysis, 
+Interference pattern, Auto MUP detection and classification, and 
+real time turn amplitude analysis) with continuous storage of live 
+EMG for minimum 10 minutes up to 99 sites 
+18. Must have Single Fiber EMG, Macro EMG, Stimulated SFEMG, 
+and QEMG with the system  
+19. Should have EMG play back with waveform and sound for 
+minimum 10 minutes  
+20. Should have Brain stem auditory evoked potentials with click, burst 
+& tone pip stimulation (ABR, MLR, SVR & EcochG) 
+21. Should have Visual Evoked Potentials with Pattern, flash and LED 
+goggles (ERG, EOG PRVEP & LEDVEP) 
+22. Should have Somatosensory Eyeiked potentials with signal 
+triggering and back averaging (SEP, SSEP, ECG triggered SSEP 
+and ESCP)  
+23. Mat have user friendly Data base management software and study 
+schedule program for easy data management  
+24. Should have on-screen examination guide / Neuro navigator 
+25. Should be able to perform skin electrode impedance check at both 
+junction box and console 2 to 20 K ohm  
+01 
+
+
+--- Page 11 ---
+Tender for EMG/EP System 
+  
+ 
+                                                            Admn/Tender/103/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+26. Should have option of P-300, collision studies  
+27. Should have autonomic Nervous System testing with SSR, RR 
+interval & Microneurography  
+28. RNST should have pre- and post exercise protocols inbuilt with 
+action potential graphically represented alongside table in the final 
+result 
+29. Should have tetanic stimulation (50 Hz) in RNST for 10 seconds 
+duration  
+30. Should have facility of exporting data to or any other suitable 
+format for analysis with MATLAB or any other third party software 
+as well as for teaching videos  
+31. Must be supplied with-Branded PC with strict in-house quality 
+checks by manufacturer to comply with medical equipment 
+standard.  
+  a) Laboratory based PC on trolley  
+b) Should be with latest i7 processor, 4 GB RAM, 2 TB Hard Disk or 
+better, 8 USB ports or better 
+  c) Built in DVD Super Multi Drive  
+d) With 22" color TFT LCD display  
+e) Suitable latest Windows operating system  
+f Supplied with Coloured Laser Printer  
+g) 
+ Supplied with online UPS with suitable rating with voltage 
+regulation and spike protection for 60 minutes back up  
+h)  Should be Capable of playing movies 
+ i)  Should Support for JPEG, GIF, PNG, and TIFF files  
+32.        Should be supplied with following accessories:  
+a) Shielded stimulator (2 metres) (Adult)- 2 Nos.  
+b) Shielded stimulator (2 metres) (Paed)- 1 Nos.  
+c) Shielded EP electrodes (1.5 metres or more) — 3 sets 
+  
+d) Gold plated Ear Clip electrodes (1.5 metres)- 3 pairs  
+e) Self sticking Surface electrodes ( 100/unit)- 2 units  
+f) Conductive paste (3 Jars of 300 gms) - 2 sets 
+  
+g) Skin preparation gel (Set of 2 tubes) - 2 sets 
+  
+h) EMG needle holder- 2 Nos.  
+i) EMG disposables needles (Box of 25) - 2 boxes (25 mm)  
+j) EMG disposables needles (Box of 25) - 2 boxes (37 mm)  
+k) EMG disposables needles (Box of 25) - 1 boxes (50 mm)  
+l) Single fibre EMG needle - 2 Nos. 
+  
+m) Wrap up ground (50 c3n)- 2 Nos. 
+  
+n) Temperature prob - 1 No. 
+ 
+o) Acoustically shielded Head Phones - 1 set  
+p) Insert Ear Phones - 1 set  
+q) 17" VEP Monitor - 1 No. 
+  
+r) LED Goggles - 1 No.  
+s) ERG electrodes- 2 sets 
+  
+t) Skin marking pencils- 5 Nos.  
+u) Measuring tape- 2 Nos. 
+ 33.          Safety Standards:  
+
+
+--- Page 12 ---
+Tender for EMG/EP System 
+  
+ 
+                                                            Admn/Tender/103/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) Manufacturer should have ISO certification for quality standards.  
+b) Should be USFDA & CE approved product.  
+c) Should be IEC 60601 -1 approved for electrical safety of Medical 
+Equipment.  
+d) Shall meet IEC 60601-2-040 Safety requirements  
+34.   Only latest model should be quoted and year of introduction should 
+be mentioned  
+35.    Warranty for five year from principal manufacturer  
+36.    Free AMC for subsequent 5 years with cost of spare from 
+principle manufacturer 
+ 37.    Commitment to provide spares and accessories for the entire 
+period (5 yrs. CMC+ 5 yrs. AMC).  
+38.    List of consumable and spare parts along with price list with 
+validity of 5 years to be provided  
+39.    Compliance certificate along with variability, if any, should be 
+provided  
+40.     List of installation in India during last 5 years with contact details 
+from all vendors for the similar brand and model of equipment as 
+quoted should be provided to verify the past performance. 
+
+

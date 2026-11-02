@@ -1,0 +1,294 @@
+--- Page 17 ---
+                                                                 Tender No. : AIIMS/R/CS/Neuro/102/18/OT/A 
+ 
+Page 17 of 23 
+ 
+ 
+ 
+Annexure I 
+Technical Specifications for Advanced Navigation system for Cranial & Spinal Navigation 
+ 
+General specifications and terms 
+ 
+All 
+units/ 
+items 
+including 
+accessories 
+should 
+have 
+quality 
+certificate 
+such 
+as 
+BIS/ISO/USFDA/European CE certified.  
+ 
+5 year warranty and 5 years CMC should be included with provision of supply of spare parts items for 
+next 5 years. 
+ 
+Principal Company should have registered Office and Service Network in India, preferably Central 
+India for better service support. 
+ 
+User manuals should be in English. Provision of trained manpower support for at least for initial 3 
+months after installation or up to a period when the staff/technicians at AIIMS Raipur are trained in 
+handling, storage and proper sterilization methods of supplied equipment has to be ensured by the 
+bidder. 
+ 
+Compliance statement should be submitted in a tabulated and point wise manner. 
+ 
+Should have supplied navigation system and instruments to department of Neurosurgery at AIIMS/ 
+PGI/ NIMHANS or reputed government institute of similar status and should submit satisfactory 
+performance certificate from the institute. 
+ 
+All firms are required to submit their catalogue along with tender clearly marking the quoted items 
+and number with highlighter. If necessary demonstration will be taken to ensure product quality. 
+ 
+All items under particular serial number will be purchased together from single manufacturer. 
+ 
+Product quality certificate required. 
+ 
+Sr. 
+no. 
+Required Technical Specifications 
+1. 
+System Specification: 
+1.01 
+The system should be easy to set up, user friendly, intuitive and should work under 
+Windows/Linux/ Unix operating system environment.  
+The vendor should quote their latest model and high end model keeping in mind AIIMS as a 
+teaching institute for future upgrades.  
+The system should be available in dual cart /Single cart where the camera cart and monitor can   
+be kept separate or in single cart where both the camera cart and monitor can be kept together.  
+The system should also ensure Optimized placement of the carts in OT and Better OT workspace 
+management. 
+1.02 
+It should have optical guided and advance wireless active/passive marker tracking. 
+Electromagnetic navigation can be added feature available for future upgrade if required.  
+1. The system should be capable of Pinless navigation using either optical /EM navigation 
+technology.  
+2. The system should have capabilities for head frame less neuro navigation surgery such as 
+tumor resection suitable for adults as well as paediatrics without any compromise on 
+sterility. 
+3. The system should provide dynamic referencing so that registration is not lost even if 
+magnet emitter and patient move. 
+4. The Navigation module should be able to support cranial, skull base and Neurology 
+surgeries. 
+5. The factory calibrated navigable instruments should include flexible tip tracking. 
+1.03 
+The display should be full HD resolution (1920x1200) with minimum 21.5" widescreen one 
+monitors. 
+The second surgeon viewing monitor should be size of at least 26” to 30” Monitor/screen with 
+high resolution (at least 1920 * 1200, 60 Hz).  
+The system should also have the feature of navigation control from sterile with a viewable from 
+the same company. 
+ Both the monitors should be touch screen with capacitive touch.  
+The navigation workflow should be controlled from any of the two monitors. 
+
+
+--- Page 18 ---
+                                                                 Tender No. : AIIMS/R/CS/Neuro/102/18/OT/A 
+ 
+Page 18 of 23 
+ 
+1.04 
+The system should be plug and play and system software should be user friendly wizard guided to 
+control set up, registration and navigation procedure. 
+1.05 
+It should have rapid data transfer directly to the navigation station with the option of USB 3.0 
+port for direct data import and also have direct and seamless integration with the hospital PACS 
+system along with CD/DVD drive in navigation system 
+The system should have inbuilt CD/DVD driver for loading of patient data by CD, DVD, 
+dedicated USB ports  and wifi  enabled for Data import and export. 
+1.06 
+The system should identify new instruments for tracking using the passive/active universal 
+tracking system. 
+1.07 
+The system must have dynamic referencing so that registration is not lost even if the camera or 
+patient moves.  
+1.08 
+It Should be HIPPA compliant including authentication, accountability log and automatic log-off 
+features 
+System  have password protection in the home screen/first screen. 
+1.09 
+The navigation system should be operable with/ without keyboard or mouse. The System should 
+have instruments to control navigation from sterile field. It should also be provided by Keyboard 
+and Mouse for both the Surgeon cart and Main cart 
+1.10 
+The camera should have 360 degree articulating arm for rotation of camera to 360 degree and to 
+position the camera in any desired angle and elevation. 
+1.11 
+It should be capable of  DICOM viewing which allows standalone as well as clinical use of 
+DICOM images (CT, MRI etc) to be viewed as per the surgical and clinical need of the planned 
+Neurosurgical procedure 
+2. 
+Cranial Navigation Specifications: 
+2.01 
+The system should have pre-operative planning using the DICOM images for pre-operative 
+Neurosurgical planning or preoperative planning in the navigation cart. 
+2.02 
+The system should allow DICOM images in Axial, Sagittal or Coronal planes should be 
+reconstructed as 3D images and advanced cranial planning can be done on any plane and should 
+be adapted to all planes automatically 
+2.03 
+The system should be capable of doing registration without using fiducials. 
+System should have facility to acquire intra-operative landmarks to restore the original 
+registration just in case the registration is lost during the procedure  
+The Navigation system must have point as well as surface or skin contouring registration with 
+accuracy prediction system. System should have facility for marker less registration. 
+2.04 
+The system should have the feature of automatic 3D tumor model building and automatic 3D 
+anatomical landmarks building with blood vessels and other structures; Trajectories for all 
+Cranial procedures including trans nasal approach. 
+2.05 
+The system should allow patient registration in both supine & prone position. 
+2.06 
+The system should display of a trajectory pathway, inline and probe eye view along with 
+Guidance views, planned (virtual) endoscopy or craniotomy and safety margin . 
+Look ahead view capability to show the images at 1mm to 20mm with customized increments of 
+1mm for  the 2D images in front of the probe.  
+2.07 
+The Probe should have capability to show images at 0mm-300mm in front of it (tool tip 
+extension) The virtual tip should be differentiated from the real tip by color 
+2.08 
+The system should have sub-millimetric patient accuracy ideal for deep seated Cranial biopsies; 
+at the same time the system should also have the accuracy verification/ prediction system in-built 
+in the system. 
+2.09 
+Screenshot and live navigation video recording feature for documentation purpose with recording 
+facility inbuilt or should be provided separate in the system from 30mins -45mins for recording of 
+videos for presentation .  
+2.10 
+It should have universal instrument adapters with active/passive markers to allow tracking of any 
+existing rigid hospital instruments like drills, bipolar, knife, Awl, Probe, endoscopes. Should 
+calibrate both length and diameter. 
+2.11 
+Calibration of existing rigid hospital instruments should be done automatically. System should 
+
+
+--- Page 19 ---
+                                                                 Tender No. : AIIMS/R/CS/Neuro/102/18/OT/A 
+ 
+Page 19 of 23 
+ 
+have automatic Verification of the instruments for better accuracy.  
+The system should support factory calibrated navigable shunt stylet or should be supplied with 
+navigable shunt probe with max diameter of 1.2 mm and it should give live feedback on the tip 
+position of the shunt stylet. 
+2.12 
+The system should be supplied with frameless biopsy. 
+2.13 
+It should include the Frameless biopsy system that should allow online tracking of biopsy needle 
+according to pre-planned trajectory 
+2.14 
+The frameless biopsy system should include sterilizable, wireless & pre-calibrated alignment 
+array. The system should support frameless biopsy and pre-calibrated navigable biopsy needle 
+should navigate till the target and should display actual position of the biopsy needle 
+2.15 
+Vendor to provide 20 numbers of pre-calibrated disposable biopsy needle with the instrument 
+2.16 
+The system should support Pinless surgeries and the necessary attachments for the same should 
+be quoted. 
+2.17 
+System should be supplied with 2 sets of registration Instrumentation for Cranial for sterility 
+purpose. 
+2.18 
+The system should have inbuilt UPS system for power back up in both/Single carts or separate 
+UPS should be provided for a back of at least 15mins. 
+3. 
+Spinal Navigation Specifications: 
+The application should be able to memorize multiple surgeon preferences for each procedure. 
+3.1 
+The system also  should be ready to be integrated with Intraoperative Imaging devices like 
+Intraop CT's, Intraop MRI's, O arm etc 
+The spine application should be a unified spine application which should comprise of 3D spine 
+(Spine Navigation with Spine CT data) and virtual fluoroscopy navigation for spine. 
+3.2 
+The C arm integration kit should be provided for 9'' and / or 12'' c arms 
+System should have capability to be integrated with 2D and 3D C-Arm of commercially available 
+vendors with facility of virtual fluoroscopic navigation for spinal applications compatible with 
+2D  and 3D C-Arm 
+3.3 
+The system should have an interactive planning of trajectories 
+3.4 
+The Probe should have capability to show images at 0mm-300mm in front of it (tool tip 
+extension). 
+The virtual tip should be differentiated from the real tip by color wedge or similar layout should 
+come as virtual extension for deformity procedure planning especially for PSO and PCO. 
+ System software should also have ability to demonstrate reverse virtual extension to simulate 
+guide wires. 
+The system should have exhaustive set of spine instruments, dedicated trackers and navigable 
+AWL. 
+3.5 
+The system should have exhaustive set of spine instruments, dedicated trackers and navigable 
+AWL, Probe and Taps, Navigated Screwdrivers. 
+The system should have separate reference frame for Cervical procedures with separate Cervical 
+taps and drill guides. 
+The system should come with Universal Drill Guide and also have provision for navigating other 
+third party navigable instruments  
+Along with regular Spine instruments, system should navigated tactile instruments also for better 
+access and ease of use for doctors. 
+The system should have dedicated navigated MIS instruments along with Navigated PAK or 
+equivalent needles and Nerve monitoring and Navigated enabled PAK or equivalent needles.  
+The system should also additional navigated instruments for performing Revision surgeries under 
+navigation.  
+The system should at least have factory calibrated image guided jamshedi needle.  
+3.6 
+Navigation instruments should also have Radiolucent Spine Reference Clamp/spine reference 
+frame designed to use intraoperatively to reduce artifacts in Intraoperative navigated surgeries. 
+3.7 
+The system should allow AP, Lateral and Oblique shot to register the patient with accuracy 
+verification system 
+
+
+--- Page 20 ---
+                                                                 Tender No. : AIIMS/R/CS/Neuro/102/18/OT/A 
+ 
+Page 20 of 23 
+ 
+3.8 
+The system should have screenshot storage function for documentation purpose 
+ 
+ 
+System should have ability to show virtual picture of screw while navigating screw driver during 
+screw placement on 2D images and 3D model 
+4.0 
+ 
+ 
+The Navigation System Should be able to be integrated with navigation enabled microscopes 
+from  Zeiss , Leica . 
+The microscope interface should be such that the navigation system can track microscope’s focal 
+point & trajectory plan. The microscope interface should give heads up display. 
+5.0 
+Consumables for navigation  for 100 cases to be supplied along with system 
+6.0 
+The system should have 8GB RAM for faster processing of Images with 1TB internal memory or 
+external device to be provided of equivalent space (At least 250 GB internal memory) 
+7.0 
+The system should have 8GB RAM for faster processing of Images with 1TB internal memory or 
+external device to be provided of equivalent space (At least 250 GB internal memory) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

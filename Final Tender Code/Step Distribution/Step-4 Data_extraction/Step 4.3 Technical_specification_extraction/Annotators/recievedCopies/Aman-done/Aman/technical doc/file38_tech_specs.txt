@@ -1,0 +1,129 @@
+--- Page 10 ---
+Tender for Real Time RT-PCR                                                                                        Admn/Tender/09/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Real Time 
+RT-PCR 
+1. An automated system for both PCR and post-PCR end-point 
+analysis, using in-built Peltier based PCR machine.  
+2. The system should support applications including absolute and 
+relative quantitation, multiplex-PCR allelic discrimination 
+(SNP), melt curve analysis, pathogen detection and plus/ minus 
+assays using an internal positive control.  
+3. Peltier thermal cycling for Fast-PCR as well as Standard-PCR 
+run available in the same block. 40 cycles in less than 40 
+minutes as well as Standard-PCR run of 40 cycles in less than 
+two hours.  
+4. The system should have temperature range of 4-100 degrees C 
+with peak block ramp rate for heating as well as cooling 
+exceeding 4degrees C /second.  
+5. Reaction volume should be approximately in the range of 10-30 
+µL and can run the templates from different sources 
+simultaneously.  
+6. The system should support micro well plates, individual tubes 
+and 8-tube strips.  
+7. The system should provide Touch Screen LCD feature to avoid 
+dependency on computer for operation. However, it should also 
+be possible to use a computer for system control, operation, 
+analysis and net-working of multiple system.  
+8. Instrument should be supplied with a separate Desktop.  
+9. Remote monitoring to analyze data by online web-browser 
+based software or cloud-based data access browser should be 
+available.  
+10.  USB port for data export to Power point, Excel or JPEG 
+formats should be present.  
+11.  The system should be complete with licensed software’s for 
+designing probes and primers. 
+12.  System should be capable of operating in test development and 
+IVD modes with enhanced security to enable compliance with 
+regulations.  
+13.  It should be an open system to use reagents from any 
+manufacturer. 
+14.  System should be calibrated for common dyes of broader 
+wavelength excitation and emission spectrum. 
+15.  Excitation Light source –Laser / LED. 
+16.  Change of position, block or chemistry should not require 
+calibration or tools. 
+17.  The system should be capable of operating at ambient 
+temperatures of 20-30 degrees C and relative humidity of 80%.  
+18.  Power input to be 220-240VAC, 50Hz fitted with Indian plug. 
+19.  Compatible online UPS with maintenance free batteries for 
+minimum one-hour back-up should be supplied with the system.  
+20.  Comprehensive training for lab staff and support services till 
+familiarity with the system is established.  
+21.  General Requirements :  
+- The apparatus should be ETL and CE certified or should 
+conform to equivalent product testing and certification 
+standards.  
+01 
+
+
+--- Page 11 ---
+Tender for Real Time RT-PCR                                                                                        Admn/Tender/09/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- User / Technical / Maintenance manuals to be supplied along 
+with.  
+- List of important spare parts and accessories with their part 
+number and cost price . 
+- Certificates of calibration and inspection from the factory.  
+- Attach original manufacturer’s product catalogue and 
+specification sheet. Photocopy /computer print will not be 
+accepted. All technical data to be supported with the original 
+product data sheet. Quote page number on compliance sheet as 
+well as on technical bid corresponding to the technical 
+specifications.  
+- Satisfactory working of quoted model from Institutes of 
+National Importance. 
+ 
+Scope and Supply of Real Time PCR Machine including:  
+(1) Satisfactory delivery of goods (as per contract) at site. 
+(2) Satisfactory installation and commissioning at site.  
+(3) Demonstration and training to the Doctors / Staff.  
+(4) Joint report duly signed by supplier and end user of goods with date 
+of receiving, installation and Commissioning. 
+(5) Performance / super vision of the on-site assembly and / or start-up 
+of the supplied Goods will be done by the Supplier.  
+(6) Furnishing of tools required for assembly and / or maintenance of 
+the supplied Goods will be arranged by the supplier.  
+(7) Furnishing of detailed operations and maintenance manual of 
+supplied Goods will be done by the supplier.  
+(8) Performance or supervision or maintenance and / or repair of the 
+supplied Goods, for a period of time agreed by the parties, provided that 
+this service shall not relieve the Supplier of any warranty obligations 
+under this Contract. 
+ (09) Training of the Purchaser's personnel, at the Supplier's plant 
+and/or on-site, in assembly, start-up, operation, maintenance and/or 
+repair of the supplied Goods will be carried out when needed. 
+ 
+NOTE: The bidder shall give a list of spares for two (2)  years 
+operation (or as required for the period specified in the evaluation 
+criteria) separately indicating description, quantity, unit price and total 
+price in the above format, for those items whose scope of supply 
+includes spare parts as per technical specification. 
+ 
+
+

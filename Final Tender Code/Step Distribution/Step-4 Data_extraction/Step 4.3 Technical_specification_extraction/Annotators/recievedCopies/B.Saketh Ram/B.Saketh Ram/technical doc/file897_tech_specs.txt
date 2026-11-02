@@ -1,0 +1,53 @@
+--- Page 19 ---
+NIT No. : AIIMS/R/CS/Psychiatry/09-2018/03/OT/A 
+ 
+Page 19 of 23 
+ 
+Annexure- III 
+Technical Specification for “Transcranial Direct Current Stimulation” 
+ 
+Stimulation functionality and specifications 
+1. Number of channels: (up to) 8 channels 
+2. Sampling rate: 1000 SPS 
+3. Frequency range: 0 to 250 Hz (tACS) and 0 to 500 Hz (tRNS) 
+4. Stimulation types: linear combination of tDCS, tACS and tRNS; and Sham 
+5. Maximum current per channel: ± 2 mA 
+6. Current resolution: 1 μA 
+7. Current accuracy: 1% 
+8. Maximum voltage: ± 15V per electrode (allows 30 V of stimulation potential difference) 
+9. Adjustable current, duration, fade in\out time and number of cycles 
+10. Battery operating time/ back-up: minimum 7 hours 
+11. The System Should be supplied with one Cap. 
+12. Accelerometer: 3-axis u Communication: Bluetooth® 3.0 and 2.1 
+13. Should have facility to record data offline through SD card. 
+14. The System should be supplied one Laptop. 
+15. OS compatibility: Windows (Vista / 7 / 8 /10) and MAC OS X 
+Stimulation safety features 
+1. Maximum input current per channel: 2 mA 
+2. Maximum total inject current: 4 mA (by all electrodes, at any time) 
+3. Maximum duration per session: 1 hour 
+4. Stimulation session must be pre-programmed 
+5. Electrode impedance check before and during stimulation 
+6. Abort functionality possible at any point  
+7. Touch-poof safety connectors acc. to DIN 42802 -2( Ø 1.5 mm) 
+Minimum Computer Requirements 
+1. Operating System: Windows latest version   
+2. Processor: 1.3 GHz RAM: 4 GB 
+3. Bluetooth®: 2.1 
+Note: 05 Year Warranty & 05 Year CMC  
+ 
+ 
+ 
+------------------------ 
+(Signature & Stamp of the bidder)  
+Note- Please sign each page of document including terms & conditions of tender 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

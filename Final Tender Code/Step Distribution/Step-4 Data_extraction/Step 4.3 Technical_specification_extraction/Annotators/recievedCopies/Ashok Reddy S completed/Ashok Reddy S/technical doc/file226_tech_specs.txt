@@ -1,0 +1,97 @@
+--- Page 10 ---
+Tender for Non Mydriatic Fundus Camera 
+Admn/Tender/19/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Non Mydriatic 
+Fundus 
+Camera 
+FUNDUS CAMERA SPECIFICATIONS :- 
+Type 
+ Non-mydriatic Automated Fundus Camera  
+Angle of view 
+ 452 (332 in small-pupil mode)  
+Working distance  
+40 - 45mm (from objective lens to cornea)  
+Minimum pupil 
+diameter  
+04.0mm (03.3mm in small-pupil 
+photography mode)  
+Dioptric 
+compensation for 
+patient's eyes 
+ -33 to +35 D total 
+  
+ -33 to -7 D with minus dioptric lens 
+  
+ -13 to +15 D with no dioptric lens 
+  
+ +11 to +35 D with plus dioptric lens 
+Focusing method 
+ Infrared focus split alignment Adjustable 
+range: -12 to +15 D  
+Light source 
+  
+ For observation:  
+Halogen lamp 12V 50W 
+For capturing:  
+Xenon flash lamp 300Ws 
+Flash intensity  
+17 levels from Fl (F4.0 +0.8 EV) to F17 (F16 
++0.8 EV) 0.5 EV increments 
+Internal fixation 
+target 
+ LED (maximum 9 points)  
+External fixation 
+target 
+ Free-arm (required)  
+Horizontal 
+movement  
+40mm (back and forth)  
+  
+85mm (left and right) 
+ Vertical 
+movement  
+30mm  
+Chinrest 
+movement  
+62mm (up and down, motorized)  
+AutoTrack  
+X-Y-Z direction  
+AutoShot 
+Automatic image capture  
+Camera  
+Built-in 12 megapixel CCD camera  
+Display  
+Tiltable 8.4-inch color LCD touchscreen  
+Interface 
+ LAN, USB 2.0  
+Power Supply 
+AC 100-240 V ±10%, 50 / 60 Hz  
+Power 
+Consumption 
+ 150 VA 
+Dimensions • 
+Mass   
+316mm (W) x 518mm (D) x 579mm (H)  29 
+Kg          
+        12.4" (W) x 20.4" (D) x 22.8" (H) 64 
+lbs   
+USFDA / European CE APPROVAL REQUIRED 
+ 
+01 
+
+

@@ -1,0 +1,65 @@
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/Patho/18/26/OT/B 
+   
+Page 21 of 23 
+ 
+ANNEXURE-I 
+Technical Specification for Thalassaemia and Hemoglobinopathy Testing/ 
+Screening System 
+1. Should be fully automated HPLC system, dedicated to Thalassaemia and Hemoglobinopathy testing and 
+screening. 
+2. The system should be able to screen and quantitate hemoglobins Hb A2, Hb A and Hb F and detect commonly 
+occurring abnormal hemoglobins like Hb S, Hb D, Hb E, Hb C, Hb Q- India, Hb D-Iran and other rare abnormal 
+hemoglobins. 
+3. The system should have the provision of presumptive identification of Hb Barts and Hb H and various alpha 
+chain variants like Hb J Meerut, etc 
+4. The company should have broad installation base with at-least 5 years of presence in India and should be 
+able to provide the relevant product, reagent and service support. The company should have at least 10 
+installations in at least 5 NABL accredited government labs where the system is being used for Thalassemia 
+screening. List of the labs should be provided. 
+5. The system should have spinning of vacutainer before aspiration to avoid improper sampling. 
+6. The system should have automatic barcode positioning facility. 
+7. The system should be quoted with a complete ready to use reagent kit/all reagents required to run the tests 
+including dilution in kit form rather than as individual items in order to avoid lot to lot variation and ease to 
+calculate cost per test. 
+8. Levels of buffers should be visible during the run. 
+9. The system should have at least 200 chromatograms of fully classified abnormal hemoglobins and 
+thalassemias (molecular analysis proven) with at least 5 publications. 
+10. The system should have built in QC management system capable of storing the quality control data and 
+printing the standard deviation and coefficient of variation values. 
+11. The company should provide normal and abnormal controls for Hb A2, Hb F and Hb S and provide External 
+Quality Assurance Scheme (EQAS) to help compare results with similar users worldwide. 
+12. The system should have dedicated computer and software, which enables the system for bidirectional 
+interfacing. Moreover the software should have customized reporting format, giving info on the subtype and 
+quantity of hemoglobin detected. Also the software should enable result storage of minimum 5000 
+chromatograms. 
+13. The system should be capable of primary tube sampling. 
+14. The system should have facility of STAT sampling & continuous sample feeding. 
+15. The system should be capable to track positive samples. 
+16. The system should have online chromatogram library available to help investigate abnormal haemoglobins. 
+17. The system should accept different types of sample tubes. 
+18. It should have a built in column thermostat for reproducibility of results. 
+19. The system should be capable of processing at least 100 samples at a time. 
+20. The system should have alarms for overflow of waste tank. 
+21. The reagent containers should have a capacity of more than 1.0 litres so that the user does not need to 
+change buffers regularly. 
+22. The HPLC system should have a dual piston pump so that each elution buffer has a different pump and the 
+buffers work efficiently. 
+23. The system should have capacity of real-time, bi-directional interfacing with laboratory information system. 
+24. Should have European CE or US FDA certification or BIS approved. 
+25. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of installation and 
+certificates should be provided. 
+26. To be supplied with branded all-in-one computer system with at least Core i7 processor, 8GB RAM, 1TB 
+HDD, DVD R/R, 21” or better LED Monitor, Genuine Windows 10 or more, A4 size laser multifunctional 
+colour duplex printer and appropriate bar code reader. 
+27. Appropriate anti-vibration table with granite top of standard make should be provided to accommodate the 
+instrument, computer system and accessories.  
+28. UPS backup adequate for the duration of one cycle of processing should be provided. 
+29. Start-up kit for at least 200 tests should be provided free of cost. 
+30. Document supporting track record and satisfactory performance from institutes of national importance 
+(minimum one) should be provided. 
+31. Support for induction and follow up training of technical staff, on-site standardization and troubleshooting of 
+procedures/ tests to be provided by the company. 
+32. Five (5) years warranty and Five (5) years CMC should be provided. 
+
+

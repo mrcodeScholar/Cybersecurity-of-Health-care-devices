@@ -1,0 +1,155 @@
+--- Page 48 ---
+ 
+ 
+ Tender No.  AIIMSMG/Proc/2022-23/GTE/ Flow Track Cardiac Output Monitor 
+ 
+Page 45 of 66 
+ 
+ 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Flow Track Cardiac 
+Output Monitor  
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+2) Technical Specifications of Flow Track Cardiac Output Monitor  
+S. 
+No. 
+Technical Specifications for Flow Track Cardiac Output Monitor  
+1. 
+Should measure continuous cardiac output with any standard arterial line catheter. No 
+calibration should be required for starting the cardiac output measurement. 
+2. 
+Arterial pressure waveform monitoring should be continuously online 
+3. 
+Response time to measure Cardiac Output should not exceed 20 seconds with 
+provision for average of five minutes 
+4. 
+Should continuously display hemodynamic parameters like MAP, Systolic BP, Diastolic 
+BP & derived parameters like stroke volume, strove volume variation, pulse pressure 
+variation. In addition should be able to give values for systemic vascular resistance 
+with central venous catheter. Other indices like cardiac index should be displayed. It 
+should also be able to calculate extravascular lung water index and ScVO2 & SVO2. 
+5. 
+It should have the ability to analyze the patient’s response to fluid challenge or 
+changes in position or other interventions. All these interventions must be categorized 
+into the time at which they were performed and stored for retrospective analysis. 
+6. 
+Upgradation facility should be provided for low-invasive and highly invasive technology. 
+7. 
+Monitor should be touch screen with minimum screen size of 10 inches and have a 
+display capacity of at least 4 numerical display and 4 trend lines. 
+8. 
+Should have trend range for 72 hours 
+
+
+--- Page 49 ---
+ 
+ 
+ Tender No.  AIIMSMG/Proc/2022-23/GTE/ Flow Track Cardiac Output Monitor 
+ 
+Page 46 of 66 
+ 
+9. 
+Digital display should be clear and visible with the same resolution from any angle 
+10. 
+Should have original manufacturer pole mounting facility 
+11. 
+Should have facility for communication interface with computer and printer 
+12. 
+Should have image and data transferring option onto the USB device and screenshot 
+saving options. 
+13. 
+Should work on AC mains (existing supply), should be supplied with compatible UPS. 
+14. 
+Should have battery backup for two hours 
+15. 
+Should have easy user friendly controls 
+16. 
+Should be light in weight and mountable on pole. 
+17. 
+Accessories: 
+Should be supplied with two-pressure cardiac output cable compatible with monitor 
+for arterial and central venous pressure monitoring and one central venopus oximetry 
+catheter cable compatible with monitor. 
+18. 
+Consumables with monitor: 
+Arterial sensors (transducers) compatible with cable and monitor – 10 Nos. 
+Oximetry catheters compatible with cable and monitor – 5 Nos. 
+Noninvasive finger cuff – 5 Nos. 
+Prices of all consumables should be frozen for three years, spare parts and 
+consumables should be available for 10 years from date of purchase 
+• 
+Technical compliance report should be submitted in following format: 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. 
+Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the 
+TE document for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) Warranty period will be 5 years 
+from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & 
+handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty 
+period by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) 
+basis. 
+c) All software updates should be provided free of cost during Warranty 
+period. 
+2. 
+After Sales Service:  
+After 
+sales 
+service 
+center 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service 
+should be provided directly by Tenderer/Indian Agent. Undertaking by the 
+Principals that the spares for the equipment shall be available for at least 10 
+
+

@@ -1,0 +1,104 @@
+--- Page 19 ---
+ 
+                           Tender No. : AIIMS/R/CS/Paedia S./Paedia/18/394/OT/B 
+ 
+ 
+ 
+ 
+Page 19 of 23 
+ 
+Annexure I 
+Technical Specification for Portable Color Doppler Ultrasound Unit for 
+Paediatric Surgery/Paediatric; 
+A state of art fully digital, compact Color Doppler Ultrasound machine is required with 
+following technical features: 
+1. Unit should be able to give very high image quality with advance technologies like 
+compound imaging for better contrast resolution, tissue differentiation and edge 
+detection, equivalent to high end cart based systems. Please specify the technology.  
+2. Unit should be compact, durable & less than 5 kg in weight. 
+3. Imaging modes of Real time 2D, Color Doppler, Power Doppler, Pulsed wave Doppler, 
+Continuous wave Doppler must be available. 
+4. System should have both online (Read) as well as offline(Write) zoom facility  
+5. System must have fast start up to scanning in less than 30 seconds from off condition, 
+for use in critical care environment and emergency field situations.  
+6. System should support transducer technologies like phased array, convex, linear & 
+TEE format.  
+7. The system should have a broadband architecture with an operating frequency of at 
+least 1 to 15 MHz 
+8. Cine memory should be available on all operating modes.  
+9. The system shall process a dynamic range that is at least 165db. The system must 
+display at a maximum depth of 35 cm. 
+10. The system must have dedicated calculation packages for cardiac, vascular 
+measurements. 
+11. The offered unit must have Flat LCD/ TFT monitor of at least 12 inches with Anti-
+glare coating and flicker free image. 
+12. Alphanumeric soft keys backlit and splash resistant keypad with easy access scans 
+controls, facility to sanitize the system keyboard to avoid cross contamination.  
+13. The system must have the ability to function by AC/DC or battery power with the 
+same degree of functionality, the battery life (run time) shall be at least 2 (Two) hours, 
+this need to demonstrate.   
+14. The system must have archive capability for storage & retrieval of images and clips. 
+It should have atleast 2 USB slots, which allow for direct sharing of images (JPEG) 
+and clips (AVI) to a PC.  
+15. Unit & transducers must be rugged, resistant to breakage & damage on fall/hit so as 
+to withstand busy & field situations.  
+16. The system must have in-built memory of at least 16 GB for storing Patient data & 
+studies. 
+17. The system shall support the all DICOM functionality, Storage, Print, and Work List, 
+also ready to connect to PACS. 
+18. System should have both BIS (Provided BIS standard available)/ European CE and 
+US FDA quality certification. 
+19. System should have factory default presets of POC applications like Orbital, Lungs, 
+TCD, MSK, Nerve, Arterial, Venous etc for quick change of applications. 
+20. System should have in-plane Needle visualization software in both Linear & Convex 
+probe. 
+
+
+--- Page 20 ---
+ 
+                           Tender No. : AIIMS/R/CS/Paedia S./Paedia/18/394/OT/B 
+ 
+ 
+ 
+ 
+Page 20 of 23 
+ 
+21. The needle visualization software should be advanced and should have multiple 
+default factory presets to enable needle visualization at different depth i.e. Shallow 
+and deep level. 
+Transducers & other accessories to be supplied as standard:   
+1. 6-13 MHz (±1 MHz) multi-frequency linear array transducer for breast, lungs, 
+musculoskeletal, nerve, small parts, arterial, venous 
+2.  2-5 MHz (±1 MHz) multi-frequency, curved array transducer for abdominal, l and 
+nerve - depth 30cms. 
+3.  4-8 MHz (±1 MHz) multi-frequency broadband Phased array transducer for Paediatric 
+cardiology, Paediatric  abdominal, neonatal and  Head  applications 
+4. 6-13 MHz (±1 MHz) multi-frequency linear array transducer for breast, lungs, 
+musculoskeletal nerve, small parts, arterial, venous depth 6 cm foot print 25mm with 
+a slot for interventions like cannulation , central line insertion 
+5. A trolley must be available to store and/or transport the system. 
+6. Triple Transducer Connector with electronic switching facility to toggle between 
+transducers. 
+Optional Transducers/Software/Items: B/W Thermal printer 
+WARRANTY: Main unit and transducers should be covered with comprehensive onsite 
+warranty for five years commencing from the date of issue of installation certificate. 
+ESSENTIAL REQUIREMENT:  
+1. Onsite Product training and education material must be provided post installation of 
+the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

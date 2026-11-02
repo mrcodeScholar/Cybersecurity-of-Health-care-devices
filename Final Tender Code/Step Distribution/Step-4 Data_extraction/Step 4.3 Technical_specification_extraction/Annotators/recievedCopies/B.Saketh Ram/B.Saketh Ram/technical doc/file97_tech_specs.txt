@@ -1,0 +1,77 @@
+--- Page 10 ---
+Tender for Six Part Haematology Cell Counter 
+                                                            Admn/Tender/121/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Six Part 
+Haematolog
+y Cell 
+Counter  
+ 
+1. The instrument should be fully automated fluorescence flow 
+cytometry based 6-part differential haematology analyzer offering 
+automatic start-up, shutdown and sample-analysis.  
+2. The instrument should have random access discrete analysis modes 
+for a) CBC, CBC+DIFFERENTIAL+ IG.  
+3. The instrument should have 24 PARAMETERS reported:  
+a) Wbc, RBC, HGB, HCT, MCV, MCH, MCHC,RDW-SD, RDW-CV , 
+PLT, NEUT %, LYMPH %, MONO%, EOS %, BASO %, NEUT #, 
+LYMPH #, MONO #, EOS #, BASO #, PDW, MPV, PCT, P-LCR, IG 
+#, IG %  
+b) TWO HISTOGRAMS - RBC, PLT and ONE SCATTERGRAM  
+4. The instrument should have throughput of atleast 60 samples per hour 
+in both the discrete analysis modes.  
+5. The sample aspiration volume for the complete differential blood 
+count should not be more than 50 [1.1.  
+6 The instrument should have the following analysis modes, Manual - 
+Open, Capillary mode and Sampler mode  
+7. The instrument should have Hydrodynamic focusing / impedance 
+method for RBC/PLT channel  
+8. The instrument should have Cyanide free Sls-hb /colorimetric method 
+for the hemoglobin measurement  
+9. The instrument should be equipped with Fluorescence based 
+semiconductor laser fluorescence flow cytometry for Differential 
+channel.  
+10. Instrument should be able to enumerate immature granulocytes  
+11. Instrument should be equipped with automatic rerun/reflex modes  
+12. Instrument should have facility for upgradation with additional 
+clinical parameters like reticulocytes, immature platelet fraction etc  
+13. Analyser must have option to enumerate differentials for body fluid 
+samples  
+14. Instrument should have options for autosampler & integrated 
+barcode reader  
+15. The instrument should have COMPREHENSIVE INFORMATION 
+PROCESSING SYSTEM with  
+a) User-friendly Windows XP/ 7 based software.  
+b) 100000 sample data with histogram and scattergrams storage.  
+c) 99 QC files each with 300 points for QC can be stored.  
+16. The instrument should have minimum maintenance Semiconductor 
+laser should have lower power consumption, higher stability, and longer 
+life thus cutting down on maintenance cost.  
+17. The instrument should be EXTENSIVE QC FEATURES:  
+a) Min one file for X bar M.  
+b) Delta checks available for cumulative review.  
+c) Option for online QC also available.  
+18. It should have high linearity of over 4 lacs/Cumm for WBC's, over 
+40 lacs/Cumm for Platelets  
+19. It Should be supplied along with Suitable UPS for system 
+ 
+01 
+
+

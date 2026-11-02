@@ -1,0 +1,104 @@
+--- Page 11 ---
+Tender for Microscope                                                                                                             Admn/Tender/121/2016-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Microscope 
+Optical system             : 
+Infinity corrected system 
+ 
+Focus  
+ 
+: 
+Vertical stage movement 25mm or more per 
+course  
+ 
+ 
+ 
+ 
+Stroke Vertical stage movement 1micron or 
+less per  
+ 
+ 
+ 
+ 
+Fine stroke. 
+ 
+Illuminator                     : 
+Lamp House for LED with connecting cable 
+having life Span of 20,000 hrs or more. 
+ 
+ 
+Revolving nosepiece      : 
+Reversed Pentuplate revolving   nosepiece.  
+ 
+Objectives                      :  
+          4X N.A 0.10 
+ 10X N.A 0.25  
+ 20X N.A 0.40  
+ 40X N.A 0.65 (spring loaded)  
+          
+100X N.A 1.25 (Spring loaded, oil)              
+ 
+Observation tube 
+   : 
+Wide field Trinocular Eyepiece Tube with 3                   
+                                                way light distribution.           
+  
+Stage                               : 
+Scratch proof ceramic coated surface 
+mechanical   stage with right-hand low drive 
+control with left hand for two specimens 
+ 
+Condenser 
+ 
+   : 
+Swing out condenser N.A. 0.9- 0.16. 
+Accessory for  
+ 
+ 
+ 
+ 
+Polaroid microscopy upgradation should be 
+possible 
+Upgradation                   :       Upgradation to 100W mercury/120 metal 
+halide/8W LED illumination with 4-6 
+flourescent turret should be Quoted as an 
+option.  
+ 
+ 
+Computer system          :  i5 processor, 4GB RAM, 500GB HDD, DVR  
+                                          R/W, TFT 20”. 
+ 
+The system should be upgradeable to Fluorescence attachment with 
+multicolour 5 or more Filters positions on a turret at a time. 
+ 
+Optional attachment of camera should be quoted separately. 
+ 
+Camera & Software      : Digital Cooled CCD Camera 5MP, with 10bit 
+digitization, 2048x1500. Exposure time 1.6 ms 
+to 17.8min in 1us increments with Fire wire 
+port. 
+Software 
+to 
+capture 
+and 
+image 
+processing. 
+01 
+
+

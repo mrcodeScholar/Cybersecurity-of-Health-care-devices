@@ -1,0 +1,82 @@
+--- Page 17 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/ENT/357/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 17 
+ 
+ 
+Upon the successful and timely submission of bids (i.e. after Clicking “Freeze Bid Submission” in the 
+portal), the portal will give a successful bid submission message & a bid Tender No. : ................................. 
+summary will be displayed with the bid no. and the date & time of submission of the bid with all other 
+relevant details. 
+ 
+ 
+The bid summary has to be printed and kept as an acknowledgement of the submission of the bid. This 
+acknowledgement may be used as an entry pass for any bid opening meetings. 
+ 
+ASSISTANCE TO BIDDERS 
+ 
+ 
+Any queries relating to the tender document and the terms and conditions contained therein should be 
+addressed to the Tender Inviting Authority for a tender or the relevant contact person indicated in the tender. 
+ 
+ 
+Any queries relating to the process of online bid submission or queries relating to CPP Portal in general may 
+be directed to the 24x7 CPP Portal Helpdesk number 0120-4200462, 0120- 4001002. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Specifications of Automated BERA Phone  
+ 
+1. Automatic hearing screening for newborns including preterm neonates (minimum birth at: 0.5 kg) 
+
+
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/ENT/357/2018-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+2. Stimulus type: chirp stimulus. 
+3. Should be portable and compact. 
+4. Should display the result within 1-2 minutes. 
+5. Should be able to work under normal conditions- should not require a sound proof room. 
+6. Should automatically check the impedance and adjust if necessary. 
+7. Result work should be displayed in the form of PASS or FAIL/REFER. 
+8. Should work on the principal of ABR. 
+9. Should test most frequencies and stimulate all the regions of cochlea. 
+10. Connectivity through USB port and/or Bluetooth. 
+11. Should have integrated electrodes that do not break easily and do not need to be replaced often. 
+12. Speaker and the electrodes should be integrated in a single unit. 
+13. Device is safety certified according CE 93/42, FDA 510K or equivalent. 
+14. Software should be compatible with current operating system and upgradable to newer operating system 
+should be supplied with: 
+a) Carrying case 
+b) Electrode Gel 
+c) User manual 
+15. Compatible Laptop with printer (Laser) 
+
+

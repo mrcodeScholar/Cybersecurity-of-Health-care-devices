@@ -1,0 +1,870 @@
+--- Page 10 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S.No 
+Item Name 
+Technical Specification 
+Qty 
+1 
+Intraoperative 
+Nerve 
+Monitoring 
+System 
+1. Should be able to monitor cranial and peripheral motor and 
+mixed motor-sensory nerves during surgery  
+2. Should be Eight Channel monitoring 
+3. Should monitor simultaneously during bipolar cautery 
+4. Should have Real-time continuous monitoring with ‘Automatic 
+Periodic Stimulation’ electrode 
+5. Should have high sensitivity with reduced interference. 
+6. Should have Artifact detection feature to distinguish between 
+artifact and EMG signals 
+7. Should have electrode – checking features 
+8. Should have improvised user friendly interface 
+9. Should have Incrementing probe to adjust stimulus level and 
+print or save by the surgeon from the sterile area 
+10. Should have ability to use two stimulators at once 
+11.  Should be able to save and load custom settings with quick 
+setup. 
+12. Should be able to log EMG activity throughout a procedure for 
+records 
+13. Should be able to get printable case log report for patient 
+records 
+14. Should have inbuilt nerve and electrode placement guide 
+15. Should have touch screen control for ease of use 
+16. Should have color coded channel labeling for easy identification 
+& use. 
+17. Should have multiple USB ports for connection with mass 
+storage devices including compact flash drives, along with 
+provision to connect external printer 
+18. Should give audio output also, in addition to video output and 
+there should be provision to connect headphones 
+19. Should have option for Surgeon mini screen to display 
+monitoring information on small screen with a provision to 
+mount on a IV pole 
+20. Should have provision to connect external keyboard 
+21. Should provide high stimulation ranges of 0.01mA to 30.00 mA 
+22. Stimulators should be malleable tip Monopolar probe and 
+Bipolar probe with optional dissecting tool stimulators 
+23. US FDA and European CE Approved 
+24. System should include: 
+A. Monitor. 
+B. Incrementing patient interface. 
+C. Patient simulator. 
+D. Muting detector probe. 
+E. Incrementing Probe. 
+F. Paired sub dermal Electrodes. 
+G. Stimulating dissecting tools 
+H. Surgeon mini Screen 
+I. External Key board 
+J. Cart 
+K. APS –electrodes (Automatic Periodic Stimulation) for 
+neuro-monitoring in Thyroid surgery 
+L. EMG Endo-tracheal tubes of different sizes (5 tubes of 
+different sizes) 
+M. 10 sets of 4-channel electrodes 
+1 
+
+
+--- Page 11 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 11 
+ 
+N. 5 sets of probes 
+O. Please mention individual price of each consumable for 
+future requirements. 
+P. At least 5 installations in Government set-ups in last 2 
+years. 
+Q. User certificate from at least two central government 
+institutes. 
+2 
+Microdebrider 
+accessories for 
+Drill Console 
+Should be compatible for use with Core Console System of the 
+hospital from Stryker.  
+1. Debrider Hand Piece (Quantity One)  
+It should have –  
+a.Rotational speed ranging from 5000 rpm with Variable, Non-
+variable and 1 Touch run mode, 12000 rpm in drill mode  
+b. Straight Suction Channel Control on the hand piece  
+c. Selection of rotation (Clock wise, Anti-clock wise and 
+oscillation)  
+d. Adjustable Oscillating rate up to levels  
+e. Automatic scope cleaning feature  
+f. Flush feature to clean clogged cutter  
+g. Sterilizable through Steam, ETO and Flash Autoclave  
+h. US FDA Approved  
+2. Specifications for Blades (Quantity Five each)  
+a. 4.0 mm Aggressive Serrated for Ethmoidectomy, Maxillary 
+Sinusotomy and  
+Polypectomy  
+b. 4.0 mm 40/60 Angled Aggressive for Frontal Sinusotomy  
+c. 4.0 mm 40 Angled Convex for Adenoidectomy and 
+Tonsillectomy 
+1 
+3 
+Microdrill 
+accessories for 
+Microdebrider 
+Console 
+1. Should be compatible with the existing Integrated Power Console 
+(IPC) system of the  
+hospital from Xomed Medtronics.  
+2. Should be ergonomically designed electrical Drill System with 
+high Torque up to 38  
+mN-m and Power up to 120W.  
+3. Speed should be variable from 10,000 to 75,000rpm.  
+4. Weight of the drill should not be more than 90gms and length 
+should be less than 8.0  
+Cm with a diameter not exceeding 1.70cm.  
+5. Should have integrated cable to connect to console.  
+6. No Lubrication or seal should be required to run the motor.  
+7. Should have quick release and lock system for tools and 
+attachments.  
+8. Should be suitable for Cranial, Skull base & Otology 
+applications. 
+9. US FDA approved. 
+Attachment:  
+1) Angled Attachment- 7.5cm – 1 No.  
+2) Straight Attachment- 9cm -1 No.  
+3) Tools for 7.5cm, 9cm, length for Cutting: 4 Nos. (Each).  
+4) Tools for tools of 7.5cm, 9cm, length for Diamond: 4Nos.(Each)  
+5) Telescopic base & Tube with outer diameter less than 5mm and 
+inner diameter  
+1.2mm or 1.5mm 12cm length curved: 1No.  
+6) Tools for 12 cm telescopic tube cutting & Diamond: 4 Nos 
+(Total) 
+ 
+1 
+
+
+--- Page 12 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 12 
+ 
+4 
+Operating 
+Loupe 
+1) Achromatic optics for image clarity, crispness and colour 
+correction compared 
+2) Lightweight: Should weigh <60 gms for user-comfort even over 
+extended periods  
+3) Dust and Water Resistant to IP65/IEC 60529 to ensure ease of 
+cleaning/disinfection and years of trouble free use  
+4) Independent Adjustment: Individual left and right PD controls 
+allow for precise adjustment and alignment of optics. Choice of 
+three height settings for optimal alignment as well.  
+5) Loupe mount should provide any angle of view and flips up the 
+optics independently of the optional LED Loupe Light 
+6) 420 mm Working Distance: 130 mm Field of View; 180 mm 
+Depth of Field  
+7) Mounting Option: Frame should provide maximum comfort 
+with modern, ergonomic design. The malleable temples and 
+nose pad should be customizable to fit any face perfectly.  
+8) The set should include: 2.5x optics; protective lenses; 2 
+sterilizable swivel levers; retaining cord; cleaning fluid and 
+cloth; carrying case and any other accessory needed for smooth 
+and safe long lasting use in OT. 
+9) Must be US FDA / European CE Approved. 
+2 
+7 
+Microlaryngosc
+opic 
+Instruments 
+1. 
+Telescope 15o 4.0 mm  
+1 
+Straight Forward telescope 15 degree diameter 4mm 
+and length 17 cms, should be autoclavable and should 
+have 45 degree angled eyepiece. Fiber optic light 
+transmission incorporated.  
+2. 
+Video-laryngoscope sheath laryngoscope Black, 
+LASER safe Coating 
+1 
+3. 
+Operating laryngoscope 
+1 
+Adult size-18cm- Medium black, LASER safe 
+Coating 
+4. 
+Operating laryngoscope 
+1 
+Pediatric size-11cm - Black, LASER safe Coating 
+5. 
+Operating laryngoscope 
+1 
+Infant size-8cm- black, LASER safe Coating 
+6. 
+Laryngoscope holder and chest support for use with 
+above laryngoscopes 
+1 
+Adult size (ring 9.5 cm, rod 34 cm) 
+7. 
+Laryngoscope holder and chest support  
+1 
+Child size (ring 9.5 cm. Rod 24 cm) 
+8. 
+Fiber optic light carrier to fit in operating laryngoscopes  1 
+Adult size  
+9. 
+Fiber optic light carrier to fit in operating laryngoscopes  1 
+Child size 
+10. 
+Fiber optic light cable, fully autoclavable 
+1 
+4.9mm-180cm with adapters for use with Storz light 
+source and above scopes  
+11. 
+Laryngeal cutting forceps-23 cm 
+1 
+2mm round cupped jaws, straight 
+12. 
+Laryngeal cutting forceps-23 cm 
+1 
+2mm round cupped jaws, angular upwards 
+13. 
+Laryngeal cutting forceps-23 cm 
+1 
+2mm round cupped jaws, bent to right 
+1 
+
+
+--- Page 13 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 13 
+ 
+14. 
+Laryngeal cutting forceps-23 cm 
+1 
+2mm round cupped jaws, bent to left 
+15. 
+Laryngeal artery forceps with rachet-23 cm 
+1 
+Serrated, straight 
+16. 
+Laryngeal alligator forceps-23 cm 
+1 
+Serrated -straight 
+17. 
+Laryngeal alligator forceps-23 cm 
+1 
+Serrated -bent to right 
+18. 
+Laryngeal alligator forceps-23 cm 
+1 
+Serrated -bent to left 
+19. 
+Laryngeal scissors-23 cm  
+2 
+Straight 
+20. 
+Laryngeal scissors-23 cm 
+2 
+Angular 45º up 
+21. 
+Laryngeal scissors-23 cm  
+1 
+Bent to right 
+22. 
+Laryngeal scissors-23 cm 
+1 
+Bent to left 
+23. 
+laryngeal scissors-23 cm 
+2 
+Straight, horizontal cutting 
+24. 
+Laryngeal cutting forceps-23 cm 
+2 
+Round cupped jaws 5 mm, straight, double action  
+25. 
+Laryngeal grasping forceps for arytenoids-23 cm 
+1 
+26. 
+Laryngeal biopsy forceps-23 cm 
+2 
+Oval cup shaped jaws 
+27. 
+Laryngeal needle holder with ratchet 
+1 
+28. 
+Atraumatic vocal cord retractor-23 cm 
+1 
+Self-retaining with rachet 
+29. 
+Arnold vocal cord holding forceps-23 cm 
+2 
+Triangular jaws, for right side 
+30. 
+Arnold vocal cord holding forceps-23 cm 
+2 
+Triangular jaws, for left side 
+31. 
+Laryngeal knife-23cm 
+1 
+Straight cutting 
+32. 
+Laryngeal knife-23cm 
+1 
+Sickle shaped, curved 
+33. 
+Laryngeal knife-23cm 
+1 
+Round vertical cutting 
+34. 
+Laryngeal hook-23 cm 
+1 
+Blunt  
+35. 
+Laryngeal hook-23 cm 
+1 
+Sharp  
+36. 
+Laryngeal needle-23 cm 
+2 
+Curved to right 
+37. 
+Laryngeal needle-23 cm 
+2 
+Curved to left 
+38. 
+Laryngeal elevator with suction channel-23 cm 
+1 
+39. 
+Laryngeal knot tier-23 cm 
+1 
+
+
+--- Page 14 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 14 
+ 
+40. 
+Laryngeal hook, blunt with probe end 
+1 
+41. 
+Instrument handle 
+1 
+ For use with item No 30to 38 mentioned above 
+42. 
+Laryngeal suction tube (micro laryngeal) –25 cm 
+1 
+Diameter 2 mm 
+43. 
+Laryngeal suction tube (micro Laryngeal) –25 cm 
+1 
+Diameter 3 mm 
+44. 
+Laryngeal suction tube (micro Laryngeal) –25 cm 
+1 
+Diameter 4 mm 
+45. 
+Laryngeal insulated canula-25 cm 
+1 
+3 mm O.D. for suction and coagulation 
+46. 
+Laryngeal cotton wool carrier-25 cm 
+1 
+Straight, serrated 
+47. 
+Bipolar Micro  Laryngeal electrode –3 mm, length 23 
+cm With removable suction tube 
+1 
+48. 
+Cable for bipolar forceps-5 m long 
+1 
+49. 
+Insulated MLS suction tip, Havas Clip, Teeth Protector, 
+Laryngeal needle for injection 
+1 
+ 
+Standards, Safety and Training 
+ 
+Should be European CE & US FDA approved product 
+Comprehensive training for lab staff and support 
+services till familiarity with the system 
+Other terms & conditions 
+1. User/Technical/Maintenance manuals to be supplied 
+in English. 
+2. Compliance Report to be submitted in a tabulated and 
+point wise manner clearly mentioning the page/ para 
+number of original catalogue/data sheet. Any point, if 
+not substantiated with authenticated catalogue/manual, 
+will not be considered. 
+1.                  Certificate of calibration and inspection. 
+4. List of Equipments available for providing routine 
+Preventive Maintenance Support as per manufacturer 
+documentation in service/technical manual. Price of 
+individual instruments and full set should be quoted.  
+5. Instruments should be made from High Quality 
+Surgical Grade Steel i.e. Grade 410 & 420 or 
+equivalent.  
+6. Instruments should have Laser surface or ebonized or 
+equivalent finish to provide appropriate reflection 
+lowering finish. 
+7. CO=/Catalogue number & article number should be 
+mentioned on each and every instrument. 
+8. There should be country of origin/Manufacturing 
+engraved on each and every instrument. 
+9. Company should have relevant experience in 
+successful execution of similar work at least in five 
+Institutes of national importance and central government 
+Institutes. 
+10. Company should be at least in its 5 years of 
+operations at the date of Submission of tender. 
+ 
+ 
+
+
+--- Page 15 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 15 
+ 
+10 
+Endoscopic 
+sinus surgery 
+instruments 
+including set for 
+Anterior skull 
+base Surgery 
+1 
+Straight  Forward Telescope 0o, enlarged view, 
+diameter 4 mm, length 18 cm, autoclavable. Fiber 
+optic light transmission incorporated. 
+1 
+2 
+Straight Forward Telescope 0o, enlarged view, 
+diameter 4mm, length 30 cm, autoclavable, Fiber 
+optic light transmission incorporated. 
+1 
+3 
+“Telescope/s, diameter 4-5 mm, length 18 cm, 
+autoclavable, variable directions of view from 15o 
+to 90o, fiber optic light transmission 
+incorporated”. 
+ 
+1 
+4 
+Suction and Irrigation Sheath 0o, for endoscopic 
+diagnosis and surgery of the paranasal sinuses and 
+anterior skull base, vertical oval, diameter 4.8 mm 
+x 6 mm, with separate channel for suction and 
+irrigation, for use with irrigation and Suction 
+handles Cleaning Accessories ------------- 1. 
+ 
+5 
+Compatible handle for above telescope 
+1 
+6 
+Cleaning adaptor for irrigation channel of suction 
+and irrigation sheath, length 3.5 cm 
+1 
+7 
+Cleaning tube for suction/telescope channel of 
+suction and irrigation  
+1 
+8 
+Nasal Scissors, medium, (standard model), 
+working length 9.5 cm 
+1 
+9 
+Nucleus  Cutting  Forceps  single  action  jaws,  
+movable  jaw  opening upwards, diameter 3.5 mm, 
+working length 20 cm 
+1 
+10 WILDE Nasal Forceps 45o, upturned, size 1, 
+working length 11 cm 
+1 
+11 Tilly’s Nasal Forceps, straight, size 1, working 
+length 11 cm 
+3 
+ 
+Round Knife 
+ 
+12 Round Knife 0o, width 1 mm, working length 13 
+cm, total length 23 cm 
+1 
+13 Round Knife 90o, width 1 mm, working length 13 
+cm, total length 23 cm 
+1 
+14 Round Knife 45o, width 2 mm, working length 13 
+cm, total length 23 cm 
+1 
+ 
+Dissector 
+ 
+15 Dissector, tip 45o, width 1 mm, working length  
+13 cm, total length 23 cm 
+1 
+16 Dissector, tip 90o, width 1 mm, working length  
+10 cm, total length 20 cm 
+1 
+17 Dissector, sharp, round spatula, tip angled 45o,  
+size 2 mm, with round handle, length 25 cm 
+1 
+18 Elevator, sharp, slightly curved spatula, straight, 
+size 3 mm, with round handle, length 25 cm 
+1 
+19 Hook, 90o, blunt, length 25 cm, with round handle 
+1 
+20 Seeker, 90o, with ball end, diameter 1 mm, length 
+25 cm 
+1 
+21 Micro Raspatory, single curved to right, width 2 
+mm, length 25 cm 
+1 
+22 Elevator,  sharp,    flat  long  spatula,  tip  angled  
+15o   downwards,  size 1.5mm, with round handle, 
+length 25 cm 
+1 
+1 
+
+
+--- Page 16 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 16 
+ 
+23 Dissector, bayonet-shaped, sharp, curved to left, 
+length 24 cm 
+1 
+24 Dissector, bayonet-shaped, sharp, curved to right, 
+length 24 cm 
+1 
+ 
+Scissor 
+ 
+25 Scissors, curved to right, with small handle, with 
+cleaning connector, working length 18 cm 
+1 
+26 Scissors, curved to left, with small handle, with 
+cleaning connector, working length 18 cm 
+1 
+27 Scissors, curved upwards, with small handle, with 
+cleaning connector, working length 18 cm 
+1 
+28 Scissors, upturned 45o, delicate, sheath 360o   
+rotatable, with cleaning connector, working length 
+18 cm 
+1 
+29 Micro Scissors, bayonet-shaped, sharp/sharp, 
+cutting edges curved to left, working length 10 cm 
+1 
+30 Micro  Scissors,  bayonet-shaped,  blunt/blunt,  
+cutting  edges  straight, working length 10 cm 
+1 
+31 Micro Scissors, bayonet-shaped, sharp/sharp, 
+cutting edges curved to right, working length 10 
+cm 
+1 
+32 Micro Scissors, cutting edges straight, diameter 1 
+mm, working length 11 cm 
+1 
+33 Micro  Scissors,  cutting  edges  angled  60o,  
+diameter  1  mm,  working length 11 cm 
+1 
+34 Micro Scissors, straight, diameter 2.2 mm, 
+working length 11 cm 
+1 
+ 
+Curette 
+ 
+35 Curette, round spoon, tip slightly angled, size 2 
+mm, with round handle, length 25 cm 
+1 
+36 Curette, round spoon, tip angled, size 2 mm with 
+round handle, length 25 cm 
+1 
+37 Curette, stirrup-shape, blunt, with round handle, 
+length 25 cm 
+1 
+ 
+Monopolar, Bipolar & Cord 
+ 
+38 Take-apart Bipolar Forceps, width 1mm delicate 
+jaws, distally angled 45o, horizontal closing, outer 
+diameter 3.4 mm, working length 20 cm, 
+consisting of: handle, Outer Tube, Inner Tube, 
+Bipolar Insert. 
+1 
+39 Bipolar Insert 
+1 
+40 Bipolar high Frequency Cord with 2 x 4 mm 
+banana-plug to, length 300 cm 
+1 
+41 Bipolar Forceps, insulated, bayonet shape, blunt, 
+tips 0.3 mm, working length 12 cm, total length 23 
+cm 
+1 
+42 Suction  Tube, with cut-off hole, drop-shaped, 
+with distance markings, LUER, conical distal 
+end,8 Fr., working length 15 cm 
+1 
+43 Suction Tube, with cut-off hole, drop-shaped, with 
+distance markings, LUER,  conical  distal  end,  
+tip  curved  upwards,  ball  end,  2.4  mm, working 
+length 15 cm 
+1 
+44 Suction Tube, with cut-off hole, drop-shaped, with 
+distance markings, LUER, conical distal end, 
+1 
+
+
+--- Page 17 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 17 
+ 
+malleable, 6 Fr., working length 15 cm 
+45 Suction Tube, with cut-off hole, drop-shaped, with 
+distance markings, LUER, conical distal end, 
+malleable, 8 Fr., working length 15 cm 
+1 
+46 Insulated Cannula for suction and coagulation, 
+O.D :3mm, 90o  curved, working length 16 cm 
+1 
+ 
+Punch 
+ 
+47 Bone  Punch,  detachable,  rigid,  upbiting  60o   
+forward,  size  1  mm, working length 17 cm 
+1 
+48 Bone  Punch,  detachable, rigid,  downbiting 60o   
+forward,  size  1  mm, working length 17 cm 
+1 
+49 Bone  Punch,  detachable, rigid,  downbiting 60o   
+forward,  size  2  mm, working length 17 cm 
+1 
+50 Bone  Punch,  detachable,  rigid,  upbiting, 
+upcurved  60o   forward,  size  1  mm, working 
+length 17 cm 
+1 
+51 Bone  Punch,  detachable,  rigid,  upbiting, 
+downcurved  60o   forward,  size  2  mm, working 
+length 17 cm 
+1 
+52 Bone  Punch,  detachable, rigid,  downbiting, 
+upcurved 60o   forward,  size  1  mm, working 
+length 17 cm 
+1 
+53 Bone  Punch,  detachable, rigid,  downbiting, 
+downcurved 60o   forward,  size  2  mm, working 
+length 17 cm 
+1 
+ 
+Forceps 
+ 
+54 Micro  Grasping  Forceps,  bayonet-shaped,  
+straight  jaws,  smooth,  0.5 mm, working length 
+10 cm 
+1 
+55 Forceps, bayonet-shaped, spoon, 2 mm, working 
+length 10 cm 
+1 
+56 Micro Grasping forceps, bayonet-shaped, straight 
+jaws, serrated, 3 mm, working length 10 cm 
+1 
+57 Micro Grasping forceps, bayonet-shaped, jaws 
+curved to left, 0.75 mm, working length 10 cm 
+1 
+58 Forceps, bayonet shaped, 6 mm, spoon, working 
+length 10 cm 
+1 
+59 Forceps, bayonet shaped, 2 mm, spoon horizontal, 
+working length 10 cm 
+1 
+60 Forceps, bayonet shaped, 6 mm, spoon horizontal, 
+working length 10 cm 
+1 
+61 Micro  Scissors,  bayonet-shaped,  sharp/sharp,  
+cutting  edges  straight, working length 10 cm 
+1 
+62 Liga-clip applicator (for use during nasal 
+endoscopic surgeries) 
+1 
+63 Micro  Grasping  Forceps,  straight  jaws,  smooth,  
+diameter  1  mm, working length 11 cm 
+1 
+64 Micro Grasping Forceps, jaws curved upwards 
+450, smooth, diameter 1 mm, working length 11 
+cm 
+1 
+65 Micro  Grasping  Forceps,  straight  jaws,  
+serrated,  diameter  1  mm, working length 11 cm 
+1 
+66 Micro Grasping Forceps, 45o  angled, with 
+smooth jaws, diameter 2.2 mm, working length 11 
+1 
+
+
+--- Page 18 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 18 
+ 
+cm 
+67 Micro Grasping Forceps, straight, with serrated 
+jaws, diameter 2.2 mm 
+1 
+ 
+Other Instruments 
+ 
+68 Hartmann Nasal speculum 
+2 
+69 Sickle knife, pointed, 19cm long 
+2 
+70 Freer elevator should be double ended, semi sharp 
+and blunt, 20cm long 
+1 
+71 Small size oblong shaped Antrum curette, straight, 
+19cm 
+1 
+72 Sinus curette 90deg and 55 deg curved 
+1 each 
+73 Antrum curette forward cutting small size, 19cm 
+length 
+1 
+74 Antrum cannula, Luer-lock, with cut-off hole, 
+short curved, outer diameter 3mm & 4 mm, length 
+12.5cm 
+1 each 
+75 Bipolar coagulation forceps, insulated, angular, 
+blunt, with integrated suction channel, with cut-off 
+hole, length 19cm, to be supplied with Bipolar 
+High frequency cord 
+1 
+76 Antrum punch for Left & Right side downward 
+and forward cutting, working length 10cm 
+1 each 
+77 Nasal cutting forceps, working length 13cm 
+2 
+78 Antrum Punch, right and left side backward 
+cutting, working length 10cm 
+1 each 
+79 Blakesley nasal forceps, straight with working 
+length 13cm 
+2 
+80 Blakesley nasal forceps, Upturned 45deg & 90deg 
+with working length 13cm 
+1 each 
+81 Giraffe forceps 65deg upturn, cup jaws diameter 
+3mm with horizontal & vertical opening, length 
+12cm 
+1 each 
+82 Biopsy & Grasping forceps, vertical opening, 
+malleable sheath end, cupped jaws diameter 4mm, 
+working length 18cm 
+2 
+83 Sphenoid Punch, circular cutting circular punch, 
+dia 4.5mm, working length 18cm 
+1 
+84 Sphenoid Punch, 65 deg upturned, circular cutting, 
+dia 3.5mm, length 17cm 
+1 
+85 Nasal Scissors (Straight/right/left) 
+1 each 
+86 Antrum punch(small) Pediatric size , backward 
+cutting 
+1 
+87 Biopsy forceps for nasopharynx 
+1 
+88 Turbinectomy Scissors 
+2 
+89 Through cut forceps(straight/ 45deg) – 18x3mm, 
+11.5x3.5mm 
+1 each 
+90 Frontal sinus seeker (Double ended 22cm- 70deg 
+and 90deg) 
+1 
+91 Dissector, bajonet-shaped, curved downwards, 
+working length 13.5 cm 
+1 
+92 Dissector, bajonet-shaped, curved upwards, 
+working length 13.5 cm 
+1 
+93 Micro Hook, bajonet-shaped, smooth, working 
+length 13.5 cm 
+1 
+
+
+--- Page 19 ---
+   
+Supply, Installation and Commissioning of Equipment required Otorhinolaryngology (ENT) Department 
+AIIMS, Jodhpur 
+Page 19 
+ 
+94 Micro Needle Holder, bayonet-shaped, straight 
+jaws, 2 x 6 mm, working length 10 cm 
+1 
+Standards, Safety and Training 
+Should be European CE & US FDA approved product 
+Comprehensive training for lab staff and support services till 
+familiarity with the system. 
+Other terms & conditions  
+1. User/Technical/Maintenance manuals to be supplied in English. 
+2. Compliance Report to be submitted in a tabulated and point wise 
+manner clearly mentioning the page/para number of original 
+catalogue/data sheet. Any point, if not substantiated with 
+authenticated catalogue/manual, will not be considered. 
+3. Certificate of calibration and inspection. 
+4. List of Equipment available for providing routine Preventive 
+Maintenance Support as per manufacturer documentation in 
+service/technical manual. Price of individual instruments and full 
+set should be quoted.  
+5. Instruments should be made from High Quality Surgical Grade 
+Steel i.e. Grade 410 & 420 or equivalent.  
+6. Instruments should have Laser surface or ebonized or equivalent 
+finish to provide appropriate reflection lowering finish. 
+7. CO=/Catalogue number & article number should be mentioned 
+on each and every instrument. 
+8. There should be country of origin/Manufacturing engraved on 
+each and every instrument. 
+9. Company should have relevant experience in successful 
+execution of similar work at least in five Institutes of national 
+importance and central government Institutes. 
+10. Company should be at least in its 5 years of operations at the 
+date of Submission of tender. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

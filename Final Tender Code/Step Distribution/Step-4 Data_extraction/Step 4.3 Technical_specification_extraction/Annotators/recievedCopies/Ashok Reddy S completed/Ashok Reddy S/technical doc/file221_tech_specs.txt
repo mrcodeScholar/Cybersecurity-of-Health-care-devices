@@ -1,0 +1,74 @@
+--- Page 10 ---
+Tender for Electroconvulsiometer (with ear and corneal electrodes)               Admn/Tender/183-3/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Tender for 
+Electroconvuls
+iometer (with 
+ear and 
+corneal 
+electrodes) 
+Description of Function  
+To the study of Anti-Convulsion and Anti-Epileptic drugs, whether for 
+education, screening or manufacturing of drugs  
+Technical Specifications  
+1. Should provide 50Hz Stimulus Current variable from 0.25mA to 
+500 mA through touch panel controls for producing minimal and 
+Supra-maximal seizure in small animals  
+2. The duration of Stimulus current is variable from 0.1 second to 1 
+second in steps of 0.1 second  
+Power Supply 230V 50Hz  
+3. Should be supplied with corneal electrode pair (different cup size) 
+and ear clip pair  
+Standards, Safety and Training  
+Product should be CE/BIS approved  
+Manufacturer should have ISO certification  
+User/Technical manual should be supplied  
+Experiment data exported to PC or dedicated data acquisition software 
+package.  
+Bidders are encouraged to arrange for demonstration of their 
+equipment if not able to comply with all specification requirement. 
+01 
+
+

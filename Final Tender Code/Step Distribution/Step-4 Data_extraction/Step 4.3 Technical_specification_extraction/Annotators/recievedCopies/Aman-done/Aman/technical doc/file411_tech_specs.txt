@@ -1,0 +1,330 @@
+--- Page 10 ---
+Tender for 4 D Echo Machine with TEE Probe for Adult and Pediatric High Echo Cardiology System                              
+Admn/Tender/240/2017-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page10 
+ 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Tender for 4 
+D Echo 
+Machine with 
+TEE Probe for 
+Adult and 
+Pediatric High 
+Echo 
+Cardiology 
+System 
+1. 
+The system must be latest generation, highest end & 
+technologically 
+advanced 
+Digital 
+4D 
+(Live 
+3D) 
+echocardiography system. Any other model other than the 
+highest end and latest version is liable for rejection. 
+2. 
+System must be offered with a minimum of 8,00,000 digital 
+processed channels. Original technical data sheet should be 
+enclosed in technical bid to support the number of channels on 
+the system. If not mentioned, please attach a letter from the 
+manufacturer along with the technical bid clearly stating the 
+digital processed channels of the offered system. 
+3. 
+System must have adult and Pediatric cardiology transducer 
+with either single crystal technology or pure wave technology or 
+matrix for excellent gray scale image quality on difficult to 
+image patients. Please mention the technology used in the 
+transducer. Original technical data sheet should be enclosed in 
+technical bid to support the crystal technology. 
+4. 
+System must be offered with a minimum 21 inches high-
+resolution flat panel medical grade display monitor with nearly 
+infinite position adjustments. Company should provide wider 
+monitor if available 
+5. 
+System should have at least four imaging universal active probe 
+ports with electronic switching facility from keyboard without 
+probe adapter. 
+6. 
+System should be capable of supporting second-generation 4D 
+(Live 3D) matrix transducer capable of supporting a minimum 
+of 2000 elements for exceptional 4D (Live 3D) echo, 4D (Live 
+3D zoom), triggered full volume and triggered 3D color volume 
+with electro cautery suppression. 
+7. 
+System should support broadband probes spanning a frequency 
+of 1- 15MHz. 
+8. 
+Image storing facility on in built hard disc or MOD/CD/DV-RW 
+facility should be available. In built-in hard disk the capacity 
+should be of minimum 1 TB or 5,00,000 images. System should 
+have extensive image management capability including 
+thumbnail review, cine loop editing etc. Need to provide 5 TB 
+external Hard drive for data storage and should be 
+compatible with system provided. 
+9. 
+System must be offered with Speckle reduction imaging: Image 
+processing technique to remove speckles and clutter artifacts. 
+10. System should have 4D (Live 3D) echocardiography capabilities 
+with color flow imaging. 
+11. System should be capable of scanning depth of 30cm. scanning 
+depth should be clearly mentioned in the technical quote if not 
+mentioned please attach a letter from the manufacturer along 
+with the technical bid clearly stating the scanning depth of 30cm 
+01 
+
+
+--- Page 11 ---
+Tender for 4 D Echo Machine with TEE Probe for Adult and Pediatric High Echo Cardiology System                              
+Admn/Tender/240/2017-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page11 
+ 
+in the offered system. 
+12. Should 
+be 
+able 
+to 
+perform 
+advanced 
+quantification 
+measurements like strain & strain rate quantification. Should 
+measure the myocardial velocity and derives the strain rate and 
+strain along user defined M-lines, capable of drawing up to 3M 
+lines at a time, capable of sub-dividing each M-line into 8 sub-
+regions or according to user defined sub-region sizes, point of 
+interest tool obtains values from any point on the M-mode 
+display. In addition to the Tissue Doppler based strain system 
+should have 2D based strain like VVI, AFI, and TMQ should be 
+offered. These should be offered both on the system and on a 
+licensed workstation. OFF Cart workstation (both licensed 
+hardware and licensed software) should be offered and 
+highlighted in the technical bid. 
+13. System should be offered with user-friendly high-resolution user 
+interface touch panel of minimum size of 10-11 inches and 
+intuitive keyboard. User friendliness will be given preference. 
+14. Should be able to perform MPR views for Quantification from 
+3D Imaging on Volume Measurements like LV volumes, 
+Ejection fraction from 3D Image, etc. Also should offer 3D 
+synchronicity indicates to measure and compare timing of 
+maximum contraction of regional LV volumes. Should display 
+global LV volume and should provide simultaneous display of 
+17 regional volume/strain waveform. This should be offered 
+both OFFLINE as well as online. OFF-LINE workstation of 
+Apple or equivalent brand (Both hardware and software) should 
+be supplied and highlighted in the technical bid. 
+15. The quantification capabilities should be offered OFF-LINE 
+also. The system images should be transferred through DICOM 
+to the OFF-LINE licensed workstation. The workstation should 
+have a DICOM Image Management System Software loaded so 
+as to print images through a Colour laser printer. 
+16. The system should have the facility of displaying the three 
+planes of the 3D data set. 
+17. Contrast harmonic imaging should be offered as standard on the 
+system, with optimization for low and high MI applications. 
+Should also have facility of low MI with triggered 
+replenishment imaging. 
+18. Integrated stress echo facility to perform stress echo exams. 
+19. Should have the state of the art transmit Real Time Compound 
+Imaging Technology with multiple transmitted lines of sight, 
+wherein Multiple Coplanar Images from different viewing 
+angles are obtained and combined into a single compound 
+imagines at real-time frame rates for improved visualization. 
+Should demonstrate and show multiple transmitted line of sight 
+in linear probes.  
+20. Should be provided with (One Each of): 
+1. Adult transthoracic 2 D probe {Phased array matrix transducer 
+with Frequency ranging from 1-5 ± 1 MHz, of Single crystal 
+
+
+--- Page 12 ---
+Tender for 4 D Echo Machine with TEE Probe for Adult and Pediatric High Echo Cardiology System                              
+Admn/Tender/240/2017-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page12 
+ 
+or Pure Wave technology (System offered with normal 
+transducer for Adult ECHO are liable for rejection)},  
+2. Adult Transthoracic 3 D probe Phase Array matrix Transducer 
+with Frequency ranging from 1-5 ± 1 MHz,  
+3. Paediatric Transthoracic 2 D probe,  
+4. Adult Transoesophageal 3 D probe,  
+5. Paediatric Transoesophageal 2D probe ,  
+6. Epi-aortic probe, vascular probe {Linear Array 
+Matrix transducer with Frequency of 5-15 ±2 MHz}. 
+1. 7. Linear array Probe with frequency ranging from 4-11 ±2 
+Mhz. for Peripheral vascular 
+21. Local 
+Service 
+Facility 
+should 
+be 
+available 
+at 
+Jodhpur/Jaipur/Delhi NCR. 
+22. System should provide with-  
+ a.) Latest PC of Apple (off-line licensed workstation) 
+with minimum 2TB Hard drive, 2x8 GB DDR 3 RAM, Intel 
+i7- 3.5 GHz or higher processor, Two serial port, Minimum 4 
+USB port, Inbuilt Bluetooth & Wi-Fi, 24” Touch screen LED 
+Monitor, Keyboard, mouse, 10 or latest Windows professional 
+or equivalent, licensed software for analyzing and 
+quantification of 2D and 3D data sets, CD/DVD writer with 
+Image Management Software and High End colour laser 
+Printer with auto duplexing should be supplied. PC should be 
+supplied with the licensed software to work on the below 
+features. 
+i. Strain and Strain rate imaging. 
+ii. Semi-Automated Border Detection. 
+iii. Tissue Motion Annular Displacement. 
+iv. Mitral Valve 3D data sets 
+v. 2D speckle tracking  
+(any other Hardware essential for OFFLINE Quantification)  
+ b.) Latest B/W Thermal Printer. 
+ c.) Two 3KVA online UPS with a backup of 30 min 
+minimum, from APC or Emerson brand  
+ d.) One Mac OS Laptop with 512 GB or more hard drive 
+with Optical CD/DVD Drive This should be supplied with the 
+licensed software (dual boot with Licenced Latest Windows 
+professional with Office Professional software should be 
+provided)to work on the below features. 
+i. Strain and Strain rate imaging. 
+ii. Semi-Automated Border Detection. 
+iii. Tissue Motion Annular Displacement. 
+iv. Mitral Valve 3D data sets 
+v. 2D speckle tracking (any other Hardware essential for 
+OFFLINE Quantification)  
+ e.) ECG cable: two in numbers 
+23. Should provide rates for 3D Transthoracic Paediatric Probe 
+optionally. Quoted rate Will not be considered for comparison. 
+Rate Justification for same needs to be provided with. 
+24. System should have DICOM 3.0. System should have DICOM 
+3.0 print and store service classes with support for modality, 
+worklist, perform procedure set up, storage commit. 
+25. Documentation 
+1. Printed user/Technical/Maintenance manuals to be supplied in 
+
+
+--- Page 13 ---
+Tender for 4 D Echo Machine with TEE Probe for Adult and Pediatric High Echo Cardiology System                              
+Admn/Tender/240/2017-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page13 
+ 
+English. 
+2. Certificate of calibration and inspection. 
+3. Log book with instructions for daily, weekly, monthly and 
+quarterly maintenance checklist. The job description of the 
+hospital technician and company service engineer should be 
+clearly spelt out. 
+26. Warranty:  
+CMC and AMC (period is prescribed elsewhere) should be 
+inclusive of system as well as the all transducers. 
+CMC should be unconditional and include all accessories 
+including third party items. 
+27. Other requirements 
+ 1 Availability of spares to be ensured for minimum 10 years 
+period 
+ 2. Working Demonstration is must after installation. 
+ 3. Two good quality, branded increased height chairs 
+(revolving with back rest) to be provided for the echo-
+cardiographer. 
+ 4. There should be one high quality large size table of 
+Godrej Brand to keepWorkstation (computer & printer). 
+ 5. 50 rolls of thermal paper to be provided for thermal printer. 
+ 6. Colour Print Glaze Paper- 500 sheets 
+ 7.  One set of Color laser printer (compatible) cartridges, in 
+addition to the supplied with printer. 
+ 
+28. The system should be US FDA and European CE approved 
+General Conditions 
+1. It will be responsibility of the vendor to submit proposal of CMC 
+at least 6 months before expiry of warranty of previous CMC. 
+2. In the technical bid the product should be quoted with a set of 
+standard accessories.  The price bid must clearly state the 
+accessories included.  The price of optional accessories should be 
+quoted separately. 
+3. The product or its earlier model should have been marketed in the 
+national and international market for at least 5 years. 
+4. The parent company should certify that the quoted product is not 
+going to be out of assembly line for at least three years from date 
+of quotation. 
+5. The parent company should give the undertaking to provide the 
+spares during the warranty and CMC period if required. 
+6. If the equipment is software based, and the new software is 
+introduced within five years the up gradation will be provided free 
+of cost 
+7. Demonstration of quoted system/product with live case and demo 
+of various modality and highlights of Machine by a Qualified 
+person will be required (if needed) for technical qualification. 
+Necessary legal permissions will procured by company. 
+8. Training: The necessary training of the personnel for the use of 
+the equipment will be provided by the company/vendor.  The 
+vendor must mention the type of training i.e. on site or abroad and 
+
+
+--- Page 14 ---
+Tender for 4 D Echo Machine with TEE Probe for Adult and Pediatric High Echo Cardiology System                              
+Admn/Tender/240/2017-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+number of persons. 
+Compliance statement.  The vendor must provide, in tabular form a 
+comparative chart of the required technical specification and technical 
+specification of the quoted product.  The vendor must give the relevant 
+page number and paragraph number, in their literature regarding that 
+technical information in the technical bid.  Merely stating ”complies” 
+or ”meets requirement” will lead to assumption that the quoted 
+product does not have the required feature. 
+
+

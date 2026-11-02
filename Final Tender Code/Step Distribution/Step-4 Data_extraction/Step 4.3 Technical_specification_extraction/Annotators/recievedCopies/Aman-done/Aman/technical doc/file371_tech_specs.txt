@@ -1,0 +1,132 @@
+--- Page 10 ---
+Tender for ECHO Cum Ultrasound Machine 
+Admn/Tender/23/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+ECHO Cum 
+Ultrasound 
+Machine 
+1. Fully digital, compact, portable colour Doppler ultrasound machine 
+with pin less connector, weight less than 10 kg.  
+2. Unit should be able to give very high image quality with advance 
+technologies like compound imaging for better cardiac contrast 
+resolution, tissue differentiation and edge detection, equivalent to high 
+end cart based systems.  
+3. System should be able to support speckle reduction imaging for 
+better tissue differentiation and edge enhancement.  
+4. The system shall have the ability to enhance tissue margins and 
+improve contrast resolution by reducing artefacts and improving 
+visualization of texture patterns & needle tip within the image, please 
+specify the technology.  
+5. Imaging modes of Real time 2D, Colour Doppler, Pulsed wave 
+Doppler, Continuous wave Doppler, Power Doppler must be available 
+on all cardiac transducers.  
+6. System must have fast start up to scanning in less than 60 seconds 
+from off condition, for use in critical and emergency situations.  
+7. System should support transducer technologies like phased array, 
+convex, linear, TEE etc.  
+8. Cine memory on all modes.  
+9. Convex probe should be with either single crystal technology or 
+pure wave technology or high density for excellent Image quality on 
+Difficult to image patients. Please mention the above technology used 
+in the transducer. System offered with normal transducers on convex 
+are liable for rejection  
+10. System must be offered with a minimum 15 inch High Resolution 
+Flat Panel Display monitor with monitor resolution of 1050 x 1400. 
+11. The system shall process a dynamic range that is at least 165db. 
+The system must display at a maximum depth of 35 cm.  
+12. The system must have a dedicated cardiac calculation packages 
+with PISA, TDI calculation packages, vascular calculations package.  
+13. The unit must be compact, portable and lightweight, weighing less 
+than 10 kg.  
+14. Unit must be sturdy, resistant to breakage & damage on fall/ hit 
+against the wall or hard surface for out of the hospital use.  
+15. Alphanumeric soft keys keyboard with easy access scans controls, 
+facility to sanitize the system keyboard to avoid cross contamination. 
+16. The system must have the ability to function by AC/DC or battery 
+power with the same degree of functionality, the battery life (run time) 
+should be at least 2 (Two) hours, this needs to be demonstrated.  
+17. The system must have archive capability for storage and retrieval 
+of images and clips data.  
+18. Data Transfer facility should be available as standard, to transfer 
+images etc. easily onto another system/computer etc.  
+19. System should possess software for Enhanced Needle 
+Visualization to track the needle clearly at steep angles during the 
+procedures while maintaining striking image quality of the target 
+structures and the surrounding anatomy with simple On/Off 
+functionality. This Facility should be available on both High 
+frequency Linear and Curvilinear probes for -superficial as well as 
+deeper blocks.  
+01 
+
+
+--- Page 11 ---
+Tender for ECHO Cum Ultrasound Machine 
+Admn/Tender/23/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20. Unit must be sturdy, resistant to breakage & damage on fall on 
+hard surface.  
+21. The system should support all the DICOM functionality, Storage, 
+Print, and Work List, also ready to connect to PACS.  
+22. The manufacturer shall provide a loaner system in case of failure 
+of system.  
+23. The should have minimum hard 80GB disk drive space  
+24. The equipment should be mountable on trolley & locking 
+mechanism should be inbuilt into the trolley for safety & security of 
+the system.  
+25. The system and transducers should be USFDA & European CE 
+certified (Certificate needs to be submitted).  
+26. The rates of consumable accessories should also be quoted 
+separately  
+27. Onsite physical demonstration/training of the equipment to all the 
+end users with all the requested facilities will be mandatory  
+28. Items covered under warranty/CMC  
+a) The rates of consumable and accessories should also be 
+quoted separately in the financial bid.  
+b) Company should ensure the supply of consumables and 
+accessories for the period of warranty and CMC.  
+Transducers Foot print to be supplied as for Pediatric use  
+1. 6-13 +/-1 MHz multi-frequency, broadband linear transducer 
+suitable for musculoskeletal, nerve, superficial, vascular, 
+venous, ophthalmic in children.  
+2. 8-5 MHz+/-1 multi frequency micro convex with suitable 
+for abdominal, neonatal, nerve, vascular.  
+3. 4-8 MHz +/- 1 broadband phased array transducer suitable 
+for cardiac applications for Pediatric.  
+4. 4-8 MHz +/- 1 broadband phased array transducer suitable 
+for cardiac applications for neonates.  
+5. 4-10 Mhz +/- 1 wide band multi array transducer multi 
+frequency for musculoskeletal , nerve , superficial vascular and 
+venous.( Hockey stick probe)  
+System should be supplied with the following peripheral devices  
+a. Dockable cart must have at-least 3 Imaging universal active 
+probe ports with electronic switching facility from key board 
+without probe adapter.  
+b. System should have a barcode scanner to read patient 
+information. 
+
+

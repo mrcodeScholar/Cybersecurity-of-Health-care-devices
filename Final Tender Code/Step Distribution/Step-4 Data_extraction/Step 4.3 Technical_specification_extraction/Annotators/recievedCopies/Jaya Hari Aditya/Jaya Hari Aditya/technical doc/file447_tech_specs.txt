@@ -1,0 +1,2119 @@
+--- Page 10 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+Technical Specifications for Picture Archiving and Communications System (PACS) 
+Radiology information System (RIS), Vendor Neutral Archive (VNA) and Advance 
+Visualization Software. 
+ 
+1.      PACS OEM should bid directly and not via channel partner: 
+  
+2.      Vendor Should offer the Latest Product version which is released till and 
+including RSNA 2018 as part  
+of the solution offered 
+  
+3.      All software updation, upgrade and future release during warranty 
+period(5+ 5 years) should be done  
+free of cost 
+  
+4.      The uptime guarantee for the software and hardware should be at least 
+99%(out of 365 days). 
+  
+5.      The vendor has to ensure the availability of a competent on Site engineer 
+for 1 year. 
+  
+6.      System should be available through internet at all times. 
+  
+ 7.The cost for hardware upgradation for server and storage at the end of fifth 
+year to be quoted separately in  
+BOQ. It will be considered for L1 ranking. Order and payment for same will 
+be given as per requirements at  
+the end of five years based on assessment by the department.  
+  
+8.PACS database should be running on Oracle/Sybase. 
+ 
+9. The bidders should have registered their IHE Integration statement with 
+IHE.net. Further, the RIS and   
+PACS systems being supplied, should have implemented all transactions 
+required in the IHE Technical  
+Framework to support the IHE Integration Profiles with proof of their 
+successful testing at an IHE  
+connectathon not earlier than last 2-3 years on the website 
+https://connectathon-results.ihe.net/ 
+ 
+A)The proposal shall include:   
+ 
+System pricing and line wise pricing of items. 
+  
+Technical description of the product offering and the specific configuration for the 
+hospital. It must include the product datasheets including third party items. 
+  
+Individual responses to each normative requirement using the requirement identification 
+numbers in this RFP.  
+  
+Information as required by other requirements in this RFP.  
+  
+  
+  
+B) The proposal shall also be submitted as a PDF File on a CD-ROM.   
+  
+The proposal shall explicitly identify every normative requirement of this RFP, which is 
+not met by the vendor‟s offering.  If a requirement will be met in the future, the vendor 
+may provide a schedule of commercial availability for future enhancements, which redress 
+the non-compliance, together with their prices.  If a requirement will not be met by a 
+planned enhancement of the system, the vendor may explain the impact of the deficit on 
+overall system functionality.  
+  
+C)Tender document for Digital Healthcare Solution for Radiology  
+  
+1. Objectives of the Digital Healthcare solution for Radiology  
+  
+a) Total elimination of hardcopy of films needed for reporting in the Radiology Area.  
+  
+b) Add clinical tools for the entire enterprise 
+  
+c) Reduction in waiting time of radiological report.  
+  
+
+
+--- Page 11 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+d) Provide simultaneous consultation with physicians inside and outside the hospital (for 
+registered and not registered patients).  
+  
+e) Improve the availability /accessibility of patient data (Radiology image reports).  
+  
+f) Optimum use of human resources through a decreased rework (repeats, and an 
+improvement in operational efficiency) and optimal work flow  
+  
+g) Integration of all imaging DICOM modalities and radiology reports (patient data) one 
+to a reliable and accessible digital platform.  
+  
+h) Build a Clinical repository for DICOM & Clinical data with electronic charting using a 
+single Digital Healthcare Platform 
+  
+i) To integrate HIS, RIS, PACS and the CIS platform for a seamless data exchange 
+platform. Integration should be dynamic and bi-directional.   
+  
+j) Performance of the solution should be consistent and 95% uptime of the  working of the 
+system should be ensured. 
+  
+ 
+ 
+2. Technical requirement for requested Digital Healthcare Solution  
+  
+i)System and Technical Requirements for Radiology Information System 
+  
+I. General Requirements  
+  
+a) 
+RIS 
+shall 
+support 
+all 
+the 
+standard 
+Modules 
+ie. 
+Patient 
+Registration, 
+Appointment/Scheduling, Modality Worklist, Radiologist Worklist and Reporting.  
+  
+b) The system shall support scanning of hardcopy request forms and other documents and 
+attach with a patient.  
+  
+c) The system shall be integrated with existing HIS. It shall be a Dynamic and bi-
+directional integration.  
+  
+d) System shall support workflow for radiology orders which do not require scheduling 
+(ex. X-Rays).  
+  
+e) The patient consent forms should be able to be scanned and attached into the system  
+  
+f) The system shall have an ability to insert a flag for attention for an examination. The 
+flag shall be visible in all various worklists. The user typed comments shall also be 
+visible.  
+  
+g) The system shall support sticky notes function. The sticky notes shall open as popup 
+when a scan is opened.  
+  
+h) The system shall provide instant messaging functionality for users to communicate via 
+system.  
+  
+i) It should be possible to view the details of personnel involved with the Order ie. who 
+created the order, who scheduled/rescheduled it, scanning technician, draft radiologists 
+and final report signoff radiologist.  
+  
+j) If the hospital has EMR/HIS, the RIS shall be integrated with it so that with a click 
+radiologist can see other details of the patient.  
+  
+k) The system shall provide the section where all standard documents related to 
+operations, policies; standard forms can be uploaded and kept for users to access it.  
+  
+l) System shall support multiple department workflows where multiple department users 
+can work without being able to access other department data. For ex. Front Office of one 
+department shall not be able to schedule cases of other departments.  Cross department 
+access shall be limited and shall be available only to limited users.  
+  
+m) System shall support setting up Master Data from the Admin interface ex. Procedures 
+List, Reporting Templates.  
+  
+n) System shall support transfer of orders from one department to another.  
+  
+o) System shall support multiple user profiles which includes the following but not limited 
+to  
+  
+
+
+--- Page 12 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+ 1. Junior Resident  
+  
+ 2. Senior Resident  
+  
+ 3. Radiologist  
+  
+ 4. Transcriptionist  
+  
+ 5. Radiographer  
+  
+ 6. Patient Service clerk & supervisor  
+  
+ 7. Radiology Nurse  
+  
+ 8. Administrator  
+  
+p) The system shall allow creating user groups and assigning users to groups. It should 
+allow managing access rights both at group and individual user level.  
+  
+II. Patient Registration & Service Request  
+  
+a) Shall allow Patient registration with few details as mandatory. System shall be able to 
+use the Hospital generated Medical Record Number (UHID).  
+  
+b) System shall be able to pull the patient details from the hospital HIS.  
+  
+c) System shall allow marking Patient Arrival status in RIS.  
+  
+d) The system shall support Patient Merge workflow.  
+  
+e) System shall capture and display health alerts.  
+  
+f) Able to scan various consent forms ex. Request Form, Consent Forms, Pregnancy 
+Declaration forms etc.  
+  
+g) The document scanner shall be integrated with RIS.  
+  
+h) The system should support Pre-vetting capabilities.  
+  
+i) The system should support ability to order orders which should be sent to HIS.  
+  
+j) Allow the creation of a protocolling worklist for radiographers or radiologists with 
+options to select standard performing protocols and free text field to document additional 
+performing instructions to radiographers or communications with clinicians that will be 
+visible to the radiographer when performing the study.  
+  
+k) System should be able to audit and track protocolling workload per user.    
+  
+l) Support more than 1 level of vetting e.g.  Radiographer or trainee performs vetting and 
+with option to send to Radiologist to verify.  
+  
+m) Support seamless paperless communication between clerk, radiologist and 
+radiographer during the vetting process.  
+  
+n) Have a means to support rejection of requests sent for vetting.  
+  
+o) Requested procedures or Imaging Requests that need clarification can be flagged for 
+follow-up from Request creation.  
+  
+p) List of Requested Procedures or ISRs.  
+  
+q) Able to filter by Date/Time, Modality, Priority, Patient Type, Medical Service, Referral 
+Location, Patient Class.  
+  
+r) Option to search for list of Requested Procedures by Patient ID, Patient Name, exam 
+order ID.  
+  
+s) Print out Porter Slip with information like Patient ID, Patient Location  
+  
+t) Ability to sort list by different fields and select specific fields for display.  
+  
+u) Choice of giving an appointment or starting the procedure from the request list. For 
+example:  
+  
+ 1. For general Investigations, select procedure and start procedure. No need to 
+book an appointment slot before starting the procedure.   
+  
+ 2. For specialized Investigations like CT or MRI, book appointment, indicate 
+arrival of the patient on appointment day, generate bill and continue workflow.  
+  
+v) Able to restrict cancellation of confirmed/performed orders to defined, configurable 
+users/group.    
+  
+
+
+--- Page 13 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+w) The system should support printing of Radiology Request orders created in RIS or 
+electronic radiology orders from EMR with relevant clinical and health information.  
+  
+III. Appointment / Scheduling  
+  
+a) Graphical representation of booking slots with comments and/or colour code showing 
+reservation of slots for different types of procedures.  
+  
+b) Able to define slots in a room based on certain constraints e.g. urgent cases only, 
+inpatient or outpatient. System should be able to use these constraints and rules to 
+facilitate giving an appointment.  
+  
+c) Appointment diary to display available slots according to the procedure time. This 
+improves utility of resource and eliminates waste gaps in appt time slots. Visually the 
+schedulers can identify appointment time slots readily.  
+  
+d) Able to customize the number of booking slots available per day as duration of the 
+procedures varies for different types of examinations. The system should allow reservation 
+of appointment slots for specific procedures, by patient type (e.g. inpatient, outpatient), 
+patient class, etc.  This should be easily visible to assist users in scheduling.    
+  
+e) Able to "suggest" an appropriate appointment date/time for patient based on certain 
+rules and constraints, bypassing slots that do not meet the constraints for the patient.  
+  
+f) Ability to separate appointment resources by department and yet enable cross-checking 
+and alert if patients have the same exam/other already performed in own/other department 
+recently or already has an appointment made in different department within a specified 
+number of days.  
+  
+g) Able to alert and prompt alternative appointments for multi-exam procedures requiring 
+more than one procedure rooms.  
+  
+h) Able to define specific appointment slots for viewing and scheduling for certain 
+category of users. Able to restrict booking into certain appointment slots in the scheduling 
+book.    
+  
+i) Able to control rights for overbooking to authorized users. Configurable in terms of 
+resource allowed overbooking, number of overbooking & types of procedures, etc.    
+  
+IV. Patient Check-in and Order Creation  
+  
+a) Support mapping of a specific procedure to different service code base on patient type, 
+referring location, facility, performing department, procedure code etc. Example:  
+  
+b) Able to assign unique numbers (accession and order numbers) to identify the 
+procedures and provide the link of results/ to images in PACS.  
+  
+c) Able to trigger charge or credit transaction to billing system(s) upon order entry or 
+cancel or replace procedure respectively using HL7 protocol for communication.  
+  
+d) Able to capture the reasons for cancellation of procedures or no charge procedures or 
+waiver of professional fees for audit purpose.  
+  
+e) Produce sticky labels with patient, visit, billing code and order related information upon 
+check-in or order entry:                
+  
+ 1. to show waiting/procedure room  
+  
+ 2. to display accession/order number for identifying procedures for modality 
+worklist and reporting  
+  
+ 3. to paste on film envelope for film tracking and dispatching of films to GP 
+referrals, non-resident patients, clinics, etc.  
+  
+f) System should have an easy way to do adhoc re-reprint of additional patient labels.  
+  
+  
+  
+V. Service Recording and Tech Module  
+  
+a) Filterable Worklist for scheduled/ordered procedures based on room, modality or 
+location e.g waiting area. Able to configure fields and filters based on user preference. 
+The system should have an option to save the user-defined worklist. Ability to print and 
+  
+
+
+--- Page 14 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 14 
+ 
+export list.  
+b) Be able to select multiple procedures from the worklist, and perform the same operation 
+in one instance e.g start or complete procedure or assign reporting radiologist.  
+  
+c) Track procedure duration based on procedure start and complete times  
+  
+d) Track radiographer(s) who performed the procedure. Able to easily add additional 
+operators.  
+  
+e) Track radiologist(s) who performed and reported the procedure.   
+  
+f) Track other personnel‟s involved in the procedure e. g nurses, patient's care-giver.  
+  
+g) Allow radiographers to enter technical comments for procedures performed to capture 
+examination information e. g. Contrast usage, sequences performed, sonographic findings.    
+h) Able to order/cancel/remove procedures. There should be a security object that controls 
+cancellation of procedures that have been started or have images or reports.  
+  
+i) Exam status should include suspend and confirmed statuses or equivalent.  
+  
+j) Able to trigger messages to EMR/HIS for order/cancel/remove of procedures when 
+applicable using HL7 protocol for communication  
+  
+k) MPPS from modality to RIS/PACS (including sequences) to plan examinations based 
+on protocol.  
+  
+l) Reuse protocols from previous examinations when planning follow-up examinations at 
+the same modality and for the same organ.  
+  
+m) To trigger a message to EMR/HIS upon examination started/completion.  
+  
+n) To alert referring clinicians through email or SMS upon examination completion if 
+applicable.  
+  
+o) To allow radiographer to group/link 2 or more procedures to be reported together. 
+Splitting of grouped procedures should also be possible prior to reporting.  
+  
+p) Allow radiographers to update reporting priority.  
+  
+VI. Reporting  
+  
+a) Able to import patient history into the Radiology report.  
+  
+b) An efficient way to assign a list of pending reporting tasks to a particular radiologist to 
+report.  
+  
+c) Able to view at a glance outstanding reporting tasks based on each worklist eg. MRI (2) 
+i. e. 2 MRIs not reported.  
+  
+d) Reporting templates and canned text should have both public and private options  
+  
+e) Standard word processing capabilities with spell checking function, formatting e.g. bold 
+underline, italic and medical dictionary.  
+  
+g) Able to correct reports (alter original report text) after final/verified i.e remove original 
+content but with history of original versions kept (versioning).  
+  
+h) Able to amend reports after finalised/verified as addendum i.e additional text on top or 
+bottom of original report but leaving the original report text untouched.  
+  
+i) Allow specification and flagging of levels of abnormal reports.  
+  
+j) Allow radiologist to alert referring clinicians for abnormal and amended report i.e., 
+either through email  
+  
+k) Flexibility to control printing of preliminary and final reports.  
+  
+l) The printed radiology report should have the time stamp of when the report was printed.    
+m) Option to automatically utilize pre-defined fields of data captured in the acquisition 
+notes or technical comments (input by radiographer) to pre-populate to the radiology 
+report.  
+  
+
+
+--- Page 15 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 15 
+ 
+n) Cases reported by the resident should route to the radiologist's work-list for verification 
+regardless of mode of report creation.  
+  
+o) Cases awaiting verification by the resident will auto-route to the radiologist's work-list 
+for verification after user specified time frame.  
+  
+p) Allow more than one radiologist to verify a report (co-read).  
+  
+q) Able to track both the reporting and verification radiologist and easily determine the 
+person that needs to verify the report or perform an action that will allow the report to be 
+finalized.  
+  
+r) Able to print a verified radiology report with name(s) of reporting and verifying 
+radiologists, date/time of verification in a format acceptable to the institution. If 
+preliminary reports can be printed, specify if there are distinguishing factors that 
+differentiate it from a verified report e. g a watermark.  
+  
+s) Allow to print a verified report on an adhoc basis.  
+  
+t) Able to distribute verified reports by sending of reports by email.  
+  
+u) Reporting module should have a lock feature that prevents radiologist from starting a 
+report on an examination that has already been opened for reporting by another radiologist 
+regardless of screen refresh.  
+  
+v) If reporting module supports viewing of more than 1 patient's images at a time, then the 
+module should have a warning feature that alerts the radiologist if starting to report or 
+saving / verifying a report for a procedure when another patient's images are opened for 
+viewing; e. g. Patient 1 images and report editor are open for reporting. Patient 2 images 
+are opened for a quick review with clinician without closing Patient 1 report editor and or 
+images. Subsequent with patient 2 images still open, radiologist wishes to Save or Verify 
+patient 1 images, warning message should appear.  
+  
+  
+  
+3. System and Technical Requirements for Enterprise Digital Healthcare Platform 
+  
+I. General Requirements  
+  
+The below mentioned specifications of each component of hardware and software are 
+the minimum required. However, may quote an equivalent or advanced version that is 
+commercially available or likely to be commercially available at the time of purchase. 
+Further the compatibility of the quoted items with each other and with the existing system 
+if any is an essential requirement.  
+  
+The vendor should take an overall responsibility of both the software and hardware 
+components including all licenses for complete maintenance for time of warranty. It is the 
+duty of the vendor to visit the site and study the existing workflow that can be utilized for 
+their proposed solution and quote in the tender (if anything extra required) for the 
+optimum and consistent functioning of the propsoed digital solution. 
+  
+It will be the responsibility of the vendor to demonstrate capabilities/functions quoted to 
+the technical evaluation committee onsite if required.   
+  
+a) Fully integrated Digital Solution for Radiology  
+  
+b) Easily Deployable with simple web based interface.  
+  
+c) Multimodality connectivity, advanced work list, image processing tools with electronic 
+charting for Clinical devices 
+  
+d) Should provide connectivity to Clinical devices like Critical care monitors, ventilators 
+etc 
+  
+e) ZFP module allowing access of images remotely with all tools using low internet 
+bandwidth.  
+  
+f) DICOM Film Print support.  
+  
+g) CD /DVD writing support with embedded DICOM viewer.  
+  
+h) Archiving Module.  
+  
+i) HIPAA & HL7 Compliant.  
+  
+
+
+--- Page 16 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 16 
+ 
+j) Stat reads highlighted and automatically takes priority.  
+  
+k) Search criterion on various parameters like Patient ID, Name, Accession No, Date 
+Hospital Name, Referring Physicians etc.  
+  
+l) Compressed image support for faster downloads.  
+  
+m) Prefect option to download priors automatically reducing waiting time for the 
+radiologists.  
+  
+n) Ability to load different studies, side by side for comparison.  
+  
+o) PACS Solution should be Truly web based with all features like CD/DVD Writing, 
+Film printing, Image viewer and Reporting module available through browser from any 
+station. No installable software should be required to use these functions from any station.  
+  
+p)RIS PACS solution should be on a high availability with Active-Active mode with 
+hardware redundant servers along with the load balancers using VMWare technology . 
+ 
+q) It should be possible to import images from external CD/DVD directly into the system 
+without any external software/workstation.  
+  
+r) Report text search engine should be available.  
+  
+s) Should support DICOM MWL integration with all modalities. It should be possible to 
+view the DSA images in the subtracted mode either in cine or photo file modes.   
+  
+t) Roaming profile – user definable settings.  
+  
+II. Image Processing Tools should be available in the Radiologist viewer  
+  
+a) Window / Level – Manual or Pre-sets.  
+  
+b) Image Scroll on Mouse.  
+  
+c) Pan and Zoom.  
+  
+d) Flip, Rotate, Invert.  
+  
+e) Crop – Elliptical, Rectangular or Freehand.  
+  
+f) Cross Reference Lines.  
+  
+g) Movie mode with speed control.  
+  
+h) Measurement: Linear, Angular, Cobbs Angle tool.  
+  
+i) Annotations like text, pointer, line etc.  
+  
+j) HU Value display – Point and average.  
+  
+k) Multi-frame image display support should be available  
+  
+l) Image display Matrix 1 x 1, 2 x 2, 3 x 3 etc.  
+  
+m) Series Display 1 x 1, 2 x 2, 3 x 3 etc.  
+  
+n) Image Linking – Interlink series for synchronized scrolling of images.  
+  
+o) Spine labelling tool – Automatically labels Vertebral Bodies or Disc space with just a 
+mouse click.  
+  
+p) Magic Slice – Allows the radiologist to click on any part and see the corresponding 
+slice.  
+  
+q) MIP, MPR, 3D, Volume Rendering tool is required for every Diagnostic user and it 
+must be browser based. Volume render application should be from same PACS OEM.  
+  
+r) Curved Planar Reformats (CPR) tool is required for every Diagnostic user  
+  
+s) Automatic Image Registration and Fusion tool is required for every Diagnostic user  
+  
+t) Inbuilt chat module is required  
+  
+u) Image export to JPEG/BMP/TIFF formats  
+  
+v) Auto Edge detection on image   
+  
+w) Ability to create Key series/merge 2 studies/split a study  
+  
+x) Embedded MIP  
+  
+
+
+--- Page 17 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 17 
+ 
+y) Embedded MPR  
+  
+z) Basic Measurements  
+  
+ 1. spine labelling  
+  
+ 2. cobb angle   
+  
+ 3. Leg length difference  
+  
+ 4. horizontal alignment  
+  
+ 5. vertical alignment  
+  
+III. Following Hanging Protocols Tools should be available in the viewer  
+  
+a) Provide easy access to a gallery of prepared hanging protocols from which the user can 
+choose.  
+  
+b) Support the option to create hanging protocols by drag and drop actions.  
+  
+c) Support the functions to have both user and system level hanging protocols  
+  
+d) Upon opening a study, provide the correct hanging protocol should immediately be 
+used to display the images. This automatic selection should be based on:  
+  
+ 1. body parts  
+  
+ 2. modality Types  
+  
+ 3. procedure codes  
+  
+e) Allow to create a display workflow based on hanging protocols. Each hanging protocol 
+can contain one or more presentation groups and the user shall be able to easily and 
+intuitively navigate through all presentation groups that are part of the hanging protocol. It 
+shall be possible to have the system automatically select a correct hanging protocol and/or 
+presentation group based on body part, modality type or procedure code  
+  
+f) Support the functionality to have dedicated hanging protocols for comparison of studies    
+g) Allow the user to Interactively change the layout:  
+  
+ 1. viewport tiling  
+  
+ 2. full screen layout  
+  
+ 3. add/merge viewport  
+  
+h) Allow for dynamic hanging protocols where:  
+  
+ 1. the renderer (3D, MIP/MPR, …) can be changed in each viewport on the fly  
+  
+ 2. viewports can be added on the fly  
+  
+ 3. Images can be added by drag and drop from the clinical sidebar  
+  
+ 4. comparison with prior studies can be made  
+  
+i) Within the image area, provide a list of all studies for the active patient. This list should 
+allow the user to select additional studies to display without the need for major mouse 
+movements  
+  
+j) Support the creation and usage of Multi-modality hanging protocols  
+  
+k) Provide auto combine of series:  
+  
+ 1. US single frame  
+  
+ 2. CR/DX  
+  
+ 3. RF  
+  
+IV. Following features should be available in the ZFP Diagnostic viewer   
+  
+a) FDA Approved for Diagnostic Reading  
+  
+b) Basic Measurements  
+  
+ 1. Angle  
+  
+ 2. Distance  
+  
+ 3. Cobb Angle  
+  
+c) MIP  
+  
+d) MPR  
+  
+
+
+--- Page 18 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 18 
+ 
+e) Multi Monitor Support  
+  
+f) Ability to see Images & Report  
+  
+g) The ZFP Client should NOT be showing the Thin Slice Data to the Clinicians when 
+they login to the PACS 
+  
+h) But the ZFP Client should show all the Series data (Thick & Thin) to the Radiologist 
+which are pushed to the PACS from the modality when the radiologist login to the PACS 
+system 
+  
+i)  The ZFP viewer should be configured to display time-bound exams to the clinicians 
+(ex. Exams for only last 6 months only without the thin slice sections) and this should be 
+configurable   
+  
+j) The mentioned functionality in point g, h & I should also be available in the Mobility 
+viewer for Radiologist & Clinicians 
+  
+k) Image data which is restricted to Clinicians can be made available to clinicians even if 
+it is older than for example 6 months on ad hoc basis post approval in the PACS system 
+  
+Security 
+  
+a)   All user access (ex. login, study access, report access) should be saved into 
+database as AUDIT TRAIL and this should be accessible/searchable by 
+Administrator 
+  
+b)  Vendor will provide applicable antivirus Software for the various clinician and 
+Radiology terminals. 
+  
+4. Software Licenses  
+  
+A)License requirement for RIS PACS Solution 
+  
+Price for 5 additional licences to be bought as a batch should be clearly quoted. The 
+same will be frozen for a period of 10 years. 
+ 
+Unlimited Modality connectivity including for MRI, CT, PET, SPECT, NM, X Ray, US 
+(as and when needed)  
+  
+RIS User Licenses (Reception/Technologists, Transcriptionist/Radiologist) for RIS 
+Application  
+ 50 
+concurre
+nt user 
+licenses 
+200K Exams per year license for Radiology Viewer  
+  
+200K Exams per year license for Clinical ZFP FDA Diagnostic Approved Viewer with 
+unlimited user license.  
+ 
+200K Exams per year license for PACS VNA (Dicom)  
+  
+200K Exams per year license for Mobility Viewer on Tablet with unlimited user license 
+for iPad/TAB viewing licenses 
+  
+3D post processing applications should be from the same OEM who is providing the 
+PACS. Third party 3D post processing applications should not be quoted.  
+  
+3D post processing applications should have a common database with the PACS. There 
+should be no separate storage needed for the 3D post processing applications.   
+  
+The 3D post processing capability should be embedded inside the PACS viewer 
+  
+3D Post processing License for 200K Exams per year for and below application available 
+on all Radiology Workstations 
+200k per 
+year 
+with 
+provisio
+n of 
+15% 
+cumulati
+ve 
+annual 
+escalatio
+n 
+ - Pre Processing 
+ - Volume Rendering 
+ - Auto Bone Removal 
+ - Multi Modality Fusion 
+
+
+--- Page 19 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 19 
+ 
+The batch price for 25000 exams per year for further expansion to be quoted clearly. 
+The same would be frozen for a period of ten years. 
+ 
+B) Advanced 3D post processing Tools needed on Concurrent user basis which are 
+embedded with PACS Viewer 
+The 3D post processing capability should share the same Database as PACS and 
+should not needs its own separate storage 
+  
+  
+Price of one additional licence to be quoted clearly. The same would be frozen for a 
+period of ten years. 
+ 
+Stroke Analysis Software 
+5 
+concurre
+nt user 
+license 
+Oncology Quantification Software including RESIST & WHO 
+5 
+concurre
+nt user 
+license 
+Lung Nodule Visualization and Analysis Software 
+5 
+concurre
+nt user 
+license 
+PET Lesion Management Software including RESIST, WHO  & Functional PERCIST 
+5 
+concurre
+nt user 
+license 
+Virtual Colonoscopy Software 
+5 
+concurre
+nt user 
+license 
+Extract CT angio data from CT Perfusion Exams 
+5 
+concurre
+nt user 
+license 
+MR Elastography Tools 
+5 
+concurre
+nt user 
+license 
+MR Tools for ADC, DTI, Spectroscopy and Fusion 
+5 
+concurre
+nt user 
+license 
+MR Multi Parameter imaging for Body and Breast 
+5 
+concurre
+nt user 
+license 
+MR Multi Parameter imaging for Brain 
+5 
+concurre
+nt user 
+license 
+CT Vessel analysis with automated real time tracking and labelling 
+5 
+concurre
+nt user 
+license 
+
+
+--- Page 20 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 20 
+ 
+MR Tools for Vessel assessment 
+5 
+concurre
+nt user 
+license 
+Cardiac anatomical, functional and perfusion information 
+5 
+concurre
+nt user 
+license 
+CT Perfusion for complete perfusion assessment for Multiple Organ 
+5 
+concurre
+nt user 
+license 
+CT Perfusion for complete perfusion assessment for Brain 
+ 
+5 
+concurre
+nt user 
+license 
+The following advanced application software should be available with the vendor. They 
+have to be quoted as optional with separate pricing for each (the same would be frozen for 
+a period of 5 years). This price will not be considered for L1 evaluation: 
+CT cardiac 4 chamber analysis 
+CT cardiac perfusion 
+Lung airway analysis 
+Lung resection analysis 
+4 D perfusion for brain 
+Kidney volumetry 
+MR Coronary analysis 
+MR Liver analysis 
+MR Prostate viewer 
+MR Breast analysis 
+CT abdominal perfusion 
+Non brain ADC viewer 
+ 
+ 
+5.The proposed hardware should be deployed and configured in a virtualized environment 
+using Vmware ESXi Hypervisor. Below mentioned architecture is provided for reference.    
+i. PACS Workstation Diagnostic Monitor 4MP 30” Fusion display  
+ 2 in 
+number 
+Fusion 4MP LED can be used as two seamless 2MP heads or one wide-screen 6MP 
+display. 
+  
+Screen technology TFT AM Colour LCD Dual Domain IPS-Pro and LED backlight. 
+  
+Active screen size (diagonal) 772 mm (30.4) 
+  
+Pixel pitch 0.256 mm, colour and grey scale imaging. 
+  
+Features to improve and maintain image quality such as Ambient light compensation, 
+Uniform Luminance technology and I guard sensor 
+  
+Maximum Luminance 1050cd/m2, DICOM calibrated at 600cd/m2 with Contrast ratio of 
+1500:1. 
+  
+Screen protection Protective, non-reflective glass cover 
+  
+Response time 18ms, Video input signals DVI-D Dual Link (2x), Display Port (2x) 
+  
+Display Card with support for 4 displays – Online QA software 
+  
+System should come with a touch pad and should have features like Spot view, dim view 
+and profile setting function for Radiologist  
+  
+ii. PACS Workstation Diagnostic Monitor 2MP colour display (dual head) 
+ 3 in 
+number 
+
+
+--- Page 21 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 21 
+ 
+Screen technology LED IPS-Pro. 
+  
+Active screen size (diagonal) 540 mm (21.3) 
+  
+Pixel pitch 0.27 mm, colour and grey scale imaging. 
+  
+Features to improve and maintain image quality such as Ambient light compensation, 
+Uniform Luminance technology 
+  
+Maximum Luminance 800 cd/m2, DICOM calibrated at 500cd/m2 with Contrast ratio of 
+1400:1. 
+  
+Response time 10ms, Video input signals DVI-D (1x), Display Port (1x) 
+  
+Display Card for proposed monitor 
+  
+iii. PACS Workstation Diagnostic Monitor 3MP colour display  
+ 1 in 
+number 
+Screen technology TFT LCD IPS. 
+  
+Active screen size (diagonal) 540 mm (21.3) 
+  
+Pixel pitch 0.2109 mm, colour and grey scale imaging. 
+  
+Features to improve and maintain image quality such as Ambient light compensation, 
+Uniform Luminance technology  
+  
+Maximum Luminance 900cd/m2, DICOM calibrated at 500cd/m2 with Contrast ratio of 
+1400:1. 
+  
+Screen protection Protective, non-reflective glass cover 
+  
+Response time 20ms, Video input signals DVI-D Dual Link, Display Port 
+  
+Display Card for proposed monitor 
+  
+  
+  
+iv. PACS Workstation Clinical Monitor 21" display  
+ 18 in 
+number 
+Screen technology TFT colour LCD 
+  
+Active screen size (diagonal) 541 mm (21.3) 
+  
+Pixel pitch 0.270 mm, colour and grey scale imaging. 
+  
+Features to improve and maintain image quality such as Ambient light compensation 
+  
+Maximum Luminance 420cd/m2, DICOM calibrated at 250cd/m2 with Contrast ratio of 
+1500:1. 
+  
+Video input signals DVI-D, Display Port 
+  
+Display Card for proposed monitor 
+  
+v. PACS Workstation(compatible with above mentioned diagnostic and clinical 
+grade monitors) 
+24 in 
+number 
+Model - DELL 7810 or equivalent 
+  
+CPU - One Processor - Intel E5-2637v3 
+  
+Cores per Process - 8 
+  
+Memory - 16 GB 
+  
+Hard drive - 512GB SSD or 1TB SATA 
+  
+NIC - 1GB 
+  
+Display Card - ATIW2100:should be compatible with the workstation monitors 
+  
+Operating System - Windows 7 Professional 64 bit 
+  
+DVD - DVDRW media drive 
+  
+Power Supply - Single Power Supply 
+  
+Software License - Necessary software for integration 
+  
+  
+  
+vi. Desktop PCs(to be used at RIS stations) 
+ 15 in 
+number 
+Intel processor, 4GB RAM, 500 GB HDD, CD/ DVD 
+  
+
+
+--- Page 22 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 22 
+ 
+20" Monitor, Keyboard, Mouse 
+  
+Display card: 2GB or more 
+  
+Operating system: Window 10 or later 
+  
+ 
+ 
+vii. Black and white laserjet printers from HP or equivalent brand 
+5 
+6. Specification for the  Healthcare Digital Solution Servers  
+  
+I. Servers  
+ 4 in 
+number 
+Rack Server with Redundant Power Supply   
+  
+Dual Processor - Xeon 8 Core V4  
+  
+64 GB RAM   
+  
+10x1.2 10K RPM SAS HDD with RAID-5 Support  
+  
+Quad Port PCI 1Gbps NIC  
+  
+Windows 2012 x64 R2 Standard Edition  
+  
+II. Specification for the  Healthcare Storage   
+  
+Configuration of Storage to be offered – Primary Storage  
+1 in 
+number 
+Storage with Dual Controller and Dual port FC/iSCSI connectivity per controller 
+  
+84x1.2TB useable storage 10K RPM SAS HDD with RAID-5 Support  
+  
+Dual Port 12 Gbps SAS Port  
+  
+12 Gbps Dual Port SAS Card for above Rack Servers  
+  
+The vendor should clearly mention the price for buying additional storage in batches of 
+10TB(useable).The price for the same would be fixed for a period of 10 years. 
+ 
+III. Specification for the  Healthcare  Storage  
+  
+Configuration of Storage to be offered – DR Storage  
+ 1 in 
+number 
+Storage with Dual Controller and Dual port FC/iSCSI connectivity per controller 
+  
+25x4TB useable storage7.2K RPM NL-SAS HDD with RAID-5 Support  
+  
+Dual Port 12 Gbps SAS Port  
+  
+12 Gbps Dual Port SAS Card for above Rack Servers  
+  
+The vendor should clearly mention the price for buying additional storage in batches 
+of 10TB(useable).The price for the same would be fixed for a period of 10 years. 
+ 
+IV.CD/ DVD Publisher (with provision to print AIIMS Jodhpur logo on CDs) 
+ 1 in 
+number 
+Rimage 7200 Cd/DVD 
+  
+Number of Recorders - 1/2 
+  
+External Output Bin Capacity - 100 
+  
+  
+  
+V. Reference Solution Architecture  
+  
+ 
+  
+ 
+  
+  
+  
+ 
+  
+ 
+Server 1 
+Server 3 
+Server 4 
+Server 2 
+Primary Storage 
+(High Performance) 
+Secondary Storage 
+(DR Copy) 
+
+
+--- Page 23 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 23 
+ 
+7. Terms and Conditions for proposed Healthcare Solutions 
+ 
+  
+ 
+1. The PACS application should be US FDA / CE certified (not more than 3/4 years old) 
+and fully scalable RIS-PACS system.  
+  
+ a. Separate Certificate for Radiology Viewer of PACS  
+  
+ b. Separate Certificate for Clinician Viewer (ZFP) of PACS  
+  
+ c. Separate Certificate for RIS  
+  
+2. The system should have IHE certification.  
+  
+3. „PACS Solution should have been implemented for at least 250 sites either in India or 
+globally which includes two or more 800+ bedded hospitals.‟ 
+  
+4.„Company should be present and operating in India for minimum 10 years or more.‟ 
+  
+5. The RIS-PACS vendor should have experience integrating the quoted solution to an 
+HIS/ EHR solution for receiving orders and forming DMWL for modalities. It should 
+integrate with the existing HIS solution present in the hospital. The solution should also 
+have an ability to provide/ share the radiology reports based on parameters. List of 
+minimum 10 such installations in India to be provided.  
+  
+6. In addition to the FDA certificate for RIS-PACS application, the vendor should offer 
+US FDA certified Zero Footprint viewer capable of displaying full fidelity (diagnostic 
+viewing) DICOM images. The viewer must allow image access from any device 
+(computer, IPAD, Tab, etc) using standard browsers eg. Mozilla, Safari, Internet Explorer. 
+ZFP should be FDA diagnostic approved.  
+  
+7. Vendor to provide PACS IHE Integration Statement for the proposed solution with 
+supported Integration profiles as part of the bid.   
+  
+8. Warranty: Vendor should provide a solution with 5 year warranty and subsequently 5 
+years CMC 
+  
+9. All existing Radiology modalities should be linked to the proposed solution and vendor 
+must ensure integration of any new radiological modality in future without any additional 
+cost.   
+  
+ 
+ 
+8. Vendor Qualification Criteria  
+  
+a) The vendor should have a successful track of deploying PACS systems in the country. 
+Vendor should be more than 10 years in PACS business in India 
+  
+b) The vendor should have installed and managed a RIS & PACS Site for more than 10 
+Years for at least two hospitals in India 
+  
+c) The vendor should have min installation base of 10 PACS systems with minimum 2 
+installations in more than 800+ Bed hospitals in India 
+  
+d) Vendor should have 2 sites in India with load equal or more than 200K cases per 
+annum. 
+  
+e) Vendor should have done Enterprise PACS installation in India connecting minimum 4 
+hospitals/sites with the Central PACS. 
+  
+f) Financial qualification criteria   
+  
+ 1. Should be a registered company in the country for last 10 Years  
+  
+ 2. Should be doing a turnover of 100 Crore or more for last Financial Year  
+2 
+g. All the proposed IT solutions included in this tender should be from single OEM. Third 
+party clinical OEM products cannot be quoted.  
+4 
+  
+2 
+  
+4 
+ 
+
+
+--- Page 24 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 24 
+ 
+1. Civil works 
+Interior 
+  
+ The vendors are requested to visit the site to 
+assess the requirements of turnkey. Pertinent 
+points may be discussed during the pre-bid for 
+clarifications 
+  
+Sl.No 
+PARTICULARS 
+ 
+1 
+Dismantling  
+All types of masonry works, plain & reinforced 
+concrete tiles floor tranc, plaster, M.S.Grill  door, 
+window and stacking serviceable materials and 
+dumping                           
+ 
+2 
+False flooring 
+Providing & fixing stringer based raised access floor 
+of approved make metal cladded system finished in 
+bare finish : Panel Construction: Panels of size 600 
+mm X 600 mm are manufactured from pressed form 
+corrosion resistant galvanized steel. The above 
+hollow panel shall have an infill of light weight 
+cementatious material. The entire panel shall be 
+coated with epoxy coating on the exposed surface. 
+Pedestal construction shall be all steel construction, 
+zinc plated and consisting of anti vibrational head 
+cap with cruciform up stands and four panel locating 
+studs, positively clipped to the steel top plate . 
+Pedestal shall be screwed to floor.  Uniformly 
+distributed load shall be 12 kN/m2 Concentrate point 
+load : 4.0 kN over 25 sqmm. Floor void should be 
+450 mm minimum from underside of raised floor pan 
+to finish slab. Provision should made for satisfactory 
+earthing for all floor tiles. 
+ 
+3 
+Brick Work 
+Brick work of thickness 230 mm and above of any 
+shape except curved using selected quality burnt clay 
+FPS bricks (Crushing strength not less than 75 
+kg/sqcm) in super structure laid in cement mortar 6:1 
+(6 coarse sand : 1 cement ) mix, joints finished, flush 
+raked to 6mm depth including jointing with concrete 
+( with holdfast) where required and as per 
+specification and drawing or as directed by Project 
+Manager. 
+ 
+4 
+TMT 
+Providing and Laying and fixing in position Thermo 
+mechanically Treated reinforcement (TMT of all 
+grades) in all reinforced concrete work, including 
+straightening, cutting, removal of loose rust by wire 
+brush and coating with cement slurry, bending, 
+hoisting, laying in position to the shape and profile 
+required at all levels and heights as per drawing and 
+design and/ or as directed, with18 guage MS binding 
+wires etc. complete. (Quoted rate also to include 
+providing & fixing the binding wire,  PVC cover 
+blocks, Chairs, Spacer etc.) 
+ 
+
+
+--- Page 25 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 25 
+ 
+6 
+ Plain cement 
+concrete 
+Providing, laying using pumps & testing cast - in - 
+place structural controlled cement concrete grade 
+M25 using 20mm down coarse aggregates excluding 
+cost of centering, shuttering and steel reinforcement 
+but including cost of making shear keys and 
+provision of construction / contraction / control joints 
+in various locations, laid, consolidated and cured, 
+item to include all structural items like base raft, 
+ramp, column, wall, footings, equipment foundations, 
+fins, mullions, beams, lintels, pergola, chajja, facia, 
+parapet, railing, slab trenches, drains and sumps etc. 
+of any shape and sizes.  The rates of concrete to 
+include the cost of admixtures / plasticisers to 
+achieve specified strength. This item to also include 
+the concrete requiring waterproofing compound like 
+water tanks, basement retaining walls, base raft, 
+leaving sleeves to beams etc. complete. 
+ 
+7 
+PCC 
+4: 2 : 1  ( 4  graded stone aggregate 20 mm and down 
+gauge. : 2 coarse sand : 1 cement )  
+ 
+8 
+Lintel 
+2: 1 : 1  ( 4  graded stone aggregate 20 mm and down 
+gauge. : 1 coarse sand : 1 cement )  
+ 
+9 
+Plaster 
+Providing and applying 15-20 mm cement plaster on 
+the walls of mix 1:4 ( 1 cement : 4 sand ) including 
+racking joints, curing, scaffoldings etc complete as  
+directed 
+ 
+10 
+Soft board 
+Providing & Fixing Soft Board panelling over 
+framework of 25 mm x 18 mm T.W. Frame at 600 
+mm c/c with 6mm comm. ply skimming on top & 
+12mm thk. soft board with fabric finishing over 6mm 
+ply. Complete as per drawings & directions of the 
+Architect.  25 mm x 12 mm T. W.Moulding on 
+edges(Basic Price of fabric RS:200 -/ meter). 
+ 
+11 
+Glass 
+partition 
+Providing and fixing glass partition in line, level and 
+plumb made out of 12 mm thk toughened glass of 
+Saint Gobain or equivalent approved make using 
+Anodised Aluminium U channels fixed in wooden 
+frame, with joints in-between glass should be filled 
+with clear acoustic sealant etc. all complete as per 
+architects instructions. All exposed edges of the glass 
+shall be machine polished. The rate of glass shall be 
+inclusive of chamfering, cutting of glass, joint filling, 
+octroi, loading - unloading, delivery on site and taxes 
+thereon. etc.  
+ 
+12 
+Glass door 
+Providing & fixing 12 mm thk Toughened Glass 
+door with top & bottom Patch Fittings  Floor Spring, 
+Door Stoppers, Handle -2100x1200 mm  Bottom 
+Locks and all required accessories. 
+ 
+13 
+Vinyl 
+Flooring 
+Providing and fixing 2mm thick Roll / TILED  
+formed 
+conductive 
+vinyl 
+flooring 
+make 
+of 
+Armstrong/Jarflor LG Wonder or approved make laid 
+on the existing floors  as per the drawing 
+ 
+
+
+--- Page 26 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 26 
+ 
+14 
+Modular 
+Ceiling 
+Providing and fixing Mineral Fibre Board 
+modular Ceiling in Armstrong / Nitobo or 
+Equivalent  make as approved by Architect in  
+Mineral textured tiles with approved surface pattern 
+of size 600 mm X 600 mm  having  Noise reduction 
+Co-efficient 0.7,  light reflection over 75%, Relative 
+Humidity 95%, Suspension system of Silhouette 
+reveal profile grid system with 15 mm wide flanges 
+incorporating a 3 or 6 mm central recess of colour all 
+white or all black or white with black as directed, 
+Silhouette main runners and cross tees to have mitred 
+ends and "birds mouth" notches to provide mitred 
+cruciform junction, fixed to the structural soffit by 
+Butterfly clip hangers suspension wires & anchor 
+fasteners as per the manufacturer's specification, 
+Suspension wires to be provided at every 600 mm c/c 
+with two nos of ties on each anchor fastener, 
+Perimeter trim of Trulok wall angle in white colour 
+secured to wall at 450 mm maximum centres. 
+ 
+15 
+Gypsum 
+ceiling 
+Providing and fixing Gypsum False Ceiling of 
+India Gypsum make which includes G.I. Perimeter 
+Channels of size 0.55 mm thick ( having One Flange 
+of 20 mm. and another flange of 30 mm and a web of 
+27 mm ) along with perimeter of ceiling, screw fixed 
+to brick wall / partition with the help of Nylon 
+sleeves and screws at 610 mm centers. Then 
+suspending G.I. intermediate channels of size 45 mm 
+( 0.9 mm thick with 2 flanges of 15 mm each )  from 
+the soffit at 1220 mm centers with ceiling angle of 
+width 25 mm X 10 mm X 0.55 mm thick fixed to 
+soffit with G.I. cleat and steel expansion fasteners. 
+Ceiling section of 0.55 mm thick having knurled web 
+of 51.5 mm and 2  flanges of 26 mm each with lips of 
+10.5 mm are then fixed to the intermediate channel 
+with the help of connecting clips and in direction 
+perpendicular to the intermediate channel at 450 mm 
+centers. All steel sections shall be marked with 
+'Gypsteel' ( Registered trademark Hologram ) . 
+ 
+Flush fitting 1200 mm long cross tees to be 
+interlocked between main runners at 600 mm centers 
+to form 1200 mm x 600 mm modules. Cut cross tees 
+longer than 600 mm require independent support. 
+600 mm x 600 mm modules to be formed by fitting 
+600 mm long flush fitting cross tees centrally 
+between the 1200 mm cross tees. Perimeter trim to be 
+( Turlock or approved equivalent ) 15 mm exposed 
+trim, with manufacturer specific sized wall angle of 
+approved color, secured to walls at 450 mm 
+maximum centers.12.5 mm tapered edge Gypboard 
+(conforming to IS 2095-1982) is then screw fixed to 
+ceiling section with 25 mm dry wall Philips screws at 
+230 mm centers. Screw fixing is done mechanically 
+with drilling machine with suitable attachment. 
+Finally tapered edges of the Gyp boards are to be 
+
+
+--- Page 27 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 27 
+ 
+jointed and finished so as to have a flush look which 
+includes 
+filling 
+and 
+finishing 
+with 
+jointing 
+compound, paper tape etc complete as per the 
+recommended practices of India Gypsum. Rate to be 
+included all kinds of profiles and cut outs required 
+for light fixtures, Speakers, Smoke detector, trap 
+doors and AC grill in the ceiling.  
+  
+  
+False ceiling dual combination of Gypsum cove with 
+600x600 mm Silhouette GI grid and mineral fibre 
+tiles complete 
+ 
+16 
+Cove band 
+Providing and Fixing Cove light / Indirect Lighting 
+in False Ceiling in 12 mm thk Gypsum Board as 
+shown in drwg. on 24 gauge G.I. frame work which 
+includes Providing & fixing G I framing as per India 
+Gypsum specifications. The Facia & upstand in 
+approved shape shall be in perfect line & level. 
+Boards to be joint & finished so as to have flush look 
+including filling & finishing edges with jointing 
+compound paper tape suitable for receiving paint. 
+complete as directed by Architect. ceiling should be 
+free from any undulation. 
+ 
+17 
+Viewing 
+Glass 
+Window  
+Wood Panelling with 19mm ply finishing with 1mm 
+laminate photo frame type with 10 mm toughened 
+glass of Saint Gobain or equivalent complete  
+ 
+18 
+signages 
+4"x14" metaalic board signages 
+ 
+19 
+Lustre 
+painting 
+Providing and applying three coats of Luster paint of 
+desired shade, of Asian / Berger / ICI paints or 
+equivalent on internal wall surfaces wherever 
+required at all heights to give an even and uniform 
+shade, applied over a coat of primer and putty 
+"Altek" or "Wall care" or approved equivalent as per 
+manufacturer specification fully to give a smooth and 
+even surface  including thoroughly brushing  the 
+surface free from water / mortar dropping and other 
+foreign matter and sand papered smooth, complete 
+per manufacturers specifications and as directed. 
+ 
+20  
+  
+Paint work on wall and ceiling 2 coat wall putty 2 
+coat primer and 2 coat washable paint with smooth 
+finishing  
+ 
+ 21 
+  
+Existing Door frames paint and doors re-laminate 
+work  
+       8 
+22 
+  
+Wallpaper  
+150 sq ft 
+23 
+  
+Biomatrix Door Access System  
+9 
+24 
+  
+Music system for reporting room (Sony or 
+equivalent) 
+1  
+25 
+  
+Ergonomic furniture for the reporting room including 
+but not limited to: 
+  
+high quality tables with necessary modifications for 
+optimum use in reporting room(10 in number) 
+mid back chairs(10 in number) 
+Almirahs(6 in number) 
+Lockers for doctors' use(kindly consult with the 
+departmental team for any clarifications):20 in 
+
+
+--- Page 28 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 28 
+ 
+number 
+26 
+  
+15 T of ductable air conditioning for the server room, 
+reporting room and disaster recovery room(Brands: 
+Bluestar/Carrier) 
+  
+27 
+  
+Speech magic/Dragon voice recognition system with 
+hardware and licences 
+15 pieces 
+of 
+hardware 
+with 
+provision 
+for 15 
+concurrent 
+users and 
+40 user 
+voice 
+profiles  
+ 
+To upgrade lighting according to latest ACR guidelines for reporting room currently being used 
+in the department. 
+To furnish the current reporting room of the department so as to optimize workflow and 
+reporting with maximal users: 
+ 
+01 
+Work 
+station with 
+pedestal 
+Providing and making the Work stations table 
+600mm deep in 19mm thk commercial plywood 
+of approved make  with necessary verticals / 
+supports as per the drawings and detail. The table 
+shall finished from all sides with the 1 mm Thk. 
+Laminate of approved make. The Table Top shall 
+be provided with powder coated wire manager and 
+complete the same all per the drawings and details 
+and as directed. measurement will count from 
+front height and length 
+ 
+7 in number 
+to be used in 
+the existing 
+reporting 
+room of the 
+department 
+02 
+Overhead 
+storage 
+Providing and making the Over Head Storage 
+600mm deep in 19mm thk commercial plywood 
+of approved make with necessary verticals / 
+supports as per the drawings and detail. The table 
+shall have finish from all sides with the 1 mm 
+Thk. Laminate of approved make. The Table Top 
+shall be provided with powder coated wire 
+manager and complete the same all per the 
+drawings and details and as directed. measurement 
+will count from front height and length 
+ 
+To be used in 
+the room to 
+be used as  
+departmental 
+library(area 
+approximately 
+100 sq feet) 
+03 
+ Racks 
+for 
+books 
+ 
+ 
+ to be used for 
+book storage 
+as per 
+discussion 
+with the 
+departmental 
+committee 
+ 
+ 
+2.      Electrical 
+:  
+  
+  
+  
+
+
+--- Page 29 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 29 
+ 
+SI. No. 
+ITEM Description 
+UNIT QUANTITY 
+  
+(Internal Electrification)  
+  
+  
+1 
+Point Wiring and Sub-mains  wiring 
+  
+  
+1.1 
+Wiring for light point/plug points in following groups with 
+3x1.5 Sq. mm PVC insulated FR flexible copper conductor 
+wire of 1100 volts grade drawn in 2 mm thick MS conduit on 
+surface of the wall, in the wallar in ceiling false ceiling with 
+continuous run. 
+  
+  
+a 
+Primary Light point controlled by one 6A SP switch 
+no 
+10 
+b 
+Same as item 1.1 above but secondary point i.e. points to be 
+looped with primary point 
+no 
+5 
+1.2 
+Wiring for 5 pin 6 A light plugpoints with 2 x 1.5 sqmm PVC 
+insulated FR flexible copper conductor wires of grade 1100 V 
+grade drawn in 2mm thick MS conduit pipe recessed in wall/ 
+ceiling or surfaced on wall / ceiling with continuous run of 1.5 
+Sq.rnm PVC insulated FR flexible green colour copper 
+conductor for earthing the third pin of socket outlet including 
+metal box with modular type switch and socket complete as 
+required. 
+  
+  
+a 
+(1 Socket + 1 switch)  
+no 
+30 
+1.3 
+Wiring for 6 pin, 6/16 A power plug outlets with 2C X 4.0 Sq. 
+rnm PVC insulated FR flexible copper conductor wires of 
+1100 Volts grade drawn in 2 rnm thick PVC conduit pipe 
+recessed in wall/ceiling or surfaced on wall/ceiling/ false 
+ceiling with continuous run of 2.5 Sq.rnm PVC insulated FR 
+flexible green colour copper conductor for earthing the third 
+pin of socket outlet including metal box with modular type 
+switch and socket complete as required. 
+  
+  
+a 
+One outlets per circuit.  
+no 
+20 
+1.4 
+Wiring for 16A NEEMA type plug & socket. single phase 
+outlets with 2 X 4.0 Sq. mm PVC insulated FR flexible copper 
+conductor wires of 11 00 Volts grade drawn in 2mm thick 
+PVC conduit pipe recessed in wall/ceiling or surfaced on 
+wall/ceiling.with continuous run of 2.5 Sq.rnm PVC insulated 
+FR flexible green colour copper conductor for earthing the 
+third pin of socket outlet including metal box with modular 
+type switch and socket complete as required. 
+  
+  
+a 
+One outlet per circuit.  
+no 
+4 
+1.5 
+Wiring for 25/32 A weather proof type plug & socket. single 
+phase outlets with 2 X 6.0 Sq. mm PVC insulated FR flexible 
+copper conductor wires of 11 00 Volts grade drawn in 2mm 
+thick PVC conduit pipe recessed in wall/ceiling or surfaced on 
+wall/ceiling. 
+  
+  
+a 
+One outlet per circuit. 
+no 
+10 
+  
+  
+  
+  
+2 
+DISTRIBUTION BOARDS 
+  
+  
+
+
+--- Page 30 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 30 
+ 
+2.1 
+Supply, installation, testing and commissioning of wall 
+mounted sub distribution boards of 16 SWG sheet steel 
+cubical design, double door, dust and vermin proof suitable 
+for operation on 415 volts, 50 Hz three phase A.C. supply 
+system, IP-42 protection 
+  
+  
+2.1.1 
+Lighting Distribution Board:  
+  
+  
+  
+6Way TPN-DB with 1 No 63A TPN MCB for incomer and 24 
+No SP MCB  
+No 
+4 
+  
+  
+  
+  
+  
+MAIN DISTRIBUTION PANEL AS per the Drawing  
+  
+  
+  
+Incomer  
+  
+  
+  
+2 No 200A TPN Change Over 3way & VAF  
+  
+  
+  
+Out Going  
+  
+  
+  
+200A Alu Busbar  
+  
+  
+  
+4 N 63A TPN MCB  
+  
+  
+  
+10 No 32A DP MCB  
+  
+  
+  
+Complete 1 Set  
+SET 
+1 
+3 
+Fittings and fixtures 
+  
+  
+3.1 
+Installation testing and commissioning of following fixtures 
+complete 
+with 
+special 
+electronic 
+low 
+loss 
+ballast 
+lamps/LEDs/tube/condenser/starters/louvers/reflectors/covers 
+etc & making connections from light point outlet to the fixture 
+with suitable size 
+  
+  
+a 
+34W 600x600 LED Light Make (Philips/ Havels/Wipro) 
+No 
+15 
+b 
+15W Led Light Make (Philips/ Havels/Wipro) 
+No 
+4 
+c 
+600x600 36W led lighting  
+No 
+12 
+  
+Dimmer controlled 10W led spot light  
+No 
+10 
+4 
+Computer system wiring 
+  
+  
+4.1 
+Supply and drawing of CAT 6e Lan cable AMP in the floor 
+trunking/conduit including connections etc. complete as 
+required compatible  with ferruls for numbering  
+RM 
+305 
+  
+25mm MS conduit including wall chipping laying and fixing  
+RM 
+100 
+4.2 
+Supply and fixing of the I/O RJ 11 of AMP/ AVIAVA make 
+on the modular face plate including termination of the CAT6e 
+cable including supply of the face plate with additional space 
+for voice RJ6  
+  
+  
+a 
+One  data per point 
+no 
+20 
+b 
+One voice point 
+no 
+10 
+5 
+Earthing Protection 
+  
+  
+5.1 
+Chemical Earthing with copper electrode 80x300mm lockable 
+heavy duty cover plate suitable for fire Tender, watering. 
+  
+  
+a 
+for UPS & Panel 
+no 
+2 
+5.2 
+Earthing Strips and wires 
+  
+  
+5.2.3 
+Supplying and installation of 35mm 1C copper wire  
+RM 
+100 
+6 
+Telephone wiring 
+  
+  
+6.1 
+Supplying and drawing PVC / Polythene insulated and PVC 
+sheathed unarmoured telephone cable with 0.5 mm dia. 
+Tinned/ annealed copper conductor taped & confirming to 
+ITD specification S/WT-129C of approved make in existing 
+surface or recessed conduit/casing. 
+  
+  
+
+
+--- Page 31 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 31 
+ 
+a 
+5 pair 
+RM 
+100 
+7 
+CABLES 
+  
+  
+7.1 
+Providing and laying in open with clamps, or in existing 
+trenches or in existing cable trays armoured aluminium/Alu 
+conductor FRLS XLPE armoured of following sizes. The job 
+involves cable end termination on both ends with compression 
+type brass glands and crimping type thimbles of appropriate 
+sizes as required all complete. (for single run only) 
+  
+  
+b 
+3.5 core 95 sqmm  
+RM 
+100 
+  
+6 Pair armoured Fiber Optics cable  
+RM 
+100 
+  
+fibre patch cord  
+No 
+12 
+  
+FSP  
+No 
+2 
+  
+Fibre laying and jointing charges  
+No 
+1 
+9 
+Fire Separation System Gas Based for Data Center 
+Qty. 
+1 
+10 
+Very Early Smoke Detection Apparatus (VESDA) for 
+Data Center room 
+Qty. 
+1 
+11 
+Water Leak Detection Apparatus for Data Center room 
+Qty. 
+1 
+  
+  
+  
+  
+3.  
+    Access 
+Control 
+system for 
+Rodents 
+  
+  
+  
+Sl.No 
+Description 
+Qty 
+Unit 
+1 
+ACCESS CONTROL SYSTEM  
+  
+  
+1.1 
+Providing and fixing of the PVC insulated, shielded and 
+sheathed 4 core 24 AVG stranded copper conductor control 
+cabling for access control system in 25 mm PVC conduits 
+30 
+rm 
+1.2 
+Supply, installation, testing, commissioning, training of 
+software, programming etc of PROXIMITY Based Multi 
+Door Access Control System ( SO 9001, CE & FC approved). 
+  
+  
+1.2.1 
+Microprocessor Based Fully Software Controlled 2 Door 
+Controller with LCD Display & Key-Pad + Power Supply 
+built in Battery Back-up. 
+1 
+no 
+1.2.2 
+Proximity Reader.(RFID) 
+2 
+no 
+1.2.3 
+Prox Card with ID Sticker & Necklanyard. 
+10 
+no 
+1.2.4 
+Electromagnetic Lock. 
+2 
+no 
+1.2.5 
+Exit Switch. 
+2 
+no 
+1.2.6 
+Access Control & Time Attendance Software + Signal 
+Converter. 
+1 
+no 
+2 
+RODENT CONTROL SYSTEM  
+  
+  
+2.1 
+VHFO Master Console 
+1 
+no 
+2.2 
+Transducers 
+2 
+no 
+2.3 
+Stand Bracket 
+2 
+no 
+2.4 
+Junction box for Transducers 
+2 
+no 
+2.5 
+Connecting Cables 
+1 
+Lot 
+ 
+ 
+
+
+--- Page 32 ---
+Tender for PACS-RIS 
+Admn/Tender/27/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 32 
+ 
+Ceiling mounted LCD 
+projector for use during 
+interdepartmental 
+discussions and UG/PG 
+teaching 
+Specifications 
+ 
+The item should meet the requirement for its optimum use for 
+academic teaching. Model may be finalised after discussion with 
+Institute‟s IT team and department of Radiology. 
+HD resolution 
+Full 
+White and colour light output 
+4000 lumens or more 
+Contrast ratio 
+2000:1  
+Projection size 
+Projection should be possible on a 10 feet(L) x 6 feet(W) screen 
+4K enhancement technology is 
+a must 
+ 
+Ease of set up with motorised 
+lens adjustment 
+ 
+ 
+      Motorized Projection Screen with Remote 
+The item should meet the requirement for its optimum use for academic teaching. Model 
+may be finalised after discussion with Institute‟s IT team and department of Radiology. 
+White matte fabric with anti UV coating 
+Back Side Black Coated and Four Side Black Masking Border for Absorbing Extra Light falling on the 
+screen. 
+Actual Viewing Are 65" Height & 116" Width with 133" Diagonal In 16:09 Aspect Ratio 
+Five years Warranty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,39 @@
+--- Page 15 ---
+ 
+AIIMS Rishikesh tender Enquiry No. T.No 24/Ultrasound/Pulmonary/558/2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 15 
+ 
+  
+Technical Specifications for Portable Ultrasound for Department of Pulmonary 
+ 15-inch high definition LED monitor with articulating arm 
+ Compact and portable design 
+ Two active transducer sockets available for a wide range of applications 
+ Duplex, Colour Doppler, DPI, PW Doppler, tissue harmonic imaging, 𝜇-scan speckle reduction 
+imaging, compound imaging, trapezoidal imaging 
+ 13 compatible probes: Linear, Convex, Micro-convex, Endocavity, Phased array, Intraoperative 
+and Volumetric probe. 
+ ECG functionality 
+ Full patient database and image management solutions: DICOM 3.0, AVI/JPG, USB 2.0, HDD, PDF 
+report 
+ Advanced colour Doppler System 
+ Colour flow mode 
+ Power Doppler 
+ Pulsed wave  
+ Spatial Compound Imaging 
+ Continuous Wave 
+ Panoramic Imaging 
+ Smart patient file management: Easy to retrieve patient image and data at any time; 
+ Complete DICOM system: Save, Storage Commitment, MPPS, Print, Worklist, advanced file 
+transmission/management; 
+ Full data solutions: 320G hard drive, USB ports, VGA, S-video, DVD RW, LAN port, thermal printer 
+support; 
+ Flexible user-defined function, function keys, icons, measurement, report, comment, layout 
+ Support external USB laser/jet printer 
+ Convex Array 3CA (1-7 MHz) 
+ Adult Phased Array 2P2 (1-6 MHz) 
+ Linear Array L742 (4-16 MHz) 
+ Docking Cart 
+ It should be certified by ISO/BIS/ Equivalent. 
+
+

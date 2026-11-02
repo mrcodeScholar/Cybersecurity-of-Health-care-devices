@@ -1,0 +1,520 @@
+--- Page 16 ---
+NIT No. : AIIMS/R/CS/ Equipment_for_Pathology_Department /2/2017/A 
+ 
+ 
+Page 16 of 25 
+ 
+ 
+ANNEXURE-I 
+ 
+Technical Specification for Equipment of Pathology & Lab Medicine  
+ 
+Schedule-1 
+AUTOMATED COVERSLIPPER (Qty: 01 No.) 
+Sr 
+No. 
+Technical Specification 
+1 
+Should produce slides with superior optical quality for reliable long-term storage.  
+2 
+Should be capable of cover slipping more than 350-450 slides per hour.  
+3 
+Should be able to handle slide racks of various manufacturers and should be adaptable to 
+individual laboratory requirements  
+4 
+Should be Compact bench top unit & should work with high-quality standard coverslips in 
+various sizes from 22-24 mm x 40-60 mm 
+5 
+Should have sensor for broken coverslips to be detected by sensor. 
+6 
+Should be used with common range of mounting media including mounting with wet 
+mountants or film cover slippers. 
+7 
+Should be equality useful for histopathology and cytopathology slides. 
+8 
+Should have Suction cup filter system for automatic cover slipping. 
+9 
+Should be equally useful for histopathology and cytopathology slides  
+10 
+Should have permanent self monitoring function with acoustic and optical instrument 
+status indications like e.g. 'Add coverslips', 'Coverslipping completed'. 
+11 
+Should be highly reliable, cause minimum wastage and form a fully automated walk-away 
+system.  
+12 
+Should have an inbuilt system for fume extraction so as to minimize exposure of lab 
+personnel  
+13 
+Should be capable of being integrated with automated stainers of same manufacturer. 
+14 
+ Appropriate work bench/ stand should be provided with the instrument. 
+15 
+Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+16 
+UPS backup for the duration of one cycle of processing to be provided. 
+17 
+Five (5) years warranty and Five (5) years CMC. 
+18 
+An integrated system with schedule 2 will be preferred  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/ Equipment_for_Pathology_Department /2/2017/A 
+ 
+ 
+Page 17 of 25 
+ 
+ 
+Schedule-2 
+AUTOMATED SLIDE STAINER (Qty: 01 No.) 
+AUTOMATED SLIDE STAINER (Qty: 01 No.) 
+Sr 
+No. 
+Technical Specification 
+1 
+High throughput robotic stainer for multiple staining applications and should run in 
+continuous operation. 
+2 
+Simultaneous staining of various different staining protocols including Haematoxylin-
+eosin and PAP stain should be available. 
+3 
+Solvent resistant touch/ keypad screen to monitor the staining process by using 
+graphical process representation. 
+4 
+The equipment should have at least 26 reagent stations and 3 - 4 wash stations of 300 - 
+600ml capacity. 
+5 
+The equipment should be programmable for 15-20 programs of up to 25 steps each with 
+incubation time setting from 0 sec to 99 minutes 59 seconds. 
+6 
+Integrated ovens, minimum of one with temperature setting from 30˚C to 65˚C for 
+optimal slide drying is required. 
+7 
+Continuous loading and unloading of slides via rack entry and exit door should be 
+available. 
+8 
+Should have Suction cup filter system for automatic cover slipping. 
+9 
+Specimen slide throughput of at least 200 slides per hour upto 600 slides per hour is 
+required. 
+10 
+Agitation programmable from 0 to 20 times or continuous should be available. 
+11 
+Programmable up and down movement of robotic arm should be available. 
+12 
+Fume extraction fan with charcoal filter to remove hazardous fumes should be 
+available. 
+13 
+Gentle vibration to slide rack during lifting to reduce carry over contamination should 
+be available. 
+14 
+Audible warning buzzer in case of any error during operation should be a feature of the 
+equipment. 
+15 
+Should be capable of being integrated with automated coverslipers of same 
+manufacturer. 
+16 
+Document supporting track record and satisfactory performance from institutes of 
+national importance (minimum one) should be provided. 
+17 
+Appropriate work bench/ stand should be provided with the instrument. 
+18 
+UPS backup for the duration of one cycle of processing to be provided. 
+19 
+Support for induction and follow up training of technical staff, on-site standardization 
+and troubleshooting of procedures/ tests to be provided by the company. 
+20 
+Five (5) years warranty and Five (5) years CMC. 
+22 
+An integrated system with schedule 1 will be preferred 
+ 
+ 
+ 
+
+
+--- Page 18 ---
+NIT No. : AIIMS/R/CS/ Equipment_for_Pathology_Department /2/2017/A 
+ 
+ 
+Page 18 of 25 
+ 
+Schedule-3 
+BONE CUTTER (Qty: 01 No.) 
+BONE CUTTER 
+Sr.No 
+Technical Specification 
+1 
+The system should be an Efficient, Economical & Precise Instrument for Cutting 
+Bone Specimens.  
+2 
+ The system should be lightweight, easy to clean and maintain.  
+3 
+The system should be portable table-top unit with a small footprint, approx- 17” 
+x 13”.   
+4 
+The system should have water-cooled blade to reduce dust and particles (using 
+Cooling System).  
+5 
+The system should have Saw to cut bone to specimens up to 3” in height; blade 
+guide should be easily adjusted. 
+6 
+ The system should have strong blade that can cut ultra-thin bone slice.  
+8 
+The system should be constructed of aluminum and stainless steel for durability.  
+9 
+ The system should be 4 blade types and I set of  accessories should be available 
+to provide with a versatile lab bone cutting station. 
+10 
+ System should include Foot Pedal Switch, Femoral Head Holder, Small Bone 
+Holder, Saw Blade with Standard Teeth, Saw Blade with Fine Teeth, Saw Blade 
+with Heavy Duty Teeth, Saw Blade Diamond, Splash Guard Cover, Cleaning Stone 
+for Diamond Blades.   
+11 
+Approx Weight: 8 Kgs   
+12 
+Document supporting track record and satisfactory performance from institutes 
+of national importance (minimum one) should be provided. 
+13 
+Appropriate work bench/ stand should be provided with the instrument. 
+14 
+To be supplied with Branded computer system with Core i5 processor, 4GB RAM, 
+500GB HDD, DVD R/R, 21” or better LED Monitor, Genuine Windows 8 or more, 
+A4 size laser printer and appropriate bar code reader. 
+15 
+UPS backup for the duration of one cycle of processing to be provided. 
+16 
+Support for induction and follow up training of technical staff, on-site 
+standardization and troubleshooting of procedures/ tests to be provided by the 
+company. 
+17 
+Five (05) year warranty and Five (05) years CMC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 19 ---
+NIT No. : AIIMS/R/CS/ Equipment_for_Pathology_Department /2/2017/A 
+ 
+ 
+Page 19 of 25 
+ 
+ 
+Schedule-4 
+FULLY AUTOMATED CAPILLARY ELECTROPHORESIS SYSTEM FOR HEMOGLOBIN & 
+PROTEIN ANALYSIS (Qty: 01 No.) 
+S.NO. 
+Technical Specification 
+1 
+The System should be able to perform Hemoglobin Electrophoresis with whole 
+blood from primary tubes as well as quantification of separated Hemoglobins. 
+2 
+The system should be able to perform Protein Electrophoresis and quantification 
+of different serum proteins. 
+3 
+The system should be capable of detection, characterization and quantification of 
+monoclonal proteins (Immunotyping) in human serum. 
+4 
+The system should be fully automated electrophoresis system based on Capillary 
+Electrophoresis with atleast 2 simultaneous migrations (of Protein 
+electrophoresis, Hb electrophoresis, Immunotyping) with complete walk away 
+technology including migration and quantification. 
+5 
+The system should use deuterium lamp with optical fibres for emission and 
+reception. 
+6 
+The Systen should have cap piercing  capacity for improved work flow and 
+poerator safety 
+7 
+The system should accept all types of samples (sample cups or primary tubes) 
+with barcode reader. 
+8 
+The through put of the system should be at least 
+ i.     Hemoglobin – 8 samples/ hour 
+ii.     Protein – 20 samples/ hour 
+iii.     Immunotyping – 2 samples/ hour 
+9 
+The system should perform direct analysis on whole blood for Hb electrophoresis 
+with automatic red cell hemolysate preparation. 
+10 
+The system should not use any staining procedures and should not use any 
+densitometer for quantification. 
+11 
+Software should be provided for automatic curve analysis with long-term storage 
+capacity for results. 
+12 
+Document supporting track record and satisfactory performance from institutes 
+of national importance (minimum one) should be provided. 
+13 
+Appropriate work bench/ stand should be provided with the instrument. 
+14 
+The system should have LIS capability. 
+15 
+To be supplied with Branded computer system with Core i5 processor, 4GB RAM, 
+500GB HDD, DVD R/R, 21” or better LED Monitor, Genuine Windows 8 or more, 
+A4 size laser printer and appropriate bar code reader. 
+16 
+Start-up kit for at least 100 tests should be provided free of cost. 
+17 
+UPS backup for the duration of one cycle of processing to be provided. 
+18 
+Support for induction and follow up training of technical staff, on-site 
+standardization and troubleshooting of procedures/ tests to be provided by the 
+company. 
+19 
+Five (5) years warranty and Five (5) years CMC. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 20 ---
+NIT No. : AIIMS/R/CS/ Equipment_for_Pathology_Department /2/2017/A 
+ 
+ 
+Page 20 of 25 
+ 
+Schedule-5 
+TEACHING MICROSCOPE (Qty: 01 No.) 
+Sr No. 
+Technical Specification 
+1 
+Optical system: Infinity corrected system 
+2 
+Focus: Vertical stage movement 25mm or more per coarse Stroke, Vertical stage movement 
+1micron or less per Fine stroke. 
+3 
+Illuminator: Lamp House for LED with connecting cable having life Span of 20,000 hrs or 
+more. 
+4 
+Revolving nosepiece: Reversed Sextuple revolving nosepiece.  
+5 
+Objectives: 
+plan 
+semi 
+apochromats 
+2x 
+or 
+2.5x/0.07, 
+4x 
+or 
+5x/0.15,10x/0.30,20x/0.55,40x/0.80 (spring) &100x/1.32 (spring, Oil) 
+6 
+Observation tube: Ergonomic phototube with variable viewing angle 0-35° for comfortable 
+work, with interpupillary adjustment 55-75 mm, with constant focus and beam splitter 
+positions visible/photo: 50/50%, fixed, fixed photo port for one camera. 
+7 
+Stage: Ceramic coated surface mechanical stage with right/left hand 
+8 
+Low drive control with left hand for two specimens 
+9 
+Condenser: Swing out condenser usable for 2X-100X 
+10 
+High Definition Digital Camera: HD Microscope Camera with Software  
+- Digital color camera with CMOS sensor (1/2)" 
+- Stand alone operation without any PC should be possible  
+- High definition live image 1920x1080p, 30fps  
+- JPG images with max.10 Mpixels  
+- MP4 movie clips with max. 2 Mpixels  
+- Camera control via computer (PC mode) or via remote control (HD mode)  
+- Capture of JPGs or MP4s directly to SD card or to PC using suitable software   
+- USB2 or better connection, compatible with PCs and notebooks  
+- Kit should include HD camera, appropriate cable 1.5m,   HDMI cable 2.5m or more,                                                
+Power Supply 
+   applicable remote control,  SD Card, Software for use with PC or Mac  
+- c-mount adapter 0.35x & 0.55x 
+- Palm switch / Foot switch 
+Microscope, Camera, software and appropriate C-mount adaptor should be from the same 
+manufacturer to avoid parfocality issue. 
+11 
+Computer System: Branded computer system with Core i5 processor, 4GB RAM, 500 GB 
+HDD, DVD R/R, 21” or better LED Monitor, Genuine Windows 8 or more. 
+12 
+The system should be upgradeable to Fluorescence attachment with multicolour more than 6 
+filters positions on aturret at a time. 
+13 
+The equipment should be USA- FDA/European- CE approved 
+14 
+The microscope, camera and software should be from the same manufacturer 
+15 
+The microscope should be provided with digital 40” HD LED projection panel. 
+16 
+Dual Attachment: Face to face second observer attachment with Ergonomic tilting tube with 
+variable viewing angle 0-35° for comfortable work, with interpupillary adjustment 55-75 mm 
+and Eyepiece 10x/25mm with LED pointer, the observation tube should be 360° rotatable 
+17 
+There should be provision for simultaneous viewing at projector as well as microscope. 
+18 
+There should be provision for split screen display for simultaneous viewing of acquired as 
+well as live image. 
+19 
+Document supporting track record and satisfactory performance from institutes of national 
+importance (minimum one) should be provided. 
+20 
+Appropriate work bench/ stand should be provided with the instrument. 
+21 
+Suitable Online UPS with one hour backup should be provided. 
+22 
+Five (5) years warranty and Five (5) years CMC. 
+
+
+--- Page 21 ---
+NIT No. : AIIMS/R/CS/ Equipment_for_Pathology_Department /2/2017/A 
+ 
+ 
+Page 21 of 25 
+ 
+Schedule-6 
+MICROTYPING CENTRIFUGE MACHINE AND INCUBATOR FOR ANTIBODY SCREENING (Qty: 01 
+No.) 
+Sr No. 
+Technical Specification 
+A single system should comprise of a Centrifuge and Incubator for Blood Grouping and 
+compatibility testing. The Technology should be approved by DCGI/FDA. 
+1 
+CENTRIFUGE 
+I. 
+Centrifuge should be able to perform centrifugation of all the cards 
+used for Blood Grouping and Coombs testing. 
+II. 
+Centrifuge head should be able to accommodate minimum 12 cards 
+having V- shape tubes. 
+III. 
+Rpm, time and function should be displayed ( LCD ) on the screen in 
+languages including English. 
+IV. 
+Centrifuge should be microprocessor controlled. 
+V. 
+Equipment should have automatic balance control of the centrifuge 
+head. 
+VI. 
+VI. Speed of centrifuge should be 1030± 5 rpm. 
+VII. 
+RCF of centrifuge should be 85 ± 1g. 
+VIII. 
+Centrifuge time should be prefixed for 10 minutes. 
+IX. 
+System should open automatically door lock assembly after end of the 
+process. 
+X. 
+Machine should be CE Compliant. 
+XI. 
+Power 110V-240V / 50-60 Hz. 
+2 
+INCUBATOR :- 
+I. 
+Instrument should be able to incubate the Gel Cards at 370C 
+II. 
+Incubator should be able to accommodate minimum 24 Cards. 
+III. 
+Incubator time should be programmable. 
+IV. 
+Should be microprocessor controlled. 
+V. 
+Power : 110V-240V / 50-60Hz. 
+VI. 
+Operational temp : 5 to 450C 
+VII. 
+Temperature should be fixed at 370C ± 10C 
+VIII. 
+Instrument should be CE Compliant.   
+IX. 
+Incubation time should be displayed on the screen. 
+X. 
+Compatible for the incubation time set up from 1 min to 60 min. 
+3. 
+The company should provide following combinations of cards / Reagents: 
+I. 
+Saline / Coombs cards with 6'V' bottom shaped micro tubes containing 
+polyspecific AHG for Coombs testing, 
+II. 
+AT, DAT based on Sephadex Gel technology. 
+III. 
+The technology should not have any washing step and should avoid non 
+specific results. 
+IV. 
+Sephadex Gel based Monospecific DAT to pic up lgG, lgA, lagM, C3c, C3d 
+on the red cells. 
+V. 
+Gel based Forward/Reverse Blood grouping cards with minimum 6'V' 
+shaped bottom tubes and should able to pick up (DVI) phenotypel. 
+VI. 
+The company should offer complete panel of ready to used liquid red 
+cell reagents for antibody screening & identification including the Anti-
+D prophylaxis panel for Rh negatives. 
+VII. 
+The company should offer Sephadex Gel based Rare Antigen cards 
+(complete profile as well as single antigen cards) 
+VIII. 
+Elution kit for eluting the auto antibodies attached to RBC's. 
+IX. 
+The company should have its own panel of cards, cells and reagents for 
+quality control. 
+
+
+--- Page 22 ---
+NIT No. : AIIMS/R/CS/ Equipment_for_Pathology_Department /2/2017/A 
+ 
+ 
+Page 22 of 25 
+ 
+ 
+4 
+Provision for integration with reader for gel cards should be available. 
+5 
+The quipment quoted should be CE Certified or USFDA approved. 
+6 
+Six Technical Manual in English with operational details should be provided 
+with each unit. 
+7 
+Document supporting track record and satisfactory performance from 
+institutes of national importance (minimum one) should be provided. 
+8 
+Appropriate work bench/ stand should be provided with the instrument. 
+9 
+Start-up kit for at least 100 tests should be provided free of cost. 
+10 
+UPS backup for the duration of one cycle of processing to be provided. 
+11 
+Support for induction and follow up training of technical staff, on-site 
+standardization and troubleshooting of procedures/ tests to be provided by 
+the company. 
+12 
+Five (5) years warranty and Five (5) years CMC. 
+ 
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------- 
+(Signature & Stamp of the bidder)  
+ 
+Note- Please sign each page of document including terms & conditions & tender 
+ 
+ 
+ 
+ 
+ 
+
+

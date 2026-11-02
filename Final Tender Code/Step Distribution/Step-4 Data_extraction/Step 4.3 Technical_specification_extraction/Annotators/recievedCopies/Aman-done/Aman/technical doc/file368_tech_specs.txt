@@ -1,0 +1,67 @@
+--- Page 10 ---
+Tender for Fluorometer 
+Admn/Tender/23-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Fluorometer 
+ 
+1. Combines Fluorescence, Microvolume UV-Vis and Cuvette-based 
+absorbance in a single instrument 
+2. Full spectrum UV-Vis analysis (190 to 840 nm) 
+3. Four LED's tailored to offer a broad choice of fluorescence assays 
+4. Stand alone system with Ethernet, Wi-Fi and USB connectivity – 
+no separate PC or software installation is required 
+5. Automated, optimum pathlength selection for each UV-Vis 
+measurement 
+6. Hi-Definition, glove-compatible touchscreen 
+7.    Lowest 1µL detection limit of 0.5 pg/µL dsDNA  
+8. Ultra high absorbance- up to 37,500 ng/µL ds DNA 
+9. Should be able to quantify with accuracy & precision dsDNA, ss 
+DNA, RNA, miRna & proteins 
+ 
+01  
+
+

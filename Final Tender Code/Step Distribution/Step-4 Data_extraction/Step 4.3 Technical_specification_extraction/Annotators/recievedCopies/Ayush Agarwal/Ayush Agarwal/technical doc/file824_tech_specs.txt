@@ -1,0 +1,93 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Patho/19/187/OT/ 
+ 
+Page 19 of 23 
+ 
+ANNEXURE-I 
+Technical Specification for ELISA Reader Cum Spectrophotometer 
+1. Should be a spectral scanning unit for UV-visible-Near IR wavelength range, 
+with dedicated cuvette port (with no extra attachments) and should be able to 
+read 96 & 384 micro well plate format. 
+2. Should work as a standalone system without computer and be able to run with 
+computer controlled software.  
+3. Analysis software should be supplied with unlimited user license.  
+4. Instrument should be able to read at least 16 low volume samples of 2µl-10µl 
+using low volume analysis plate in case of DNA/ RNA purity & concentration 
+check indirectly with standalone mode. 
+5. System should be able to run in stand-alone mode using 7 inch or more touch 
+screen for quick usage.  
+6. The instrument should have a memory of 90 or more inbuilt protocols in stand-
+alone mode.  
+7. The system should have communication options, at-least 4 USB ports to PC/ 
+printer and other data transfer devices and 1 ethernet port. Should be able to 
+connect Wi-Fi dongle. 
+8. The system should have facility to access data via cloud-based capabilities, 
+wired or wireless network connection. 
+9. Instrument should be able to provide the wavelength range from 200nm to 
+1000nm with 1 nm steps.   
+10. Performance specifications should be as: Bandwidth:  < 2.5 nm or better and 
+Xenon flash lamp life should be for 10 million 96 well microplates or more.  
+11. The instrument should have inbuilt incubation and linear shaking options for 
+longer kinetic assays etc. 
+12. Incubation temperature should be from ambient +2o C to +45o C. 
+13. Spectral scanning speed from 200 to 1000 nm should be 10 sec. or less.  
+14. Measurement speed should be 6 sec. for 96 well and 10 sec. for 384 well plate. 
+15. System should have power save function for reduced energy consumption when 
+the instrument is ‘on’ but not in use.  
+16. Visualize data in both numerical mode and heat-map/ virtual image of plate. 
+17. Data analysis software should be provided with the system & software should 
+allow multiple absorbance /photometry steps in a single program to 
+differentially analyse assays, including plate out option during the program to 
+add required compounds and then continue the program for further analysis. 
+18. Should be database-based software to run backups of all data & restore back 
+up data (in case of hardware failure of original computer). 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Patho/19/187/OT/ 
+ 
+Page 20 of 23 
+ 
+19. Should have spectral scanning facility for all 96 samples or 384 samples & 
+should be able to view in single graph plot.  
+20. Should be able to export data as pdf, excel, xml and note format. 
+21. Should have CE or US FDA or BIS certification. 
+22. The calibration, IQ, OQ and PQ of the instrument should be performed at the 
+time of installation and certificates should be provided. 
+23. To be supplied with Branded computer system with at least Core i7 processor, 
+8GB RAM, 1TB HDD, DVD R/R, 21” or better LED Monitor, Genuine Windows 
+10 or more, A4 size laser printer, appropriate bar code reader with preinstalled 
+compatible software. 
+24. UPS backup adequate for the duration of one cycle of processing should be 
+provided. 
+25. Appropriate anti-vibration table with granite top of standard make should be 
+provided to accommodate the instrument, computer system and accessories.  
+26. Document supporting track record and satisfactory performance from institutes 
+of national importance (minimum one) should be provided. 
+27. Support for induction and follow up training of technical staff, on-site 
+standardization and troubleshooting of procedures/ tests should be provided by 
+the company.  
+28. Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

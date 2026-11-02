@@ -1,0 +1,62 @@
+--- Page 19 ---
+ 
+Tender Enquiry No. F.No.24/ Optho/196(VIII)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+Nerver fibre analyzer (GDx with Vcc) 
+Technical Specification: – 
+ 
+General 
+ Scanning Laser polarimetry (SLP) imaging 
+technology 
+ Non-mudriatic operation 
+ Window R XP/SP3/operating system/CE 
+ Exports files in PDF/TIFF/JPEG/HTML/SVG 
+ Availability of connectivity with review software 
+& upgradable. 
+ Manual/ Automatic mapping  
+Acquisition 
+ Touch Screen/mouse-driven operation/Joystick 
+ Auto-Focus for optimized imaging position 
+ Manual refraction entry 
+ Live Fundus View prior to scan acquisition 
+ Optional automatic Pupil alignment and Touch 
+Screen acquisition 
+Analysis 
+ VCC available as  analysis mode 
+ GPA available with review software 
+ RNFL Normative database-VCC/ECC 
+ RNFL Normative database- VCC 
+ Nerve Fiber Indicator (NFI)- VCC/ECC 
+Field of view 
+Processor 
+40x20 degrees 
+200 MHz to 1 GHz processor 
+Video monitor 
+6” - 8” screen with 800x600 resolution 
+Minimum pupil diameter 
+2mm 
+Ametropia correction 
+-10 to-13dioptres  to +5 to +8 dioptres 
+Weight 
+40- 50lbs. 
+Media 
+DVD- RW 
+Peripherals interface 
+3- 4USB ports 
+Electrical requirements 
+100-240 V, 50/60 Hz 
+CMC/AMC 
+ 
+ 
+ 
+Demonstration  
+Comprehensive Guarantee/Warranty for 5 years and 
+there after comprehensive AMC (including all spares 
+and labour) for 5 years 
+ 
+Required 
+ 
+
+

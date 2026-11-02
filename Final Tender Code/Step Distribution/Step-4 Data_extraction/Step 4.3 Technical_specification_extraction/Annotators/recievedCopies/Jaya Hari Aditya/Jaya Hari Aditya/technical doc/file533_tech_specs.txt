@@ -1,0 +1,72 @@
+--- Page 11 ---
+Tender for Uroflometery Machine                                                                                 Admn/Tender/40/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Uroflometery 
+Machine 
+1. Flow system should have weight based Uroflow Transducer.  
+2.  The Uroflowmetry sensor should be wired to the main unit. The 
+sensor should also be operable by wireless Bluetooth mode. 
+ Should have Database Software and Uroflow Software which 
+includes extensive report printed by PC printer, possibility to 
+add investigation comments and real time on line view of the 
+investigation.   
+ Should have the facility of wireless transfer of data using 
+Bluetooth Technology with automatic start. Automatic 
+Investigation and Analysis.  
+ 
+3. The Flow Transducer should be mounted on height adjustable stand 
+having funnel and urine container for flow transducer.  
+4.  Should have a flow range of 0-50 ml/sec with volume range upto 0-
+1000 ml and the Uroflowmeter should come with the height adjustable 
+(Foldable ) Micturition chair.  
+5. Should have auto-record and zero facility for Uroflowmeter. 
+6. Should have Auto Artifact Detection.   
+7. Beakers for Uroflow -5 Nos.  
+8. Rechargeable Batteries. -8 Nos.   
+9. Charger for Rechargeable Batteries. -2Nos. 
+Bladder Scanner – Two units 
+The Bladder scanner to Measure bladder volume measurement (PVR).  
+• Ultrasound Probe Should have Volume range: 0 to 1000 ml.  
+• Accuracy ¹: +/- 10 % of reading, +/- 20 ml.  
+• Probe Frequency: 2.30-3.0 MHz.  
+• Scanning method: Sector, 180 degrees.  
+• Max detection dept: 150 mm or 230 mm.  
+• Power Supplied by USB port.  
+• Should be compatible with PC.   
+• Should have Database Software for Bladder Scanner  
+ 
+ Must US FDA and European CE approved  
+COMPUTER Should be supplied with Computer as per the following 
+configurations: 1 No.  
+Windows Based, 1 TB Hard Disk, 4GB RAM, CD/DVD-RW, i5 Processor, 19” 
+LCD Monitor and Color LaserJet Printer. 
+ 
+01 
+
+

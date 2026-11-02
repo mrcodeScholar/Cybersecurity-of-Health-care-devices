@@ -1,0 +1,34 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Trauma/296/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+1. The biphasic defibrillator cum monitor having a minimum of 8-10 inch size screen with inbuilt 
+transcutaneous pacer for reviving the cardiac functions by providing selected of electrical shocks with 
+capability to arrest arrhythmia.  
+2. Should have charging time of less than 5-7 seconds for energy of 02 to 200 Joule. 
+3. Should work on manual and automated external defibrillation (AED) mode and should have integrated real 
+time CPR feedback system. 
+4. Should be capable of doing synchronized and asynchronized cardio-version and having in-built thermal 
+printer of atleast 100mm. 
+5. Have facility for monitoring 12 lead ECG, heart rate, SpO2, NIBP & can be upgraded to CO2. 
+6. Should have SpO2 with Masimo Rainbow/Nelcor technology and can upgrade to EtCO2 : Main stream 
+EtCO2 monitoring both for intubated and non-intubated patients. 
+7. The device must have the facility to upgrade for 4 channels IBP and 2 channel temperatures. 
+8. Power Supply: The device should have the capability to work on 230V, 50Hz AC mains and with capability 
+to display the remaining run time for the battery in minutes and battery capable of delivering up to 200 
+shocks at 200 Joule. 
+9. Magnetic plugs at the device end of the power supply capable so as to avoid any electrical mishap under any 
+circumstances including direct contact with and open plug under any unforeseen emergency situation. 
+10. The device should be: 
+a. Capable of being stored and operated in ambient temperature of -20°C to +55°C for all three 
+parameters except CO2 and from 0°C to +55°C for CO2 
+b. Capable of being stored and operated in relative humidity up to 95% without condensation. 
+c. It should have a protection against high dust and water in accordance to IP55 certification. 
+d. The device must have fulfilment of the US military standard MIL STD 810G. 
+11. The device should be European CE from the notified body / US FDA certified. 
+12. The device should be airworthy certified as per international standard RTCA DO 160G. 
+ 
+
+

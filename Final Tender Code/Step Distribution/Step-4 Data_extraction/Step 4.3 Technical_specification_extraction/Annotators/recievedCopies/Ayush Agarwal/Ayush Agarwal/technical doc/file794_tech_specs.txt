@@ -1,0 +1,593 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 18 of 30 
+ 
+ANNEXURE-I  
+              Specification for Vestibular Diagnostic & Rehabilitation Lab System 
+1. Video Nystagmography (VNG):– 
+This is the most advanced technology for observation, measurement and analysis of eye movement 
+to evaluate oculomotor system, positional and caloric tests in vertigo patients. Peripheral and 
+central vestibular functions are evaluated based on the following tests:- 
+● Spontaneous nystagmus -with & without optic fixation 
+● Gaze evoked nystagmus 
+● Saccades - fixed & random 
+● Smooth tracking- with varying frequencies 
+● Optokinetic test 
+● Head shaking test 
+● Caloric test 
+● Vibration test 
+● Positional testing including Dix–Hallpike, McClure’s, Supine, Deep Head Hanging 
+● Valsalva & Hyperventilation induced nystagmus 
+● Skew Deviation 
+Features 
+● Binocular Testing 
+● High frame rate camera with mirror for precision and obstruction less eye tracking 
+● Fully integrated and computerized with real time recording of all parameters 
+● Projector image instead of traditional light bar or LCD Screen 
+● Pan Control and eye centering through the software instead of knobs on goggles to avoid 
+movement of goggle during testing  
+● Advanced eye tracking algorithm which eliminates errors due to blinking of the eye 
+● Corrects the effect of spontaneous nystagmus in caloric testing 
+● Algorithm automatically calculates the slow phase velocity and counts the number of beats 
+per second and Gain at two frequencies in smooth pursuit test 
+● Built-in fixation light and automatic calculation of directional preponderance, canal 
+paresis and fixation index 
+● Videos of the eye movement can be viewed during and after the test 
+● Detailed, customized reports automatically created in easy format 
+● Automatically generate graphs of all parameters with easy visual comparison with age 
+related norms 
+● No Adjustment required for focus or mirror setting 
+● No External Focus Knob required , all controls through software  
+● Light weight with direct USB connection to  laptop or desktop computer 
+● Easy fit magnetic cover allowing for both occluded and unoccluded measurements 
+● Equipped with soft and comfortable padded headband 
+Product Specification 
+Software Description 
+VNG  
+Horizontal Eye Tracking 
+0 to 25 degree 
+Vertical Eye Tracking 
+0 to 15 degree 
+Horizontal Resolution of  Video 
+Camera 
+640 pixels 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 19 of 30 
+ 
+Vertical Resolution of video camera 
+480 pixels 
+Sampling rate 
+30 fps 
+Image Sensor 
+CMOS  1/3 inch 
+Infrared light Wavelength 
+950nm 
+Goggle Dimensions (L x W x H) in 
+mm 
+265 x 105 x 100   
+Weight of  goggle (gm) 
+ 450 
+Software Licence 
+Perpetual 
+Certification 
+System should be BIS/ISO/European CE/USFDA 
+Approved.  
+Warranty 
+5 Years 
+Desktop Computer Specification 
+Intel core i5 
+4 GB RAM 
+Windows 10 
+Disk Space 256 GB or above 
+Screen - 1024 (horiz) x 768 (vert) at 96 dpi, 32-bit 
+color 
+ USB 2.0/3.0 Compatible 
+ 
+Components 
+Binocular VNG  Goggle, Projector ,Desktop and Software. User technical and maintenance 
+manual detailing complete maintaining schedule with routine maintenance. 
+Accessories 
+● Extra Face Foam - 1 
+● Extra Strap - 1 
+● Mirror Cleaning cloth – 1 
+2. Water  Caloric Irrigator Model WCI :- , 
+Water caloric irrigator is used in combination with a Video Nystagmography (VNG) machine for 
+caloric test. The caloric irrigator provides water at specified flow & fixed temperatures of 30 degree 
+& 44 degree. 
+ 
+Features 
+● Ergonomically designed delivery head with disposable tips  
+● Visual cues indicating beginning and end of irrigation 
+● Long 9-ft delivery hose to easily reach the patient’s ear across an exam table 
+● External water tank that holds enough water to test three patients with capacity of 2 litre 
+● Water flow can be started with delivery head switch 
+● Digital Temperature Display in software 
+● Integrated with VNG to display the temperature 
+● Auto high temperature cut-off and temperature sensor failure shutdown 
+ 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 20 of 30 
+ 
+Product specifications 
+Cold stimulus temperature 
+30°C 
+Warm stimulus temperature 
+44°C 
+Temperature accuracy 
++/- 1°C 
+Flow rate 
+500 cc per minute 
+Flow rate accuracy 
++/-50 cc per minute 
+Box Dimension 
+360 x 250 x 280 (LxWxH) mm 
+Weight  
+10kg 
+Voltage  
+220 - 240 VAC @ 50-60 Hz 
+Power Consumption 
+348 VA 
+Operating Temperature 
+15°C to 35°C 
+Operating Relative Humidity 
+<90%, 35°C 
+Warranty  
+5 Years 
+Certification 
+System 
+should 
+be 
+BIS/European 
+CE/USFDA and manufacturer should be 
+ISO Certified Approved. 
+Accessories  
+● Disposable tips – 10 
+3. Air Caloric Irrigator Model ACI :-  
+Air caloric irrigator with compressor is used in combination with a VideoNystagmography (VNG) 
+machine for caloric test. The caloric irrigator provides air at specified flow & fixed temperatures 
+of 24°C & 50°C. 
+Features- 
+● Illuminated and Magnified Otoscope with single use speculum 
+● Self-contained cooling ability 
+● Air supply with suitable compressor 
+● 2x Magnification of Otoscope 
+● Long delivery hose to easily reach the patient’s ear  
+● Digital Temperature Readout through software 
+● Trigger on delivery hose for stimulus timing activation 
+● Auto high temperature cut-off and Temperature sensor failure shut down 
+●  
+Product specifications 
+Temperature Range 
+20°C to 50°C 
+Cold stimulus temperature 
+24°C 
+Warm stimulus temperature 
+50°C 
+Temperature accuracy 
++/- 1°C 
+Time to Achieve Desired Temperature 
+< 2 minutes 
+Air Flow rate 
+8 Liters /min 
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 21 of 30 
+ 
+Flow rate accuracy 
+± 0.5 Litres per minute 
+Time Range for Irrigation 
+60 seconds 
+Box Dimension 
+250 x 280 x 250  (LxWxH) mm 
+Weight  
+8kg 
+Air Hose Length (meter) 
+2.5 
+Voltage  
+220 - 240 VAC @ 50-60 Hz 
+Power Consumption 
+390 VA 
+Operating Temperature 
+15°C to 35°C (59°F to +95°F) 
+Operating Relative Humidity 
+<90%, 35°C 
+Air Pressure 
+600 hPa to 1060 hPa 
+Warranty  
+5 Years 
+Certification 
+System 
+should 
+be 
+BIS/ISO/European 
+CE/USFD 
+ Accessories  
+● Disposable tips – 10 
+ 
+4. CranioCorpography (CCG) Model CCG:– 
+This is an investigation to evaluate the vestibulospinal reflex which is responsible for maintenance 
+of balance during posture & gait testing. The tests evaluated include:- 
+● Romberg test 
+● Tandem walking 
+● Unterburger’s test- the parameters evaluated are:- 
+○ Displacement 
+○ Sway 
+○ Angle of deviation 
+○ Body axis spin 
+Features 
+● Real time recording of parameters 
+● Fully integrated and computerized with automatic cloud based data storage 
+● High frame rate Infrared camera along with head mounted infrared LEDs for real time 
+data capture 
+● Patent pending 
+ 
+Product Specification 
+Software Description 
+CCG  
+Software Licence 
+Perpetual 
+Certification 
+System should be BIS/ISO/European CE/USFD 
+Warranty 
+5 Years 
+
+
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 22 of 30 
+ 
+Compatible Desktop Computer 
+Specification (not included in quotation) 
+Processor – Intel core i5 or above 
+RAM – 4GB or above 
+OS – Windows 10 or above 
+Disk – 256GB or above 
+Screen Resolution - 1024 (horiz) x 768 (vert) at 96 
+dpi or above 
+Display Color – 32 bit or above 
+USB – 2.0/3.0 
+ 
+ Components 
+ Roof mounted infrared camera, Wireless headband with Infrared LEDs and Software. 
+5.  Subjective Visual Vertical (SVV) Model SVV:– 
+This is an investigation to evaluate the otolith system which is responsible for perception of 
+verticality. Static and dynamic SVV are important to:- 
+● Assess otolithic disorders , chronic dizziness and compensated vestibular disorders 
+● Differentiate peripheral from central vestibular disorders 
+● Decide side of peripheral vestibular insult during the acute stage 
+● Assess effect of rehabilitation in vertigo patients 
+Features:– 
+● Fully integrated and computerized with automatic storage of data on the cloud 
+● Simple to use, no moving parts with real time data recording and analysis 
+● Gyroscope to measure head tilt of 0 and 30 degree 
+● Tubular vision goggle with motion sensor (gyroscope) to cut-off visual cues from the 
+surrounding 
+● Patent pending 
+ Tests – 
+● Static with head tilt vertical and inclined at 30 degree 
+● Dynamic Clockwise and anticlockwise moving background with head tilt vertical 
+Product Specification 
+Software Description 
+SVV  
+Goggle dimension 
+170 x 85 x 100 (L x W x H) mm 
+Goggle Weight 
+250 gm 
+Dimension of Bluetooth remote 
+120 x 37 x 20 (L x W x H) mm 
+Software Licence 
+Perpetual 
+Certification 
+System should be BIS/ISO/European CE/USFD 
+Warranty 
+5 Years 
+Compatible 
+Desktop 
+Computer 
+Specification (not included in quotation) 
+Processor – Intel core i5 or above 
+RAM – 4GB or above 
+OS – Windows 10 or above 
+Disk – 256GB or above 
+Screen Resolution - 1024 (horiz) x 768 (vert) at 96 
+dpi or above 
+Display Color – 32 bit or above 
+USB – 2.0/3.0 
+ 
+ 
+ 
+ 
+
+
+--- Page 23 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 23 of 30 
+ 
+ 
+Components 
+ Specialized Goggle with Tubular vision & Gyroscope, Bluetooth remote and Software. 
+ 
+6. Dynamic Visual Acuity (DVA) Model DVA:– 
+DVA helps in - 
+● Early detection of vestibulotoxicity 
+● Detection of peripheral vestibulopathy 
+● Rehabilitation tool and Assessing outcome of rehabilitation 
+DVA assesses the ability of the subject to maintain the image on the fovea of the retina. This 
+function of carried out by VOR. Defective VOR results in slippage of image from the fovea 
+resulting in blurring of vision. This is detected by DVA. 
+Features 
+● Computerized with rate sensor(gyroscope) for head movement to provide precise 
+recordings of head velocity and angle of head flexing 
+● Sound assistance for easy head movement 
+● Evaluation of semi-circular canal function 
+● Tests performed – Static and Dynamic visual acuity 
+● Automatic calculation of dynamic visual acuity with automatic storage of data on the 
+cloud 
+● Patent pending 
+Product Specification 
+Software Description 
+DVA  
+Software Licence 
+Perpetual 
+Certification 
+System should be BIS/ ISO/European CE/USFDA 
+Approved. 
+Warranty 
+5 Years 
+Compatible Desktop Computer 
+Specification (not included in quotation) 
+Processor – Intel core i5 or above 
+RAM – 4GB or above 
+OS – Windows 10 or above 
+Disk – 256GB or above 
+Screen Resolution - 1024 (horiz) x 768 (vert) at 96 
+dpi or above 
+Display Color – 32 bit or above 
+USB – 2.0/3.0 
+ 
+ Components 
+Head Mounted Device with 9 Axis Inertial Measurement Unit(IMU) and Software For Dynamic 
+Visual Acuity(DVA) Test 
+Accessories- 
+Extra Head Strap - 1 
+ 7. VOR and VOR Suppression Test Model VOR:- 
+VOR (Vestibulo-Ocular Reflex) and VOR Suppression (VORs) tests in patients with Dizziness to 
+identify the presence or absence of saccadic eye movement in order to simultaneously test for the 
+co-existence of vestibular and cerebellar pathology and thus diagnose vestibulo-cerebellar 
+disease. 
+Features- 
+● High-speed Infrared camera to measure & record eye movements, including the ability to  
+identify catch-up saccades. 
+● Superior 9 axis sensor that measures head movement and gives precise Head Position 
+Feedback. 
+● Lightweight design 
+● Built-in lasers that provide stimulus for calibration and VORs testing. 
+
+
+--- Page 24 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 24 of 30 
+ 
+● The unique design of the goggles presents the suppression stimulus from the goggles in 
+order to assess VOR suppression in any location. 
+● Automatic storage of data on the cloud 
+● High-speed infrared camera with mirror for precision and obstruction less eye tracking 
+to measure and record eye movements, including the ability to identify catch-up saccades 
+● High Frame rate camera with  mirror for precision and obstruction less eye tracking 
+● Pan control and eye centering through the software instead of knobs on the goggles to 
+avoid movement of the goggles during testing 
+● Suppression stimulus from the goggles in order to assess VORS in any location 
+Product Specification 
+Software Description 
+VOR  
+Goggle dimension 
+210 x 84 x 60 (L x W x H) mm 
+Goggle weight 
+260 gm 
+Goggle Sampling Rate 
+30fps 
+Laser wavelength 
+<660 nm 
+Laser output power 
+≤ 2.5mW 
+Software Licence 
+Perpetual 
+Certification 
+System should be BIS/ISO/European CE/USFDA 
+Approved. 
+Warranty 
+5 Years 
+Compatible Desktop Computer 
+Specification (not included in quotation) 
+Processor – Intel core i5 or above 
+RAM – 4GB or above 
+OS – Windows 10 or above 
+Disk – 256GB or above 
+Screen Resolution - 1024 (horiz) x 768 (vert) at 96 
+dpi or above 
+Display Color – 32 bit or above 
+USB – 2.0/3.0 
+ Components 
+Monocular Goggle with IMU and software for Vestibulo- Ocular Reflex (VOR) and Vestibulo- 
+Ocular Reflex Suppression (VORS) Test. 
+ 
+8. Computerized Stabilometry Balance Platform(Posturography) Model STP:- 
+Stabilometry is an objective and functional evaluation of the postural control system in its 
+steady-state behavior. It is also a very good evaluation tool to measure the outcome of vestibular 
+rehabilitation. 
+It consists of the following tests – 
+● SET 
+It assesses functional balance control based on the patient’s postural sway velocity during 
+four testing conditions. Results are presented in graphical form. 
+● Limits of Stability (LOS) 
+It quantifies the maximum distance the patient can intentionally displace their COG in the 
+different directions and maintain stability at those positions. Measured parameters are 
+
+
+--- Page 25 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 25 of 30 
+ 
+reaction time, COG movement velocity, directional control, end-point excursion, and 
+maximum excursion. 
+● Rhythmic Weight Shift (RWS) 
+It quantifies the patient’s ability to rhythmically move their COG from left to right and 
+forward to backward between two targets at different speeds. The measured parameters 
+are the on-axis COG velocity and directional control. 
+Features– 
+● Platform with 4 load cells with bluetooth enabled wireless transmission of data 
+● Automatic storage of data on the cloud 
+Product Specification 
+Software Description 
+STP  
+Platform dimension 
+510 x 320 x 60 (L x W x H) mm 
+Platform weight  
+5kg 
+Software Licence 
+Perpetual 
+Certification 
+System should be BIS/ISO/European 
+CE/USFDA Approved. 
+Warranty 
+5 Years 
+Desktop Computer Specification (not 
+included in quotation) 
+Processor – Intel core i5 or above 
+RAM – 4GB or above 
+OS – Windows 10 or above 
+Disk – 256GB or above 
+Screen Resolution - 1024 (horiz) x 768 (vert) at 
+96 dpi or above 
+Display Color – 32 bit or above 
+USB – 2.0/3.0 
+ Components 
+Stabilometric Balance Platform (computerized) and Software for Stabilometry Testing.  
+9. Virtual Reality Vestibular Rehabilitation Platform Model VVR-101:- 
+ Virtual Reality based Vestibular Rehabilitation exercise protocols .Patients with Vestibulo Ocular 
+reflex (VOR)  dysfunction , visual vertigo , unilateral & bilateral vestibular dysfunction , 
+agoraphobia , acrophobia , phobic postural vertigo etc benefit from virtual reality based vestibular 
+rehabilitation. 
+Features 
+● Exercise protocols to help in gaze stabilization, sensory reorganization in vertigo patients 
+● Number of Exercise Modules - 10 
+● Cloud Integration for anywhere Access 
+● Report of Progression of Patients 
+● Exercise module to help in Acrophobic Patients, Agoraphobic Patients, patients with 
+Motion Sickness, patients suffering from Sea-Sickness by stimulating the experience of 
+riding boat 
+
+
+--- Page 26 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 26 of 30 
+ 
+Product Specification 
+Software Description 
+VVR  
+Software Licence 
+Perpetual 
+Certification 
+System should be BIS/ISO/European CE/USFDA 
+Approved. 
+Warranty 
+5 Years 
+Desktop Computer Specification 
+Processor – Intel i7 6700 processor or higher 
+RAM – 32 GB  
+OS – Windows 10 or above 
+Disk – 512 GB or above 
+Screen Resolution - 1024 (horiz) x 768 (vert) at 96 
+dpi or above 
+Display Color – 32 bit or above 
+USB – 2.0/3.0 
+Graphic card - Nvidia GeForce GTX 1080 or above 
+Virtual Reality Hardware 
+HTC Vive with headset , base stations & controllers  
+ 
+ 
+ 
+ 
+HTC VIVE 
+Hardware includes HTC Vive with Headset , Base 
+Stations & Wireless Controllers  
+Dual Amoled Screen 
+Screen size - 3.6 inch 
+Resolution - 1080 x 1200 pixels per eye 
+Refresh Rate - 90 Hz 
+Field of View - 110 degrees 
+Sensor - SteamVR Tracking, G-sensor, gyroscope, 
+proximity 
+Connections - HDMI, USB 2.0, stereo 3.5 mm 
+headphone jack, Power, Bluetooth 
+ 
+Components 
+Desktop with VR software and HTC Vive. 
+10. Vertigo Assessment Software Model VAS:– 
+Integrated Assessment Software Module. 
+Features 
+● Comprehensive History Module 
+● All reports on one cloud platform 
+● Reports of patient’s past visit can be viewed chronologically 
+● Rehabilitation module with  exercises videos 
+● Patient scheduling with SMS reminder etc 
+● Cloud based software with automatic storage of data 
+● Automatically generates graphs of all parameters with easy visual comparison with 
+normative data 
+● Software supplied through cloud 
+ 
+Product Specification 
+Software Description 
+VAS  
+Software Licence 
+Perpetual 
+
+
+--- Page 27 ---
+Tender No. : AIIMS/R/CS/ENT/520/18/OT/A   
+Page 27 of 30 
+ 
+Minimum Desktop Computer 
+Specification (not included in quotation) 
+Processor – Intel core i5 or above 
+RAM – 4GB or above 
+OS – Windows 10 or above 
+Disk – 256GB or above 
+Screen Resolution - 1024 (horiz) x 768 (vert) at 96 
+dpi or above 
+Display Color – 32 bit or above 
+USB – 2.0/3.0 
+ 
+1-Patient Chair – Vertigo Examination Chair Features- Fully flexible with 180 degree rotating recliner 
+chair ,Accurate examination 90 degree seat swivel action ,DC motor for up/down & back/forward 
+movement, Adjustable foot rest ,Foot switch for up/down control, One Colour Printer for report 
+generation. 
+1-Printer Type - Ink Tank; Functionality - All-in-One (Print, Scan, Copy) , Scanner type - Flatbed; 
+Printer Output - Colour · Print speeds of up to 10ipm for black and 5.0ipm for colour ; warranty 1 year 
+or 20,000 pages, whichever comes first ; Connectivity: USB 2.0 ; Supported OS: Windows XP / Vista  
+8 / 8.1 / 10 . Pages per minute - 30 pages (Black & White), 15 pages (Colour). · Page size supported - 
+A4, A5, A6, B5, C6, DL ; Duplex Print - Manual ; Print resolution - 5760 x 1440 ·Projector screen, 
+Projector stand Wall mount,  
+ 
+ 
+11. Certification- System should be BIS/ ISO/European CE /USFDA approved. Certificate should 
+be attached with tender.  
+12. L-1 will be decided on total value only. 
+13. All items are to be bought from the same firm. 
+14. Warranty -5 year & CMC- 5year 
+15. Technical support & Training for few month 
+ 
+ 
+ 
+ 
+ 
+
+

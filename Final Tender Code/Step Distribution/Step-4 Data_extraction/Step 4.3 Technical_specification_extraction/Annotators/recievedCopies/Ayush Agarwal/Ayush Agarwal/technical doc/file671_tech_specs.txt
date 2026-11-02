@@ -1,0 +1,57 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/ANAT/18/64/OT/A 
+ 
+Page 18 of 21 
+ 
+Annexure I 
+Specification of Wireless EMG System for Department of Anatomy  
+1. Should be able to work in Lab and Field studies (Portable & easy to carry).  
+2. Should be supplied with a Charging/Receiving console that communicates with the utility 
+software which should automatically recognize the sensor status for charging, recording and 
+signal strength. 
+3. System should be able to record 8 channel EMG signals simultaneously and should be 
+upgradable to 16 channels. 
+4. RF Transmitting Range: - 40 meters or more.  
+5. Should be able to record for at least 6 Hrs on a single charge. 
+6. Should also have Bluetooth for data transmission for portable mobile devices for field 
+kinematic applications. 
+7. Each EMG sensor should come with in-built DOF tri-axial accelerometer, gyro and 
+magnetometer signals. 
+8. Sensors should have illuminated indicators for video tracking purposes.  
+9. High ADC resolution of 16 Bits or more. 
+10. High sampling rate of 2 KHz or more with a facility of variable sampling rate on each 
+channel.   
+11. Should have software controlled filtering High Pass, Low Pass filters, AC Coupling, Digital 
+filters, band pass filter & Main filters.   
+12. The software should have built in smart analysis features like RMS, power spectrum, 
+template matching, curve fitting, cross correlation etc.      
+13. Export formats should allow export MATLAB, Text etc. 
+14. Cyclic Measurements: Rate, period, frequency, count, minimum, maximum, height, integral,   
+variance, derivative etc. 
+15. Should provide Small size lightweight wireless EMG Sensors (Qty 8). 
+16. Should offer artifact free high fidelity EMG signals with fixed spacing electrodes of less than 
+or equal to 1 cm apart to reduce the crosstalk. 
+17. Software should offer Software development kit(SDK) or Application programming 
+interface(API) for easy integration to third party applications like MATLAB®, LabView™, 
+Google® Android™ -based mobile devices, Windows (C# or C), and Linux. 
+18. Twenty-Four acceleration signals accelerometer sensitivity of ± 1.5g or ±6g. 
+19. System should have Wireless EKG sensors (Qty 1).  
+20. System should have wireless twin axis Goniometric Sensors (Qty 2) along with its required 
+accessories. 
+21. System should come with wireless Four Channel Force Sensitive Resistor Sensors (Qty 2). 
+22. Compatible Laptop i5 configurations should be given with the system. 
+23. Consumables:- Adhesive strips electrodes and ECG electrodes (1000 each). 
+24. Company should have dedicated support personnel for application training and support.         
+25. Demonstration & Training free of cost at the site by company experts after supply of items. 
+26. Warranty 1 year. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

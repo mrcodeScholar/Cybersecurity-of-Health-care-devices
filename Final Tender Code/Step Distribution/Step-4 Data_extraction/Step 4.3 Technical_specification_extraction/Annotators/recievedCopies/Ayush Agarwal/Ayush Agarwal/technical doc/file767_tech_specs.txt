@@ -1,0 +1,305 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/ENT/19/879/RC 
+ 
+ 
+ 
+Page 19 of 26 
+ 
+Annexure - I 
+ Technical Specification of Implantable Hearing Devices 
+ 
+1. COCHLEAR IMPLANT SYSTEM  
+ 
+(1)   Implant Casing - Hermetically Sealed Titanium Casing of Non-reactive Material. 
+(2)   Intra- Cochlear Electrode Array- 
+A. Multiple Electrode channels (=/>12), smooth outer surface for atraumatic insertion 
+B. Availability of various options for active electrodes, when needed for use in cases of different 
+cochlear anomalies, at the same price. (Kindly provide details in brochure and compliance 
+sheet) 
+C. Even the basic implantable unit should have compatibility & upgradeability with latest 
+advanced available speech processors and should be based on latest technical platform from 
+the company. 
+D. Simultaneous multiple independent current sources 
+E. Specify Stimulation rate, spectral bands and number of independent current sources in 
+compliance sheet. 
+(3) Speech Processor- 
+A. Options of Behind the Ear (BTE) Speech Processor with the ability to store Multiple 
+Programmes 
+B. Microphone at head/ear level. 
+C. Should have Wide Input Dynamic Range of 75DB or more with Automatic Sound 
+Management/ Automatic Sensitivity Control / Automatic Gain Control to adapt 
+automatically to different challenging environments. The sound management should 
+be fully automatic with no manual switches to change the program.. 
+D. Should have minimum frequency range of up to 8000 Hz 
+E. To include all standard Accessories (List of standard accessories to be provided by the 
+manufacturer). It should also include User Remote Control and Electronic 
+Dehumidifier. 
+(4)   Power Source- Powered by rechargeable cells/Rechargeable battery pack. Recharging 
+equipment & Rechargeable Zinc air cells (at least three or more)/battery pack to be supplied 
+by the manufacturer. Commitment for their free replacement, if they malfunction, within 
+warranty period. 
+(5)    External Components - 
+A. Robust and Long Lasting, Resistance against Non-condensing Moisture. 
+B. Two sets of all spares and cables and commitment towards free replacement of external 
+components not covered by warranty to be provided for a minimum period of 3 years from 
+date of implantation. 
+C. Provision of loaners to the center for immediate replacement to the user. 
+(6) Speech Coding Strategy –Proven & internationally accepted latest speech coding strategy. 
+(7) Implant Integrity Testing Ability- Ability to test implant and electrode integrity and 
+function both inter-operatively and post-operatively. 
+(8) MRI Compatibility- MRI Compatibility at 1.5 Tesla or more without removal of the magnet. 
+(9) FM Compatibility- Compatibility with standard FM based group therapy system and FM           
+transmitters and other battery operated Assistive Listening Devices (ALDs) 
+(10) Telecoil/Telephone Compatibility- Telephone Compatibility with inbuilt/snap-
+ontelecoil/telephone adapter. 
+(11) FDA Approval- US FDA approval for complete implant system(BOTH Speech Processor 
+and Implant) for implantation in pediatric and adult patients. 
+(12) Product Support- For the Life of the product including implanted and external 
+components, software and hardware. Free upgrade of hardware/software support for product 
+in case existing implant system is discontinued by manufacturer. 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/ENT/19/879/RC 
+ 
+ 
+ 
+Page 20 of 26 
+ 
+(13) Infrastructure Support – 
+a. All necessary hardware and software required for pre-operative, intra-operative and 
+post-operative testing and programming for the implanted should be provided free of cost to 
+the center. 
+b. Implant specific surgical kit should be provided free of cost to the center. 
+c. Upgrade to be provided free of cost as and when necessary. 
+(14) Technical Support- Onsite Technical Support for hardware/software/programming 
+related problem should be provided as and when required within 48 hours. 
+(15) Service Support- Provision of spares/loaners for equipment defects/ malfunctions within 
+48 hours in case the equipment requires to be returned to company/manufacturer for a period 
+exceeding 24 hours including equipment not covered under warranty. 
+(16) Warranty-Comprehensive replacement and repair warranty is to be provided as follows: 
+A. Cochlear Implant: 10 years from the date of surgery. 
+B. External Components, including Speech Processor & battery packs, cables & coils: 3years 
+from the date of switch on. 
+C. Consumable such as batteries chargers, rechargeable batteries - 2 years from the date of 
+switch on. 
+(17) Training- 
+A. Training of medical and paramedical personal and continuing education to be provided by 
+the manufacturer as and when required. 
+B. Training should include surgical procedures/techniques/advances; implant audiology, 
+rehabilitation, support and hardware/software troubleshooting. 
+(18) At least one year of speech and rehabilitative therapy,which would include mapping etc. 
+(19) The manufacturer/Distributors/Authorised Dealer/Agent can be quote. 
+ 
+2. ADVANCED COCHLEAR IMPLANT SYSTEMS  
+ 
+(1) Implant Casing - Hermetically Sealed Titanium Casing of Non-reactive Material. 
+(2) Intra- Cochlear Electrode Array- 
+A. Multiple Electrode channels (=/>12), smooth outer surface for atraumatic insertion 
+B. Availability of various options for active electrodes, when needed for use in cases of different 
+cochlear anomalies, at the same price. (Kindly provide details in brochure and compliance 
+sheet) 
+C. Even the basic implantable unit should have compatibility & upgradeability with latest 
+advanced available speech processors and should be based on latest technical platform from 
+the company. 
+D. Simultaneous multiple independent current sources 
+E. Specify Stimulation rate, spectral bands and number of independent current sources in 
+compliance sheet. 
+(3) Speech Processor- 
+A. Advanced BTE audio processor with option of multiple speech coding strategies; should 
+have control of microphone sensitivity, volume, alarm and auto features; wide input 
+dynamic range with automatic sound management to adapt automatically to different 
+challenging environments; protection against non-condensing moisture; lesser battery 
+consumption; sleek design 
+B. Microphone at head/ear level. 
+C. Should have Wide Input Dynamic Range of 75DB or more with Automatic Sound 
+Management/ Automatic Sensitivity Control / Automatic Gain Control to adapt 
+automatically to different challenging environments. The sound management should be 
+fully automatic with no manual switches to change the program. 
+D. Should have minimum frequency range of up to 8000 Hz  
+E. To include all standard Accessories (List of standard accessories to be provided by the 
+manufacturer). It should also include User Remote Control and Electronic Dehumidifier. 
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/ENT/19/879/RC 
+ 
+ 
+ 
+Page 21 of 26 
+ 
+(4)   Power Source- Powered by rechargeable cells/Rechargeable battery pack. Recharging 
+equipment & Rechargeable Zinc air cells (at least three or more)/battery pack to be supplied 
+by the manufacturer. Commitment for their free replacement, if they malfunction, within 
+warranty period. 
+(5)    External Components - 
+A. Robust and Long Lasting, Resistance against Non-condensing Moisture. 
+B. Two sets of all spares and cables and commitment towards free replacement of external 
+components not covered by warranty to be provided for a minimum period of 3 years from 
+date of implantation. 
+C. Provision of loaners to the center for immediate replacement to the user. 
+(6) Speech Coding Strategy –Proven & internationally accepted latest speech coding strategy. 
+(7) Implant Integrity Testing Ability- Ability to test implant and electrode integrity and 
+function both inter-operatively and post-operatively. 
+(8) MRI Compatibility- MRI Compatibility at 1.5 Tesla or more without removal of the magnet. 
+(9) FM Compatibility- Compatibility with standard FM based group therapy system and FM           
+transmitters and other battery operated Assistive Listening Devices (ALDs) 
+(10) Telecoil/Telephone Compatibility- Telephone Compatibility with inbuilt/snap-ontelecoil 
+/telephone adapter. 
+(11) FDA Approval- US FDA approval for complete implant system(BOTH Speech Processor 
+and Implant) for implantation in pediatric and adult patients. 
+(12) Product Support- For the Life of the product including implanted and external 
+components, software and hardware. Free upgrade of hardware/software support for product 
+in case existing implant system is discontinued by manufacturer. 
+(13) Infrastructure Support – 
+a. All necessary hardware and software required for pre-operative, intra-operative and 
+post-operative testing and programming for the implanted should be provided free of cost to 
+the center. 
+b. Implant specific surgical kit should be provided free of cost to the center. 
+c. Upgrade to be provided free of cost as and when necessary. 
+(14) Technical Support- Onsite Technical Support for hardware/software/programming 
+related problem should be provided as and when required within 48 hours. 
+(15) Service Support- Provision of spares/loaners for equipment defects/ malfunctions within 
+48 hours in case the equipment requires to be returned to company/manufacturer for a period 
+exceeding 24 hours including equipment not covered under warranty. 
+(16) Warranty-Comprehensive replacement and repair warranty is to be provided as follows: 
+A. Cochlear Implant: 10 years from the date of surgery. 
+B. External Components, including Speech Processor & battery packs, cables & coils: 3years 
+from the date of switch on. 
+C. Consumable such as batteries chargers, rechargeable batteries - 2 years from the date of 
+switch on. 
+(17) Training- 
+A. Training of medical and paramedical personal and continuing education to be provided by 
+the manufacturer as and when required. 
+B. Training should include surgical procedures/techniques/advances; implant audiology, 
+rehabilitation, support and hardware/software troubleshooting. 
+(18) At least one year of speech and rehabilitative therapy,which would include mapping etc. 
+(19) The manufacturer/Distributors/Authorised Dealer/Agent can be quote. 
+ 
+3. AUDITORY BRAIN STEM IMPLANTS  
+ 
+(1) Implant Casing - Hermetically Sealed Titanium Casing of Non-reactive material. 
+(2)Electrode Array- 
+A. Multiple Electrode channels (=/>12). 
+
+
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/ENT/19/879/RC 
+ 
+ 
+ 
+Page 22 of 26 
+ 
+(3) Speech Processor- Advanced BTE audio processor with option of multiple speech coding 
+strategies; should have control of microphone sensitivity, volume, alarm and auto features; 
+wide input dynamic range with automatic sound management to adapt automatically to 
+different challenging environments; protection against non-condensing moisture; lesser 
+battery consumption; sleek design. 
+(4)   Power Source- Powered by rechargeable cells/Rechargeable battery pack. Recharging 
+equipment & Rechargeable Zinc air cells (at least three or more)/battery pack to be supplied 
+by the manufacturer.Commitment for their free replacement, if they malfunction, within 
+warranty period. 
+(5)    External Components - 
+A. Robust and Long Lasting, Resistance against Non-condensing Moisture. 
+B. Two sets of all spares and cables and commitment towards free replacement of external 
+components not covered by warranty to be provided for a minimum period of 3 years from 
+date of implantation. 
+C. Provision of loaners to the centre for immediate replacement to the user. 
+(6)Speech Coding Strategy –Proven & internationally accepted latest speech coding strategy. 
+(7)Implant Integrity Testing Ability- Ability to test implant and electrode integrity and 
+function both inter-operatively and post-operatively. 
+(8)MRI Compatibility- MRI Compatibility at 1.5 Tesla or more without removal of the magnet. 
+(9)FM Compatibility- Compatibility with standard FM based group therapy system and FM           
+transmitters and other battery operated Assistive Listening Devices (ALDs) 
+(10) Telecoil/Telephone Compatibility- Telephone Compatibility with inbuilt/snap-
+ontelecoil/telephone adapter. 
+(11)FDA Approval- US FDA approval for complete implant system (BOTH Speech Processor 
+and Implant) for implantation in pediatric and adult patients. 
+(12)Product Support- For the Life of the product including implanted and external 
+components, software and hardware. Free upgrade of hardware/software support for product 
+in case existing implant system is discontinued by manufacturer. 
+(13)Infrastructure Support – 
+a. All necessary hardware and software required for pre-operative, intra-operative and 
+post-operative testing and programming for the implanted should be provided free of cost to 
+the center. 
+b. Implant specific surgical kit should be provided free of cost to the center. 
+c. Upgrade to be provided free of cost as and when necessary. 
+(14)Technical Support- Onsite Technical Support for hardware/software/programming 
+related problem should be provided as and when required within 48 hours. 
+(15)Service Support- Provision of spares/loaners for equipment defects/ malfunctions within 
+48 hours in case the equipment requires to be returned to company/manufacturer for a period 
+exceeding 24 hours including equipment not covered under warranty. 
+(16)Warranty-Comprehensive replacement and repair warranty is to be provided as follows: 
+A. Cochlear Implant: 10 years from the date of surgery. 
+B. External Components, including Speech Processor & battery packs, cables & coils: 3years 
+from the date of switch on. 
+C. Consumable such as batteries chargers, rechargeable batteries - 2 years from the date of 
+switch on. 
+(17) Training- 
+A. Training of medical and paramedical personal and continuing education to be provided by 
+the manufacturer as and when required. 
+B. Training should include surgical procedures/techniques/advances; implant audiology, 
+rehabilitation, support and hardware/software troubleshooting. 
+(18) At least one year of speech and rehabilitative therapy,which would include mapping etc. 
+(19) The manufacturer/Distributors/Authorised Dealer/Agent can be quote. 
+ 
+
+
+--- Page 23 ---
+Tender No. : AIIMS/R/CS/ENT/19/879/RC 
+ 
+ 
+ 
+Page 23 of 26 
+ 
+4. MIDDLE EAR IMPLANTS 
+ 
+(1) Implant Casing: Titanium 
+(2) Placement device in middle ear: Single point attachment 
+(3) Indications: For conductive hearing loss, mixed hearing loss, SNHL 
+(4) Audio processor: Single unit processor can be worn discreetly 
+(5) Microphone: Directional and omni-directional microphone 
+(6) Signal processing: 8 AGC channels, 16 frequency bands 
+(7) Frequency range: 250-8000 Hz 
+(8) Gain: 36-54 Db 
+(9) Power source: Powered by 675 zinc air cells 
+(10) External components: Robust and long lasting; Should be sweat/splash resistant 
+(11) Speech coding strategy: Proven and internationally accepted speech coding strategy 
+(12) Enhanced features: Three different programs; directional microphone; wind noise 
+reduction; sound smoothing; speech and noise management 
+(13) European CE or US FDA Approval: European CE or US FDA Approval for implantation in 
+both adults and children. 
+(14) Warranty: 5 year on implant and 2 years on audio processor. 
+(15) The manufacturer/Distributors/Authorised Dealer/Agent can be quote. 
+ 
+5. BONE CONDUCTION IMPLANT SYSTEMS 
+ 
+(1) Implant: Titanium Housing 
+(2) Placement of Device: Transcutaneously placed on the mastoid. 
+(3) Indications: Indicated for Conductive and mixed hearing losses and Single Sided Deafness. 
+(4) Audio Processor: Single unit processor- can be worn discreetly 
+(5) Microphone: Directional and Omni-directional microphone 
+(6) Signal Processing: 8 AGC Channels; 16 Frequency Bands 
+(7) Frequency Range: 250-8000Hz 
+(8) Gain: 45dB 
+(9) Power Source: Powered by 675 Zinc air cells 
+(10) External Components: Robust and Long Lasting, Resistance against Non-condensing 
+Moisture. 
+(11) Enhanced Features: Three Different Programs; Directional Microphone; Wind Noise 
+Reduction; Sound Smoothing; Speech and Noise Management 
+(12) MRI Compatibility: MRI Compatible up to 1.5 T or more, without the need to remove the 
+implant. 
+(13) European CE or US FDA Approval: European CE or US FDA Approval for implantation in 
+both adults and children. 
+(14) Warranty: 5 years on implant and 2 years on audio processor. 
+(15) The manufacturer/Distributors/Authorised Dealer/Agent can be quote. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

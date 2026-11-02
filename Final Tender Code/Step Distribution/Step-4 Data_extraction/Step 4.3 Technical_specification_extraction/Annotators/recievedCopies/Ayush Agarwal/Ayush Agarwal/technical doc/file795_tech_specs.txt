@@ -1,0 +1,60 @@
+--- Page 16 ---
+NIT No. : AIIMS/R/CS/Gen. Med./19/08-04/OT/A 
+Page 16 of 21 
+ 
+ANNEXURE-I 
+ 
+Technical specification for Portable Colour Doppler Ultrasound Unit; 
+ 
+A state of art fully digital, compact Colour Doppler Ultrasound machine is required with following 
+technical features: 
+ 
+1. Unit should be able to give very high image quality with advance technologies like compound 
+imaging for better contrast resolution, tissue differentiation and edge detection, equivalent to high 
+end cart based systems. Please specify the technology.  
+2. Unit should be compact, durable & less than 5 kg in weight. 
+3. Imaging modes of Real time 2D, Color Doppler, Power Doppler, Pulsed wave Doppler, 
+Continuous wave Doppler must be available. 
+4. System should have both online (Read) as well as offline(Write) zoom facility  
+5. System must have fast start up to scanning in less than 30 seconds from off condition, for use in 
+critical care environment and emergency field situations.  
+6. System should support transducer technologies like phased array, convex, linear & TEE format.  
+7. The system should have a broadband architecture with an operating frequency of at least 1 to 15 
+MHz 
+8. Cine memory should be available on all operating modes.  
+9. The system shall process a dynamic range that is at least 165db. The system must display at a 
+maximum depth of 30 cm. 
+10. The system must have dedicated calculation packages for cardiac, Vascular & Ob/Gyn 
+measurements. 
+11. The offered unit must have Flat LCD/ TFT monitor of at least 12 inches with Anti glare coating 
+and flicker free image. 
+12. Alphanumeric soft keys backlit and splash resistant keypad with easy access scans controls, 
+facility to sanitize the system keyboard to avoid cross contamination.  
+13. The system must have the ability to function by AC/DC or battery power with the same degree of 
+functionality, the battery life (run time) shall be at  least1 (one) hour, this need to demonstrate..   
+14. The system must have archive capability for storage & retrieval of images and clips. It should have 
+atleast 2 USB slots, which allow for direct sharing of images (JPEG) and clips (AVI) to a PC.  
+15. Unit & transducers must be rugged, resistant to breakage & damage on fall/hit so as to withstand 
+busy & field situations.  
+16. The system must have  memory of at least 64 GB for storing Patient data & studies. 
+17. The system shall support the all DICOM functionality, Storage, Print, and Work List, also ready to 
+connect to PACS. 
+18. System should have both European CE and US FDA quality certification. 
+ 
+Transducers & other accessories to be supplied as standard:   
+ 
+1. High Frequency ‘Hockey Shape’ Linear transducer 6-12 (+/-1) MHz for nerve blocks, vascular 
+access, Vascular Imaging applications  
+2. 5-10 MHz (±1 MHz) multi-frequency, broadband linear array transducer for vascular, venous, 
+small parts, musculoskeletal, Lung, nerve imaging with less than 40mm size. 
+3. 1-5 MHz (±1 MHz) multi-frequency broadband Phased array transducer for abdominal, Cardiac, 
+Lung & OB applications. 
+4. 2-5 MHz (±1 MHz) multi-frequency broadband Curved array transducer for abdominal& OB 
+applications. 
+5. A trolley must be available to store and/or transport the system. 
+6. Triple Transducer Connector with electronic switching facility to toggle between transducers. 
+7. B/W Thermal printer 
+8. Probe should be supplied with biopsy docked with on screen needle guide (2 dockets each, for 
+linear and curvilinear probe, with 10 Needles). 
+
+

@@ -1,0 +1,108 @@
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/URO/19/66/OT 
+ 
+ 
+Page 17 of 20 
+ 
+ANNEXURE-I 
+Technical Specification 
+Sl. No. 
+Item Descriptions 
+1 
+Technical specification of USG with Colour Doppler System for Urology 
+procedures: 
+ 
+A. Should have High Resolution imaging for clinical needs and for intraoperative uses 
+such as partial nephrectomy etc. 
+B. Should have a 19" or more flat panel monitor. 
+C. Should have speckle reduction technology for enhancing tissue margins for better    
+anatomical visualization and to improve better organ anatomy from different angles. 
+D. Should have facility to connect at least two electronic Transducers. 
+E. Should have Automated Mode Adjustment for high resolution B-mode image. 
+F. Should have facility to compensate the motion related imaging artifacts. 
+G. Should have DICOM Capabilities. 
+H. Transducers should have programmable start and stop buttons. 
+I. Control panel should be sealed for easy cleaning and disinfection. Keyboard should be 
+spill proof.  
+J. The whole machine should not get damaged by fumigation process done for OT 
+sterilization. 
+K. The System should be supplied with integrated stand with height adjustable 
+ergonomic mechanism with control panel & with lockable castors for easy mobility. 
+L. Control panel Should be illuminated for easy access. 
+M. Should have an internal hard drive to store images at least of 500GB capacity. 
+N. CD/ DVD writer and USB Flash memory drive should be the part of the system. 
+O. Should be of latest generation quad beam digital technology. 
+P. Imaging Modes: System should have following modes: 
+[I] B-mode 
+[II] M-Mode 
+[III] Colour Doppler 
+[IV] Power Doppler 
+[V] Pulsed Wave Doppler 
+[VI] Tissue Harmonic Imaging 
+Q. The following transducers are to be supplied along with the scanner: 
+[I] 2-6MHz Convex Array abdominal transducer with an autoclavable biopsy 
+attachment. Contact surface should be 60 x 10 mm or more. 
+[II] 6-12MHz Transrectal transducer with simultaneous biplane imaging facility to 
+visualize, sagittal as well as transverse planes of prostate gland. The same transducer 
+should have an endfire array for scanning the apical areas of the prostate during prostate 
+biopsy & nerve sparing laparoscopic radical prostatectomies. Transducer should 
+compatible with standard sterilization methods like, immersion, ETO and Sterrad. A 
+biopsy attachment for side fire as well as endfire arrays to be supplied. 
+[III] 5-10 MHz Laparoscopic four-way deflectable transducer which can be used through 
+normal laparoscopic ports (10-12 mm) with a biopsy facility to be supplied. Contact 
+surface should be 30 x 5 mm or more. Probe should be compatible with standard 
+sterilization methods like immersion, ETO and Sterrad. Compatible biopsy attachment 
+should be supplied. 
+
+
+--- Page 18 ---
+NIT No. : AIIMS/R/CS/URO/19/66/OT 
+ 
+ 
+Page 18 of 20 
+ 
+[IV] 6-12 MHz multi frequency linear transducer with angle independent velocity 
+measurements for vascular, small parts, testes & penile scans should be provided. 
+System should be able optimize Doppler parameters automatically. Contact surface 
+should be 45 x 10 mm or more. 
+R. The provided system should be compatible for future upgradation for use of a 
+transducer compatible with da Vinci robot for robotic assisted partial nephrectomies. 
+S. All Instruments should be BIS/ European CE with 4-digit notified body no./ US FDA 
+approved wherever applicable.  
+ 
+Instructions for Online Bid Submission: 
+The bidders are required to submit soft copies of their bids electronically on the CPP Portal, using 
+valid Digital Signature Certificates. The instructions given below are meant to assist the bidders in 
+registering on the CPP Portal, prepare their bids in accordance with the requirements and submitting 
+their bids online on the CPP Portal.  
+More information useful for submitting online bids on the CPP Portal may be obtained at: 
+https://eprocure.gov.in/eprocure/app. 
+REGISTRATION 
+1) Bidders are required to enroll on the e-Procurement module of the Central Public Procurement 
+Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on the link “Online bidder 
+Enrollment” on the CPP Portal which is free of charge. 
+2) As part of the enrolment process, the bidders will be required to choose a unique username and 
+assign a password for their accounts.  
+3) Bidders are advised to register their valid email address and mobile numbers as part of the 
+registration process. These would be used for any communication from the CPP Portal.  
+4) Upon enrolment, the bidders will be required to register their valid Digital Signature Certificate  
+(Class II or Class III Certificates with signing key usage) issued by any Certifying Authority 
+recognized by CCA India (e.g. Sify /  nCode / eMudhra etc.), with their profile. 
+5) Only one valid DSC should be registered by a bidder. Please note that the bidders are responsible 
+to ensure that they do not lend their DSC’s to others which may lead to misuse. 
+6) Bidder then logs in to the site through the secured log-in by entering their user ID / password 
+and the password of the DSC / e-Token. 
+SEARCHING FOR TENDER DOCUMENTS  
+1) There are various search options built in the CPP Portal, to facilitate bidders to search active 
+tenders by several parameters. These parameters could include Tender ID, Organization Name, 
+Location, Date, Value, etc. There is also an option of advanced search for tenders, wherein the 
+bidders may combine a number of search parameters such as Organization Name, Form of 
+Contract, Location, Date, Other keywords etc. to search for a tender published on the CPP Portal.  
+2) Once the bidders have selected the tenders they are interested in, they may download the 
+required documents / tender schedules. These tenders can be moved to the respective ‘My 
+Tenders’ folder. This would enable the CPP Portal to intimate the bidders through SMS / e-mail 
+in case there is any corrigendum issued to the tender document.  
+3) The bidder should make a note of the unique Tender ID assigned to each tender, in case they 
+want to obtain any clarification / help from the Helpdesk.  
+
+

@@ -1,0 +1,159 @@
+--- Page 41 ---
+ 
+Tender Enquiry No.: AIIMS/ R/CS/Bio/03-259/GTE 
+Page 41 of 60 
+ 
+SECTION – VII TECHNICAL  SPECIFICATIONS 
+Technical specification for Supply and installation of Droplet Digital PCR System 
+GENERAL TERMS & CONDITIONS: 
+1. Warranty: 5 years against  manufacturing defect  
+2. All instruments should be corrosion resistant, autoclavable, BIS/European CE certified / USFDA 
+approved. 
+3. Manufacturer should be ISO Certified. 
+4. All the firms are required to submit their catalogue along with tender/ quotation clearly marking the 
+Quoted item and no. with a highlighter. 
+5. All the components of item under a particular serial no. will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the firms. 
+6. L-1 will be decided on total value only. 
+7. All firms should have supplied the quoted instruments to the reputed central government hospitals 
+like AIIMS, PGI, etc. and should submit a certificate of satisfactory working from the concerned 
+government hospital. 
+TECHNICAL SPECIFICATIONS FOR “Droplet Digital PCR System” 
+Cat No 
+Item description 
+186-4004 QX200 Droplet Digital PCR System  
+Includes droplet generator, droplet reader, software, associated component consumables. 
+• Bio-Rad's QX200 ddPCR System combines water-oil emulsion droplet technology with 
+microfluidics. 
+• It provides a measure of target DNA molecules with unrivalled precision, accuracy, and 
+sensitivity. 
+• The system partitions each sample into 20,000 uniform nanolitre droplets containing target 
+and background DNA in a random distribution. 
+• Each droplet serves to partition the reactions. 
+• Droplets are transferred to a 96 well PCR plate and PCR is performed to end point in a 
+thermal cycler. 
+• The droplets stream single file through the reader for fluorescence analysis. 
+• Positive droplets, which contain at least one copy of the target DNA or RNA molecule, 
+exhibit increased fluorescence compared to negative droplets. 
+• The fraction of PCR-positive partitions enables the target to be quantified according to the 
+Poisson distribution. 
+QX200 Droplet Generator 
+• Starting sample size: 20ul 
+• Capacity: 1-8 samples / cartridge 
+• Droplets per sample: 20,000 
+• Dimensions (WxDxH) : 28x36x13cm 
+QX200 Droplet Reader 
+• Precision: ± 10% 
+• Linear Dynamic Range: 5 orders of magnitude 
+• Capacity: 1-96 samples 
+• Droplets per 96-well plate: Approximately 1500,000 
+• Sample illumination: Light-emitting diodes 
+• Sample detection: Multipixel photon counter 
+• Detection channels: FAM(Evagreen), HEX (VIC) 
+• Dimensions: 66 x 52 x 29 cm 
+• Weight: 26Kg 
+Quanta soft Software 
+• Displays fluorescence measurement per droplet in both FAM and HEX Channel 
+
+
+--- Page 42 ---
+ 
+Tender Enquiry No.: AIIMS/ R/CS/Bio/03-259/GTE 
+Page 42 of 60 
+ 
+   
+ 
+ 
+ 
+• Technical compliance report should be submitted in following format: 
+ 
+Sr. 
+No. 
+Item Description as 
+per Tender 
+Complied 
+Yes/No 
+Item Description 
+offered by Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Shows multiplex data for up to two fluorophores per droplet 
+• Offers Absolute quantitation & copy number variation analysis 
+• User can manually set threshold for entire sample plate or for individual samples 
+• Software can merge results from replicate wells 
+• Allows data graphs and tables to be exported into Excel or printed from menu 
+ 
+186-1096 
+ 
+ 
+ 
+181-4000  
+ 
+ 
+181-4040   
+Thermal Cycler and Sealer 
+C-1000 Deep Well Gradient Thermal Cycler 
+includes 96-well thermal cycler, power cord, C-1000 tube support frame, instruction manual 
+ 
+PX1 PCR Plate Sealer 
+PX1 PCR Plate sealer includes heat sealing instrument, 96-well/384-well plate 
+support block, sealing frame, and power cord 
+ 
+Easy Pierceable Foil Heat seal, package of 100 seals 
+ 
+186-3004 
+186-4006 
+186-3005 
+186-4007 
+186-4034 
+186-3024 
+12001925 
+1863053 
+10028179 
+1863052 
+1863038 
+ddPCR Reagents 
+Droplet Reader Oil, 2x1 L bottles  
+Droplet Generation Oil for EvaGreen, 70 ml (10 x 7 ml)  
+Droplet Generation Oil for Probes, 70 ml (10 x 7 ml) 
+DG8 Cartridges and Gaskets, 5/pack  
+QX200TM ddPCRTM EvaGreen Supermix, 500 x 20 µl reactions, 5 ml  
+ddPCRTM Supermix for Probes (No dUTP), 5 ml (5 x 1 ml)  
+ddPCR 96 well plates  
+Fluidics verification kit 
+Spectral verification kit FAM/VIC/HEX 
+2X buffer control kit 
+FAM Calibration Dye 
+ 
+NPN 
+NPN 
+L-20 
+L8-
+200XLS 
+L8-50XLS 
+Pipettes,Tips and Plates 
+Rainin Pipettes (100 ul), suitable tips  
+Rainin Pipettes (1000 ul), suitable tips  
+Rainin pipette lite LTS, single channel, 20 ul  
+Pipet Lite XLS-LTS 8 channel, 200 ul  
+Pipet Lite XLS-LTS 8 channel 5-50ul  
+ 
+Warranty- 5 years, CMC-Post warranty price for 5 years CMC need to be freeze by inviting quotation 
+during tender. 
+2KVA online UPS is required 
+Desktop computer is required 
+
+

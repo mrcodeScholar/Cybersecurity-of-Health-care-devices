@@ -1,0 +1,149 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Nephro/182/19/OT/A 
+ 
+Page 18 of 23 
+ 
+ANNEXURE-I 
+Technical specifications for Ultrasound machine 
+A state of art fully digital, compact Colour Doppler Ultrasound machine is required for 
+abdominal, vascular, paediatric, and echocardiographic applications with following 
+specifications 
+1. Unit should be able to give very high image quality advance technologies like 
+compound imaging for better contrast resolution, tissue differentiation and edge 
+detection 
+2. Unit should be compact & durable; less than 5 kg in weight. It should be easily 
+portable with battery backup upto 30 minutes (at least). 
+3. The machine should be US FDA/ISO/European CE certified.  
+4. It should have at least 55,000 digital channels for high resolution imaging. 
+5. Acquisition rate of at least 1000frames per second. 
+6. Imaging modes: 
+ 
+2D 
+ 
+M-mode 
+ 
+Colour flow imaging 
+ 
+Pulse Doppler 
+ 
+Continuous wave Doppler 
+ 
+Power Doppler  
+7. The machine should have the facility for  
+ 
+Volume display with surface rendering (transparency, brightness and 
+lighting controls), X, Y, Z rotation capability, MPR view display, specialized 
+algorithms and maps to maximize three dimensional display, Region of 
+interest (ROI) trim tools on both volume and MPR views, slice control on 
+MPR and volume displays.  
+ 
+Performing distance, curved distance, ellipse, trace, volume and stack 
+contour volume.  
+ 
+Display as 1-up (full volume), 4-up (volume/MPR).  
+ 
+Display of tick slice data and slice plane view of the MPR views. 
+8. The machine should have facility for simultaneous dual/duplex/triplex mode 
+display. 
+9. Tissue harmonic imaging should be available on phased, linear and curved array 
+transducers. Tissue harmonic imaging should be available in 2D, colour flow 
+imaging, M-mode. 
+10. The machine should have tissue harmonic imaging in power Doppler imaging 
+mode for improved sensitivity and specificity in differentiating blood/agent from 
+tissue. 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Nephro/182/19/OT/A 
+ 
+Page 19 of 23 
+ 
+11. The machine should have contrast harmonic imaging and should have 
+optimization settings to detect the contrast agents. 
+12. Machine should be capable of real time Compound imaging on linear, curved and 
+mechanical volume arrays. The compound imaging should have at least 9 beam 
+steered lines of sight. 
+13. The machine should be equipped with hardware and software support for 
+performing contrast enhanced ultrasound imaging. 
+14. High dynamic range of 180 dB or more. 
+15. The machine should have 256Grey shades (8 bit) or more. 
+16. One touch image optimization should be available in 2D mode with one button 
+automatic adjustment of TGC and Receiver gain and Compression curve based 
+on the range of detectable tissue signals. 
+17. There should be one button automatic adjustment of Doppler PRF, baseline, 
+dynamic range and gain in Doppler mode. 
+18. Pulsed wave Doppler should be available on all imaging transducers with 
+adjustable sample volume size: 1.0- 2.0 mm (transducer dependent), 
+simultaneous or duplex mode of operation, simultaneous 2D, colour Doppler, 
+pulsed Doppler, high PRF capability in all modes including duplex and triplex 
+and automatic adjustment of scale and baseline. 
+19. Machine should support broad band/wide band probes spanning with frequency 
+range from 2-17MHz (+1MHz).  
+20. Technique /Coded excitation or Alternate technology should be available to 
+improve penetration and recover more tissue information for greater details 
+resolution at extended depths.  
+21. Automatic Doppler analysis should be available with automatic real time and 
+retrospective tracing of at least six of the following user selectable parameters: 
+peak systolic velocity, end diastolic velocity, mean diastolic velocity, volume flow, 
+time average mean velocity, time average peak velocity, resistive index, pulsatility 
+index, systolic/diastolic ratio, acceleration/deceleration times.  
+22. The machine should have cineloop review facility in individual: and mixed modes 
+with memory upto minimum of 400 images and 10mins ds of Doppler/M Mode 
+data. 
+23. The machine should have facility of direct storage and retrieval of B/W and colour 
+images (both frozen and cine loop) in the inbuilt hard disk drive. In built hard 
+disk storage for images should be500GB or more. 
+24. Support at least three transducers with universal ports allowing any transducer 
+to be connected to any port. 
+25. A high resolution fully articulating non interlaced flicker free, anti-glare, flat panel 
+display of 19 inches or more, with articulating arm tilt and swivel facility. 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Nephro/182/19/OT/A 
+ 
+Page 20 of 23 
+ 
+26. Software package for measurement and calculation, provision for distance, area, 
+volume and circumference 
+27. Complete vascular, cardiac, and renal package should be available. 
+28. Zoom facility (upto 6 times or more magnification) with high resolution results 
+and pan capability in both real time and frozen images with facility of pre and 
+post processing. 
+29. The system should have CD-DVD and USB archival (DICOM and PC format) 
+30. It should be DICOM (3.0 or higher version) ready with print, save, modality work 
+list for connecting to PACS system. 
+31. Unit should have a four caster design with central braking system. 
+32. System should have provision for shear wave and strain based Elastography 
+and contrast imaging on one probe. 
+33. One UPS with 30 minutes for running ultrasound machine as well as printing 
+back up time. A compatible colour laser printer of reputed make Canon/HP/Dell 
+should be quoted separately.  
+34. The unit should have the following electronic probes 
+i. 
+Broadband convex array transducer 2-5±1MHz, with biopsy guide. 
+ii. 
+Linear array transducer 5- 17 ±1MHz, with biopsy guideand [5- 
+12]±1MHz50mm linear array transducer.. 
+iii. 
+Phase array transducer 2-5±1MHz. 
+35. The unit should also have a 3D transducer 3-6 ±1MHz. 
+36. Guarantee/warranty: 5 years should include whole equipment, UPS, laser 
+printer, all probes, transducers, accessories, all auxiliary devices supplied with 
+the unit. Free software upgrade(s) during the period of 10 years. 
+37. CMC rates for 5 years including spare parts for whole equipment, UPS, all probes 
+and accessories (including consumable of laser printer of 12 sets of 
+cartridges/year) should be quoted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

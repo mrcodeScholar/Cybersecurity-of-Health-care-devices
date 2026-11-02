@@ -1,0 +1,197 @@
+--- Page 38 ---
+Tender Enquiry No.: AIIMS/NAG/HOS-Store/NAT/TM/GTE/23-24/20                             Date:-18/01/2024 
+ 
+Page 38 of 61 
+ 
+Technical Specifications: Molecular Lab for Individual Donor Nucleic Acid 
+Testing for TTI Markers on Turn-Key Basis 
+ 
+Part-1: Molecular System and Consumables for TTI Markers 
+1. Molecular System should be fully integrated and fully automated Walk away compact system. 
+2. Test Assay menu should cover at least following viral TTI markers by Polymerase Chain Reaction 
+Technology or Transcription Medicated Amplification (TMA) Technology. 
+ HIV-1 (Group M, N, O) 
+ HIV-2 
+ HCV (genotypes 1, 2, 3, 4, 5, and 6.)  
+ HBV (genotypes A, B, C, D, E, F, and G.) 
+3. The sensitivity of assay at 95% LOD should be at least: 
+ HIV – 1: 30 IU/ml 
+ HCV : 10 IU/ml 
+ HBV : 5 IU/ml 
+4. Samples will not be mixed/pooled prior or during the testing process. Each sample will be tested 
+individually. 
+5. Amplification process should not be inhibited by any commonly used anticoagulants. 
+6. Fully integrated and fully automated Molecular System should have compact, all-in-one system from 
+a single manufacturer with a smaller footprint.  
+7. System should perform automated nucleic acid target capture or nucleic acid extraction, 
+amplification, and detection all in a single chamber and single tube to minimize sample handling and 
+any chances of contamination. 
+8. Throughput of the System should be minimum 250 individual samples in 8 hours and 400 individual 
+samples in 12 hours. 
+9. System should process and obtain on-demand results for high priority samples with STAT testing 
+ability. 
+10. System should Provide programmable system maintenance and priming during labs off hours 
+11. System should offer 24-hour calibrator and control stability.  
+12. System should perform continuous processing of samples and continuous access of result with 
+random access capability. 
+13. System should have built-in process controls for sample and results integrity. 
+14. System Should have full sample traceability with positive sample identification through barcode and 
+manual options  
+15. Uptime should be more than 95% 
+16. Bidder will have to maintain the ancillary items during the entire period of contract. 
+17. Quoted model should be installed in at least three Govt. blood banks for last three years and Bidder 
+has to enclose the satisfactory certificate from at least three Govt users of last three years. 
+18. Multiplex Assay to detect HIV 1&2, HBV and HCV in plasma by running Nucleic Acid 
+Amplification Test. 
+19. Test procedure is able to target & amplify two separate regions of HIV-1 genome. 
+20. Internal control is added to each specimen in the first step of the assay to ensure assay integrity is 
+maintained throughout the process.  
+21. Test kit should consist of all the necessary reagents and chemicals required for the whole assay 
+procedure. Each kit contains positive and negative calibrators, internal control samples, primers, 
+
+
+--- Page 39 ---
+Tender Enquiry No.: AIIMS/NAG/HOS-Store/NAT/TM/GTE/23-24/20                             Date:-18/01/2024 
+ 
+Page 39 of 61 
+ 
+probes, enzymes, reagent buffers and all other reagents needed for the target capture, amplification 
+and detection of HBV DNA, HCV RNA and HIV RNA.   
+22. Testing protocol should be validated and the quoted molecular system should be approved for highest 
+available accuracy and precision for the detection of HBV, HCV and HIV 1 & viral markers in donor 
+plasma or serum either through Bureau of Indian Standards (BIS) and CDSCO or  US FDA for blood 
+donor screening 
+23. Assay kits should have necessary approvals from CDSCO India. 
+24. The bidder is required to provide proven data on analytical sensitivity, specificity, reproducibility, 
+repeatability and other relevant parameter of assay performance. 
+25. Monthly QC for all the parameters to be provided by the vendor 
+26. Technical Staffs to operate the system should be provided by the Vendor (adequate) 
+27. Monthly Consumables such as gloves, aprons, cartridges etc should be provided by the Vendor 
+28. Vendor must ensure 24 hrs machine down time in case of breakdown 
+29. Vendor must quote the cost of complete set of all routine tests including start up and shut down 
+consumption of reagents required by the system. 
+30. Vendor must quote for all the reagents, chemicals and consumables required to run the fully 
+integrated and fully automated NAT system. 
+31. During the finalization of reagent contract, vendors must bear cost of full reagent wastage owing to 
+invalid results or other reasons.  
+32. The 5 years CMC should be included in the PAC with first five years of warranty on the instrument. 
+33. The initial 1000 test consumables free of cost and freeze the cost of the consumables to be used 
+during the testing for the next 5 years. No increment will be allowed under any circumstances and a 
+declaration from the original manufacturer/company should be provided along with tender document. 
+34. Demonstration and onsite training of staff upto their satisfaction by application experts is an absolute 
+must. 
+ 
+Part-2: Ancillary Items: Molecular Lab for TTI Markers 
+ 
+S. no 
+Ancillary Items  
+Acceptable Make  
+1 
+Deep Freezer (-15 to -35 C): 
+minimum 300 L, Qty: 1 
+Blue Star, Helmer Scientific, Terumo Penpol, B-Medical 
+Systems, or EQUIVALENT as pre-approved by AIIMS 
+Nagpur 
+2 
+Refrigerator (2-8C): minimum 300 
+L, Qty: 1 
+Blue Star, Helmer Scientific, Terumo Penpol, B-Medical 
+Systems, or EQUIVALENT as pre-approved by AIIMS 
+Nagpur 
+3 
+Swing Out Centrifuge: 1 
+Thermo Fischer Scientific, Eppendrof, Beckman, Sigma, or 
+EQUIVALENT as pre-approved by AIIMS Nagpur 
+4 
+Micropipette: 2 
+Thermo Fischer Scientific, Eppendrof, Beckman, Sigma, or 
+EQUIVALENT as pre-approved by AIIMS Nagpur 
+5 
+Desktop Computer: 1 
+Desktop Computer - Apple iMac, HP, Dell, Lenovo, or 
+EQUIVALENT as pre-approved by AIIMS Nagpur 
+6 
+All In One Printer: 1 
+HP, Canon, Epson, Brother, or EQUIVALENT as pre-
+approved by AIIMS Nagpur 
+7 
+Temp & Humidity Indicator: 4 
+Bosch, Honeywell Automation, HTC, or EQUIVALENT 
+as pre-approved by AIIMS Nagpur 
+8 
+Laboratory miscellaneous plastic 
+ware: As per the requirement. 
+BioRad, IndoSurgicals, or EQUIVALENT as pre-
+approved by AIIMS Nagpur 
+
+
+--- Page 40 ---
+Tender Enquiry No.: AIIMS/NAG/HOS-Store/NAT/TM/GTE/23-24/20                             Date:-18/01/2024 
+ 
+Page 40 of 61 
+ 
+9 
+Office Chairs: 2 
+Nilkamal, HomeTown, Wakefit, or EQUIVALENT as 
+pre-approved by AIIMS Nagpur 
+10 
+Pen drives-2 
+HP, Scandisk, Samsung, or EQUIVALENT as pre-
+approved by AIIMS Nagpur 
+11 
+Internet connection/modem:1 
+TP Link, D Link, or EQUIVALENT as pre-approved by 
+AIIMS Nagpur 
+12 
+Air Curtain – 1 
+Berner, Toshiba, Mitsubishi, Euronics, or EQUIVALENT 
+as pre-approved by AIIMS Nagpur 
+13 
+CCTV monitoring with 2 cameras, 
+cables and storage device 
+Godrej, Samsung, Panasonic, Sony, Bosch, or 
+EQUIVALENT as pre-approved by AIIMS Nagpur 
+14 
+Door access lock System 
+Godrej, Honeywell Automation, Ozone, Atom, or 
+EQUIVALENT as pre-approved by AIIMS Nagpur 
+15 
+UPS for the Equipment (with voltage 
+stabilizing capability and back up 
+supply for at least 2 hrs with full 
+load 
+APC by Schneider Electric, Luminous, Genus Power, 
+Microtek, Amaron, or EQUIVALENT as pre-approved 
+by AIIMS Nagpur 
+ 
+Note: Requirement of ancillary items may differ in terms of quantity/volume with the quoted 
+molecular system/model/brand. Hence the bidder is required to quote ancillary items as per the need 
+of the quoted molecular system.  
+Bidder is requested to quote the price in the price bid accordingly. 
+ Bidder will have to maintain the ancillary items during the entire period of contract. 
+ Uptime should be more than 95% 
+ 
+Part-3: Partial Turnkey project for Molecular Lab-TTI MARKERS 
+1. HVAC:- 
+Hi-Wall Split AC - Supply, Installation, testing & commissioning of all-weather Hi Wall Split Unit 
+for the following capacity with refrigerant piping 
+Make: Carrier/Bluestar/Voltas/better or Equivalent. 
+PPU - Make: AAF/Freudenberg/Terra/better or Equivalent 
+Exhaust Fan - Make: AAF/Freudenberg/Terra/ better or Equivalent 
+Fan Filter Unit with control unit & all standards accessories (Including HEPA Filters) - Make: 
+AAF/Freudenberg/Terra/Equivalent 
+Drain Piping with insulation - Make: Astral/Ashirvad/better or Equivalent 
+Ducting - Make -JINDAL/TATA / EQUIVALENT (In case of flexible duct twin coating is required) 
+2. Electrical: - 
+Electrical Accessories: Electrical Power switch socket unit of following rating. 
+ 5/15AMP Single Phase; Make: Legrand/GM Modular/Havells/ Better or equivalent 
+ Electrical Cabling In between Light Module & Switches with suitable size copper conductor cable.; 
+Make: Havells/ Finolex/ Equivalent. 
+ PVC Conduits for cabling 
+ Electrical panel for the MCB Housing of suitable ratings along with Neutral connector and GI plating 
+for Earthing. Make: Havells/ Legrand/ Schnieder / Better or Equivalent 
+ Electrical wirings of suitable thickness from the main incomer to the electrical panel and for parallel 
+routing of all the subsystems inside the lab along with conduits and junction boxes. Make: Havells/ 
+Legrand/ Schnieder / Better or Equivalent 
+
+

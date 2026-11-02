@@ -1,0 +1,293 @@
+--- Page 10 ---
+Tender for High End Ultrasound Machine 
+Admn/Tender/29/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+Technical Specifications – Premium End, Top of the Line, Color Doppler Ultrasound System with 
+Shear Wave Elastography. 
+System should be State of art, top of the Line Premium End Fully Digital with Broadband Digital 
+Beam Former.  
+The system design should be compliant with Green Emission Product specification.  
+The system should comply with standards of Environmentally Conscious Products (ECP). 
+Certificate to be attached.  
+US FDA & CE compliant . Also mention year of launch.  
+The system should have high density Beam Former technology and should be able to handle 
+independent processing channel for each receiving information from transducer.  
+The system should have minimum 192 hardware channels and 65000 or more digitally processing 
+channels. Original manufacturing letter to be attached for confirming above channel numbers if not 
+available in Technical data sheet. 
+The system should perform up to 1000 frames/sec. or more. Also system should support 
+transducers of frequency range from 1-17Mhz.  
+The system should have region specific presets like Adult Abdomen, Pediatric Abdomen, TV/TR, 
+Gyn, Small Parts, Musculoskeletal and vascular presets. All presets should be customized 
+according to the user.  
+The system should have Quick View mode for 2D & CDI Preset selection during exam and 
+minimum 8 sub presets for 2D &CDI Modes.  
+The system panel height should be adjustable according to the user comfort.  
+The Panel should have Swivel and In/Out Control for Maximum User Comfort.  
+The system should have latest generation /pulse subtraction / Pulse Inversion Tissue Harmonic 
+Imaging for better contrast and reduced side lobe artifact.  
+System Should have Receiving End Frequency and Spatial Compound Imaging Technology for 
+reducing Clinical Artifacts and  
+Compound Imaging Should work in all the Probes  
+Compound Imaging should be possible on Color and Doppler Modes .  
+Transducers operate in Trapezoid format with and without compound imaging.  
+Multiparametric Image Optimization: The system shall automatically and intelligently optimize 
+key imaging parameters in real-time, maintaining image uniformity across tissue types with 
+minimal adjustments as soon as the transducer is placed on the patient.  
+The system should have 256 gray scales.  
+The System should have 2D and spectral Doppler image optimization with a push of a button and 
+auto-refresh function. Should be compatible with other advanced imaging options.  
+Up to 10X digital zoom should be available, on live, frozen, cine, dual screen images-Preserves full 
+image resolution within the zoom ROI.HD zoom should be available.  
+The System should have THREE active transducer ports or more.  
+The system should display Thumbnails on a Clipboard while scanning to facilitate exams.  
+The User can select either Bigger Screen only Ultrasound Image or With Thumbnail with Live 
+Ultrasound Images.  
+The system should be Upgradable to User Configurable Protocol for Applications such as 
+OBGYN/ Vascular etc. for system operation. The following automation should include the 
+protocol:  
+Automatic set up of Imaging Controls & Modes.  
+Manual/Automatic steering in B Mode/ CDI/PW Doppler.  
+Initiation and auto completion of required measurements etc.  
+The System Should High Dynamic range of 200db or more. Higher Dynamic range will be 
+
+
+--- Page 11 ---
+Tender for High End Ultrasound Machine 
+Admn/Tender/29/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+preferred please specify range.  
+The system should have Power Doppler Imaging mode with directions.  
+The system should have PW Doppler & HPRF mode for all transducers 0.3 to 34 KHz.  
+Specify Color Velocity Scale Selection.  
+Pw Sample Gate selection should be 1mm to 20mm or more.  
+The Minimum Imaging Depth should be 30 cm or more and should be selectable by user. 
+The system should have US FDA approved Real Time Elastography (strain and shear wave) for 
+Liver, thyroid Breast, Prostate Applications. Also the Following feature’s Available in the 
+Elastography:  
+During Elasto mode, Reference 2D Mode should display side by side. After Freeze best cycle 
+selected from cine mode reference of Compression Wave.  
+Elastography should be Velocity based, The System should able to measure by ON LINE the 
+Stiffness of Tissue and Compare with Normal Tissue, and Ratio should be calculated between 
+Reference Tissue vs Target Tissue.  
+Convex and linear probe and Endocavity Probes Should Support strain elastography for all 
+applications including Prostate Elastography. Necessary Software should be Built In  
+Convex and linear probes should offer shear wave elastography for abdominal ,breast,and thyroid 
+etc applications.  
+System should be able to generate a color coded elastogram with a reference adjustable elasticity 
+scale for each application.  
+System should be able to display simultaneously both color coded elastogram and corresponding 
+B-Mode image in real time for performing elastography guided biopsies/FNAC.  
+There should be user adjustable elasticity box size with a Display Depth: 0-8cm.  
+Elastography quantification should be available with pixel accurate absolute or discreet Elasticity 
+values on all transducers.  
+Elastography quantification tool should be able to provide Mean, Max, Median & Min elasticity 
+values of the tissues in both m/s or kPA on all transducers.  
+System should have integrated report worksheet for Liver elasticity assessment.  
+The system shall provide Color coded stiffness map with 4 color display modes Color, size, strain 
+ratio, shear velocity.  
+Maximum Shear wave velocity 10m/s; Minimum Depth shear-wave imaging should be 16cm; 
+Minimum depth shear-wave quantification should be 8cm.  
+System should offer custom tissue imaging to improve lateral and contrast resolution in breast 
+imaging by modifying the speed of sound for fatty breast and adipose tissue.  
+The System Should have advanced Contrast Package available.  
+During contrast examination the system should be able to Display Wash In, retention and wash out 
+information in the lesion with Time intensity curves.  
+The system offer user selectable tint maps to allow enhanced visual conspicuity of contrast agent.  
+The System should have Contrast Quantification package so that it able to measure the arrival time 
+of contrast agent at any point of time.  
+The system shall provide a toolbox of at least five contrast imaging technologies:  
+a. - detection of the fundamental response of the CM  
+b. - detection of the harmonic response of the CM  
+c. - agent destruction imaging  
+d. - contrast capture imaging  
+e. - micro-bubble destruction imaging  
+The system shall offer contrast imaging package with Contrast Harmonic and Quantification.  
+CPS & CHI Switching Between Contrast Modes:  
+
+
+--- Page 12 ---
+Tender for High End Ultrasound Machine 
+Admn/Tender/29/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+Should offer low MI contrast agent imaging techniques and provides highly sensitive agent 
+detection with outstanding enhancement information System should have Biopsy Enhancement 
+mode for better Needle Insertion and Multiple Enhancement Level Adjustment should be possible.  
+System should have Real-time, Fusion Imaging allowing to locate difficult lesions faster and to 
+navigate complex anatomy securely, while carrying out invasive procedures. 
+a.     For a comprehensive pre- and post-interventional evaluation System should allow to work in 
+any ultrasound imaging mode including color Doppler and contrast-enhanced ultrasound etc 
+b.    System should have provision to show innovative navigation tool showing 3D reconstructed 
+data for intuitive probe positioning in quad view. 
+  
+c.     The System should have Dual view. 
+d.    System should able to view the Real time Ultrasound images overlapped with reference 
+CT/MR image like Blend Imaging. 
+  
+e.     The System should have Blend Image Brightness control to CT/Ultrasound data. 
+  
+f.     The System should have Sensor based 3D Information for Convex and Linear probes. 
+  
+g.    The Fusion Registration can be done simple two step operation of Angle and Position 
+synchronization. 
+  
+h.     The System should enable Quad display of live ultrasound with pre-loaded CT or MR data, 
+Blend Image (CT/MR Overlapped with Ultrasound), Volume based Sensor 3D Image combined 
+with an image of two   modalities with Intuitive probe position tool should be shown. 
+i.      Fusion Adopter should be Given for Convex and Linear Probes. 
+  
+j.      System should support Auto Track Device for CT and MR for Automatic Registration of 
+Fusion Data set and quoted as option.  
+  
+  
+The system should have advanced DICOM Modalities work list  
+Sophisticated Ergonomics:  
+A flexible multi joint arm supports the LCD monitor, allowing appropriate positioning for 
+operations in the standing or sitting posture to be achieved easily.  
+Monitor: 
+Monitor should be high resolution, 21” (inch) or more Back Lit LED/ LCD Monitor with 
+1080 x1080 matrix or more. Please specify resolution range with IPS technology. 
+Console:  
+The freely programmable, mode-sensitive 10” or more Color Touch Command Screen which 
+enables direct access to all basic and advanced system controls.  
+Convenient transducer trays on both sides should put. up to Six transducers within easy reach in 
+any scanning position.  
+Basic and advanced quantification functions should be activated directly on the programmable 
+console.  
+All Mode keys concisely arranged with multi-gain controller should enable direct access to all 
+imaging modes.  
+A retractable alphanumeric keyboard should be available to manually enter comments or patient 
+data  
+Control panel can be moved horizontally and vertically according to user comfort  
+Integrated gel warmer.  
+Data management:  
+
+
+--- Page 13 ---
+Tender for High End Ultrasound Machine 
+Admn/Tender/29/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+A large-capacity minimum 1TB HDD should be provided in the standard configuration, facilitating 
+efficient management of acquired images. Images can be viewed in Image Review Mode. Also cine 
+memory of more than 2000 frames should be available.  
+Filed images can have output via the USB port (USB Memory or USB HDD) or stored on 
+CD/DVD by Image Management.  
+Should be able to integrate with the then existing PACS in the institute with no extra cost.  
+Measurements and Calculations:  
+Auto measurement should be possible on frozen images and Images Recalled from the Image 
+archive.  
+The System should have Comprehensive set of Measurements in OB/ Gyn/ Carotid/ Lower Limb/ 
+Upper Limb / Thyroid / Testis / Abdominal Applications  
+Template customization should be possible.  
+On Board Report for all Packages – Report transfer to Print Page along with Selected Images will 
+be Printed using normal PC Printer.  
+Following Probes should be supplied along with system:  
+1.Convex Probe with Band width of 1MHz to 5MHz OR MORE with Biopsy Guide for Abdominal 
+applications and Support for Strain and Shear wave Elastography 
+2.Linear matrix probe of 5 to 9 MHz with Biopsy guide and should support Strain, Shear wave 
+Elastography and contrast imaging applications 
+3.Dedicated Trans-Rectal/Trans vaginal Probe with Band width of 4MHz to 9MHz OR MORE 
+with Biopsy Guide and should Support for Strain Elastography  
+4.Linear hockey stick probe of 5-14 MHz frequency for musculoskeletal applications. 
+  
+5.Linear probe of 7-17 MHz with strain elastography for musculoskeletal and small part 
+applications 
+ACCESSORIES  
+1.     Online UPS OF 2KVa for at least 30mins backup 
+  
+2.     Patient Couch (fully motorized high end with adjustable height to enable easy transfer of 
+patients) & two ergonomic high back operator Chairs. 
+  
+3.     Patient stool and stepper (one each). 
+  
+4.     One Computer desktop with core i7 CPU -Minimum 4 GB RAM ,1 TB storage with 32 inch 
+display. It should have the software required for real time transfer of ultrasound images in DICOM 
+format from the scanner to the computer. 
+  
+5.     One good quality colour paper printer with scanner. 
+  
+6.     Any other hardware required for optimum utilization of advanced applications on the scanner. 
+  
+7.     Stand alone gel warmer capable of holding three ultrasound bottles of standard size at a 
+time(Thermasonic or equivalent brand). 
+  
+8.     Wall mounted cabinets to be installed in the ultrasound room. 
+  
+9.     Patient privacy curtain and appropriate partition to optimize space utilization. 
+  
+10.  Ambient lighting in the room as per the ACR norms. 
+  
+11.  Signages as per the PC-PNDT guidelines. 
+
+
+--- Page 14 ---
+Tender for High End Ultrasound Machine 
+Admn/Tender/29/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 14 
+ 
+  
+12.  Appropriate probe cleansing solution adequate for one year. 
+  
+13.  Customised suitcases for keeping probes for storage. 
+  
+14.  Heavy duty cover for cables of probes to safeguard against rodent damage. 
+  
+15.  Biopsy guide attachments: 
+a.     Convex Curved array 1 - 5 MHz:One in number(non disposable). 
+b.    Linear array 5 - 9 MHz: One in number (non disposable). 
+c.     Endocavitary probe 4 – 9 MHz: Two in number (non disposable). 
+Onsite demonstration of the quoted unit may be asked for 
+Warranty Five years complete warranty for the entire equipment, probes and accessories which 
+should include service as well as parts . 
+Kindly note: The vendor will have to ensure that the ultrasound scanner has GPS and 
+tracker enabled as per PC-PNDT requirements. The same should also be maintained for five 
+years from date of installation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,142 @@
+--- Page 10 ---
+Tender for Digital Fundus Camera (Mydriatic & Non Mydriatic)                               Admn/Tender/116/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+ The Arbitration shall be held in accordance with the provisions of the Arbitration and Conciliation 
+Act, 1996 and the venue of arbitration shall be at Jodhpur. The decision of the Arbitrator shall be 
+final and binding on both the partied. 
+ 
+ Force Majeure: Any delay due to Force Majeure will not be attributable to the supplier. 
+ 
+ 
+Administrative Officer 
+AIIMS, Jodhpur 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Digital 
+Fundus 
+Camera 
+(Mydriatic 
+& Non 
+Mydriatic) 
+1. Field Angle: 45 Degree and 30 degree. 
+2. Capture Color, red- free and red pictures and pictures of the anterior 
+segment, as well as Fluorescent angiography .Live visualization, 
+Automatic multi image montage, stereo mode for 3D images. 
+3. Filters FA +ICGA exciter and barrier filters, Filter for green and Blue 
+images, filter for fundus auto fluorescence, UV/IR barrier filter. 
+4. Capture Sequence 1.5……………..2 seconds (depends on flash 
+energy)  
+5. Compensation for Ametropia  +35D ………..-35 D , continues  
+6. Pupil diameter            ≥4.0 mm 
+     ≥3.3 mm (Degree small pupil mode ) 
+01 
+
+
+--- Page 11 ---
+Tender for Digital Fundus Camera (Mydriatic & Non Mydriatic)                               Admn/Tender/116/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-II 
+ 
+TECHNICAL BID 
+ 
+Name of Firm/Contractor/Supplier 
+  
+ 
+Complete Address &  
+Telephone No. 
+ 
+  
+ 
+Name of Proprietor/Partner/Managing 
+Director/Director. 
+ 
+ 
+Phone No:- 
+ 
+ 
+7. Capture Sensor  : High resolution 3CCD medical grade camera 
+(Integrated ) 
+8. Fixation Internal: External & internal various programmed sequence 
+or freely position able special attention node. 
+9. Flash Energy  : Xenon Flash Lamp , 22 flash levels  
+10. Database:  Patient information and image with field angle, FA time, 
+R/L Recognition and date visit. 
+11. Computer  :  for archiving facility is a must with options of                    
+DVD + CD  
+12. Suitable ON Line UPS with one hour backup to be provided. 
+13. All hidden cost and maintenance cost should be clarified .List of all 
+consumables and their cost should be specified  
+14. The system should be USFDA or European CE approved model. 
+
+

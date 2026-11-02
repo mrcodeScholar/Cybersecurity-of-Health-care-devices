@@ -1,0 +1,70 @@
+--- Page 10 ---
+ Tender for High Frequency Ventilator (Oscillator)                                                      Admn/Tender/117/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+High 
+Frequency 
+Ventilator 
+(Oscillator) 
+Technical specifications for High frequency ventilator (oscillator) 
+ 
+ 
+ Ventilator suitable for pediatric age group including new born  
+ Modes: dedicated high frequency oscillator  
+ The following settings should be permitted:  
+ Mean airway pressure: upto 45 cm H20  
+ Frequency: upto 15 Hz  
+ Amplitude: upto 100  
+ Should allow active expiration  
+ Heated wire humidifier with servo temperature control 
+ Standard patient circuits for all age groups. Circuits and 
+tubings should be reusable. Two additional circuits and 
+humidifiers should be provided for each age group,  
+ Audible and visual alarms for low & high values of respiratory 
+parameters, oxygen concentration, and power failure should be 
+provided.  
+ Battery back up of at least 60 minute.  
+ Real time data display of set and measured values: Mean 
+airway pressure; amplitude, % inspiratory time, frequency, bias 
+flow and piston displacement.  
+ Should work on 220- 240 V AC.  
+ Device is produced by 1S0 9001 certified manufacturer 
+(Certificate to be submitted)  
+ Device is safety certified according CE 93/42, FDA 510k or 
+equivalent (Certificate to be submitted) 
+01 
+
+

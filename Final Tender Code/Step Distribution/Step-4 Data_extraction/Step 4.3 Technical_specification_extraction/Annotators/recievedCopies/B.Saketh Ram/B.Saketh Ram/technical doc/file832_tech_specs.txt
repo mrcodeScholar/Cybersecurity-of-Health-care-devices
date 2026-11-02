@@ -1,0 +1,300 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/URO/19/105/OT/B 
+ 
+Page 19 of 25 
+ 
+ANNEXURE-I 
+Specification for Multi-feature Electrosurgical Unit 
+Sl. 
+No. Item Descriptions 
+ 
+ 
+1 
+ 
+Technical specification of Multi-feature Electrosurgical Unit with Tissue-fusion & 
+Smoke evacuation capacity: 
+1. An integrated system of Electrosurgical generator with Monopolar, Bipolar, Bipolar 
+Resection in Saline and Tissue-fusion/Vessel-sealing energy delivery features in a single 
+generator. 
+2. Maximum Output Power: 300 W or better 
+3. The system should be micro-processor controlled which should identify the tissue type 
+with impedance feedback on a real-time basis and adjust the output power to get the 
+desired surgical effects on the tissue. 
+4. Number of Electrosurgical Mode Outputs: System should have at least two 
+monopolar outputs, one bipolar output and one tissue-fusion/vessel-sealing output. 
+5. Energy Output Controls & Settings: 
+A. Screen display of 7-inch or more (Touch Screen/ LCD display with soft keys/knobs)  
+for Monopolar, Bipolar, Bipolar Resection in Saline and Tissue-fusion/ Vessel-sealing 
+energy effect controls. 
+B. Auto LCD Backlight adjustment for good visibility in operating room. 
+C. Energy settings can be modified according to need. 
+D. The system should have recall facility to recall the last setting used by the user before 
+turning off the power. 
+6. Minimum Energy Output Modes: 
+A. “Monopolar CUT” Modes: 
+i) PURE CUT: provides a clean, precise cut in any tissue with little or no haemostasis. 
+ii) BLEND CUT: conventional blended waveform that provides slower cutting with 
+simultaneous haemostasis. 
+iii) SOFT CUT: precise and smooth cutting specifically for the use with wire or needle 
+electrodes. 
+B. “Monopolar COAG” Modes: 
+i) SOFT/ CONTACT COAG: desiccates tissue at a relatively slower rate with deeper 
+thermal penetrationtypically performed with a ball electrode. 
+ii) FULGURATION/ FORCED PREP: coagulates tissue by sparking from the active 
+electrode, through airto thepatient tissue. 
+iii) SPRAY: non-contact surface coagulation with shallow penetration & the affected tissue 
+area is larger than with the FULGURATION mode. 
+iv) IMPROVED HAEMOSTASIS/ URO COAG: It should deliver modified energy for 
+improved haemostasis; more efficient dissection & less tissue drag compared to traditional 
+Coagulation Mode. 
+C. Bipolar Output Modes: 
+i) LOW/ MICRO COAG: It delivers low-voltage output for precise control of the amount 
+of desiccation typically used with small-surfacearea instruments. 
+ii) STANDARD/ MACRO COAG: It is a conventional bipolar output typically used with 
+medium-surface area electrodes. 
+iii) HIGH/ NEPTUN: Power remains constant over a widerange of tissue types and may be 
+used for large electrodes. 
+D. Auto Bipolar Mode: Automatically senses tissue impedance between the two bipolar 
+electrodes with contact of any material, then uses the impedance information to 
+automatically start or stop bipolar energy delivery. 
+E. Bipolar Resectionin Saline Mode: 
+I) Compatible with Bipolar Resectoscopes of standard companies for resection in saline. 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/URO/19/105/OT/B 
+ 
+Page 20 of 25 
+ 
+ii) Selectable range of bipolar cut initiation. Maximum CUT power should be at least 
+300W. 
+7. Tissue-Fusion/ Vessel-Sealing mode features: 
+A. With special hand accessories capacity to be used on arteries, veins, pulmonary 
+vasculature, lymphatics & tissue bundles up to and including 7 mm in diameter for secure 
+haemostasis and division. Fused vessel should be able to withstand more than 3 times of 
+normal systolic blood pressure. Authentic certificate must be produced for the claim. 
+B. Should provide precise energy delivery and electrodepressure to vessels for a controlled 
+time period to achieve a complete and permanentfusion of the vessel lumen. System should 
+be able to continuously monitor the degree of sealing of the tissue using tissueimpedance 
+monitoring. Individual energy packets are sequentially emitted into the tissue in the form of 
+HF pulses, until the desired degree of sealing has been reached andthe process is 
+completed. 
+C. Current should be optimized to prevent adhesions, carbonization of tissues and lateral 
+thermal spread to adjacenttissue. 
+D. The system should be able to seal vessels or tissue bundles faster than any conventional 
+devices (preferably within 2-4 seconds). 
+E. Should support open and laparoscopic hand instruments. 
+F. The tissue-fusion/ vessel sealing hand instruments should have the user control 
+mechanism so that the surgeon can decide for a repeat seal before actually cutting it or even 
+not cutting it (No Auto-Cut). 
+G. System should have 5mm open/laparoscopic tissue fusion & cutting electrical 
+instruments with Maryland tip jaws fordissection of fine tissuesand faster operative 
+procedure. 
+H. System should have Haemostat type open tissue fusion & cutting electrical instruments 
+with curved tip for dissection thick tissuesand faster operative procedure. 
+I. Activation by both footswitch and hand control mode should be available for both in 
+Open & Laparoscopic Surgery. 
+8. Foot Controls: 
+A. System should have separate monopolar, bipolar and vessel sealing foot pedals or 
+having provision to use the same footpedal for bipolar and vessel sealing effects. 
+B. Should have an option of enabling or disabling the footswitches. 
+9. Patient Return Electrode Contact Quality Monitoring System: When the measured 
+Contact Resistance exceeds the standard range of safe resistance or when the measured 
+contact resistance increases above a threshold over the baseline, the alarm is activated and 
+electrosurgical energy output is disabled for patient safety. 
+10. Audio-Visual Indicators & Alarms: 
+A. Should have system status indicators such as self-test, ready for use, ready for tissue-
+fusion/ vessel sealing etc. 
+B. Should have different visual indicators with audible activation tones for different energy 
+mode settings. Activation tone volume should be user adjustable. 
+C. Alarm for “patient return electrode monitoring system” error. 
+D. System should have attached instruments status indicator. 
+E. Audio-Visual indicator for Tissue-fusion Cycle Complete. 
+F. Audio-Visual indicator for incomplete Tissue-fusion Cycle (Regrasp/ Reactivate). 
+G. Should have system error indicator. 
+11. The unit should have temperature sensing cooling system, which should operate 
+automatically to protect generator from thermal damage. 
+12. Upgradation facility: 
+A. System should be updatable & upgradable by updating required software. 
+B. System should have RS232/USB/Ethernet port or any other computer connectivity for 
+on field software upgrades and serviceability. 
+13. Connection to External Systems: 
+A. Should have Interlink cable ports (RS232/equivalent ports) to provide to signal other 
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/URO/19/105/OT/B 
+ 
+Page 21 of 25 
+ 
+devices for integration. 
+B. Should be compatible for integration with following external systems: 
+i) Smoke Evacuation Unit (with automatic function synchronised with activation of ESU). 
+ii) Argon Plasma Coagulator 
+iii) Integration with existing integrated OR system, Karl Storz OR1™ installed in Urology 
+OT of the institute. 
+iv) Integration with Robotic Instruments. 
+14. Should be compact and light weight, weighing less than 10 kg for installation on 
+Operating Room ceiling mounted boom system. 
+15. SMOKE EVACUATION SYSTEM: 
+i). Smoke Evacuation Unit: Qty.01 
+ii) Control features: 
+A. Can be integrated with supplied Electrosurgical Unit (ESU) for automatic function 
+synchronised with activation of ESU. 
+B. Automatic start of Smoke Evacuation Unit with user selectable suction power 
+synchronized with the activation of the ESU. 
+C. Additional manual Foot switch activation/ deactivation feature. 
+iii) Smoke Filter features: 
+A. Should have UPLA standard filter. 
+B. Filter-life monitoring display. 
+C. Filter shelf life at least 25 hours or more. 
+16. SMOKE EVACUATION ACCESSORIES: 
+i). Smoke evacuator footswitch: Qty.01 
+ii). Interlink cable to integrate with RF Generator Unit: Qty.01 
+iii). Smoke evacuation filter (UPLA standard): Qty.05  
+iv). Smoke Evacuation Pencil with 22mm (D) Evacuation Tubing: Qty.20 
+v). Air hose for connection with Laparoscopic Trocar 10mm (D) x 250-300cm (L): Qty.20 
+17. Input Power Requirement: 
+A. Input Power: 220–240 VAC, Power Cable with 6A three pin plug. 
+B. Backup Power: Should continue to operate normally within specifications with no errors 
+or system failures whentransfer is made between Mains AC line and an emergency hospital 
+backup power source during power failure. 
+18. Environmental Parameters: 
+A. Transport and Storage: Temp range: -10 to +60 degree C, RH range: 15% to 90%. 
+B. Operation: Temp range: 10 to 40 degree C, RH range: 30% to 75%. 
+19. System should be BIS/ European CE with four-digit certificate no./ US FDA 
+approved for the intended use. 
+ 
+20. Electrical Safety: 
+A. Leakage Currents and Patient Auxiliary Currents (IEC 60601-1): 
+i) Device must be tested for Touch Current, Earth Leakage Current, Patient Auxiliary 
+Current & Total Patient Leakage Current under Normal Condition and Single Fault 
+Condition (asdefined in IEC 60601-1).  
+ii) It shouldmeet all pertinent clauses of IEC 60601-1 latest edition. 
+iii) Testing certificate must be attached from a reliable standard testing laboratory for 
+the supplied electrosurgical unit at the time of delivery. 
+iv) Earth Leakage Current:  
+-absolute upper limit of 500 µA (Normal condition).  
+-absolute upper limit of 1000 µA (Single Fault Condition).  
+v) Touch current: 
+- absolute upper limit of 100 µA (Normal condition). 
+- absolute upper limit of 500 µA (Single Fault Condition). 
+vi) Patient leakage current: must comply to clauses of IEC 60601-1 latest edition. 
+B. High Frequency Leakage (IEC 60601-2-2):  
+
+
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/URO/19/105/OT/B 
+ 
+Page 22 of 25 
+ 
+-It shouldmeet all pertinent clauses of IEC 60601-2-2 latest edition. 
+-Testing certificate must be attached. 
+C. Protection Class I Equipment (IEC 60601-1): 
+- Accessible conductive parts cannot become live in theevent of a basic insulation 
+failurebecause of the way in which they are connected to theprotective earth conductor. 
+D. Application part Type CF Equipment/Defibrillator Proof (IEC 60601-1, IEC 
+60601-2-2and equivalent standard): 
+- Should have high degree of protection against electric shock regarding allowable leakage 
+currents. Can be used for procedures involving the heart. 
+21. Ingress Protection(IEC 60601-1 & IEC 60601-2-2): IP21 or better. 
+22. Electromagnetic Compatibility (IEC 60601-1-2 and IEC 60601-2-2):  
+- Should complies with the appropriate IEC 60601-1-2 and 60601-2-2 specifications 
+regarding electromagnetic compatibility. 
+23. Electrosurgical Unit Accessories: 
+A. Monopolar Foot switch: Qty.01 
+B. Bipolar Foot switch: Qty.01 
+C. Tissue-fusion/ Vessel sealing Foot switch: Qty.01 
+D. Universal active adaptor: Qty.01 
+E. Monopolar accessories: 
+i) Monopolar Cord for Laparoscopy instruments: Qty.02 
+ii) Monopolar Cord for under water resection: Qty.02 
+iii) Electrosurgical Pencils: Qty. 50 
+iv) Electrosurgical Electrodes, Blade-tip: Qty. 50 
+v) Electrosurgical Electrodes, Needle-tip: Qty. 10 
+F. Patient Return Electrodes: Single use, corded patient return electrodes: Qty. 50 
+G. Bipolar accessories: 
+i) Bipolar cord for bipolar forceps: Qty.02 
+ii) Reusable Bipolar Straight Forceps, 12-14cm, (Tip: 0.5-0.6mm): Qty. 04 
+iii) Reusable Bipolar Bayonet-shaped Forceps, 20-21cm, (Tip: 0.5-0.6mm): Qty. 04 
+iv) Reusable Bipolar Straight Forceps, 15-17cm, (Tip: 0.6-0.7mm): Qty. 04 
+v) Reusable Bipolar Bayonet-shaped Forceps, 19-20cm, (Tip: 0.6-0.7mm): Qty. 04 
+vi) Reusable Bipolar Bayonet-shaped Forceps, 22-23cm, (Tip:1.0mm): Qty. 04 
+vii) Reusable Bipolar Bayonet-shaped Forceps, 19-20 cm, (Tip: 2.0 mm): Qty. 04 
+H. Advanced Tissue-fusion Accessories (Open Surgery): 
+i) Hand instrument for Advanced Tissue-fusion & Cutting, Shaft Length 200-230mm, Shaft 
+diameter 5mm,Maryland Tip Jaws with blade, rotatable shaft, with a leverfor user 
+selectable cutting facility, seal length 18-21mm, cut length 17-19mm, Hand Switching or 
+Foot Switching activated: Qty.02 units if reusable with 10 no. disposable blades or Qty.12 
+units if disposable. 
+ii) Open Dissector/Tissue-fuser&Divider for advanced Tissue-fusion & Cutting, 
+Haemostat-style reusable clamp, thick curved jaws with blade, with a lever for user 
+selectable cutting facility: Qty.02 units with 10 no. disposable blades/ jaws with blade 
+whichever is applicable. 
+I. Advanced Tissue-Fusion Accessories (Laparoscopic Surgery): 
+i) Hand instrument for Advanced Tissue-fusion & Cutting, Shaft Length 370mm, Shaft 
+diameter 5mm, Maryland Tip Jaws with blade, rotatable shaft, with a lever for user 
+selectable cutting facility, seal length 18-21mm, cut length 17-19mm, Hand Switching or 
+Foot Switching activated: Qty.02 units if reusable with 10 no. disposable blades or Qty.12 
+units if disposable. 
+24. All equipment should be mounted on lockable four wheel based cart 
+manufactured by the original equipment manufacturer (OEM). 
+25. General Requirements: 
+i) All quoted equipments, instruments & accessories must be from a single 
+manufacturer. 
+
+
+--- Page 23 ---
+Tender No. : AIIMS/R/CS/URO/19/105/OT/B 
+ 
+Page 23 of 25 
+ 
+ii) Along the Bid all the firms are required to submit copy of manufacturer catalogue 
+with clear marking of each quoted item and catalogue No. with a highlighter to avoid 
+discrepancy.  
+iii) Warranty: Five years from the date of installation (including all spares and labour). 
+iv) CMC:For 6th to 10th year, after expiry of warranty period(including all spares and 
+labour). 
+v) All firms should have supplied the quoted equipments & instruments to AIIMS/ PGI/ 
+JIPMER/ SGPGI or other central institutes and should submit a certificate of satisfactory 
+working from the concerned Govt. Hospital. 
+26. Demonstration of Tissue-fusion/ Vessel sealing instruments if required during 
+evaluation. 
+27. All required quality &electrical safety testing certificates, brochures, user manual, 
+service manual & safety checklists & required maintenance schedule must be supplied in 
+original during installation. 
+ 
+ 
+Instructions for Online Bid Submission: 
+The bidders are required to submit soft copies of their bids electronically on the CPP 
+Portal, using valid Digital Signature Certificates. The instructions given below are 
+meant to assist the bidders in registering on the CPP Portal, prepare their bids in 
+accordance with the requirements and submitting their bids online on the CPP Portal.  
+More information useful for submitting online bids on the CPP Portal may be obtained 
+at: https://eprocure.gov.in/eprocure/app. 
+REGISTRATION 
+1) Bidders are required to enroll on the e-Procurement module of the Central Public 
+Procurement Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on 
+the link “Online bidder Enrolment” on the CPP Portal which is free of charge. 
+2) As part of the enrolment process, the bidders will be required to choose a unique 
+username and assign a password for their accounts.  
+3) Bidders are advised to register their valid email address and mobile numbers as 
+part of the registration process. These would be used for any communication 
+from the CPP Portal.  
+4) Upon enrolment, the bidders will be required to register their valid Digital 
+Signature Certificate  (Class II or Class III Certificates with signing key usage) 
+issued by any Certifying Authority recognized by CCA India (e.g. Sify/nCode / 
+eMudhra etc.), with their profile. 
+5) Only one valid DSC should be registered by a bidder. Please note that the bidders 
+are responsible to ensure that they do not lend their DSC’s to others which may 
+lead to misuse. 
+6) Bidder then logs in to the site through the secured log-in by entering their user 
+ID / password and the password of the DSC / e-Token. 
+ 
+SEARCHING FOR TENDER DOCUMENTS  
+1) There are various search options built in the CPP Portal, to facilitate bidders to 
+search active tenders by several parameters. These parameters could include 
+Tender ID, Organization Name, Location, Date, Value, etc. There is also an option 
+of advanced search for tenders, wherein the bidders may combine a number of 
+
+

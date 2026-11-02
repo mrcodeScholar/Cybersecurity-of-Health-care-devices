@@ -1,0 +1,196 @@
+--- Page 11 ---
+Tender For Hardware & Software for Server Room 
+   
+    AIIMS, Jodhpur 
+ 
+10 | P a g e  
+ 
+u) Solution must provide a group updater for remote site and must have bandwidth 
+throttling option to streamline updates and there by reducing load on the 
+bandwidth. 
+v) Should support for windows 2008, 2012, 2012 R2 (servers), Should support for 
+32 bit & 64 bit windows (incl. Windows XP, Windows 7, Windows 8, 8.1 and 
+Windows 10 all professional versions). 
+w) 250 User Business Pack for Server/Clients 
+ 
+Technical Specification for Windows Server 
+1. Recommended Brand - IBM/ Dell/ HP. 
+2. Other Descriptions & Features :-  
+a) Processor  
+ Intel® Xeon® processor E5-2600 v3 product family 
+Processor sockets: 2 
+Internal interconnect: Two QPI links at 9.6 GT/s 
+Cache: 2.5MB per core 
+ Recommended Two CPU Intel Xeon Processors  
+b) Operating System Supported 
+ Microsoft® Windows Server® 2008 R2 
+Microsoft Windows Server 2012 
+Microsoft Windows Server 2012 R2 
+Novell® SUSE® Linux Enterprise Server 
+Red Hat® Enterprise Linux 
+VMware® ESX® 
+c) Chipset 
+ Intel C610 series chipset 
+d) Memory 
+ Up to 2133MT/s DDR4 DIMMs 
+Maximum RAM: Up to 384GB (12 DIMM slots): 4GB/8GB/16GB/32GB 
+ Recommended Need (16 GB) 
+e) Embedded Hypervisor (Optional) 
+ Citrix® XenServer® 
+Microsoft Windows Server 2008, 2012 with Hyper-V 
+VMware® vSphere 
+f) Storage 
+ SAS, SATA, nearline SAS, SSD 
+ Recommended 8 TB Hard Disk Drive Installed 
+g) Ports 
+ Two USB 2.0 or above ports on front. Four USB 2.0 or above, one DB-15 
+video, one DB-9 serial, one RJ-45 systems management, four RJ-45 GbE 
+network ports on rear.  
+ Drive Bays 
+ Up to 8.8cm (3.5) SAS, SATA, nearline SAS,SSD drives with optional flex 
+bay 
+Up to 8.8cm (3.5) nearline SAS,SSD drives without optional flex bay 
+Up to 6.3cm (2.5) SAS, SATA, nearline SAS, SSD drives with optional flex 
+bay 
+ 
+
+
+--- Page 12 ---
+Tender For Hardware & Software for Server Room 
+   
+    AIIMS, Jodhpur 
+ 
+11 | P a g e  
+ 
+h) Slots 
+ Support for up to 2 x PCIe 2.0 + 4 x PCIe 3.0 
+i) RAID Controllers 
+ Support for a maximum of 1 internal controller and one external controller 
+PERC Η730,PERC Η730P and PERC Η830 
+j) Network Controller 
+ Four integrated Gigabit Ethernet 1000BASE-T ports (RJ-45) based on Intel 
+I350AM4 Quad Port GbE LAN Controller chip. 
+ Broadcom 5720 or Optional add-in NICs 
+k) Power 
+ 495W, 750W, 1100W hot-plug PSU, 450W cabled PSU 
+l) Availability 
+ 
+ECC memory  
+Single Device Data Correction (SDDC) 
+Spare Rank 
+Hot-plug hard drives 
+Hot-plug redundant power 
+iDRAC8 with Lifecycle Controller  
+Support for HA clustering 
+Virtualization-ready 
+Internal Dual SD Module (Failsafe Hypervisor)  
+TPM 1.2 
+m) Video Card 
+ 
+Video Type: Integrated Matrox® G200 with iDRAC8 
+Video Memory: 16 MB shared with iDRAC8 application memory 
+n) Chassis 
+ Tower, 5u rackable (Optional) 
+H: 444.3 mm (17.45) (Optional) 
+W: 430.2 mm (16.94) (without ears)  
+D: 584.05 mm (22.99) (Optional) 
+o) Warranty 
+ 3-year customer-replaceable unit and onsite warranty. 
+p) Accessories  
+ Compatible Key-board Mouse 
+ Two LED Display Monitors (Screen Size = 24” Recommended)  
+ 
+ 
+Technical Specification for Network Attached Storage 
+1. Recommended Brand - QNAP/Seagate/Buffalo. 
+2. Other Descriptions & Features :-  
+a) Item Height  
+ 
+ 
+ 
+14.9 Centimeters (above/below) 
+b) Item Width  
+ 
+ 
+ 
+9.9   Centimeters (above/below) 
+c) Item Weight 
+ 
+ 
+ 
+3 Kg (above/below) 
+d) Product Dimensions 
+ 
+ 
+20.2 x 9.9 x 14.9 cm (above/below) 
+e) Batteries  
+ 
+ 
+ 
+ 
+1 Lithium ion batteries required (included) 
+f) RAID Level 
+ 
+ 
+ 
+0 (Zero) 
+g) Number of RJ–45 & USB 3.0 ports 
+2 or More 
+h) Rack-mount or Standalone  
+ 
+Standalone 
+i) Lithium Battery Energy Content  
+225 Watt Hours 
+
+
+--- Page 13 ---
+Tender For Hardware & Software for Server Room 
+   
+    AIIMS, Jodhpur 
+ 
+12 | P a g e  
+ 
+j) Lithium Battery Voltage  
+ 
+3 Volts 
+k) Memory Size recommended  
+ 
+16 TB 
+l) Network Medium  
+ 
+ 
+Wired 
+m) External USB Hard Disk  
+ 
+Yes 
+n) Expansion & Remote Access 
+ 
+Yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,165 @@
+--- Page 11 ---
+Tender for ACLS Training System with Wireless Control and Patient Monitor for Anaesthesiology  
+        
+Admn/Tender/62/2018-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page11 
+ 
+ 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+ 
+01. 
+ 
+ACLS Training 
+System with 
+Wireless Control 
+and Patient Monitor    
+ 
+ACLS Training System with wireless control & patient monitor should 
+have following features:  
+ 
+I. Airway (head tilt/chin lift, jaw thrust) 
+ i. lntubation  
+ii. Oral/nasal airway insertion  
+iii. Supraglotic airways (LMA, LTA and Combitube)  
+iv. Sellick maneuver  
+v. Auscultation of lung sounds during ventilation 
+ vi. Realistic chest rise and fall  
+II. Cardiac Features 
+ i. Circulation 
+ 1. Instructor controlled ECG rhythm  
+2. ECG monitoring  
+3. Defibrillation (manual/automatic)  
+4. Auto conversion of ECG with defibrillation  
+5. Defibrillation sensors  
+6. Pacing  
+ii. Blood pressure/ Pulses 
+ 1. Adjustable pulse strength 
+ 2. Adjustable heart rate  
+3. Automatic carotid pulse (electronic pulses) Synchronized (w/ECG)  
+4. Carotid pulse check sensors 
+ 5. Pulses can be felt when palpated  
+6. Pulse strengths physiologically connected to the ECG rhythms  
+iii. Debriefing  
+1. Debriefing through time stamped recorded events  
+2. Quick Review of CPR performance  
+iv. Circulatory skills and IV drug administration  
+1. Volume infusion  
+2. Realistic flashback 
+ 3. IV insertion  
+III. CPR  
+i. 
+Anatomical landmarks  
+ii. 
+ Head tilt/chin lift sensors  
+iii. 
+ Ventilation with bag-valve-mask  
+iv. 
+ Ventilation measurement and feedback  
+v. 
+ Chest compressions  
+vi. 
+ Compression measurement and feedback 
+vii. 
+ Detailed CPR evaluation — 
+1. The wireless feedback should have following inbuilt features  
+2. Live feedback of CPR performance for single and multiple manikin 
+connection for comparison of BLS Performances learners 
+ 3. Single feedback system shall be able to connect with up to 6 
+Mannequins simultaneously for comparative feedback  
+4. Real time, live feedback of CPR performance  
+5. Training in Assessment mode (with no live feedback when required)  
+6. Detailed debriefing screens 
+ 7. Summary overviews highlighting areas for improvement  
+8. Multi-manikin overview for class teaching  
+9. Adjustable limits/thresholds for compressions and ventilations 
+(including ERC / AHA preset Guidelines)  
+ 
+10.  Detailed debriefing screens  
+a. Summary overviews highlighting areas for improvement  
+b. Annotation of events during CPR simulation 
+ c. Multi-manikin overview for class teaching  
+01 
+
+
+--- Page 12 ---
+Tender for ACLS Training System with Wireless Control and Patient Monitor for Anaesthesiology  
+        
+Admn/Tender/62/2018-AIIMS.JDH 
+AIIMS-Jodhpur 
+Page12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d.Adjustable limits/thresholds for compressions and ventilations  
+ 
+11. Wireless feedback system which shall measure and provide following 
+feedback  
+a. Real-Time Feedback  
+b. Compression Depth  
+c. Compression Rate  
+d. Incomplete Release 
+ e. Incorrect Hand position  
+f. Ventilation volume  
+g. Compression and Ventilation counter 
+ 12. The wireless feedback system should provide real time feedback on CPR to 
+improve the performance and should provide score at the end of the assessment.  
+IV. Gastrointestinal: Independent stomach  
+V. Eye Feature: Pupils can be set to Normal, Dilated, Constricted  
+VI. Simulation administration  
+i. 
+Event logging 
+ii. 
+ ii. Remote control  
+iii. 
+iii. Pre-programmed scenarios  
+VII. Patient Monitor — 
+i. Should provide concise clinical feedback and simulates physiological 
+parameters including wave form and value display for HR, ECG, Sp02, BP, 
+RR, Temperature, etCO2, as in a real patient monitor.  
+ii. CPR compressions should generate a blood pressure wave form & ECG 
+artifact.  
+VIII. Log —  
+i. 
+Should be able to assist the instructor verifying the student 
+performance as per pre-prepared check list.  
+ii. 
+ The system should also log intervention on the manikin.  
+IX. Wireless Instructor Control Device — 
+i. 
+The instructor can communicate with the learner through manikin 
+for assessment training.  
+ii. 
+ Should enable control of patient vital signs and physiological 
+parameters.  
+iii. 
+ Should enable optimal data capture for effective performance 
+debriefs.  
+iv. 
+ Should have two unique ways to control simulations. Instructors 
+can individually adjust parameters for real-time control or use pre-
+programmed content to reduce their workload and increase 
+standardization.  
+v. 
+v. Should have option to create and edit clinical settings.  
+X.  The system should be upgradable to integrate the optional training of rescue 
+and extrication techniques combined with CPR and trauma modules to practice 
+Life Saving First Aid together with CPR, Weighted, articulated arms and legs 
+with simulated wounds. The arms and legs feature a selection of simulated 
+burns, cuts and fractures. Limb articulation should allow for realistic patient 
+handling and immobilization training. 
+ 
+ Xl. Should have ISO and CE certification  
+ 
+
+

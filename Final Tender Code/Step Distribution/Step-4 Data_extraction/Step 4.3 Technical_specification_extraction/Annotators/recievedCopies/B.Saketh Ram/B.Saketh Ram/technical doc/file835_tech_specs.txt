@@ -1,0 +1,62 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Nu.Med./19/347/A/OT 
+ 
+Page 18 of 22 
+ 
+ANNEXURE-I 
+ 
+TECHNICAL SPECIFICATION  
+ 
+ 1. Lead Lining Fume-Hood  
+ 
+1. 
+Stailess Steel lead lining working area.  
+2. 
+Fluroescent lamp. 
+3. 
+Control panels with on/off switch for mains,motors. 
+4. 
+For Exhaust fan blower. 
+5. 
+External outlet Diameter 4”. 
+6. 
+Charcoal filter attachmenr. 
+7. 
+Inner MC pipe & plate with dual painted. 
+8. 
+Work zone area: Stainless steel grade 304. 
+9. 
+Lead shielding of 40 to 50 mm. 
+2. CRC  55 Dose Calibrator  
+ 
+1.Ionization chamber: Type: Thin wall,deep wall,high pressure,fill gas: 12 atm ultra pure Argon. 
+2.Measurement range: Type : auto ranging : activity : 250 GBq (6 Curie) max resolution : 0.001 MBq (.01 
+micro curie). 
+3.Display Screen : Type: 8” VGA LCD color touch screen display” Format: direct reading in Bq or Ci, 
+Displayed: nuclide name (atomic symbol, mass no., calibration no.). 
+4.Electrometer: Accuracy : better than ± 2% linearity : Within ± 2%. Response time : Within 2 Seconds, 4 
+to 16 secs for low activity samples. 
+5.Repeatability of measurement within ± 1% within 24 hrs. 
+6.Radionuclide sources for daily Quality Control Purpose. 
+7.Test : Program system test,background correction, auto zero, data check. 
+8.Nuclide keys, over 80 nuclide (with calibration no. and half life). 
+9.PC port interface : RS- 232 & USB. 
+10.Attached Printer. 
+11.Power 100-240 VAC (50/60 Hz) 90 mA. 
+ 
+3.Ionization Chamber 
+ 
+1.Direction or Location of the source of radiation is unknown. 
+2.Availabe in different count rate, dose rate ranges. 
+3.Display gamma count rate, dose rate. 
+4.accumulated dose, stay time & peak values. 
+5.Run 900 hours on 2 AAA batteries. 
+6.Light weight at 160-200 grams. 
+7.Portable & accurate with excellent dose rate energy response. 
+8.Large measuring range. 
+9.Measure alpha,beta,gamma in a single unit. 
+10.3 filters options for dose rate monitoring & alpha particle blocking. 
+11.Calibration should be provided by the vendor after one year. 
+ 
+
+

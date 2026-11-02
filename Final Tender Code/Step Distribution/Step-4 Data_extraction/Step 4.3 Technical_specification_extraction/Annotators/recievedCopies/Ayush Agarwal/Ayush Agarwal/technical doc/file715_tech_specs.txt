@@ -1,0 +1,100 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Micro/18/88/A/OT 
+ 
+Page 18 of 23 
+ 
+ANNEXURE-I 
+DETAILED TECHNICAL SPECIFICATION FOR 
+MALDI-TOF MS 
+ 
+ 
+ 
+1. Fully automated with suitable software, work stations and full available database for full 
+microbial identifications including bacterial (Gram Positive, Gram Negative, aerobic, 
+anaerobic), Fungal (Yeast and molds), Mycobacterial (MTB complex and NTM) and 
+filamentous bacteria. 
+2. The system should also be capable of doing basic protein analysis such as Molecular 
+weight profiling, dendogram production, biomarker analysis, ans SNP studies. 
+3. Instrumentation –  
+3.1 The instrument should be fully automated working on the principle of matrix 
+assisted laser desorption ionization – time of flight (MALDI-TOF) mass 
+spectrometry technology. 
+3.2 Should have linear time of flight (TOF) measurement. 
+3.3 Should have oil free vacuum pumps for easy maintenance.  
+3.4 Should be equipped with nitrogen laser preferably 337 nm with repetition rate 
+upto1-60 Hz. 
+3.5 Should be FDA approved and have CE and IVD certifications. 
+4. Software –  
+4.1 Should be windows based, easy to use and versatile. 
+4.2 Result should be directly displayed as species of microbes. 
+4.3 Should be capable of doing in-depth analysis with bioinformatics tools for sub 
+typing and dendogram. 
+4.4 Should have taxonomic trees against reference spectra concerning taxonomic 
+relationship. 
+5. Analytical parameters  
+5.1 Capable of identifying microbes upto species level. 
+5.2 Sensitive enough to detect low amount of cells ~ 105 cells. 
+5.3 Capable of denoting taxonomical classification 
+5.4 Capable of denoting mixed population (atleast 2 species) in a mixed culture. 
+6. Database  
+6.1 Should be integrated with a ready to use reference library. 
+6.2 The reference library provided should be upto date. 
+6.3 The database should have automatic regular updates when available. 
+7. Custom library 
+7.1 System should have software capability to generate database for new microbial 
+species by the user at his laboratory itself. 
+7.2 Database should have an open architecture to allow customize in-house library 
+generation. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Micro/18/88/A/OT 
+ 
+Page 19 of 23 
+ 
+ 
+8. Workstation –  
+8.1 Suitable windows operating system with minimum configuration of i7 processor, 
+8GB RAM, 1TB hard disc space, MHz digitizer, DVD rewriter with other 
+accessories. High resolution LED colour monitor.  
+8.2 Colour laser printer with wireless printing facility and one set extra balck and all 
+colour catridge must be provided. 
+8.3 Original latest MS Office software for one computer and an antivirus with 3 years 
+validity must be provided. 
+ 
+9. Should provide any upgradation and update of system and software (if any) free of cost for 
+next 5 years from the date of installation. 
+ 
+10. Must provide the accessories, consumables and miscellaneous items 
+10.1 
+Essential reusable MALDI target plates. 
+10.2 
+Matrix and standards for mass calibration and barcode scanner. 
+10.3 
+All consumables required for installation and demonstration of system. 
+10.4 
+All necessary consumables for processing of 500 aerobic bacteria, 100 
+anaerobic bacteria, 100 Mycobacteria, 100 yeasts, 100 fungus and 50 filamentous 
+bacteria. 
+11. Should be easily connected with the existing fully automated AST system (Vitek -2), if 
+not the case, then should provide a fully automated antibiotic sensitivity system (FDA 
+approved) with necessary consumables for 500 strains using that machine. 
+12. Full list of installations with models in medical colleges and hospitals with full details of 
+contact persons to be provided. 
+13. 5 years of comprehensive warranty. 
+14. Should address the break down with 24 hours by an onsite visit. Vendor must undertake to 
+ensure service and repair in this regard. 
+15. CMC for subsequent 5 years. 
+16. To provide all the required electrical accessories (including compatible online UPS), 
+required ACs, for instrument running. 
+             Provide onsite training to the staff mandatorily. 
+ 
+ 
+ 
+
+

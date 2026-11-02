@@ -1,0 +1,145 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Pul-Med/18/035/OT 
+ 
+ 
+ 
+Page 19 of 24 
+ 
+Annexure - I 
+ TECHNICAL SPECIFICATION OF 
+     “BROADBASED QR FOR BODY PLETHYSMOGRAPH WITH        
+                                   DIFFUSION STUDY ” 
+         FOR DEPARTMENT OF PULMONARY MEDICINE 
+ 
+ 
+Body Box (Pleythsmography Machine)  
+ 
+ 
+A wide cabin with internal volume range of > 800 litres to provide ease of 
+accessibility and comfort to the patient without effecting volume changes. 
+ 
+Transparent robust glass walls to ensure visibility from all sides and minimize any 
+claustrophobic feeling for the patient. 
+ 
+The seat must be ergonomic, comfortable and adjustable in height to bear weight up 
+to 150Kg 
+ 
+The arm for the breathing valve support, must be flexible enough to allow tests 
+execution even outside the cabin 
+ 
+Controlling station should be on a movable trolley. 
+ 
+Intercom for communication with the patient 
+ 
+Test and minimum set of parameter required 
+ 
+Dynamic lung 
+volumes 
+Measurement of the Forced Vital Capacity (FVC), Slow Vital 
+Capacity (SVC) and Maximal Ventilatory Ventilation (MVV). 
+Graphic display of Flow/volume, Volume/time loops. 
+Bronchial challenge 
+test 
+a) Measurement of the response to Bronco constriction and 
+Bronco dilatation, graphic display of fall FEV1.   
+b) Broncho-Challenge test with Body Plethysmography (RAW 
+Challenge test) 
+Static lung volumes 
+Measurement of TGV, RV, VC, IRV, ERV, FRC, TLC 
+Airway resistance 
+RAW (Insp, exp, tot), SRAW, GAW, SGAW, Derived parameters 
+ 
+Respiratory 
+Mechanics 
+MIP/MEP and Respiratory Drive (P0.1) 
+ 
+Lung Diffusion 
+Capacity Tests  
+ 
+a) Single-Breath with Apnea 
+b) Single Breath without Breath Holding (Intrabreath). 
+ 
+Technical Specifications 
+ 
+Flowmeters:  Pneumotachograph with Bidirectional precision 
+ 
+CO Analyzer: Should be Non Dispersing Infrared (NDIR)  
+ 
+CH4 Analyzer: Should be Non Dispersing Infrared (NDIR)  
+or  
+ 
+Helium Analyzer: Ultrasonic Mol mass/Thermal Conductivity determination technique  
+ 
+Sensors: All sensors should preferably be non-consumable or their life should be 
+specified and the bidder should arrange free sensors for the warranty/CMC period. 
+ 
+Box Pressure Sensor: Type Piezoresistive Range ±1cmH2O Resolution 0.05 cmH2O 
+ 
+Mouth Pressure Sensor:  Type Piezoresistive Range ±70cmH2O Resolution 0.1 cmH2O 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Pul-Med/18/035/OT 
+ 
+ 
+ 
+Page 20 of 24 
+ 
+ 
+Environmental Sensors: The system should have temperature, Barometric and 
+Humidity Sensors. 
+ 
+Power Supply: The operating AC Voltage range should be 100-240V AC±10% 50/60Hz 
+ 
+Interface: It should have RS232/USB interface for connecting to a computer. 
+ 
+Software: Latest Software should be supplied with the equipment. The management 
+software should be designed for Windows 10 environment and also should be able to 
+connect to online hospital information system and work flow when necessary with easy 
+data storage and recovery for research purpose. 
+ 
+Essential Accessories: The system should be supplied with all essential accessories 
+required like: 
+ 
+1. Latest Compatible Desktop PC, with latest processer CPU(latest Generation), > 
+18.5” LED Color Display, 8 GB RAM, 2 TB Hard Disk, Original Windows 10 and 
+DVD R/W with facility to expand up to 10TB 
+2. High quality latest Colour Printer : 01 
+3. On line UPS (1 KVA) : 01to provide power backup up to atleast 3hrs 
+4. Diffusion Test gas cylinder (02 Nos) 
+5. Compressed air Cylinder Medical Grade for Body Box (02 no.) 
+6. Regulators (02 nos.) 
+7. Reusable Rubber Mouthpieces: 200 nos.  
+8. Anti-Bacterial Filters: 3000 nos.  
+9. Reusable rubber nose clips: 100 nos. 
+10. Refilling of DLCO GAS: 02 nos. 
+ 
+Quality assurance:  
+1. The system should have ISO/ BIS/ European CE/US FDA, certifications and 
+should meet latest ATS/ERS standardization guidelines.  
+2. The company should also provide a certificate stating the model provided in the 
+latest version available.  
+3. The company should also provide a certificate stating that spare parts and service 
+with available easily for atleast next 10 yrs 
+Warranty:  
+1. Unconditional onsite warranty of 5yrs and 5yrs of CMC after the expiry of 
+warranty (CMC rates to be quoted separately) 
+2. Training of our technician whenever necessary or when requested by department.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

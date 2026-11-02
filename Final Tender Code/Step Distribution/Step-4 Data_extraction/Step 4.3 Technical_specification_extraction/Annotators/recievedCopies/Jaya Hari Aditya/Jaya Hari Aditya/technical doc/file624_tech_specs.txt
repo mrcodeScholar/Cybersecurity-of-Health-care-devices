@@ -1,0 +1,176 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Pul-Med/17/4977/OT 
+ 
+ 
+ 
+Page 18 of 24 
+ 
+Annexure - I 
+        TECHNICAL SPECIFICATION  
+ 
+        POLYSOMNOGRAPHY (SLEEP STUDY) 
+ 
+FOR DEPARTMENT OF PULMONARY MEDICINE  
+  
+Technical Specifications- Polysmnography (Sleep Study) 
+ 
+1    Description of Function - 
+ 
+1.1 Polysomnography and sleep studies are performed to diagnose illness or 
+syndromes  related to sleep 
+ 
+2   Operational Requirements  
+ 
+2.1 Polysomnography System must have integrated ZRIP driver allows to setup the 
+patient faster and easier by reducing the no. Of connection during hook-up. 
+ 
+3   Technical Specifications  
+3.1 Total Number of Channels should be         :      More than 60 
+a)   EEG input should be                                 :      32 
+b)   The machine should have EMG input of    :      5 
+c)   The machine should have EOG of              :      2 
+d)   The machine should have ECG                  :      7 (3 Physical and 4 derived) 
+e)   Nasal /oral/Airflow                                    :      1 
+f)   Flow (Thermal)                                            :      1 
+g)  Respiratory Effort , Zrip                              :      2 
+h)  Snoring, Microphone                                  :      1 
+i)   Body Position                                             :       1 
+j)   CPAP Pressure                                           :      1 
+k)  Limb Movement                                         :      2 
+l)   SaO2 [Masimo/Nonin/Nellcor/FAST]        :      1 
+m) Pulse rate                                                 :      1 
+n) Light sensor                                              :      1 
+o) Sensors                                                     :       2 
+3.2 Sensor- pediatric and adult, microphone, pulse Oximeter sensor and leads) of 
+ECG, EEG, Leg & chin EMG, EOG 
+3.3 Additional 8 DC channels for external peripherals like capnography, PH, blood 
+pressure Monitor etc. 
+3.4 Other Technical Specifications  
+a)  Pressure transducer for nasal air flow 
+b)  Automatic chin EMG referencing                                                                                
+                                                                                                                                                      P.T.O  
+ 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Pul-Med/17/4977/OT 
+ 
+ 
+ 
+Page 19 of 24 
+ 
+c) Integrated Pulse Oximeter.  
+d) on screen impedance check   
+e) Pulse transit time (PTT)                                                                                                       
+f)  Adjustable gain and notch filter.  
+g) Full compressed raw data stored on all channels.   
+h) Facility for fully synchronized and integrated patient video recording and 
+monitoring. 
+i) Video camera should be networked 
+j) Real time Access to studies for analysis currently being recorded from the 
+review/recording station.  
+k) Data replay with software operates on latest Microsoft windows professional. 
+Computer with 8 GB RAM with 1024 GB hard drive with colour laser Printer.   
+l) Computer interface through LAN for integration into hospital network. 
+m) Portable recording workstations can operate anywhere/on standalone basis.  
+n) Screen resolution from 800 X 600 to 1200 X 1600  
+o) User definable Montages, montage changes  
+p) User configurable reports-All night dump sleep stage summary, Arousal summary 
+etc.  
+q) Automatic Sleep Staging with manual override, Respiratory / PLM¡¦s analysis, 
+Neurological events.  
+r) Independent, selectable time basis for upper & lower portions of the screen enabling 
+the see fast moving traces like EEG and Slower respiratory waveforms on the lower 
+half.  
+s) Capnography Should Be there [accuracy ± 0.1% ] 
+t) Titration device should be as follows:-  
+Modes: CPAP, Auto CPAP, S, Auto Bi-level, S/T, T, PC, AutoSV, AVAPS-AE. 
+Weight Approximately: less than 2.5 kg 
+Altitude compensation: Automatic  
+Pressure ranges 
+    CPAP          : 4- 20 cm H2O 
+    Auto CPAP  : 4- 20 cm H2O 
+    S Mode :EPAP: 4-25 cm H2O, IPAP: 4 – 30 cm H2O  
+    Auto Bi-level : EPAP: 4 -25 cm H2O,IPAP  4-25 cm H2O 
+    S/T, T, PC:EPAP:4- 25 cm H2O,  IPAP:4 – 30 cm H2O 
+    AutoSV :EPAP: 4-30 cm H2O, Pressure Support:  0- 26 cm H2O 
+    AVAPS-AE: 4-30 cm H2O, Pressure Support 2 – 26 cm H2O 
+It should have integrated Humidifier 
+It should be USFDA approved. 
+4. System Configuration Accessories, spares and consumables  
+5.    Environmental factors  
+5.1 Shall meet IEC-60601-1-2:2001(Or Equivalent BIS) General Requirements of  
+      Safety for Electromagnetic Compatibility. or should comply with 89/366/EEC;  
+      EMC-directive. 
+ 
+5.2 The unit shall be capable of operating continuously in ambient temperature of  
+      20- 30 deg C and relative humidity of 30-70% 
+                                                                                                                      P.T.O.           
+ 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Pul-Med/17/4977/OT 
+ 
+ 
+ 
+Page 20 of 24 
+ 
+6 Power Supply  
+6.1 Power input to be 220-240VAC, 50Hz fitted with Indian plug  
+6.2 UPS of suitable rating with voltages regulation and spike protection for 60 
+minutes back up. 
+7 Standards, Safety and Training  
+7.1 Should be US FDA approved  
+7.2 Manufacturer should have ISO certification for quality standards.                                     
+                                                                                       
+7.3 Comprehensive training for lab staff and support services till familiarity with the  
+       System.  
+7.4 Electrical safety conforms to standards for electrical safety IEC 60601-1 (OR  
+      EQUIVALENT international/national standard) General requirement for Electrical  
+      safety of Medical Equipment. 
+8 Documentation  
+8.1 User/Technical/Maintenance manuals to be supplied in English.  
+8.2 List of important spare parts and accessories with their part number and costing.  
+8.3 Compliance Report to be submitted in a tabulated and point wise manner clearly 
+mentioning the page/para number of original catalogue/data sheet. Anypoint ,if not 
+substantiated with authenticated catalogue/manual, will not be considered.  
+8.4 Certificate of calibration and inspection.  
+8.5 List of Equipments available for providing calibration and routine Preventive 
+Maintenance Support  as per manufacturer documentation in service/technical 
+manual. 
+9 Interior  
+9.1   2 ton spilt ac  for each room  [Daikin/O-Genral/hitachi/Mitsubisi] 
+9.2   
+ 
+One complete wooden double bed 6 feet width x 6 feet length with suitable 
+double bed mattress (sleepwell/ kurlon) with side table  
+ 
+One wooden double door cupboard with 70cm length x 35 cm width with 
+multiple internal racks and one locker. 
+9.3   40 inch lcd tv [sony/samsung/sharp/philips/panasonic] 
+9.4   sound proofing [more than 10db sound] 
+9.5   False roofing with all necessary POP work with adequate LED lighting (Philips).  
+10 – Additional Accessories:- 
+ 
+Actigraphy-1 
+ 
+LoFlo (Etco2) Starter Kit – 1 
+ 
+Standard Set of sensor Kit - 2  
+11- Term And Condition – 
+ 
+5 years comprehensive warranty after installation. 
+ 
+CMC for 5 years after completion of 5 years warranty of the equipment, spare 
+Parts/ accessories used. 
+ 
+The company should give the certificate that the model quoted is the latest and 
+not obsolete, and spares will be easily available for next 7 years. 
+ 
+ 
+  
+ 
+     
+
+

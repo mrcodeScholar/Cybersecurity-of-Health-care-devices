@@ -1,0 +1,21 @@
+--- Page 26 ---
+ 
+AIIMS Rishikesh tender Enquiry No. T.No 24/RC/Glucose Assessment Tool/640/2022-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 26 
+ 
+ 
+Technical Specifications of Glucose Assessment Tool 
+1. Small and Discrete: The sensor is placed on the back of the upper arm and water resistant 
+2. Very thin filament: Filament is 0.4mm thick and inserted 5mm beneath the skin surface to measure 
+the interstitial fluid. 
+3. No finger stick calibration  
+4. Upto Two weeks of data: Automatically records glucose level every 15 minutes to provide more 
+insightful patterns 
+5. No patient interaction with the sensor is required designed to integrate with patients daily live 
+6. No separate receiver, transmitter or recorder to wear or carry.  
+Note: The quoted product should be compatible with equipment manufactured by M/s Abbott 
+Diabetes Care Ltd. 
+Bidder has to submit authorization certificate from OEM i.e. M/s Abbott Diabetes Care Ltd. 
+
+

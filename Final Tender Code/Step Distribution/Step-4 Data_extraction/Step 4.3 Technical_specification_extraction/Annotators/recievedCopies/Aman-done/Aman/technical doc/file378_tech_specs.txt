@@ -1,0 +1,46 @@
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Transfusion./231(I)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+Specification 
+ 
+1. The equipment can be used for automatic separation component using PRP as well as 
+Buffy coat methods for preparation of leucoreduced platelets, platelet poor plasma and 
+Red cells. 
+2. Should be an open system compatible with any brand of blood bag (Top & Bottom as 
+well as Top & Top Outlet bags) made to international standards (DB, TBS, QBS). 
+3. Should have more than 10 users selectable optical sensors to separate the 
+components very accurately. 
+4. The equipment comes integrated with Five Radio Frequency sealing heads and clamps. 
+5. The equipment has a built in 3 electronic weighing scales to measure plasma, SAGM 
+and Buffy coat. 
+6. The equipment has a built in user friendly control panel and online interacting process 
+display. 
+7. The equipment has a facility to remove the air from the primary bag before plasma 
+separation. 
+8. The equipment should have 11 programmes for separation. 
+9. The equipment should have angular press to avoid turbulence between layers with flow 
+regular sensors. 
+10. The equipment comes integrated with the software’s, which records the detail of the 
+separation with the help of barcode reader. The data transfer will be through Power 
+Line Communication (PLC) for a cable free connectivity of machine with remote 
+computer. The equipment can work as the stand-alone unit without losing its efficiency 
+even if the computer connections are not available. 
+11. The equipment should be CE marked. 
+12. Should have Top Angle press separation mechanism to avoid turbulence during 
+separation. 
+13.Should operate with pneumatic controls with noise free compressor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,210 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Pul-Med/17/4977/OT 
+ 
+ 
+ 
+Page 18 of 24 
+ 
+Annexure - I 
+        TECHNICAL SPECIFICATION  
+ 
+        POLYSOMNOGRAPHY (SLEEP STUDY) 
+ 
+FOR DEPARTMENT OF PULMONARY MEDICINE  
+  
+ 
+Technical Specifications- for Polysmnography (Sleep Study) 
+ 
+1    Description of Function - 
+ 
+1.1 Polysomnography and sleep studies are performed to diagnose illness or 
+syndromes  related to sleep 
+ 
+2   Operational Requirements  
+2.1 System complete with all hardware and software is required 
+3   Technical Specifications  
+3.1 Total Number of Channels should be         :      More than 60 
+a)   EEG input should be                                 :      32 
+b)   The machine should have EMG input of    :      5 
+c)   The machine should have EOG of              :      2 
+d)   The machine should have ECG                  :      7 (3 Physical and 4 derived) 
+e)   Nasal /oral/Airflow                                    :      1 
+f)   Flow (Thermal)                                            :      1 
+g)  Respiratory Effort , Zrip                              :      2 
+h)  Snoring, Microphone                                  :      1 
+i)   Body Position                                             :       1 
+j)   CPAP Pressure                                           :      1 
+k)  Limb Movement                                         :      2 
+l)   SaO2 [Masimo/Nonin/Nellcor/FAST]        :      1 
+m) Pulse rate                                                 :      1 
+n) Light sensor                                              :      1 
+o) Sensors                                                     :       2 
+3.2 Sensor- pediatric and adult, microphone, pulse Oximeter sensor and leads) of 
+ECG, EEG, Leg & chin EMG, EOG 
+3.3 Additional 8 DC channels for external peripherals like capnography, PH, blood 
+pressure Monitor etc. 
+3.4 Other Technical Specifications  
+a)  Pressure transducer for nasal air flow 
+b)  Automatic chin EMG referencing                                                                                
+                                                                                                                                                      P.T.O  
+        
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Pul-Med/17/4977/OT 
+ 
+ 
+ 
+Page 19 of 24 
+ 
+c) Integrated Pulse Oximeter.  
+d) on screen impedance check   
+e) Pulse transit time (PTT)                                                                                                       
+f)  Adjustable gain and notch filter.  
+g) Full compressed raw data stored on all channels.   
+h) Facility for fully synchronized and integrated patient video recording and 
+monitoring. 
+i) Video camera should be networked 
+j) Real time Access to studies for analysis currently being recorded from the 
+review/recording station.  
+k) Data replay software operates on Microsoft, Window XP, Window Vista, and 
+Window 7 professional. Computer System with 8 GB RAM & 500 GB Hard Disk. And 
+Colour Printer (Laser). 
+l) Computer interface through LAN for integration into hospital network. 
+m) Portable recording workstations can operate anywhere/on standalone basis.  
+n) Screen resolution from 800 X 600 to 1200 X 1600  
+o) User definable Montages, montage changes  
+p) User configurable reports-All night dump sleep stage summary, Arousal summary 
+etc.  
+q) Automatic Sleep Staging with manual override, Respiratory / PLM¡¦s analysis, 
+Neurological events.  
+r) Independent, selectable time basis for upper & lower portions of the screen enabling 
+the see fast moving traces like EEG and Slower respiratory waveforms on the lower 
+half.  
+s) Capnography Should Be there [accuracy ± 0.1% ] 
+t) Titration device should have modes like: CPAP, Auto CPAP, BIPAP, Adaptive 
+ventilator. (Same make) 
+4. System Configuration Accessories, spares and consumables  
+5.    Environmental factors  
+5.1 Shall meet IEC-60601-1-2:2001(Or Equivalent BIS) General Requirements of  
+      Safety for Electromagnetic Compatibility. or should comply with 89/366/EEC;  
+      EMC-directive. 
+ 
+5.2 The unit shall be capable of operating continuously in ambient temperature of  
+      20- 30 deg C and relative humidity of 30-70% 
+ 
+6 Power Supply  
+6.1 Power input to be 220-240VAC, 50Hz fitted with Indian plug  
+6.2 UPS of suitable rating with voltages regulation and spike protection for 60 
+minutes back up. 
+7 Standards, Safety and Training  
+7.1 Should be US FDA approved  
+7.2 Manufacturer should have ISO certification for quality standards.  
+                                                                                                                         P.T.O.           
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Pul-Med/17/4977/OT 
+ 
+ 
+ 
+Page 20 of 24 
+ 
+                                                                                       
+7.3 Comprehensive training for lab staff and support services till familiarity with the  
+       System.  
+7.4 Electrical safety conforms to standards for electrical safety IEC 60601-1 (OR  
+      EQUIVALENT international/national standard) General requirement for Electrical  
+      safety of Medical Equipment. 
+8 Documentation  
+8.1 User/Technical/Maintenance manuals to be supplied in English.  
+8.2 List of important spare parts and accessories with their part number and costing.  
+8.3 Compliance Report to be submitted in a tabulated and point wise manner clearly 
+mentioning the page/para number of original catalogue/data sheet. Anypoint ,if not 
+substantiated with authenticated catalogue/manual, will not be considered.  
+8.4 Certificate of calibration and inspection.  
+8.5 List of Equipments available for providing calibration and routine Preventive 
+Maintenance Support  as per manufacturer documentation in service/technical 
+manual. 
+9 Interior  
+9.1   2 ton spilt ac  for each room  [Daikin/O-Genral/hitachi/Mitsubisi] 
+9.2   one double bed one sofa, cubud 
+9.3   40 inch lcd tv [sony/samsung/sharp/philips/panasonic] 
+9.4   sound proofing [more than 10db sound] 
+9.5   false floring as well as POP with LED lighting  
+ 
+Five Years Warranty / CMC with provision of consumables supplies free of 
+cost. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/Pul-Med/17/4977/OT 
+ 
+ 
+ 
+Page 21 of 24 
+ 
+        
+Warranty and CMC: 
+ Should provide Warranty period:  As per mentioned on the Annexure and CMC after warranty 
+as per mentioned on the Annexure. 
+ Availability of spares for at least 10 years after date of installation.  
+ Comprehensive  warranty   would  include  all  parts-plastic, metallic,  glass,  batteries  and  
+rubber  (without  any  exclusion)  except the consumable accessories listed above.  
+ Comprehensive warranty  would include periodic checking and  periodic  calibration  of  all  
+parameters  strictly  as  per manufacturer’s  recommendations  (at  least  every  6  month)  
+and  any spares or standards required for that.  
+ Should have online and telephonic registration of the complaints.  
+ Should have resident service engineer available in Raipur within 24 hrs to solve the 
+complaints.  
+ Down  time  of  the  equipment  will  start  from  the  time  of  lodgement  of first complaint.  
+ The company must ensure that the machine remains FULLY functional all the time for the 
+period of warranty and CMC.  
+ No  request  in  this  regard  will  be  entertained  on  the  pretext  of  on availability of items 
+with the supplier/company.  
+  Prices of all Equipments and CMC should be quoted separately and frozen for the period 
+including warranty and CMC.  
+ Should have local service facility and should have the necessary equipment’s to carry out 
+preventive maintenance test.  
+ Onsite physical demonstration and training of the equipment to all the end users with all the 
+requested facilities will be mandatory.  
+ Original literature, and not the photocopy, to be supplied with the quotation.  
+ Company should certify that model quoted is latest and not obsolete, and spares are available 
+for minimum 5 years after warranty (5 years).  
+ Warranty and CMC should be provided by company and accessories should be included in 
+warranty and CMC. 
+ Should provide the preventive maintenance in every 6 month and also calibrate the machine 
+at the time PM if required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

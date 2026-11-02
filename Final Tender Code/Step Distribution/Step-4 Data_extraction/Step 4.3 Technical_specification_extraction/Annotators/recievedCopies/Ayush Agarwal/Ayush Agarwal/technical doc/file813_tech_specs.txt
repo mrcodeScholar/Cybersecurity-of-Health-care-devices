@@ -1,0 +1,93 @@
+--- Page 17 ---
+ 
+                         Tender No. : AIIMS/R/CS/Nephro/181/19/OT 
+ 
+Page 17 of 21 
+ 
+ANNEXURE-I 
+Technical specifications for Body Composition Monitor (BCM): 
+Body Composition Monitor Specification 
+1) General :  
+1.1    It should works under bioimpedance spectroscopy technology with an physiologic 
+tissue model all in a small portable medical device 
+1.2    The system should be validated against gold standard references in both patients 
+and healthy subjects 
+1.3    The system should be specially designed for patient with kidney failure and normal 
+healthy individual, which should be capable of providing the following measurement 
+with data and units:  
+1.3.1 Overhydration (OH) (Pre/Postdialytic) (L) 
+1.3.2 Lean Tissue Index (LTI)[Kg/m2] 
+1.3.3 Fat Tissue Index (FTI)[ Kg/m2] 
+1.3.4 Total Body Water (TBW)[L] 
+1.3.5 Extracellular Water (ECW)[L] 
+1.3.6 Intracellular water (ICW)[L] 
+1.3.7 ECW / ICW 
+1.3.8 Lean Tissue Mass[Kg] &[L] 
+1.3.9 Fat Mass[Kg] 
+1.3.10 Adipose Tissue Mass[Kg] &[L] 
+1.3.11 Body Cell Mass[Kg] 
+ 
+1.4    The system should contain integrated patient card holder 
+1.5    The system need to measure for the pediatric patient with special dedicated 
+electrodes. 
+1.6    The system need to be validated with Peritoneal dialysis patients. 
+1.7    The system need to store the results on the Individual Patient Card. 
+1.8    The system need to instruct the operator for abnormal movement of the patient 
+1.9    Data need to be transferred via Patient card to a personal computer for further analysis 
+with the Fluid Management Tool(FMT) 
+2) Fluid Management Tool (FMT) software: 
+2.1 The system should display results relative to reference ranges of healthy individuals 
+and dialysis patients  
+2.2 The system should need to show each patient’s progress by depicting the results in 
+plots for easy monitoring 
+2.2.1 Body composition Graph 
+2.2.2 Over hydration Graph 
+2.2.3 Hydration reference graph 
+2.2.4 LTI and FTI Graphs 
+2.2.5 Nutrition reference Graph   
+2.3 The system should need to allow export of all plots and tables for further analysis  
+
+
+--- Page 18 ---
+ 
+                         Tender No. : AIIMS/R/CS/Nephro/181/19/OT 
+ 
+Page 18 of 21 
+ 
+2.4 The system should need to allow the combined analysis of blood pressure and fluid 
+overload  
+2.5 The system should need to offers convenient data management:  
+2.5.1. Organize patients into groups  
+2.5.2. Add missing data, comments or ID create new patients and patient groups 
+3) Technical Requirements: 
+3.1 Measurement time approx.2 min 
+3.2 Data output: LC-Display; integrated SmartCard writer 
+3.3 Measuring frequency range: 50 discrete frequencies in the range from 5 – 1000 kHz 
+3.4 Battery Back up – Capacity 5 hours, which need to measure 150 patients. 
+3.5 AC adapter: 100 – 240 V AC; 50 – 60 Hz 
+3.6 Operating conditions: 0° – 35°C, 30 – 70% humidity 
+3.7  The system weight should need to be less than 3 Kgs. 
+3.8 Medical product class: IIa 
+4)  Accessories:  
+4.1  The offer shall be completed with all necessary   accessories which are essential for the 
+normal operation of the equipment. Details shall specified by tenderer(s) complete with 
+itemized price(s). Hospital Authority reserves the right to accept all or part(s) of the 
+offer. 
+4.2 The offer shall be completed with all necessary   accessories which are essential for the 
+normal operation of the equipment. Details shall specified by tenderer(s) complete with 
+itemized price(s). Hospital Authority reserves the right to accept all or part(s) of the 
+offer. 
+4.3 The Successful tender shall be keep reasonable stock level for normal necessary 
+consumable items 
+5) Operation Training: 
+   The successful tender shall be providing the operation program to end user. 
+6) Warranty Maintenance: 
+      The successful tender shall provide a comprehensive maintenance warranty for the 
+equipment on offer for period of atleast 60 months commencing from the date of 
+acceptance of the equipment. 
+8) Installation: 
+      The successful tenderer shall be responsible for the installation of the equipment. 
+ 
+ 
+
+

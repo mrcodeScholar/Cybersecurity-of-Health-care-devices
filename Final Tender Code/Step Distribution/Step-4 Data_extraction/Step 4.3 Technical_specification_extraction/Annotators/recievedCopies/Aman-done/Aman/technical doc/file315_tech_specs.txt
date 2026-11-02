@@ -1,0 +1,75 @@
+--- Page 10 ---
+Tender for Semi-Automated ELISA Reader with washer                                                Admn/Tender/212/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Semi-
+Automated 
+ELISA 
+Reader with 
+washer 
+Semi-Automatic, microprocessor controlled microplate absorption 
+photometer with following 
+specifications: 
+1. Should have 8 channel single beam absorption photometer with 
+auxiliary beam path & 
+discontinuous wavelength feed. 
+2. Should have wavelength of 300-1000 nm with filters cartridge to 
+accommodate 8 to 10 filters 
+and standard components 750, 620, 540, 450, 405 and 340 nm. 
+3. Should be able to evaluate colorimetric endpoint specification and 
+kinetic tests. 
+4. Should be able to control the temperature of the ELISA plate to 
+30°c-37°c. 
+5. Indication range – normal mode and extended mode. 
+6. Speed / measurement - Manochromatic, Bichromatic, Kinetic cycle 
+7. Touch screen or attached computer operated. 
+8. Should have memory of more than 30 programme and storage 
+capacity of 5000 results. 
+9. Self test after switching on. 
+10. Warming up time: nil or maximum 1 minute. 
+11. Operating voltage: 90 V-260V 
+12. Ambient temperature - 15°c - 50°c (storage) 
+13. 22°c±1°c (Operation temperature) 
+14. Relative Humidity: 15-85% (Operation) 
+15. Weight: Should not exceed: 18-20 kg 
+16. Measurements: Bench model 
+Should not exceed: 35 cm X 28 cm X 45 Cm 
+Power apply: Operating voltage 180-260v 
+Mains frequency 47-63 H2. 
+External printer. 
+Accessory: 8-12 channel digitally control ELISA plate washer 
+After Sale, Service should be available promptly.  
+Should be CE or FDA or BIS approved product 
+01 
+
+

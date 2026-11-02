@@ -1,0 +1,63 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Nu.Med./18/993/OT 
+ 
+Page 18 of 41 
+ 
+Annexure - I 
+TECHNICAL SPECIFICATION PACS WORKFLOW SYSTEM 
+ FOR NUCLEAR MEDICINE DEPAERMENT  
+ 
+ 
+Special Conditions:- 
+ 
+ 1. General Product Qualification Criteria 
+1. The PACS application should be US FDA and CE certified (not more than 4 years old) and 
+fully scalable WS-PACS system.  
+a. Separate FDA Certificate for Radiology/NM/Cardiology Viewer of PACS  
+b. Separate FDA Certificate for Clinician Viewer (ZFP) of PACS  
+c. Separate CE Certificate for Workflow Information System 
+2. The system should have IHE certification and vendor should provide PACS IHE 
+Integration Statement for the proposed solution with supported Integration profiles as part 
+of the bid.  
+3. ‘PACS Solution should have been implemented for at least 250 sites either in India or 
+globally which includes two or more 800+ bedded hospitals in India 
+4.‘Company should be present and operating in India for minimum 10 years or more.’ 
+5. The WS (workflow system)-PACS vendor should have experience integrating the quoted 
+solution to an HIS/ HER/LIS solution for receiving orders and forming DMWL for 
+modalities. It should integrate with the existing HIS solution present in the hospital. The 
+solution should also have an ability to provide/ share the radiology/NM/cardiology reports 
+based on parameters. List of minimum 10 such installations in India to be provided.  
+6. In addition to the FDA certificate for WS-PACS application, the vendor should offer US 
+FDA certified Zero Footprint viewer capable of displaying full fidelity (diagnostic viewing) 
+DICOM images. The viewer must allow image access from any device (computer, IPAD, Tab, 
+etc) using standard browsers eg. Mozilla, Safari, Internet Explorer. ZFP should be FDA 
+diagnostic approved.  
+7. Vendor must offer VNA with XDS-I integration profiles for image archive along with PACS 
+system. The vendor should offer associated software as required.   
+8. The XDS registry & repository should be of the by same vendor who is providing WS 
+PACS S/W. No freeware XDS registry/repository should be offered with the proposed 
+upgrade solution.  
+9. Non-Dicom data should be stored in native format only. Data format 
+correction/conversion is not acceptable. This is in view of upgrading the existing solution to 
+a Clinical Repository for Non-DICOM Data.  
+10. Warranty: Vendor should provide a solution with 5 Year warranty 
+11. Lowest bidder financially is decided based on the cost of the solution inclusive of 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Nu.Med./18/993/OT 
+ 
+Page 19 of 41 
+ 
+warranty of 5 years 
+12. All existing Radiology, cardiology& Nuclear Medicine modalities should be linked to the 
+proposed solution and vendor must ensure integration of any new radiology/NM/cardiology 
+modality in future without any additional cost.   
+13. Necessary software Updated for the proposed applications software need to be provided 
+as along as system is in warranty or CMC (Total 10 yrs). This is a mandatory requirement. 
+14. Onsite engineer 24 x 365 days for 1 years for which the expenditure incurred in paying 
+salary, accommodationetc will be borne by the vendor.  
+ 
+ 
+
+

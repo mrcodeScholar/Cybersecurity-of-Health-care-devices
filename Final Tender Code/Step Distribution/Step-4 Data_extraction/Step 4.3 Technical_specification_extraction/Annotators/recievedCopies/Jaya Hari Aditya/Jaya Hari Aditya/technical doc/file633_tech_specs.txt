@@ -1,0 +1,132 @@
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Paedia S./17/121/OT 
+ 
+Page 17 of 21 
+ 
+ 
+Annexure I 
+Specification of Integrated Urodynamic System for Paediatric Surgery  
+1. The system should have the facility to perform uroflowmetry, cystometry, pressure 
+Flow Studies, EMG Studies, Urethra Pressure Profilometry, EMG Biofeedback, 
+Anorectal Manometry and video Urodynamics 
+2. Should have 5 configurable channels and cables (Vesical, Abdominal and Urethral 
+channels). Should have auto 80-100mmHg test / calibration button for checking 
+the transducers. Fitted to bracket/clamps. Transducer should be reusable having 
+pressure range (-50-350mmHg). 
+3. Should be able to attach 3 pressure transducers, 1 flow channel and should have 1 
+channel as spare. 
+4. Should have automatic air pump for profile applications. 
+5. Should have infusion pump 4 roller, software control (start/stop & speed selection) 
+Cystometry: Filling and Voiding 
+- 
+Integrated filling pump and volume sensor. 
+- 
+Compliance and pressure volume plot. 
+- 
+ICS, Schaffer and Abrams-Griffiths Pressure flow Nomograms 
+6. Should have facility to attach Uroflow transducer. Should be supplied’ with one 
+wireless weight Based uroflow transducer with flow range of 0.50ml/sec, Volume 
+Range up to 2000ml. must have auto record and auto zero facility for Uroflowmeter. 
+Mictiometry: wireless connection allow patient comfort / Privacy Liverpool,siroky 
+and Paediatric Nomograms 
+7. Should be supplied with 1 channel wireless EMG. Should be available with surface 
+electrodes, bipolar needles and Vaginal and rectal probes. 
+8. Should be supplied with UPP Puller to allow urethral pressure profile studies. 
+Should be Autoclavable and software control. 
+9. Should be supplied EMG Biofeedback software for pelvic floor rehabilitation with 
+Electromyography Biofeedback and Biofeedback with pressure balloon. 
+10. Should be supplied with software for doing video urodynamic studies. Allows x-ray 
+images to be combined with the Urodynamic traces. Display / record/ print option 
+all available. 
+Technical data 
+- 
+Analogue or Digital input signals. 
+- 
+Real time digital recording and replay. 
+- 
+BNC and USB connections 
+11. The system should have integrated PC for display, mounted on a trolley of the same 
+company to fit the complete UDS. Should be adjustable in high and angle. Should 
+have integrated keyboard, water proof with tracker ball. 
+12. Should be supplied with colour Deskjet Printer. 
+13. Should be supplied with Micturition Chair- Height adjustable, folding arms, 
+detachable seat and cover, removable funnel. 
+14. Should be supplied Micturition stand- voiding studies, height adjustable, removal 
+funnel. 
+
+
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Paedia S./17/121/OT 
+ 
+Page 18 of 21 
+ 
+15. Should be supplied with hand-held remote control to allow system operator to 
+control the system without having to touch the PC/Mouse. 
+16. Should be supplied with pressure channel anorectal manometry software. 
+17. Should be supplied with following software 
+- 
+Window platform, unlimited number of templated. 
+- 
+Standards and terminology as according to the ICS (International continence 
+Society) Nomograms, ICS, Paediatric, Siroky, Abrams-Griffiths, Werner Shaffer, 
+Pressure-Flow loop, Pressure v Volume, Compliance. 
+- 
+Connectivity to Hospital information system and DICOM work-list & DICOM 
+Storage. 
+- 
+Event markers- user configurable toolbars, and event markers (Icons and/or 
+text) 
+- 
+Real time data processing and on-line storage Backup manually or 
+automatically to any location. 
+- 
+Intelligent patient search 
+18. Should be supplied with following  
+ 
+Dual Lumen Catheter for Cystometry-5Nos. 
+ 
+Pigtail catheter, PVC 5 Fr and bladder filling-5 Nos. 
+ 
+Dual Lumen Abdominal Rectal Balloon Catheter for Cystometry-5 Nos. 
+ 
+Triple Lumen Catheter for UPP-5 Nos. 
+ 
+Pump Tubing-5 Nos. 
+ 
+Collection Beaker-5 Nos. 
+ 
+Pressure Cuff for perfusion-5 Nos. 
+ 
+Reusable Pressure Transducer-6Nos. 
+ 
+Catheter for doing ARM-2 Nos. 
+19. Should be supplied with BIS (Indian Standard)/CE certified C-Arm compatible 3 
+Motors Video urodynamic & fluoroscopy table multi-axial electrical movement 
+controlled with remote with all standard accessories having following adjustments: 
+- 
+Supine to 90 degree standing position 
+- 
+Seated to 90 degree standing position 
+- 
+Supine to seated position 
+20. Should be supplied with 3-D Bladder Scanner for calculating Post Void Residual. 
+21. Should be supplied with complete Near Infrared Spectroscopy device for dynamic 
+topographic mapping of human bladder during voiding Cystometry, hemodynamic 
+analysis of bladder and urethral sphincter monitoring. 
+22. The Urodynamic system should have BIS (Indian Standard)/US FDA/ European CE 
+approved. 
+23. Firm should quote their latest and best model. 
+24. Should be supplied with 5 year warranty. 
+25. Firm should quote rates for CMC for 5 years after warranty period. 
+Firm should quote rates of all consumables/ spares/ Accessories and fixed it for Five 
+years 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

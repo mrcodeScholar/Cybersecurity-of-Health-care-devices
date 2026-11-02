@@ -1,0 +1,219 @@
+--- Page 10 ---
+Tender for Image Guided System 
+  
+ 
+                                            Admn/Tender/106/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Image 
+Guided 
+System  
+Image Guided System is required for precise localization of intracranial 
+or spinal structures. It is required for precise craniotomies and tumor 
+localizations, placements of catheters or working sheaths in the 
+ventricles, identifications of intracranial vessels, biopsies of deep seated 
+lesions, functional surgeries (for neurological and psychiatric diseases) 
+and fixations of spine at all levels including Cranio-Vertebral Junction. 
+It works in cohesion to other investigative modalities like MR images, 
+CT scans and fluoroscopy. It increases patient safety with regards to 
+neurosurgical procedures and spinal instrumentations.  
+ 
+General System Specifications.  
+ 
+a) The System should be easy to set up, user friendly, intuitive and 
+should work under Linux / Unix / Windows operating system 
+environment.  
+b) The system should have facility of keeping optical camera and 
+viewing system together or separately to allow optimal use of 0.T 
+space, The System should have two monitors, one for the surgeon 
+and the other for the OT/Technical staff or vice versa. 
+c) The Surgeon Monitor should be high resolution (1920 x 1200, 60 
+Hz) with a viewable size of 27" widescreen or higher and the 
+display should be visible at angles at least up to 80° 
+d) It should have hybrid tracking technology with active and passive 
+instrumentation.  
+e) The system should have the option of upgrading to electromagnetic 
+Navigation Module should be able to support Cranial and Skull 
+base surgeries. 
+f) The System should have the options of both Flat Emitter and Side 
+Emitter to support the workflow of the surgeries. 
+g) System should allow pinless surgery such as tumor resection, shunt 
+placement etc for adult as well as pediatrics without any 
+compromise on sterility., 
+h) The navigation system must have dynamic referencing 
+i) The system must have USFDA and CE approval and the quoted 
+model must have at least 10 successful installations in India which 
+are more than 3 years old. 
+j) System should have Wi-fi connectivity for connecting to PACS 
+system for image transfer  
+k) System should have inbuilt firewall and antivirus security for cyber 
+security. 
+l) Easy access to storage for accessories and instruments 
+m) System should have password security for software access.  
+ 
+Cranial Application:  
+1. The System should have self-descriptive software interface which 
+allow you move quickly through the all cranial procedures 
+workflows and to give you easy access to system-wide tools for 
+common features. System should allow selecting tasks related to 
+procedure as per user preference. 
+2. The system software should have ability to design customized 
+01 
+
+
+--- Page 11 ---
+Tender for Image Guided System 
+  
+ 
+                                            Admn/Tender/106/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+surgeon profile. 
+3.   Should have facility for fiducial marker-less registration. 
+4. The system should have ability to import pre-op examination using 
+CD/DVD/PAC/USB system.  
+5. The navigation system should have point as well as surface 
+registration with accuracy prediction system. It should also allow 
+combination of point and surface registration techniques for better 
+accuracy.  
+6. It should have universal instrument adapter tracking system with 
+passive option.  
+7. The system should include a frameless biopsy system with navigable 
+needles. 
+8. The System should have ability to Create and edit multiple surgical 
+plans.  
+9. The patient reference frame of optical technology should have 
+options to do functions like magnify the images, go to next or back 
+window on software workflow, take a screen shot, to change the 
+screen layout and to respond the command prompt in case to operate 
+the system in sterile field when no one is present on staff cart.  
+10. The navigation system should have hardware & software for 
+stereotactic surgery including functional stereotactic procedures. The 
+software should re-orient the scan images along the AC-PC plane. 
+The stereotactic system should be adaptable to major frames like 
+Leksell and CRW.  
+11. The system should have 3D graphics capability and software to 
+merge CT & MRI images.  
+12. Look ahead view capability to show the images at lmm to 15mm 
+(increments of 5mm) in front of the probe.  
+13. The system should have Virtual Projection option with adjustable 
+width and length of the probe order to get better trajectory 
+understanding.  
+14. Every instrument should have facility to be compatible with both a 
+right and left handed surgeon.   
+15. The navigation software should be able to correlate with pre-
+operative MR/CT images. These images should have view side by 
+side or overlaid.  
+16. The system should have ability to draw brain, tumor, vessels & 
+ventricles as in 2D images and 3D model. Software should have easy 
+and advanced options which help build models of user choice. 
+17. Software should have streamlined interface to import and process 
+diffusion-weighted 
+MRI 
+scans 
+and 
+enables 
+routine 
+of 
+implementation of DTI processing.  
+18. Interactive fiber tracking and output tracts to navigation system.  
+19. Software should fuse fMRI activation maps into the software and 
+viewed 3D model in Navigation  
+20. Software should have video recording and snapshot capture feature 
+to capture the navigation screen. 
+  
+II. Spine Application  
+a. The Spine Application should be a unified Spine Application which 
+should comprise of 3D Spine (Spine Navigation with Spine CT 
+Data) and Virtual Fluoroscopy Navigation for Spine. 
+
+
+--- Page 12 ---
+Tender for Image Guided System 
+  
+ 
+                                            Admn/Tender/106/2018-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. The Application should be able to memorize multiple surgeon 
+preferences for each procedure 
+c. There should be a wireless control from the sterile field in form of 
+surgeon mouse or touchscreen capability 
+d. It should be able to do a customized setup and automated 
+functionality check 
+e. It should have universal instrument adapter tracking system with 
+passive option for tracking existing instruments in the department 
+f. The system should have image guided spinal instruments like short 
+drill guide, Awl/Probe/Tap system with straight or T-handles option 
+g. System 
+should 
+have 
+Navigable 
+Integrated 
+Inter-body 
+instrumentation. 
+h. Transfer of spine exams to the navigation system should be possible 
+with USB stick.  
+i. The System should have Navigation instruments for Minimal 
+Invasive Spine Procedure with minimally invasive clamps, iliac 
+referencing etc. 
+j. The System should have Navigable instruments for treating upper 
+spine with light weight reference frame and range of taps, drill bits, 
+drill guide along with Cannulated and non Cannulated taps for upper 
+spine 
+k. The System should interface with Nerve Integrated Monitor 
+available at Neurosurgery Department while accessing pedicle with 
+pedicle access needle.  
+l. The System should have an automatic registration function with a 
+navigation compatible C-Arm, which should be supplied by the 
+vendor  
+m. Spinal navigation package should allow the application of region 
+mapping and pre op screw planning n. Software should have 
+capability to merge CT and Fluoroscopic images for Navigation. 
+n. Software should automatically identify new instruments for 
+tracking.  
+o. Five year AMC and CMC as per policy of AIIMS Jodhpur.  
+ 
+
+

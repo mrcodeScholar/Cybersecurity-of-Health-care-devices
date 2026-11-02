@@ -1,0 +1,343 @@
+--- Page 48 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Automated Bacterial Identification System 
+Page 45 of 69 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Automated Bacterial 
+Identification System with compatible accessories 
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+TECHNICAL SPECIFICATIONS for “Automated Bacterial Identification System” 
+Matrix Assisted Laser De – Ionization Time of Flight Mass Spectrometry 
+[MALDITOF: MS] 
+1. 
+General: 
+a. 
+It Must be a Desktop / Benchtop Model.  
+b. 
+The system should be fully automated with Suitable, Updated, Upgraded and 
+Latest Version of the Software for Microbial Identification of Gram-Positive Bacteria, 
+Gram Negative Bacteria, Aerobic and Anaerobic Bacteria, Mycobacterium [both 
+Mycobacterium Tuberculosis Complex and Non-Tubercular Mycobacteria], Yeast, 
+Yeast Like 
+Fungi, 
+and 
+Filamentous 
+Fungi 
+along 
+with Streptomyces 
+and 
+Actinomycetes.  
+c. 
+It should also be able to identify cultivable zoonotic bacteria like Brucella, 
+Bacillus, Yersinia, Pasteurella, Listeria, Campylobacter, Bartonella, Salmonella etc  
+d. 
+It should also be able to identify All Glucose Non-Fermenting Bacteria to 
+species level. 
+e. 
+It should be FDA, IVD and CE approved MALDI – TOF based microbial 
+identification system 
+f. 
+Any accessory system(s) other than those mentioned in the technical 
+specifications, that are required for satisfactory installation of the system should 
+supplied with the instrument. 
+
+
+--- Page 49 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Automated Bacterial Identification System 
+Page 46 of 69 
+ 
+ 
+2. 
+Equipment Specifications: 
+a. 
+The equipment be completely automated based on Matrix Assisted Laser De – 
+Ionization Time of Flight Mass Spectrometry Technology for rapid and instant 
+Microbial Identification with a capability of fast measurements and high 
+reproducibility.  
+b. 
+It Must Have a Linear TOF measurement with scintillogram detection range of 
+m/z 1 to 500,000 
+c. 
+Should have a mass accuracy of < 20 ppm (internal standard), < 150 ppm 
+(external standard) 
+d. 
+Should use a Suitable Laser with a preferable wavelength of 330 – 350 nm & 
+1khz that lasts up to minimum of 100 billion laser shots. 
+e. 
+It should have vacuum pumps with easy period maintenance. 
+f. 
+System should be able to accept not less than 96 positions reusable or 
+disposable MALDI target plates for samples loading. 
+g. 
+Should supply with minimum 10 numbers of barcoded 96 position reusable 
+stainless target plates or 20 barcoded 48 position disposable slides in load and go 
+manner as target slides for sample input.  
+h. 
+Should provide Matrix & Calibration Standards, Solvents and consumables 
+sufficient for 1000 aerobic bacteria, 100 Mycobacteria and 100 yeast sample 
+analysis. 
+i. 
+All consumables required for installation and for the demonstration of system 
+to be provided. 
+j. 
+Should provide necessary accessory with the instrument such as Suitable 
+online UPS with at least 6 hours back up. 
+k. 
+Supplier must agree to provide IQ, OQ and PQ certification at the time of 
+installation or as per the convenience of end user of the institute. 
+l. 
+The system must be FDA approved / cleared and supporting documents must 
+be attached in the bid document. 
+m. 
+The Equipment should have 95% up working (functional) during the warranty 
+period. The bidder should ensure service & repair promptly in case of break down 
+within 24 hours. 
+n. 
+Instrument should use automated mode of sample profile acquisition and no 
+manual intervention should be required in profile acquisition to avoid compliance 
+issues in Clinical reporting 
+3. 
+Parameters for Analysis: 
+a. 
+Should be Capable of identifying microbes up to species level and software 
+should be closed not allowing user to make changes to identification. 
+b. 
+Should be able to detect low amount of input cells ~105, and capable to 
+
+
+--- Page 50 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Automated Bacterial Identification System 
+Page 47 of 69 
+ 
+identify the species in <1 minute / sample or faster. 
+c. 
+System should not have any chances of carry-over / cross contamination of 
+user hazard during sample input. 
+d. 
+For BSL – 3 level organisms, testing in the equipment, there should not be any 
+special decontamination required by the users to follow 
+e. 
+Should be capable of taxonomical classification. 
+f. 
+Should accept different samples from both non-clinical and clinical origin. 
+g. 
+Capable denoting mixed population (at least 2 species) in a mixed culture 
+h. 
+Should be Capable of Identification of Pathogens Directly from Positive Blood 
+Culture Bottles 
+4. 
+Software: 
+a. 
+Should be Windows Based / Compliant, versatile, easy to use instrument 
+control, and database and analysis software. 
+b. 
+Results should be displayed directly with the species of microbe. 
+c. 
+Should capable to do in-depth analysis with bioinformatics tools for sub-
+typing, PCA and Dendrogram. 
+d. 
+Should have sample management part with original growing conditions, 
+preparation details and life cycle data of reference spectra within the database. 
+e. 
+Should have taxonomy trees against reference spectra concerning taxonomic 
+relationships. 
+f. 
+The database should have mostly the IVD approved microbial species for 
+clinical reporting. 
+g. 
+Should have sufficient IVD approved Mycobacteria database for identification. 
+h. 
+Should have Sufficient IVD approved Filamentous fungi database. 
+i. 
+Should have necessary kits for Direct ID from Blood culture. 
+5. 
+Database: 
+a. 
+organism list should be available in the database and the database must take 
+into account the strain variability and culture conditions  
+b. 
+Should be integrated with a ready to use reference library. 
+c. 
+Should have automatic regular updates of the database 
+6. 
+Custom Library: 
+a. 
+System should have software capability to generate database for new microbial 
+species by the user at his lab itself. 
+b. 
+Database should have open architecture to allow customized in-house library 
+generation, which can be used for microbial ID further. 
+
+
+--- Page 51 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Automated Bacterial Identification System 
+Page 48 of 69 
+ 
+ 
+7. 
+Workstation, Accessories & Reagents: 
+a. 
+Suitable windows operating workstation with advanced inbuilt touch screen 
+with minimum configuration of Intel i7 10th generation processor, 16 GB RAM, 1 TB 
+SSD hard disk with other accessories, high resolution LED 21" color monitor AND 
+Preloaded with Original MS Office Software for One Computer with Lifetime Validity. 
+b. 
+Color Laser Printer with two sets of Extra Cartridges of Black and All Colors 
+with wireless facility, and Barcode scanner with holder should be supplied. 
+c. 
+Should be supplied with minimum 10 numbers of barcoded 96 position 
+reusable stainless target plates OR 10 to 15 disposable slides in load and go manner 
+as target slides for sample input. 
+d. 
+Should provide Matrix & Calibration Standards, Solvents and consumables 
+sufficient for 1000 Aerobic, 100 Mycobacteria and 100 yeast sample analysis. 
+e. 
+Should provide ATCC Control Strains for maintaining internal QC / 
+Calibrators 
+i. 
+Escherichia coli 
+ii. 
+Klebsiella aerogenes 
+iii. 
+Candida glabrata 
+iv. 
+Mycobacteria smegmatis 
+v. 
+Nocardia farcinica 
+vi. 
+Aspergillus brasiliensis 
+f. 
+Should provide necessary accessories with the instrument such as robust 
+suitable online UPS with at least 6 hours back up. 
+g. 
+Price for the Consumables, kits should be quoted under option for further 
+procurement. 
+h. 
+Calibration Certificate from Manufacturer at the time of Installation 
+8. 
+Additional Terms and Conditions: 
+a. 
+The bidders must agree to provide any up gradation and update of system and 
+software’s (if any) free of cost for next 05 years from the date of successful 
+installation. 
+b. 
+All consumables required for installation, operational and performance 
+qualification and for the demonstration of system to be provided. 
+c. 
+The bidders must agree to provide minimum of 5 years of comprehensive 
+warranty (including all manufacturing defects, all spares, accessories software 
+application, faulty workmanship, if any and all labor) from date of actual completion 
+of satisfactory installation of equipment must be provided. The bidders must agree 
+that breakdown of the instrument will be addressed within 24 hours by an onsite 
+visit. 
+
+
+--- Page 52 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Automated Bacterial Identification System 
+Page 49 of 69 
+ 
+d. 
+The CMC for subsequent 5 years must be quoted after completion of warranty 
+period. 
+e. 
+End user feedback from at least Three MALDI – TOF Users from reputed 
+Government Institutions should be provided. The list of these users, with full details 
+of contact persons, addresses, telephone, mobile and email should also be provided 
+in table format 
+f. 
+Complete price should be quoted for different consumables which will be used 
+in the equipment in the future. These prices should be frozen for subsequent 05 
+years and in case of reduction of price the lower price to be communicated and to be 
+charged by the supplier. Undertaking must be given by the supplier in this regard. 
+Price of all reagents must be quoted in tender. No additional reagent should be 
+quoted later 
+g. 
+Bidder should agree to provide mandatory onsite application training. Should 
+demonstrate the required objective of the test with the claimed limit of detection / 
+quantification with the sample provided and or bring suitable samples. Training 
+should be given to the staff onsite, for the operation of the instrument on demand. 
+• 
+Technical compliance report should be submitted in following format: 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL TECHNICAL SPECIFICATIONS 
+GENERAL POINTS: 
+1. 
+Warranty: 
+a) Five years Comprehensive Warranty as per Conditions of Contract of the 
+TE document for complete equipment (including Batteries for UPS, other 
+vacuumatic parts wherever applicable) Warranty period will be 5 years 
+from the date of installation, commissioning and Site Modification Work 
+from the date of satisfactory installation, commissioning, trial run & 
+handing over of equipment to Hospital/Institution/Medical College. 
+b) 95% up time Warranty of complete equipment with extension of Warranty 
+period by double the downtime period on 24 (hrs) X 7 (days) X 365 (days) 
+basis. 
+c) All software updates should be provided free of cost during Warranty 
+period. 
+2. 
+After Sales Service:  
+After 
+sales 
+service 
+center 
+should 
+be 
+available 
+at 
+the 
+city 
+of 
+Hospital/Institution/Medical College on 24 (hrs) X 7 (days) X 365 (days) basis. 
+Complaints should be attended properly, maximum within 8 hrs. The service 
+should be provided directly by Tenderer/Indian Agent. Undertaking by the 
+Principals that the spares for the equipment shall be available for at least 10 
+years from the date of supply. 
+3. 
+Training:  
+4. 
+On Site training to Doctors/ Technicians/ staff is to be provided by Principal/ 
+Indian Agents (if they have the requisite know-how) for operation and 
+maintenance of the equipment to the satisfaction of the consignee. The same 
+will be in line with the training modalities as specified in general technical 
+specification. 
+
+

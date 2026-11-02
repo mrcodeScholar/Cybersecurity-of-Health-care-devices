@@ -1,0 +1,64 @@
+--- Page 17 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/RC/Vein Viewer/271/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 17 
+ 
+      Vein viewing device for vascular imaging and identifying vein patency 
+ 
+1) Should be Non-laser device based on harmless nearinfraredLights. 
+2) Should be a portable, hand held model for easy handling.Wrist strap 
+3) Penetration Depth: The vein imaging device should have the ability to visualize vessels up to 10mm deep 
+or better , the ideal clinical depth range for PIV options, with provided clinical evidence to substantiate., 
+4) Multiple Imaging Modes: 
+Universal, Inverse mode - for Adult and dark skin patients  
+Fine detail mode, resizemode:NICU/Paediatric patients 
+Max Bright Mode:Special Max Bright mode for using the equipment in non-standard 
+Lighting conditions / under Sunlight or without dimming the room light. 
+5) Image Quality and Focusvein imaging device should offer an image appropriate across all skin tones and 
+a method of detecting when image is at the proper focal distance, by clearly reading the text in image 
+outline border. 
+6) Should have minimum brightness of 6 lumens and substantiate with technical specifications evidence. 
+7) Image Capture optionshould have a in built camera to capture the real time image of the vasculature 
+under focus area. Captures a time stamped static image of the projected vein image and saves at-least 200 
+images the image as a BMP file.  
+8) Direct projection on surface of skin:  should not require secondary monitor to interfere with technique 
+ 
+9) Utilization of device in any orientation without degradation of performance:Vein-imaging device 
+should offer an image that provides for the same accuracy and reliability of image regardless of the 
+rotation of the device/technique for use on the patient. 
+10) Real time digital imageshould provide evidence of real-time imaging and demonstrate ability to visualize 
+blood refill and detect valves. Vein imaging device to provide evidence of real-time imaging and 
+demonstrate ability to visualize fluid flushing process for vessel patency to prevent against infiltration and 
+hematoma. 
+11) Should be a Non-laser based system and the light should not be harmful to eyes. It should not have 
+any mandated eye safety warnings. Emission: Device should be tested to and complies with IEC 60601-
+1-2 standard or better for Electromagnetic Compatibility (EMC) and for radiated and conducted emissions.  
+12) Clinical evidence minimum requirementshould provide at least 2-3 peer-reviewed journal in quality.  
+13) Device should not come in contact with the skin, preventing contamination, heating etc. 
+14) Device should not need consumables. 
+Operations and rechargeable battery:Fast – swap rechargeable Lithium  
+Upto 2 hour continuous 
+run time per battery Ion Batteries .Should work on rechargeable Battery and directly on AC power also. 
+Battery life should be 2 hours in active machine. Machine can be used while the battery is charging. 
+15) Mandatory Accessories to be provided : 
+2 S mounts,Rechargeable battery, Battery charging station, AC power adapter, USB cable,Training DVD 
+and a storage case. 
+16) Portable and Fast Set Up Time/Direct Projection on Surface of skin/Hands free use: Should provide a 
+hands-free technique with less than 60 seconds setup time from power up to useable image . 
+17) Durability : It should be a rough & tough Device , Drop tested per IEC , certificate to be submitted  
+18) US FDA & CE marked. 
+19) Should have a proven record of accomplishment of satisfactory usage in India for more than three years.  
+At-least 2-3 User recommendation from Major Govt. Hospitals to be submitted. 
+20) Should have more than 95 percent up workingtime. 
+21) A necessary two visit per year of service engineer is mandatory for calibration and maintenance with 
+proper log and visit entry in central stores register during the warranty period .This is apart from the 
+complaint service. 
+22) A five year warranty (with spares) and 5year CMC (with spares) needs to be quoted in Financial and 
+technical bid. 
+23) Vein Viewer Flex include a travel case (to hold the device, batteries and battery charger) and a charger.  
+24) To be provided with standard with (2) S- Mounts and (2) clamps so clinicians can mount the device to 
+existing fixtures – allowing for hands free, Eyes on patient technique.  
+ 
+
+

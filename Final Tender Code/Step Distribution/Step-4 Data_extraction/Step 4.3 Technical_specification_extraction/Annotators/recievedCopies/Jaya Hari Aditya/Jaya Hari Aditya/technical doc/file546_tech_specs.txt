@@ -1,0 +1,213 @@
+--- Page 11 ---
+Tender for Image Guided Navigation System                                                               Admn/Tender/44/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Image Guided 
+Navigation 
+System 
+1 Navigation System for ENT 
+ The System should be easy to set up, user friendly, 
+intuitive and should work under Linux / UNIX / Windows 
+operating system environment. 
+ The system should have Optical Tracking technology 
+along with Electromagnetic Tracking option. 
+ The system should have facility of keeping optical 
+camera and viewing system together or separately to 
+allow optimal use of O.T space, The System should have 
+two monitors, one for the surgeon and the other for the 
+OT/Technical staff. 
+ The Surgeon Monitor should be high resolution (1920 x 
+1200, 60 Hz) with a viewable size of 24” widescreen or 
+higher 
+ The systems should be plug & play with user friendly 
+system software to control set up, registration and 
+navigation.   
+ It should be capable of performing multiple types of 
+registration in less than three minutes. 
+ Improved camera designed with greater field of view, a 
+long camera handle, and laser pointer for easier 
+positioning and aiming 
+ It should have total surgical control in sterile field on a 
+fingertip with a touch screen monitor/or optical mouse. 
+ It should have provision of Rapid data transfer directly to 
+the navigation station with the option of CD-RW/DVD-
+ROM combo-drive and USB 2.0 port for direct data 
+import as well.  
+ Should be connectable with OT monitor with appropriate 
+cable. 
+ The navigation system should be operable with or without 
+keyboard and mouse. 
+ The Software should be versatile and should support 
+Functional Endoscopic Since Surgery (FESS) procedure, 
+complex cases such as Coronal flaps and Lateral Skull 
+base procedures and simultaneous tracking of multiple 
+instruments, at least three. 
+ The 
+System 
+should 
+be 
+supplied 
+with 
+patient 
+tracker/marker and Custom sterilization tray, which 
+should be autoclavable/reusable. 
+2 General Software/Application Specification 
+a) The system should have complete ENT and skull base 
+surgery, navigation and its application package. 
+b) Display of predefined trajectory pathway in line and 
+probe views. The software fuses axial, coronal and 
+sagittal image sets of different modalities ( CT & MRI ) 
+c ) It should have universal instrument adapters with makers 
+to allow tracking of any existing hospital instruments like 
+drills bipolar, knife, probe, microdebrider and endoscopes 
+Calibration of existing instruments should be done 
+automatically ( if, applicable). 
+3 Cranial Application 
+a)  Should have user friendly Cranial application software 
+01 
+
+
+--- Page 12 ---
+Tender for Image Guided Navigation System                                                               Admn/Tender/44/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+with Tumor and Frameless Biopsy software applications 
+built-in the system 
+b)  Should have facility for marker less registration 
+c)  The navigation system should have point as well as 
+surface registration with accuracy prediction system 
+d)  It should have universal instrument adapter tracking 
+system with active & passive option 
+e)  The system should include a frameless biopsy system 
+with needles 
+f)  The system should the option of interfacing with all major 
+microscope systems 
+g)  The navigation system should have the option of 
+hardware & software for stereotactic surgery including 
+functional stereotactic procedures. The software should 
+re-orient the scan images along the AC-PC plane. The 
+stereotactic system should be adaptable to major frames 
+like Leksell and CRW 
+h)  The system should have 3D graphics capability and 
+software to merge CT & MRI images 
+i)  Look ahead view capability to show the images at 1mm 
+to 20mm (increments of 1mm) in front of the probe 
+j)  The navigation software should be able to correlate with 
+pre-operative MR/CT images. These images should have 
+view side by side or overlaid 
+k)  The cranial software should be capable of advanced 
+visualization of the cortical surface, skull, vessels and 
+ventricles 
+4 All the instruments, tracker,/marker should preferably be 
+Autoclavable.  
+a)  Registration probe 
+b)  Straight probe 
+c)  Straight suction 
+d)  70 degree curved suction  
+e)  90 degree curved suction 
+f)  Osteum Seeker 
+g)  Sterlisation tray 
+h)  Head frame-kit tracker/markers, pad, adhesive, FESS 
+tracker 
+i)  The virtual tip should be differentiated from real tip by 
+color/dotted lines. 
+j)  The system should have registration with accuracy 
+prediction system. 
+k)  The system should warn the surgeon by color 
+change/audible signal when approaching the critical 
+areas/the system should have dynamic visualization of 
+distance to target point and intra-operative landmarks or 
+The system should have still photographs storage function 
+as well as continuous video recording for documentation 
+purpose. 
+With 
+appropriate 
+cables/ 
+adopter 
+and 
+connections for laptop and existing medical monitor 
+5 Cart/Movable trolley for housing should have a storage 
+capability. 
+6 The company must have at least five successful ENT 
+installations in India and list of the same should be 
+supplied. 
+7 There should be facilities to upgrade the system to be 
+
+
+--- Page 13 ---
+Tender for Image Guided Navigation System                                                               Admn/Tender/44/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+compatible with PACS system. 
+8 Demonstration of navigation system is must to the 
+satisfaction of user. 
+9 Proper training OT technical staff by the company person. 
+10 European CE and US FDA Certification 
+ 
+
+

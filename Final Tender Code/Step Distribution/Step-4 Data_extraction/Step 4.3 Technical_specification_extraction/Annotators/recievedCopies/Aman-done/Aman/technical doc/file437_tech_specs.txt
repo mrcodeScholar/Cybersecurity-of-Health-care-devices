@@ -1,0 +1,68 @@
+--- Page 10 ---
+Tender for V-HIT System                                                                                             Admn/Tender/26-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-II 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+V-HIT 
+System  
+Technical Specifications: 
+1.  Video Recording should be more than 100 Hz, and should include Impulse, 
+VOR, Skew Deviation, Video Recording and Playback. 
+2. Eye Tracking should at 100 x 100 pixels include Impulse, VOR, and 
+Monocular Video Frenzel (ROI) 
+3. Vestibular Software should have a Windows Graphical User Interface. It 
+should be  a High Performance Analysis Software. It should have a robust 
+secure backend Database that will enable storage of Test Data, permit good 
+patient Test Data Management; 
+4. The instrument should have a USB 2.0 or 3.0 to PC hardware interface 
+5. The Device should be powered through USB: 5V DC/500mA or, via an 
+External Power Supply with appropriate adapter for providing 5V DC. 
+6. Inputs for the Head module should have a 9 Axis Motion Sensor 
+7.  Inputs for Eyes should be monocular/binocular, with a sampling rate of 250 
+fps for Impulse, VOR & facility for Video Record/Playback; sampling rate 
+above 200 fps for Gaze & Skew Deviation 
+8. Minimum Computer Requirements: 
+(a) Operating System:   64-bit: Latest Windows Professional. 
+(b) CPU:  Intel i7 processor, Memory 64-bit: 16 GB, Disk Space -1 TB SSD 
+(c) Four USB-C for the goggles, synchronized room video, presentation 
+remote, and monitor of size 32 inches or above 
+(d) DVD R/W, Monitor -1920 X 1080 pixels Screen resolution 
+9. Other qualifications: 
+(a) Rates of the spares/accessories/consumables which are not covered under 
+guarantee/warrantee should be- quoted individually and by the company (item 
+not mentioned in the list are assumed under comprehensive warranty and 
+company have to provide for proper function of equipment) and should be freeze 
+for five years from the date of installation. Any spares/accessories/consumables 
+not quoted by the company will be presumed to be supplied free by the company. 
+(b) The instruments might be called for demonstration and approval. It is the sole 
+discretion of the committee to approve or disapprove the quality. 
+(c)  It should be I5013485, European CE (with a four-digit notifiable body) or 
+USFDA approved. 
+(d) All the equipment including all the accessories should be provided with the 
+detailed data sheet/ along with the original brochure of the quoted model 
+(Photocopies/Print outs are not accepted). 
+(e) An undertaking to be provided by the principal/manufacturer of the system 
+for availability of spares for 10 years for the date of installation. 
+01 
+
+

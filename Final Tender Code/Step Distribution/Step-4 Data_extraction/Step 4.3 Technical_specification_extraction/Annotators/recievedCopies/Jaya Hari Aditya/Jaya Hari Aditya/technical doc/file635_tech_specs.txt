@@ -1,0 +1,80 @@
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/Psychiatry/01/2016/B 
+ 
+ 
+Page 17 of 21 
+ 
+Annexure-I 
+Detail Technical Specification for Ultra-Brief Pulse Electro Convulsive (ECT) Machine 
+ 
+Main Features 
+1. Should deliver current of bi-directional square wave ultra-brief pulse of 0.3 ms 
+2. Should have facility of Right Unilateral (0.3ms) ultra-brief stimulation 
+3. Should have 4 channels EEG, 1 channel ECG and optical motion sensor or EMG to monitor the 
+movement during seizure for providing assessing seizure efficacy. 
+4. Should have at least four different stimulus parameter knobs and one Stimulus Knob. 
+5. Should have facility to monitor real time dynamic impedance during procedure & also static 
+impedance. 
+6. Should have LCD or Touch screen display with impedance display. 
+7. Patient impedance from 100-5000 Ohms. 
+8. Should have protection against paddle to paddle short circuit or open circuit conditions. 
+9. The Stimulus Control push button to be hinged for prevention of accidental delivery of stimulus and 
+should have visual indication of the status of Stimulus enable, Delivery or fault. 
+10. Should have stimulus current from 500-900mA, Frequency 20-120Hz, Pulse width – 0.3 -1 msec , 
+Stimulus duration of 0.05 to 8 sec. 
+11. Minimum Power: 0.3 Joules or 99.4 Joules for 220 ohm patient impedance 
+12. Maximum Power: 202.8 Joules or 188.8 Joules for 220 ohm patient impedance.. 
+13. Charge: 4.0 – 1152 or 1008 m Coulombs. 
+14. Should have 2 channels or 4 channel thermal chart recorder for higher resolution printing. 
+15. Should have facility to connect system to any External PC and will be provided with monitoring 
+software to view physiological monitoring. The traces should be available in real time throughout the 
+treatment.  The data can be stored with all the treatment parameters on the PC or can be 
+converted in to text format. Remote monitoring software should have features: 
+16. View at least six traces of real-time monitoring on a PC monitor: 4 EEG, 1 ECG, 1 Optical Motion 
+Sensor or EMG. 
+17. At least 3 set of extra accessories (EEG electrodes, ECG electrodes, optical motion sensor) provided 
+with the machine. 
+18. Treatment parameters, patient data and impedance display also appear on the PC monitor to ensure 
+patient safety. 
+19. Physiological monitoring and treatment data may be stored for later analysis, dosing management or 
+treatment assessment. 
+20. For automated importation of Remote Monitoring Software data files into an extremely versatile and 
+easy-to-use ECT database. 
+21. Should have facility of Comprehensive database to store the complete patient information and can be 
+configured according to user needs. 
+22. The equipment should be tested and certified by International agencies and should have ISO 9001 
+certification with CE or TUV approved. 
+23. Should be supplied with one high performance desktop computer with latest processor with high 
+processing speed at  least 3.0 GHz, Memory (RAM) of minimum 16 GB, Hard drive capacity of at 
+least 2 TB, 2 Tb of external HDD, All data transfer ports including high speed Ethernet port, USB 3.0, 
+and high end color laser printer. 
+24. The CD/DVD/Blu-ray writer should be able to archive EEG data on a CD/DVD/Blu-ray, which should 
+have the capability to be read on any Windows, based PC without any additional software. Similar 
+archiving should be available with Pen drives or any other removable storage media. 
+25. Only vendor who is able to quote and deliver all equipment/machines will be considered. 
+26. The system should comply with CE and IEC standards and quality. Device should be CE 93/42/EEC 
+marked and meet the following standards: EN 60601-1-1, EN 60601-1-2, EN 60601-1-26 
+
+
+--- Page 18 ---
+NIT No. : AIIMS/R/CS/Psychiatry/01/2016/B 
+ 
+ 
+Page 18 of 21 
+ 
+27. The “System delivery should include installation on turnkey basis with dedicated onsite training to 
+Doctors/Technicians/Staff should be provided by authorized representatives from the principal 
+manufactures/authorized representatives form factory trained engineer at free of cost for smooth 
+operation and maintenance of the equipment to the satisfaction of the user department” 
+28. Warranty must be 5 year and must replace all the parts as and when required. 
+29. Should also quote for CMC for the next five years. A firm assurance of manufacturer to be given 
+regarding the supply of spares/ accessories for 5 years after the warranty period. 
+ 
+Note: 
+• 05 YEARS WARRANTY WITH QUOTE FOR NEXT 5 YEARS CMC IS REQUIRED INCLUDING ALL ACCESSORIES. 
+• PLEASE QUOTE SEPARATE PRICES FOR ACCESSORIES WHICH SHOULD BE FREEZED FOR NEXT 5 YEARS. 
+ 
+ 
+ 
+
+

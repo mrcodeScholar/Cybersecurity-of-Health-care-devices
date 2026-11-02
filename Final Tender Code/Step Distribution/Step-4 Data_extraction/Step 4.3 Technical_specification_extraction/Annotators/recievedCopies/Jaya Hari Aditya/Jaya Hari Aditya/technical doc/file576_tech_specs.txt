@@ -1,0 +1,97 @@
+--- Page 10 ---
+Tender for Low Volume sample analysis/ UV Vis Spectrophometer                                                         
+Admn/Tender/52/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Low 
+Volume 
+sample 
+analysis/ 
+UV Vis 
+Spectroph
+ometer  
+1. 
+A spectral scanning unit for UV-visible-Near-IR wavelength range, 
+with dedicated cuvette port (with no extra attachments) and should 
+able to read 96 and 384-microwell plate format and micro-volume 
+plate. 
+2. 
+Should be able to work with both compute- controlled software and 
+in standalone mode without computer, using at least 7-inch touch 
+screen.  
+3. 
+Analysis software should be supplied with unlimited user license.  
+4. 
+Should be able to read end-point, kinetics, spectral scanning and 
+kinetic spectral scan.  
+5. 
+Should able to read at least 16 low volume samples of 2µl-10µl 
+using low volume analysis plate for DNA/RNA purity and 
+concentration check directly with its standalone mode. 
+6. 
+Should have a memory of 99 inbuilt protocols, in stand-alone mode. 
+7. 
+At least two USB data ports in instrument, one for Wi-fi dongle and 
+one for data transfer device, 1 Ethernet port for communication. 
+8. 
+Operator should be able to access data via cloud-based capability, 
+wired/wireless network connection.  
+9. 
+Able to provide the wavelength range from 200nm to 1000nm with 
+1nm steps.   
+10. 
+Spectral scanning speed of 10 seconds from 200 to 1000 nm with 
+1nm steps per sample. 
+11. 
+Measurement speed should be 6 seconds for 96 well plate and 10 
+seconds for 384 well plate. 
+12. 
+Performance Specifications: Bandwidth: < 2.5 nm or better and 
+Xenon flash lamp life should be for 10 million 96 well microplates.  
+13. 
+For longer kinetic assays, an inbuilt incubation and linear shaking 
+option should be provided. 
+14. 
+Incubation temperature: from ambient +2 0C to +45 0C. 
+15. 
+Should have Power Save function when the instrument is ‘ON’ but 
+not being used.  
+16. 
+Visualize data in both numerical mode and heat-map/virtual image 
+of plate.  
+Data Analysis Software: 
+ 
+1. 
+Should allow multiple absorbance /photometry steps in a single 
+program for differential analysis assays. 
+2. 
+Should have a plate-out option during the program run for addition 
+of compounds and should be able to continue the program in 
+continuous mode.  
+3. 
+Should allow multiple absorbance reading steps within the same 
+program. 
+4. 
+Should be provided with a database-based software to run and 
+restore back up data etc. 
+5. 
+Should have area selection option, for different measuring 
+parameters for different area in a same plate.  
+6. 
+Should have a single graph plot for Spectral scanning of all 96 
+samples or 384 samples.  
+7. 
+Data export should be in pdf, Excel, xml and note formats. 
+01 
+
+

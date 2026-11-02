@@ -1,0 +1,46 @@
+--- Page 16 ---
+E Tender No. 019 AIIMS Bhopal/Biochemistry/Nano- Spectrophotometer/2017-18/01 Dated: 18.10.2017 Page 16 of 36 
+ 
+List of Equipment, Required Technical Specification and Tentative Qty. 
+ 
+Nano-spectrophotometer for Department of Biochemistry 
+ 
+S. 
+No. 
+Item Name 
+ 
+Item Description with its brief  
+Qty. 
+Unit 
+1. 
+Nano-
+spectrophoto
+meter 
+1.   Instrument Control- Built-in touch screen 
+2.   Minimum Sample Volume- 1 microliter or less 
+3.  Mode of detection- Pedestal and micro-cuvette both 
+4.  Limit of Detection- 
+ (dsDNA) for cuvette -  0.2ng/microliter or 
+better  
+5.  Measurement and Data Processing Time-≤ 10 sec 
+6.  Wavelength Range- 200–800 nm or better 
+7.  Wavelength Accuracy-≤ ±1 nm 
+8.  Light Source-Xenon Flash Lamp  
+9.  Light Source-Xenon Flash Lamp  
+10. Operating voltage and operation system (preferably Android™ 
+OS with 32 GB flash memory or better) : Compatible to Indian 
+conditions and PCs (USB-A ports, Ethernet, Bluetooth and Wi-Fi) 
+11. PC software requirement -Windows 7 and 10, 64 bit with laser 
+printer 
+12. 7-10 inches, high-definition color display  
+13. Recognition Type - 
+Single point, single point hold, swipe, 
+pinch and Compatibility with gloves. 
+14. (Optional) Temperature control in cuvette for performing 
+temperature dependent experiments like enzyme kinetics etc. 
+ 
+ 
+1 
+Nos. 
+
+

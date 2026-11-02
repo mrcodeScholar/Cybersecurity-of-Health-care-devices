@@ -1,0 +1,56 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/21151/OPTH/18/OT 
+ 
+Page 19 of 22 
+ 
+ 
+ANNEXURE-I 
+ 
+DETAILED TECHNICAL SPECIFICATION FOR FUNDUS CAMERA 
+SYSTEM 
+ 
+1. Field angle   
+300 and 450  
+2. Capture modes  
+Color, red-free, blue, red and fundus autofluorescence 
+images 
+ Fluorescein angiography 
+ ICG angiography 
+3. Filters                  Optical filters for capture modes: Filters for green and  
+                            blue pictures, filters for fundus autofluorescence images,  
+4. Pupil diameter  
+4.0 mm or more 
+      3.3mm or more when small pupil mode 
+5. Working distance 
+39-40mm (patient’s eye – front lens) 
+6. Fixation targets  
+External and internal, Center /periphery Right/ Left eye  
+                               automatic detection 
+7. Base movement 
+1. Back and forth: 
+Wide range 
+2. Right and left: 
+Wide range 
+3. Preferably should have tilltable camera. 
+     
+8. Computer/Accessories 
+9. Operating System       Windows Embedded standard 7 or newer. 
+10. Instrument table 
+      Preferably Asymmetric 
+11. Accessories                 Network printer, USB memory stick, monitor bracket,    
+                                          sliding keyboard shelf for instrument table, Any archiving  
+                                          and image analysis system,  
+12. Rated voltage  
+      100… 240 V± 10% (self-adjusting) 
+13. Power source                 50/60 Hz 
+14. Power consumption      300 – 400 VA maximum (basic device): 60 VA maximum     
+                                    (monitor) 
+15. Software                       should have calipers. Magnifying and montge mode 
+ 
+Preferably should have independent viewing system 
+ 
+ 
+ 
+ 
+
+

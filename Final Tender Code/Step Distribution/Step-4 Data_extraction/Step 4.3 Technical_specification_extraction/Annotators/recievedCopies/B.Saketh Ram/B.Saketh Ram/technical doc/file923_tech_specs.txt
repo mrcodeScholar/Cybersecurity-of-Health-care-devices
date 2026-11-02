@@ -1,0 +1,209 @@
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/T&E/19/056/OT/A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 25 
+ 
+ 
+ 
+ ANNEXURE-IV 
+S. 
+No. 
+Specifications of Advance Cardiac Life Support Simulator 
+1. 
+Technical specification of Advance Cardiac Life Support Simulator 
+ 
+             Simulator 
+ 
+1. Should have realistic aesthetic, easy to use, true mobility, wireless and tether less manikin. 
+2. Should have Two Platforms (interchangeable genitalia) in one (Easy to convert from Female to 
+Male) for teaching and training.  
+ 
+Neurologic System  
+ 
+1. Should have realistic eyes with reactive pupils to display different state of pupil : Normal, 
+Dilated and Blown 
+2. Mannequin should have simulated eyes to indicate patient condition for these ailments (e.g. 
+Keyhole, Jaundice, Blood shot eye, Cataracts, Haemorrhage and Droopy Eyelid pupils etc.)  
+ 
+Articulation 
+ 
+1. Should have realistic articulation 
+2. Should have good realistic range of motion in hips, knees, ankles, shoulders 
+3. Should have Cervical motion (neck movement) for practice of patient stabilization  
+ 
+Airway (Should allow practice of following techniques) 
+ 
+1. Bag valve mask (BVM) ventilation 
+2. Orotracheal and nasotracheal intubation 
+3. Endotracheal, retrograde and fiberopatic intubation and placement of various airway adjuncts 
+4. Transtracheal jet ventilation 
+5. Needle and surgical Cricothyrotomy 
+6. Tracheostomy 
+7. Right mainstem intubation and detection 
+8. Stomach distention with esophageal intubation 
+9. Laryngospasm  
+ 
+Breathing 
+ 
+1. It should have spontaneous breathing 
+2. It should have bilateral and unilateral chest rise and fall 
+3. It should have lung auscultation sites on anterior chest 
+4. It should have upper airway sounds: Stridor and Gurgling, Crepts etc.  
+5. It should allow practice of bilateral needle decompression and simulation like decreased airway 
+at one side of chest 
+ 
+CPR 
+ 
+1. It should be complaint with 2015 AHA guidelines, ERC guidelines and other etc 
+2. It should have realistic chest compression depth and resistance and able to detect wrong CPR 
+methodology. 
+3. It should have CPR performance metrics that detects hand placement, rate and depth of 
+compressions, recoil, ventilations and ventilation: compression ratio IM Medication 
+Administration 
+4. It should have intramuscular sites: e. g. Deltoid and bilateral Vastus lateralis, gluteal  
+ 
+ 
+
+
+--- Page 22 ---
+Tender No. : AIIMS/R/CS/T&E/19/056/OT/A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 25 
+ 
+ 
+Cardiac 
+ 
+1. It should have 4 lead ECG monitoring with real patient monitor 
+2. It should have 12 – Lead dynamic ECG display 
+3. It should have Defibrillation, cardioversion and pacing using real equipment  
+ 
+Circulation  
+ 
+1. It should have unilateral blood pressure measurement by auscultation and palpation 
+2. It should have carotid and femoral pulses simulation 
+3. It should have radial and brachial pulses simulation 
+4. It should have variable pulse strength based on patient condition  
+ 
+Sounds 
+ 
+1. It should have properties of auscultation of normal and abnormal heart, lung and bowel sound 
+2. It should have simulated stethoscope for auscultation of Heart, Lung and Bowel sounds.  
+3. It should have audio communication between manikin and operator  
+ 
+Vascular Access 
+ 
+1. It should have U/L /B/L cannulation at antecubital and dorsum of hand 
+2. It should have ultrasound training module insert for IV cannulation / PICC  
+ 
+Urinary 
+ 
+1. Should allow practice of urinary catheterization 
+2. It should have interchangeable genitalia  
+ 
+It should be supplied complete with:  
+ 
+1. Simulator – 1 nos. 
+2. Wireless simulated stethoscope – 2 nos. 
+3. Tablet (good qualities, large screen) with integrated software for running simulator and creating 
+various patient scenarios – 1 nos. 
+4. Simulated Eyes – 1 nos. 
+5. Simulated Defib – 1 nos. 
+6. Monitor / TV Screen 55” and remote – 1 nos.  
+7. Ultrasound training model insert for peripheral and central IV cannulation and infusion – 1 nos.  
+8. Consumables 02 set (IV Hand Injecting Site, IV Elbow Injection Site, Deltoid Injection, Thigh 
+Injection adult, Full Length Sleeve, Neck band, Crico Tape, IV Replacement Tubing Kit) 
+9. Preconfigured clinical scenarios:  
+ Cardiopulmonary Arrest 
+ Closed Head Injury and Pneumothorax 
+ Heroin Overdose 
+ Inferior-Posterior Myocardial Infarction 
+ Sepsis with Hypotension (septic shock) 
+ Stroke  
+ hypovolemic shock 
+ Cardiac tamponade 
+ Dehydration 
+10. Chest tube manikin 01 nos.  
+a) Manikin should have standard posture with lifelike anatomical landmarks including sternum, 
+clavicle, ribs, pleura, anterior-superior iliac spine, umbilicus, tibial tuberosity malleolus 
+b) The one side of the manikin should have 1 – 2 cut-away viewing areas to provide awareness 
+of the anatomical relationships between skin surface, musculature, ribs, veins, nerves and 
+lungs 
+
+
+--- Page 23 ---
+Tender No. : AIIMS/R/CS/T&E/19/056/OT/A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 25 
+ 
+c) Should have at-least two puncture sites including Pneumothorax centesis in the second 
+intercostals space in the midclavicular line; and Thoracic closed drainage in the sixth 
+intercostals space between the linea posterior-axillary and midaxillary. 
+d) Should simulates pneumothorax with various liquids for thoracic closed drainage;  
+e) Should have replaceable skin pad 
+f) Should be supplied complete with Chest Tube Manikin, Liquid bag, Pump bulb 
+ 
+11. Ultrasound central line training model 
+ Model should have ultra-durable tissue should be realistic in ultrasound imaging 
+characteristics, feels and cannulates like real human tissue 
+ Should be realisticcentral venous access ultrasound training model excellent for training 
+radiologists in the psychomotor skills associated with ultrasound guided central venous access 
+procedures 
+ Should have ultra-durable good quality self-healing tissue, extremely realistic in ultrasound 
+imaging characteristics and feels like real human tissue 
+ Should contain anatomically correct vascular anatomy of the upper thorax and neck including 
+internal jugular vein, brachiocephalic vein, subclavian vein, axillary vein, carotid artery, 
+subsclavian artery, and axillary artery as well as anatomical landmarks including the trachea, 
+clavicle, two head of the sternocleidomastoid muscle, manubrium and the sternal notch, 
+nipples 
+ Positive fluid flow in the vessels should provide users with immediate feedback when vessels 
+are accessed.  
+ It should have “give-away” feeling on IV catheter insertion. 
+ Simulated blood fluid in the arterial vessels should differ from the venous system allowing for 
+user to easily verity successful venous access procedures  
+ Tissues should match the acoustic characteristics of real human tissue. 
+ Arterial pulsations are simulated using a provided integrated automated pumping system.  
+ 
+ 
+Instructions for Online Bid Submission: 
+The bidders are required to submit soft copies of their bids electronically on the CPP Portal, using 
+valid Digital Signature Certificates. The instructions given below are meant to assist the bidders in 
+registering on the CPP Portal, prepare their bids in accordance with the requirements and submitting 
+their bids online on the CPP Portal.  
+More information useful for submitting online bids on the CPP Portal may be obtained at: 
+https://eprocure.gov.in/eprocure/app. 
+REGISTRATION 
+1) Bidders are required to enroll on the e-Procurement module of the Central Public Procurement 
+Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on the link “Online bidder 
+Enrolment” on the CPP Portal which is free of charge. 
+2) As part of the enrolment process, the bidders will be required to choose a unique username and 
+assign a password for their accounts.  
+3) Bidders are advised to register their valid email address and mobile numbers as part of the 
+registration process. These would be used for any communication from the CPP Portal.  
+4) Upon enrolment, the bidders will be required to register their valid Digital Signature Certificate  
+(Class II or Class III Certificates with signing key usage) issued by any Certifying Authority 
+recognized by CCA India (e.g. Sify/nCode / eMudhra etc.), with their profile. 
+5) Only one valid DSC should be registered by a bidder. Please note that the bidders are 
+responsible to ensure that they do not lend their DSC’s to others which may lead to misuse. 
+
+

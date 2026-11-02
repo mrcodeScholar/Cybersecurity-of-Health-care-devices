@@ -1,0 +1,148 @@
+--- Page 48 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Hand Foot UV Phototherapy Device (Whole 
+Body) 
+ 
+Page 45 of 67 
+ 
+ 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Hand Foot UV Phototherapy 
+Device (Whole Body) 
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ 
+quotation clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single 
+manufacturer. Demonstration of the instruments may be taken from all the 
+firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+TECHNICAL SPECIFICATIONS for “Hand Foot UV Phototherapy Device (Whole Body)” 
+ 
+Sl.no 
+Specifications 
+1 
+US FDA /CE/BIS/ISO/ISI approved 
+2 
+Full body cabinet with a combination of 24 high-pressure NB UVB and 24 
+UVA 100 watts lamps  
+3 
+5 UV protective goggles for patients and 5 UV protective goggles for 
+doctors 
+4 
+Rapid start ballast/choke (without starter)  
+5 
+High gloss Aluminium Reflector inside the cabinet 
+6 
+Discrete observation UV Protective window (to see inside the chamber 
+when treatment is on) 
+7 
+Desktop computer control with keyboard and mouse for user-friendly 
+operation (easy to use &store the patient data, operator data, lamp usage 
+data &other machine data, etc.) 
+8 
+Unit / Cabinet can be remotely located anywhere up to a convenient 
+distance from the desktop computer control. 
+9 
+Software should have user accountability of all operators, tracking of 
+patient data, lamps power output &usage hours information 
+
+
+--- Page 49 ---
+Tender No.  AIIMSMG/Proc/2022-23/GTE/ Hand Foot UV Phototherapy Device (Whole 
+Body) 
+ 
+Page 46 of 67 
+ 
+10 
+Software should have a notepad for patient’s specific comments 
+11 
+Full body cabinet with rust-proof outer body, double door, open-top, 
+space-efficient design, and stable platform. 
+12 
+UV Transmitting acrylic lamp shields. 
+13 
+Intelligent lamp cooling system. 
+14 
+Built-in UV power meters &Integrated Dosimetry control system with UV 
+Sensors 
+15 
+An auto-generated message warning for low lamp output, and calibration 
+requirement (with facility for voice announcement) 
+16 
+Software with built-in treatment protocols, customizable, with automatic 
+dosage calculation 
+17 
+Software should have a patient database with space for managing patient 
+records 
+18 
+Spare timer controller (in order to use when computer controller is not 
+working) 
+19 
+No extra charge for software update 
+20 
+Cabinet fitted with wheel/caster and can be fixed with stoppers 
+21 
+Built-in electric safety circuit system 
+22 
+Interior operating switch for lamp and fan control 
+23 
+Audio announcement for the operator as well as patient 
+24 
+Patient &lamps data can be maintained in the computer system &take 
+back up on Pen Drive 
+25 
+Printable patient records (Printable reports including Device Data Report 
+and Daily Summary) 
+26 
+Reliable cooling system. 
+27 
+Power requirement 4 KVA (when you switch on either UVA or NB UVB) 
+(appropriate stabilizer to be supplied)- According to the requirement of the 
+machine. 
+28 
+Electrical Specification 220-240 Volts AC (as per Indian / international 
+electrical standard) 
+29 
+Warranty will be for a period of 05 years with 5 years CMC after the expiry 
+of warranty including all the parts (excluding lamps) lamps should carry a 
+warranty of at least 01 years along with a freeze in the pricing of lamps for 
+5 years 
+30 
+To visit after 1 month of installation for queries 
+31 
+Minimum Unit Dimension in inches Width: 40, Depth: 40 &Height: 80 
+inches (all approximately) 
+32 
+An on-site demonstration of equipment is mandatory, prior to approval. 
+• 
+Technical compliance report should be submitted in following format: 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation if 
+any 
+Remark 
+
+

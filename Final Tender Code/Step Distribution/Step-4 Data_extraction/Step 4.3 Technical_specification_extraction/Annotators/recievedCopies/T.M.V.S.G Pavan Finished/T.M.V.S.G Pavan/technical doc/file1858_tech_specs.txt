@@ -1,0 +1,72 @@
+--- Page 9 ---
+ 
+Page 9 of 15 
+ 
+ 
+Annexure – I  
+Technical Specifications 
+ 
+        Executive Engineer (E) 
+AIIMS, Jodhpur
+S. No. 
+Description of work 
+Unit 
+Qty.  
+1 
+Supplying, Installation, Testing & Commissioning of 60kW, Three-phase, Dual 
+MPP Invertor for optimum generation, Wide Input Voltage Range, Maximum 
+98.2% Inverter Efficiency, In-Built 25 Year Data Storage Capability,  LCD display  
+Safety Protection- Anti islanding, Ground Fault monitoring, Anti Reverse Power 
+Controller - zero export (Optional), IEC Certification - As per MNRE and with 
+warrantee of atleast 5 years. Make-Fronius /Delta /Hitachi /Havell's /K-star 
+each 
+01 
+2 
+Supplying, Installation, Testing & Commissioning of quick make and quick break  
+4 POLE  current limiting MCCB   having following current rating, short circuit  
+breaking capacity  at 440/415 V, 50 Hz; O/L & S/C settings and conforming to IS 
+60947-2 / IEC 60947-2 with front face and centralized adjustable, line load 
+interchangeability, having positive isolation capability, provision for UVR, shunt 
+trip, earth fault trip, push (test) to trip, including making connections with lugs & 
+spreaders,  etc. as required. Make: ABB/ Legrand /  Siemens / L&T 
+100 Amp, 25 kA, adjustable O/L & fixed S/C setting, Ics = 100 % Icu 
+each 
+01 
+3 
+Supplying, Installation, Testing & Commissioning of recessed/ surface mounting 
+heavy duty Vertical type 16 SWG sheet steel Distribution board with provision of 
+incomer suitable for MCCB and SP / TP MCB as outgoing, phosphatized, powder 
+painted complete with insulated suitable rating  copper bus bar, neutral link, earth 
+link and din bar, masking sheet & conforming to IS13032 & IS8623 etc. as 
+required. (Make as of supplied for MCCB) 
+Single door with Provision of Incomer MCCB 100/ 125 A Rating with indicator 
+each 
+01 
+4 
+Supplying, Installation, Testing & Commissioning of DC DB (MCB and fuse) 
+each 
+01 
+5 
+Supply & Laying of 3.5cX50sqmm AC Aluminium armoured XLPE insulated & 
+P.V.C. sheathed cable of 1.1 KV grade of IS: 1554 P-I / IS :7098 P – 1  in ground / 
+on surface as per IS:1255 etc. as required of size. Make:  Gloster / CCI / Finolex. 
+meter 
+50 
+6 
+Supply & Laying of 1cX4sqmm DC solar Copper XLPE insulated & P.V.C. 
+sheathed cable of 1.1kV grade on surface/ ground etc. as required of size.  
+meter 
+500 
+7 
+Supplying & making end termination with brass compression gland and aluminium 
+lugs for 3.5cX50sqmm Al. Ar. PVC insulated and PVC sheathed / XLPE 
+aluminium conductor cable of 1.1 KV grade as required. Make: Metalcraft / 
+Cabend / Trinity Touch. 
+set 
+04 
+8 
+Supplying, Installation, Testing & Commissioning of MC4 connectors 
+each 
+100 
+
+

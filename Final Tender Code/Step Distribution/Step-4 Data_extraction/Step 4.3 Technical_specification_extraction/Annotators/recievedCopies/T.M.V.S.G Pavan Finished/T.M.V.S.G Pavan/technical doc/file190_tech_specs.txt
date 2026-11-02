@@ -1,0 +1,123 @@
+--- Page 35 ---
+Tender No. AIIMS-NAG/ANAT/FISH/GTE/2023-24/15                                                                   Dated- 16/01/2024 
+Sign and Stamp of Bidder                                                                                                                                           35 
+ 
+Section-VII 
+ 
+Technical Specification of “Metaphase Finder System and Fluorescence (FISH) workstation” 
+ 
+PART A: Metaphase finder and Imaging Workstation 
+(a) Camera: Ultra High-resolution camera with 4000 x 3000, 12 Megapixels, 12 Bit, minimum 1" sensor/ chip, 
+monochrome sensor with minimum pixel size 3.45 µm x 3.45 µm and exposure time between 80 µs and 270 s with 
+global shutter. 
+(b) Metaphase Scanner:  
+1. High speed metaphase scanner system.  
+2. Scanning of metaphase in both Transmitted light and florescence light mode.  
+3. Unattended metaphase searching up to 8 slides should be upgradable to 80 slides or more with autoloaders.  
+4. Real-time analysis of grayscale images.  
+5. Fast and adaptable search algorithm.  
+6. Focus tracking for each metaphase by advanced autofocus algorithm. 
+7. Fast monitoring and evaluation of found metaphases by image gallery with interactive scoring. 
+8. Precisely centered relocation at different magnifications. 
+9. Graphic presentation of search progress, automated search protocols and evaluation list with transformed 
+coordinates for relocation on other microscopes.  
+10. User defined scanning area for faster scanning. 
+11. On screen aberration scoring from live image.  
+12. Automatic light level adjustment during scanning.  
+13. Automatic centering of object prior to high magnification captures. 
+14. Integrated, customized and user trainable classifiers for scanning and capture. 
+15. Automatic oil dispenser.  
+16. Automatic image capture under oil immersion objective. 
+(c) Karyotype software: 
+1. Artificial Intelligence (AI)/ DNN (Deep Neural Network) enhanced flexible karyotyping 
+(chromosomal assignment, chromosomal orientation, removal of non-chromosomal objects and 
+background reduction), available for all common human samples and banding patterns.  
+2. User defined automated and assisted complete workflows 
+3. Whole metaphase separation, including overlapping, touching and clustered chromosomes.  
+4. After metaphase finding and high-resolution image capture, system should automatically karyotype 
+metaphases without human intervention.  
+5. Unlimited undo and log operations to overcome human errors.  
+6. Interactive and automatic Classification based on built-in classifiers for G-, Q- and R-banding. 
+7. Ideograms according to ISCN standard for 400, 550, and 850 bands.  
+ (d) FISH Software:  
+1. Image acquisition in up to 12 color channels with integrated microscope control for motorized 
+microscopes.  
+2. Extended focus image generation to have a very clear Fluorescence signal against clear dark 
+background. User defined automatic processing functions significantly simplify the image 
+enhancement immediately after the capture.  
+
+
+--- Page 36 ---
+Tender No. AIIMS-NAG/ANAT/FISH/GTE/2023-24/15                                                                   Dated- 16/01/2024 
+Sign and Stamp of Bidder                                                                                                                                           36 
+ 
+3. Interactive and automatic integration time control for each color channel.  
+4. Automatic and interactive background correction and thresholding for each color channel. Mask 
+(exclude/include) function, transient and permanent zoom, presentation of individual colors, false 
+colors, and gray levels, annotation capabilities and measurement functions. Provision to capture color 
+images using RGB filters for stained samples/slides like H&E, Special Stains, IHC etc. 
+PART B: Motorized Upright Fluorescence Microscope 
+1. Fully motorized Upright fluorescence microscope with apochromatically corrected Fluorescence beam 
+path. 
+2. Motorized microscope with motorized Z focus motor of step size 10 nm with adjustable height stop 
+and torque of focusing. Objective specific focusing adjusting for scanning and capture.  
+3. Built in TFT/ LCD touch screen to display the microscope parameters and control all motorized 
+functions of the microscope like nosepiece, reflector turret, Z position, light and contrast manager 
+functions. 
+4. Integrated light and contrast manager to enable convenient slide observation through eyepieces. 
+5. Revolving Motorized Septuple nosepiece for accommodating up to 7 Objectives.  
+6. 10 position in built motorized reflector turret with shutter. Filters for DAPI, FITC, Spectrum Orange, 
+DEAC, Texas red, Cy5 and Triple pass for DAPI/FITC/TRITC 
+7. 100-watt halogen illumination for Transmitted light applications and 100-watt mercury illumination 
+for reflected/fluorescence applications with self-adjusting aid. 
+8. Objectives: Semi plan, apochromatic 5x, 10x, 40x and oil immersion.  
+9. Motorized scanning stage with frame to accommodate at least 8 slides. 
+10. Binocular phototube with 15° inclination and a wide field view of minimum 25 mm, with 10x 
+focusable eyepieces. 
+11. Motorized LD Condenser suitable for cytogenetic applications. 
+PART C: Report / Archiving Software:  
+1. Dedicated software for Report generation, analysis, archiving and classifying with institute logo or 
+other related images.  
+2. Scheduled backup and notifies if data are not getting saved.  
+3. Dedicated software for Report or case data searching and sorting.  
+4. Editing can be done for a work group or multiple cases. Provides security check so that unknown user 
+cannot modify data.  
+5. User Defined report generation with graphic interface.  
+6. Provision in software to extract statistical information of cases/reports like cases per year, results per 
+year, samples per year etc. 
+PART D: Computer:  
+1. Intel ®  Core i9 -10900X (10-Core, 3.7 GHz, 4.7 GHz Turbo, 19.25MB, HT, 165W) 
+2. 16 GB (2x8) RAM DDR4  
+3. 10 GB graphics card – NVIDIA RTX 3080  
+4. Monitor 24” TFT or higher with 1920x1080 resolution.  
+
+
+--- Page 37 ---
+Tender No. AIIMS-NAG/ANAT/FISH/GTE/2023-24/15                                                                   Dated- 16/01/2024 
+Sign and Stamp of Bidder                                                                                                                                           37 
+ 
+5. 256 GB SSD.  
+6. Hard disk 1 TB or higher. 
+7. 3 x PCIe slots and 1 x PCI slot. 
+8. 4 USB3.0 and 4 USB2.0 ports.  
+9. 950W chassis, Original Window 10 Pro 64 bit. 
+10. Coloured laser printer. 
+11. Online UPS of suitable quality (1000VA/600W at least). 
+ 
+PART E: Others: 
+1. To provide 5 year CMC after warranty.  
+2. Specified immersion oil to be supplied (without extra cost) during warranty period.  
+3. Free on site training as and when needed for an year after the installation.  
+4. Online demo will be held as a part of technical evaluation.  
+5. To provide complete demonstration of the system (inclusive of consumables) during installation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

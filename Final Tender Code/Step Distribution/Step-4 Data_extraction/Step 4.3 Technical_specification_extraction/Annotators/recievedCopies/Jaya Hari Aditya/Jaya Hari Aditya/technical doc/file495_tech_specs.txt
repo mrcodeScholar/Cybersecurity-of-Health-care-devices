@@ -1,0 +1,70 @@
+--- Page 10 ---
+Tender for Flow Cytometer 
+Admn/Tender/36/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Flow 
+Cytom
+eter  
+1. Pre-configured flow cytometer equipped with at least two lasers including 
+blue (488nm) and red (640nm) lasers. 
+2. Should have minimum capability of at least 4 fluorescent colors and 6 
+parameters. For each parameter the flow cytometer should be capable of 
+measuring area, height and width.  
+3. The excitation and collection optics of both lasers should be fixed requiring 
+no alignment to be done by operator.  
+4. Should have high quality quartz flow cell.  
+5. Should have single tube sample loading mode, integrated and automated 
+multi-tube loader with at least 24 tubes loading capacity as well as 48- & 96- 
+well plate loader.  
+6. Should offer low, medium and high flow rates.  
+7. Should be able to acquire at least upto 10,000 events per second.  
+8. The sample carryover must be ≤0.1%.  
+9. Minimum detectable particle size should be 0.5µM.  
+10. Should have compensation capability between all fluorescence channels 
+with online as well as post-acquisition manual and auto-compensation 
+features.  
+11. Should have digital signal processing with linear and log modes and 
+dynamic range of at least 5 decades.  
+12. Should be operable at 220-230V and 50Hz.  
+13. Should be capable of online and offline analysis and capabilities of quality 
+control and validation, cell counting, viability, apoptosis analysis, cytometric 
+bead analysis, cell cycle analysis, surface marker studies and kinetic studies.  
+14. Data format should be compatible to Microsoft office.  
+15. Compatible antivirus software with update for 7 years.  
+16. The Cytometer should have bio-hazard containment system and proper 
+waste collection and management system.  
+17. Compatible computer system (branded only): PC workstation with at least 
+Core i7 or higher, 2 TB hard drive or more, DVD / CD ROM R/VV Combo 
+Drive, at least 23 inch LCD monitor.  
+18. The computer system should have latest licensed windows (Professional) 
+software and Microsoft office. 
+19. An additional computer system with above configuration and softwares 
+for offline analysis should be provided. It should be capable of connecting to 
+the flow cytometer.  
+20. One color printer with 4 changes of toner cartridges per year for 10 years.  
+21. Suitable branded online UPS of sufficient capacity with half hour backup 
+for uninterrupted running of full equipment during power interruption.  
+22. Provide with complete essential accessories including appropriate starter 
+kits, QC beads, maintenance kits.  
+23. Warranty for the machine should be 5 years and CAMC for 5 years after 
+expiry of warranty.  
+24. Rates for Comprehensive Maintenance Contract (CMC) for 5 years after 
+the warranty period including the flow cytometer, computer systems, printer 
+and UPS with batteries.  
+25. The reagents/ consumables including QC materials, proprietary tubes, 
+sheath fluid, other fluids for startup, cleaning and shutdown for an annual 
+load (300 days) of 50 tubes per day should be quoted. The same would be 
+taken into consideration for price comparison. 
+ 
+01 
+
+

@@ -1,0 +1,85 @@
+--- Page 19 ---
+ 
+Tender Enquiry No. F.No.24/ Optho/196(XIII)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+High Definition OCT (Spectral domain) 
+Oct Scanning  
+ 
+ 
+ 
+ Axial resolution: 5 um (in tissue) 
+ Transverse resolution: 15 um (in tissue) 
+ Scan speed: 27,000-68000 A-Scans per second 
+ A-scan depth: 2.0 mm (in tissue), 1024 points 
+ Optical Source:superluminescent diode (SLD), 840 nm 
+Fundus Imaging  
+ Live during scanning 
+ Optical source:superluminescent diode (SLD),840 nm. 
+ Field of view: 36degree x 22degree 
+Scan Patterns 
+ Macular Cube 200 x 200 Combo: 200 horizontal scan lines 
+comprised of 200 A –scans 
+ Macular Cube 512 x 128 Combo: 128 horizontal scan lines 
+comprised of 512 A0scan 
+ 5 Line Raster: 4096 A-scan per B-scan (adjustable length, 
+spacing and orientation) 
+Software/ Normative Data 
+FDA approved normative database for RNFL, ONH & MACULA. 
+Macula thickness analysis and Macula change analysis. RNFL 
+Thickness analysis and. Guided progression analysis (GPA) for 
+RNFL & ONH. Advance visualization and 3D display. Pachymetry 
+map. 
+HD Anterior segment imaging & measurements. Enhance depth 
+imaging (EDI). Auto fovea finder, auto disc center for 
+Glaucoma.Single eye summary report.Percentile value for each 
+sector thickness analysis. 
+Focus Adjustment Range  
+ 
+-20D to +20D (diopetrs) 
+Fixation 
+ 
+ 
+ 
+Internal and External  
+Computer 
+ 
+ 
+ Computer with i5 or higher processor should be integrated in 
+the system with at least 19” high resolution color flat panel 
+display. 
+ Window 7 software, Archiving on External Hard disc 1 TB 
+(NAS). 
+ High-performance multi-core processor 
+ Internal storage:> 1,00,000 scans 
+ External computer & LCD display not acceptable. 
+Pupil Size Requirement 
+ 
+2.0 mm -3 mm (minimum pupil size) 
+Connectivity with FORUM Go Glaucoma software for analysis of HFA & OCT data for Structural & 
+Functional analysis (Preferable) 
+ 
+[[ 
+Corneal Imaging: 
+The corneal module should include the cornea analysis including the angle measurement, central 
+pachymetry, LASIK flap measurement, 3 dimensional view of the cornea, true corneal power and 
+keratoconus analysis. 
+ Ergonomically designed original motorized table. 
+Photo quality laser color printer 
+
+
+--- Page 20 ---
+ 
+Tender Enquiry No. F.No.24/ Optho/196(XIII)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+Power supply 
+220V +10% VAC/50hz 
+UPS (indigenous) 30 minute battery 
+2 years warranty and 5 years CAMC 
+Onsite demonstration may be required 
+ 
+
+

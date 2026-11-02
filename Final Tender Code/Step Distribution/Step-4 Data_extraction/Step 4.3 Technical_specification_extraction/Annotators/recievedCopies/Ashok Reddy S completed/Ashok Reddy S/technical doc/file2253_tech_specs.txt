@@ -1,0 +1,378 @@
+--- Page 21 ---
+ 
+Tender No.: 180 AIIMS BHOPAL/HC/RC-PULMONARY/Diffusion System, Spirometer, Thoracoscopy System and EBUS/2014-15/01 
+Dated 12.01.2015 
+Page 21 of 38 
+ 
+ 
+ALL INDIA INSTITUTE OF MEDICAL SCIENCES (AIIMS) BHOPAL 
+Saket Nagar, Bhopal-462020 (Madhya Pradesh) India 
+Website : www.aiimsbhopal.edu.in 
+ 
+Chapter-3 
+ 
+Schedule of Requirement and Technical Specification 
+ 
+The Scope of work Includes: 
+ 
+ 
+Providing DIFFUSION SYSTEM, SPIROMETER, THORACOSCOPY SYSTEM AND EBUS FOR PULMONARY MEDICINE 
+DEPARTMENT based on specified make list and international standard specifications with keeping in mind the 
+following essential requirement to participation in this Tender document:- 
+ 
+ 
+1. We are looking for reputed well known Manufacturer’s/Authorized Dealers/Supplier companies, who will supply the 
+high quality Equipment /Instruments as per the requirement list of Pulmonary Medicine Department of AIIMS Bhopal. 
+ 
+2. Companies well known in the line of manufacturing Equipment/Instruments should only quote due to as per our 
+requirement, the supply time is 3-6 weeks only after the issue of Supply Order/NOA/LOA. 
+ 
+3. Tentative list of Equipment/Instruments required for Pulmonary Medicine Department given in requirement schedule 
+may be purchased immediately and Tenderer should be brought on site samples of Instrument/Equipment for display 
+if directed by the Technical Evaluation Committee during evaluation comprising the Subject Experts duly constituted 
+by the Competent Authority (Director, AIIMS Bhopal)  for procurement  of required Equipment/Instruments for First 
+Phase Hospital functioning. 
+ 
+4. 
+Future orders will be expedited by achieving a Rate Contract as per the terms and condition of the Tender Document 
+by offering a blender bus discount (overall discount on print rate) on the company’s Rate in their printed Catalogue. 
+ 
+Specification Listed Below:- 
+ 
+ 
+Item 
+No. 
+Name of Item 
+Detailed Description &Technical Specification 
+Qty.  
+1. 
+DIFFUSION 
+SYSTEM 
+It should be a modular/expandable system to perform the following tests: 
+ 
+1. 
+ Spirometry Tests:Forced Vital Capacity (Pre-Post), Bronco Challenge Test (Dose 
+Response), Slow Vital Capacity, Maximum VoluntaryVentilation. 
+2. 
+ Lung Diffusion Capacity Tests includes a) Single-Breath with Breath Hold. b) Intra-
+breath. 
+3. 
+Lung volume sub-divisions from DLCOSB 
+4. 
+Flowmeter :  Bidirectional Pneumotach/Ultrasonic , Flow range 0.02 - 14 l/s, 
+Accuracy ±2%, Resistance <1 cmH2O/l/s @ 14 l/s 
+5. 
+ Breathing Valves: The operation of breathing valves during tests should be fully 
+automated. The breathing valve should be designed to be easily dismounted for 
+complete sterilization. It shall be supported by flexible table arm during test 
+6. 
+ Analysers: 
+a) 
+CO Analyzer: Should be Non Dispersing Infrared (NDIR) with 0-3% range, 
+Accuracy ±0.003% 
+b) 
+CH4 Analyzer: Should be Non Dispersing Infrared (NDIR) with 0-3% range, 
+Accuracy ±0.003% or Helium Analyzer : Ultrasonic Mol mass/Thermal 
+Conductivity determination technique with measuring range of 0-15% He with 
+accuracy +/- 0.05% FDS 
+7. 
+Environmental Sensors: The system should have temperature, Barometric and 
+Humidity Sensors. 
+8. 
+Sensors:  All sensors should preferably be non-consumable or their life should be 
+1 Nos. 
+
+
+--- Page 22 ---
+ 
+Tender No.: 180 AIIMS BHOPAL/HC/RC-PULMONARY/Diffusion System, Spirometer, Thoracoscopy System and EBUS/2014-15/01 
+Dated 12.01.2015 
+Page 22 of 38 
+ 
+ 
+ALL INDIA INSTITUTE OF MEDICAL SCIENCES (AIIMS) BHOPAL 
+Saket Nagar, Bhopal-462020 (Madhya Pradesh) India 
+Website : www.aiimsbhopal.edu.in 
+specified and the bidder should arrange free sensors for the warranty/CMC period. 
+9. 
+Power Supply: The operating AC Voltage range should be 100-240V AC±10% 
+50/60Hz 
+1. 
+ Interface: It should have RS232/USB interface for connecting to a computer. 
+2. 
+Essential Accessories: The system should be supplied with all essential accessories 
+required like Mobile trolley along with all necessary adapters, cables and software, 
+UPS (1 KVA), Diffusion Test gas cylinder (02  sets ) with regulator (02 no.), Bacterial 
+Filters (5000 nos.),  Silicon Mouthpieces (200 nos.), Paper Mouthpieces Adult (5000 
+nos.), Paper Mouthpieces Paediatric (200 nos.),Nose clips (20 nos.) 
+3. 
+Up-gradation:The system should be upgradable to Lung Volumes by Nitrogen 
+Washout method, Cardio-pulmonary Exercise Testing, Body Plethysmography, 
+Respiratory Mechanics (MIP/MEP & PO.1), Airway Resistance (Rocc/Rint)  
+&Integrated Dosimeter in future.  
+4. 
+Quality Assurance:  The manufacturer should have ISO, CE (European) & US FDA 
+certifications. The system must meet or exceed ATS/ERS standardization (2005) 
+guideline should be provided. Facility for saving patient data, measured curves and 
+calculated parameters, with quick retrieval from the database 
+5. 
+Facility to customize report output 
+6. 
+Computer - Intel i7 3.2 GHz processor or better(3rd generation), at least 2 Terabyte 
+hard disk, at least eight GB DDR3 RAM, DVD writer, at least 19” TFT monitor, at least 
+four USB 3.0 ports, original Windows 7,UPS with power backup of at least 20 
+minutes 
+7. 
+Windows 7.0 or 8.0 compatible diagnostic software 
+8. 
+Multifunction color laser printer, scanner and copier  with air printing, automatic 
+document feeder, automatic dual side printing with inbuilt wi-fi modem. 
+9. 
+Warranty for Five years and CMC for next five years. 
+10. Training will be given to minimum two doctors and two technicians of pulmonary 
+medicine department 
+ 
+ 
+2.  Spirometer 
+ 
+1. 
+The unit should be light weight, exclusively designed to carry out examination 
+of pulmonary system and to measure & display lung function parameters, 
+operable through the USB port of any computer, not requiring large installation 
+space (compact). It should come with an incentive display for cooperation free 
+lung testing. It should have a calibration free Ultrasonic sensor. 
+ 
+2. 
+It should be designed for the following measurement protocols in the basic 
+version 
+ 
+Spirometery with pre/post comparison & individual interpretation assistance 
+and loops/curves 
+ 
+Flow/volume 
+ 
+MVV 
+ 
+3. 
+With possible up gradation to 
+ 
+Resistance (Occlusion/ Oscillatory) 
+ 
+Diffusion Spirometery He dilution/ CO diffusion SB 
+ 
+MIP & MEP for respiratory muscle strength 
+  
+4. 
+The system should have a reusable ultrasonic sensor (not requiring disposable 
+tubes) free from calibration and any kind of frictional inefficiencies and which is 
+absolutely insensitive to moisture. It should have an open kind of breathing 
+system for preventing cross contamination with the following  measurement 
+ranges :- 
+Flow Measurement  
+Range : 0 to +/- 16 Ltrs/sec with accuracy better than +/- 2.5% subject to a min of 50 
+ml/sec and resolution as low as 10 ml/sec. 
+Volume measurement 
+Range : 0 to 20 ltrs with resolution of 10 ml 
+Corrections 
+Flow Volume     
+  
+:   ERS or ATS 
+2 in No. 
+
+
+--- Page 23 ---
+ 
+Tender No.: 180 AIIMS BHOPAL/HC/RC-PULMONARY/Diffusion System, Spirometer, Thoracoscopy System and EBUS/2014-15/01 
+Dated 12.01.2015 
+Page 23 of 38 
+ 
+ 
+ALL INDIA INSTITUTE OF MEDICAL SCIENCES (AIIMS) BHOPAL 
+Saket Nagar, Bhopal-462020 (Madhya Pradesh) India 
+Website : www.aiimsbhopal.edu.in 
+Inspiratory Gas qty  :   BTPS Compensated 
+ 
+5. 
+The machine should measure the following Parameters: 
+VC in , V C ex, V C max, IRV, ERV, VT, IC, Frequency, MVV, , ti, te, ti/te, FVC, FEV1, FEV 0.5, 
+FEV 1/ VC max, FEV 1/ FVC ex, MEF25, MEF 25-75, PEF, PIF and AREA under expiratory f/v 
+curve, Dead Space measurement, Emphysema and Capno-volumetery measurement. 
+6. 
+Quality Assurance:  The system must meet or exceed ATS/ERS standardization 
+(2005) guideline should be provided. Facility for saving patient data, measured 
+curves and calculated parameters, with quick retrieval from the database. 
+7. 
+Facility to customize report output 
+A. Computer - Macintosh,  3.5GHz quad-core Intel Core i5 processor (Turbo 
+Boost up to 3.9GHz)27-inch (diagonal) Retina display with IPS, 8GB (two 
+4GB) of 1600MHz DDR3 memory; four SO-DIMM slots, user accessible 
+technology;5120x2880 resolution(5K display), with wireless keyboard 
+and mouse and all necessary cables.UPS with power backup of at least 
+20 minutes; with UPS stabilizer 
+8. 
+Multifunction color laser printer, scanner and copier with air printing, automatic 
+document feeder, automatic dual side printing with inbuilt wi-fi modem. 
+9. 
+Warranty for Five years and CMC for next five years. 
+10. Training will be given to minimum two doctors and two technicians of 
+pulmonary medicine department. 
+11. It should be supplied with 2000 bacterial filters and 5000 disposable cardboard 
+mouth pieces and 20 Nose Clips. 
+12. The manufacturer should be an EN ISO accredited company and the product 
+should be duly European  CE  or US –FDA approved. 
+3.  
+Thoracoscopy 
+System 
+A. 
+One forward viewing rigid telescope with diameter of 5-6.5 mm, and  
+instrument channel of minimum 3.5 mm and light transmission.  
+B. 
+Essential accessories 
+1. 
+Plastic  trocars and cannula (two) 
+2. 
+Insulated biopsy forceps with handle (one) 
+3. 
+Insulated excision forceps with handles (two) 
+4. 
+Monopolar hook electrode 
+5. 
+Injection cannula (one) 
+6. 
+Graduated probe rod (one ) 
+7. 
+Powder spray system  
+8. 
+Insulated suction tubes with valves (two) 
+9. 
+Insulated coagulating electrode with its high frequency cord (one) 
+10. 
+Mobile trolley compatible with the whole system (one) 
+11. 
+Fiber light guide – Minimum 2 meter long 
+12. 
+All necessary adapters, connectors and cables 
+13. 
+All metallic instruments and accessories should be reusable and 
+autoclavable 
+14. 
+Sterilization kit for thoracoscope 
+ 
+C. 
+       Light source 
+1. 
+Xenon light source (atleast 175 Watt) with fibreoptic light cable (one) 
+2. 
+Extra spare xenon bulb for use with this light source (one) 
+ 
+D. 
+      Video system  
+1. 
+Endoscopic camera (one CCD), with minimum zoom range 21-36   
+2. 
+Colour monitor with minimum 18 inches screen 
+3. 
+Facility for digital storage of images on removable media (either CD or flash 
+media) 
+ 
+        E.         Other Requirements: 
+1. 
+It should have US-FDA, CE and ISO certification. 
+2. 
+Warranty for five years 
+3. 
+CMC for five years 
+4. 
+Individual price for all item nos. 1 to 14 under section B and nos. 1 to 2 under 
+Section C should be quoted separately 
+5. 
+Power 220 V 50 Hz AC 
+6. 
+Training will be provided to minimum two doctors and two technicians. 
+1 Nos. 
+
+
+--- Page 24 ---
+ 
+Tender No.: 180 AIIMS BHOPAL/HC/RC-PULMONARY/Diffusion System, Spirometer, Thoracoscopy System and EBUS/2014-15/01 
+Dated 12.01.2015 
+Page 24 of 38 
+ 
+ 
+ALL INDIA INSTITUTE OF MEDICAL SCIENCES (AIIMS) BHOPAL 
+Saket Nagar, Bhopal-462020 (Madhya Pradesh) India 
+Website : www.aiimsbhopal.edu.in 
+4.  
+Endobronchial 
+ultrasound(EBUS) 
+Endobronchial ultrasound puncture scope 
+Field of view At least 100o (at least 45o forward oblique) 
+Depth of field Approximately 2-50 mm 
+Tip deflection 
+Up 
+ 
+at least 120o 
+Down 
+ 
+at least 90o 
+Rigid distal width 
+Probe 
+ 
+not more than 6.5x7.0 mm 
+Optic 
+ 
+not more than 7.5 mm 
+Insertion tube outer diameter Not more than 6.5 mm 
+Instrument channel width  at least 2 mm 
+Working length  at least 600 mm 
+Total length  not more than 900 mm 
+Acoustic frequency  5-10 MHz switchable 
+Scan Direction   Longitudinal 
+Scan System  Convex 
+Scan Angle    75o 
+Digital Ultrasound Scanner 
+Compatible with the above EBUS puncture scope 
+Real time 3D image 
+Omnidirectional M-mode, B-mode and Doppler mode 
+Hi support - automatically optimize the B-mode and Doppler image parameters 
+(gain, baseline, PRF etc.) 
+Picture in picture for both ultrasound and endoscopic image simultaneously 
+High definition dynamic tissue harmonic imaging 
+High resolution imaging 
+Ergonomic operation keyboard 
+User programmable calculation package 
+Annotation, arrow mark and pointer display 
+Waterproof remote control 
+ 
+• 
+It should be compatible with video bronchoscopy system installed in 
+AIIMS Bhopal. 
+• 
+The whole system should function on 50Hz/220V AC 
+• 
+Warranty for five years and AMC/CMC for 5 years after the expiry of the 
+warranty (AMC/CMC rates to be quoted separately) 
+ 
+Essential Accessories 
+1. 
+EBUS puncture needles (10 nos.) 
+2. 
+UPS for backup of the whole system including ultrasound generator 
+3. 
+Mobile trolley to mount the EBUS system and ultrasound 
+1 Nos 
+ 
+Bidder has to submit Group wise EMD (As shown in schedule of requirement) i.e for each Group from 1-6 there 
+are separate EMD cost. Bidder has to submit EMD for only those items in which he want to participate. L1 will be 
+calculated group wise 
+ 
+The Technical Bid & Financial Bid should be kept in two separate sealed envelope superscripting with “Technical 
+Bid for Supply of DIFFUSION SYSTEM, SPIROMETER, THORACOSCOPY SYSTEM AND EBUS Items at AIIMS Bhopal’ 
+and “Financial Bid for Supply of DIFFUSION SYSTEM, SPIROMETER, THORACOSCOPY SYSTEM AND EBUS Items at 
+AIIMS Bhopal’ otherwise the Tenderer bid will be rejected. 
+ 
+ 
+Chapter-4 
+ 
+
+

@@ -1,0 +1,22 @@
+\documentclass[14pt]{extarticle} % Change font size to 14pt
+
+\setlength{\parindent}{0pt} % Remove paragraph indentation
+
+\begin{document}
+	
+	\section*{Instructions}
+	
+	\textbf{Step 1:} Download the document with your name.
+	
+	\textbf{Step 2:} Run the \texttt{pdf\_extraction.ipynb} file.
+	
+	\textbf{Step 3:} Open the PDF in the browser using the given button in the interface and identify whether the technical specification of the document contain medical devices that have software, are connected to a network, or have wireless capabilities such as Bluetooth, telemetry, etc.
+	
+	\textbf{Step 4:} If equipment with the given specification is identified, use the \textit{Extract Technical Specification} button. Provide the start and end page numbers separated by a dash (-) without any space. \textit{Note:} If the technical specification is on a single page, use the same number for both the start and end pages. Use browser PDF viewer page numbers. Please do not use the page number present in the PDF itself, as it may not follow the exact page number appearing in the document.
+	
+	\textbf{Step 5:} If the technical specification does not contain such equipment, click the \textit{Move Without Extraction} button to move the document automatically to the \texttt{not\_needed} folder inside the \texttt{processed\_pdf} folder.
+
+	\vspace{1cm}
+	\textit{Note:} After extraction of all 179 files for each individual, make a zip of the folder exactly as it is without any changes. Please ensure that technical specifications are only extracted for devices that meet the specified criteria, as failure to do so will be identified later. More then 1 equipment can be present in the technical specification go through them in detail and understand it.
+	
+\end{document}

@@ -1,0 +1,93 @@
+--- Page 25 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Endocrinology/DEXA/       /2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 25 
+ 
+ 
+Specification for Whole Body Dual Energy X-Ray Absorptiometry (DEXA) 
+1. Scanning method- Fan Beam Acquisition; One pass Acquisition Technique 
+2. Detectors- Multi element detector array, Minimum 216, Voltage switching 
+3. X- ray system- Dual energy 
+4. Precision- <1% error 
+5. Scan time- < 30 seconds 
+6. Patient weight limit- 150 kg. 
+7. Weighing scale and height measurement device to be supplied. 
+8. QC- 
+a. Automatic PASS/FAIL Quality Control 
+b. Least Significant Change Configuration 
+c. Automatic daily calibration with Phantom for Spine, Whole Body, small animal. 
+d. Automatic quality control program with multiple system checks 
+9. Clinical applications- 
+a) Vertebral assessment AP and lateral, 
+b) Forearm, 
+c) Hip 
+d) Dual Hip, 
+e) Proximal Femur, 
+f) Total Body with Body Composition with sub region analysis, and sub region bone density, 
+g) Atypical Femur Fracture Assessment (AFF) High Resolution Imaging Capability. 
+h) Pediatric whole body and body composition 
+i) Pediatric Spine, Hip and Forearm. 
+j) Infant whole body. 
+k) IVA: Capability to automatically grade vertebral deformity and communicate this data directly 
+to reporting software. 
+l) Software for FRAX, 
+m) Trabecular bone score 
+n) Facility for small animal for research studies. 
+10. Software requirements: Software for FRAX assessment, Advanced Body Composition Assessment, 
+ability to store data and compare serial scans for assessment of rate of change. DICOM & PACS 
+compatibility. 
+11. Reference data: NHANES III reference database, age sex and ethnicity matched data. 
+12. Workstation requirements: 
+a. Hard disk with 1 TB storage with 1 TB external hard drive 
+b. 4 GB RAM 
+c. DVD RAM drive 
+d. 19” Widescreen Monitor 
+e. Colour laser printer. 
+f. Online 3 KVA UPS with minimum 30 minutes battery backup for the entire system including 
+operation of DEXA machine, computer and printer. 
+13. Installation free of cost. 
+14. Appropriate room modifications and air conditioning unit to be provided. 
+15. Electrical work and other miscellaneous modifications needed for installation. 
+
+
+--- Page 26 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Endocrinology/DEXA/       /2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 26 
+ 
+ 
+ 
+ 
+ 
+16. On-site training for technician 
+17. Warranty and AMC- 5 years or more warranty and servicing as per institute rules. AMC as per 
+institute rules. 
+18. Software update to be provided free of cost for next 10 years. 
+19. Price list of spare parts to be provided and to be fixed for 5/10 years. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

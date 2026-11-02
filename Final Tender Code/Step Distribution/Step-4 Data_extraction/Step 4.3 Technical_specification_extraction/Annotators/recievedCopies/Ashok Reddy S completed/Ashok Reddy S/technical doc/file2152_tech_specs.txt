@@ -1,0 +1,564 @@
+--- Page 18 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 18 
+ 
+PROJECTOVERVIEW 
+This document solicits proposals from qualified Bidders with sufficient experience in the 
+design and production of Radiology PACS (client based cluster architecture solution with web based 
+functionality 
+also 
+available) 
+as 
+well 
+as 
+the 
+installation, 
+user 
+training, and on-site maintenance and repair of all equipment components and subsystems 
+related to the Archiving and Display of images created by diagnostic radiology imaging 
+equipment. Said Experience is to include: 
+Expertise in configuring, installing and fine tuning a database management system, data 
+server and archive media subsystem(s); 
+Expertise in configuring, installing, and applications programming to insure image 
+quality and utilization acceptable to each of the radiologists; 
+Expertise in interfacing all components of the proposed subsystems and components to 
+the new/existing Network, specifically interfacing to the suite of DICOM SOP classes 
+required in this project; 
+Expertise in interfacing the proposed PACS Server(s) to the Hospital Information 
+System and to insure the complete and successful bi-directional communications 
+required to support the specified applications. 
+Project Management Expertise, as the Bidder is expected to manage the installation and 
+testing of the system; 
+Expertise in interfacing the proposed PACS Server(s) to Non DICOM equipment and to 
+insure the complete and successful communications required to support the specified 
+applications. 
+Expertise in conducting a successful “Training the Trainer” program to insure that 
+Client personnel will be properly trained on the use and care of the proposed system 
+and that the Training Program can be successfully repeated on site by Client personnel 
+as required supporting a fully digital radiology department. 
+ 
+Qualification Criterion 
+PACS Manufacturer must bid directly 
+PACS manufacturer should be a company registered in India for minimum 5 years 
+PACS should have been deployed at more than 10 sites within India out of which at least 2 should 
+be in government  hospitals.  List of installations to be provided. 
+PACS must be fully web based 
+PACS must be US FDA and CE Certified, HIPAA compliant and US IHE compliant. 
+US FDA approved Zero foot print viewer. 
+PACS Vendor should preferably be ISO Certified. 
+The solution should not use any free/open source DICOM tools. Vendor should submit 
+a certificate declaring conformance for this. 
+Bidder will be asked to demonstrate the features and inability to show any 
+feature can result in their bid being rejected. 
+
+
+--- Page 19 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+ Vendor should make provisions for onsite technical support with special mention about 
+maximum down time if any. 
+ The overall implementation duration should not exceed 4-6 weeks. 
+ 
+Technical requirements 
+Major requirements 
+The PACS shall be client based cluster architecture solution with web based functionality also 
+available with all users accessing all functions through the major Internet Browsers. 
+With the intention of Client to eliminate paper, the bidder shall include a strategy for 
+document scanning and management of the application that can be integrated into 
+the PACS. 
+PACS should support multithreading technology for DICOM communication. 
+There should be no restriction of License in PACS based on exams per annum. 
+Offered PACS should support high volume reading. 
+Solution should support image viewing from Tabs based on android and ios interfaces. 
+Offered system should have a common GUI for all PACS workplaces 
+PACS should support and connect unlimited modalities both present & future. No 
+extra license cost will be applicable for any new modality connectivity. All new modalities will be 
+connected free of cost. 
+PACS should integrate bidirectionally with HIS in future with HL7 interface compatibility. The 
+responsibility for the same lies with the vendor which he has to do without any extra cost including 
+additional hardware/software/licences if required. 
+System 
+The proposal shall include a detailed description of the architecture of the system, 
+documenting the system topology and the components of the system. 
+The system shall meet all performance requirements in this specification with the 
+database storing 05 years examinations. 
+The system shall support system-wide authentication of users through the use of a 
+unique user-ID and password for each user or through an alternative approach with 
+equivalent result. 
+The bidder shall provide mechanisms to assure the security of all system 
+components to minimize loss of equipment or data due to theft or malicious 
+tampering. 
+The system should provide same user interface to any user if logged from any 
+computer 
+In case of network disconnection the system shall automatically resume the image 
+display on reconnection 
+System shall display the complete image available at that moment in case of 
+network disruption or disconnection. 
+Should support collaboration features like Video conferencing, Chat and Desktop 
+sharing from the PACS directly to allow users to collaborate with each other 
+
+
+--- Page 20 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+Any user preferences like keyboard shortcuts, worklist columns once setup by a 
+user should be available if the user logs from any computer. 
+Main PACS Application/Database 
+The system shall support the creation of individual users each having individually 
+configurable access-privileges. 
+The system shall provide an access control mechanism that enables assignment of 
+unique access privileges to individual users to access or alter system resources and 
+data. 
+Examples of such functions are: 
+o Displaying approved reports 
+o Displaying unapproved (unsigned) reports 
+o Displaying images 
+o Printing images 
+o Burning CD/DVD’s 
+o Changing the status of images and exams 
+o Changing the display attributes of exams 
+o Approving reports 
+o Creating, modifying, or deleting studies 
+The database should also support a direct DICOM Query/Retrieve interface which should be viewer 
+version 3:0 or above , such as could be used for 3rd party workstations or modality retrievals, 
+without noticeable performance degradation. 
+A system-wide administration function shall be provided to facilitate user profile 
+creation, worklist query creation, system configuration management, data integrity 
+checks and maintenance, and any other administration functions as required by the 
+implementation of the product. A graphical user interface for this function is 
+required. In particular, patient merges and split, as well as exam merge and split 
+features shall be provided. 
+The system shall implement the following minimum DICOM SOP Classes 
+o DICOM Storage 
+o DICOM Verification 
+o DICOM Print 
+o DICOM Q/R 
+o DICOM Send 
+ 
+Image Archive 
+The system shall provide sufficient storage capacity to provide direct rapid access to 
+06 months of image production in online archive. 
+Secondary archive should store 05 years data and must retrieve automatically 
+without manual intervention 
+ The vendors are required to assess the workload of department by visiting department and in 
+consultation with head. The responsibility of storage to be adequate for this period lies with the vendor. 
+
+
+--- Page 21 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+ Should be Vendor Neutral Archive (VNA) preferably level 3 and above. 
+The system shall not store any image in the storage system with non-reversible 
+compression. (Lossy compression) 
+The system shall make exams available for retrieval by workstations. 
+The storage system shall tolerate the failure of a single disk drive without loss of 
+data. 
+The storage system shall remain operational in the event of the failure of a single 
+disk drive. 
+The storage system shall remain operational during the service required to correct a 
+failed disk drive. 
+The storage system shall support the storage and retrieval of all SOP classes needed 
+to accommodate the present modalities. It shall support Explicit as well as Implicit 
+Value Representation as part of its Syntax and store Explicit VR as its default 
+transfer syntax. 
+The system shall provide a DICOM interface to which DICOM-compliant external 
+devices may connect. External devices are devices not supplied with the system and 
+include but are not limited to image review workstations, image printers and 
+modalities. 
+The system shall include a DICOM Query/Retrieve SCP which is based on the Patient 
+and Study Root Information model and which provides query responses for all 
+studies, series, and images stored in either the Storage System and/or the Archive 
+System. 
+The system shall include a DICOM Modality Worklist Management SCP 
+The system shall include a DICOM Storage Commitment SCP which accepts storage 
+commitment by the modalities. 
+The bidder shall provide with the proposal the Conformance Statements covering all 
+DICOM services of the system for each individual component. 
+The external DICOM interface shall support storage of ultrasound images using the 
+Ultrasound Storage SOP Class. 
+The system shall provide DICOM Support for ultrasound & cathlab cine loops. 
+Image library function for research and marking interesting cases must be available. 
+Teleradiology module for accessing images and reporting from remote locations 
+should be available. 
+Image Display Workstations 
+Two categories of Display workstations are required: 
+Diagnostic workstation (DWS) primarily located in the radiology department and 
+used for Diagnostic interpretation, and 
+Review workstations (RWS) primarily located in radiology department for 
+reviewing purposes. 
+User Interface 
+The cursor shall move within and between monitors in a smooth and continuous 
+manner under the control of a mouse or trackball pointing device with the cursor 
+remaining visible during its movement. 
+
+
+--- Page 22 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 22 
+ 
+The system shall enable all users to create their own profiles accessible from any 
+workstation which specifies at a minimum: 
+o Window width and level presets 
+o Default display protocols 
+o Mouse Settings 
+o Worklist Columns as per choice 
+o Electronic Signature 
+o Autorefresh time for Worklist 
+o Size of Worklist 
+The system shall provide the capability to access user specific hanging protocols 
+from each workstation. These hanging protocols should be created through a user 
+friendly GUI which would allow a user to edit the default protocols and/or generate 
+them from scratch. These hanging protocols will be modality and body-part specific. 
+The system shall provide a mechanism for automatic logoff of a user at a 
+workstation after a configurable period of workstation inactivity. 
+Exams, Folders, Worklists, and Queries 
+The system shall allow dynamically updated worklists to be created by the system 
+administrator for a specific user. For the purpose of this RFP, a worklist is any 
+database query, which returns a list of exams or patients. Dynamically updated 
+means that as exams change status in such a way as to change the contents of a 
+worklist, the worklist is automatically refreshed within a specific time. The 
+requirement for dynamic updating can be satisfied by periodic polling of the 
+database with a frequency defined by a parameter which is configurable by the 
+system administrator. 
+A worklist entry for an exam shall include at least the patient name and ID, 
+examination procedure, exam date and time, report status, modality, number of 
+images, referring doctor, age & sex. 
+The system shall support worklist which display a list of exams based on queries of: 
+o patient name 
+o patient ID 
+o UHID/hospital registration number 
+o modality 
+o report status 
+o study date 
+o Between a range of dates 
+o Marked studies 
+ 
+Worklists shall be generated and stored centrally to the PACS network so that a 
+user, logged on to any workstation, may access any worklist from the network and 
+display exams selected from this worklist to his/her current workstation location. 
+Worklist should be customizable for each user and allow the user to display their 
+own set of columns. User should also be able to setup his page size and dual monitor 
+support. 
+
+
+--- Page 23 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 23 
+ 
+The workstation shall allow the user, with a single click, to sort the studies on any of 
+the columns displayed in the Worklist. 
+Offered system should utilize a data locking methodology, if several concurrent 
+users access images i.e. Concurrent users will get reading access to images & no 
+reporting except by 1st user is allowed. 
+All exams shall be accessible from every workstation, limited only by security 
+mechanisms. 
+Old exams should be automatically displayed in the image viewer along with history 
+& report. User should be able to load upto 4 priors of any modality for comparison 
+A mechanism shall be provided to permit a user with proper privileges to select 
+images or exams for inclusion into one or more manually-created folders for 
+teaching and research purposes. 
+It shall provide a mechanism to lock a study to prevent deletion of that study by 
+another user 
+It shall provide a mechanism to attach a message from one user to another to every 
+study 
+The Worklist shall display STAT request by easily identifiable color codes 
+Should be possible to merge 2 studies together 
+Should be possible to split a study into two 
+Should support scanning of paper/reports and conversion to DICOM series 
+The Worklist shall display the studies which have been locked or printed with some 
+indication 
+It should be possible to add a keyword to a study and then search & retrieve a list of 
+studies based on that keyword 
+It should be possible to search report content for any user definable keyword and 
+get a list of reports with such keywords. 
+Reports 
+The workstation shall allow creation of reports based on user selectable templates 
+The workstation shall allow pre-configured header/footer in the report 
+The report window shall be opened separately and multiple such windows can be 
+opened 
+The report shall allow insertion of key images for printing in user selectable format 
+The report shall automatically display the patient demographics from the DICOM 
+header 
+The workstation shall allow a user with the proper privileges to display the report 
+for any reported exam without requiring the display of its associated images. 
+The administrative status of any report (e.g., approved or not approved) shall be 
+indicated when the report is displayed. 
+The system shall allow creation of multiple templates according to 
+user/modality/organ 
+The system shall support capture and attachment of audio file by the radiologist 
+user for reporting 
+The system shall allow the transcriptionist to review the audio and transcribe the 
+report and submit it for approval of the radiologist 
+
+
+--- Page 24 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 24 
+ 
+The report shall support all standard formatting functions available in MS Word 
+Report text search engine should be available 
+PACS should support email/SMS of reports automatically on finalization. 
+PACS should support speech recognition using dragon software. 
+Exam Display, Arrangement and Image Processing 
+The PACS system should be able to integrate with viewing software of major vendors like E-film, 
+apple Osiris and radiant etc as well as software like flash, active X,java script and java applet . 
+The workstation shall support the display of multiple images from one exam on one 
+or more monitors. 
+It shall be possible to choose among multiple image display formats for the monitors 
+of a workstation, for example: 1:1, 2:1, 3:1, 4:1, 6:1, 9:1, 16:1, 20:1 and 24:1 
+The system shall provide user-selectable, user-definable protocols for display of the 
+images of an exam where the protocols are specific to the type of exam. The intent of 
+this requirement is to allow physicians’ preferences for display to be satisfied. 
+The workstation shall allow a user with the proper privileges to save the 
+information that controls the display of the images of an exam, including window 
+width and level, display sequence, orientation, magnification, pan position, and any 
+annotations. 
+The workstation shall support the display of multiple exams simultaneously. 
+The system shall provide for display of multiple exams of a patient. The intent of this 
+requirement is to support the presentation of historical studies along with a new 
+study for diagnosis. 
+The system shall support rapidly moving to the next or previous exam/series/image 
+in a Worklist using the equivalent of one keystroke. 
+The workstation shall have the capability to display CT and MRI scout images with 
+the slice position lines overlaid on the image. User shall have the option of 
+displaying all lines or only 1 line specific to one image 
+Rapid sequential paging through images of an exam displayable on a single monitor 
+shall be provided. 
+Should display indication of printed studies 
+Should display indication of finalized studies 
+Should be possible to give keywords to any images and search on those later 
+If multiple image series are viewed, it shall be possible to page through the series 
+independently. 
+The workstation shall support arranging groups of images into a stack (with only 
+the top image visible) and displaying them sequentially forward or backward. 
+The workstation shall support Thumbnail view providing a quick glance at the 
+series within a study. 
+The workstation shall support image display based on Acquisition time, Table 
+position and Instance number of CT images 
+The workstation shall support linking two or three image stacks and moving 
+through them synchronously so that the same anatomic position or image sequence 
+position is displayed in each stack. 
+
+
+--- Page 25 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 25 
+ 
+The Workstation shall provide for full screen image display and paging in this full 
+screen window. 
+A cine function with a user selectable, variable frame rate of at least 1 to 30 frames 
+per second shall be provided. 
+The cine function shall support user selectable continuous display, reverse playing 
+and true size display of images. 
+The user shall be able to extract frames from the cine file and save it as individual 
+image. 
+The workstation shall display all images of a cine file in user selectable display 
+format in one keystroke/mouse click 
+The workstation shall provide dynamic window width and level through the entire 
+image grayscale dataset. 
+The window width and level function shall be applicable to a single image, selected 
+images or all images 
+Window width and level values shall be displayed on the image in real time 
+Display of the inverse grayscale of any image shall be supported. 
+The system shall provide unlimited user-configurable window width and level 
+defaults for each user. 
+Window width and level defaults shall be user-, modality- and organ-specific. 
+A rapid method to select among default window width and level values shall be 
+provided. The intent of this requirement is to allow the user to jump between, for 
+example, bone windows and soft tissue windows in CT using function keys. 
+If an image is received from a modality along with a window width and level for 
+viewing, the window width and level parameters shall be used for the initial display 
+on the workstation. 
+If an image is displayed for which no window width and level is available, the 
+workstation shall select a set of values, which at least make the image visible as a 
+starting point for subsequent manual changes. 
+Ability to load different studies of different patients, side by side for comparison 
+System should provide a quick filter function for one click search of studies (Weekly, 
+Daily, Monthly) 
+Predefined modality-specific display layouts 
+The workstation shall allow user to convert image/series/study from DICOM to 
+JPEG/BMP format for local storage. 
+DSA Module is required for Cathlab images. 
+Image Orientation, Zoom, Pan, and Magnifying Glass 
+The workstation shall allow sequential 90 degree clockwise and counter-clockwise 
+rotation of any image as well as flip in the horizontal and vertical axes. 
+The workstation shall support angular rotation in any degree 
+It shall be possible to reorient a single image, selected images, or all images in one 
+operation. 
+The workstation shall be capable of enlarging an image by interpolation of pixel 
+values. 
+It shall be possible to zoom a single image, selected images, or all images in one 
+
+
+--- Page 26 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 26 
+ 
+operation. 
+Zoomed images shall be repositionable by panning (roaming) the image within the 
+area allocated for display of the image. 
+When the actual image size is greater than the monitor resolution or the resolution 
+of the available display window, it shall be possible to display the image in True size 
+The workstation shall include a magnifying glass function 
+It should be possible to invert, reverse, flip an image or images 
+Region of Interest, Distance, and Angle Measurements 
+The workstation shall compute point-to-point measurements with automatically 
+calibrated, user-selectable scales (micrometers, mm, cm, or inches). 
+The workstation shall support angle measurement. 
+The workstation shall support region of interest mean (in image units, e.g., 
+Hounsfield units for CT) and area measurement based on ellipses and rectangular 
+tracing. 
+The Workstation shall provide a tool to compute Cobbs Angle 
+The Workstation shall provide Protractor and Cross Product calculation tools 
+The tools should have user definable color and line settings 
+The workstation shall allow cropping/masking of image using ellipse or rectangle 
+The workstation shall allow user to select a region of interest and move it to another 
+part of image for highlighting a pathology. 
+The workstation shall allow automatic edge detection in a image 
+The Workstation shall provide a tool to compute CT Ratio 
+Image Annotation 
+The workstation shall provide tools allowing the user to position and orient 
+multiple instances of text and graphics (lines, arrowheads, rectangle, freehand and 
+circles) for image annotation. 
+The Workstation shall provide tool for automatic labeling of intervertebral space 
+and vertebrae (Spine Labeling) 
+It shall be possible to edit or delete the annotations if required at a later date 
+It shall be possible to print the annotations on film if required 
+It shall be possible to change the color, size and font of the annotations and set them 
+as default. 
+Image Identification 
+The workstation shall display along with each image at least the following patient 
+data, where appropriate for the image and modality: 
+o patient name 
+o patient ID 
+o exam date and time 
+o image orientation 
+o kVp 
+o mAs 
+o pulse sequence 
+o slice position 
+
+
+--- Page 27 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 27 
+ 
+o image or slice number 
+o referring physician 
+o Institution Name 
+o Equipment Model 
+All the above shall have configurable position for display on any corner of image and 
+user can set it in default position. 
+The workstation shall allow the user to toggle the display of image identification 
+text on and off. 
+The workstation shall provide a function to display the entire contents of the DICOM 
+header for a selected image. 
+Utility Functions 
+During the execution of a time-consuming function, the workstation shall indicate 
+that the system is working. 
+The workstation shall provide a function to allow the user to protect selected 
+images from deletion. 
+The workstation shall provide a function to allow the user to mark interesting 
+studies and search them. 
+Should support a user-friendly admin user interface 
+User creation and different rights assignment should be available 
+Remote administration of workplaces and PACS servers should be possible 
+Should be possible to store the client configuration data centrally 
+IT Dashboard which provides information of major activities like number of users 
+logged in, study status, DICOM Services status should be available 
+Statistical reports must be possible to be produced based on different criterion like 
+TAT, Study volumes, radiologist TAT, CD Written, Films printed etc 
+Should be possible to export the MIS reports to MS Excel 
+System should support roaming user profiles (After logon, the user-specific settings 
+are loaded independently on the workplace). 
+Settings should be saved in a central repository 
+Should define user groups according to the departmental structures 
+User administration possible should be without programming skills 
+Should provide complete audit trail of activities in the system. 
+Hard Copy Printing 
+The workstation shall allow users with the proper privileges to print exams on any 
+DICOM image printer connected to the network. 
+No installable program must be required for printing films from any station 
+Requests for printing shall not compromise workstation operation or performance. 
+The workstation shall allow the user to choose from multiple standard image 
+formats: 1:1, 2:1, 4:1, 6:1, 9:1, 12:1, 16:1, 20:1 and 24:1 in either landscape or portrait format. 
+The workstation shall allow the user to create his own customizable non standard 
+format like 1:3, 2:3, 2:5 etc 
+The workstation shall allow the user to arrange the images of the examination 
+within the selected image format. 
+
+
+--- Page 28 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/Radiology /289/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 28 
+ 
+The workstation shall allow the user to produce multiple copies of the same image 
+with one request, up to a maximum limit specific to the user. 
+The workstation shall allow the user to cancel a print request which he has 
+previously entered. 
+Adding Header/Footer and changing the position of the same should be possible 
+Hospital Icon /patient photo may be allowed to be added for printing 
+The workstation shall allow user to select different film sizes and film orientation 
+It shall allow configuration of multiple DICOM printers into the system 
+The workstation shall allow the user to print multimodality images on same film. 
+The system shall have a film composer window with ability to process images 
+before printing 
+The system shall also allow image printing on standard paper printers. 
+CD/DVD - reader/burner 
+Client requires images that are brought in on CD’s to be imported into the system 
+and also needs to create CD or DVD’s for patients and/or physicians to be taken. 
+The images shall be imported and added to the permanent PACS database, in case it 
+includes an in-patient and it has to be added to the patient record. Such studies 
+should be flagged and easily identifiable 
+System should write images in DICOM format on CD/DVD 
+Should support Robotic CD/DVD Writers 
+Should include a DICOM viewer on CD/DVD with features like W/L, Zoom, Pan etc 
+Should support writing of multiple studies/multiple patients on the same Disc 
+System should support writing in multi-session mode 
+It should be possible to create individual label templates for CDs/DVDs 
+Should be possible to add the report with images on the CD/DVD 
+Should be possible to write DICOM images to USB sticks 
+Should support Blu Ray DVDs 
+Should support CD writing of Multiframe DICOM images including their viewing as 
+cine. 
+Advanced 3D Features: 
+• Advanced 3D should be windows based 
+• Basic 3D processing like MIP/MPR should possible directly at the reporting workstation 
+without additional application changing 
+• Following additional 3D features are required on 12 stations in radiology department 
+for concurrent use 
+Should work on Windows OS/Mac/Linux 
+Multiplanar Reformat (MPR) 
+MIP/AveIP/MinIP 
+Curved Planar Reformat (CPR) 
+Medial Axial Reformat 
+Oblique/Double Oblique 
+SSD 
+Volume Rendering (VR) 
+
+

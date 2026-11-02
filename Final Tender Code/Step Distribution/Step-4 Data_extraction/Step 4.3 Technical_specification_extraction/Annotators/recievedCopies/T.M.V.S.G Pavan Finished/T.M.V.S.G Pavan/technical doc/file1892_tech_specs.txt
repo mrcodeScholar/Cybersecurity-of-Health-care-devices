@@ -1,0 +1,442 @@
+--- Page 45 ---
+Tender No.  AIIMSMG/GTE/ Laparoscopic Surgery set  
+ 
+Page 42 of 65 
+ 
+SECTION – VII TECHNICAL SPECIFICATIONS 
+Technical specification for Supply and installation of Laparoscopic Surgery Set with High 
+Definition Camera  
+GENERAL TERMS & CONDITIONS: 
+1. 
+Warranty: 5 years against manufacturing defect 
+2. 
+All instruments should be corrosion resistant, BIS/European CE certified / 
+USFDA approved. 
+3. 
+Manufacturer should be ISO Certified. 
+4. 
+All the firms are required to submit their catalogue along with tender/ quotation 
+clearly marking the Quoted item and no. with a highlighter. 
+5. 
+All the components of item will be purchased together from a single manufacturer. 
+Demonstration of the instruments may be taken from all the firms. 
+6. 
+L-1 will be decided on total value only. 
+7. 
+All firms should have supplied the quoted instruments to the reputed central 
+government hospitals like AIIMS, PGI, etc. and should submit a certificate of 
+satisfactory working from the concerned government hospital. 
+Laparoscopic surgery set with high definition camera Specifications 
+ 
+A 4K Laparoscopic Imaging system will consist of the following items: All 
+items should be Medical Grade and should be of the latest model/series. It 
+should provide 4 times more information than a Conventional Full HD 
+imaging system. The complete optical chain should be 4K for optimized 
+imaging.  
+1. Full 4K video image processor 
+2. 31” or more 4K medical grade monitor 
+3. LED light source with fiber optic cable 
+4. Image/video recording, data archiving, signal management & 
+streaming 
+5. 4K Camera Head 
+6. Ultra-Telescopes 
+7. High flow Electronic CO2 Insufflator 
+8. Smoke Evacuation System 
+9. Suction/irrigation unit compact 
+10. Video cart for laparoscopy 
+11. Trolley  
+12. UPS (ISO certified) 
+1 
+Full 4 k  Video Image Processor 
+ 
+The processor for the following should be quoted.: 
+ A full 4K video processor should have a native resolution of 4096 x 
+2160 pixels system with a facility for ICG fluorescence-guided 
+imaging by near infra-red light - Quantity-1  
+ 
+ Should also provide 3840 x 2160 or 1920 x 1080 and should be 
+selectable (Should provide both 4K output and HD output) 
+ 
+ Video processor & Monitor having BT 2020 video format to display 
+true 4K color format.  
+
+
+--- Page 46 ---
+Tender No.  AIIMSMG/GTE/ Laparoscopic Surgery set  
+ 
+Page 43 of 65 
+ 
+ 
+ Should have touch panel operation for easy control  
+ 
+ Should provide colour gamut of ITU-BT2020 
+ 
+ Should have AE (automatic exposure)- Iris function  
+ 
+ System should be ready to be used with video choledocoscope or 
+other flexible endoscopes 
+ 
+ System settings should be held in memory even after the video 
+system processor is switched OFF 
+ 
+ System should have a facility for Optical Contrast Differentiation 
+System, and it Should have a special filter for observation of capillary 
+vessels and fine patterns in the superficial layer of mucosa for early 
+detection of lesions. 
+ 
+ System Should be capable of Near Infrared Fluorescence Imaging 
+(ICG application) with the below features: 
+ 
+Overlay:  
+White light image with superimposed display of NIR/ICG fluorescence. 
+Possible to select the preferred color for NIR/ICG imaging:  
+Either blue or green. 
+ 
+Monochromatic:  
+NIR/ICG fluorescence signal in white. Background in black for maximum 
+contrast. 
+ 
+Intensity Map:  
+White light image with superimposed display of NIR/ICG fluorescence. 
+NIR/ICG signal display will appear in different colors depending on the 
+strength of the detected NIR signal. 
+ 
+ Picture in Picture of visualization modes with Standard and Optical 
+Contrast Differentiation. 
+ 
+ Automatic adjustment of light intensity of the light source and 
+controlled from the Camera head. 
+ 
+ Inbuilt recording facility for both Images and Videos or Medical Grade 
+External recorder should be provided to record both Images and 
+Videos 
+ 
+ Outputs: All Compatible outputs should be there (12GSDI, D.P) for 
+4K resolution and DVI for HD resolution. 
+ 
+ Should have compatibility for selecting 3G-SDI or HD-SDI signal 
+output (transmission method). 
+2. 
+31-inch size or more Monitor 
+ 
+ ALL in one Medical Grade Monitor capable of displaying: 4K 
+resolution with ICG 
+ Compatible with all processor of displaying 4K and ICG application 
+ Should have multi-image display format  
+ Picture out picture and flip pattern to rotate the image  
+
+
+--- Page 47 ---
+Tender No.  AIIMSMG/GTE/ Laparoscopic Surgery set  
+ 
+Page 44 of 65 
+ 
+ Resolution of the Monitor in pixels: 3840*2160 
+ Should be LED monitor  
+ Should have various input and output terminals including 
+3G/12G/HD/SD SDI, DVI-D, BNC(*5)And HDMI  
+ Monitor should have Opti-contrast panel providing higher contrast 
+image and less color blurring  
+3. 
+ LED  Light source with Fiber optic cable 
+ 
+ 4-5 mm Fiber Optic Cable and 300cm Long (2 in No s), adaptable to 
+all provided telescope 
+ Light guide cable should have small bending radius for comfortable 
+use 
+ Should be ROHS compliant 
+ Should have touch display which provides an intuitive & user-
+friendly interface that directly displays relevant data 
+LED Light Source 
+ Lamp life of approx.>30,000 hrs. 
+ Should be compatible with 4K system and for fluorescence imaging 
+for ICG application- Quantity 1 
+ Automatic Switching to emergency lamp 
+ Automatic adjusts to light intensity to achieve ideal illumination  
+ Should have in Lamp type: High-performance LEDs, white light LED 
+and 
+near 
+infrared 
+LED, 
+which 
+are 
+active 
+individually 
+or 
+simultaneously. 
+4. 
+IMAGE/VIDEO RECORDING, DATA ARCHIVING , SIGNAL 
+MANAGEMENT & STREAMING- Quantity-01 
+ 
+ Medical grade documentation unit with CE. 
+ Controllable via the Touch screen of size 10” or more. 
+ Capture video & images in 4K, UHD, Full HD , 3D & audio files. 
+ Recording Media: Internal storage of 1TB & more, External USB and 
+DVD-R  
+ Should have full-featured graphical user interface 
+ Should have dual channel simultaneous recording for 4K UHD & full 
+HD 
+ Should have simultaneous recording and playback feature. 
+ All inputs and outputs should be capable of routing 4K,3D, and Full 
+HD signals in native resolution. 
+ Supports network storage on file servers. 
+ Offer two-channel simultaneous recording for still images & videos. 
+ Should have customized windows-based operating system 
+ Should have the facility of patient’s data 
+ Should have integrated CD/ DVD player and writer 
+ USB support for storage on USB drives. 
+ Input / recording resolution: 4K UHD, 3D ,1080p ,1080i, 720p, NTSC 
+& PAL m) Compatibility with HIS/DICOM/PACS. 
+ User should have full control of the system from the sterile field via 
+camera head buttons, optical touch screen, and optical foot switch. 
+ Should have support for physician print, media, annotations, 
+patients field, procedure settings, and individual surgeon profiles & 
+preferences. 
+ Surgical video & image unicast streaming in Full High Definition 
+(1920 X 1080) over a local area network to multiple participants.  
+ Offer Bi-directional video transmission & bi-directional audio 
+transmission over LAN. 
+ Streaming 
+picture 
+with 
+telestration 
+and 
+controllable 
+to 
+all 
+participants. 
+ 
+
+
+--- Page 48 ---
+Tender No.  AIIMSMG/GTE/ Laparoscopic Surgery set  
+ 
+Page 45 of 65 
+ 
+ Connectors;  
+a. Input/output: DVI, S Video, 3G HD –SDI or higher, composite & audio  
+b. Other interfaces: USB 2.0, USB 3.0 RJ-12, network RJ-45, and Remote 
+control  
+c. All necessary cables should be supplied  
+ 
+ should have the following additional features;  
+a. foot pedal control  
+b. endoscopy remote head trigger  
+c. microscope RS-232 communications  
+ 
+ following accessories should be supplied;  
+a. Cordless mouse and cordless silicone keypad -01 in no.  
+b. foot pedal control -01 in no.  
+c. endoscopy remote head trigger -01 in no.  
+d. remote control-01 in no.  
+ 
+ s) All the necessary cable should be supplied.  
+ t) Colour laser printer (ink-tank)- compatible with above system 
+5.  
+4K Camera Head 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pixel:                                         3840 X 2160 Pixels 
+ AGC:                                         Microprocessor controlled 
+ Lens:                                            Integrated Zoom Lens f = 18  mm or more 
+Color Space:                               BT.2020 emulation 
+Control buttons:                     Minimum of 3 (at least), 2 of them freely 
+programmable). 
+ 
+ Camera Head Should be able to perform both White light and Near 
+Infrared application. 
+ System should have a facility for optical contrast differentiation 
+system and it should have a special filter for observation of capillary 
+vessels and fine patterns in the superficial layer of mucosa for early 
+detection of lesions 
+ Should have Amor-R CMOS sensor providing high sensitivity and less 
+noise for clear image 
+ Output resolution of the camera 3840*2160 
+ Should provide One-touch Autofocus function 
+ Programmable  buttons on camera head: 3 or more 
+ Should provide electronic Zoom Function (button controlled) – x 2.0 
+electronic zooming in 6 steps (x1.0, x1.2, x1.4, x1.6, x1.8, x2.0)  
+ Should be immersible in disinfectant solution and sterilization 
+through ETO/autoclavable/plasma sterilization 
+ The camera head should have excellent performance under low light  
+6 
+ULTRA-TELESCOPES 
+ 
+ Telescopes with the 4K system should be quoted with Dimensions as 
+below for White light and Near Infrared application  
+ 4K Ultra Telescope having ED glass lenses for distortion-free and 
+razor-sharp images, with a wide field of view and fully Autoclavable. 
+ Capable of 4k and ICG application 
+ Sterilization tray for the scope should be quoted. 
+ Homogenous distribution of light in the peripheral zone  
+ Eye piece type of connection for uniform compatibility 
+ 10mm,30 Degree with 300mm or more working Length –  2 QTY. 
+ 10mm, 0 Degree with 300mm or more working Length –  1 QTY. 
+ 5MM ,30 Degree with 290 mm or more working Length –  1 QTY. 
+ 5MM , 0 Degree with 290 mm or more working Length –  1 QTY. 
+
+
+--- Page 49 ---
+Tender No.  AIIMSMG/GTE/ Laparoscopic Surgery set  
+ 
+Page 46 of 65 
+ 
+7.  
+Electronic CO2 Insufflator with automatic smoke evacuation facility with 
+existing energy system- Quantity-1 
+ Should be digital, microprocessor controlled and automatic type 
+ Large digital display on front panel for status checking of the insufflation 
+mode, set value pressure, current patient pressure, set gas flow, current gas 
+flow, gas consumption and status of gas heating 
+ Powerful Insufflation flow rate of 45 L/min required  
+ Automatic feedback control for any malfunction.  
+ Applicable for use in Laparoscopy and in Thoracoscopy 
+ Heat able insufflation tube for heating the CO2 gas up to patient body 
+temperature. 
+ Should have automatic smoke evacuation facility with existing energy source 
+in the OT  
+ It should have CO2 gas cylinder switching valve to allow freely switch between 
+two gas cylinders without the hassle of replacing cylinders (Optional) g) Need 
+to provide a pin type CO2 hose plug which can be connected to Pin type CO2 
+cylinders- 2 No’s 
+ 
+Smoke Evacuation System 
+ The system should provide excellent visibility through effective smoke 
+evacuation and extracts unpleasant odors. 
+ Should include a footswitch to provide surgical smoke evacuation for 
+standalone activation during Laparoscopy surgery 
+ Electrosurgical Integration Compatibility: Automatic activation via ESU 
+footswitch of advanced ESUs 
+ Should be compatible with Insufflators 
+ Should have parallel suction and smoke evacuation facilities  
+ The system should be operated via separate foot switch. 
+ System should be supplied with all accessories. 
+9. 
+SUCTION/IRRIGATION UNIT COMPACT 
+ 
+It is compatible with the central control System and can thus be controlled from 
+Touch Screen of unit  
+Touch controls and digital displays. 
+Audible alarms in case of malfunction. 
+Suction rate preselects are saved in memory 
+ 
+The Suction/Irrigation unit should have the following technical specifications: 
+ 
+• 
+Power supply voltage:                                  100-240 VAC 
+• 
+Power frequency:                                          50-60 Hz 
+• 
+Operating conditions:                                   +10°C to +40°C 
+ 
+Irrigation: 
+Pressure: 
+Selectable Mode:  0-200 & 0-500 mmHg. Or more 
+Flow Rate: 
+ 
+- Selectable Mode:   0-600 & 0-1300ml/min or more 
+Suction Under-pressure:   
+Selectable Mode:  0-(-)0.8 bar (80 kPa) or more 
+Pressure indicator                                  Bar graph Display and Digital Display 
+Flow indicator                                        Bar graph Display and Digital Display 
+10. VIDEO CART FOR LAPAROSCOPY-Quantity-01 
+ 
+Video cart compatible with the above system and should of same OEM 
+Should have the option of upgrading with Swivel Arm for secondary Monitors 
+ 
+
+
+--- Page 50 ---
+Tender No.  AIIMSMG/GTE/ Laparoscopic Surgery set  
+ 
+Page 47 of 65 
+ 
+ 
+11. 1KVA -Online UPS- Quantity-01 
+ 
+NOTE: Any other essential hardware/software/items required to make all above 
+things functional should be quoted, otherwise it will be treated that same will be 
+supplied free of cost. All products should be same manufacturer & should be US 
+FDA or European CE approved (with four digit notified body number) 
+ 
+Others  
+Installation, Commissioning and Training 
+ 
+The equipment and all accessories should be installed, tested and 
+commissioned at the Department of Surgical Oncology, AIIMS Mangalagiri 
+free of cost.  
+ 
+The supplier must train the technical staff and faculty of the institute, 
+regarding all the operations available on the system 
+Warranty and After Sales Service:  
+ 
+The Equipment including all accessories including bought-out items should 
+be under WARRANTY for a period of 5 YEARS after successful commissioning.  
+ 
+Comprehensive maintenance contract rates for 5 YEARS after warranty must 
+be quoted.  
+ 
+All spare parts and consumables should be available with suppliers or 
+principals for a period of at least 10 years.  
+ 
+All repair calls to be attended to within 48 hours. 
+ 
+Machine downtime should never be more than a week. The dealer shall 
+provide a ‘standby machine’ in case the machine downtime due to repairs is 
+expected to be more than 30 days as the patient services should not be 
+affected. 
+ 
+The principles would be responsible for the upkeep/ maintenance of the 
+quote/ supplied equipment, besides honoring all the terms and conditions of 
+the CMC/ AMC in the letter and Spirit 
+ 
+Other conditions  
+o Suppliers should have been in the market for at least 3 years  
+o Suppliers should have made a large number of installations, within the 
+last five years, in the country in reputed institutions and preferably in 
+Government Hospitals with a proven track record of excellent after 
+sales support for this system.  
+o User-list of at least 3 users must be enclosed. 
+ 
+ 
+ 
+ 
+Technical compliance report should be submitted in following format: 
+ 
+Sr. 
+No. 
+Item Description 
+as per Tender 
+Complied 
+Yes/No 
+Item 
+Description 
+offered 
+by 
+Firm 
+Deviation if 
+any 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

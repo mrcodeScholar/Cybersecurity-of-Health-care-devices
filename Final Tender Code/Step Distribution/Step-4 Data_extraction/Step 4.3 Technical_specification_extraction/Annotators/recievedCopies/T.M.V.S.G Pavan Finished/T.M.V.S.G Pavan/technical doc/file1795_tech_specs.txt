@@ -1,0 +1,216 @@
+--- Page 17 ---
+ 
+E-Tender Ref.: 11025/61/AIIMS/BBSR/MICRO/23-24/12 
+All India Institute of Medical Sciences, Bhubaneswar, Sijua, Bhubaneswar, Odisha-751019 
+Page 17 of 40 
+3. Technical Bid (Specification) :  
+ 
+Name of the e -Tender : Supply, Installation &Commissioning of Automated 
+Media Preparation System at AIIMS, Bhubaneswar. 
+ 
+3.1 Schedule of Requirements: 
+ 
+The institute requires 01no. set of Automated Media Preparation System to be used by the 
+Department of ENT. The equipment is/are to be delivered within 90 days from placing of 
+Purchase Order at the Central Store of AIIMS Bhubaneswar at the quoted/ negotiated price 
+without any additional cost to the institute as per specifications given below. 
+3.2 SPECIFICATIONS OF AUTOMATED MEDIA PREPARATION SYSTEM: 
+ 
+S NO 
+DETAILED SPECIFICATIONS: 
+Remarks 
+A 
+Automated Media Preparation System, 10L : 
+Product Specification : 
+ 
+1 
+Fast, reproducible and safe media preparation & sterilization of 1 to 10 L media in a 
+single run with low dead volume (<15 ml).  
+ 
+2 
+Certified by CE & TUV Product Services GmbH to be compliant to the UL 61010-1 and 
+IEC 61010-1 international safety standards.  
+ 
+3 
+High operational safety:  
+ 
+(i) 
+Automatic tightness check, several independent micro-processor based monitoring 
+systems for pressure and temperature.  
+ 
+(ii) 
+The vessel lid is equipped with an autonomous overpressure safety valve and a burst disc 
+with a self-test every 50 cycles, which locks the system if not conducted, thus ensures 
+that the preparator runs with a regularly tested safety valve.  
+ 
+4 
+Automatic temperature (using Pt-1000 temperature probe) and pressure controlled 
+deaeration to ensuring saturated steam inside the sterilisation chamber.  
+ 
+5 
+Ease of maintenance with inbuilt cleaning program and equipment design.  
+ 
+(i) 
+The absence of any heating element within the sterilization vessel makes the cleaning of 
+the vessel easy.  
+ 
+(ii) 
+The integrated self-cleaning procedure automatically sterilizes the vessel, valves and the 
+tubing inside the chamber. Hot, sterile coupling water is drained at the process end; 
+dissolving and removing unwanted agar residues in the system effectively.  
+ 
+6 
+Integrated strong, bidirectional magnetic stirrer to guarantee homogenous mixing and 
+prevent coagulation with Stirrer speed (selectable): 50-200rpm.  
+ 
+7 
+Should be compatible with automated media dispensing systems for walk-away filling of 
+petri dishes, test tubes and media bottles.  
+ 
+8 
+Automatic in-process sterilisation of the dispense port to exclude contaminations during 
+dispensing to guarantee complete sterilisation  
+ 
+9 
+Preparation Media preparator should be complete with cuvette, lid, seal, magnetic stirrer, 
+decanting tube, fitting for dispensing tubing, integrated printer and printer splash guard.  
+ 
+10 
+Built in operation modes like standard media, complex media involving two-step 
+program, eg: chocolate agar, etc.  
+ 
+11 
+Water bath mode for pre-swelling culture media prior to sterilization.  
+ 
+12 
+Flow heater system for fast and gentle media preparation.  
+ 
+13 
+Precise controlling and monitoring of time and pressure during the sterilization 
+process.  
+ 
+14 
+Temperature range: Sterilization 30 to 122 degC, Dispensing 20 to 80 degC, Water Bath 
+30 to 80 degC. with Max temp deviation: +1.0/-0.2 degC.  
+ 
+ 
+ 
+
+
+--- Page 18 ---
+ 
+E-Tender Ref.: 11025/61/AIIMS/BBSR/MICRO/23-24/12 
+All India Institute of Medical Sciences, Bhubaneswar, Sijua, Bhubaneswar, Odisha-751019 
+Page 18 of 40 
+S NO 
+DETAILED SPECIFICATIONS: 
+Remarks 
+15 
+Rapid cooling to be enabled by efficient plate heat exchanger to eliminate contamination 
+caused by cooling water, using de coupled cooling water system.  
+ 
+16 
+Automatic indication of service intervals to minimise unscheduled downtime  
+ 
+17 
+Graphical user interface and simple programming.  
+ 
+18 
+Storage: Up to 50 programs with user-defined parameter settings such as sterilization 
+temperature, sterilization time or dispensing temperature can be saved and recalled.  
+ 
+19 
+Electronic storage of all process data to a USB flash drive.  
+ 
+20 
+Integrated web server for direct connectivity via Ethernet to allow remote monitoring of 
+the sterilization process and instrument parameters. 
+ 
+21 
+Electronically signed logfiles compliant to FDA (21 CFR Part 1) and EU (GMP Annex 
+11).  
+ 
+22 
+Optionally available dot matrix printer, high quality printouts insusceptible to fading can 
+be archived. Printout intervals and parameters are individually adjustable.  
+ 
+B 
+Automated Media Dispensing System 
+ 
+1 
+Automated system for versatile, sterile dispensing of culture media to 90 mm standard 
+petri dishes with the option to fill other variable size petri-plates (60 & 35mm) with 
+additional accessories.  
+ 
+2 
+Standard petri dish filling capacity of 900 Petri dishes/hour (up to 15 ml) with optional 
+Turbo mode capability for fast petri dish filling (1,100 Petri dishes/hour, (up to 24 ml).  
+ 
+3 
+Optional integration with programmable peristaltic pump for continuously mix additives 
+in the concentration of 3-10% into the medium. E.g: Blood agar preparation.  
+ 
+4 
+Controlled & active dish guidance with lid detection for reliable walk-away operation.  
+ 
+5 
+Sensor-guided plate alignment (standard & bi-plate)  
+ 
+6 
+Optionally available inkjet printer connection kits to allow the connection to different 
+brands of inkjet printers like MARKEM-IMAJE, LINX, Domino, etc.  
+ 
+7 
+Equipped with a UV lamp extending over the full length of the rotor where the dishes are 
+opened during the dispensing process. The lamp emits powerful 2.1 W UV-C radiation 
+for optimal bactericidal efficiency.  
+ 
+8 
+360 or 540 petri-plate stacking options.  
+ 
+9 
+Dosing range per dish: 1-99.9ml. Dosing reproducibility: circa 1% (at 15ml). Maximal 
+dosing rate: 500ml/min. Filling delay: 0-9.9sec.  
+ 
+10 
+Easy adjustment of dish height at user level.  
+ 
+11 
+Gripper mechanism and mechanical piston for feeding in Petri dishes.  
+ 
+12 
+Software based shaker function for built-in Agar Spread Function for homogenous 
+distribution and even surface of the agar.  
+ 
+13 
+19 individual Petri dish filling programs with user-defined parameter settings such as 
+dish height, dispensing volume or number of dishes.  
+ 
+14 
+Independent pump function for manual filling of media bottles.  
+ 
+15 
+Optional automated filling of various diameters and length test tubes.  
+ 
+16 
+Connectable to automated media preparator and also transfer of data to media  
+preparator’s integrated printer for quality control. Electronically signed process log files 
+allowing electronic storage of log files according to FDA (21 CFR Part 11) and EU 
+(GMP Annex 11) protocols.  
+ 
+17 
+Intuitive full-size graphical interface.  
+ 
+18 
+Automatic indication of next due service.  
+ 
+19 
+Small Foot print: Basic unit (H x W x D) 330 x 655 x 634 mm  
+ 
+20 
+Emergency stop switch.  
+ 
+ 
+ 
+
+

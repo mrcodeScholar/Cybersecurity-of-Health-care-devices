@@ -1,0 +1,102 @@
+--- Page 12 ---
+SITC OF OFC 
+ 
+ 
+ 
+ 
+ 
+ 
+AIIMS, JODHPUR 
+Page 12 of 19 
+ 
+ ANNEXURE- I 
+ 
+TECHNICAL SPECIFICATIONS  
+ 
+S. 
+NO. 
+Technical Specification 
+Unit 
+Qty. 
+1. 
+ 
+Supply of Outdoor Single Mode (OS2), Uni-tube with central Jelly. Armoured Cable. 
+Colour: Orange 
+• It should be Rodent proof. 
+• It should be UV protection. 
+• It should be Polyester based cord below armor tape for easy ripping. 
+• It should be Thermoplastic material loose tube. 
+• It should have water proof layer and moisture resistance. 
+• It should have Crush resistance performance. 
+• Light weight and Compact structure  
+• [9/125 micron] 12 Core Optical Fiber Cable as per latest amendments of TIA /EIA 
+568B.3, GR 409 CORE / UL listed NEC 770 Standards, LSZH required. 
+Make: Digisol/Belden/Siemon. 
+Meter 
+4000 
+2. 
+ Supply of Light Interface Unit (LIU) 24 Port Fully Loaded rack mountable. Fully Loaded 
+with Single mode pigtails & SC adaptors.  Make: Digisol/Belden/Siemon. 
+Each 
+01 
+3. 
+ Supply of Light Interface Unit (LIU) 12 Port Fully Loaded rack mountable. Fully Loaded 
+with Single mode pigtails & SC adaptors.  Make: Digisol/Belden/Siemon. 
+Each 
+02 
+4. 
+ Supply of Light Interface Unit (LIU) 06 Port Fully Loaded rack mountable. Fully Loaded 
+with Single mode pigtails & SC adaptors.  Make: Digisol/Belden/Siemon 
+Each 
+02 
+5. 
+ Supply of 40 mm dia. ISI marked, PVC conduit pipe.  
+Make: AKG/Prestoplast /Precision/ Polycab 
+Meter 
+1500 
+6. 
+ Supply of 40mm PVC connectors (Bends). Make: AKG/Prestoplast /Precision/ Polycab. 
+Each 
+35 
+7. 
+ Supply of Joint Box - Fibre Optic Joint Enclosure (Cylindrical Overhead Pole mounted self-
+locking four Splicing tray,fire-resistant,waterproof & quakeproof ) (24 Core) 
+Each 
+02 
+8. 
+ Supply of Saddle Clamps with Screw & dowbley. 
+Packate 
+(50 qty) 
+500 
+9. 
+ 
+Supply of 12 U Rack wall mounted and loaded with all accessories including Fan, PDU’s 
+and cable manager. Approximate Height: 12U (24" / 610mm) Weight Capacity: 200 lbs. 
+Depth: 13" (330mm) Usable Depth: 11.8" (300mm) Width: 24" (610mm) Rails: 19" EIA 
+Black, Front Door - Metal Door, Rear Door - Wall Mount Panel, Top Panel - Solid, Sides – 
+Yes. Make: Netrack/APC. 
+Each 
+01 
+10. 
+ 
+Laying & Digging (3 ft.) of supplied Outdoor Armoured  Single-mode 12 Core Optical Fiber 
+Cable in supplied PVC pipe using bends wherever necessary, clamping saddle screwing it 
+both the sides, inside the existing trench & have to cross the RCC roads  using Manual 
+Moling of 5-6 Mtr. each  in  different areas as per instruction & requirements of (E-I-C). 
+Meter 
+1,500 
+11. 
+ Fusion Splicing & OTDR of Single mode OFC lay. 
+Nos. 
+60 
+12. 
+ Supply of Fiber Optics Cable Route Marker. 
+Nos. 
+30 
+ 
+Executive Engineer (E) 
+AIIMS, Jodhpur 
+ 
+ 
+
+

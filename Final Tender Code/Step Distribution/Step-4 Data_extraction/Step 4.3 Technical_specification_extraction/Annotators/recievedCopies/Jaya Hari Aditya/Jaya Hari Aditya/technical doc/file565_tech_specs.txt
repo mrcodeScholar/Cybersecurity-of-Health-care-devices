@@ -1,0 +1,67 @@
+--- Page 10 ---
+Tender for (Anoxomat) Automated Anaerobic Jar System 
+Admn/Tender/50/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+(Anoxomat) 
+Automated 
+Anaerobic 
+Jar System  
+1. Equipment, on full up gradation, should be efficient enough to produce 
+any gas atmosphere (other than hazardous and inflammable in 
+transparent jars, by programming, required O2 (atmospheric), CO2, H2 
+& N2 (from cylinders of mix gases & pure gases except H2) 
+percentages, through touch screen and having enough memory to store 
+multiple Recipe (more than 30) for future use, with reproducibility of > 
+0.5% deviations. 
+2. It should be fully automatic so that the user attends other work while it 
+processes the jar, should be able to eliminate human error. 
+3. It should have touch screen display for simple operation. 
+4. The equipment should be  upgradeable so that the basic equipment can 
+be upgraded to model having facility to accommodate 3 gases or jars, if 
+required 
+5. Its quality assurance features can identify defective jars, catalyst and 
+nonavailability of gases, before incubation. 
+6. All controlled conditions like Hypoxia, Capnohilic, anaerobic & 
+Microaerophilic can be reproducible to stay within 0.5% of the desired 
+value. 
+7. It should be fast enough to produce any environment conditions in 360 
+seconds. 
+8. It should have provision to fix filter to prevent microbial contamination 
+of the laboratory environment. In case user order for it. 
+9. It should be flexible enough so that a programmable model should be 
+able to produce optimal conditions for each strain or cells in separate 
+jars. 
+10. It should works without any disposable and chemicals. 
+11. It should keep its jar atmosphere with appropriate humidity to prevent 
+drying and cross contaminations. 
+12. The equipment should cost efficient due to minimum consumption of 
+gases & low maintenance. 
+13. It should work with transparent anaerobic jars of its own and with 
+modified ordinary anaerobic jars having no leakages. 
+14. It should be a tabletop model with small footprint. 
+15. The instrument should work at 110-220 V electric power with 110-20 V 
+To 220-240 V voltage. Frequency should be 50-60 Hz with power 
+consumption 516 Watt. Instrument weight should be 14.5 Kg, with 
+Height 13 in, Depth 9 in, width 12 in. It should be operated at 
+temperature 500-910F, with relative humidity 20-80%. 
+16. It should be ordered to come with its own printer (GLP Guideline) 
+connection for LAN & barcode scanning of specimens (quote as 
+optional). 
+17. Vacuum pump should be incorporated to the body of equipment. 
+18. The equipment should come with arrangements for supply of Indian 
+items like gas cylinders, pressure regulators. 
+19. The equipment should supplied with arrangement for free gas supply for 
+2 (two) years. 
+20. After Sale, Service should be available promptly.  
+21.  Should be CE or FDA or BIS approved product 
+01 
+
+

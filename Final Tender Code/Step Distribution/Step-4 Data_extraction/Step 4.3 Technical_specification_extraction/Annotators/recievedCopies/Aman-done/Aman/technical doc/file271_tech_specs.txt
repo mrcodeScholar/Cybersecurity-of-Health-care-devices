@@ -1,0 +1,72 @@
+--- Page 10 ---
+Tender for Computerized dental occlusal analysis system                                           Admn/Tender/202/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page10 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Computerized 
+dental occlusal 
+analysis 
+system 
+1. The unit should provide data that allow dentists to better 
+evaluate and assess occlusion via detecting simultaneous 
+contact with quantify time and force. 
+2. The system should quickly and precisely determines the 
+amount of force within a given paper mark and software 
+graphically displays both forceful and time premature contacts 
+to the user for predictable occlusal control during adjustment 
+procedure. 
+3. The system should consists of: 
+a) Flexible and disposable ultra-thin sensor on which patient 
+bite down for evaluating the various parameters of occlusion. 
+b) Windows based software, which measures intra-oral force 
+in time increments as low as 0.01 seconds and display this 
+information in 2-D and 3-D as a continuous force movie. It 
+should be possible to record entire occlusal contact event for 
+dynamic playback. 
+c) The System should provide dynamic feedback on the 
+Occlusal force, time of occlusion and disclusion. 
+4.  The system should also produce documentation showing pre & 
+post-procedure result. 
+5.  It should be easy to move USB based sensor from one PC to 
+another. 
+01 
+
+

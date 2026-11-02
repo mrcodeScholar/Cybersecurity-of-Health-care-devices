@@ -1,0 +1,45 @@
+--- Page 19 ---
+ 
+Tender Enquiry No. F.No.24/ ENT/202(V)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+Speech Therapy Software Specification 
+1. Vocal assessment (Voice and EGG). 
+2. Real-time dual-channel recording of voice & EGG. 
+3. F0,jitter,shimmer, glottal noise. 
+4. Contact quotient, contact index. 
+5. Spectrogram, power spectrum (FFT) and LPC. 
+6. Voice quality (hoarse, harsh and breathy). 
+7. Vocal function (regularity, closure time). 
+8. Build-in voice database (3000-5000) pathological voice, (2000-3000) normal voices. 
+9. Clinical progress tracking. 
+10. Video-capture and e-mail compatible. 
+11. Delayed auditory feedback  
+ A hardware device combines with unidirectional mic. 
+ Headphone for fluency treatment with masking Noise. 
+ Metronome, speech delay, Amplification. 
+12. Hardware: 
+ Tiger Electroglottograph. 
+ Desktop Electroglottograph for investigating. 
+ Vibratory pattern of the vocal fold, quantitative. 
+ Information, e.g. vocal fold contact (pressed vs. breathy). 
+ Can be observed in real-time as biofeedback with Vocal assessment.Software product. 
+ Dual-channel inputs for microphone and EGG signals. 
+ Built-in twine pre-amplifier Electrodes. 
+ Size. 
+ Weight 1-2 kg. 
+ Unidirectional high quality condenser microphone. 
+ Creative sound blaster live value card. 
+ Speakers. 
+13. All accessories should be from the same manufacturer and should be European CE/ US FDA 
+approved. 
+14. All accessories / software for all above and for unit to be included. 
+15. Software for report, data storage and printing should be included. 
+16. Laptop (Processor I 5, 8GB RAM) and colour printer (Laser). 
+17. Regular calibration of equipment. 
+ 
+ 
+ 
+
+

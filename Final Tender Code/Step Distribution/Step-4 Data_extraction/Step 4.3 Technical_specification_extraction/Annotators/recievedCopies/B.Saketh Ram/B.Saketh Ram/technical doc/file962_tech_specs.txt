@@ -1,0 +1,96 @@
+--- Page 65 ---
+ 
+ 
+ 
+SECTION – VII 
+TECHNICAL  SPECIFICATIONS  
+1.      Fully automated, latest floor model immunoassay analyzer. 
+2.      All the following hormones are essential on the assay menu of the machine: 
+·         FT3 (free trioiodothyronine) 
+·         FT4 (free thyroxine) 
+·         T3 (trioiodothyronine) 
+·         T4 (thyroxine) 
+·         TSH (thyroid stimulating hormone) 
+·         Tg (thyroglobulin) 
+·         Anti-Tg (anti-thyroglobulin antibody) 
+·         Anti-TPO (anti- thyroid peroxidase antibody) 
+·         Anti TSH-receptor antibody / TSI (Thyroid Stimulating Immunoglobulin) 
+·         C-peptide 
+·         Insulin 
+·         ACTH (adrenocorticotrophic hormone) 
+·         Cortisol 
+·         DHEA-S (dehydroepiandrosterone sulphate) 
+·         Estradiol 
+·         HCG (human chorionic gonadotropin) 
+·         FSH (follicle stimulating hormone) 
+·         LH (leutinizing hormone) 
+·         Progesterone 
+·         Prolactin 
+·         SHBG (sex hormone binding globulin) 
+·         Testosterone 
+·         Intact PTH 
+·         Calcitonin 
+·         GH (growth hormone) 
+·         Marker(s) of bone formation: osteocalcin (N-Midfragment / intact), and / or N-terminal propeptide   
+       of type I procollagen (P1NP) 
+·         Marker(s) of bone resorption: pyrilinks D and / or β-crosslaps 
+3.      System should be discrete, fully selective random access with a provision to test STAT samples. 
+4.      System should be using the latest “Electrochemiluminescence / Chemiluminescence” principle for  
+       measuring the assays with very high sensitivity and linearity. 
+5.      Sample material: serum, plasma, urine, serum 
+6.      System should have facility for on-board programs for at least 60 different test parameters and the reagents  
+        should be available from the same manufacturer. 
+7.      Onboard sample capacity should be at least 120 at one time with a provision for continuous loading. 
+8.      System should have a maximum test throughput of 170 tests / hr or more (and should be extendible upto  
+       340 tests/hr or more) 
+9.      Incubation time for the assays should be between 10-50 minutes. 
+10.  Total assay time should be between 10-50 minutes all parameters. 
+11.  System should have reagent slots for 25 assays or more (and should be extendible upto 50 assays or more) 
+12.  System should have on-board cooling facility to maintain the temperature of the reagent. 
+13.  Flexibility to use different sample containers like primary tubes with different sizes and sample cups. 
+14.  Sample volumes should be less than 50 microlitre per test. 
+15.  User defined onboard sample dilution is must (1:100 times or more). 
+16.  System must use disposable cups and tips for all immunoassays to prevent any carryover contamination. 
+17.  System to use latest mixing probe technology to mix the samples and reagents to have complete uniformity   
+       with clot detection facility. 
+ 
+ 
+
+
+--- Page 66 ---
+ 
+ 
+ 
+18.  Human anti-mouse antibody interferences should be taken care of with chimeric antibodies. 
+19.  On-board reagent stability should be valid up to one month. Calibration of the parameter should be typically    
+       lot based. No daily calibration should be required by the system to save the reagent. 
+20.  Should have inbuilt quality control system to monitor the quality of results obtained. 
+21.  Noise output should be less than 70 dB 
+22.  Should have facility to collect solid / liquid waste for disposal. 
+23.  Instrument should have wide operating temperature range (upto 32°C or more). 
+24.  System should have on-board windows based data control work station with minimum 15” TFT LCD color  
+       touch screen monitor for programming the tests and entering the patient data. 
+25.  System should have facility to store minimum of 2000 test results. 
+26.  Company should provide ASTM compatible computer along with external laser printers. The company shall  
+       provide recent and original software for interfacing of Random Access Auto analyzer for transferring,  
+       storing, managing and generating HIS, LIS patient oriented reports. 
+27.  Reagents should be scanned with on-board barcode scanner for easy operation. Barcode generator with  
+       barcode printer should be provided. Patient sample should be barcoded and manual. 
+28.  Startup kits for assay parameters detailed in specification no. 2 should be provided for min 100 tests each  
+       along with accessories, consumables, calibrators and controls. 
+29.  Price List of all reagents, calibrators, controls accessories and consumables, ancillaries should be provided. 
+30.  Any turnkey process including temperature and humidity control of laboratory required for installation of  
+      equipment and water plant if necessary will be carried out by the company/bidder. 
+31.  Complete training of technical staff should be conducted during 1st month and on as required basis. 
+32.  Compatible UPS should be provided with minimum 2 hours back up and should be maintained (including  
+       batteries) for entire period of warranty and CMC. 
+33.  System should be CE (European) / US FDA / BIS Approved and certificate must be provided. 
+34.  System should be new and unused. 
+35.  Warranty for system should be for 5 years (and should include two mandatory periodic preventive 
+maintenance in a year throughout the period) and post warranty 5 year CMC should be mentioned for the 
+system. 
+ 
+ 
+ 
+
+

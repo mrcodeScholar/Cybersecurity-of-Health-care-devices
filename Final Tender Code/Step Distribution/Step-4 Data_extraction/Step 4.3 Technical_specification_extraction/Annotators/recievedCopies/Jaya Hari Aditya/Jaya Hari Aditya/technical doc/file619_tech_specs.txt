@@ -1,0 +1,253 @@
+--- Page 16 ---
+Tender No. : AIIMS/R/CS/Micro/17/32/PAC 
+ 
+ 
+ 
+Page 16 of 21 
+ 
+Annexure - I 
+Technical Specification 
+ 
+Technical Specification for Fully Automated Immunoassay 
+Analyzer & Other Equip.  for Microbiology  
+ 
+S.No.1: Fully Automated Immunoassay Analyzer 
+Quantity: 01 Nos. 
+ 
+Fully Automated Multi-parametric Immunoassay Analyzer 
+ 
+The system should be bench top / floor model with integrated backlit display 
+and facility for printout of results.  
+ 
+System should be based on ELFA technology (Enzyme linked Fluorescence 
+Assay) for the immunoassay analysis.  
+ 
+The system should be based on easy to use load and go concept. 
+ 
+Manufacturer should provide complete reagent kit comprising of Standards, 
+Controls and diluents wherever necessary.  
+ 
+System should consume minimal reagents for start-up, shutdown or during 
+standby. 
+ 
+System should be capable of testing following parameters:  
+ 
+Toxoplasma, Rubella, CMV (IgG & IgM) 
+ 
+HIV Duo 4th Generation 
+ 
+HBsAg 4th Generation, All Hepatitis B markers          
+ 
+HAV IgM, HBe/Anti HBe, Anti HCV, anti HEV 
+ 
+AFP, CEA, CA 125, CA 19.9, CA 15.3, TPSA, FPSA 
+ 
+Procalcitonin, Myoglobin, NTproBNP 
+ 
+Epsten Barr Virus (EBV)etc. 
+ 
+The system should be based on the concept of single dose entry. 
+ 
+The system should not require any additional reagents. 
+ 
+Should have installation base of more than 1000 sites in India 
+ 
+Should require recalibration only after 14 days, not before that 
+ 
+Controls and calibrators should be part of the kit. 
+ 
+Should be able to run even single test at a time. 
+ 
+The system should not require any additional reagents.      
+ 
+Should be CE or ISO approved product. 
+ 
+Warranty of minimum 1 years & CMC for 1 year. 
+ 
+Electrical specifications: 230 ±10VAC, 50 Hz. 
+ 
+Certifications: US-FDA and European Medicine Agency 
+ 
+All technical specification will be evaluated with onsite video demonstration of 
+the equipment. 
+ 
+After Sale, Service should be available within one week. 
+ 
+List of institutes of national importance (INI) where this system is installed & 
+functional. 
+ 
+ 
+ 
+Page 17 of 19 
+
+
+--- Page 17 ---
+Tender No. : AIIMS/R/CS/Micro/17/32/PAC 
+ 
+ 
+ 
+Page 17 of 21 
+ 
+S.No.2:  Semi Automated One Plate ELISA Reader with                     
+Washer 
+Quantity: 01 Nos.  
+ 
+Microtiter plate:  
+Any format 
+ 
+Wavelength range: 
+400-900nm.  
+ 
+Light source: 
+ 
+Tungsten halogen lamp（6V 10W）Average lifespan≥5000h 
+ 
+Detector:  
+ 
+silicone photo detector 
+ 
+Photometric range/method: 0.0- 4.0 OD/ Single and dual wavelength 
+ 
+Linearity: 
+ 
+ 
+1.0% 
+ 
+Accuracy: 
+ 
+ 
+≤1.0% or 0.010 from 0.000–3.000 OD at 490 nm 
+ 
+Precision: 
+ 
+ 
+1.0% or 0.005 OD from 0.0–2.0 OD; 1.5% from 2.0–
+3.0 OD 
+ 
+Resolution 
+0.001 OD 
+ 
+Filter wheel capacity: 5; It must include four Filters of 405nm, 450, 490, 630nm. 
+ 
+Plate shaking (3 speeds): 
+Low, mid, high 
+ 
+Read time: 
+ 
+ 
+8 sec at single wavelength, 12 sec at dual 
+wavelengths 
+ 
+Data output: 
+ 
+To external printer.  
+ 
+Onboard graphical thermal printer and USB2 interface with PC or Mac data 
+stations 
+ 
+Data storage: 
+ 
+Calender/clock functions; more than 50 assay protocols 
+ 
+Printer:  
+ 
+Built in. 
+ 
+Power supply:  
+AC220V±22v，50Hz 
+ 
+Washer should regulate rinse position of cleaning head according to user 
+requirements. Can choose to set washing parameters for different effects. 
+ 
+Capable to handle 1x8/1x12 strips. 
+ 
+Non- pressurize dispensing and wash volume ranging from 50-3000ul per well. 
+ 
+Vacuum aspiration, programmable height, speed and positions with a memory of 
+more than 70 programme. It should include tubings and bottles for buffer and 
+waste. 
+ 
+CE certified. 
+ 
+Standard one year warranty. 
+ 
+All technical specification will be evaluated with on site video demonstration of the 
+equipment.  
+ 
+S.No.3: VDRL Rotator 
+Quantity: 01 Nos. 
+ 
+Platform size: 325 x 325 mm which can accommodate VDRL plate, small flask, 
+bottles and beakers by spring holder. 
+ 
+Speed range 70 to 350 rpm. 
+ 
+Timer 0-60 minutes control of shaking duration with 1 minute interval. 
+ 
+The firm shall positively submit printed, illustrated technical literature/leaflet 
+indicating the model quoted by them.  
+ 
+Technical evaluation of the equipment would also require it’s satisfactory on-site 
+demonstration. 
+ 
+Standard one year warranty. 
+ 
+It should have digital display of time and speed. 
+ 
+ 
+ 
+
+
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Micro/17/32/PAC 
+ 
+ 
+ 
+Page 18 of 21 
+ 
+ 
+ 
+Warranty and CMC: 
+ Should provide Warranty period:  As per mentioned on the Annexure and CMC after warranty 
+as per mentioned on the Annexure. 
+ Availability of spares for at least 10 years after date of installation.  
+ Comprehensive  warranty   would  include  all  parts-plastic, metallic,  glass,  batteries  and  
+rubber  (without  any  exclusion)  except the consumable accessories listed above.  
+ Comprehensive warranty  would include periodic checking and  periodic  calibration  of  all  
+parameters  strictly  as  per manufacturer’s  recommendations  (at  least  every  6  month)  
+and  any spares or standards required for that.  
+ Should have online and telephonic registration of the complaints.  
+ Should have resident service engineer available in Raipur within 24 hrs to solve the 
+complaints.  
+ Down  time  of  the  equipment  will  start  from  the  time  of  lodgement  of first complaint.  
+ The company must ensure that the machine remains FULLY functional all the time for the 
+period of warranty and CMC.  
+ No  request  in  this  regard  will  be  entertained  on  the  pretext  of  on availability of items 
+with the supplier/company.  
+  Prices of all Equipments and CMC should be quoted separately and frozen for the period 
+including warranty and CMC.  
+ Should have local service facility and should have the necessary equipment’s to carry out 
+preventive maintenance test.  
+ Onsite physical demonstration and training of the equipment to all the end users with all the 
+requested facilities will be mandatory.  
+ Original literature, and not the photocopy, to be supplied with the quotation.  
+ Company should certify that model quoted is latest and not obsolete, and spares are available 
+for minimum 5 years after warranty (1 years).  
+ Warranty and CMC should be provided by company and accessories should be included in 
+warranty and CMC. 
+ Should provide the preventive maintenance in every 6 month and also calibrate the machine 
+at the time PM if required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,52 @@
+--- Page 19 ---
+ 
+Tender Enquiry No. F.No.24/ Nuclear/193(IV)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 19 
+ 
+Annexure 1 
+Well counter   
+Technical Specifications: 
+Performance: 
+- 
+Type: 1.5” Sodium Iodine (NaI) drilled-well crystal 
+- 
+256 channel MCA Manual/Automatic ROI 
+- 
+Trigger Levels – User definable 
+- 
+Automated Calibration and Background Subtraction 
+- 
+Counting Rate: 10,000 cps 
+- 
+QC Tests: Reproducibility, Chi-Square, MDA 
+Display Screen:  
+- 
+Type: 8” VGA –LCD color touch screen 
+- 
+Bq/Ci Reading: User Selectable 
+- 
+Activity display: Selected Radionuclide, Efficiency, measured activity and display units 
+- 
+Count rate values for both wipe and lab results 
+Printer: RS-232 or USB ports for compatible non host based printers 
+PC Port:Interface – RS – 232 and USB 
+Power Requirement: 100 -240 VAC (50/60 Hz) 25W 
+TEST: Diagnostic – Full test of program and system memories 
+Special Conditions: 
+ The system should be complete in itself and fully functional with appropriate software if required 
+when supplied. 
+ Demonstration and training of doctors and hospital staff is must  
+ Rate of spares/accessories which are not covered under guarantee/warranty should be quoted by 
+the company (item not mentioned in the list are assumed under comprehensive warranty and 
+company have to provide for proper function of equipment). Any spares/accessories not quoted 
+by the company will be presumed to be supplied free of cost by the company. 
+ Warranty/Guarantee for 5 years 
+ Service/Repair preferably within Uttrakhand/NCT/NCR 
+ Instruments may be called for demonstration and approval. It will be the sole discretion of the 
+user Department to approve or disapprove the quality.  
+ Should be European CE or USFDA (or ISO certified or equivalent) approved 
+ 
+ 
+
+

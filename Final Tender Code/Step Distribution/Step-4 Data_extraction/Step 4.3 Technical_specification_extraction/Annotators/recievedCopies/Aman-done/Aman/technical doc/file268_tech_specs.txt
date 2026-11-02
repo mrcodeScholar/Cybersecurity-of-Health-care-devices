@@ -1,0 +1,268 @@
+--- Page 20 ---
+ 
+Tender Enquiry No. F.No.24/ ENT/202(II)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 20 
+ 
+Specification for HD Camera system with image enhancement facility 
+ 
+S. No 
+Specification 
+1 
+Three Chip High definition Camera System 
+ 
+The system should be truly Digital HDTV endoscopic video camera. The 
+system should have the maximum Resolution of 1920 X 1080 pixels, 
+progressive scan and the consistent use of 16: 9 formats for Input & Output 
+to guarantee genuine HDTV. 
+ 
+The system should have facility of Optical & Digital Zoom lens to 
+enhance the quality of Image size & cross specialty usage of the camera 
+system, regardless of the telescope used. 
+ 
+USB Port for Capturing FULL HD Videos/ HD Stills in External USB drive 
+and direct interface of USB Printer to facilitate direct printouts. 
+ 
+System should have facility of controlling additional equipments like light 
+source/ insufflators and recording device from the camera head.   
+ 
+ System should have facility to offer various visualization modes for 
+surgery and diagnosis by shifting the color spectrum like BLUE & 
+GREEN light for recognition of the finest tissue Structures and their 
+differentiation.  
+ 
+Parallel live display of visualization modes besides white light mode 
+(picture-in-picture). 
+ 
+Modular design: Digital FULL HD camera module should be compatible 
+for use with video flexible GI endoscopes. 
+ 
+Technical Specifications: 
+ 
+Image sensor: 3X1/3’’ CCD-Chip. 
+ Pixels: 1920 x 1080 
+ AGC: Microprocessor controlled 
+ Lens: Integrated Zoom Lens f = 15-31 mm (2x optical zoom) 
+ Minimum light sensitivity: 1.17 Lux (f = 1.4 mm). 
+ Control buttons: 3 (2 of them freely programmable). 
+Video output: 2 x DVI-D output, 1 x 3G-SDI output, 3 x camera input for  
+communication with compatible camera modules, LAN   connection, 4 x USB 
+connection (2 x front, 2 x back). 
+ 
+Input: Keyboard input for character generator. 5-pole DIN socket. 
+ 
+Power Supply: 100-240 VAC 50/60 Hz 
+ 
+Certified to: IEC 601-1, 601-2-18, CSA 22.2 No. 601, UL 2601 and CE 
+according to MDD, protection class1/CF 
+ 
+ 
+ 
+ 
+
+
+--- Page 21 ---
+ 
+Tender Enquiry No. F.No.24/ ENT/202(II)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 21 
+ 
+3 
+High Definition Medical Grade Monitor  
+ 
+The monitor should have: 
+HDTV display in original 16: 9 HDTV format. 
+1080 p/ 50 & 1080 p/60 displays possible. 
+LED crystal display. 
+Max. Resolution of 1920X1080. 
+Screen diagonal – 26”. 
+Desk top with pedestal. 
+Should have the facility of PIP mode.  
+Specifications 
+ 
+ 
+ 
+ 
+ 
+HD TFT Flat Screen Monitor with stand size 26",  
+ 
+ 
+Aspect Ratio 16:9 HD format 
+ 
+ 
+Brightness : 500 cd/m2  
+ 
+Maximum view
+ 
+Contrast ratio: 1400 : 1 
+       Reaction Time – 8ms 
+ 
+ 
+Rated power : 115 watts 
+ 
+ 
+Power Supply 100-240 VAC 
+ 
+ 
+Screen Dimensions : 643 x 396 x 87mm 
+ 
+Video Inputs: 2* DVI-D, 2* 3G SDI, 1* S Video, Composite 1* 
+RGB/VGA, 1* RS 232, 1* RJ     45 Interface. 
+       Output: 1* DVI , 1* 3G SDI, 1* S-Video                            
+         Accessories External 24VDC Power Supply, Mains Cord, Pedestal. 
+         Certified to : EN 60601-1, protection class IPX 1 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 22 ---
+ 
+Tender Enquiry No. F.No.24/ ENT/202(II)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 22 
+ 
+4 
+Xenon Light Source with Fiber optic cable 
+ 
+ 
+ 
+ 
+Lamp type:-  Xenon 15V, 300 Watt  
+ 
+ 
+Color Temperatures 6000K 
+ 
+ 
+Light Outlets – 1 
+ 
+ 
+Light Intensity Adjustment :- Continuously adjustable either manually or  
+ 
+automatically by cameras video output signal. 
+ 
+Should be supplied with Diameter 4.8mm, Length 300cm.  
+ 
+Certified To :- IEC 601-1 & UL 544 CE According to MDD , protection 
+class 1/CF 
+ 
+ 
+5 
+Trolley from same Manufactures to accommodate all the above equipment. 
+      Equipment Cart LC, rides on 4 
+antistatic dual wheels equipped with 
+locking brakes, central beam with 
+integrated electrical subdistributors 
+with 6 sockets, grounding plugs, 
+Dimensions in mm (w x h x d): 
+Equipment cart: 830 x 1474 x 730, 
+Shelf: 630 x 25 x 510, 
+Caster diameter: 125 mm 
+Trolley should include the Monitor Holder 
+6 
+FULL HD IMAGE/VIDEO RECORDING SYSTEM - QTY 1 
+ 
+Documentation system should have following specifications, 
+- 
+User friendly work flow in built in Medical grade unit 
+- 
+Sleek and compact design 
+- 
+Captures still images, video sequences 
+- 
+Record still images and video in FULL HD at Resolution of 
+1920x1080P 
+- 
+Controllable via membrane buttons on front panel, camera head 
+buttons, footswitch mouse and keyboard 
+- 
+Enters patient data in combination of keyboard 
+- 
+Can be installed on Cart with single screen (no additional screen 
+required) 
+- 
+Supports network storage on file servers 
+- 
+Network Protocol: TCP IP/ SMB 
+- 
+USB support for storage on USB drives 
+- 
+Customizable print-outs for the documented information  
+- 
+Quick print function for fast print of images 
+
+
+--- Page 23 ---
+ 
+Tender Enquiry No. F.No.24/ ENT/202(II)/2017-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 23 
+ 
+- 
+HIPAA compliant  
+- 
+Medical grade unit CE certified, ICE 60601-1 
+- 
+Microprocessor:  RIMM (AMD) Processor at 500 Mhz.  
+- 
+USB Silicon Keyboard with Touchpad 
+- 
+Video signal inputs: DVI-I Dual Link, HD-SDI, Composite, S-Video, 
+RGB, YPbPr 
+- 
+Video Out: DVI-I Dual link 
+- 
+Video 
+output 
+resolution: 
+1920x1080, 
+1280x1024, 
+1280x720, 
+1024x768, 800x600, 640x480 
+- 
+Audio Input: Standard 3.5 mm stereo phone jacks 
+- 
+Internal hard drive: 320 GB 
+- 
+USB ports: USB 2.0 (1 front panel, 2 rear panel) 
+- 
+Network: RJ45 / connection as network drive (SMB) 
+- 
+Recording formats: Videos: H.264mp4 
+                                               Images: JPG, TIFF, BMP 
+- 
+Patient data: Saved as .txt file and / or in EXIF format 
+- 
+Power supply: 100/240 VAC, 50/60 Hz 
+ 
+ 
+All items should be form same manufacturer for system compatibility and 
+USFDA & European CE Approved.  
+ 
+Special Conditions 
+ The system should be complete in itself and fully functional with appropriate 
+Software when supplied 
+ Demo with training of staff/doctors is must, multiple sessions may be required.  
+ Guarantee/Warranty: 5 years + 5 years CMC  
+ After sale service with penalty clause. Downtime of >07 days from the date of intimation will 
+incur a penalty @ 0.1% of the total cost of equipment/week.  
+ Service center within NCT/NCR/Uttarakhand. 
+ Rates of the spares/accessories which are not covered under guarantee/warrantee should be 
+quoted by the company (item not mentioned in the list are assumed under comprehensive 
+warranty and company have to provide for proper function of equipment) Any spares/accessories 
+not quoted by the company will be presumed to be supplied free by the company.  
+ Satisfactory Performance Certificate from a Central/State Government/Hospital (AIIMS, PGI, 
+SGPGI etc.) is mandatory.  
+ The instruments might be call for demonstration and approval. It is the sole discretion of the 
+department to approve or disapprove the quality. 
+ Should be European CE and USFDA approved.  
+ All the equipment including all the accessories should be provided with the detailed data sheet 
+along with the original brochure of the quoted model (Photocopies/Print outs are not accepted). 
+ 
+ 
+ 
+ 
+
+

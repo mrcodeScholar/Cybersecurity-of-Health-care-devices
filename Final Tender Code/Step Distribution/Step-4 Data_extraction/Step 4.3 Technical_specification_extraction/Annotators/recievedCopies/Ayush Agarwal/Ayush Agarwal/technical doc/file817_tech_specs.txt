@@ -1,0 +1,293 @@
+--- Page 18 ---
+Tender No. : AIIMS/R/CS/Nephro/09/19/OT/A 
+   
+Page 18 of 24 
+ 
+ANNEXURE-I 
+Specifications for Haemodialysis Machine with SLED 
+S. No. 
+Specifications 
+1. 
+Microprocessor Based Control 
+Should be microprocessor controlled & capable of providing therapies such a Conventional HD, 
+Online HDF, HF,  Online priming, Acetate & Bicarb dialysis, Volumetric UF, sodium/UF 
+profiling. Online help options (in case of alarm condt.), BPM, OCM. 
+2. 
+Graphical User interface (Display) 
+High resolution TFT touch screen with  functional keys & provide cumulative graphical display 
+of treatment data & physiological trends including sodium & UF  profiles, freely rotatable & 
+adjustable design.  
+Should display different menus *(preferably) indicating blood system, preparation, dialysate, 
+UF, Treatment, Reinfusion, cleaning, system parameters & screen saver option. 
+Should have integrated patient card reader system where at least 03 treatment data can be  
+recorded. 
+3. 
+Safety features 
+Close system design with volumertric balancing system, i.e. volume in-volume out of fresh & 
+used dialysate. Volumetric dilution of concentrates with RO water & volumetric UF. 
+Self test after switching ON, Start up T1 test before each treatment, to ensure functioning of all 
+hardware components. 
+Leak sensor & connection test as additional safety 
+4. 
+Blood Circuit 
+Vascular Access 
+Single Needle click clack should be available. Blood pump with features such as flow range of 
+20-600 ml/min. with 10 ml increments & accuracy +10%. Effective blood rate should be displayed 
+in accordance to the setting and tubing size with diameter 2 mm-10mm could be used. 
+An emergency hand crank should be provided to enable reinfusion in case of power failure. 
+Emergency button enabled bolus, UF control, BPM control. 
+Air free pressure measurement on arterial line, in view of reducing chance blood clot. 
+Protective cover for whole entire EBM (Extracorporeal Blood (MCUs). 
+ 
+5. 
+Heparin Pump 
+Both automatic or manual start/stop, with infusion rate of 0.5-10 ml/hr in 0.1 ml/hr increments 
+and + 5% accuracy. 
+Heparinization stop time should be user-adjustable in 1 min increment & positive/negative 
+extracorporeal blood circuit pressure should not affect infusion rate. Auto Bolus administration 
+should be programmable from 1-20 ml/hr. 
+6. 
+Pressure Monitoring & Alarms 
+Venous pressure monitoring and adjustment in case of alarm condition. 
+(Range : -100 to +500 mmHg, Accuracy : + 7%), Arterial pressure monitoring & adjustment in 
+case of alarm condition. (Range: -300 to + 300mmHg, Accuracy : + 7%). 
+7. 
+Air Detection 
+Ultrasonic design & should be activated for air & micro bubbles over entire blood flow range. 
+Sensitivity  of detection mechanism should be specified in terms of air bubble size and on 
+detection of excessive air, venous clamp should activate and blood pump stop. Reference point 
+for level detector measurement should be about 13+4 mm, from upper edge of venous chamber. 
+ 
+8. 
+TMP Monitoring 
+-100 to +400 mmHg with regulation of 5 mmHg. 
+ 
+9. 
+Dialysis circuit 
+Treatments/Therapies 
+Should facilitate both Acetate & Bicarbonate dialysis. Variable sodium & bicarbonate option. 
+Volumetric UF and sodium/UF profile options. 
+10. 
+Dialysate flow rates. 
+A range of 100-1000 ml/min should be available, with increment of 100 ml/min, with Accuracy 
++ 10%, & provide good clinical outcome on EDDF therapy for acute patients. 
+
+
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Nephro/09/19/OT/A 
+   
+Page 19 of 24 
+ 
+Autoflow function should be available with ON/OFF feature, in view to save  electricity and water 
+consumption and synchronize with blood flow changes. Ecoflow function should be available 
+when preparation phase is finished to save dialysate, water, electricity. Pre-programmed more 
+than 10 types of concentrates should be available and its change should not be necessary for 
+calibration. 
+11. 
+Temperature Control & Alarm 
+Control Range : 34.0 to 39.0 deg celsius with 0.5 increment. 
+Alarm Limits : 33.5 to 40.0 deg Celsius. 
+ 
+12. 
+Conductivity control & alarm 
+Range 12.8  to 16 mS/cm 
+Accuracy : + 0.1, mS/cm 
+Dialysate conductivity should be adjustable by sodium concentration, for Acetate Dialysis with 
+range from 125 to 151 mmol/l increment of 1mmol/L for Bicarbonate dialysis, range from 125 to 
+151 mmol/l in increment of +8 mmol/l. 
+ 
+13. 
+Blood leak detection 
+Photo detector used, and alarm should be activate  for blood loss rates< 0.5 ml/min., with HCT of 
+20-25%. 
+ 
+14. 
+Volumetric UF 
+Control range : 0-4 L/hr, given by set values of UF volume and treatment time, with accuracy 
++1%. 
+UF volume : 0-9.00 L adjustable in 1 ml increment. Treatment time : adjustable up to 9 hour 59 
+minute, in 1 minute increment. 
+TMP monitoring : -100 to +400 mmHg. 
+Isolated ultrafiltration process should be provided. 
+Equipment should be capable of on line preparation of bicarbonate dialysis fluid. 
+15.  
+Ultra-pure dialysate filter 
+Hygienic connection for ultra-pure dialysate filter  
+Should have endotoxin retention capacity not less than 106 IU 
+Machine should have an automatic program to change filter, including emptying & filling cycles. 
+Filter should have life span not less than 12 weeks or 100 treatments. 
+Filter should be arranged in cross flow setting and equipment should perform flushing during 
+treatment automatically every 1 hr. filter change reminder should be available 
+16. 
+Online fluid Circuit 
+For HDF 
+Both option of Pre-dilution and post-dilution of blood should be available. 
+Automatic control substitution program with pre/post dilution identify integrate function, dialyser 
+integrate function, effective blood flow rate integrate, HCT integrate function, Total protein 
+integrate and UF rate integrate function. 
+Equipment should have 2 ultra-pure filters to prepare the online substitution fluid. 
+Should be capable of online preparation of substitution fluid for priming and rinsing of 
+extracorporeal circuit for HD/HDF/HF or as injection – bolus and reinfusion at the end of 
+treatment. Substitution fluid delivery rate : 25 to 600 ml/min in 1 ml/min increment, with accuracy 
++0.1 ms/cm and exchange volume -210 L(max.) 
+17. 
+Dialysis Parameter Display 
+Equipment should display parameters 
+Arterial pressure, venous pressure, blood flow rate, dialysis conductivity, TMP, UF volume, UF 
+rate, Remaining treatment time, Heparin infusion rate, Alarm information. 
+18. 
+Online Clearance Monitoring (OCM) 
+Equipment should have 
+Inbuilt measurement and monitoring of effective area clearance K, Dialysis dose Kt/v, and Plasma 
+sodium during dialysis.This measurement should be done without any additional cost and 
+disposable during each treatment measuring accuracy : Clearance +/-6% Kt/V+/-9%. 
+OCM conductivity evaluation should be 12 bit with 2 channels and 2 CD cells ( 1 cell for basic 
+machine function) and measuring range: 12.8-15.7 mS/cm, Accuracy : 0.05 mS/cm. 
+OCM temperature evaluation should be 12 bit with 2 channels and 2 NTC (1 NTC for basic 
+machine function ) and measuring range : 33.5-410C, Accuracy : 0.20C 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Nephro/09/19/OT/A 
+   
+Page 20 of 24 
+ 
+19. 
+Blood Pressure Monitor (BPM) 
+Equipment should have built in non-invasive device for measuring the patient blood pressure 
+automatically 
+Measuring range should be: 
+Cuff pressure range : 10-325 mmHg or wider choice  
+Systolic range ; 30-280 mmHg or wider choice 
+MAP range : 20-255 mm Hg or wider choice 
+Diastolic range : 10-240 mmHg or wider choice 
+Pulse rate range : 20-245 1/min or wider choice. 
+ 
+Alarm values should be 
+Systolic Range : 90 and 165 mmHg 
+MAP range : 70 and 120 mmHg 
+Diastolic range: 50 and 100 mmHg 
+Pulse range : 40 and 150/min 
+20. 
+Battery Backup 
+The equipment should be able to operate and monitor the extracorporeal circuit without 
+interruption for 20-30 min in case of AC power failure by backup battery. 
+21. 
+Disinfection and cleaning 
+Both chemical and heat disinfections should be performed. 
+Sodium hypochlorite should be used as cleansing disinfectant 
+Various programmable cleansing cycles should be provided with different disinfectants. 
+Should be one-touch fully automatic operation including pre-rinse, chemical-intake for combined 
+disinfection & decalcification, post-chemical mandatory rinse, and automatic power-off; without 
+the need of any end-user handling during this whole disinfection process. 
+22. 
+The machine should be US FDA/ European CE/ BIS certified. 
+23. 
+Warranty 
+Comprehensive warranty for 5 years supported by Principal manufacturers with consumables – 
+BP Cuffs and line. 
+24. 
+CMC 
+Quote for 5 years CMC (Partsand service including accessories) after warranty supported by the 
+principal manufacturers. 
+Comprehensive training for lab staff and support services till familiarity with the system. 
+25. 
+Training & manual 
+Should have at Raipur service facility.  The service provider should have the necessary 
+equipment’s recommended by the manufacturer to carry out preventive maintenance test as per 
+guidelines provided in the service/maintenance manual within 24 hours of being informed. 
+User/technical/maintenance manual to be supplied in English. 
+26. 
+Miscellaneous 
+Certification of calibration & inspection 
+List of equipment’s available for providing calibration and routine preventive maintenance 
+support. As per manufacturer documentation in service/technical manual. 
+Log book with instruction for daily, weekly, monthly and quarterly maintenance check list. 
+The job description of the hospital technician and company service Engineer should be clearly 
+spelled out. 
+ 
+Monitor 
+15” high resolution TFTLCD with touch screen user 
+interface. Monitor rotatable around the 3 axis. 
+ 
+Card reader 
+Smart Card for patient, user & service card 
+ 
+Water Supply 
+ 
+ 
+Water inlet pressure 
+1.5-6.0 bar 
+ 
+Water inlet temperature 
+5-30 degree Celsius and for integrated hot rinse 
+35-90 degree Celsius. 
+ 
+Maximum drain height 
+1 meter 
+ 
+Flush 
+Rinse of water supply area 
+ 
+Concentration supply 
+ 
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/Nephro/09/19/OT/A 
+   
+Page 21 of 24 
+ 
+ 
+Supply pressure 
+0-100 m bar, 1 m suction height with central 
+delivery 
+ 
+Central supply 
+1 central acid concentrate (option) 
+ 
+Electrical data 
+ 
+ 
+Voltage 
+100-100-240 v ac +/- 10% 47-63 Hz 
+ 
+Current 
+Approximate 6 amp. 
+ 
+Weight 
+Approximate 100 kgs. 
+ 
+Technical Data Management Streaming (TDMS) Software free of cost 
+27.  
+Vendor should check quality of feed water in AIIMS, Raipur to ensure proper output before 
+quoting the product. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

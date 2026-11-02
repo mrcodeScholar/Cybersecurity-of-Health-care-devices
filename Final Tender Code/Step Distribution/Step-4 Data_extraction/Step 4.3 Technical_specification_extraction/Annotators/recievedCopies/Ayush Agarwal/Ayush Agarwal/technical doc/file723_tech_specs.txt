@@ -1,0 +1,67 @@
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/T&E/18/20357/OT 
+ 
+ 
+Page 17 of 20 
+ 
+ANNEXURE-I 
+Technical Specification 
+Sl. No. 
+Item Descriptions 
+ 
+1 
+ 
+Specifications for Defibrillator-Cardioverter with ECG Monitor: 
+Operational Requirements: 
+1. Defibrillator should be Bi-Phasic, light weight and latest model  
+2. Should monitor vital parameters like ECG, heart rate etc. and display them 
+3. Should print the ECG when required 
+4. Should work on Manual mode (0-200 J or more) 
+5. Should be capable of doing synchronized & a synchronized cardioversion both 
+6. Can be operated from mains as well as battery 
+7. Should have defibrillator testing facility 
+8. Facility for trans-cutaneous pacing and trans-venous pacing should be available 
+Technical Specifications:  
+1. Should be a Low Energy Biphasic defibrillator monitor with Recorder, having capability 
+to arrest all arrhythmia within a maximum energy of 200 Joules for manual mode 
+2. Should monitor ECG through paddles, pads and monitoring electrodes and Defibrillate 
+through pads and paddles. Should have Automatic or Manual lead switching to see 
+patient ECG through paddles or leads 
+3. Should measure and compensate for chest impedance 
+4. Should have a build in printer/ thermal recorder 
+5. Should have minimal charging time for maximum energy with charging indication 
+(mention the time in bid – shorter in preferred). 
+6. Should have bright LCD/TFT display for viewing messages and ECG waveform 
+7. Adult, neonate and paediatric paddles should be available 
+8. Should have event summary facility for recording, printing and patient data storage of 
+ECG and events.  
+9. Should have a battery capable of usage for at least 02 hours or 50 discharges 
+10. Should be capable of printing Reports on Event summary, configuration, self-test, 
+battery capacity etc.  
+11. Should have facility for self test/check before usage and set up function 
+12. Should be capable of delivering energy in increments of 1-2 joules up to 30J and 
+increments of max. 50J thereafter. (Narrow increments preferable) 
+13. Should have user friendly colour coded operation. 
+14. Should be USFDA approved. 
+15. Should compensate for body impendence for a range of 25 to 150 ohms. 
+16. Should have facility for monitoring like Spo2, NIBP & 12 lead ECG 
+17. Accessories: -   
+Defibrillator with external pacemaker – 1   
+Paddles – Neonates – 2 pairs 
+Paediatrics – 2 pairs 
+Adults – 2 pairs 
+ 
+ 
+ECG rolls – 5 
+ 
+ 
+Spo2 reusable sensor – 1 
+ 
+ 
+NIBP cuff -  Neonates – 2 
+                             Paediatrics – 2 
+                             Adult – 2 
+ 
+ 
+
+

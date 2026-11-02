@@ -1,0 +1,141 @@
+--- Page 19 ---
+Tender No. : AIIMS/R/CS/Patho/18/02/OT/A 
+ 
+Page 19 of 24 
+ 
+ANNEXURE-I 
+Technical Specification for Real Time Quantitative PCR System 
+1. The system should be capable of performing both real time PCR and end point 
+analysis. 
+2. The system should be peltier-based system. 
+3. There should be 96-well block instrument (both for Fast and standard Emulation 
+Mode). 
+4. Should have Reaction volume of 10-100 μL and should use Universal thermal cycling 
+conditions. 
+5. Reaction should be run in the form of plate, individual tube and tube strips. 
+6. The System should be combined with 6 decoupled excitation and emission filter sets 
+to enable collection of 21 unique combinations of wavelengths during a single run for 
+multiplexing on the 96-well block instrument. 
+7. The excitation should be done by White LED light source & should come with a >05 
+years lifespan and detection should be done by sCMOS / CCD. 
+8. The system should have block ramp rate (at peak) of ≥ 6.5° C. 
+9. Temperature Range: 4°C-99.9°C. 
+10. Should have Dynamic range up to 10 orders of Magnitude. 
+11. Should have six independent Peltier Block to provide six independent temperature 
+zones to run six different assays with varying annealing temperature at the same 
+time. Each block having the ability to set up PCR with specific temperature 
+differential of up to 5 degree centigrade between blocks and 25 Deg. from one end to 
+another. 
+12. Should be factory calibrated for handling all commonly used fluorescent dyes such 
+as (SYBER GREEN, FAM,VIC,ABY, NED, JUN, TAMRA, ROX, Mustang Purple and Cy5 
+dyes, Cy3, and calibrated any other dyes in the wavelength of 450-730nm should be 
+possible without any filters set and applications for diagnosis of human infectious 
+diseases. The dyes which are those used for RT PCR application generally require 
+emission and excitation range in between 450-730nm, not below this range.) QUSAR 
+670/705 is equivalent to TAMRA and Mustang Purple no need to calibrate it. 
+13. Calibration for new dyes within the wavelength range should be possible without 
+purchase of additional filters sets. 
+14. The system should be capable of performing relative and absolute quantitation, 
+melting curve analysis (at high resolution), multiplex-PCR, SNP analysis, dissociation 
+curve analysis, pathogen detection and plus/minus assays etc. 
+15. The system should be able to collect data for all 5 filters for all wells regardless of 
+plate setup. Plate setup may be altered after run completes. 
+
+
+--- Page 20 ---
+Tender No. : AIIMS/R/CS/Patho/18/02/OT/A 
+ 
+Page 20 of 24 
+ 
+16. The quoted system will provide details of data acquisition during run for all dyes and 
+ensured. 
+Temperature 
+accuracy: Maximum 
+(+/-0.25°C of set 
+point/display 
+temperature, measured at 1 minute after clock start). 
+17. Run Time of quoted system ~30 min (fast mode-expert), <1.5 hrs (Standard for 40 
+cycles). 
+18. The instrument should include a heated lid assembly that heats the top half of the 
+sample plates and provides an effective seal to minimize reaction mixture evaporation. 
+19. System should collect data for all filters, for all wells regardless of plate setup. 
+20. It should be possible to alter the plate setup after the completion of run. 
+21. The software should be inclusive of Multi-componenting algorithm designed to 
+provide precise deconvolution of multiple dye signals in each well to ensure minimal 
+crosstalk when using multiple fluorophores for multiplex assays. 
+22. The system should be supplied with dedicated licensed full version software for 
+primer and probe design with comprehensive assay design and development 
+guidelines for quantitative and qualitative real-time assays to enable designing of 
+custom oligo assays. 
+23. Electrical specification: 220 volts, 50Hz. single phase A.C. 
+24. System should be an open platform enabling use of various chemistries without 
+hardware change. 
+25. Should provide yearly calibration certificate including temperature calibration 
+verification test, temperature non-uniformity test and performance diagnostic test 
+within warranty as well as in CMC. 
+26. System should be CE-IVD or FDA or BIS approved product for in vitro diagnostics. 
+27. Branded Online UPS of 3KVA for one hour backup for the duration of one cycle of 
+processing to be provided. 
+28. The calibration, IQ, OQ and PQ of the instrument should be performed at the time of 
+installation and certificates should be provided. 
+29. All-in-one system should be supplied with branded computer system with window 10 
+or more to support application and camera Interface, 2 GHz multi core i7 processor, 
+2TB hard drive, 16 GB RAM, DVD+RW, USB 3.0 and HDMI port, 24” TFT/ LED 
+Monitor (1920 x 1200), wireless keyboards, mouse, and appropriate barcode reader 
+along with multifunctional color laser duplex printing printer with consumables (2 
+cartridges) with 2000 sheets of A4 size paper should be provided. 
+30. System should have option like Stand-alone, PC connected, or direct connection to 
+Cloud via LAN or Wi Fi. 
+31. Start-up kit for at least 100 tests should be provided free of cost for HPV testing. 
+32. Should be supplied with a set of ‘variable volume pipettes’ of standard make with 
+following features: 
+a. Should have volume gearing mechanism for accuracy and precision. 
+
+
+--- Page 21 ---
+Tender No. : AIIMS/R/CS/Patho/18/02/OT/A 
+ 
+Page 21 of 24 
+ 
+b. Should be fully autoclavable for protection. 
+c. Should have soft-touch tip ejector for light tip ejection. 
+d. Should have large display for better vision ergonomics. 
+e. Should have very light pipetting forces. 
+f. Four Pipettes from 0.2 to 1000μL should be provided as follows in set: 
+a. 0.2-2μL 
+b. 2-20μL 
+c. 20-200μL 
+d. 100-1000μL 
+g. Should be supplied with following type of microtips (in mentioned quantity) 
+    along with microtip box should also be provided: 
+1. Size: 10, 12 x 96; Qty.: 500 
+2. Size: 2 x 96; Qty.: 500 
+3. Size: 1 x 96; Qty.:500 
+h. Stand should be provided with pipette set of above four types. 
+i.  Good Laboratory Pipetting Guide should be provided. 
+j.  Reagent reservoir demo pack should be provided. 
+33.   Appropriate anti-vibration table with granite top of standard make should be provided to 
+accommodate the instrument, computer system and accessories. 
+34.   Document or order copy supporting satisfactory performance from AIIMS/ institute of 
+national importance(minimum one) should be provided. 
+35.   Support for induction and follow up training of technical staff, on –site standardization 
+trouble shooting of procedures/ tests to be provided by the company. 
+36.   Software should be capable of doing automated statiscal analysis with various tools like t-
+test, ANOVA etc. 
+37.   Video demonstration/submission of valid document are required for confirmation of each 
+of the above mentioned specification. A user list to be enclosed. 
+38.   Five (5) years warranty and Five (5) years CMC should be provided. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

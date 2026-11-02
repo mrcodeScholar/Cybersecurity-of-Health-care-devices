@@ -1,0 +1,246 @@
+--- Page 10 ---
+Tender for Intraoperative Mobile Ultrasonography 
+Admn/Tender/01/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Intraoperative 
+Mobile 
+Ultrasonography  
+Intra-operative mobile ultrasonography is used in neurosurgery 
+for brain tumor removals, evaluation of hydrocephalus, 
+endoscopic intra-ventricular surgeries and selected spinal cord 
+tumors. "Inherently stereotactic nature" of ultrasonography in 
+combination with Neuronavigation compatibility is highly 
+useful in neurological surgeries. The system should offer 
+advanced functions that can be exploited in many different 
+clinical situations.  
+ 
+Basic System Architecture  
+✓ System architecture should be able to support High 
+definition mode that provided in standard function. That mode 
+should provide Clear image to reduce artifact such as multiple 
+echoes and to improve spatial resolution and contrast resolution. 
+✓ The System should support high quality ultrasound with 
+clearly defined technologies combined to offer a diagnostic 
+ultrasound system with unprecedented performance, achieving 
+advanced beam formation and sophisticated image processing. 
+✓ System should be Capable of Taking preferably `Multilayer 
+Technology 'probes. And minimum acceptable quality of probes 
+are allowed to quote is the 'Matrix' one.  
+✓ Capability to incorporate Electronic Convex, Linear, and 
+Phased Array technology probes is must with Frame rate more 
+than 400 frames/sec.  
+✓ System should have compatibility with Neuro- Navigation 
+System.  
+✓ The System Should have advanced Contrast Imaging 
+Package  
+✓ System should have special Beam signal processing 
+technology.  
+✓ System should have minimum of 12 Bit A/D Converter.  
+✓ System should have minimum dynamic range 270db.  
+✓ System should have High density zoom functions Pan Zoom 
+and HI zoom.  
+✓ System should have Pan Zoom & Hi Zoom display 
+magnification 8 times, display format change in flip flop, 
+horizontal, vertical and rotation.  
+✓ System should have minimum scan depth of 40 cm.  
+✓ System should have Compounding of 5 — 20 deg with 
+increment of 5 deg. 
+✓ System should have Speckle Reduction Imaging in convex, 
+Linear & Phased array probe with user selectable value helps in 
+Contrast resolution.  
+✓ Virtual Convex imaging should be available in linear probes. 
+✓ All radiology probes should have minimum 30 sets of 
+selectable frequencies for the best customised image quality  
+✓ System should support coded scanning Technique.  
+✓ System should Contain Automatic optimization which 
+adjusts TGC, B mode gain, baseline, PRF& Doppler gain.  
+✓ System Should have Dual Doppler Technique in both 
+01 
+
+
+--- Page 11 ---
+Tender for Intraoperative Mobile Ultrasonography 
+Admn/Tender/01/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+convex and linear.  
+✓ System should have Automatic Doppler tracing.  
+✓ The system should have selectable beat auto tracing  
+✓ Doppler velocity measurement should be up to minimum 
+8m/sec in Radiology probes  
+✓ System should contain Fine flow function.  
+✓ System should have accumulation mode in color to 
+demonstrate the minimum perfusion  
+✓ System should have Sub preset settings registered for each 
+application max 4 set of preset for easy switching between same 
+applications.  
+✓ System Should have in-Plane Switching Technology Square 
+Monitor for better contrast resolution.  
+✓ System should be upgradeable to Elastography which can 
+also be done with normal Convex and linear probe.  
+✓ System Should Have 10.4-inch touch pane. All 
+measurements and annotations should be available in 
+touchscreen  
+✓ System Should Support with 100 Sets of presets.  
+✓ System should have 8 times Zoom/magnification.  
+✓ Fully integrated 3D option in craniotomy transducers  
+Software and Color modes  
+System should be able to incorporate  
+✓ Omni Directional M Mode with 3 Cursors both in real 
+time & on frozen image in all the probes, with M Mode 
+cursor rotation of Complete 360 Degree, system should have 
+provision of getting M-mode image from the stored B-mode 
+image. 
+✓ System should be with facilities of Color Flow, Power Flow, 
+Directional Power flow& High spatial & temporal resolution 
+color flow (fine flow).  
+✓ User should be able to choose 6 different frequencies in each 
+probe (B-mode) E, this change in frequency should be displayed 
+in the monitor.  
+✓ System should have Auto IMT.  
+✓ System should have wide View with B-Mode, power flow 
+& Directional Color flow.  
+✓ System should have PW Doppler, HPRF, CW. Doppler  
+✓ In Color flow imaging, user should be able to change the 
+frequency  
+✓ System should allow user to take 3D image using routine 
+convex probe  
+✓ Free hand 3D should be available in both convex and linear 
+probe with color flow.  
+✓ Fine flow function- Color Flow imaging function that can 
+display blood flow information in a high spatial and temporal 
+resolution.  
+✓ Cine Memory- B mode max 19,000 frames. M/D Modes 
+Max 300 seconds, ODM 150seconds.  
+✓ Should have high speed data transfer between Cine Memory 
+and Hard Disk  
+
+
+--- Page 12 ---
+Tender for Intraoperative Mobile Ultrasonography 
+Admn/Tender/01/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+✓ Should be able to switch on color flow with Speckle 
+Reduction on.  
+✓ System should allow us to take 10 pair distance 
+measurement at a time on a frozen image.  
+✓ System should support Baseline Shift and angle correction in 
+both real time and after freeze.  
+✓ System should be able to adjust sample length and sweep 
+speed in both real time and after freeze.  
+✓ System should have minimum sample length of 0.5mm  
+✓ System should have Dual Dynamic Display.  
+✓ System should have a display angle width of max 6 steps.  
+✓ System should have Biopsy guide. System should have dual 
+elasto mode.  
+✓ System also should have Real time biplane mode.  
+✓ System Should be upgradeable to Elastography.  
+✓ Biopsy guide line mode should be available with 
+Elastography mode. 
+ 
+Data Management Capabilities 
+ 
+The system should have the following data management 
+capabilities like  
+✓ Line data and image data storage  
+✓ Hard disk capacity of 500 GB or more for on board storage 
+of image and clips  
+✓ Archiving to USB/CD/DVD option  
+✓ Still images in DICOM, Bmp, Tiff, Jpeg formats  
+✓ Image acquisition in Real time  
+✓ High speed data transfer Cine loop  
+✓ To store measurement data in Hard disk apart from Image 
+storage.  
+✓ DICOM Network communication, confirming to DICOM 
+Service class  
+ 
+Measurement and Analysis packages  
+The system should be capable of measuring the following 
+parameters  
+✓ Cardiac Analysis.  
+✓ TDI Power flow mode.  
+✓ Strain & strain rate imaging.  
+✓ Vascular Analysis.  
+✓ IMT (Intima Media Thickness) Measurements.  
+✓ Report Functions — Cardiac, Obstetric, Gyne, Vascular, 
+IMT (Intima Media Thickness), Urological and abdominal.  
+ 
+Measurement and Analysis packages  
+✓ System should have Tissue Adaptive Technology for 
+adjustment of sound speed.  
+✓ System should have Needle Emphasis technology for biopsy 
+needles.  
+✓ System should be compatible to finger grip intraoperative C 
+
+
+--- Page 13 ---
+Tender for Intraoperative Mobile Ultrasonography 
+Admn/Tender/01/2019-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+shaped probes.  
+✓ System should be compatible to dedicated intercostal biopsy. 
+✓ System should be compatible to Transesophageal probes.  
+✓ System should be compatible to Linear 4D probe.  
+✓ System should be compatible to Centre biopsy Convex probe 
+with dedicated centre biopsy adapter.  
+✓ System should be compatible to T shaped Intraoperative 
+probe. 
+ 
+Probes  
+The following Probes  
+✓ Intraoperative Convex probe with (10.0-4.0 Mhz) frequency 
+range, 65 Degrees with Puncture Adapter for Craniotomy 
+applications.  
+✓ Intraoperative Phased array sector probe with (8.0-3.0 Mhz) 
+frequency range, 90 degrees with Puncture Adapter for Neuro 
+Burr Hole applications.  
+ 
+Other Important Functions   
+✓ System with three probe connector and one dummy port for 
+probe connector.  
+✓ System should have minimum 17-inch monitor with smart 
+touch panel below.  
+✓ System should have 4 swivel casters for excellent mobility. 
+✓ System monitor should be hinge rotatable.  
+✓ System along with cart should be compact and height 
+adjustable.  
+✓ System should have internal capacity max 500 GB.  
+✓ System should be able to store 72,000Images. 
+
+

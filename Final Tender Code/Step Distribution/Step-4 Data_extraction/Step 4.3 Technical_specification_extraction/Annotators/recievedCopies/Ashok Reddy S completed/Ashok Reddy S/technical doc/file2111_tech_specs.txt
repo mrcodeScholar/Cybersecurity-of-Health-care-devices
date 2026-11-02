@@ -1,0 +1,161 @@
+--- Page 25 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/NCV/EMG/Physio/570/2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 25 
+ 
+Specifications of Portable 4 channels Digital EMG, NCV, EP System 
+ 
+The System hardware should consist of- 
+ System should be 4 channels EMG, NCV &EP System with individual touch proof & DIN 
+connectors. 
+ System should be European CE with 4 Digit notified body or USFDA approved and meet 
+international safety Standards like IEC and class IIB. 
+ The amplifier should have USB powered and enabling the amplifier to be connected to any 
+PC/Laptop and transfer data through same USB. 
+ Three must be 1 trigger IN/OUT socket to connect Stimulators of third-party firms. 
+ The System should be supplied with headphone for AEP, LED Goggle &17” Pattern simulator for 
+VEP. 
+ The System Should Have wireless/wired control panel for easy operation. 
+ The equipment shall incorporate Features like full optical isolation and confirm to international 
+Standards with certification authorities. 
+ 
+(EMG) 4 Channels Specification: 
+ Common mode input impedance > 200 Mohms 
+ Sampling Rate – 40-KHz – 160KHz 
+ A/D Convertor -16 bits 
+ High pass filter form 0.02 Hz to 3KHz 
+ Low pass Filter form 10Hz-10Kz 
+ CMRR > 100 Db 
+ Noise Level (RMS) <0.5 micro V 
+ Notch Filter: 50Hz, 60Hz on or Off 
+ Electric stimulus duration should be 0.05 to 5 mS, Electric Stimulus amplifier should be 1 to 100 
+Ma and Electric Stimulus frequency: 0.1 to 100 Hz in Repetitive stimulation. 
+ 
+EMG/NCV/EP Software Should with: - 
+ Motor NCV with automatic marking 
+ Sensory NCV with automatic marking 
+ Motor and Sensory inching 
+ Tremor analysis 
+ Motor conduction collision and sensory conduction collision should be included. 
+ F wave with Split Screen display with automatic marking of responses showing the Max F, Min F 
+and F block values. 
+ H Reflex, Blink Reflex, Sacral Reflex, Bulbocavernous Reflex, T Reflex, Galvanic Skin Response 
+ Repetitive Stimulation 
+ Insertional/Spontaneous EMG recording for unlimited duration on hard disk for 10 minutes’ buffer 
+storage. 
+ Quantitative EMG TEST features must be included. 
+ EMG replay of stored EMG data form hard Disk with audio 
+ Multiple motor unit Analysis 
+ Single Motor Unit Analysis 
+
+
+--- Page 26 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/NCV/EMG/Physio/570/2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 26 
+ 
+ Jitter analysis for single fiber and stimulated single fiber test must be included. 
+ Incremental MUNE 
+ MUNE (MUP Decomposition) 
+ Macro EMG 
+ Short- middle- and long- latency auditory EP 
+ Short- and long- latency Somatosensory EP 
+ Auditory Stimulation with clicks and tones. 
+ Visual evoked potentials: Pattern reversal, appearance, disappearance VEP (with Fully, quarterly 
+& half – quarterly), Flash VEP, Goggle VEP 
+ Should have MRCP, P300, CNV, MMN 
+ Automatic rapid report generation with unlimited user templates 
+ Facility of comparing patient data with normative data & to flag abnormal values Automatically. 
+ Report generating to be customizable and in MS word format. 
+ Must be operating on Windows 10. 
+ Should have Microsoft SQL- server, MDB and MY’ SQL-server database software. 
+ Facility of including the waveform & numerical data as per user requirement in patient report. 
+ Provision for hard copy output of recording on a laser printer of 600 dpi resolution. 
+ Dedicated control panel can function via Bluetooth or USB interface. 
+ Possibility to connect a Magnetic Stimulator and able to perform the research test protocols like 
+CMCT, Triple stimulation, Silent Period, IHI etc. 
+ Possibility to upgrade it to ERG (Electroretinography) studies. 
+Set of EMG electrodes to be supplied along with system: - 
+ Surface electrodes – 2 pair. 
+ Stimulating bar electrode with replaceable steel and felt stimulation pads – 1 no. 
+ Ring electrode – 2 pair. 
+ Ground electrode with cable (Pediatric) 
+ Ground electrode with cable (adult) 
+ Disposable Concentric needle electrode – 25 pcs 
+ Adapter for needle electrode connection- 1 no. 
+ Disposable surface electrode (set of 100 pcs.) 
+ Adapter for disposable electrodes connection with Alligator Clip (20 cm) – 2 pcs 
+ Gold plated cup electrode -10 pcs. 
+ Jumper Electrode (Pup- jack linker) -4 pcs. 
+Set of stimulators to be supplied along with System: - 
+ Electrical Handheld Stimulator 
+ Visual stimulator (LED goggles) 
+ 17” TFT monitor for VEP. 
+ Auditory stimulator (Headphones). 
+The System Should Be Supplied with: 
+ (Branded Laptop) intel Core i5 Processer with 4 GB RAM, Network card, multimedia Speakers, 
+mouse, Keyboard, Minimum 1TB hard Disk for storing 
+ Laser Printer (B/W) 
+ Movable trolley & Trolley bag. 
+ Operating Manuals and user manual 
+ 
+
+
+--- Page 27 ---
+ 
+AIIMS Rishikesh tender Enquiry No. F.No 24/NCV/EMG/Physio/570/2020-RISH (ADMN) 
+AIIMS, Rishikesh 
+Page 27 
+ 
+ 
+ 
+ 
+ 
+Safety and Electromagnetic Compatibility: - 
+ System should be European CE with 4 digit notified body or USFDA approved and meet 
+international safety standard like IEC and class IIB. 
+ Electromagnetic compatibility (EMC) is provided by IEC 60601- 1-2:2007 requirements 
+Fulfilment. 
+ The digital System is intended for operation in electromagnetic environment. As for safety, the 
+digital System satisfies IEC 60601- 1:1988 + A1: 1991 +A2 :1995, IEC 60601 -1-:2000 and IEC 
+60601-2-40:1998 requirements. 
+ The electronic unit is Supplied by regulated Power Supply through USB interface, it has double 
+isolation and BF type work parts according to IEC 60601-1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

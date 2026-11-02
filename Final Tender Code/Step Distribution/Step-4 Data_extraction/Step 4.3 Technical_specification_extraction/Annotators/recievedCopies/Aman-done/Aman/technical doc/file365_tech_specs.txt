@@ -1,0 +1,228 @@
+--- Page 11 ---
+Tender for Mobile 3 D C- Arm with Flat Panel Detector                                             Admn/Tender/227-3/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page11 
+ 
+Annexure-I 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Mobile 3 D C- 
+Arm with Flat 
+Panel Detector 
+Technical Specification:  
+1.  
+Should be a Versatile compact with facility to allow 
+unobstructed positioning and enhanced ease of operation in 
+operation theatre. C-arm with flat panel and 3D to have 
+following or better mechanics:  
+1.1. 
+ Motorized vertical travel:  
+    MINIMUM 420 mm or more  
+1.2.  
+Horizontal travel:          
+     MINIMUM 210mm or more  
+1.3.  
+Orbital rotation: 
+ 
+     MINIMUM 135 deg or more  
+1.4.  
+Wig Wag movement:   
+        MINIMUM 10 deg or more  
+1.5. 
+Clearance between panel & Tube:  MINIMUM 800mm or more  
+1.6.  
+Radius:  
+ 
+ 
+       MINIMUM 680mm or more  
+1.7.  
+Locking of C-arm movements:      All locks manually.  
+1.8.  
+Versatile user friendly 3D recon facility with the compatibility 
+to present image guidance system with 512 voxel resolution.  
+1.9.  
+Facility / compatibility for virtual fluoroscope  
+1.10.  Radiation indicator lamp on monitor  
+2.  Flat Panel Detector 
+2.1.  
+Flat panel (up to 20 cm x 20 cm) with high resolution screen 
+(up to 1k x 1k image matrix) with integrated Laser target 
+device for proper positioning without radiation.  
+3. TV Camera & Memory  
+3.1.1.  Compact CCD camera with at least 1K x 1K pixels or better, 
+along with Two No. 18” TFT high resolution (1280x1024) 
+monitor mounted on easy to move integrated trolley having 
+facility of recording devices for archiving of images on a hard 
+disk of about 18000 or more images with 1K x 1K – 12 bit, as 
+well as on CD in DICOM 3 format.  
+3.1.2.  DICOM viewer software must be burnt automatically to view 
+images on any PC. Page No. 63  
+3.1.3.  The following feature / facility must be included:  
+3.1.3.1. Digital filters for noise reduction, edge enhancement & 
+motion detector  
+3.1.3.2. Real time image rotation of LIVE & Last Image Hold.  
+3.1.3.3. Mosoic or 4/9/16 i.e. display of multiple image on same 
+monitor  
+3.1.3.4. Display of positive / negative images  
+3.1.3.5. Real time digital subtraction angiography @ upto 25 f/s  
+3.1.3.6. Continuous image acquisition @ 25 f/s & cineloop  
+3.1.3.7. Dose report should be available at the end of each exposure  
+3.1.3.8. Digital adjustment of brightness & contrast.  
+3.1.3.9. Compatible to attached USB printer  
+3.1.3.10. Text overwriting on the image.  
+3.1.3.11. The system must be DICOM ready for storage and print 
+class.  
+3.1.4. X-ray generator  
+3.1.4.1. High frequency at least 20 kHz or more / DC Converter 
+technology powerful X-ray generator (not less than 2 KW) 
+with high capacity Stationary Anode with 0.3 / 0.6 mm focal 
+spot or better with advanced active cooling system.  
+3.1.4.2. High frequency pulse width with pulse up to 25 frames per 
+second  
+ 
+ 
+01 
+
+
+--- Page 12 ---
+Tender for Mobile 3 D C- Arm with Flat Panel Detector                                             Admn/Tender/227-3/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page12 
+ 
+ 
+3.1.5. Fluoroscopy  
+3.1.5.1. KV range:  
+ 
+ 
+40 – 110 KV  
+3.1.5.2. X-ray tube current:   
+up to 8.0 mA or better  
+3.1.5.3. Pulsed fluoroscope facility with selectable pulse rate.  
+3.1.5.4. Boosted fluoroscopy (HDF) snapshot: upto 20mA or better.  
+3.1.5.5. Automatic Dose Rate: Regulation with both KV and mA 
+based on video signal in the central area of the image on TV 
+monitor.  
+3.1.5.6. Fluoroscopic exposure should be possible through hand & foot 
+switch  
+3.1.6. Radiography  
+3.1.6.1. KV range: 
+40 – Minimum (110 KV) 120 KV in 1KV steps  
+3.1.6.2. Current in mA:  at least 20 mA or better. Page No. 64  
+3.1.6.3. Anatomical programme for both fluoroscopy & radiography 
+with facility to store parameter by user / operator.  
+3.1.6.4. Automatic dose control provision  
+3.1.7. Accessories  
+3.1.7.1. The complete functional system must be supplied with 
+requisite CVT & spike suppressor suitable for Indian voltage 
+condition.  
+3.1.7.2. Each unit should be supplied with 10 nos. light weight lead 
+aprons, 12 thyroid guards & one no USB printer along with 12 rolls. 
+4. Important Conditions:  
+4.1. The unit must be AERB type approved & should comply to all   
+safety standards and norms.  
+4.2. Performance certificate from the reputed government institution in 
+India along with user name & contact no for reference should be 
+enclosed in the bid.  
+4.3. Unit demonstration along with requested accessory may be asked 
+during technical evaluation. 4.4. Should have US FDA certified 
+and European CE, certification & attached with the bid.  
+4.5. Should have locally availably call attending and service facility 
+and a personnel should be available on 24 hours prior information 
+in OT for first 6 months to assist in handling the equipment and 
+training local OT staff/OT technician. 
+4.6. Free upgrade of new software which comes before installation of 
+the unit.  
+4.7. 6 no’s of lead free aprons along with thyroid shields, goggles and 
+gloves to be supplied.  
+4.7.1.  They should be light weight, at least 40% lighter than  
+conventional aprons.  
+4.7.2.  Should also be provided with equal number of thyroid shields 
+and radio-opaque glasses (to be fitted over spectacles)  
+4.7.3. Surgeon friendly- should be able to be removed under sterile 
+gown  
+4.7.4. Stuffed shoulder pads for comfort 4.7.5. Should have 0.35 mm 
+lead equivalency  
+4.7.6. Minimum 99.8% attenuation at 60 kVp, 98.1 attenuation at 80 
+kVp, 95.6% attenuation at 100 kVp and 93.7% attenuation at 120 
+kVp direct beam ASTM testing.  
+4.8. The system should come with 5 year full warranty (spares and 
+service). Quotation for maintenance along with spares and services 
+should be provided for additional 5 years. Annual cost of this 
+should be provided up front. Spares should be available for at least 
+10 years after installation. 4.9. There should be 98% uptime 
+
+
+--- Page 13 ---
+Tender for Mobile 3 D C- Arm with Flat Panel Detector                                             Admn/Tender/227-3/2017-AIIMS.JDH
+ 
+ 
+ 
+ 
+ 
+AIIMS-Jodhpur 
+Page13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+warranty. If downtime extends more than 2% a year, the warranty 
+will be extended for double for the downtime period. Page No. 65  
+4.10. A technical person with experience in the software processing 
+should be available on site till the warranty/CMC/AMC  
+4.11. Registration of the equipment and site approval will be the 
+responsibility of the vendor. The institute will provide the 
+necessary documents. 
+
+

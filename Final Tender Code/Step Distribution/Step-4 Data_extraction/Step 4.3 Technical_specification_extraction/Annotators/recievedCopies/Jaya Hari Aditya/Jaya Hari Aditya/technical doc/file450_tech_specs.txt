@@ -1,0 +1,434 @@
+--- Page 10 ---
+Tender for Complete Speech and Voice Lab Including Electroglottography With Nasometer And Phonatory Aerodynamic System                   
+Admn/Tender/28-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 10 
+ 
+Annexure-I 
+ 
+S.No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Complete 
+Speech and 
+Voice Lab 
+Including 
+Electroglotto
+graphy With 
+Nasometer 
+And 
+Phonatory 
+Aerodynami
+c System  
+OBJECTIVE 
+Supply and Installation of complete speech and voice lab alongwith 
+Electroglottography and Nasometer with additional devices such as 
+Phonatory Aerodynamic system as per the modern concepts and as per 
+the specifications given below. The bidder shall be responsible for the 
+complete supply and installation, which shall include but not be limited 
+to the following specifications: 
+A. COMPLETE SPEECH AND VOICE LAB WITH SPEECH 
+SOFTWARE 
+It should be integrated with Hardware and Software package system. With 
+following specs: 
+a. It should have Analog Inputs: 2 XLR/phone-type and 2 phono 
+channels 
+b. It should have Coupling AC or DC (channels 3 and 4 switchable) 
+c. It should haver Sampling Rate 8,000 – 200,000 Hz 
+d. It should have Dynamic Range >90 dB 
+e. It should have Frequency Response Channels 1 & 2: 20 to 88 kHz 
+f. It should have Channels 3 & 4: AC mode: 18 to 88 kHz 
+g. It should have Channels 3 & 4: DC mode: low pass roll off at 88 
+kHz 
+h. It should have Digital Interface AES/EBU or SPDIF format; 
+transformer-coupled- Software Interface ASIO and MME via USB-
+C  or Thunderbolt 3 
+     i.  Computer Interface Half-size PCI card: 5” H x 7.4” W x 0.75” D via 
+USB-C or Thunderbolt 3 
+     j.  Analog Outputs 4 channels: line and speaker, headphone 
+     It should consist of- a. Data Acquisition Card & Audio device (interface 
+card) via USB-C or Thunderbolt 3 
+b. Speaker 
+c. Microphone 
+d. Headphones 
+e. Connection cables 
+f. Adapter for EGG input along with EGG Hardware 
+g. Computerised Speech Lab Main Program software 
+h. Manual and instructions 
+It should consist of following Software’s for Clinical Assessment 
+a. Analysis of Dysphonia in Speech and Voice 
+b. Multi Dimensional Voice Program 
+c. Motor Speech Profile 
+d. Voice Range Profile 
+For Real Time and Therapy Applications, the following should be included 
+a. Real Time Pitch 
+b. Real Time spectrogram 
+c. Real time EGG Analysis 
+d. Auditory Feedback Tools 
+e. Voice Games 
+ 
+B. NASOMETER 
+01 
+
+
+--- Page 11 ---
+Tender for Complete Speech and Voice Lab Including Electroglottography With Nasometer And Phonatory Aerodynamic System                   
+Admn/Tender/28-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 11 
+ 
+The Nasometer should be a PC-compatible hardware and software system 
+that is used to assess and treat patients with cleft palate, motor speech 
+disorders, hearing impairment, and functional nasality problems. 
+1. Weight: approx 1 Kg with DC Input Voltage/ Current: +15VDC at 
+200mA Nominal with protection Against Electrical Shock: Class I 
+equipment which requires a grounded outlet 
+2. Power Supply 
+a. Universal Input Type: 90- 264VAC Input, < 0.5° RMS 
+Input Current at 90VAC   
+b. Input, 47   
+c. 63Hz, Medical Grade, IEC Class I, 6 Foot DC Power Cord 
+d. DC Output: +15V DC at 1.2° (Max), 18W 
+3. Headset/ Cable Assembly 
+a. Custom-designed headset with built in dual microphones 
+and 6.5-feet (2-meter) cable assembly with a ¼” phone 
+plug. 
+b. General Microphone Specifications 
+(i) 
+Frequency Response: 50 Hz – 15,000 Hz 
+(ii) 
+Polar Pattern: Unidirectional 
+(iii) 
+Impedance: 200 ohms 
+(iv) 
+Output Level (Open Circuit Voltage): -67.0 dB/Pa (0.45m) 
+(v) 
+Hum Sensitivity: 38.4 dB equivalent SPL in a milloersted 
+4. USB Cable 
+a. 
+USB-C compliant, 2 meters 
+b. 
+Environmental Specifications 
+(i) 
+Temperature: +10 °C to +40 °C 
+(ii) 
+Relative Humidity: 30% to 90% (non-condensing) 
+(iii) 
+Atmospheric Pressure: 700 mb to 1060 mb 
+ 
+C. PHONATORY AERODYNAMIC SYSTEM 
+A complete PAS system must be a PC/ Mac compatible hardware and 
+software system designed to capture and display phonatory aerodynamic 
+data (pitch, sound pressure, airflow, and air pressure), then perform a 
+number of measurements and calculations on the acquired data in order to 
+obtain analysis results for use in the speech clinic. 
+PAS Specifications 
+ 
+Airflow 
+Full-Scale: 5 L/sec (maximum range of flow-head) 
+Accuracy*: 
+0.0 to 0.5 L/sec +/- 5 mL/sec 
+0.5 to 1.0 L/sec +/- 10 mL/sec 
+1.0 to 1.5 L/sec +/- 25 mL/sec 
+1.5 to 2.0 L/sec +/- 65 mL/sec 
+Bandwidth: DC to 75 Hz 
+Noise (rms) < 4 mL/sec 
+Overload (max.) +/-24 L/sec 
+*Based on averaged airflow. Does not apply to instantaneous 
+measurements. 
+ 
+Intra-Oral Pressure 
+Full-Scale: 100 cm H2O 
+Accuracy*: 
+0 to 50 cm H2O +/- 5 mm H2O 
+
+
+--- Page 12 ---
+Tender for Complete Speech and Voice Lab Including Electroglottography With Nasometer And Phonatory Aerodynamic System                   
+Admn/Tender/28-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 12 
+ 
+50 to 100 cm H2O +/- 10 mm H2O 
+Bandwidth: DC - 75 Hz 
+Noise (rms) < 1 mm H2O 
+Overload (max.) 5 p.s.i. 
+*Based on averaged pressure. Does not apply to instantaneous 
+measurements. 
+192 
+ 
+Microphone Channel 
+Type: Condenser 
+Low Gain Full-Scale (Typical): 120 dB SPL (@ microphone input) 
+Accuracy (@ 104 dB SPL): 2 dB SPL 
+Freq. Response (-3 dB): 50 Hz to 10 kHz @ 22.05 kHz Sample Rate 
+Equivalent Noise Level: < 40 dB SPL (A-weighted, without microphone) 
+Calibration: Microphone calibrated at the factory 
+Gain Selection: 27 dB 
+ 
+Auxiliary Channel 
+Full Scale (Typical): -12 dBV 
+Freq. Response (-3 dB): 5 Hz to 10 kHz @ 22.05 kHz Sample Rate 
+ 
+Enclosure Type 
+Custom enclosure: ABS, V0 Rated, EMI Shielded 
+Dimensions: 6.5” (L) x 9” (W) x 6” (H) 
+ 
+Cable 
+• 9 ft. long 
+• Anchor/strain relief and DB-25 over-molds. 
+• 2.5 mm DC jack 
+• 14-conductor cable, 28 AWG singles (14): 
+• PVC jacket 
+ 
+Data Acquisition Card 
+Type: PCI Card with USB-C/Thunderbolt 3 access, LynxTWO-A, 
+Modified 
+Analog I/O: 
+Type: Four inputs / four outputs, electronically balanced or unbalanced 
+Level: +4dBu nominal / +20dBu max. or -10dBV nominal / +6dBV max., 
+software selectable in channel pairs 
+A/D and D/A convertor Type: 24-bit, multi-level, delta-sigma 
+ 
+Sample Rates: 8 kHz to 200 kHz, including all standard rates with variable 
+adjustment 
+8 kHz < Fs ≤ 12.5 kHz`: 
+ Increments of 62.5 Hz 
+12.5 kHz < Fs ≤ 25 kHz: 
+ Increments of 125 Hz 
+25 kHz < Fs ≤ 50 kHz: 
+ Increments of 250 Hz 
+50 kHz < Fs ≤ 100 kHz: 
+ Increments of 500 Hz 
+<100 kHz: 
+ 
+ Increments of 1000 Hz 
+Analog Input Performance: (measured in 24-bit mode with card installed in 
+computer) 
+Frequency Response:  20 - 20 kHz, ± 0.05 dB at 44.1 kHz sample 
+rate 
+Dynamic Range; 
+ 
+ 117 dB, A-wtd. 
+Signal-to-Noise: 
+ 
+ 116 dB, A-wtd. 
+
+
+--- Page 13 ---
+Tender for Complete Speech and Voice Lab Including Electroglottography With Nasometer And Phonatory Aerodynamic System                   
+Admn/Tender/28-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 13 
+ 
+Channel Crosstalk: 
+ <-120 dB, 1 kHz signal @ -1dBFS 
+THD+N: 
+ 
+ -104 dB (0.0006%) @ -8 dBFS, 
+  1kHz signal 22Hz-22kHz BW 
+ 
+Analog Output Performance: (measured in 24-bit mode with card installed 
+in computer) 
+Frequency Response:  20 - 20 kHz, ± 0.05 dB at 44.1 kHz sample 
+rate 
+Dynamic Range:  
+ 
+117 dB, A-wtd. 
+Signal-to-Noise:  
+ 
+117 dB, A-wtd. 
+Channel Crosstalk:  
+<-120 dB, 1 kHz signal @ -1dBFS 
+THD+N: 
+ 
+ -104 dB (0.0006%) @ -8 dBFS, 
+ 1kHz signal 22Hz-22kHz BW 
+ 
+Windows Drivers for latest Windows Professional OS. 
+Mac OS drivers for latest OSX : MME, ASIO 2.0, and DirectSound 
+PCI Bus: Version 2.2 compliant with connectivity to USB-C/Thunderbolt 
+3 
+Size: 5.0” H X 7.4” W X 0.75” D (half-size PCI card with USB-C/ 
+Thunderbolt 
+3) 
+Certifications: CE and FCC Class B 
+Input Power: 100-240 VAC, 50-60 Hz, 0.5A 
+ 
+Power Supply 
+Type: Universal AC Input, Medical Grade 
+Model: MW117RA1203F01 
+Manufacturer: Ault 
+Output: +12V DC, .85A 
+Expected Usage: 1.8 W (max.) 
+Weight: 5.50 ounces 
+ 
+Environmental 
+Operating Temperature: +10 °C to +40 °C 
+Relative Humidity: 30% to 90% (non-condensing) 
+Atmospheric Pressure: 700 mb to 1060 mb 
+ 
+Storage/Transportation: 
+Temperature: +10 °C to +40 °C 
+Relative Humidity: 30% to 90% (non-condensing) 
+Atmospheric Pressure: 700 mb to 1060 mb 
+ 
+ 
+COMPUTER specifications- a. (Two Units): 
+ Processor: Intel Core i7-2600@3.40GH 
+ Memory: 16GB DDR3 SD RAM 
+ Graphics: Intel Integrated HD Graphics 2000 
+ Hard Disk: 1 TB SSD x 2 (in RAID 1 mode) 
+ Features: Wireless networking & Ethernet Provision 
+ Ports: USB-3 Ports and USB 2 ports 
+ One full height, half size PCI SLOT (5’’HX7.4’’WX0.75’’D) 
+ Monitor: 22” LED 
+ 
+ OS: Microsoft Window 10 
+ Laser Multifunction Printer (Three Units): 
+ UPS 1 KVA compatible for the whole system (Two Units): 
+
+
+--- Page 14 ---
+Tender for Complete Speech and Voice Lab Including Electroglottography With Nasometer And Phonatory Aerodynamic System                   
+Admn/Tender/28-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 14 
+ 
+ 
+b. One unit of design, editing and storage system which should consist 
+of an off-line licensed workstation with 
+ 3.2 GHz Intel x core processor 
+ Turbo boost upto 4.2GHz 
+ 32 GB, 2666 MHz ECC memory 
+ 1 TB SSD storage in addition to 5 TB external hard drive for data 
+storage and should be compatible with system provided. 
+ Radeon Pro Vega 56 with 8 GB HBMZ Memory 
+ 10 GB Ethernet access 
+ Four Thunderbolt 3 ports 
+ Wi-Fi Connectivity 
+ Latest Mac OS and latest Windows Professional OS loaded, 
+licensed software for analyzing and quantification of 2D and 3D 
+datasets. 
+ Licensed Microsoft Office Professional software for both Windows 
+and Mac OS X Preloaded. 
+ CD/DVD writer with image management software.  
+ High end colour laser printer with auto duplexing and colour print 
+glaze paper- 500 sheets.  
+ One set of color laser printer (compatible) cartridges, in addition to 
+that supplied with printer 
+ 
+ 
+ 
+ 
+D. ELECTROGLOTTOGRAPH 
+ 
+The Electroglottograph should be a PC & Mac-compatible hardware 
+and software system that is to be used to do phonatory assessment, give 
+visual feedback to patients and perform documentation in Speech and 
+Voice analysis. 
+Electroglottograph specifications 
+Output Voltage Range: 7.5V P-P maximum down to 40mV P-P noise  
+Output 
+Impedance: 
+Bandwidth: 
+150Ω 
+Signal to Noise Ratio: ±0.5dB between 10 Hz and 5 kHz 30 to 40dB 
+(depending on speaker)  
+Internal 
+Voltage 
+Levels: 
+±3V 
+to 
+±4.5V 
+Power Supply: 15V unregulated wall mount  
+Output 
+Level 
+Indicator: 
+30dB 
+range 
+bar 
+display 
+Output 
+Level 
+Control: 
+Dimensions: 
+Via 
+a 
+linear 
+control 
+Dimensions: 2.75” (H) x 8.25” (W) x 9.25” (D)  
+Weight: Less than 2 lbs  
+ 
+Other Requirements- 
+
+
+--- Page 15 ---
+Tender for Complete Speech and Voice Lab Including Electroglottography With Nasometer And Phonatory Aerodynamic System                   
+Admn/Tender/28-2/2020-AIIMS.JDH 
+AIIMS Jodhpur 
+Page 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-II 
+ Rates of the spares/accessories/consumables which are not covered 
+under guarantee/warrantee should be- quoted individually and by 
+the company (item not mentioned in the list are assumed under 
+comprehensive warranty and company have to provide for proper 
+function of equipment) and should be freezed for five years from 
+the date of installation. Any spares/accessories/consumables not 
+quoted by the company will be presumed to be supplied free by the 
+company. 
+ Satisfactory 
+Performance 
+Certificate 
+from 
+three 
+Central 
+Government Hospital (AIIMS, PGI, SGPGI etc.) is mandatory. 
+ The instruments might be called for demonstration and approval. It 
+is the sole discretion of the committee to approve or disapprove the 
+quality. 
+ It should be European CE (with a four digit notifiable body) or 
+USFDA approved. 
+ All the equipment including all the accessories should be provided 
+with the detailed data sheet/ along with the original brochure of the 
+quoted model (Photocopies/Print outs are not accepted). 
+ An undertaking to be provided by the principal/manufacturer of the 
+system for availability of spares for 10 years for the date of 
+installation. 
+
+

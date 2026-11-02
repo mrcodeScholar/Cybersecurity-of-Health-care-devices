@@ -1,0 +1,436 @@
+--- Page 10 ---
+ Tender for Pediatric Multipara Monitor                                                                          Admn/Tender/220/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 10 
+ 
+Annexure-I 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Pediatric 
+Multipara 
+Monitor 
+1. Distribution outline:    
+                       • Basic parameters (ECG/heart rate, O2 saturation, NIBP, respiration & 
+temperature) – in all monitors 
+ 
+ 
+ 
+ 
+ 
+  
+•Invasive BP module: in all monitors  
+•Microstream end tidal CO2 module monitor in four monitors 
+ 
+  •EEG module: in 1 monitor  
+ 
+ 
+ 
+ 
+ 
+•2 no interchangeable module of transcutaneous pCO2/po2 should be 
+supplied with complete system of 13 montiors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.General: 
+ 
+Modular system with network LAN port to connect to a central station. 
+Quoted central station should have the capability to store trends 96-120 
+hrs with capability to hold the data for 3 days even after discharge of the 
+patient. Central station should have HL 7 data output port to 
+communicate with HIS or ICU integration system.  
+ 
+ 
+ 
+• 
+The equipment should come with all standard accessories required to 
+run all parameters suitable for all patient categories, ie. Infants, children 
+and adolescents. 
+ 
+• Waveform display: at least 6 channels, user selectable Digital display: 
+Heart rate, respiratory rate, oxygen saturation, temperature, Blood
+ 
+Pressure (systolic, diastolic, mean), EtCO2.  
+ 
+ 
+ 
+ 
+• Should be upgradable for measurement of cardiac output/SvO2  
+• 
+Should be possible to move the EEG modules from one monitor to 
+another, Should be able to remotely access the patient monitoring 
+system via internet  
+ 
+ 
+ 
+ 
+ 
+• 
+System should be compatible with HIS and be HL-7 compliant
+ 
+ 
+• 
+Ready to run web based applications like HIS, PACS, RIS, LIS etc on 
+patient monitor screen itself without need of additional server/PC 
+hardware and software as standard supply. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.Individual Monitors : 
+                       •Wall mountable and pivot able Medical grade, TFT Flat screen, slim 
+size, at least 19‖ touchscreen display 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Screen resolution at least 1280x1024 pixels  
+• 
+Clear bright color display with large character size  
+• 
+Should have both remote/ mouse control and knob control/ touch   
+screen  
+• 
+Viewing angle at least 90o  
+• 
+Adjustable contrast and brightness  
+• 
+Ability to zoom any parameters  
+• 
+Ability to adjust individual alarms  
+• 
+Ability to change color of the trace by user 
+•       RS 232 serial data output provision (peripheral printer or network),                         
+analogue output for ECG  
+• 
+UPS system with at least 1 hour backup time  
+• 
+ Should provide a high quality inbuilt thermal recorder 
+interchangeable module, 1 no with each monitor  
+• 
+Store and review trends for at least 48 hours 
+4. Parameters monitored : 
+13 
+
+
+--- Page 11 ---
+ Tender for Pediatric Multipara Monitor                                                                          Admn/Tender/220/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+The following modules complete with their accessories: 
+• 
+Heart rate/ECG  
+• 
+Respiration  
+• 
+Oxygen saturation  
+• 
+Temperature  
+• 
+Noninvasive Blood pressure  
+• 
+Invasive blood pressure  
+• 
+Microstream / Mainstream EtCO2 (four monitors)  
+• 
+EEG (1 monitor)  
+ 
+5.Heart rate/ECG: 
+• 
+At least 3-lead selectable ECG  
+• 
+Built in arrhythmia monitoring in all leads  
+• 
+Inbuilt ST segment analysis and arrhythmia detection facility  
+• 
+Display of 2 ECG leads simultaneously at a time  
+• 
+Heart rate range 30-300 bpm  
+• 
+Accuracy + 5 bpm  
+• 
+Display sweep speeds 12.5, 25 mm/sec (user adjustable)  
+• 
+Averaging time: user selectable up to 8 seconds  
+• 
+ECG amplitude user adjustable  
+• 
+Defibrillator protected 
+  
+6.Respiratory rate 
+• 
+Measured by transthoracic impedance using the same ECG lead  
+• 
+Range 6 to 120 breaths/min  
+• 
+Accuracy + 2 bpm  
+• 
+Display sweep speeds 6.25, 12.5 & 25 mm/sec (user adjustable)  
+• 
+Averaging time: user selectable up to 8 seconds  
+• 
+User selectable apnea alarm time  
+ 
+7.Oxygen Saturation  
+• 
+Masimo-SET technology to take care of low perfusion states and 
+motion artifacts  
+• 
+Dual wavelength LED pulse oximetry  
+• 
+Range 1 to100%  
+• 
+SpO2 accuracy : + 2 % ( 70-100% range)  
+• 
+Averaging time: user selectable up to 8 seconds  
+• 
+Plethysmography waveform display 
+ 
+8.Temperature 
+• 
+Skin type capable of recording both central and peripheral skin 
+temperature:2 temperature sensors available,1 for central and one 
+for peripheral skin  
+• 
+Continuous digital display of two site temperatures  
+• 
+Range: 25-50 degree Celsius  
+• 
+Resolution: ± 0.1 degree Celsius  
+• 
+Accuracy: + 0.1 degree Celsius  
+ 
+9. Noninvasive Blood pressure :  
+• 
+Capable of measuring blood pressure in infants, children upto 18 
+years of age  
+• 
+Microprocessor software with unit in mmHg  
+• 
+Oscillometric technique  
+• 
+Manual, auto and time limited stat modes  
+• 
+User selectable automatic time intervals  
+• 
+Display systolic, diastolic and mean BP  
+
+
+--- Page 12 ---
+ Tender for Pediatric Multipara Monitor                                                                          Admn/Tender/220/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 12 
+ 
+• 
+Blood pressure range  
+Systolic: 20- 250 mm Hg 
+Diastolic: 10-120 mm Hg 
+Mean: 20 – 100 mmHg 
+• 
+Pulse rate range : 30-300 bpm  
+• 
+Cuff : auto deflate with over pressure protection  
+• 
+Should automatically establish zero reference after each reading  
+10. Invasive Blood pressure  
+• 
+At least 2 channels  
+• 
+Compatible with reusable and disposable pressure transducers  
+• 
+Transducer should allow continuous infusion into the artery 
+through an infusion pump while pressure is simultaneously 
+displayed  
+• 
+Input through pressure transducer that functions through a fluid 
+filled catheter system  
+• 
+Unit: mmHg  
+• 
+Should allow continuous fluid infusion into the artery /vein 
+through an infusion pump without any volume limitation  
+• 
+Compatible with arterial BP, CVP, pulmonary artery pressure and 
+intracranial pressure monitoring catheters  
+• 
+Range 0-300 mmHg  
+• 
+Display resolution: ±1 mmHg  
+• 
+Accuracy ± 1mmHg  
+• 
+Digital waveform display  
+• 
+User selectable pressure channel display  
+11. 
+EEG  
+• 
+ EEG module should be interchangeable with any of the 5 
+monitors 
+• 
+Input: 3 lead (Std, left, right)  
+• 
+Sensitivity: 20, 50,100,250/µV/cm  
+• 
+Display: Left or right sided waveform  
+• 
+Small, cup type EEG electrodes and lead set kit suitable for 
+pediatric and adult use with a low impedance  
+12.  
+Microstream end tidal capnography (EtCO2) 
+            Module should be interchangeable with any of the 5 monitors 
+• 
+Micro stream technology with pediatric and adult mode  
+• 
+Display of both waveform and numerical values  
+• 
+Measured parameters: EtCO2, CO2 waveform, Respiratory rate  
+• 
+CO2 range – 0-150 mmHg  
+• 
+Respiratory rate – 0-150 breaths / min  
+• 
+Display – in mmHg and %  
+• 
+Accuracy - ±2 mmHg (0-38 mmHg)  
+13. User selectable alarms 
+• 
+High and low heart rate  
+• 
+High and low respiratory rate  
+• 
+Apnea with adjustable time 5-20 seconds  
+• 
+High and low saturation  
+• 
+High and low SBP  
+• 
+High and low DBP  
+• 
+High and low MAP  
+• 
+High and low EtCO2  
+• 
+Probe failure  
+• 
+Poor signal  
+• 
+Power failure  
+• 
+Audio & visual alarms with message  
+14. Trends  
+
+
+--- Page 13 ---
+ Tender for Pediatric Multipara Monitor                                                                          Admn/Tender/220/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 13 
+ 
+ 
+• 
+Memory storage : at least 48 hours   
+• 
+Data display interval : 1 minute  
+• 
+Display range : last ½ hour to 24 hours  
+• 
+Graphical and tabular format of display of variables  
+15. Power 220/240 V  
+50/60 Hz AC 
+Rechargeable battery with a backup of atleast 1 hr/ UPS should be 
+provided 
+16. 
+Manuals: Operator & service manuals  
+17. 
+Should be approved & certified by FDA (USA) and European CE  
+18. 
+Manufacturer should have ISO certification for quality standards  
+19. 
+Shall meet the safety requirements as per IEC 60601-2-27:1994—
+Medical electrical equipment—Part 2: Particular requirements for the 
+safety of electrocardiographic monitoring equipment  
+20. 
+ Availability of consumables and spares for the full period of 
+warranty and CMC. Cost of consumables and accessories should be 
+quoted separately in the financial bid. 
+21. 
+Warranty and CMC would include the periodic calibration of all 
+parameters strictly as per manufacturer’s recommendations and any 
+spares or standards required for that.  
+22. 
+Onsite physical demonstration of the monitor with all the 
+requested modules will be mandatory.  
+23. 
+Quote separate price for web browsing facility in price bid. Also 
+mention that how many beds can be connected with a single server.  
+23. Essential Accessories for 12 monitors 
+The following quantities are to be supplied with the initial order: 
+ECG/Respiration  
+• ECG patient cable: 25 • ECG lead wires set (at least 5 leads): 25 sets  
+Disposable ECG electrodes for infants, pediatrics and adults:250 sets 
+of each (set of 3) Oxygen saturation  
+• Patient extension cables: 25  
+• Reusable wrap around probes: 25  
+• Reusable Y shaped finger probe:25  
+• Reusable ear probe — • 10 Temperature  
+• Reusable surface (skin) temperature probes: 25  
+• Reusable rectal probe with cover kit: 25 NIBP 
+• Patient extension cable — 25 • Disposable NIBP cuff of size 
+suitable for neonates (>2000g): 250 no.  
+• Reusable cuffs of pediatric and adult size-8 each with each monitor 
+IBP  
+• Transducer connecting cables: 15  
+• Reusable pressure transducer: 10  
+• Disposable pressure dome kit with flush device:125  
+Micro stream capnography (EtCO2) • Disposable EtCO2 sensors: 
+Through ET tube: 250 EEG  
+• Patient cable: 3 • Small, cup type EEG electrodes suitable for infants 
+with lead set kit: 3 
+24. 
+The unit shall be capable of being stored continuously in ambient 
+temperature of 0-50deg C and relative humidity of 15-90%  
+25. 
+The unit shall be capable of operating continuously in ambient 
+temperature of 10 -50 deg C and relative humidity of 15-90%  
+26. 
+User/Technical/Maintenance manuals to be supplied in English.  
+27. 
+Certificate of calibration and inspection.  
+28. 
+List of important spare parts and accessories with their part 
+number and costing. 
+
+

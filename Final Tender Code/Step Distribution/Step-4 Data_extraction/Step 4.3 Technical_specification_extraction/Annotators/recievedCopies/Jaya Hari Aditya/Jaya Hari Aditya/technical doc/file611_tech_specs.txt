@@ -1,0 +1,101 @@
+--- Page 16 ---
+NIT No. : AIIMS/R/CS/Micro/1/2017 
+ 
+ 
+Page 16 of 20 
+ 
+ANNEXURE-I 
+Technical Specification 
+ 
+Technical Specification for "Automated Anaerobic Jar System" for  
+Department of Microbiology  
+ 
+ 
+1) It should be an automated Anaerobic Jar system which can generate and maintain anaerobic 
+conditions within the jar. 
+ 
+2) It should be a tabletop model with small footprint.  
+ 
+3) The equipment should be efficient enough to produce any non-hazardous gas atmosphere 
+within the transparent jars, by programming. 
+ 
+4) It should be able to mix gases from different gas cylinders/anaerobic mix gas, including O2, CO2 
+or CO. 
+ 
+5) User should be able to set percentage of gases through touch screen and the system should 
+have enough memory to store multiple programs for future use. 
+ 
+6) All controlled conditions like Hypoxic, Capnophiic, Anaerobic and microaerophilic should be 
+reproducible and stay within 0.5% of the desired value. 
+ 
+7) It should be fully automatic so that the user can attend other work while the equipment 
+processes the jar/jars. It should be able to eliminate human error. 
+ 
+8) It should have a touch screen display for easy/simple operation. 
+ 
+9) It should have quality assurance features to identify leakages in low pressure, high pressure & 
+Atmospheric pressure in its jars. It should be able to identify non-regenerated catalysts (Active 
+– Non active catalysts) and non-availability of gases from cylinders, before starting the gas 
+filling of jars or prior to detaching jars for incubation. 
+ 
+10) The equipment should stop and give details of reasons for failures mentioned in specification 
+number 9 on the screen with proper color codes, so that user can rectify the defect & restart 
+the anaerobic process.  
+ 
+11) It should have provision to fix filter to prevent microbial contamination of the laboratory & 
+hospital environment in the interest of safety & health benefit of hospital employees & 
+patients. 
+ 
+12) It should keep the jar atmosphere with appropriate humidity to prevent drying and cross 
+contamination. 
+13) It should be flexible enough so that a programmable model should be able to produce optimal 
+conditions for each strain or cells in separate jars. 
+ 
+14) It should be a cost efficient system in terms of minimum consumption of gases & low 
+maintenance. It should work without any disposables and chemicals. 
+
+
+--- Page 17 ---
+NIT No. : AIIMS/R/CS/Micro/1/2017 
+ 
+ 
+Page 17 of 20 
+ 
+ 
+15) It can work with transparent anaerobic jars of its own or with modified ordinary metallic 
+anaerobic jars which don’t leak.  
+ 
+16) The vacuum pump should be incorporated to the body of the equipment. 
+ 
+17) It should be upgradable so that if basic instrument is purchased, it can be upgraded to full-
+fledged equipment to handle 3 gases or jars, with all high end programming facilities in it. 
+ 
+18) It should have options for its own printer connection, LAN Connection & barcode scanning to 
+identify specimens.  
+ 
+19) The equipment should come with arrangements for supply of Indian items like gas cylinders, 
+pressure regulators etc.  
+ 
+20) It should preferably have at least 10 years of working installations in government medical 
+institutions and colleges. 
+ 
+21) It should be supplied with arrangements for two years free refilling of Anaerobic Mix gas with 
+arrangement for transport of gas cylinders to & fro. 
+ 
+22) Electrical Power: 220-240 V; 50-60 Hz, 1.5 KW 
+ 
+23) It should have a warranty of one year. 
+ 
+24) AMC will be for four years. 
+ 
+ 
+Store Officer 
+AIIMS, Raipur 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

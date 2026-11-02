@@ -1,0 +1,74 @@
+--- Page 11 ---
+Tender for Non Invasive Cerebral Oximeter Monitor                                                Admn/Tender/52/2017-AIIMS.JDH 
+ 
+ 
+ 
+         
+AIIMS-Jodhpur 
+Page 11 
+ 
+Annexure-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. No 
+Item 
+Technical Specification 
+Qty 
+01. 
+Non Invasive 
+Cerebral 
+Oximeter 
+Monitor 
+1. Cerebral/ Somatic Oximeter Monitor  
+i. The monitor should measure noninvasively changes in regional 
+blood oxygen saturation in the brain and skeletal muscle tissue 
+of the body. 
+ii. It may be used for cerebral oximetry, somatic oximetry or both 
+simultaneously. 
+iii. It can be used for adult, pediatric and neonatal patients in any 
+clinical setting where the brain and body are at risk of reduced-
+flow or no-flow ischemic states. 
+iv. It is either four or six data channels.  
+v. User-friendly System with pre-calibration and ready to use in 
+30 seconds. 
+2. Weight Not more than 6kg 
+3. Preamplifier Cable’s Length must be 4.5 -5m & Soma Sensor 
+Cable Length must be 1.5 -2 .00 m 
+4.  Operationally it must have following: 
+i. Range of rSO2 14 – 96(updated every 4 – 8 seconds) 
+ii. Alarm Limit Range  High: 19 – 97; Low: 14 – 92  
+iii. Trend Memory 24 hours at 2 samples per minute 28 cases 
+saved in memory 
+iv. Diagnostics Automatic self-test Safety Class Continuous 
+Operation 
+v. Type BF Class I electrical certification. 
+vi. Power External AC mains or battery backup 20 minutes 
+5. Operational Electrical details must be as following: 
+i. Digital Output RS-232 communications 
+ii. USB Por;t USB 2.0 Flash Memory 
+6. Regulatory Standards 
+i. The System must  comply with the following U.S. and 
+international regulatory standards for medical equipment: UL 
+60601-1 CSA C22.2.601.1 EN 60601  
+ii. Must have US FDA  Certificate for all the patient Categories 
+7. The Cerebral / Somatic Oximeter System Must include 
+i. Cerebral Oximeter Preamplifier with Cable, Channel 1 & 2 
+ii. Reusable Sensor Cable, Channel 1 
+iii. Reusable Sensor Cable, Channel 2 
+iv. 09USB Flash Drive 
+v. Power Cord 
+8. Rate of  Disposable items/ Sensors coted separately  
+9. Consumable must be supplied with each monitor  
+Disposable Cerebral Neonatal Sensor (<5 kg)  -  10 
+Disposable Somatic Neonatal  Sensor  (<5 kg) -  10 
+Disposable Pediatric sensor (<40 kg) – 10  
+Disposable Adult sensor (>40 kg) - 20  
+01 
+
+

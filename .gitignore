@@ -1,12 +1,5 @@
-Advisory/Analysis/cvedata/
 
-# Ignore large JSON and HTML data files
-Tender/**/*.json
-Tender/**/*.html
-
-
-
-# Or, be more selective:
+#  be more selective:
 Tender/Tender analysis/tender_data.json
 Tender/Final Tender Code/Step Distribution/Step-3 Data_extraction/step 3.2 Json_pdf_title_extraction/Extraction/
 Tender/Final Tender Code/Step Distribution/Step-4 Analysis/output_data.json
@@ -17,3 +10,16 @@ Tender/Final Tender Code/Step Distribution/Step-4 Analysis/check.html
 __pycache__/
 *.pyc
 
+Advisory/Analysis/cvedata/
+**/extracted_pdf_data.json
+**/tender_titles.json
+**/preserved_entries.html
+**/output_data.json
+**/cleaned_files.json
+
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+*.tmp
+*.log
